@@ -1,0 +1,17 @@
+beautifulsoup4==4.13.3
+certifi==2025.1.31
+chardet==5.2.0
+charset-normalizer==3.4.1
+dnspython==2.7.0
+future==1.0.0
+gutenbergpy==0.3.5
+httpsproxy_urllib2==1.0
+idna==3.10
+lxml==5.3.1
+pymongo==4.11.2
+requests==2.32.3
+setuptools==75.8.2
+soupsieve==2.6
+typing_extensions==4.12.2
+urllib3==2.3.0
+Wikipedia-API==0.8.1
