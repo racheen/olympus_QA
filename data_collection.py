@@ -1,9 +1,10 @@
 import requests
-import wikipediaapi
+# import wikipediaapi 
 import gutenbergpy.textget
 import os
 from bs4 import BeautifulSoup
 
+""" 
 def fetch_wikipedia_pages(topic_list, save_dir="wikipedia_data"):
     os.makedirs(save_dir, exist_ok=True)
     user_agent = "MyMythologyBot/1.0 (tumu0009@algonquinlive.com)"
@@ -18,7 +19,7 @@ def fetch_wikipedia_pages(topic_list, save_dir="wikipedia_data"):
             print(f"Saved Wikipedia page: {topic}")
         else:
             print(f"Page {topic} not found.")
-
+"""
 def fetch_gutenberg_text(book_id, save_dir="gutenberg_data"):
     os.makedirs(save_dir, exist_ok=True)
     text = gutenbergpy.textget.get_text_by_id(book_id)
