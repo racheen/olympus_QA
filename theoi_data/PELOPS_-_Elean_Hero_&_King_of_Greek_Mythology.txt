@@ -1,0 +1,3396 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PELOPS - Elean Hero &amp; King of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Pelops was a king of the Elean city of Pisa and the eponymous overlord of the western Peloponnesos--the so-called Island of Pelops. The young Pelops came to Greece from Lydia to compete for the hand of Hippodamia, daughter of King Oenomaus of Pisa. The king would slay his daughter's suitors as he overtook them in a chariot race, so Pelops bribed the charioteer Myrtilus to tamper with the axle. Oenomaus was killed as a result and Pelops seized control of the kingdom. When Myrtilus demanded his reward, he treacherously cast him off a cliff into the sea. The dying man called down a curse upon his house which would plague Pelops and his descendants for many generations to come." name="description"/>
+  <meta content="Pelops, Greek mythology, hero, king of Pisa, overlord of the Peloponnese, eponym of the Peloponnese" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-field.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Kings &amp; Heroes
+     </a>
+     &gt;&gt; Pelops
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     PELOPS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Πελοψ
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Pelops
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Pelops
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Dark-Eyed (
+       <em>
+        pelios, ops
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     PELOPS was  a king of the Eleian city of Pisa and the eponymous overlord of the western Peloponnesos, the so-called "Island of Pelops".
+    </p>
+    <p>
+     His father King Tantalos of Lydia was impious man who, wishing to test the fallibility of the gods, butchered the young Pelops and served him at a feast of the gods.
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     recognised the deception, cast Tantalos into Haides for eternal torment, and had the boy resurrected by the
+     <a href="../Daimon/Moirai.html">
+      Moirai
+     </a>
+     . The Fates collected up his remains and cast them into a boiling cauldron, restoring his form except for his left shoulder which had inadvertently been devoured by the goddess
+     <a href="../Olympios/Demeter.html">
+      Demeter
+     </a>
+     . This they replaced with one made of ivory.
+    </p>
+    <p>
+     The young Pelops became a lover of the god
+     <a href="../Olympios/Poseidon.html">
+      Poseidon
+     </a>
+     who provided him with a chariot drawn by swift--some say winged--horses. He later travelled across the sea to Greece to compete for the hand of Hippodameia, daughter of  King Oinomaos (Oenomaus) of Pisa. The king would slay  his daughter's suitors as he overtook them in a chariot race, so Pelops bribed the charioteer Myrtilos to tamper with the axle. Oinomaos was killed as a result and Pelops seized control of the kingdom. When Myrtilos demanded his reward, he treacherously cast him off a cliff into the sea. The dying man called down a curse upon his house which would plague Pelops and his descendants for many generations to come.
+    </p>
+    <p>
+     Pelops quickly grew his empire and came to control most of the western Peloponnesos. His rival in the east was King Perseus of Argos, but the two houses formed an alliance with the marriage of the daughters of Pelops to the sons of Perseus.
+    </p>
+    <p>
+     Pelops was one of the most important founding-kings of myth. His descendants included Herakles, Eurystheus, Theseus, Atreus, Agamemnon and Menelaus.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF PELOPS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1] TANTALOS
+     <span class="family-refs">
+      (Cypria Frag 12, Pindar Olympian 1.36, Apollodorus E2.2, Lycophron Alexandra 53, Diodorus Siculus 4.73.5, Pausanias 2.22.3 &amp; 2.25.10, Ovid Heroides 17.54, Fulgentius 2.25)
+     </span>
+     <br/>
+     [1.2] TANTALOS &amp; EURYNASSA
+     <span class="family-refs">
+      (Plutarch Parallel Stories 33)
+     </span>
+     <br/>
+     [1.3] TANTALOS &amp; DIONE
+     <span class="family-refs">
+      (Hyginus Fabulae 83)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] ATREUS, THYESTES
+     <span class="family-refs">
+      (Homer Iliad 2.104)
+     </span>
+     <br/>
+     [1.2] 6x sons (by Hippodameia)
+     <span class="family-refs">
+      (Pindar Olympian 1.88)
+     </span>
+     <br/>
+     [1.3] PITTHEUS, (mother of) ALKMENE
+     <span class="family-refs">
+      (Euripides Heracleidae 204, Euripides Medea 683)
+     </span>
+     <br/>
+     [1.4] ATREUS, THYESTES, ASTYDAMEIA, LYSIDIKE, NIKIPPE
+     <span class="family-refs">
+      (Apollodorus 2.4.5)
+     </span>
+     <br/>
+     [1.5] ATREUS, THYESTES, PITTHEUS (by Hippodameia)
+     <span class="family-refs">
+      (Apollodorus E2.10)
+     </span>
+     <br/>
+     [1.6] ALKATHOUS
+     <span class="family-refs">
+      (Apollodorus 3.12.7, Pausanias 1.41.3)
+     </span>
+     <br/>
+     [1.7] KOPREUS
+     <span class="family-refs">
+      (Apollodorus 2.5.1)
+     </span>
+     <br/>
+     [1.8] SKEIRON
+     <span class="family-refs">
+      (Apollodorus E1.2)
+     </span>
+     <br/>
+     [1.9] EURYDIKE
+     <span class="family-refs">
+      (Diodorus Siculus 4.9.1)
+     </span>
+     <br/>
+     [1.10] PITTHEUS
+     <span class="family-refs">
+      (Plutarch Theseus 3.1)
+     </span>
+     <br/>
+     [1.11] PITTHEUS, LYSIDIKE
+     <span class="family-refs">
+      (Plutarch Theseus 7.1)
+     </span>
+     <br/>
+     [1.12] ATREUS, THYESTES (by Hippodameia)
+     <span class="family-refs">
+      (Plutarch Parallel Stories 33, Hyginus Fabulae 85)
+     </span>
+     <br/>
+     [1.13] PITTHEUS, TROIZENOS
+     <span class="family-refs">
+      (Pausanias 2.30.8)
+     </span>
+     <br/>
+     [1.14] KLEONES
+     <span class="family-refs">
+      (Pausanias 2.15.1)
+     </span>
+     <br/>
+     [1.15] EPIDAUROS
+     <span class="family-refs">
+      (Pausanias 2.62.2)
+     </span>
+     <br/>
+     [1.16] SIKYON
+     <span class="family-refs">
+      (Pausanias 2.6.5)
+     </span>
+     <br/>
+     [1.17] LETREUS
+     <span class="family-refs">
+      (Pausanias 6.22.8)
+     </span>
+     <br/>
+     [1.18] LYSIDIKE
+     <span class="family-refs">
+      (Pausanias 8.14.2)
+     </span>
+     <br/>
+     [1.19] ATREUS, THYESTES, HIPPALKOS (by Hippodameia)
+     <span class="family-refs">
+      (Hyginus Fabulae 84)
+     </span>
+     <br/>
+     [1.20] HIPPALKIMOS (by Hippodameia)
+     <span class="family-refs">
+      (Hyginus Fabulae 14)
+     </span>
+     <br/>
+     [2.1]
+     <a href="Khrysippos.html">
+      KHRYSIPPOS
+     </a>
+     <span class="family-refs">
+      (Apollodorus 3.5.5, Aelian Miscellany 13.5, Hyginus Fabulae 85)
+     </span>
+     <br/>
+     [2.2]
+     <a href="Khrysippos.html">
+      KHRYSIPPOS
+     </a>
+     (by Danais)
+     <span class="family-refs">
+      (Plutarch Parallel Stories 33)
+     </span>
+     <br/>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     PELOPS (Pelops), a grandson of Zeus and son of Tantalus and Dione, the daughter of Atlas. (Hygin.
+     <em>
+      Fab.
+     </em>
+     83; Eurip.
+     <em>
+      Orest.
+     </em>
+     init.) As he was thus a great-grandson of Cronos, he is called by Pindar Kronios (
+     <em>
+      Ol.
+     </em>
+     iii. 41), though it may also contain an allusion to Pluto, the mother of Tantalus, who was a daughter of Cronos. Some writers call the mother of Pelops Euryanassa or Clytia. (Schol.
+     <em>
+      ad Eurip. Orest.
+     </em>
+     5, 11; Tzetz
+     <em>
+      ad Lyc.
+     </em>
+     52; comp. Apostol.
+     <em>
+      Centur.
+     </em>
+     xviii. 7.) He was married to Hippodameia, by whom he became the father of Atreus (Letreus, Paus. vi. 22. § 5), Thyestes, Dias, Cynosurus, Corinthus, Hippalmus (Hippalcmus or Hippalcimus), Hippasus, Cleon, Argeius, Alcathus, Aelius, Pittheus, Troezen, Nicippe and Lysidice. (Apollod. ii. 4. § 5; Schol.
+     <em>
+      ad Eurip. Orest.
+     </em>
+     5.) By Axioche or the nymph Danais he is said to have been the father of Chrysippus (Schol.
+     <em>
+      ad Eurip. l.c. ;
+     </em>
+     Plut.
+     <em>
+      Parall. min.
+     </em>
+     33), and according to Pindar (i. 89) he had only six sons by Hippodanieia, whereas the Scholiast (
+     <em>
+      ad Ol.
+     </em>
+     i. 144) mentions Pleisthenes and Chrysippus as sons of Pelops by Hippodaineia. Further, while the common accounts mention only the two daughters above named, Plutarch (
+     <em>
+      Thes.
+     </em>
+     3) speaks of many daughters of Pelops.
+    </p>
+    <p>
+     Pelops was king of Pisa in Elis, and from him the great southern peninsula of Greece was believed to have derived its name Peloponnesus; the nine small islands, moreover, which were situated off the Troezenian coast, opposite Methana, are said to have been called after hint the Pelopian islands. (Paus. ii. 34. § 4.) According to a tradition which becmne very general in later times. Pelops was a Phrygian, who was expelled from Sipylus by Ilus (Paus. ii. 22. § 4, v. 13. § 4), whereupon the exile then came witl his great wealth to Pisa (v. 1. § 5 ; Thuc. i. 9; comp. Sophl.
+     <em>
+      Ajax,
+     </em>
+     1292; Pind.
+     <em>
+      Ol.
+     </em>
+     i. 36, ix. 15); others describe him as a Paphlagonian, and call him an Eneteian, from the Paphlagonian town of Enete, and the Paphlagonians theimselves Pelopêïoi (Apollon. Rhod. ii. 358, with the Schol., and 790; Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     i. 37 ; Diod. iv. 74), while others again represent him as a native of Greece, who came from Olenos in Achaia. (Schol.
+     <em>
+      ad Pind. l. c.
+     </em>
+     ) Some, further, call him an Arcadian, and state that by a stratagem he slew the Arcadian king Stymphalus, and scattered about the limbs of his body which he had cut to pieces. (Apollod. iii. 12. § 6.) There can be little doubt that in the earliest and most genuine traditions, Pelops was described as a native of Greece and not as a foreign immigrant; and in them he is called the tamer of horses and the favourite of Poseidon. (Hom.
+     <em>
+      Il.
+     </em>
+     ii. 104; Paus. v. 1. §5, 8. § 1; Pind.
+     <em>
+      Ol.
+     </em>
+     i. 38.)
+    </p>
+    <p>
+     The legends about Pelops consist mainly of the story of his being cut to pieces and boiled, and of the tuole concerning his contest with Oenomaus and Hippodameia, to which may be added the legends about his relation to his sons and about his remains.
+    </p>
+    <p>
+     <em>
+      Pelops cut to pieces and boiled.
+     </em>
+     (Kreourgia Pelopos.) Tantalus, the favourite of the gods, it is said, once invited them to a repast, and on that occasion he slaughtered his own son, and having boiled him set the flesh before them that they might eat it. But the immortal gods, knowing what it was, did not touch it; Demeter alone being absorbed by her grief about her lost daughter (others mentioned Thetis, Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     i. 37), consumed the shoulder of Pelops. Hereupon the gods ordered Hermes to put the limbs of Pelops into a cauldron, and thereby restore to him his life and former appearance. When the process was over, Clotho took him out of the cauldron, and as the shoulder consumed by Demeter was wanting, Demeter supplied its place by one made of ivory ; his descendants (the Pelopidae), as a mark of their origin, were believed to have one shoulder as white as ivory. (Pind.
+     <em>
+      Ol.
+     </em>
+     i. 37, &amp;c. with the Schol. ; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     152; Hygin.
+     <em>
+      Fab.
+     </em>
+     83; Virg.
+     <em>
+      Georg.
+     </em>
+     iii. 7; Ov.
+     <em>
+      Met.
+     </em>
+     vi. 404.) This story is not related by all authors in the same manner, for according to some, Rhea restored Pelops, and Pan, the companion of Rhea, danced on the occasion. (Schol.
+     <em>
+      ad Aristid.
+     </em>
+     p. 216, ed. Frommnel; Lucian,
+     <em>
+      De Saltlt.
+     </em>
+     54; Paus. v. 13. §4.) Pindar. again, denies the story of the kreourgia, and states that Poseidon, being in love with the beautiful boy Pelops, carried him off, whereupon Pelops, like Ganymedes, for a time stayed with the gods. (
+     <em>
+      Ol.
+     </em>
+     i. 46, &amp;c.; conmp. Schol.
+     <em>
+      ad Ol.
+     </em>
+     i. 69; Eurip.
+     <em>
+      Iph. Taur.
+     </em>
+     387; Philost.
+     <em>
+      Imag.
+     </em>
+     i. 17; Lucian,
+     <em>
+      Charid.
+     </em>
+     7; Tibull. i. 4, 57.)
+    </p>
+    <p>
+     <em>
+      Contest with Oenomaus and Hippodameia.
+     </em>
+     As an oracle had declared to Oenomaus that he should be killed by his son-in-law, he refused giving his fair daughter Hippodameia in marriage to any one. (Some said that he himself was in love with his daughter, and for this reason refused to give her to any one; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     156; Lucian,
+     <em>
+      Charid.
+     </em>
+     19 ; Hygin.
+     <em>
+      Fab.
+     </em>
+     253.) Many suitors however, appearing, Oenomnaus declared that he would give her to him, who should conquer him in the chariot-race, but that he should kill those that should be conquered by him. Among other suitors Pelops also presented himself, but when he saw the heads of his conquered predecessors stuck up above the door of Oenomaus, he was seized with fear, and endeavoured to gain the favour of Myrtilus, the chiarioteer of Oenomaus, promising him half the kingdom if he would assist him in gaining Hippodameeia. Myrtilus agreed, and did not properly fasten the wheels to the chariot of Oenomaus. so that he might be upset during the race. The plan succeeded, and Oenomans dying pronounced a curse upon Myrtilus. When Pelops returned home with Hippodameia and Myrtilus, he resolved to throw the latter into the sea. As Myrtilus sank, he cursed Pelops and his whole race. (Hygiin.
+     <em>
+      Fab.
+     </em>
+     84; Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     i. 114; Diod. iv. 73 ; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 183.) This story too is related with various modifications. According to Pindar, Pelops did not gain the victory by any stratagem, but called for assistance upon Poseidon, wllo gave him a chariot and horses by which he overcame Oenomaus. (
+     <em>
+      Ol.
+     </em>
+     i. 109, &amp;c.) On the chest of Cypselus where the race was represented, the horses had wings. (Paus. v. 17. § 4; comp. Apollon. Rhod. i. 752, &amp;c.) In order to atone for the murder of Myrtilus, Pelops founded the first temple of Hermes in Peloponnesus (Paus. v. 15. § 5), and he also erected a monument to the unsuccessful suitors of Hippodameia, at which an annual sacrifice was offered to them (vi. 21. § 7). When Pelops had gained possession of Hippodameia, he went with her to Pisa in Elis, and soon also made himself master of Olympia, where he restored the Olympian games with greater splendour than they had ever had before. (Pind.
+     <em>
+      Ol.
+     </em>
+     ix. 16; Paus. v. 1. § 5, 8. § 1.) He received his sceptre from Hermes and bequeathed it to Atreus. (Hom.
+     <em>
+      Il.
+     </em>
+     ii. 104.)
+    </p>
+    <p>
+     <em>
+      The sons of Pelops.
+     </em>
+     Chrysippus who was the favourite of his father, roused the envy of his brothers, who in concert with Hippodameia, prevailed upon the two eldest among them, Atreus and Thyestes, to kill Chrysippus. They accomplished their crime, and threw the body of their murdered brother into a well. According to some Atreus alone was the murderer (Schol.
+     <em>
+      ad Eurip. Orest.
+     </em>
+     800), or Pelops himself killed him (Schol.
+     <em>
+      ad Thuc.
+     </em>
+     i. 9), or Chrysippus made away with himself (Schol.
+     <em>
+      ad Eurip. Phocn.
+     </em>
+     1760), or Hippodameia slew him, because her own sons refused to do it. (Plut.
+     <em>
+      Parall. Min.
+     </em>
+     33.) According to the common tradition, however, Pelops, who suspected his sons of the murder, expelled them from the country, and they dispersed all over Peloponnesus. (Schol.
+     <em>
+      ad Eurip. Or.
+     </em>
+     5; Paus. v. 8. § 1.) Hippodameia, dreading the anger of her husband, fled to Midea in Argolis. from whence her remains were afterwards conveyed by Pelops, at the command of an oracle, to Olympia. (Paus. vi. 20. § 4.) Some state that Hippodameia made away with herself. (Hygin.
+     <em>
+      Fab.
+     </em>
+     85, 243.) She had a sanctuary at Olympia in the grove Altis, to which women alone had access, and in the race course at Olympia there was a bronze statue of her. (Paus. vi. 20. § 10.)
+    </p>
+    <p>
+     <em>
+      The remains of Pelops.
+     </em>
+     While the Greeks were engaged in the siege of Troy, they were informed by an oracle, that the city could not be taken, unless one of the bones of Pelops were brought from Elis to Troas. The shoulder bone accordingly was fetched from Letrina or Pisa, but was lost together with the ship in which it was carried, off the coast of Euboea. Many years afterwards it was dragged up from the bottom of the sea by a fisherman, Demarmenus of Eretria, who concealed it in the sand, and then consulted the Delphic oracle about it. At Delphi he met ambassadors of the Eleians, who had come to consult the oracle respecting a plague, which was raging in their country. The Pythia requested Demarmenus to give the shoulder bone of Pelops to the Eleians. This was done accordingly, and the Eleians appointed Demarmenus to guard the venerable relic. (Paus. v. 13. § 3; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     52, 54.) According to some the Palladium was made of the bones of Pelops. (Clem. Alex.
+     <em>
+      ad Gent.
+     </em>
+     p. 30, d; cosmp. Plin.
+     <em>
+      H. N.
+     </em>
+     xxviii. 4.) Pelops was honoured at Olympia above all other heroes. (Paus. v. 13. § 1.) His tomb with an iron sarcophagus existed on the banks of the Alpheius, not far from the temple of Artemis near Pisa; and every year the ephebi there scourged themselves, shedding their blood as a funeral sacrifice to the hero. (Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     i. 146.) The spot on which his sanctuary (Pelopion) stood in the grove Altis, was said to have been dedicated by Heracles, who also offered to him the first sacrifices. (Paus.
+     <em>
+      l. c. ;
+     </em>
+     v. 26, in fin.; Apollod. ii. 7. § 2.) The magistrates of the Eleians likewise offered to him there an annual sacrifice, consisting of a black ram, with special ceremonies. (Paus. v. 13. § 2.) His chariot was shown in the temple of Demeter at Phlius, and his sword in the treasury of the Sicyonians at Olympia. (Paus. ii. 14. § 3, vi. 19. §3.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Tantalos">
+     TANTALUS, PELOPS &amp; THE CANNIBAL-FEAST OF THE GODS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 1. 24 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "[Pisa] the colony of Lydian Pelops, that land of noble souls . . . Pelops, who stirred Poseidon's love, the god of mighty strength, the earth-holder, when Klotho (Clotho) [one of the Moirai (Fates)] drew him from the untainted bowl, his shoulder shod with gleaming ivory. True, there are many marvels; here or there maybe the tongues of men o'er-riding truth's sure word, deceive with false-spun tales, the embroidery of lies . . . Right is it a man speak well of the immortals, less then will be his blame. Tantalos' (Tantalus') son, unlike to bards of old, my tongue shall tell how when your father gave the all-seemly banquet, on Sipylos (Sipylus) that he loved, to make return of hospitable gift to the immortals, then he of the Bright Trident [Poseidon] seized upon you, his heard mad with desire, and brought you mounted in his glorious chariot to the high hall of Zeus whom all men honour, where later came Ganymedes, too, for a like love, to Zeus.
+     <br/>
+     But when you were thus vanished with no sign, and the wide search of men had brought you not back to your mother, then quickly was heard some secret voice of envious neighbours, telling that for the seething cauldron's fiery heat your limbs with a knife's blade were cut asunder, and at each table, portioned to the guests, the morsels of your flesh became their meal.
+     <br/>
+     Senseless, I hold it, for a man to say the gods eat mortal flesh. I spurn the thought. A slanderer's evil tongue often enough brings him to no good end. But if indeed any man ever won honour from Olympos' lords, that man was Tantalos. Yet could he not stomach his high fortune, but earned for his excess a doom o'erwhelming, when the Father [Zeus] poised a mighty stone above him, which with its ever-threatening blow to strike his head,  . . . for that he stole from the immortals, and gave to his companions in revelry, ambrosia and nectar, whereby the gods gave him undying life . . . 
+  Thence was it the gods sent his son [Pelops] down again to share the short-lived span of mortal life." [N.B. Pindar's story continues with the tale of the contest for Hippodameia (see below).]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E2. 1 - 3 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Tantalos (Tantalus) is punished in Haides by having a stone impending over him . . . Pelops, after being slaughtered and boiled at the banquet of the gods, was fairer than ever when he came to life again, and on account of his surpassing beauty he became a minion of Poseidon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 149 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[Pelops] of old Ennaia Herkynna Erinys Thouria Xiphephoros [i.e. Demeter], cut fleshless with her jaws and buried in her throat, devouring the gristle of his shoulder : his who came to youth again and escaped the grievous raping desire of the Lord of Ships [i.e. Poseidon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 82 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Tantalus, son of Jove [Zeus] and Pluto, begat Pelops by Dione."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 83 :
+     </span>
+     <br/>
+     "When Pelops, son of Tantalus and Dione, daughter of Atlas, had been slain and cut up by Tantalus at a feast of the gods, Ceres [Demeter] ate his arm, but he was given life again by the will of the gods. When his other limbs were joined together as they had been, but the shoulder was not complete, Ceres fitted an ivory one in its place."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 405 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Pelops] laid bare his white left shoulder, you could see the part composed of ivory.--At his birth 'twas all of healthy flesh; but when his father cut his limbs asunder, and the gods restored his life, all parts were rightly joined, except part of one shoulder, which was wanting; so to serve the purpose of the missing flesh, a piece of ivory was inserted there, making his body by such means complete."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Agamemnon 20 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "The old man [Tantalos], thirst-parched midst waters, catches at fleeting waves with cheated lips, doomed to pay dearly for the banquet of the gods."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Thyestes 145 ff :
+     </span>
+     <br/>
+     "The little son [Pelops] ran to his father's kiss, welcomed by sinful sword, he fell, an untimely victim at the hearth, and by the right hand was carved, O Tantalus, that thou mightest spread a banquet for the gods, thy guests. Such food eternal hunger, such eternal thirst pursues; nor for such bestial viands could have been meted penalty more fit [i.e. Tantalos was punished in the underworld with eternal hunger for his crime]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 246 (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Jove-Zeus speaks :] ‘Never hath the deceit of Tantalus, nor the crime of the pitiless banquet [i.e. where Pelops was served to the gods] been forgotten in the secret counsels of my heart.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 11. 126 ff :
+     </span>
+     <br/>
+     "Let no gods countenance such a crime, let it be hid from Jove [Zeus]; enough is it to have seen the deadly feast of Tantalus and the guilty altars of Lycaon."  [N.B. Both Tantalos and Lykaon served their sons up as a meal for Zeus.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 10. 261 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The lovestricken ruler of the sea [i.e. Poseidon], that as once he took up Tantalides [Pelops] in his golden car."
+     <br/>
+     [N.B. Several other
+     <em>
+      eramenoi
+     </em>
+     of gods are  also mentioned in this passage--Dionysos and Ampelos, Apollon and Hyakinthos, Zeus and Ganymedes.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Fulgentius, Mythologies 2. 15 (trans. Whitbread) (Roman mythographer C5th or 6th A.D.) :
+     </span>
+     <br/>
+     "Tantalus the giant, wishing to test the supernatural power of the gods, presented his son Pelops as a dish for the table; for this he was severely punished . . . in the lower world Tantalus."
+    </p>
+    <hr/>
+    <h3 id="Ilos">
+     EXPULSION OF PELOPS FROM LYDIA BY KING ILUS OF TROY
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 358 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Ye [the Argonauts] will sail past many hills of the Paphlagonians, over whom at the first Eneteian Pelops reigned, and of his blood they boast themselves to be."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 790 ff :
+     </span>
+     <br/>
+     "The Bithynians and their land, as far as the mouth of Rhebas and the peak of Colone; and besides them the Paphlagonians of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 74. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "To him [Tantalos] were born a son Pelops and a daughter Niobe . . . Tantalos, after he had incurred the enmity of the gods, was driven out of Paphlagonia by Ilos (Ilus) [king of Troy], the son of Tros."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 5. 28 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The wealth of Tantalos (Tantalus) and the Pelopidai (Pelopidae) arose from the [gold] mines round Phrygia and Sipylos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 22. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Tantalos (Tantalus) . . . the grave of him who legend says was son of Zeus and Plouto (Pluto)--it is worth seeing--is on Mount Sipylos (Sipylus). I know because I saw it. Moreover, no constraint came upon him to flee from Sipylos, such as afterwards forced Pelops to run away when Ilos the Phrygian launched an army against him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 13. 7 :
+     </span>
+     <br/>
+     "That Pelops and Tantalos once dwelt in my country [i.e. Lydia] there have remained signs right down to the present day. There is a lake called after Tantalos and a famous grave, and on a peak of Mount Sipylos there is a throne of Pelops beyond the sanctuary of Plastene the Mother. If you cross the river Hermos (Hermus) you see an image of Aphrodite in Temnos made of a living myrtle-tree. It is a tradition among us that it was dedicated by Pelops when he was propitiating the goddess and asking for Hippodameia to be his bride."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Dictys Cretensis' Journal of the Trojan War 1. 6 (trans. Frazer) (Latin faux-journal C4th A.D. after Greek original C1st A.D.) :
+     </span>
+     <br/>
+     "[After the abduction of Helene, the Greek princes assemble at Sparta :] He [Palamedes] warned of the horrible conflict that Greece and Troy might have because of this act, citing, among other examples, the feud between Ilos (Ilus) [king of Troy] and Pelops, who for similar reasons had come to the point of committing their countries to war."
+     <br/>
+     [N.B. In Dictys Cretensis the Greek leaders are all descended from Pelops and the war is partly justified as payback for the ancient eviction of Pelops from Lydia by King Ilos of Troy.]
+    </p>
+    <hr/>
+    <h3 id="Oinomaos">
+     PELOPS, OENOMAUS &amp; THE CONTEST FOR HIPPODAMIA
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, The Great Eoiae Fragment 10 (from Pausanias 6.21.10) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "According to the poem the
+     <em>
+      Great Eoiai
+     </em>
+     , these were killed by Oinomaos (Oenomaus) : Alkathous (Alcathous) the son of Porthaon next after Marmax, and after Alkathous, Euryalos, Eurymakhos (Eurymachus) and Krotalos (Crotalus). The man killed next after them, Akrias (Acrias), we should judge to have been a Lakedaimonian (Lacedaemonian) and founder of Akria. And after Akrias, they say, Kapetos (Capetus) was done to death by Oinomaos, and Lykourgos (Lycurgus), Lasios, Khalcodon (Chalcodon) and Trikolonos (Tricolonus) . . And after Trikolonos fate overtook Aristomakhos and Prias on the course, as also Pelagon and Aiolios (Aeolius) and Kronios (Cronius)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 1. 66 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "When the flower of rising youth shaded his [Pelops'] cheek with down, then for a speedy marriage he counseled in his mind, from her father of Pisa to win the maid Hippodameia, of glorious fame. And coming near to the salt sea's edge, alone at night, he called aloud to the loud-roaring Wielder of the Trident [Poseidon], who came, and stood before him. Then spoke Pelops, and said ‘Lo, great Poseidon, if in your count Kypris' (Cypris') [Aphrodite's] gifts find aught of favour, then shackle Oinomaos' (Oenomaus') brazen spear, and bring me on speeding chariot wheels to the land of Elis, and grant me victory. For thirteen souls now has he slain, her suitors, and holds back the marriage of his daughter. Great danger calls to no coward's heard; but for man, who must die, why should he nurse a nameless old age through, in vain, in darkness, and of all deeds that glorious are have not a share? But for me shall this contest lie for my challenge. Do thou but grant fair issue my heart's desire.’
+     <br/>
+     So he spoke, and his prayer uttered no words that failed of their achievement. But for his glory's honour, the god gave him a gleaming chariot and steeds that flew unwearied upon wings.
+     <br/>
+     And mighty Oinomaos he slew, and took the maiden for his bride; six sons she bore, chieftains leading the field in valorous deeds. By Alpheios' (Alpheus') ford he lies now, closely joined to the great feast of glorious sacrifice, his tomb oft visited, beside the altar where many a stranger treads. And the great fame of the Olympiad Games shines far afield, in the course known of Pelops, where are matched rivals in sped of foot and in brave feats of bodily strength."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides Oenomaus (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     The story of Oinomaos was the subject of a lost play by Euripides.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sophocles, Oenomaus (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Sophocles also produced a play entitled
+     <em>
+      Oinomaos
+     </em>
+     .
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E2. 2 - 10 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Pelops] on account of his surpassing beauty he became a minion of Poseidon, who gave him a winged chariot, such that even when it ran through the sea the axles were not wet.
+     <br/>
+     Now Oinomaos (Oenomaus), the king of Pisa, had a daughter Hippodameia, and whether it was that he loved her, as some say, or that he was warned by an oracle that he must die by the man that married her, no man got her to wife; for her father could not persuade her to cohabit with him, and her suitors were put by him to death. For he had arms and horses given him by Ares, and he offered as a prize to the suitors the hand of his daughter, and each suitor was bound to take up Hippodameia on his own chariot and flee as far as the Isthmos of Korinthos (Corinth), and Oinomaos straightway pursued him, in full armour, and if he overtook him he slew him; but if the suitor were not overtaken, he was to have Hippodameia to wife. And in this way he slew many suitors, some say twelve; and he cut off the heads of the suitors and nailed them to his house.
+     <br/>
+     So Pelops also came a-wooing; and when Hippodameia saw his beauty, she conceived a passion for him, and persuaded Myrtilos (Myrtilus), son of Hermes, to help him; for Myrtilos was charioteer to Oinomaos. Accordingly Myrtilos, being in love with her and wishing to gratify her, did not insert the linchpins in the boxes of the wheels, and thus caused Oinomaos to lose the race and to be entangled in the reins and dragged to death; but according to some, he was killed by Pelops. And in dying he cursed Myrtilos, whose treachery he had discovered, praying that he might perish by the hand of Pelops.
+     <br/>
+     Pelops, therefore, got Hippodameia; and on his journey, in which he was accompanied by Myrtilos, he came to a certain place, and withdrew a little to fetch water for his wife, who was athirst; and in the meantime Myrtilos tried to rape her. But when Pelops learned that from her, he threw Myrtilos into the sea, called after him the Myrtoan Sea, at Cape Geraistos (Geraestus); and Myrtilos, as he was being thrown, uttered curses against the house of Pelops.
+     <br/>
+     When Pelops had reached Okeanos (Oceanus) and been cleansed by Hephaistos (Hephaestus), he returned to Pisa in Elis and succeeded to the kingdom of Oinomaos, but not till he had subjugated what was formerly called Apia and Pelasgiotis, which he called Peloponnesos (Peloponnese) after himself. The sons of Pelops were Pittheus, Atreus, Thyestes, and others."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 752 ff (trans. Seatoon) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "[Depicted on the cloak of Jason :] And therein were fashioned two chariots, racing, and the one in front Pelops was guiding, as he shook the reins, and with him was Hippodameia at his side, and in pursuit Myrtilos (Myrtilus) urged his steeds, and with him Oinomaos (Oenomaus) had grasped his couched spear, but fell as the axle swerved and broke in the nave, while he was eager to pierce the back of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 149 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[Pelops] of old Ennaia Herkynna Erinys Thouria Xiphephoros [i.e. Demeter], cut fleshless with her jaws and buried in her throat, devouring the gristle of his shoulder : his who came to youth again and escaped the grievous raping desire of the Lord of Ships [i.e. Poseidon] and was sent by Erekhtheus [i.e. Zeus] to Letrina's fields [i.e. Elis] to grind the smooth rock of Molpis--whose body was served as sacrifice to Zeus Ombrios (Rainy)--that he might overcome the wooer-slayer [i.e. Oinomaos] by the unholy device for slaying his father-in-law which the son of Kadmilos [i.e. Myrtilos son of Hermes] devised; who drinking his last cup dived into his tomb in Nereus [i.e. the sea]--the tomb which bears his name [i.e. the Myrtoan Sea]--crying a blighting curse upon the race; even he who held the reins of swift-footed Psylla and Harpinna [i.e. the horses of Oinomaos] hoofed even as the Harpyiai."
+     <br/>
+     [N.B. Pelops murdered Myrtilos by casting him into the sea. As he was dying Myrtilos cursed the land in the name of Zeus Ombrios (God of Rain) which brought about a drought.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 73. 1 - 6 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Now that we have examined these matters we shall endeavour to set forth the facts concerning Pelops and Tantalos (Tantalus) and Oinomaos (Oenomaus), but to do so we must revert to earlier times and give in summary the whole story from the beginning. The account runs like this: In the city of Pisa in the Peloponnesos Ares lay with Harpinê (Harpina), the daughter of Asopos, and begat Oinomaos. Who, in turn, begat a daughter, an only child, and named her Hippodameia. And once when he consulted an oracle about the end of his life the god replied to him that he should die whenever his daughter Hippodameia should marry. Consequently, we are told, he proceeded cautiously regarding the marriage of his daughter and decided to see that she was kept a virgin, assuming that only in this way could he escape from the danger which her marriage would entail.
+     <br/>
+     And so, since there were many suitors for the girl's hand, he proposed a contest for any who wished to marry her, the conditions being that the defeated suitor must die, but whoever should win would have the girl in marriage. The contest he set was a chariot-race from Pisa to the altar of Poseidon on the Isthmos of Korinthos, and the starting of the horses he arranged as follows : Oinomaos was to be sacrificing a ram to Zeus, when the suitor should set out, driving a chariot drawn by four horses; then, when the sacrifice had been completed, Oinomaos was to begin the race and make after the suitor, having a spear and Myrtilos (Myrtilus) as his driver, and if he should succeed in overtaking the chariot which he was pursuing he was to smite the suitor with the spear and slay him. By employing this method he kept overtaking the suitors as they appeared, his horses being swift, and was slaying them in great numbers.
+     <br/>
+     But when Pelops, the son of Tantalos, came to Pisa and looked upon Hippodameia, he set his heart upon marrying her, and by corrupting Myrtilos, the charioteer of Oinomaos, and thus securing his co-operation toward winning the victory, he was the first to arrive at the altar of Poseidon on the Isthmos. And Oinomaos, believing that the oracle had been fulfilled, was so disheartened by grief that he removed himself from life. In this way, then, Pelops got Hippodameia for his wife and succeeded to the sovereignty of Pisa, and increasing steadily in power by reason of his courage and his wisdom, he won over to himself the larger number of those who dwelt in the Peloponnesos and called the land after his own name the island of Pelops ‘Peloponnesos.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 1. 6 - 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "In the reign of Epeios (Epeus) [king of Elis] the following events also occurred. Oinomaos (Oenomaus) was the son of Alxion (though poets proclaimed his father to be Ares, and the common report agrees with them), but while lord of the land of Pisa he was put down by Pelops the Lydian, who crossed over from Asia.
+     <br/>
+     On the death of Oinomaos, Pelops took possession of the land of Pisa and its bordering country Olympia, separating it from the land of Epeios. The Eleans said that Pelops was the first to found a temple of Hermes in Peloponnesos and to sacrifice to the god, his purpose being to avert the wrath of the god for the death of Myrtilos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 10. 6 - 8  :
+     </span>
+     <br/>
+     "[The temple of Zeus at Olympia :] To come to the pediments : in the front pediment there is, not yet begun, the chariot-race between Pelops and Oinomaos (Oenomaus), and preparation for the actual race is being made by both. An image of Zeus has been carved in about the middle of the pediment; on the right of Zeus is Oinomaos with a helmet on his head, and by him Sterope his wife, who was one of the daughters of Atlas. Myrtilos (Myrtilus) too, the charioteer of Oinomaos, sits in front of the horses, which are four in number. After him are two men. They have no names, but they too must be under orders from Oinomaos to attend to the horses.
+     <br/>
+     At the very edge lies Kladeus (Cladeus), the river which, in other ways also, the Eleians honor most after the Alpheios (Alpheus). On the left from Zeus are Pelops, Hippodameia, the charioteer of Pelops, horses, and two men, who are apparently grooms of Pelops. Then the pediment narrows again, and in this part of it is represented the Alpheios. The name of the charioteer of Pelops is, according to the account of the Troizenians, Sphairos (Sphaerus), but the guide at Olympia called him Killas (Cillas).  The sculptures in the front pediment are by Paionios (Paeonius), who came from Mende in Thrake."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 13. 7 :
+     </span>
+     <br/>
+     "If you cross the river Hermos (Hermus) [in Lydia] you see an image of Aphrodite in Temnos made of a living myrtle-tree. It is a tradition among us that it was dedicated by Pelops when he was propitiating the goddess and asking for Hippodameia to be his bride."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 17. 7 :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the chest of Kypselos (Cypselus) dedicated at Olympia :] Oinomaos (Oenomaus) is chasing Pelops, who is holding Hippodameia. Each of them has two horses, but those of Pelops have wings."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 20. 15 - 18 :
+     </span>
+     <br/>
+     "The race-course [at Olympia] has one side longer than the other, and on the longer side, which is a bank, there stands, at the passage through the bank, Taraxippos (Taraxippus), the terror of the horses. It has the shape of a round altar, and as they run along the horses are seized, as soon as they reach this point, by a great fear without any apparent reason. The fear leads to disorder; the chariots generally crash and the charioteers are injured. Consequently the charioteers offer sacrifice, and pray that Taraxippos may show himself propitious to them.
+     <br/>
+     The Greeks differ in their view of Taraxippos . . . There is also a story that Pelops made here an empty mound in honor of Myrtilos (Myrtilus), and sacrificed to him in an effort to calm the anger of the murdered man, naming the mound Taraxippos (Frightener of horses) because the mares of Oinomaos (Oenomaus) were frightened by the trick of Myrtilos. Some say that it is Oinomaos himself who harms the racers in the course. I have also heard some attach the blame to Alkathos (Alcathus), the son of Porthaon. Killed by Oinomaos because he wooed Hippodameia, Alkathos, they say, here got his portion of earth; having been unsuccessful on the course, he is a spiteful and hostile deity to chariot-drivers.
+     <br/>
+     A man of Egypt said that Pelops received something from Amphion the Theban [i.e. the brother-in-law of Pelops] and buried it where is what they call Taraxippos, adding that it was the buried thing which frightened the mares of Oinomaos, as well as those of every charioteer since. This Egyptian thought that Amphion and the Thrakian Orpheus were clever magicians."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 20. 19 :
+     </span>
+     <br/>
+     "On one turning-post [of the race-course at Olympia] is a bronze statue of Hippodameia carrying a ribbon, and about to crown Pelops with it for his victory."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 21. 6 - 22. 1 :
+     </span>
+     <br/>
+     "In this district [near Olympia in Elis] is a hill rising to a sharp peak, on which are the ruins of the town of Phrixa, as well as a temple of Athena surnamed Kydonia (Cydonia) . . . The Eleians say that Pelops too sacrificed to Athena Kydonia before he set about his contest with Oinomaos (Oenomaus).
+     <br/>
+     Going on from this point you come to the water of Parthenia, and by the river is the grave of the mares of Marmax. The story has it that this Marmax was the first suitor of Hippodameia to arrive, and that he was killed by Oinomaos before the others; that the names of his mares were Parthenia and Eripha; that Oinomaos slew the mares after Marmax, but granted burial to them also, and that the river received the name Parthenia from the mare of Marmax.
+     <br/>
+     There is another river called Harpinates, and not far from the river are, among the other ruins of a city Harpina, its altars. The city was founded, they say, by Oinomaos, who named it after his mother Harpina.
+     <br/>
+     A little farther on is a high mound of earth, the grave of the suitors of Hippodameia. Now Oinomaos, they say, laid them in the ground near one another with no token of respect. But afterwards Pelops raised a high monument to them all, to honor them and to please Hippodamaeia. I think too that Pelops wanted a memorial to tell posterity the number and character of the men vanquished by Oinomaos before Pelops himself conquered him.
+     <br/>
+     According to the epic poem called the
+     <em>
+      Great Eoiai
+     </em>
+     the next after Marmax to be killed by Oinomaos was Alkathos (Alcathus), son of Porthaon; after Alkathos came Euryalos, Eurymakhos (Eurymachus) and Krotalos (Crotalus). Now the parents and fatherlands of these I was unable to discover, but Akrias (Acrias), the next after them to be killed, one might guess to have been a Lakedaimonian and the founder of Akriai (Acriae). After Akrias they say that Oinomaos slew Kapetos (Capetus), Lykourgos (Lycurgus), Lasios, Khalkodon (Chalcodon) and Trikolonos (Tricolonus), who, according to the Arkadians, was the descendant and namesake of Trikolonos, the son of Lykaon (Lycaon). After Trikolonos there met their fate in the race Aristomakhos (Aristomachus) and Prias, and then Pelagon, Aiolios (Aeolius) and Kronios (Cronius). Some add to the aforesaid Erythras, the son of Leukon, the son of Athamas, after whom was named Erythrai (Erythrae) in Boiotia, and Eioneus, the son of Magnes the son of Aiolos (Aeolus). These are the men whose monument is here, and Pelops, they say, sacrificed every year to them as heroes, when he had won the sovereignty of Pisa.
+     <br/>
+     Going forward about a stade from the grave one sees traces of a sanctuary of Artemis, surnamed Kordax (Cordax) because the followers of Pelops celebrated their victory by the side of this goddess and danced the
+     <em>
+      kordax
+     </em>
+     , a dance peculiar to the dwellers round Mount Sipylos (Sipylus) [in Lydia]. Not far from the sanctuary is a small building containing a bronze chest, in which are kept the bones of Pelops. Of the wall and of the rest of the building there were no remains, but vines were planted over all the district where Pisa stood."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 14. 10 - 12  :
+     </span>
+     <br/>
+     "[At Pheneus in Arkadia (Arcadia) :] Behind the temple [of Hermes] is the grave of Myrtilos (Myrtilus). The Greeks say that he was the son of Hermes, and that he served as charioteer to Oinomaos (Oenomaus). Whenever a man arrived to woo the daughter of Oinomaos, Myrtilos craftily drove on the mares, while Oinomaos on the course shot down the wooer when he came near.
+     <br/>
+     Myrtilos himself, too, was in love with Hippodameia, but his courage failing him he shrank from the competition and served Oinomaos as his charioteer. At last, it is said, he proved a traitor to Oinomaos, being induced thereto by an oath sworn by Pelops that he would let him be with Hippodameia for one night. So when reminded of his oath Pelops threw him out of the ship. The people of Pheneus say that the body of Myrtilos was cast ashore by the tide, that they took it up and buried it, and that every year they sacrifice to him by night as to a hero.
+     <br/>
+     It is plain that Pelops did not make a long coasting voyage, but only sailed from the mouth of the Alpheios (ALpheus) to the harbor of Elis. So the Sea of Myrto is obviously not named after Myrtilos, the son of Hermes, as it begins at Euboia and reaches the Aigaion (Aegean Sea) by way of the uninhabited island of Helene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 14. 4  :
+     </span>
+     <br/>
+     "[In the town of Phlious (Phlius), Sikyonia :] On the roof of what is called the Anaktoron (Anactoron) they say is dedicated the chariot of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 33. 1 :
+     </span>
+     <br/>
+     "The Troizenians possess islands, one of which is near the mainland, and it is possible to wade across the channel. This was formerly called Sphairia (Sphaeria) . . . In it is the tomb of Sphairos (Sphaerus), who, they say, was charioteer to Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 17 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting at Neapolis (Naples) :] Here is consternation over Oinomaos (Oenomaus) the Arkadian (Arcadian); these are men who shout a warning for him--for perhaps you can hear them--and the scene is Arkadia and a portion of the Peloponnesos. The chariot lies shattered through a trick of Myrtilos (Myrtilus). It is a four-horse chariot; for though men were not yet bold enough to use the quadriga in war, yet in the games it was known and prized, and the Lydians also, a people most devoted to horses, drove four abreast in the time of Pelops and already used chariots, and at a later time devised the chariot with four poles and, it is said, were the first to drive eight horses abreast.
+     <br/>
+     Look, my boy, at the horses of Oinomaos, how fierce they are and keen to run, full of rage and covered with foam--you will find such horses especially among the Arkadians-- and how black they are, harnessed as they were for a monstrous and accursed deed. But look at the horse of Pelops, how white they are, obedient to the rein, comrades as they are of Peitho (Persuasion), neighing gently and as if aware of the coming victory. And look at Oinomaos, how like he is to Diomedes he Thrakian as he lies there, a barbarian and savage of aspect. But as to Pelops, on the other hand, you will not, I think, be inclined to doubt that Poseidon once on a time fell in love with him for his beauty when he was wine-pourer for the gods on Mount Sipylos (Sipylus), and because of his love set him, though still a youth, upon this chariot. The chariot runs over the sea as easily as on land, and not even a drop of water ever splashes on its axle, but the sea, firm as the earth itself, supports the horses.
+     <br/>
+     As for the race, Pelops and Hippodameia are the victors, both standing on the chariot and there joining hands; but they are so conquered by each other that they are on the point of embracing one another. He is dressed in the delicate Lydian manner, and is of such youth and beauty as you noticed a moment ago when he was begging Poseidon for his horses; and she is dressed in a wedding garment and has just unveiled her cheek, now that she has won the right to a husband's embrace. Even the [the river-god] Alpheios (Alpheus) leaps from his eddy to pluck a crown of wild olive for Pelops as he drives along the bank of the river.
+     <br/>
+     The mounds along the race-course mark the graves of the suitors by whose death Oinomaos postponed his daughter's marriage, thirteen youths in all. But the earth (
+     <em>
+      gê
+     </em>
+     ) now causes flowers to spring up on their graves, that they too may share the semblance of being crowned on the occasion of Oinomaos' punishment."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 30 :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting in Neapolis (Naples) :] A delicate garment of Lydian fashion, a lad with beard just beginning to grow, Poseidon smiling at him and honouring the lad with a gift of horses--all this shows that it is Pelops the Lydian who has come to the sea in order to invoke Poseidon's aid against Oinomaos (Oenomaus); since Oinomaos accepts no son-in-law, but slaying the suitors of Hippodameia he takes pride in their severed members as hunters who have captures game take pride in the heads of bears or lions. And in answer to Pelops' prayer a golden chariot has come out of the sea, but the horses are of mainland breed, and able to speed over the Aegean with dry axle and light hoof. The task will go off well for Pelops, but let us examine the task of the painter.
+     <br/>
+     It requires no small effort, in my opinion to compose four horses together and not to confuse their several legs one with another, to impart to them high spirits controlled by the bridle, and to hold them still, one at the very moment when he does not want to stand still, another when he wants to paw the ground, a third when he [wants to lift up his head], while the fourth takes delight in the beauty of Pelops and his nostrils are distended as though he were neighing. This too is a clever touch : Poseidon loves the lad and brings him to the cauldron and to Klotho, after which Pelops' shoulder seemed to shine; and he did not try to divert him from the marriage, since the lad is eager for it, but being content even to touch his hand, he clasps the right hand of Pelops while he counsels him about the race; and already Pelops proudly ‘breathes Alpheios,’ and his look follows the steeds. Charming is his glance and elated because he is proud of the diadem, from which the hair of the lad trickling down like golden sprays of water follows the lines of his forehead, and joins the bright down on his cheeks, and though it falls this way and that, yet it lies gracefully. The hip and breast, and the other parts of the naked body of Pelops which might be mentioned, the painting conceals; a garment covers his arms and even his lower legs. For the Lydians and the upper barbarians, encasing their beauty in such garments, pride themselves on these weavings, when they might pride themselves on their natural form. While the rest of his figure is out of sight and covered, the garment by his left shoulder is artfully neglected in order that its gleam may not be hidden; for the night draws on, and the lad glows with the radiance of his shoulder as does the night with that of the evening star."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 84 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Oenomaus, son of Mars [Ares] and Asterope, daughter of Atlas, had as wife Evarete, daughter of Acrisius. By her he became father of Hippodamia, a maiden of exceptional beauty, but he did not give her in marriage to anyone because an oracle had told him to beware of death from his son-in-law. And so when many sought her in marriage, he set a contest; and, since he had horses swifter than the wind, he said the would give her to the one who competed with him in a four-horse chariot race and came out ahead, but that the loser should be put to death. Many were put to death. Finally Pelops, son of Tantalus, came, but when he saw fixed above the door the heads of those who had sought Hippodamia as wife, out of fear of the cruelty of the king he regretted having come. And so he won the confidence of his charioteer, Myrtilus, and promised him the half of the kingdom for his help. Myrtilus pledged his word, and when he yoked the horses did not put the pin in the wheels. So the horses when driven at full speed tore to pieces the weakened chariot of Oenomaus. Pelops, coming home as victor with Hippodamia and Myrtilus, though the affair would disgrace him and refused to keep his promise to Myrtilus but cast him into the sea, which is called Myrtoan from this. He took Hippodamia to his country which is called Peloponnesus; there by Hippodamia he became father of Hippalcus, Atreus, and Thyestes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 245 :
+     </span>
+     <br/>
+     "Those who killed fathers-in-law . . . Pelops, son of Tantalus, killed Oenomaus, son of Mars [Ares]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 274 :
+     </span>
+     <br/>
+     "Inventors and their Inventions . . . 
+  At Elis, a city in the Peloponnesus, races of four-horse chariots were first established."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 8. 65 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Can it be some fate has come upon our house and pursued it through the years even to my time, that we Tantalid women are ever victims ready to the ravisher's hand? . . . Where the sea is sundered in two by the far-stretched Isthmus, Hippodamia was borne away in the car of the stranger [Pelops]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 16. 207 ff :
+     </span>
+     <br/>
+     "A sire [Pelops] who is stained with blood from the murder of his bride's father [i.e. Oenomaus], or who marks the Myrtoan waters with his crime [i.e. the murder of Myrtilus]."
+     <sup>
+      <a href="#o8">
+      </a>
+     </sup>
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 16. 263 ff :
+     </span>
+     <br/>
+     "Ah, might the gods make you the prize in a mighty contest, and let the victor have you for his couch! . . . as Hippodamia came to Phrygian [i.e. Pelops'] embrace."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 5 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Who has not told of . . . Hippodame, and Pelops, famed for ivory shoulder, and fearless with his steeds?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Thyestes 130 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "The summer with its sail-filling Etesian breezes melts away; if any is moved by the cool, clear stream of Alpheus, famed for its Olympic course--let him his kindly godhead hither turn, let him forbid the recurrent waves of crime to come again . . . Himself betrayed, fell Myrtilus, betrayer of his lord [i.e. Oenomaus], and, dragged down by the faith which he had shown, he made a sea famous by its change of name; to Ionian ships no tale is better known."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 7. 286 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "If Hippodamia of old made easy the stern task of Pelops, and seeing so many suitors' heads exposed at last felt horror of her father's chariot."  [N.B. Hippodameia helped Pelops defeat her father.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 243 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[On the chariot race :] Countless chariots vex their crumbling fields far and wide, their beasts are broken to war : that glory of the race endures even from the impious ways and broken axles of Oenomaus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 588 ff :
+     </span>
+     <br/>
+     "Behold! there mourn the Argive ghosts with eyes downcast! [I.e. the ancestral heroes of the Argives.] . . . Pelops maimed and Oenomaus soiled with cruel dust, all bedew their faces with plenteous tears."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 268 ff :
+     </span>
+     <br/>
+     "The ancient line of great-hearted sires [i.e. the ancestral heroes of the Argives] is borne along, in images marvellously fashioned to living likeness . . . Triumphant in his car Pelops handles the reins of Neptunus [Poseidon], and Myrtilos the charioteer grasps at the bounding wheels, as the swift axle leaves him far and farther behind."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 404 ff :
+     </span>
+     <br/>
+     "They heed not the portents that chance, the herald of doom, with ominous presage strews thickly in their paths . . . Ghosts suddenly appear . . . Pisa tells that Oenomaus drove o'er that cruel plain."  [N.B. The ghost of Oenomaus is seen by the descendants of Pelops at Pisa, a sign of ill-omen.]
+    </p>
+    <hr/>
+    <h3 id="Peloponnesos">
+     THE PELOPONNESIAN EMPIRE OF PELOPS
+    </h3>
+    <p>
+     The Peloponnesos (Peloponnese) is literally named the "Island of Pelops."
+    </p>
+    <h4>
+     I. PELOPS KING OF THE PELOPONNESE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 100 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The sceptre Hephaistos (Hephaestus) had wrought him carefully. Hephaistos gave it to Zeus the king, the son of Kronos (Cronus), and Zeus in turn gave it to the courier Argeiphontes, and lord Hermes gave it to Pelops, driver of horses."
+     <br/>
+     [N.B. The sceptre was the ancient Greek equivalent of a crown, the symbol of kingship. In the
+     <em>
+      Iliad
+     </em>
+     Zeus symbolically hands Pelops kingship of the Peloponnesos.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Telestes, Fragment 810 (from Athenaeus, Scholars at Dinner) (trans. Campbell, Vol. Greek Lyric V) (C5th B.C.) :
+     </span>
+     <br/>
+     "The first to sing to the pipes the Phrygian tune of the Mater Oreias (Mountain Mother) [i.e. Kybele (Cybele)]  beside the mixing-bowls of the Greeks were the companions of Pelops."  [N.B. Lydian Pelops introduces the orgies of the Anatolian goddess Kybele to Greece.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E2. 10 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Pelops] returned to Pisa in Elis and succeeded to the kingdom of Oinomaos (Oenomaus), but not till he had subjugated what was formerly called Apia and Pelasgiotis, which he called Peloponnesos after himself."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 12. 6 :
+     </span>
+     <br/>
+     "Now Aiakos (Aeacus) was the most pious of men. Therefore, when Greece suffered from infertility on account of Pelops, because in a war with Stymphalos, king of the Arkadians (Arcadians), being unable to conquer Arkadia, he slew the king under a pretence of friendship, and scattered his mangled limbs, oracles of the gods declared that Greece would be rid of its present calamities if Aiakos would offer prayers on its behalf. So Aiakos did offer prayers, and Greece was delivered from the dearth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 73. 6 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "[Pelops] succeeded to the sovereignty of Pisa, and increasing steadily in power by reason of his courage and his wisdom, he won over to himself the larger number of those who dwelt in the Peloponnesos and called the land after his own name the island of Pelops ‘Peloponnesos.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 69. 2 :
+     </span>
+     <br/>
+     "Phorbas went to Olenos (Olenus), from which city Alektor (Alector), the king of Eleia, summoned him to come to his aid, since he stood in fear of the overlordship of Pelops, and he gave him a share of the kingship of Elis; and to Phorbas were born two sons, Aigeus [i.e. Augeas] and Aktor (Actor), who received the kingship over the Eleians."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 5. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Apis reached such a height of power before Pelops came to Olympia that all the territory south of the Isthmos was called after him Apia."  [N.B. In myth Apia was the name of the Peloponnesos before Pelops came to power.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 34. 3 :
+     </span>
+     <br/>
+     "The islets, nine in number, lying off the land [of Methana in Argolis] are called the Isles of Pelops, and they say that when it rains one of them is not touched."
+     <br/>
+     [N.B. The Peloponnesos was afflicted with dearth on account of a treacherous murder committed by Pelops. The islands were presumably connected somehow with this myth.]
+    </p>
+    <h4>
+     II. PELOPONNESE THE LAND OF PELOPS
+    </h4>
+    <p>
+     The Peloponnesos (Peloponnese) was often referred to as the "land of Pelops" and its people were the "tribes" or "sons of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stasinus or Hegesias, Cypria Fragment 12 (from Scholiast on Pindar's Nemean Ode 10. 114:) (trans. Evelyn-White) (Greek epic C7th or 6th B.C.) :
+     </span>
+     <br/>
+     "He climbed its highest peak and looked throughout the whole isle of Pelops, son of Tantalos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 703 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "In Pelops' realm (
+     <em>
+      topos Pelopos
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Hippolytus 374 ff (trans. Kovacs) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Women of Troizenos (Troezen), dwellers in this extreme forecourt to Pelopia (the Land of Pelops)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1231, 1570 &amp; 1578 ff (trans. Seaton) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "The land of Pelops (
+     <em>
+      gaia Pelopeis
+     </em>
+     ) was just descried." "Our course to the land of Pelops (
+     <em>
+      gaia Pelopeis
+     </em>
+     )." "That sea stretches away in mist to the divine land of Pelops beyond Krete (Crete)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 4 to Delos 72 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Pelopeis (the Land of Pelops) that lies beside the Isthmos (Isthmus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theocritus, Idylls 8. 53 ff (trans. Edmonds) (Greek bucolic C3rd B.C.) :
+     </span>
+     <br/>
+     "I would not Pelops' tilth untold [i.e. the whole of the Peloponnese] nor all Kroisos' (Croesus') coffered gold." [N.B. As examples of wealth.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 18. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "They sent envoys to Delphoi (Delphi), to whom was given the following response :--‘Dwellers in the land of Pelops (
+     <em>
+      gê Pelopos
+     </em>
+     ) and in Akhaia (Achaea).’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 2. 194 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Asia would even advance in mighty war to the walls of Pelops [i.e. Mykenai (Mycenae) and the Peloponnese]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 1164 (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "The kingdom of Dardanian Pelops, lapped by two seas [i.e. the Peloponnese]."  [N.B. "Dardanian" means Anatolian as Pelops emigrated to Greece from that region.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 891 ff :
+     </span>
+     <br/>
+     "Quickly begone, Medea, from the land of Pelops."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Troades 853 :
+     </span>
+     <br/>
+     "Argos, and Mycenae, home of savage Pelops."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 116 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The whole shore of the Achaean gulf and Pelopea (the realm of Pelops) echoed far and wide."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 207 ff  :
+     </span>
+     <br/>
+     "The seed of Labdacus [i.e. the Thebans] and the sons of Pelops' line [i.e. the Argives]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 248 ff :
+     </span>
+     <br/>
+     "[The War of the Seven Against Thebes :] We hear that all the tribes of Pelops [i.e. tribes of the Peloponnese] descend upon us."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 12. 540 :
+     </span>
+     <br/>
+     "The sorrowful Pelopeides (daughters of Pelops) moved a short space from the altars where they sat."  [N.B. The "Pelopeides" are the wives of the Seven Against Thebes. Here it is merely a poetical term meaning "Peloponnesian." They were not literal descendants of Pelops.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 441  :
+     </span>
+     <br/>
+     "[The Trojan War :] The lord of war had drained the land of Pelops (
+     <em>
+      terras Pelopis
+     </em>
+     ) and the Grecian world."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 257 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "There is a city Argos, famous for horses, and Hera's habitation, the midnipple of the island of Tantalides [i.e. Pelops son of Tantalos]."
+    </p>
+    <hr/>
+    <h3 id="Olympics">
+     <a>
+     </a>
+     PELOPS &amp; THE FOUNDING OF THE OLYMPIC GAMES
+    </h3>
+    <p>
+     The Olympic Games were said to have been established (or reestablished) by Pelops himself or else by Herakles, his great-grandson, in honour of his ancestor.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 1. 89 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "By Alpheios' (Alpheus) ford he [Pelops] lies now, closely joined to the great feast of glorious sacrifice, his tomb oft visited, beside the altar where many a stranger treads. And the great fame of the Olympiad Games shines far afield, in the course known of Pelops, where are matched rivals in sped of foot and in brave feats of bodily strength."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 7. 2 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Herakles] marching on Elis took the city and killed Augeas and his sons . . . He also celebrated the Olympian games and founded an altar of Pelops, and built six altars of the twelve gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 8. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "And about a generation later than Endymion, Pelops held the games in honor of Zeus Olympios (Olympian) in a more splendid manner than any of his predecessors. When the sons of Pelops were scattered from Elis over all the rest of Peloponnesos, Amythaon, the son of Kretheus (Cretheus), and cousin of Endymion  . . . held the Olympian games."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 13. 1 - 3 :
+     </span>
+     <br/>
+     "Within the Altis [i.e. the sanctuary of Zeus at Olympia] there is also a sacred enclosure consecrated to Pelops, whom the Eleians as much prefer in honor above the heroes of Olympia as they prefer Zeus over the other gods. To the right of the entrance of the temple of Zeus, on the north side, lies the Pelopion (Pelopium, Temple of Pelops). It is far enough removed from the temple for statues and other offerings to stand in the intervening space, and beginning at about the middle of the temple it extends as far as the rear chamber. It is surrounded by a stone fence, within which trees grow and statues have been dedicated.
+     <br/>
+     The entrance is on the west. The sanctuary is said to have been set apart to Pelops by Herakles the son of Amphitryon. Herakles too was a great-grandson of Pelops, and he is also said to have sacrificed to him into the pit. Right down to the present day the magistrates of the year sacrifice to him, and the victim is a black ram. No portion of this sacrifice goes to the sooth-sayer, only the neck of the ram it is usual to give to the ‘woodman’ (
+     <em>
+      xyleus
+     </em>
+     ), as he is called.
+     <br/>
+     The woodman is one of the servants of Zeus, and the task assigned to him is to supply cities and private individuals with wood for sacrifices at a fixed rate, wood of the white poplar, but of no other tree, being allowed. If anybody, whether Eleian or stranger, eat of the meat of the victim sacrificed to Pelops, he may not enter the temple of Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 16. 2 - 4  :
+     </span>
+     <br/>
+     "[Hippodameia founded the Heraia (Heraea) or Women's Games at Olympia :] Every fourth year there is woven for Hera a robe by the Sixteen women, and the same also hold Games called Heraia (Heraea). The Games consist of foot-races for maidens. These are not all of the same age. The first to run are the youngest; after them come the next in age, and the last to run are the oldest of the maidens. They run in the following way : their hair hangs down, a tunic reaches to a little above the knee, and they bare the right shoulder as far as the breast. These too have the Olympic stadium reserved for their games, but the course of the stadium is shortened for them by about one-sixth of its length. To the winning maidens they give crowns of olive and a portion of the cow sacrificed to Hera. They may also dedicate statues with their names inscribed upon them. Those who administer to the Sixteen are, like the presidents of the games, married women.
+     <br/>
+     The games of the maidens too are traced back to ancient times; they say that, out of gratitude to Hera for her marriage with Pelops, Hippodameia assembled the Sixteen Women, and with them inaugurated the Heraia. They relate too that a victory was won by Khloris (Chloris), the only surviving daughter of the house of Amphion, though with her they say survived one of her brothers."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 20. 7 :
+     </span>
+     <br/>
+     "There is within the Altis [by the processional entrance the Hippodameion (Hippodameum, Temple of Hippodameia), as it is called, about a quarter of an acre of ground surrounded by a wall. Into it once every year the women may enter, who sacrifice to Hippodameia, and do her honor in other ways. The story is that Hippodameia withdrew to Midea in Argolis, because Pelops was very angry with her over the death of Khrysippos (Chrysippus). The Eleians declare that subsequently, because of an oracle, they brought the bones of Hippodameia to Olympia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 22. 1 :
+     </span>
+     <br/>
+     "[Near the ruins of Harpina near Olympia :] One sees traces of a sanctuary of Artemis, surnamed Kordax (Cordax) because the followers of Pelops celebrated their victory by the side of this goddess and danced the
+     <em>
+      kordax
+     </em>
+     , a dance peculiar to the dwellers round Mount Sipylos [in Lydia]. Not far from the sanctuary is a small building containing a bronze chest, in which are kept the bones of Pelops. Of the wall and of the rest of the building there were no remains."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement, Exhortation to the Greeks 2 (trans. Butterworth) (Greek Christian rhetoric C2nd A.D.) :
+     </span>
+     <br/>
+     "Let us now proceed briefly to review the contests, and let us put an end to these solemn assemblages at tombs, the Isthmian, Nemean, Pythian, and, above all, the Olympian games . . . And Pisa,--mark it, ye Panhellenic peoples!--your Pisa is the tomb of a Phrygian charioteer [i.e. Pelops], and the libations poured out for Pelops, which constitute the Olympian festivities, are appropriated by the Zeus of Pheidias. So it seems that contests, being held in honour of the dead . . . have become public institutions."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 273 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Those who first conducted Games . . . Eighth, Hercules established gymnastic contests at Olympia for Pelops, son of Tantalus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 3 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Customary among the Greeks is such a festival [i.e. the funeral Games] : first did the dutiful Alcides [Heracles] contest this honour with Pelops in the fields of Pisa, and brush the dust of combat from his hair with the wild-olive spray."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 94 ff  :
+     </span>
+     <br/>
+     "Grant, little one, that this day [i.e. the founding of the Isthmian Games] may be renewed at many a triennial feast; let not maimed Pelops prefer to seek Arcadian altars or knock at Elean temples with his ivory arm [i.e. the Olympian Games], nor the serpent rather glide to the Castalian shrine [i.e. the Pythian Games], nor its own shade of the pine-groves of Lechaeum [i.e. the Isthmian Games]."
+    </p>
+    <hr/>
+    <h3 id="Niobides">
+     PELOPS &amp; THE BURIAL OF THE NIOBIDES
+    </h3>
+    <p>
+     Pelops collected the bodies of the children of his sister Niobe and interred them on Mount Sipylos in Lydia.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 403 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The Theban people hated Niobe, but Pelops, her own brother, mourned her death; and as he rent his garment, and laid bare his white left shoulder, you could see the part composed of ivory . . . 
+  The lords of many cities that were near, now met together and implored their kings to mourn with Pelops those unhappy deeds [i.e. the death of Niobe and her children]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 118 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Two altars now of equal height had they with like toil erected, one to the doleful shades, the other to the gods above, when the low braying of the pipe with curved horn gave signal for lament, the pipe that by Phrygia's mournful use was wont to escort the youthful dead. They say that Pelops ordained for infant shade this funeral rite and chant, to which Niobe, undone by the quivers twain, and dressed in mourning garb, brought the twelve urns to Sipylus."
+    </p>
+    <hr/>
+    <h3 id="Khrysippos">
+     <a>
+     </a>
+     PELOPS &amp; HIS SON CHRYSIPPUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 5. 5 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Having succeeded to the sovereignty [of Thebes] they [Amphion and Zethos] . . . expelled Laios (Laius). He resided in Peloponnesos, being hospitably received by Pelops; and while he taught Khrysippos (Chrysippus), the son of Pelops, to drive a chariot, he conceived a passion for the lad and carried him off."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Chrysippus (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Euripides' dramatized the story of Khrysippos in a play of the same name.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 20. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The story is that Hippodameia withdrew to Midea in Argolis, because Pelops was very angry with her over the death of Khrysippos (Chrysippus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Plutarch, Greek and Roman Parallel Stories 33 (trans. Babbitt) (Greek historian C2nd A.D.) :
+     </span>
+     <br/>
+     "Pelops, the son of Tantalos and Euryanassa, married Hippodameia and begat Atreus and Thyestes; but by the nymphe Danaïs he had Khrysippos (Chrysippus), whom he loved more than his legitimate sons. But Laïos (Laius) the Theban conceived a desire for him and carried him off; and, although he was arrested by Thyestes and Atreus, he obtained mercy from Pelops because of his love. But Hippodameia tried to persuade Atreus and Thyestes to do away with Khrysippos, since she knew that he would be a contestant for the kingship; but when they refused, she stained her hands with the pollution. For at dead of night, when Laïos was asleep, she drew his sword, wounded Khrysippos, and fixed the sword in his body. Laïos was suspected because of the sword, but was saved by Khrysippos, who, though half-dead, acknowledged the truth. Pelops buried Khrysippos and banished Hippodameia. So Dositheüs in his
+     <em>
+      Descendants of Pelops
+     </em>
+     ."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 13. 5 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "They say Laios (Laius) was the first lover of a noble boy; he made off with Khrysippos (Chrysippus), son of Pelops. As a result the Thebans thought it a good thing to love the handsome."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 2. 21  :
+     </span>
+     <br/>
+     "They say that the poet Euripides was also in love with this same Agathon [the poet]. He is said to have composed the play
+     <em>
+      Khrysippos
+     </em>
+     in his honour. I am not able to state this as a fact, but I can say that it is very frequently asserted."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 85 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Laius, son of Labdacus, carried of Chrysippus, illegitimate son of Pelops, at the Nemean Games because of his exceeding beauty. Pelops made war and recovered him. At the instigation of their mother Hippodamia, Atreus and Thyestes killed him. When Pelops blamed Hippodamia, she killed herself."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 243 :
+     </span>
+     <br/>
+     "Women who committed suicide. Hippodamia, daughter of Oenomaus and wife of Pelops, killed herself because by her urging, Chrysippus was killed."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 271 :
+     </span>
+     <br/>
+     "Those who were most handsome . . . Chrysippus, son of Pelops, whom Theseus [an error, the abductor was Laius] stole from the games."
+    </p>
+    <hr/>
+    <h3 id="Pelopidai">
+     THE PELOPIDAE DESCENDANTS  OF PELOPS
+    </h3>
+    <p class="see-also">
+     See also:--
+     <br/>
+     (1)
+     <a href="#Olympics">
+      Pelops &amp; the Olympic Games
+     </a>
+     (founded by his great-grandson Herakles)
+     <br/>
+     (2)
+     <a href="#Khrysippos">
+      Pelops &amp; his son Chrysippus
+     </a>
+     (illegitimate son killed by Atreus &amp; Thyestes)
+     <br/>
+     (3)
+     <a href="#Curse">
+      Curse of the Pelopidae
+     </a>
+     (curse on the house of Atreus &amp; Thyestes)
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 100 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Powerful Agamemnon stood up holding the sceptre Hephaistos (Hephaestus) had wrought him carefully. Hephaistos gave it to Zeus the king, the son of Kronos (Cronus), and Zeus in turn gave it to the courier Argeiphontes [Hermes], and lord Hermes gave it to Pelops, driver of horses, and Pelops again gave it to Atreus, the shepherd of the people. Atreus dying left it to Thyestes of the rich flocks, and Thyestes left it in turn to Agamemnon to carry and to be lord of many islands and over all Argos."  [N.B. The sceptre was the ancient Greek equivalent of a crown, the symbol of kingship. Atreus and Thyestes are sons of Pelops.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 99 (from Papyri greci e latine, No. 131) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Elektyron (Electryon) married the all-beauteous daughter of Pelops and, going up into one bed with her, the son of Perses [Perseus] begat ((lacuna)) . ."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 1. 88 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "[Pelops] took the maiden [Hippodameia] for his bride; six sons she bore, chieftains leading the field in valorous deeds."
+     <br/>
+     [N.B. The six sons are not named but no doubt included Atreus, Thyestes, Pittheus and Kopreus.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Libation Bearers 500 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Elektra (Electra) : So listen, father [i.e. Agamemnon], to this last appeal of mine as you behold these fledglings crouching at your tomb. Have compassion on your offspring, on the woman and on the man as well, and let not this seed of Pelops' line be blotted out."  [N.B. Elektra was the daughter of Agamemnon, son of Atreus, son of Pelops.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Heracleidae 204 ff (trans. Kovacs) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Iolaos petitions Demophon, son of Theseus,  grant the children of Herakles sanctuary in Athens :] ‘But I want to say to you, my lord, that it is your duty as the city's leader to save these children. Pittheus was son of Pelops, and from his loins came Aithra (Aethra), and from her was begotten your father Theseus. Now I shall give you these children's lineage. Herakles was the son of Zeus and Alkmene (Alcmena), and she was daughter of Pelops. And so your father and theirs are the sons of full cousins.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Medea 683 ff :
+     </span>
+     <br/>
+     "Aigeus (Aegeus) : There is a man named Pittheus, king of Troizenos (Troezen).
+     <br/>
+     Medea : The son of Pelops and a man most pious, they say."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E2. 10 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The sons of Pelops were Pittheus, Atreus, Thyestes, and others."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 4. 5 - 6  :
+     </span>
+     <br/>
+     "He [Perseus] had sons by Andromeda . . . in Mykenai (Mycenae) he had Alkaios (Alcaeus) and Sthenelos (Sthenelus) and Heleios (Heleius) and Mestor and Elektryon (Electryon) . . .
+     <br/>
+     Alkaios had a son Amphitryon and a daughter Anaxo by Astydamia, daughter of Pelops . .
+     <br/>
+     Mestor had Hippothoe by Lysidike (Lysidice), daughter of Pelops . . .
+     <br/>
+     Elektryon married Anaxo, daughter of Alkaios, and begat a daughter Alkmena (Alcmena) . . .
+     <br/>
+     Sthenelos had daughters, Alkyone (Alcyone) and Medousa (Medusa), by Nikippe (Nicippe), daughter of Pelops; and he had afterwards a son Eurystheus, who reigned also over Mykenai . . .
+     <br/>
+     Sthenelos . . . banish[ed] Amphitryon from the whole of Argos, while he himself seized the throne of Mykenai and Tiryns; and he entrusted Midea to Atreus and Thyestes, the sons of Pelops, whom he had sent for."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 5. 1 :
+     </span>
+     <br/>
+     "He [Eurystheus] sent his commands for the labours [of Herakles] through a herald, Kopreus (Copreus), son of Pelops the Eleian. This Kopreus had killed Iphitos and fled to Mykenai (Mycenae), where he was purified by Eurystheus and took up his abode."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 12. 7 :
+     </span>
+     <br/>
+     "Telamon married Periboia (Periboea), daughter of Alkathous (Alcathous) [king of Megara], son of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 15. 7 :
+     </span>
+     <br/>
+     "And journeying by way of Troizenos (Troezen), he [King Aigeus of Athens] lodged with Pittheus, son of Pelops, who, understanding the oracle, made him drunk and caused him to lie with his daughter Aithra (Aethra) [i.e. mother of Theseus]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E1. 2 :
+     </span>
+     <br/>
+     "[Theseus on the road from Troizenos (Troezen) to Athens :] Fourth, he slew Skeiron (Sciron), the Korinthian (Corinthian), son of Pelops, or, as some say, of Poseidon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theocritus, Idylls 15. 142 (trans. Edmonds) (Greek bucolic C3rd B.C.) :
+     </span>
+     <br/>
+     "E'en Pelops line lacks fate so fine, and Pelasgian Argos' pride."  [I.e. "Fate so fine" because they inherited rule of the entire Peloponnesos.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 9. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Perseus was the son of Danae, the daughter of Akrisios (Acrisius), and Zeus. Now Andromeda, the daughter of Kepheus (Cepheus), lay with him and bore Elektryon (Electryon), and then Eurydike (Eurydice), the daughter of Pelops, married him and gave birth to Alkmenê (Alcmena), who in turn was wooed by Zeus, who deceived her, and bore Herakles."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 41. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Megareus [king of Megara] they say promised that he who killed the Kithaironian (Cithaeronian) lion should marry his daughter and succeed him in the kingdom. Alkathous (Alcathous) therefore, son of Pelops, attacked the beast and overcame it."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 41. 5 :
+     </span>
+     <br/>
+     "Theseus was a descendant of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 6. 5 :
+     </span>
+     <br/>
+     "Hesiod makes Sikyon (Sicyon) [eponymous king of the town] the son of Erekhtheus (Erechtheus), and Ibykos (Ibycus) says that his father was Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 15. 1 :
+     </span>
+     <br/>
+     "On the road from Korinthos (Corinth) to Argos is a small city Kleonai (Cleonae). They say that Kleones (Cleones) was a son of Pelops, though there are some who say that Kleone (Cleone) was one of the daughters of Asopos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 18. 7 :
+     </span>
+     <br/>
+     "It was in the reign of this Tisamenos that the Herakleidai (Heracleidae) returned to the Peloponnesos . . . Their claim to Argos and to the throne of Argos was, in my opinion, most just, because Tisamenos was descended from Pelops, but the Herakleidai were descendants of Perseus."
+     <br/>
+     [N.B. Tisamenos was the son of Orestes, son of Agamemnon, son of Atreus, son of Pelops. The Herakleidai were the descendants of Herakles, a descendant of Perseus.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 25. 10 :
+     </span>
+     <br/>
+     "[A statue of Agamemnon dedicated at Olympia :] An inscription too is written on the pedestal :--‘To Zeus these images were dedicated by the Akhaians (Achaeans), descendants of Pelops the godlike scion of Tantalos.’"  [N.B. Agamemnon was the son of Atreus, son of Pelops.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 30. 8 :
+     </span>
+     <br/>
+     "When Troizenos (Troezenus) and Pittheus came to Aetios (Aetius) [king of Antheia and Hypereia] there were three kings instead of one, but the sons of Pelops enjoyed the balance of power. Here is evidence of it. When Troizenos died, Pittheus gathered the inhabitants together, incorporating both Hypereia and Antheia into the modern city, which he named Troizenos (Troezen) after his brother."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 62. 2 :
+     </span>
+     <br/>
+     "Epidauros (Epidaurus), who gave the land its name, was, the Eleians say, a son of Pelops but, according to Argive opinion and the poem the
+     <em>
+      Great Eoiai
+     </em>
+     , the father of Epidauros was Argos, son of Zeus, while the Epidaurians maintain that Epidauros was the child of Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 4. 3  :
+     </span>
+     <br/>
+     "There also came to him an oracle from Delphoi, that he [Oxylos, the Heraklid king of Elis,] should bring in as co-founder ‘Pelopides’ [i.e. a descendant of Pelops]. Oxylos made diligent search, and in his search he discovered Agorios, son of Damasios, son of Penthilos, son of Orestes. He brought Agorios himself from Helike (Helice) in Akhaia (Achaea), and with him a small body of Akhaians."  [N.B. Orestes was himself the son of Agamemnon, son of Atreus, son of Pelops.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 10. 8 :
+     </span>
+     <br/>
+     "[The temple of Zeus at Olympia :] Alkamenes (Alcamenes), I think, carved this scene [the War of the Centaurs on the pediments], because he had learned from Homer's poem that Peirithoos (Pirithous) was a son of Zeus, and because he knew that Theseus was a great grandson of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 22. 8 :
+     </span>
+     <br/>
+     "Letrinoi (Letrini) [in Elis] was a town, and Letreus the son of Pelops was its founder."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 14. 2 :
+     </span>
+     <br/>
+     "Amphitryon, who was, it is said [by the Arkadians], the son of Alkaios (Alcaeus) by Laonome, the daughter of Gouneus (Guneus), a woman of Pheneus, and not by Lysidike (Lysidice), the daughter of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 40. 11 - 12 :
+     </span>
+     <br/>
+     "Of the gods, the people of Khaironeia (Chaeronia) [a village near Delphoi in Phokis (Phocis)] honor most the scepter which Homer says Hephaistos (Hephaestus) made for Zeus, Hermes received from Zeus and gave to Pelops, Pelops left to Atreus, Atreus to Thyestes, and Agamemnon had from Thyestes. This scepter, then, they worship, calling it Spear. That there is something peculiarly divine about this scepter is most clearly shown by the fame it brings to the Khaironeans. They say that it was discovered on the border of their own country and of Panopeus in Phokis, that with it the Phokians discovered gold, and that they were glad themselves to get the scepter instead of the gold. I am of opinion that it was brought to Phokis by Agamemnon's daughter Elektra (Electra). It has no public temple made for it, but its priest keeps the scepter for one year in a house. Sacrifices are offered to it every day, and by its side stands a table full of meats and cakes of all sorts."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Theseus 3. 1 (trans. Perrin) (Greek historian C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "The lineage of Theseus, on the father's side, goes back to Erekhtheus (Erechtheus) and the first children of the soil; on the mother's side, to Pelops. For Pelops was the strongest of the kings in Peloponnesos quite as much on account of the number of his children as the amount of his wealth. He gave many daughters in marriage to men of highest rank, and scattered many sons among the cities as their rulers. One of these, named Pittheus, the grandfather of Theseus, founded the little city of Troizenos (Troezen)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Theseus 7. 1  :
+     </span>
+     <br/>
+     "They [Theseus and Herakles] were kinsmen, being sons of cousins-german. For Aithra (Aethra) [mother of Theseus] was daughter of Pittheus, as Alkmene (Alcmena) [mother of Herakles] was of Lysidike (Lysidice), and Lysidike and Pittheus were brother and sister, children of Hippodameia and Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Judgement of Paris 850 ff (trans. Fowler) (Greek satirist C2nd A.D.):
+     </span>
+     <br/>
+     "Menelaus, who is descended from Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Dictys Cretensis' Journal of the Trojan War 1. 4 (trans. Frazer) (Latin faux-journal C4th A.D. after Greek original C1st A.D.) :
+     </span>
+     <br/>
+     "[Following the abduction of Helene :] Agamemnon, Nestor, and all the rulers of Greece who were descendants of Pelops, having heard the news, had already gathered together at Sparta."  [N.B. According to Homer, and other writers, only a handful of the Greek leaders were actually descended from Pelops.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Judgement of Paris 850 ff (trans. Fowler) (Greek satirist C2nd A.D.):
+     </span>
+     <br/>
+     "Menelaus, who is descended from Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Dictys Cretensis' Journal of the Trojan War 1. 12 :
+     </span>
+     <br/>
+     "News of the abduction [of Helene] spread throughout Greece. All the descendants of Pelops foregathered and bound themselves with mutual oaths. If Helene was not returned along with the things Alexandros (Alexander) [Paris] had taken, they swore to make war against Priamos (Priam)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Dictys Cretensis' Journal of the Trojan War 1. 14 :
+     </span>
+     <br/>
+     "[Diktys lists the Greek princes gathered for the Trojan War.] These were all the descendants of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Dictys Cretensis' Journal of the Trojan War 2. 5 :
+     </span>
+     <br/>
+     "Telephus was the ruler of Mysia . . . Agamemnon and Menelaus, who had brought together their army, were descendants of Pelops and therefore not unrelated to him . . . He [Telephos] asked how many of our men [i.e. the Greeks at Troy] were descendants of Pelops, and who these descendants were. Having been told, he insisted that these relatives should come and see him . . . Accordingly, all of the descendants of Pelops, with the exception of Agamemnon and Menelaus, came together and went to Telephos. He was very grateful and very delighted to see them and received them hospitably with many gifts."
+     <br/>
+     [N.B. Telephos was a son of Herakles who in turn was descended from a daughter of Pelops. Agamemnon and Menelaus were sons of Atreus, son of Pelops.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Dictys Cretensis' Journal of the Trojan War 3. 23 :
+     </span>
+     <br/>
+     "They [Paris and his Trojans] had carried off not only a woman but also the wealth of Atreus and Pelops."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 14 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Argonauts Assembled . . . Hippalcimus, son of Pelops and Hippodamia, daughter of Oenomaus, from the Peloponnesus, from Pisa."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 86 :
+     </span>
+     <br/>
+     "Thyestes, son of Pelops and Hippodamia . . . brother [of] Atreus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 88 :
+     </span>
+     <br/>
+     "Atreus, son of Pelops and Hippodamia."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 124  :
+     </span>
+     <br/>
+     "Kings of the Achaeans . . . Tantalus, son of Jove [Zeus]; Pelops, son of Tantalus; Atreus, son of Pelops; Thyestes, of Pelops; Agamemnon, of Atreus; Aegisthus, of Thyestes; Orestes, of Agamemnon; Aletes, of Aegisthus; Tisamenus, of Orestes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 8. 28 &amp; 47 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Hermione addresses  Orestes :] ‘Remember, too, the same grandsire is ours, Atreus, Pelops' son, and, were you not husband to me, you would still be cousin . . . You, too have ancestors--Pelops, and the father of Pelops [i.e. Tantalos]; should you care to count more closely, you could call yourself fifth from Jove [Zeus].’"
+     <br/>
+     [N.B. Hermione was the daughter of Menelaus, son of Atreus. Orestes was the son of Agamemnon, son of Atreus.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 17. 52 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Helene speaks of her husband Menelaus' ancestry :] ‘This house of mine is glorious enough with its own nobility. To say naught of Jove [Zeus], forefather of my husband's sire, and all the glory of Pelops, Tantalus' son.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Agamemnon 8 (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[The ghost of Thyestes speaks at Mycenae  :] ‘This is the ancient seat of Pelops' line; here 'tis the custom of the Pelasgians to crown their kings; on the this throne sit high lords whose proud hands wield the sceptre.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 1. 512 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The stock of thine [Zeus'] own Pelops (
+     <em>
+      Pelopis domus
+     </em>
+     ) hold the most fruitful spots [i.e. the Peloponnesos]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 2. 436 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Polyneikes (Polynices) addresses Tydeus :] Let ancestral splendour be thy boast--scion of Pelops and Tantalus!"
+     <br/>
+     [N.B. The genealogical reference is not obvious. Tydeus' mother was Periboia, daughter of King Hipponous of Olenos. Presumably this Hipponous was a son of Pelops.]
+    </p>
+    <hr/>
+    <h3 id="Curse">
+     <a>
+     </a>
+     THE CURSE OF THE PELOPIDAE
+    </h3>
+    <p>
+     The house of Pelops was inflicted with a family curse which was passed down through the generations from father to son--from Pelops to his sons Atreus and Thyestes, from them to their sons Agamemnon and Aigisthos (Aegisthus), and finally to Orestes. The original curse borne by Pelops had a cascading effect with each subsequent generation being driven to commit further crimes, so bringing more curses down upon the family.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Agamemnon 1598 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Atreus slaughtered the sons of his brother Thyestes and served them up as a meal. Thyestes responded by calling a curse down upon his brother's house.] Now, discovering his unhallowed deed, he uttered a great cry, reeled back, vomiting forth the slaughtered flesh, and invoked an unbearable curse upon the Pelopidai (Pelopidae, Line of Pelops), kicking the banquet table to aid his curse, ‘thus perish all the race of Pleisthenes!’"  [N.B. In this version Pleisthenes was the son of Atreus and  father of Agamemnon.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E2. 9 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Pelops] threw Myrtilos (Myrtilus) into the sea, called after him the Myrtoan Sea, at Cape Geraistos (Geraestus); and Myrtilos, as he was being thrown, uttered curses against the house of Pelops."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 18. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[The curse of the house of Pelops :] I cannot say for certain whether Aigisthos (Aegisthus) began the sin or whether Agamemnon sinned first in murdering Tantalos (Tantalus), the son of Thyestes. It is said that Tantalos had received Klytaimnestra (Clytemnestra) in marriage from Tyndareus when she was still a virgin. I myself do not wish to condemn them of having been wicked by nature; but if the pollution of Pelops and the avenging spirit of Myrtilos (Myrtilus) dogged their steps so long, it was after all only consistent that the Pythian priestess said to the Spartan Glaukos (Glaucus), the son of Epikydes, who consulted her about breaking his oath, that the punishment for this also comes upon the descendants of the sinner."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Agamemnon 164 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[Klytaimnestra (Clytemnestra) laments the sacrifice of her daughter Iphigeneia :] ‘I see my daughter's wedding rites, which he made worthy of Pelops' house, when, with prayer on lip, the father stood before the altars, how fit for nuptials!’"
+     <br/>
+     [N.B. Iphigeneia was a daughter of Agamemnon sacrificed at the start of the Trojan War. This human sacrifice echoes the murderous crimes of his forebears Atreus and Tantalos.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Thyestes 21 ff :
+     </span>
+     <br/>
+     "[The ghost of Tantalos (Tantalus) speaks :] ‘Never while Pelops' house is standing, will Minos [i.e. the stern judge of the dead] be at rest.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Thyestes 222 ff :
+     </span>
+     <br/>
+     "[Atreus speaks :] ‘My wife has he debauched, my kingdom stolen [i.e. by his brother Thyestes]; the ancient token [i.e. a golden ram whose possession secured his throne] of our dynasty by fraud he gained, by fraud o'erturned our house.There is within Pelops' lofty folds a lordly flock, and a wondrous ram, the rich flock's leader. O'er all his body a fleece of spun gold hangs, and from his back the new-crowned kings of the house of Tantalus have their sceptres wreathed with gold. His owner rules; him does the fortune of the whole house follow . . . Him did the perfidious one [Thyestes], daring a monstrous crime, steal away, with the partner of my bed helping the sinful deed . . . At last begin, put on thy courage; Tantalus and Pelops--look on them . . . Tell thou, by what means I may bring ruin on his wicked head.’"
+     <br/>
+     [N.B. The ram at the centre of the fraternal conflict was presumably sent by Hermes, god of the flocks, to sow strife in the house of Pelops as punishment for the murder of his son Myrtilos.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 641 ff :
+     </span>
+     <br/>
+     "[The palace of Pelops' son Atreus in Mykenai (Mycenae) :] On the summit of the citadel a part of Pelops' palace faces south; its farthest side rises to mountainous height, and o'erlooks the city, having beneath its menace the people, insolent to their kings . . . Deep withdrawn, there lies a secret spot containing in a deep vale an ancient grove, the kingdom's innermost retreat. Here no tree ever affords cheerful shade or is pruned by any knife; but the yew-tree and the cypress and woods of gloomy ilex-trees wave obscure, above which, towering high, an oak looks down and overtops the grove. From this spot the sons of Tantalus are wont to enter on their reign, here to seek aid midst calamity and doubt. Here hang their votive gifts; resounding trumpets and broken chariots, spoils of the Myrtoan Sea [i.e. of Myrtilus who was murdered by Pelops], and wheels o'ercome by treacherous axle-trees hang there, and memorials of the race's every crime; in this place is Pelops' Phrygian turban hung, here spoil of the enemy, and the embroidered robe, token of triumph o'er barbaric foes."  [N.B. "The spoils of" Myrtilos probably alludes to his curse on the house of Pelops.]
+    </p>
+    <hr/>
+    <h3 id="Bone">
+     THE SHOULDER-BONE OF PELOPS &amp; THE TROJAN WAR
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E5. 10 - 11 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[The Trojan prophet] Helenos (Helenus) was forced to tell [the Greeks] how Ilion could be taken, to wit, first, if the bones of Pelops were brought to them; next, if Neoptolemos fought for them; and third, if the Palladion (Palladium), which had fallen from heaven, were stolen from Troy . . . On hearing these things the Greeks caused the bones of Pelops to be fetched."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 52 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "I see thee, hapless city, fired a second time by Aiakeian hands and by such remains as the funeral fire spared to abide in Letrina of the son of Tantalos when his body was devoured by the flames."
+     <br/>
+     [N.B. "The hapless city" is Troy, "Aiakeian" is Neoptolemos, the "remains" are the fabled bones of Pelops which were kept at Letrinoi (Letrini) in Elis.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 13. 4 - 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The following tale too is told [of Pelops]. When the war of the Greeks against Troy was prolonged, the soothsayers prophesied to them that they would not take the city until they had fetched the bow and arrows of Herakles and a bone of Pelops. So it is said that they sent for Philoktetes (Philoctetes) to the camp, and from Pisa was brought to them a bone of Pelops--a shoulder-blade. As they were returning home, the ship carrying the bone of Pelops was wrecked off Euboia (Euboea) in the storm.
+     <br/>
+     Many years later than the capture of Troy, Damarmenos, a fisherman from Eretria, cast a net into the sea and drew up the bone. Marvelling at its size he kept it hidden in the sand. At last he went to Delphoi (Delphi), to inquire whose the bone was, and what he ought to do with it.
+     <br/>
+     It happened that by the providence of Heaven there was then at Delphoi an Eleian embassy praying for deliverance from a pestilence. So the Pythian priestess ordered the Eleians to recover the bones of Pelops, and Damarmenos to give back to the Eleians what he had found. He did so, and the Eleians repaid him by appointing him and his descendants to be guardians of the bone. The shoulder-blade of Pelops had disappeared by my time, because, I suppose, it had been hidden in the depths so long, and besides its age it was greatly decayed through the salt water."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement, Exhortation to the Greeks 4 (trans. Butterworth) (Greek Christian rhetoric C2nd A.D.) :
+     </span>
+     <br/>
+     "Many would perhaps be astonished to learn that the image of Pallas [i.e. the Palladium] called ‘heaven-sent’ (because it fell from heaven), which Diomedes and Odysseus are related to have stolen away from Troy, and to have entrusted to the keeping of Demophon, is made out of the bones of Pelops . . . I give you, too, my authority for this, namely Dionysius, who relates the story in the fifth section of his
+     <em>
+      Cycle
+     </em>
+     ."
+    </p>
+    <hr/>
+    <h2 id="Chronology">
+     CHRONOLOGY OF THE ELEAN KINGS
+    </h2>
+    <table border="1" summary="Mythic Kings of the North-Western Peloponnese" width="100%">
+     <caption>
+      CHRONOLOGY OF THE MYTHIC KINGS OF THE NORTH-WESTERN PELOPONNESE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="col" width="20%">
+        ELIS
+       </th>
+       <th scope="col" width="20%">
+        PISA
+       </th>
+       <th scope="col" width="20%">
+        BOUPRASION
+       </th>
+       <th scope="col" width="20%">
+        DOULIKHION
+       </th>
+       <th scope="col" width="20%">
+        OLENOS
+       </th>
+      </tr>
+      <tr>
+       <td width="20%">
+        1. Aethlios
+       </td>
+       <td width="20%">
+        1. Alxion
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        1. Olenos
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        2.
+        <a href="Endymion.html">
+         Endymion
+        </a>
+       </td>
+       <td width="20%">
+        2. Oinomaos
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        3.
+        <a href="Epeios.html">
+         Epeios
+        </a>
+        <br/>
+        4. Aitolos
+       </td>
+       <td width="20%">
+        3.
+        <a href="Pelops.html">
+         Pelops
+        </a>
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        5. (Polyxeinos)
+        <br/>
+        6. Eleios *
+       </td>
+       <td width="20%">
+        4. Polyxeinos
+        <br/>
+        5. Heleios *
+       </td>
+       <td width="20%">
+        1.
+        <a href="PhorbasLapithios.html">
+         Phorbas
+        </a>
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        2. Alektor
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        7.
+        <a href="Augeas.html">
+         Augeias
+        </a>
+        **
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        2. Aktor
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        3.
+        <a href="Dexamenos.html">
+         Dexamenos
+        </a>
+        <br/>
+        4.
+        <a href="Hipponoos.html">
+         Hipponoos
+        </a>
+        ****
+       </td>
+      </tr>
+      <tr>
+       <td>
+        8. Agasthenes
+       </td>
+       <td>
+        1. Amarynkeus ***
+       </td>
+       <td>
+        3.
+        <a href="Molionidai.html">
+         Kteatos &amp; Eurytos
+        </a>
+       </td>
+       <td>
+        1. Phyleus
+       </td>
+       <td>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        9.
+        <a href="Polyxeinos.html">
+         Polyxeinos
+        </a>
+       </td>
+       <td>
+        2. Diores
+       </td>
+       <td>
+        4. Thalpios &amp; Antimakhos
+       </td>
+       <td>
+        2.
+        <a href="Meges.html">
+         Meges
+        </a>
+       </td>
+       <td>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <p>
+     KINGDOMS
+     <br/>
+     1. Pisa (southern Elis); 2. Elis (central Elis); 3. Bouprasion (northern Elis); 4. Doulikhion (island west of Elis); 5. Olenos (northern Elis &amp; western Akhaia).
+     <br/>
+     NOTES
+     <br/>
+     * Eleios-Heleios is the same figure. One tradition represents him as a son of Perseus and the heir of King Pelops, another makes him a grandson of King Endymion. He was sometimes confounded with the sun-god Helios.
+     <br/>
+     ** Augeias ruled the whole of Elis including the regions of Elis, Pisa, Bouprasion and Doulikhion. After his death the kingdom was divided into four autonomous parts.
+     <br/>
+     *** Amarynkeus received a quarter of the kingdom of Augeias. One assumes his portion was Pisatis.
+     <br/>
+     **** In the reign of Hipponoos, Olenos was annexed by King Oineus of Aitolia. It is listed as an Aitolian dominion in Homer's
+     <em>
+      Catalogue of Ships
+     </em>
+     .
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Cypria Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Telestes, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Libation Bearers
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Heracleidae
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Medea
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Theocritus, Idylls
+      <span class="sources-detail">
+       - Greek Idyllic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PlutarchParallelStories.html">
+       Plutarch, Parallel Stories
+      </a>
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DictysCretensis1.html">
+       Anonymous, Dictys Cretensis
+      </a>
+      <span class="sources-detail">
+       - Greek Faux-Journal C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClementExhortation1.html">
+       Clement, Exhortation to the Greeks
+      </a>
+      <span class="sources-detail">
+       - Christian Scholar C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaAgamemnon.html">
+       Seneca, Agamemnon
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaThyestes.html">
+       Seneca, Thyestes
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaTroades.html">
+       Seneca, Troades
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/FulgentiusMythologies1.html">
+       Fulgentius, Mythologies
+      </a>
+      <span class="sources-detail">
+       - Roman Fable C5th-6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here:-
+      <br/>
+      On the sacrifice of Pelops: Scholiast on Pindar's Olympian Ode  1.37, Lucian De saltatione 54, Tzetzes Scholiast on Lycophron 152, Servius on Vergil's Aeneid  6.603, Servius on Vergil's Georgics 3.7, Second Vatican Mythographer 102, Third Vatican Mythographer 6.21, Pliny Natural History 28.34, Tzetzes Scholiast on Lycophron 156.
+      <br/>
+      On the race of Oinomaos: Euripides Orestes 989, Scholiast on Homer's Iliad  1. 38 &amp; 2.104, Scholiast on Pindar's Olympian Ode  1.71, Scholiast on Sophocles Electra  504, Scholiast on Euripides Orestes  982 &amp; 990, Scholiast on Apollonius' Argonautica 1.752, Tzetzes Scholiast on Lycophron 156, Servius on Vergil's Georgics 3.7, First Vatican Mythographer 21, Second Vatican Mythographer 146, Pherecydes Fragments, Strabo 13.1.62-63, Stephanus Byzantius s.v. Apia.
+      <br/>
+      On the death of Khrysippos: Thucydides 1.9, Tzetzes Chiliades i.415ff, Scholiast on Homer's Iliad 2.105.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     PELOPS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE KING PELOPS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Tantalus and Dione
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Hippodamia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        King of
+       </th>
+       <td>
+        Pisa and the Peloponnese
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Eponym of
+       </th>
+       <td>
+        The Peloponnese
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Pisa in Elis
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     PELOPS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Pelops
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Tantalos">
+       Tantalus, Pelops &amp; the Cannibal-Feast of the Gods
+      </a>
+     </li>
+     <li>
+      <a href="#Ilos">
+       Expulsion of Pelops from Lydia
+      </a>
+     </li>
+     <li>
+      <a href="#Oinomaos">
+       The Contest for Hippodamia
+      </a>
+     </li>
+     <li>
+      <a href="#Peloponnesos">
+       Peloponnesian Empire of Pelops
+      </a>
+     </li>
+     <li>
+      <a href="#Olympics">
+       Founding of the Olympic Games
+      </a>
+     </li>
+     <li>
+      <a href="#Niobides">
+       Burial of the Niobides
+      </a>
+     </li>
+     <li>
+      <a href="#Khrysippos">
+       Pelops &amp; His Son Chrysippus
+      </a>
+     </li>
+     <li>
+      <a href="#Pelopidai">
+       The Pelopidae Descendants of Pelops
+      </a>
+     </li>
+     <li>
+      <a href="#Curse">
+       The Curse of the Pelopidae
+      </a>
+     </li>
+     <li>
+      <a href="#Bone">
+       The Shoulder-Bone of Pelops &amp; the Trojan War
+      </a>
+     </li>
+     <li>
+      <a href="#Chronology">
+       Chronology of the Elean Kings
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

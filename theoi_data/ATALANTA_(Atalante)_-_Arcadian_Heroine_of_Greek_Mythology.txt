@@ -1,0 +1,1996 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ATALANTA (Atalante) - Arcadian Heroine of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Atalanta was an Arcadian heroine--a huntress and a favourite of the goddess Artemis. She was exposed by her father at birth in the wilds but was suckled by a she-bear and afterwards found and raised by hunters. Atalanta swore to defend her virginity and when two Centaurs burst into her grove, she slew them with arrows. She later took part in the voyage of the Argonauts and defeated the hero Peleus in wrestling at the funeral games of King Pelias. When King Oeneus summoned heroes to destroy the Calydonian Boar, Atalanta answered the call and was the first to draw blood." name="description"/>
+  <meta content="Atalanta, Atalante, Greek mythology, heroine, Arcadian princess, Atalanta pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Heroines
+     </a>
+     &gt;&gt; Atalanta
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ATALANTA
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Αταλαντη
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Atalantê
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Atalanta
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Equal in Weight
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-300">
+     <img alt="Atalanta wrestling Peleus | Chalcidian black-figure hydria C6th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/img_atalanta.jpg"/>
+     <figcaption>
+      Atalanta wrestling Peleus, Chalcidian black-figure hydria C6th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ATALANTA was an Arkadian heroine--a huntress and a favourite of the goddess
+     <a href="../Olympios/Artemis.html">
+      Artemis
+     </a>
+     . She was exposed by her father at birth in the wilds but was suckled by a she-bear and afterwards found and raised by hunters.
+    </p>
+    <p>
+     Atalanta swore to defend her virginity and when two
+     <a href="../Georgikos/KentauroiPeloponnesioi.html">
+      Kentauroi (Centaurs)
+     </a>
+     burst into her grove, she slew them with arrows. She later took part in the voyage of the Argonauts and defeated the hero Peleus in wrestling at the funeral games of King Pelias.
+     <br/>
+     When King Oineus (Oeneus) summoned heroes to destroy the
+     <a href="../Ther/HusKalydonios.html">
+      Kalydonian (Calydonian) Boar
+     </a>
+     , Atalanta answered the call and was the first to draw blood. Meleagros (Meleager) awarded her the prize of the skin but his uncles protested and tried to take it from her by force. The hero slew them for the affront.
+    </p>
+    <p>
+     Atalanta was eventually reunited with her father Skhoineus (Schoeneus) who insisted that she wed. The heroine reluctantly agreed insisting that a suitor must defeat her in a race and that the losers be put to death. Melanion--or Hippomenes--however, sought the help of the goddess
+     <a href="../Olympios/Aphrodite.html">
+      Aphrodite
+     </a>
+     who provided him with three golden apples to cast before the girl in the race. When Atalanta stooped to retrieve these, she was slowed enough to allow the hero to emerge victorious. Their marriage was a short-lived one, for Hippomenes neglected to pay Aphrodite her dues. She cursed him and he was compelled to lie with his wife in the sacred precinct of
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     ,
+     <a href="../Titan/TitanisRhea.html">
+      Rhea
+     </a>
+     or Artemis  where an offended deity transformed them into lions.
+    </p>
+    <p>
+     Atalanta's name was derived from the Greek word
+     <em>
+      atalantos
+     </em>
+     meaning "equal in weight"--perhaps a reference to her success in various contests with men.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF ATALANTA
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1] SKHOINEUS
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 14, Apollodorus 3.9.2 &amp; 1.9.16, Theocritus Idyll 3.40, Pausanias 8.35.10, Diodorus Siculus 4.65.4, Hyginus Fabulae 244, Ovid Metamorphoses 10.565, Ovid Heroides 16.265 &amp; 21.123)
+     </span>
+     <br/>
+     [2.1] IASOS &amp; KLYMENE
+     <span class="family-refs">
+      (Apollodorus 3.9.2)
+     </span>
+     <br/>
+     [2.2] IASIOS
+     <span class="family-refs">
+      (Callimachus 3.215, Hyginus Fabulae 70 &amp; 99)
+     </span>
+     <br/>
+     [2.3] IASION
+     <span class="family-refs">
+      (Aelian Miscellany 13.1)
+     </span>
+     <br/>
+     [3.1] MAINALOS
+     <span class="family-refs">
+      (Euripides Frag, Apollodorus 3.9.2)
+     </span>
+     <br/>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] PARTHENOPAIOS
+     <span class="family-refs">
+      (Euripides Phoenissae 145, Diodorus Siculus 4.65.4, Statius Thebaid 4.246)
+     </span>
+     <br/>
+     [1.2] PARTHENOPAIOS (by Melanion or
+     <a href="../Olympios/Ares.html">
+      Ares
+     </a>
+     )
+     <span class="family-refs">
+      (Apollodorus 3.9.2)
+     </span>
+     <br/>
+     [1.2] PARTHENOPAIOS (by Meleagros)
+     <span class="family-refs">
+      (Hyginus Fabulae 70 &amp; 99)
+     </span>
+     <br/>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     ATALANTA (Atalantê). In ancient mythology there occur two personages of this name, who have been regarded by some writers as identical, while others distinguish between them. The common accounts distinguish between the Arcadian and the Boeotian Atalanta.
+     <br/>
+     1. The Arcadian Atalanta is described as the daughter of Iasus (Iasion or Iasius) and Clymene. (Aelian,
+     <em>
+      V. H.
+     </em>
+     xiii. 1; Hygin.
+     <em>
+      Fab.
+     </em>
+     99; Callim.
+     <em>
+      Hymn. in Dian.
+     </em>
+     216.) Her father, who had wished for a son, was disappointed at her birth, and exposed her on the Parthenian (virgin) hill, by the side of a well and at the entrance of a cave. Pausanias (iii. 24. § 2) speaks of a spring near the ruins of Cyphanta, which gushed forth from a rock, and which Atalanta was believed to have called forth by striking the rock with her spear. In her infancy, Atalanta was suckled in the wilderness by a she-bear, the symbol of Artemis, and after she had grown up, she lived in pure maidenhood, slew the centaurs who pursued her, took part in the Calydonian hunt, and in the games which were celebrated in honour of Pelias. Afterwards, her father recognized her as his daughter; and when he desired her to marry, she made it the condition that every suitor who wanted to win her, should first of all contend with her in the foot-race. If he conquered her, he was to be rewarded with her hand, if not, he was to be put to death by her. This she did because she was the most swift-footed among all mortals, and because the Delphic oracle had cautioned her against marriage. Meilanion, one of her suitors, conquered her in this manner. Aphrodite had given him three golden apples, and during the race he dropped them one after the other. Their beauty charmed Atalanta so much, that she could not abstain from gathering them. Thus she was conquered, and became the wife of Meilanion. Once when the two, by their embraces in the sacred grove of Zeus, profaned the sanctity of the place, they were both metamorphosed into lions. Hyginus adds, that Atalanta was by Ares the mother of Parthenopaeus, though, according to others, Parthenopaeus was her son by Meilanion. (Apollod. iii. 9. § 2; Serv.
+     <em>
+      ad Aen.
+     </em>
+     iii. 313; Athen. iii. p. 82.)
+     <br/>
+     2. The Boeotian Atalanta. About her the same stories are related as about the Arcadian Atalanta, except that her parentage and the localities are described differently. Thus she is said to have been a daughter of Schoenus, and to have been married to Hippomenes. Her footrace is transferred to the Boeotian Onchestus, and the sanctuary which the newly married couple profaned by their love, was a temple of Cybele, who metamorphosed them into lions, and yoked them to her chariot. (Ov.
+     <em>
+      Met.
+     </em>
+     x. 565, &amp;c., viii. 318, &amp;c. ; Hygin.
+     <em>
+      Fab.
+     </em>
+     185.) In both traditions the main cause of the metamorphosis is, that the husband of Atalanta neglected to thank Aphrodite for the gift of the golden apples. Atalanta has in the ancient poets various surnames or epithets, which refer partly to her descent, partly to her occupation (the chase), and partly to her swiftness. She was represented on the chest of Cypselus holding a hind, and by her side stood Meilanion. She also appeared in the pediment of the temple of Athena Alea at Tegea among the Calydonian hunters. (Paus. v. 19. § 1, viii. 45. § 4.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Summary">
+     SUMMARY OF THE STORY OF ATALANTA
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 9. 2 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Lykourgos (Lycurgus) [king of Arkadia] had sons, Ankaios (Ancaeus), Epokhos (Epochus), Amphidamas, and Iasos (Iasus), by Kleophyle (Cleophyle) or Eurynome.
+     <br/>
+     And Amphidamas had a son Melanion and a daughter Antimakhe (Antimachus), whom Eurystheus married.
+     <br/>
+     And Iasos had a daughter Atalanta by Klymene (Clymene), daughter of Minyas. This Atalanta was exposed by her father, because he desired male children; and a she-bear came often and gave her suck, till hunters found her and brought her up among themselves. Grown to womanhood, Atalanta kept herself a virgin, and hunting in the wilderness she remained always under arms. The Kentauroi (Centaurs) Rhoikos (Rhoecus) and Hylaios (Hylaeus) tried to force her, but were shot down and killed by her.
+     <br/>
+     She went moreover with the chiefs to hunt the Kalydonian (Calydonian) Boar, and at the games held in honor of Pelias she wrestled with Peleus and won.
+     <br/>
+     Afterwards she discovered her parents, but when her father would have persuaded her to wed, she went away to a place that might serve as a racecourse, and, having planted a stake three cubits high in the middle of it, she caused her wooers to race before her from there, and ran herself in arms; and if the wooer was caught up, his due was death on the spot, and if he was not caught up, his due was marriage. When many had already perished, Melanion came to run for love of her, bringing golden apples from Aphrodite, and being pursued he threw them down, and she, picking up the dropped fruit, was beaten in the race. So Melanion married her. And once on a time it is said that out hunting they entered into the precinct of Zeus, and there taking their fill of love were changed into lions.
+     <br/>
+     But Hesiod [Greek poet C8th-7th B.C.] and some others have said that Atalanta was not a daughter of Iasos, but of Skhoineus (Schoenus); and Euripides [Greek tragedian C5th B.C.] says that she was a daughter of Mainalos (Maenalus), and that her husband was not Melanion but Hippomenes. And by Melanion, or Ares, Atalanta had a son Parthenopaios (Parthenopaeus), who went to the war against Thebes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Atalanta (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Aeschylus' lost play
+     <em>
+      Atalanta
+     </em>
+     told part of the heroine's story. It probably dramatized the story of the famous race but with references to the rest of her history. Lesser known tragedians, such as Aristias of Phlius and Critias of Athens, also produced plays entitled
+     <em>
+      Atalanta
+     </em>
+     .
+    </p>
+    <hr/>
+    <h3 id="Childhood">
+     THE CHILDHOOD &amp; EARLY LIFE OF ATALANTA
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 9. 2 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Iasos (Iasus) had a daughter Atalanta by Klymene (Clymene), daughter of Minyas. This Atalanta was exposed by her father, because he desired male children; and a she-bear came often and gave her suck, till hunters found her and brought her up among themselves. Grown to womanhood, Atalanta kept herself a virgin, and hunting in the wilderness she remained always under arms. The Kentauroi (Centaurs) Rhoikos (Rhoecus) and Hylaios (Hylaeus) tried to force her, but were shot down and killed by her."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 206 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[Comrades of the goddess Artemis :] Yea and Kyrene (Cyrene) thou madest thy comrade . . . And [Prokris] the fair-haired wife of Kephalos (Cephalus) . . . and fair Antikleia (Anticlea) . . . These were the first who wore the gallant bow and arrow-holding quivers on their shoulders; their right shoulders bore the quiver strap, and always the right breast showed bare. Further thou didst greatly commend swift-footed Atalanta, the slayer of boars, daughter of Arkadian Iasios (Iasius), and taught her hunting with dogs and good archery. They that were called to hunt the boar of Kalydon (Calydon) find no fault with her; for the tokens of victory came into Arkadia (Arcadia) which still holds the tusks of the beast. Nor do I deem that Hylaios (Hylaeus) and foolish Rhoikos (Rhoecus), for all their hate, in Haides slight her archery. For the loins, with whose blood the height of Mainalos (Maenalus) flowed, will not abet the falsehood."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Xenophon, On Hunting 13. 18 (trans. Marchant) (Greek C4th B.C.) :
+     </span>
+     <br/>
+     "For all men who have loved hunting have been good: and not men only, but those women also to whom the goddess [Artemis] has given this blessing, Atalanta and Prokris (Procris) and others like them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 24. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[On the Argolic Gulf coast of Lakedaimonia (Lacedaemonia) :] The road from Zarax follows the coast for about a hundred stades, and there strikes inland. After an ascent of ten stades inland are the ruins of the so-called Kyphanta (Cyphanta) . . . There is a fountain of cold water springing from the rock, where they say that Atalanta, distressed by thirst when hunting, struck the rock with her spear, so that the water gushed forth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 13. 1 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Here is the story from Arkadia (Arcadia) about Atalanta the daughter of Iasion. At birth her father exposed her; he said he wanted sons, not daughters. But the man who took her to be exposed did not kill her, and instead went to Mount Parthenion (Parthenium) and put her down near a spring. At that point there was a cave in the rocks, and close by it a dense wood. The child was under sentence of death, but she was not betrayed by fortune, for shortly afterwards arrived a bear, deprived of her cubs by hunters, her breasts bulging and weighed down with milk. Moved by some divine inspiration she took a fancy to the child and suckled it. In this way the animal simultaneously achieved relief from pain and gave nourishment to the infant. And so, still full of milk and supplying nourishment though she was no longer mother to her cubs, she nursed the child who was not her own. The hunters who had originally attacked her young kept an eye on her. They watched all her movements, and when the bear made her usual journey to hunt and feed, they stole Atalanta, who was not yet so named, for it was they who gave her the name. She was brought up by them in the mountains, and slowly her body grew with age. She was committed to virginity, avoided contact with men, and longed for solitude. She established herself in the highest mountains of Arkadia, where there was a well-watered glen with big oak trees, also pines with their deep shadow.
+     <br/>
+     What harm does it do us to hear of Atalanta's cave, like Kalypso's (Calypso's) in the
+     <em>
+      Odyssey
+     </em>
+     ? At the bottom of the defile was a large and very deep cave, at the entrance protected by a sheer drop. Ivy encircled it, the ivy gently twined itself around trees and climbed up them. In the soft deep grass there crocuses grew, accompanied by hyacinths and flowers of many other colours, which can not only create a feast for the eye; in fact their perfume filled the air around. In general the atmosphere was of festival, and one could feast on the scent. There were many laurels, their evergreen leaves so agreeable to look at, and vines with very luxuriant clusters of grapes flourished in front of the cave as proof of Atalanta's industry. A continuous stream of water ran by : pure in appearance and cold, judging by the touch and the effect of drinking it; it flowed in generous and lavish quantity. This very stream served to water the trees already mentioned, with an unfailing current contributing to their vigour. The spot was full of charm, and suggested the dwelling of a dignified and chaste maiden.
+     <br/>
+     Atalanta slept on the skins of animals caught in the hunt, she lived on their meat and drank water. She wore simple clothes, in a style that did not fall short of Artemis' example; she claimed the goddess as her model both in his and in her wish to remain a virgin. She was very fleet of foot, and no wild animal or man with designs on her could have escaped her; and when she wanted to escape, no one could have caught her. It was not just those who saw her that fell in love with her; by now her reputation won her lovers.
+     <br/>
+     Now let us describe her appearance, if that is not unwelcome--and it is not, since form it one might gain experience and skill in writing. While still a girl she was bigger than a full-grown woman, and more beautiful than any young woman from the Peloponnesos in those days. She had a fiery, masculine gaze, partly the result of having been nurtured by an animal, but also because of her exercise in the mountains. But since she was full of spirit, there was nothing girlish or delicate about her; she was not the product of the women's apartments, not one of those brought up by mothers and nurses. Nor was her body overweight, not surprisingly, since she exercised every limb in hunting and physical exercise. Her hair was golden, not due to feminine sophistication, dyes, or applications, but the colour was natural. Exposure to the sun had reddened her face and it looked just as if she was blushing. What flower could be so beautiful as the face of a young woman taught to be modest? She had two astonishing qualities : unrivalled beauty, and with it a capacity to inspire fear. No indolent man would have fallen in love on looking at her, nor would he have had the courage to meet her gaze in the first place; such radiance with beauty shone over those who saw her. To meet her was remarkable, especially since it happened rarely; no one would have easily spotted her. But unexpectedly and unforeseen she would appear, chasing a wild beast or fighting against one; darting like a star she flashed like lightning. Then she raced away, hidden by a wood or thicket or other mountain vegetation.
+     <br/>
+     One day her neighbours, audacious lovers and very tiresome revellers, burst in upon her noisily at midnight; they were two of the Kentauroi (Centaurs), Hylaios (Hylaeus) and Rhoikos (Rhoecus). Their noisy interruption was not done with flute players or in the style of young men from the city; there were pine torches, which they lit and made to burn fiercely; the first sight of fire would have terrified even the population of a city, let alone a solitary young woman. Breaking fresh branches off the pines they wove them together and made garlands for themselves. The incessant, continuous sound of hooves was heard in the mountains; they burned trees and made towards the young woman, evil suitors who in a violent and over-excited state brought gifts for the wedding in advance. But she saw through their plan. From the cave she caught sight of fire and realised who the revellers were; not flinching or cowed by what she saw she bent her bow, shot her weapon, and hit the first of them directly. He lay there, and the other advanced, no longer in the mood of a reveller but with hostile intent, wishing to defend his companion and vent his anger. But he too was punished, by the young woman's other arrow. So much on the subject of Atalanta, daughter of Iasion."
+    </p>
+    <hr/>
+    <h3 id="Argonauts">
+     ATALANTA &amp; THE VOYAGE OF THE ARGONAUTS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 9. 16 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Sent to fetch the fleece, Jason called in the help of Argos, son of Phrixos; and Argos, by Athena's advice, built a ship of fifty oars named Argo after its builder . . . When the ship was built, and he inquired of the oracle, the god gave him leave to assemble the nobles of Greece and sail away. And those who assembled were as follows : Tiphys, son of Hagnias . . . Autolykos (Autolycus), son of Hermes; Atalanta, daughter of Skhoineus (Schoeneus); Menoitios, son of Aktor . . . [from a list of fifty names.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 9. 2 :
+     </span>
+     <br/>
+     "At the games held in honor of Pelias [i.e. by the Argonauts] she [Atalanta] wrestled with Peleus and won."
+     <br/>
+     [N.B. The wrestling match of Peleus and Atalanta is  depicted in ancient Athenian black-figure vase paintings.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 768 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "And in his right hand Jason held a fardarting spear, which Atalanta gave him once as a gift of hospitality in Mainalos (Maenalus) as she met him gladly; for she eagerly desired to follow on that quest; but he himself of his own accord prevented the maid, for he feared bitter strife on account of her love."
+    </p>
+    <hr/>
+    <h3 id="Kalydon">
+     ATALANTA &amp; THE CALYDONIAN BOAR HUNT
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Euripides, Meleager (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Atalanta perhaps had a role in Euripides' lost play
+     <em>
+      Meleager
+     </em>
+     which told the story of his death following the dispute over the skin of the Kalydonian Boar.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 8. 2 - 3 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "In sacrificing the first fruits of the annual crops of the country to all the gods Oineus (Oeneus) forgot Artemis alone. But she in her wrath sent a boar of extraordinary size and strength, which prevented the land from being sown and destroyed the cattle and the people that fell in with it. To attack this boar Oineus called together all the noblest men of Greece, and promised that to him who should kill the beast he would give the skin as a prize. Now the men who assembled to hunt the boar were these :--Meleagros (Meleager), son of Oineus; Dryas, son of Ares; these came from Kalydon (Calydon); Idas and Lynkeus, sons of Aphareus, from Messene; Kastor (Castor) and Polydeukes (Polydeuces), sons of Zeus and Leda, from Lakedaimon (Lacedaemon); Theseus, son of Aigeus, from Athens; Admetos, son of Pheres, from Pherai; Ankaios (Ancaeus) and Kepheus (Cepheus), sons of Lykourgos (Lycurgus), from Arkadia; Jason, son of Aison, from Iolkos (Iolcus); Iphikles, son of Amphitryon, from Thebes; Peirithous, son of Ixion, from Larissa; Peleus, son of Aiakos, from Phthia; Telamon, son of Aiakos, from Salamis; Eurytion, son of Aktor, from Phthia; Atalanta, daughter of Skhoineus (Schoeneus), from Arkadia; Amphiaraos, son of Oikles, from Argos. With them came also the sons of Thestios (Thestius).
+     <br/>
+     And when they were assembled, Oineus entertained them for nine days; but on the tenth, when Kepheus and Ankaios and some others disdained to go hunting with a woman, Meleagros compelled them to follow the chase with her, for he desired to have a child also by Atalanta, though he had to wife Kleopatra (Cleopatra), daughter of Idas and Marpessa.
+     <br/>
+     When they surrounded the boar, Hyleus and Ankaios were killed by the brute, and Peleus struck down Eurytion undesignedly with a javelin. But Atalanta was the first to shoot the boar in the back with an arrow, and Amphiaraos was the next to shoot it in the eye; but Meleagros killed it by a stab in the flank, and on receiving the skin gave it to Atalanta. Nevertheless the sons of Thestios, thinking scorn that a woman should get the prize in the face of men, took the skin from her, alleging that it belonged to them by right of birth if Meleagros did not choose to take it. But Meleagros in a rage slew the sons of Thestios and gave the skin to Atalanta. However, from grief at the slaughter of her brothers Althaia (Althaea) kindled the brand, and Meleagros immediately expired."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 9. 2 :
+     </span>
+     <br/>
+     "She [Atalanta] went moreover with the chiefs to hunt the Kalydonian (Calydonian) boar."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 215 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Swift-footed Atalanta, the slayer of boars, daughter of Arkadian Iasios (Arcadian Iasius), and taught her hunting with dogs and good archery. They that were called to hunt the boar of Kalydon (Calydon) find no fault with her; for the tokens of victory came into Arkadia which still holds the tusks of the beast."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 45. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The Tegeans have, besides the deeds already mentioned, the following claims of their own to fame. Ankaios (Ancaeus), the son of Lykourgos (Lycurgus), though wounded, stood up to the Kalydonian (Calydonian) boar, which Atalanta shot at, being the first to hit the beast. For this feat she received, as a prize for valor, the head and hide of the boar."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 45. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[The temple of Athena Alea at Tegea in Arkadia (Arcadia) :] On the front gable is the hunting of the Kalydonian (Calydonian) boar. The boar stands right in the center. On one side are Atalanta, Meleagros (Meleager), Theseus, Telamon, Peleus, Polydeukes (Polydeuces), Iolaos, the partner in most of the labours of Herakles, and also the sons of Thestios, the brothers of Althaia (Althaea), Prothoos (Prothous) and Kometes (Cometes)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 15 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the Kalydonian (Calydonian) boar hunt :] Are you surprised to see a girl [Atalanta] entering into so great a contest and withstanding the attack of so savage and so huge a boar? For you see how bloodshot is his eye, how his crest bristles, and how abundant is the foam that drips from his long upright tusks, which are unblunted at the point; and you see how the beast's bulk is proportional to his stride, which indeed is indicated by these tracks that are as large as those of a bull. For the painter has not failed to embody any of these points in his painting. But the scene before us is already terrible. For the boar has attacked Ankaios (Ancaeus) here in the thigh, and the youth lies pouring out his blood in streams and with along gaping wound in his thigh; therefore now that the contest is already under way, Atalanta--for we must recognize that the girl is she--having put to the bowstring the arrow she has ready, is about to let it fly. She wears a garment that does not reach the knee and boots fastened on her feet; her arms are bare to the shoulders for freedom of movement, and the garment is fastened there by brooches; her beauty, which is naturally of the masculine type, is made more so by the occasion, since her glance is not alluring, but she strains her eyes to observe what is going on. The youths here are Meleagros (Meleager) and Peleus, for the painting tells us that it is they who have slain the boar; Meleagros in an attitude of defence throws his weight upon his left foot, and watching closely the boar's advance, awaits his onset securely with couched spear."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 174 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The wrath of Diana [Artemis] sent a boar of huge size to lay waste the district of Calydon, because Oeneus had not made yearly offerings to her. Meleager, with the help of chosen youths of Greece, killed it, and gave the hide to the virgin Atalanta because of her valor. Ideus, Plexippus, Lynceus . . . brothers of Althaea, wished to take if from her. When she asked the help of Meleager, he intervened, and putting love before family relationship, killed his uncles. When Althaea, the mother, heard that her son had dared to commit such a crime, remembering the warning of the Parcae, she brought out the brand from the chest and threw it on the fire. Thus, in desiring to avenge the death of her brothers, she killed her son."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 244 :
+     </span>
+     <br/>
+     "Men who killed their relatives . . . Meleager son of Oeneus killed his uncles Plexippus and Agenor on account of Atalanta, daughter of Schoeneus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 8. 270 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The land of Calydon, through Meleager and her native hero . . . [gathered heroes to] destroy a raging boar [the Calydonian Boar], the ravage of her realm. Diana [Artemis] in her wrath had sent the boar to wreak her vengeance . . . And this avenging boar was quite as large as bulls now feeding on the green Epirus, and larger than the bulls of Sicily. A dreadful boar.--His burning, bloodshot eyes seemed coals of living fire, and his rough neck was knotted with stiff muscles, and thick-set with bristles like sharp spikes. A seething froth dripped on his shoulders, and his tusks were like the spoils of Ind. Discordant roars reverberated from his hideous jaws; and lightning--belched forth from his horrid throat--scorched the green fields . . .
+     <br/>
+     What heroes shall immortal song proclaim? Castor and Pollux [Polydeukes], twins of Tyndarus, [and others, amongst a list of heroes.] . . . --And Atalanta, virgin of the groves, of Mount Lycaeus, glory of her sex; a polished buckle fastened her attire; her lustrous hair was fashioned in a knot; her weapons rattled in an ivory case, swung from her white left shoulder, and she held a bow in her left hand. Her face appeared as maidenly for boy, or boyish for girl. When Meleager saw her, he at once longed for her beauty, though some god forbade. The fires of love flamed in him; and he said, ‘Happy the husband who shall win this girl!’ Neither the time nor his own modesty permitted him to say another word. But now the dreadful contest with the boar engaged this hero's energy and thought.
+     <br/>
+     A wood, umbrageous, not impaired with age, slopes from a plain and shadows the wide fields, and there this band of valiant heroes went--eager to slay the dreaded enemy, some spread the nets and some let loose the dogs, some traced the wide spoor of the monster's hoofs. There is a deep gorge where the rivulets that gather from the rain, discharge themselves; and there the bending willow, the smooth sedge, the marsh-rush, ozier and tall tangled reed in wild profusion cover up the marsh. Aroused from this retreat the startled boar, as quick as lightning from the clashing clouds crashed all the trees that cumbered his mad way.--The young men raised a shout, leveled their spears, and brandished their keen weapons; but the boar rushed onward through the yelping dogs, and scattered them with deadly sidelong stroke . . .
+     <br/>
+     The virgin, Atalanta, took her bow and fitting a sharp arrow to the notch, twanged the tight cord. The feathered shaft quivered beneath the monster's ear, the red blood stained his hard bristles. Flushed with her success rejoiced the maid, but not more gladly than the hero Meleager. He it was who first observed the blood, and pointed out the stain to his companions as he cried, ‘Give honor to the courage of a maid!’ Unwilling to be worsted by a maid, the rushing heroes raised a mighty cry and as they shouted in excitement, hurled their weapons in confusion; and so great the multitude their actions interfered.
+     <br/>
+     Behold! Ancaeus wielding his war-axe, and rushing madly to his fate, exclaimed, ‘Witness it! See the weapons of a man excel a woman's! Ho, make way for my achievement! Let Diana [Artemis] shield the brute! Despite her utmost effort my right hand shall slaughter him!’ So mighty in his boast he puffed himself; and, lifting with both hands his double-edged axe, he stood erect, on tiptoe fiercely bold. The savage boar caught him, and ripped his tushes through his groin, a spot where death is sure.--Ancaeus fell; and his torn entrails and his crimson blood stained the fair verdure of the spot with death . . .
+     <br/>
+     So fared those heroes. Better fortune gave success to Meleager; first he threw a spear that missed and quivered in the ground; but next he hurled a spear with certain aim. It pierced the middle of the monster's back; and rushing in upon the dreaded beast, while raging it was whirling round and round, the fearless prince provoked to greater rage the wounded adversary. Bloody froth dripped down his champing jaws--his purple blood poured from a rankling wound. Without delay the mighty Meleager plunged a spear deep in the monster's shoulder. All his friends raised a glad shout, and gathering round him, tried to grasp his hand.--With wonder they beheld the monster's bulk stretched out upon the plain; and fearful still to touch him, they began to stain their weapons in his spouting blood.
+     <br/>
+     At length the hero Meleager pressed his conquering foot upon the monster's head and said, ‘O Atalanta, glorious maid, of Nonacris, to you is yielded spoil, my lawful right, and I rejoice to share the merit of this glorious victory.’ And while he spoke, he gave to her the pelt, covered with horrid bristles, and the head frightful with gory tusks: and she rejoiced in Meleager and his royal gift. But all the others, envious, began to murmur; and the sons of Thestius levelled their pointed spears, and shouted out; ‘Give up the prize! Let not the confidence of your great beauty be a snare to you! A woman should not interfering filch the manly honors of a mighty hunt! Aside! and let your witless lover yield!’
+     <br/>
+     So threatened they and took from her the prize; and forcibly despoiled him of his rights. The warlike prince, indignant and enraged,--rowed with resentment, shouted out. ‘What! Ho! You spoilers of this honor that is ours, brave deeds are different far from craven threats!’ And with his cruel sword he pierced the breast of rash Plexippus, taken unawares, and while his brother, Toxeus, struck with fear, stood hesitating whether to avenge or run to safety, Meleager plunged the hot sword, smoking with a brother's blood, in his breast also. And so perished they."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 4. 99 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Oenides [Meleager, son of Oeneus], too, took fire with love for Maenalian Atalanta; she has the spoil of the wild beast as the pledge of his love."
+    </p>
+    <hr/>
+    <h3 id="Melanion">
+     THE RACE OF ATALANTA &amp; MELANION (OR HIPPOMENES)
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 14a (from Petrie Papyri) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     ". . of the glorious lord ((lacuna)) . . fair Atalanta, swift of foot, the daughter of Skhoineus (Schoeneus), who had the beaming eyes of the Kharites (Charites, Graces), though she was ripe for wedlock rejected the company of her equals and sought to avoid marriage with men who eat bread."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 14b (from Scholiast on Homer's Iliad 23. 683) :
+     </span>
+     <br/>
+     "Hesiod is therefore later in date than Homer since he represents Hippomenes as stripped when contending with Atalanta."  [N.B. In earlier times athelets wore a loin-cloth but this was discarded after the 14th Olympiad.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 14c (from Papiri greci e latini, ii. No. 130) :
+     </span>
+     <br/>
+     "Then straightway there rose up against him the trim-ankled maiden [Atalanta], peerless in beauty : a great throng stood round about her as she gazed fiercely, and wonder held all men as they looked upon her. As she moved, the breath of the west wind stirred the shining garment about her tender bosom; but Hippomenes stood where he was : and much people was gathered together. All these kept silence; but Skhoineus (Schoeneus) cried and said : ‘Hear me all, both young and old, while I speak as my spirit within my breast bids me. Hippomenes seeks my coy-eyed daughter to wife; but let him now hear my wholesome speech. He shall not win her without contest; yet, if he be victorious and escape death, and if the deathless gods who dwell on Olympos grant him to win renown, verily he shall return to his dear native land, and I will give him my dear child and strong, swift-footed horses besides which he shall lead home to be cherished possessions; and may he rejoice in heart possessing these, and ever remember with gladness the painful contest. May the father of men and of gods (grant that splendid children may be born to him) ((lacuna)) . . .’
+     <br/>
+     On the right . . and he, rushing upon her . . drawing back slightly towards the left. And on them was laid an unenviable struggle: for she, even fair, swift-footed Atalanta, ran scorning the gifts of golden Aphrodite; but with him the race was for his life, either to find his doom, or to escape it. Therefore with thoughts of guile he said to her : ‘O daughter of Skhoineus, pitiless in heart, receive these glorious gifts of the goddess, golden Aphrodite ((lacuna)) . .’
+     <br/>
+     But he, following lightly on his feet, cast the first apple : and, swiftly as a Harpyia (Harpy), she turned back and snatched it. Then he cast the second to the ground with his hand. And now fair, swift-footed Atalanta had two apples and was near the goal; but Hippomenes cast the third apple to the ground, and therewith escaped death and black fate. And he stood panting and ((lacuna)) . ."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 9. 2 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Atalanta was exposed at birth by her father and raised by hunters.] Afterwards she discovered her parents, but when her father would have persuaded her to wed, she went away to a place that might serve as a racecourse, and, having planted a stake three cubits high in the middle of it, she caused her wooers to race before her from there, and ran herself in arms; and if the wooer was caught up, his due was death on the spot, and if he was not caught up, his due was marriage. When many had already perished, Melanion came to run for love of her, bringing golden apples from Aphrodite, and being pursued he threw them down, and she, picking up the dropped fruit, was beaten in the race. So Melanion married her. And once on a time it is said that out hunting they entered into the precinct of Zeus, and there taking their fill of love were changed into lions."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theocritus, Idylls 3. 40 ff (trans. Edmonds) (Greek bucolic C3rd B.C.) :
+     </span>
+     <br/>
+     "When Skhoinos' (Schoenus') bride-race [i.e. the race of Atalanta] was begun, apples fell from one that run; she looks, she's lost, and lost doth leap, into love so dark and deep."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 19. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the chest of Kypselos (Cypselus) dedicated at Olympia :] There is also Melanion by whom is Atalanta holding a young deer."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 35. 10 :
+     </span>
+     <br/>
+     "Beyond this [Mount Phalanthos in Arkadia (Arcadia)] is a plain called the Plain of Polos, and after it Skhoinos (Schoenus), so named from a Boiotian, Skhoineus (Schoeneus). If this Skhoineus emigrated to Arkadia, the race-courses of Atalanta, which are near Skhoinos, probably got their name from his daughter."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 185 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Schoeneus is said to have had a most beautiful daughter, Atalanta, who by her swiftness used to surpass men in the race. She asked her father that she might remain a virgin. And so, since she was sought by many in marriage, her father set up a contest, that her suitors should contend with her first in a foot-race; then a limit being set, that the man, unarmed, should flee, and she should pursue him with a weapon; the one she overtook within the limits of the course, she should kill, and fix his head up in the stadium. When she had overtaken and killed many, she was finally defeated by Hippomenes, son of Megareus and Merope. For he had received from Venus [Aphrodite] three apples of exceptional beauty, and had been instructed how to use them. By throwing them down in the contest. He had slowed up the speed of the girl, for as she picked them up and admired the gold, she lost time, and gave victory to the youth. Schoeneus willingly gave him his daughter because of his ingenuity, but as he was taking her home, forgetting that he had won by the favour of Venus, he did not give thanks to her. While he was sacrifice to Jove Victor [Zeus] on Mount Parnassus, inflamed with passion through the anger of Venus, he lay with Atalanta in the shrine, and Jupiter [Zeus] because of this changed them into lion and lioness, animals to whom the gods deny intercourse of love."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 560 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Perhaps you may have heard of a swift maid, who ran much faster than swift-footed men contesting in the race. What they have told is not an idle tale.--She did excel them all--and you could not have said whether her swift speed or her beauty was more worthy of your praise. When this maid once consulted with an oracle, of her fate after marriage, the god answered her : ‘You, Atalanta, never will have need of husband, who will only be your harm. For your best good you should avoid the tie; but surely you will not avoid your harm; and while yet living you will lose yourself.’ She was so frightened by the oracle, she lived unwedded in far shaded woods; and with harsh terms repulsed insistent throngs of suitors. ‘I will not be won,’ she said, ‘Till I am conquered first in speed. Contest the race with me. A wife and couch shall both be given to reward the swift, but death must recompense the one who lags behind. This must be the condition of a race.’ Indeed she was that pitiless, but such the power of beauty, a rash multitude agreed to her harsh terms.
+     <br/>
+     Hippomenes had come, a stranger, to the cruel race, with condemnation in his heart against the racing young men for their headstrong love; and said, ‘Why seek a wife at such a risk?’ But when he saw her face, and perfect form disrobed for perfect running, such a form as mine [i.e. Aphrodite's] . . . he was so astonished he raised up his hands and said, ‘Oh pardon me brave men whom I was blaming, I could not then realize the value of the prize you strove for.’ And as he is praising her, his own heart leaping with love's fire, he hopes no young man may outstrip her in the race; and, full of envy, fears for the result. ‘But why,’ he cries, ‘is my chance in the race untried? Divinity helps those who dare.’ But while the hero weighed it in his mind the virgin flew as if her feet had wings. Although she seemed to him in flight as swift as any Scythian arrow, he admired her beauty more; and her swift speed appeared in her most beautiful. The breeze bore back the streamers on her flying ankles, while her hair was tossed back over her white shoulders; the bright trimmed ribbons at her knees were fluttering, and over her white girlish body came a pink flush, just as when a purple awning across a marble hall gives it a wealth of borrowed hues. And while Hippomenes in wonder gazed at her, the goal was reached; and Atalanta crowned victorious with festal wreath.--But all the vanquished youths paid the death-penalty with sighs and groans, according to the stipulated bond.
+     <br/>
+     Not frightened by the fate of those young men, he stood up boldly in the midst of all; and fixing his strong eyes upon the maiden, said : ‘Where is the glory in an easy victory over such weaklings? Try your fate with me! If fortune fail to favor you, how could it shame you to be conquered by a man? Megareus of Onchestus is my father, his grandsire, Neptune [Poseidon], god of all the seas. I am descendant of the King of Waves: and add to this, my name for manly worth has not disgraced the fame of my descent. If you should prove victorious against this combination, you will have achieved a great enduring name--the only one who ever bested great Hippomenes.’
+     <br/>
+     While he was speaking, Atalanta's gaze grew softer, in her vacillating hopes to conquer and be conquered; till at last, her heart, unbalanced, argued in this way : ‘It must be some god envious of youth, wishing to spoil this one prompts him to seek wedlock with me and risk his own dear life. I am not worth the price, if I may judge. His beauty does not touch me--but I could be moved by it--I must consider he is but a boy. It is not he himself who moves me, but his youth. Sufficient cause for thought are his great courage and his soul fearless of death. What of his high descent;--great grandson of the King of all the seas? What of his love for me that has such great importance, he would perish if his fate denied my marriage to him? O strange boy, go from me while you can; abandon hope of this alliance stained with blood--A match with me is fatal. Other maids will not refuse to wed you, and a wiser girl will gladly seek your love.--But what concern is it of mine, when I but think of those who have already perished! Let him look to it himself; and let him die. Since he is not warned by his knowledge of the fate of many other suitors, he declares quite plainly, he is weary of his life.--Shall he then die, because it must be his one hope to live with me? And suffer death though undeserved, for me because he loves? My victory will not ward off the hate, the odium of the deed! But it is not a fault of mine.--Oh fond, fond man, I would that you had never seen me! But you are so madly set upon it, I could wish you may prove much the swifter! Oh how dear how lovable is his young girlish face!--ah, doomed Hippomenes, I only wish mischance had never let you see me! You are truly worthy of a life on earth. If I had been more fortunate, and not denied a happy marriage day; I would not share my bed with any man but you.’
+     <br/>
+     All this the virgin Atalanta said; and knowing nothing of the power of love, she is so ignorant of what she does, she loves and does not know she is in love.
+     <br/>
+     Meanwhile her father and the people, all loudly demanded the accustomed race. A suppliant, the young Hippomenes invoked me with his anxious voice, ‘I pray to you, O Venus [Aphrodite], Queen of Love, be near and help my daring--smile upon the love you have inspired!’ The breeze, not envious, wafted this prayer to me; and I confess, it was so tender it did move my heart--I had but little time to give him aid. There is a field there which the natives call the Field Tamasus--the most prized of all the fertile lands of Cyprus. This rich field, in ancient days, was set apart for me, by chosen elders who decreed it should enrich my temples yearly. In this field there grows a tree, with gleaming golden leaves, and all its branches crackle with bright gold. Since I was coming from there, by some chance, I had three golden apples in my hand, which I had plucked. With them I planned to aid Hippomenes. While quite invisible to all but him, I taught him how to use those golden apples for his benefit.
+     <br/>
+     The trumpet soon gave signal for the race and both of them crouching flashed quickly forth and skimmed the surface of the sandy course with flying feet. You might even think those two could graze the sea with unwet feet and pass over the ripened heads of standing grain. Shouts of applause gave courage to the youth : the cheering multitude cried out to him :--‘Now is the time to use your strength. Go on! Hippomenes! Bend to the work! You're sure to win!’ It must be doubted who was most rejoiced by those brave words, Megareus' son, or Schoeneus' daughter. Oh, how often, when she could have passed him, she delayed her speed; and after gazing long upon his face reluctantly again would pass him! Now dry panting breath came from his weary throat--the goal still far away.--Then Neptune's [Poseidon's] scion threw one of three gold apples. Atalanta with wonder saw it--eager to possess the shining fruit, she turned out of her course, picked up the rolling gold. Hippomenes passed by her, while spectators roared applause. Increasing speed, she overcame delay, made up for time lost, and again she left the youth behind. She was delayed again because he tossed another golden apple. She followed him, and passed him in the race. The last part of the course remained. He cried `Be near me, goddess, while I use your gift.' With youthful might he threw the shining gold, in an oblique direction to the side, so that pursuit would mean a slow return. The virgin seemed to hesitate, in doubt whether to follow after this third prize. I forced her to turn for it; take it up; and, adding weight to the gold fruit, she held, impeded her with weight and loss of time. For fear my narrative may stretch beyond the race itself,--the maiden was outstripped; Hippomenes then led his prize away.
+     <br/>
+     Did I [Venus-Aphrodite] not deserve his thanks with tribute of sweet incense? But he [Hippomenes] was ungrateful, and, forgetful of my help, he gave me neither frankincense nor thanks. Such conduct threw me into sudden wrath, and, fretting at the slight, I felt I must not be despised at any future time. I told myself 'twas only right to make a just example of them. They were near a temple, hidden in the forest, which glorious Echion in remembered time had built to Rhea, Mother of the gods, in payment of a vow. So, wearied from the distance traveled, they were glad to have a needed rest. Hippomenes while there, was seized with love his heart could not control.--a passion caused by my divinity. Quite near the temple was a cave-like place, covered with pumice. It was hallowed by religious veneration of the past. Within the shadows of that place, a priest had stationed many wooden images of olden gods. The lovers entered there and desecrated it. The images were scandalized, and turned their eyes away. The tower-crowned Mother, Cybele, at first prepared to plunge the guilty pair beneath the waves of Styx, but such a punishment seemed light. And so their necks, that had been smooth. Were covered instantly with tawny manes; their fingers bent to claws; their arms were changed to fore-legs; and their bosoms held their weight; and with their tails they swept the sandy ground. Their casual glance is anger, and instead of words they utter growls. They haunt the woods, a bridal-room to their ferocious taste. And now fierce lions they are terrible to all of life; except to Cybele; whose harness has subdued their champing jaws."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 16. 263 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Ah, might the gods make you the prize in a mighty contest, and let the victor have you for his couch!--as Hippomenes bore off, the prize of his running, Schoeneus' daughter [Atalanta]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, History of Love 6. 1 ff (trans. Hopkins) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Hippomenes alone with hope inspir'd, might well rejoice to find his wishes fir'd, since well assur'd of all his wish desired. His passion was of life, and soul, and flame, he dauntless to the fatal barriers came : with joy his vanquished rivals he beheld, assur'd to win, when all besides had failed. He saw the lovely nymph outfly the wind, and leave her breathless suitors far behind; saw Atalanta swift as lightning pass, yet soft as Zephyrs, sweep along the grass. He knew the law, whose cruelty decreed, that ev'ry youth who lost the race should bleed. Yet if, like them, he could not run so fast, he saw her worth the dying for at last. Her ev'ry charm his praise and wonder mov'd, and still the more he praised, the more he lov'd, now had he viewed the last unhappy strife, and seen the vanquished youth resign his life. When with his love transported, from his place, lest any other first should claim the race, rising he runs, regardless of their fate, and presses where the panting maiden sat, with eyes all sparkling with his hope and love, and such a look, as could not fail to move; ‘Tell me (he cries) why, barb'rous beauty, why are you so pleased to see these wretches die? Why have you with my feeble rivals strove, betray'd to death by their too daring love? With me a less unequal race begin, with me exert your utmost speed to win; by my defeat you will your conquest crown, and in my fall establish your renown : then undisturb'd you may your conquests boast, for none will dare to strive when I have lost.’
+     <br/>
+     Thus while the prince his bold defiance spoke, ahe eyes him with a soft relenting look. Already does his distant fate deplore, concern'd for him, though ne'er concern'd before. Doubtful she stands, and knows not what to choose, and cannot wish to win, nor yet to lose, but murmurs to herself; ‘Ye powers divine, how hard, alas! a destiny is mine! Why must I longer such a law obey, and daily throw so many lives away? Why must I by their deaths my nuptials shun! Or else by marrying be myself undone? Why must I still my cruelty pursue? Why must a prince, so charming, perish too? Such is his youth, his beauty, valour such, e'en to myself I seem not worth so much. Fly, lovely stranger, 'ere 'tis yet too late. Fly from thy too, ah! too, too certain fate. I would not send thee hence, I would not give such a command; couldst thou but stay, and live. Thou with some fairer maid wilt happier be : the fairest maid might be in love with thee. So many suitors have already bled, who rashly ventured for my nuptial bed, I fear lest thou shouldst run like them in vain, shouldst lose like them, and, ah! like them be slain. Yet why should he alone my pity move? It is but pity sure; it is not love. I wish, bold youth, thou wouldst the race decline, or rather wish thy speed could equal mine. Would thou hadst never seen this fatal place, nor I, alas! thy too, too charming face. Were I by rig'rous fate allow'd to wed, thou shouldst alone enjoy, and bless my bed. Were it but left to my own partial choice, of all mankind thou shouldst obtain my voice.’
+     <br/>
+     Twas here she paus'd; when urg'd with long delay, the trumpets sound to hasten them away. Straight at the summons is the race begun, and side by side for some short time they run. While the spectators from the barriers cry, ‘Fly, prosp'rous youth, with all thy vigour fly : Make haste, make haste, thy utmost speed enforce, Love gives the wings to win the noble course. See how unwillingly the virgin flies, pursue, and save thy life, and seize the prize.’
+     <br/>
+     'Tis doubtful yet, whether the general voice made the glad youth or virgin most rejoice. Oft, in the swiftest fury of the race, the nymph would slacken her impetuous pace, and halt, and gaze, and almost fasten on his face. Then fleet away again, as swift as wind, not without sighs to leave him so behind. By this he saw his strength would ne'er prevail, but still he had a charm that could not fail. From his loose robe a golden apple drawn, with force he hurl'd along the flowery lawn. Straight at the sight the virgin could not hold, but starts aside to catch the shining gold. He takes the wished occasion, passes by, while all the field resounded shouts of joy. This she recovers with redoubled haste, till he far off the second apple cast. Again the nymph diverts her near pursuit, and running back secures the tempting fruit : but her strange speed recovers her again, again the foremost in the flowery plain.
+     <br/>
+     Now near the goal he summons all his might, and prays to Venus to direct him right,
+     <br/>
+     With his last apple to retard her flight. Though sure to lose if she the race declin'd, for such a bribe the vict'ry she resigned. Pleas'd that she'd lost, to the glad victor's arms she gives the prize, and yields her dear-bought charms. He by resistless gold the conquest gain'd, in vain he ran, till that the race obtain'd. Possess'd of that, he could not but subdue, for gold, alas! would conquer Delia [Artemis] too. Yet oh ! thou best belov'd, thou loveliest maid, be not by too much avarice betray'd. Prize thyself high, no easy purchase prove, nor let a fool with fortune be thy love. Like Atalanta's conqueror let him be, brave, generous, young. from every failing free, and to complete him let him love like me."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Art of Love 2. 188 ff (trans. Mahoney) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Fiercely Atalanta o er the forest rov'd, cruel and wild, and yet at last she lov'd. Melanion long deplor'd his hopeless flame, and weeping, in the woods pursu'd the scornful dame. On his submissive neck her toils he wore, and with his mistress chased the dreadful boar."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 6. 61 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Then he [the poet Orpheus] sings of the maid [Atalanta] who marvelled at the apples of the Hesperides [i.e. the Golden Apple]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 1. 1. 1 (trans. Katz) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Milanion (Melanion) wasn't afraid of anything when he crushed hard Atalanta's savagery.  He wandered mad in Parthenian caves, face to face with hairy beasts. Another time, shocked by a wound from [the centaur] Hylaeus' stick, he groaned loudly on the Arcadian cliffs. That's how he was able to dominate that brilliant girl : in love, you've got to pray a lot and do a lot."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 563 ff (trans. Mozley) (Roman epic C1st A.D.) :
+      <br/>
+     </span>
+     "Well know is his [Parthenopaios'] parent for speed of foot; who cannot tell of the peerless renown of Atalanta, and of those footprints that no suitor could o'ertake? ."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 267 ff :
+     </span>
+     <br/>
+     "The proud folk of Schoenos [a town in Boiotia (Boeotia)], Atalanta's home, who till the famous plain her feet imprinted."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 88 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "And after the goal of the stormy marriage-race, after the Paphian's [Aphrodite's] apples, Artemis shall change Atalanta into a lioness and drive her mad."
+    </p>
+    <hr/>
+    <h3 id="Parthenopaios">
+     ATALANTA &amp; HER SON PARTHENOPAEUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Seven Against Thebes 526 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The Seven Against Thebes :] Next I describe the fifth man [Parthenopaios (Parthenopaeus)] who is stationed at the fifth [gate] . . . He says this, the beautiful child of a mountain-bred mother [i.e. Atalanta]--a warrior, half man, half boy, and his beard's first growth is just now advancing on his cheeks, his youth in first bloom, thick, upspringing hair. But now he makes his advance with a savage heart and a terrifying look, not at all like the maidens he's named for [i.e.
+     <em>
+      parthenos
+     </em>
+     , ‘the maiden’] . . . he is Parthenopaios of Arkadia (Arcadia)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Phoenissae 145 ff (trans. Colleridge) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[A scene from the War of the Seven Against Thebes.]
+     <br/>
+     Antigone : Who is that youth passing by the tomb of Zethos (Zethus), with long flowing hair, fierce to see? . . .
+     <br/>
+     Servant : That is Parthenopaios (Parthenopaeus), Atalanta's son.
+     <br/>
+     Antigone : May Artemis, who rushes over the hills with his mother, lay him low with an arrow, for coming against my city to sack it!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 9. 2 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "By Melanion, or Ares, Atalanta had a son Parthenopaios (Parthenopaeus), who went to the war against Thebes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 65. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "[The Seven Against Thebes :] Parthenopaios (Parthenopaeus), the son of Atalanta, the daughter of Skhoineus (Schoeneus)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 70 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Seven Kings who set out for Thebes . . . Parthenopaeus, son of Meleager by Atalanta, daughter of Iasius, from Mount Parthenius, an Arcadian."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 99 :
+     </span>
+     <br/>
+     "Auge, daughter of Aleus, ravished by Hercules, when her time was near, gave birth to a child on Mount Parthenius, and there exposed him. At the same time Atalanta, daughter of Iasius, exposed a son by Meleager. A doe, however, sucked the child of Hercules. Shepherds found these boys and took them away and reared them, giving the name Telephus to the son of Hercules because a doe had suckled him, and to Atalanta's child the name Parthenopaeus, because she had exposed him on Mount Parthenius."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 270 :
+     </span>
+     <br/>
+     "Those who were most handsome . . . Parthenopaeus, son of Meleager and Atalanta."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 246 &amp; 309 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Adrastos musters the army of the Seven Against Thebes :] Thou too, Parthenopaeus, unknown to thy mother [Atalanta]--unschooled alas! in arms, such lure hath young ambition--speedest onward thy Parrhasian cohorts. Thy warlike parent [Atalanta], so it chanced--not otherwise could the boy have left her--was bringing peace with her bow to distant glades, and the farther slopes of cool Lycaeus. No fairer face was there of any marching to the grim hazard of war, none winds such favour for pre-eminent beauty; nor lacks he courage, so he but come to sterner years. What forest-queens and spirits enshrined in rivers, what nymphs of the glade hath he not fired with consuming passion? Diana [Artemis] herself, when she saw the boy beneath the shade of Maenalus steeping youthful o'er the grass, forgave her comrade [Atalanta], so they say, and with her own hand fitted to his shoulders the Dictean shafts and Amyclean quiver. Smitten by dauntless love of war he dashes to the front . . . His innocent shield adorned with his mother's Calydonian battles . . . [and with him Parthenopaeus brought an army of Arcadian warriors.]
+     <br/>
+     And now the tidings had filled the ears of Atalanta, that her son was going a captain to the war, and rousing all Arcadia; her steps faltered and the darts fell by her side; swifter than the winged wind she fled from the woodland, o'er rocks and brimming rivers that would stay her, just as she was, with snatched-up raiment and fair hair streaming behind her on the breeze; even as a tigress, bereft of her cubs, fiercely tracks the horse of him that robbed her. When she halted and pressed her bosom on the reins that met her (he pale, with eyes downcast) : ‘Whence comes this mad desire, my son, whence this reckless valour in thy young breast? Canst thou drill men to war, canst thou bear the burdens of Mars and go among the sword-bearing companies? Yet would that thou wert able! Lately I paled to see thee plying the hunting-lance in close conflict with a struggling boar, forced back upon bent knee and almost fallen, and had I not drawn my bow and sped an arrow, where now would be thy wars? Nought will my shafts avail thee, nor my shapely bows, nor this black-spotted steed in whom thou trustest; mighty are the endeavours to which thou hastenest, and thou a boy scarce ripe for the embraces of Dryades or the passions of Erymanthian Nymphae (Nymphs). Omens tell true : I wondered why Diana's [Artemis'] temple seemed to me of late to tremble, and the goddess herself to frown upon me, and why the votive spoils fell from her roof; this it was that made my archery slack and my hands to falter and never to strike sure. Nay, wait till thy prowess be greater, thy years more firm, till the shadow come upon thy rosy cheeks and my likeness fade from thy face. Then I myself will give thee the battles and the sword for which thou dost burn, and no mother's tears shall call thee back. Now take back thy weapons home! But you, will you suffer him to go to war, ye Arcadians, O born assuredly of rock and oak?’
+     <br/>
+     More would she fain entreat; her son and the chieftains thronging round console her and lessen her fears, and already the bugles' horrid signal blares forth. She cannot loose her son from her loving embrace, and commends him earnestly to his leader Adrastus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 561 ff :
+     </span>
+     <br/>
+     "[During the contests of the Seven at the first Nemean Games :] For Parthenopaeus the Arcadian they call aloud, and arouse murmurs that roam throughout the close-packed circus. Well know is his [Parthenopaios'] parent for speed of foot; who cannot tell of the peerless renown of Atalanta, and of those footprints that no suitor could o'ertake? The son bears all his mother's glory, and he himself, already known to fame, is said to catch on foot the defenceless hinds in the open glades of Mount Lycaeus, and, as he runs, to o'ertake the flung javelin."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 631 ff :
+     </span>
+     <br/>
+     "[Parthenopaeus prays to Artemis following his ill-omened defeat in a race at the first Nemean Games :] The youth of Tegea with silent prayer humbly entreats the gods : ‘Goddess, queen of the woodlands [Artemis], for to thee and to thine honour these locks of mine are vowed, and from this vow comes my disgrace; if my mother [Atalanta] or I myself have deserved well of thee in hunting, suffer me not, I pray thee, to go ill-omened thus to Thebes, or to have won such bitter shame for Arcadia.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 9. 570 ff :
+     </span>
+     <br/>
+     "[During the battle of the war of the Seven Against Thebes  :] Meanwhile the stern-eyed mother [Atalanta] of the Tegean archer-lad [Parthenopaeus], troubled in her sleep by gloomy dreams, with flying hair and feet duly unsandalled was going before day-break to Ladon's chilly stream, that she might cleanse her tainted slumbers in its living waters. For throughout many a distracted, care-worn night she would often see spoils that she herself had dedicated fallen from the shrines, and herself, a fugitive from the woodlands and chased away by Dryad folk, wandering by unknown tombs, and often new-won triumphs of her son brought home form the war, his armour, his well-known steed, his comrades, but himself never; or again she would see her quiver fallen from her shoulders, and her own images and familiar likenesses aflame. But that night seemed to the unhappy woman to portend surpassing terrors, and disturbed all her mother's heart. Well-known throughout the forests of Arcadia was an oak of fertile growth, which she herself had chosen from a multitude of groves and made sacred to Diana [Artemis], and by her worship endued with power divine; here she would lay by her bow and weary shafts, and fasten the curved weapons of boars and the flayed skins of lions, and antlers huge as woodland boughs. Scarce have the branches room, so closely set is it with spoils of the country-side, and the sheen of steal mingles with the green shade. This oak-tree, when once she was returning from the uplands tried with long chase, and carrying in proud triumph the head late-severed of an Erymanthian bear, she beheld all hacked and torn with many a wound, its foliage fallen, and its branches dripping blood and dying on the ground; in answer to her question a Nympha told of the violence of cruel Maenads and her foe Lyaeus [Dionysos]. While she moaned and beat her breast with imaginary blows, her eyes cast off their darkness; from her sorrowing couch she leaps, and searches o'er her cheeks for the phantom tears.
+     <br/>
+     So when by dipping thrice her hair in the river she had atoned the sacrilege, and added words that comfort a mother's troubled heart, she hastened to armed Diana's [Artemis'] shrine while the morning dew was falling, and rejoiced to see the familiar woodland and the oak-tree all unharmed. Then standing at the threshold of the goddess she prays thus, to no avail : ‘Maiden Queen of the forests, whose ungentle standards and ruthless warfare I follow, scorning my sex, in no Grecian manner--nor are the barbarous-fashioned Colchians or troops of Amazons more truly thy votaries--if I have never joined revelling bands or the wanton nightly sport, if, although stained by a hated union, I have nevertheless handled not the smooth wands nor the soft skeins, but even after wedlock remained in the rough wilds, a huntress still and in my heart a virgin; if I took no thought to hide my fault in some secret cave, but showed my child and confessed and laid him trembling at thy feet--no puny weakling was he, but straightway crawled to my bow, and as a babe he cried for arrows in his first tearful accents: for him I pray--ah! what mean these nights of terror, these threatening dreams?--for him, who now in confident hope, trusting overmuch, alas, in thee, is gone to battle; grant me to see him victorious in the war, or if I ask too much, grant me but to see him! Here let him labour and bear thy arms. Make the dire signs of ill to cease; what power, O Diana of the woods, have Maenades and Theban deities in our glades? Woe is me!--why in my own heart do I find a dreadful omen in the oak? But if sleep sends true presagings to my unhappy mind, I beseech thee, merciful Dictynna, by thy mother's travail and thy brother's splendour, pierce with all thine arrows this unblest womb! Let him first hear of his wretched mother's death!’
+     <br/>
+     She spoke, and beheld even cold Diana's marble moist with falling tears. The stern goddess leaves her still stretched upon the sacred doorway and brushing the cold altar with her tresses, and with a bound crosses the leafy summit of Maenalos in mid-air and directs her steps to Cadmus' walls, where the inner path of heaven shines for gods alone, and high uplifted views all the earth together. And now, near half-way on her road, she was passing the forest-clad ridges of Parnassus, when in a glittering cloud she saw her brother [Apollon] . . . He first began : ‘I know, my sister, 'tis the Labdacian ranks thou seekest, and the Arcadian who dares to fight too valiant for him. His faithful mother begs thee : would that the Fates might grant her prayer! . . . Nor do thou continue to summon aid that can but fail, nor pursue thy sad task in vain; the youth is near his end, 'tis fate immutable, nor do thy brother's oracles deceive thee on a doubtful matter.’
+     <br/>
+     ‘But I may surely obtain glory for him at the last,’ the maiden in dismay replies, ‘and find a solace for his death, if indeed it so must be, nor shall that man escape unpunished, whoever shall impiously stain his guilty hand with the blood of an innocent boy, and may my shafts wreak dire revenge!’ With these words she moved upon her way, and suffering her brother but a scant embrace sought Thebes in hostile mood . . . gliding through the air the swift Latonian takes her stand on the Dircaean height.
+     <br/>
+     But the land, exultant now that the slaughter has begun, was darting between the lines [Parthenopaeus] . . . Tender sorrow steals to the depth of Diana's heart as she beholds this sight, and staining her cheeks with tears she cries : ‘What escape from approaching death can thy faithful goddess find thee now? Was it to battles such as these thou hastenedst, fierce, ill-fated lad? Alas! thy rash and untried spirit drove thee, and the love of fame that prompts to a glorious death. Too scant already, forsooth, was the Maenalian forest for thy impetuous years, and the paths that lay through lairs of beasts, scarce safe for thee, child, without thy mother, to whose bow and woodland spears, impudent boy, thy strength was yet unequal. And she now is making loud and bitter complaint about my altars, and wearies the unhearing doors and thresholds; in the well-loved clarions and the battle's outcry thou art rejoicing, happy thou, and thou shalt die making but thy mother wretched.’
+     <br/>
+     Yet lest as he dies she fail to bring him her last honour, she advances into the midst of the array, hemmed about with dusky mist, and first stealing the light shafts from the back of the bold lad, she fill his quiver with celestial arrows, whereof none falls unstained with blood; then she sprinkles his limbs with ambrosial liquor, and his steed also, lest their bodies be profaned by any wound before his death . . . Then indeed uncovering his bow he darts in fiery course about the field, nor is controlled by caution, forgetful of his native land, his mother and himself, and uses overmuch his heavenly weapons."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 9. 789 ff :
+     </span>
+     <br/>
+     "[Parthenopaeus] the truculent son of Atalanta raged with yet bitterer taunts against him [Amphion, his opponent on the battlefield,], and ere yet the other had ended thus begins : ‘. . . From childhood I learnt to crawl on frozen streams, and to enter the dread lairs of monsters, and--but why should I say more? My mother has ever the sword and bow, your fathers beat hollow drums!’ Amphion brooked this not, but hurled a mighty spear at his face while he spoke; but his charger, affrighted by the terrible gleam of the steel, swung round with his master to one side, and swerving sent the greedy javelin flying wide of the mark. Amphion was attacking the youth with drawn sword the more fiercely, when the Latonian [Artemis] leapt down into mid-plain, and stood clear to see before the eyes of all.
+     <br/>
+     Dorceus of Maenalus, bound by the ties of chaste affection, was keeping close to the lad's side : to him the queen [Atalanta] had entrusted her son's rash youth and her own fears and all the chances of war. Disguised in his features the goddess then addressed the boy : ‘Enough, Parthenopaeus, to have routed the Ogygian bands so far; enough, now spare thy unhappy mother, spare the gods who favour thee.’ . . . [But Ares forces Artemis to withdraw from the battle and Parthenopaeus is struck down by the spear of the Theban hero Dryas.]
+     <br/>
+     The lad is carried from the field in his comrades' arms . . . At last he speaks, with sobs that break his utterance : ‘I am dying, Dorceus : go, solace my poor mother. Already, if care doth bring true presage, she hath seen this calamity in dream or omen. Yet do thou with loyal craft keep her fears in suspense, and long deceive her; nor come upon her of a sudden, nor when she holds a weapon in her hand; and when at last thou art forced to admit the truth, say this to her : Mother, I confess my fault; exact thy unwilling punishment; I rushed to arms, though a mere boy, nor, though thou didst hold me back, would I be still, nor, despite thy trouble, war once begun did I spare thee at the last. Live then thou and be angry rather at my impetuous spirit and now be done with fears. In vain dost thou look forth anxiously from Lycaeus' hill, if perchance sound or dust of my cavalcade rise to thee through the air afar; cold on the bare earth I lie, and thou art nowhere near me, to hold my face and catch my parting breath. Yet take this tress, O mother bereaved,' and with his hand he offered it to be cut, `take this tress in place of my whole body; once thou wert wont to trim it in spite of my vain scorn. To it give burial, and amid the rites remember to let none blunt my weapons with inexperienced hands, or lead my beloved hounds to the hunting-grounds any more. But burn these ill-fated arms of my first warfare, or hand them up as a reproach to ungrateful Diana.’"
+    </p>
+    <hr/>
+    <h3 id="Islands">
+     THE ISLANDS OF ATALANTA
+    </h3>
+    <p>
+     There were two small islands named Atalanta, one off of the Boiotian-Lokrian coast and the other near the Athenian port of Pieraios (Piraeus). Both were presumably named after the heroine.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Thucydides, History of the Peloponnesian War 3. 39. 3 (trans. Crawley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "An inundation occurred at Atalanta, the island off the Opountian-Lokrian (Opuntian-Locrian) coast, carrying away part of the Athenian fort."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 1 .14 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Psyttalia, a small, deserted, rocky island, which some have called the eyesore of the Peiraios (Piraeus). And near by, too, is Atalanta, which bears the same name as the island near Euboia (Euboea) and the Lokrians."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 4. 2 :
+     </span>
+     <br/>
+     "The island Atalanta is also situated opposite Opous (Opus) [town in Lokris], and bears the same name as the island in front of Attika (Attica)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 20. 4 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The Lokrians (Locrians) over against the island of Atalanta."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M17.2.html">
+        <img alt="Thumbnail Calydonian Boar Hunt" src="../image/thumbM17.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M17.2 Calydonian Boar Hunt
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.8.html">
+        <img alt="Thumbnail Eros &amp; the Race of Atalanta" src="../image/thumbK32.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.8 Eros &amp; the Race of Atalanta
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Seven Against Thebes
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Phoenissae
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Thucydides, Peloponnesian War
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Xenophon, On Hunting
+      <span class="sources-detail">
+       - Greek Scholar C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Theocritus, Idylls
+      <span class="sources-detail">
+       - Greek Idyllic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Art of Love
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, History of Love
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Diodorus Siculus 4.34.4, Servius On Virgil's Aeneid 3.113, First Vatican Mythographer 39 &amp; 174, Second Vatican Mythographer 47 &amp; 144.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     ATALANTA SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE HEROINE ATALANTA
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Iasus or Schoeneus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Husband
+       </th>
+       <td>
+        Melanion or Hippomenes
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Maenalus in Arcadia
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     ATALANTA PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Atalanta
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Summary">
+       Summary of Atalanta's Story
+      </a>
+     </li>
+     <li>
+      <a href="#Childhood">
+       Childhood &amp; Youth of Atalanta
+      </a>
+     </li>
+     <li>
+      <a href="#Argonauts">
+       Atalanta &amp; the Voyage of the Argonauts
+      </a>
+     </li>
+     <li>
+      <a href="#Kalydon">
+       Atalanta &amp; Calydonian Boar Hunt
+      </a>
+     </li>
+     <li>
+      <a href="#Melanion">
+       The Race of Atalanta &amp; Melanion
+      </a>
+     </li>
+     <li>
+      <a href="#Parthenopaios">
+       Atalanta &amp; her Son Parthenopaeus
+      </a>
+     </li>
+     <li>
+      <a href="#Islands">
+       Islands of Atalanta
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

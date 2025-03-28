@@ -1,0 +1,2314 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   HARPIES (Harpyiai) - Bird-Women Monsters &amp; Storm Spirits of Greek Mythology
+  </title>
+  <meta content="In Greek mythology the Harpies were the spirits of sudden, sharp gusts of wind. They were known as the hounds of Zeus and were despatched by the god to snatch away people and things from the earth. Sudden, mysterious dissappearances were often attributed to the Harpies. The Harpies were depicted as winged women, sometimes with ugly faces, or with the lower bodies of birds." name="description"/>
+  <meta content="Harpies, Harpy, Harpyiai, Harpyiae, Greek mythology, half-bird women, Harpies pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-storm.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt; Harpies (Harpyiai)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HARPYIAI
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ἁρπθαι Ἁρπθιαι
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Harpyia, Harpyiai
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Harpyia, Harpyiae
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Snatchers (
+       <em>
+        harpazô
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/P20.1.html">
+      <img alt="Phineus and the Harpies | Athenian red figure hydria C5th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/P20.1Harpyiai.jpg"/>
+     </a>
+     <figcaption>
+      Phineus and the Harpies, Athenian red-figure hydria C5th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE HARPYIAI (Harpies) were the spirits (
+     <em>
+      daimones
+     </em>
+     ) of sudden, sharp gusts of wind. They were known as the hounds of
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     and were despatched by the god to snatch away (
+     <em>
+      harpazô
+     </em>
+     ) people and things from the earth. Sudden, mysterious dissappearances were often attributed to the Harpyiai.
+    </p>
+    <p>
+     The Harpyiai were once sent by Zeus to plague King Phineus of Thrake (Thrace) as punishment for revealing the secrets of the gods. Whenever a plate of food was set before him, the Harpyiai would swoop down and snatch it away, befouling any scraps left behind. When the Argonauts came to visit, the winged Boreades gave chase, and pursued the Harpies to the Strophades Islands, where the goddess
+     <a href="Iris.html">
+      Iris
+     </a>
+     commanded them to turn back and leave the storm-spirits unharmed.
+    </p>
+    <p>
+     The Harpyiai were depicted as winged women, sometimes with ugly faces, or with the lower bodies of birds.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE HARPIES
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="Thaumas.html">
+      THAUMAS
+     </a>
+     &amp;
+     <a href="../Nymphe/NympheElektra1.html">
+      ELEKTRA
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 265, Apollodorus 1.10, Hyginus Preface)
+     </span>
+     <br/>
+     [1.2]
+     <a href="Thaumas.html">
+      THAUMAS
+     </a>
+     &amp;
+     <a href="../Nymphe/NympheElektra1.html">
+      OZOMENE
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 14)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Gigante/Typhoeus.html">
+      TYPHOEUS
+     </a>
+     <span class="family-refs">
+      (Valerius Flaccus 4.425)
+     </span>
+    </p>
+    <h3>
+     NAMES
+    </h3>
+    <p>
+     [1.1] OKYPETE, AELLO
+     <span class="family-refs">
+      (Hesiod Theogony 265, Apollodorus 1.10)
+     </span>
+     <br/>
+     [1.2] PODARGE
+     <span class="family-refs">
+      (Homer Iliad 16.148, Stesichorus Frag 178)
+     </span>
+     <br/>
+     [1.3] OKYPETE-OKYTHOE-OKYPODE, AELLOPOS-NIKOTHOE
+     <span class="family-refs">
+      (Apollodorus 1.121)
+     </span>
+     <br/>
+     [1.4] OKYPETE, PODARKE-AELLOPOS, KELAINO
+     <span class="family-refs">
+      (Hyginus Preface, Hyginus Fabulae 14)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING OF PODARGE
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Ther/HippoiBaliosXanthos.html">
+      XANTHOS
+     </a>
+     ,
+     <a href="../Ther/HippoiBaliosXanthos.html">
+      BALIOS
+     </a>
+     (by
+     <a href="../Titan/AnemosZephyros.html">
+      Zephyros
+     </a>
+     )
+     <span class="family-refs">
+      (Homer Iliad 16.148, Quintus Smyrnaeus 3.743)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Ther/HippoiDioskourioi.html">
+      PHLOGEUS
+     </a>
+     ,
+     <a href="../Ther/HippoiDioskourioi.html">
+      HARPAGOS
+     </a>
+     <span class="family-refs">
+      (Stesichorus Frag 178)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Ther/HipposAreion.html">
+      AREION
+     </a>
+     <span class="family-refs">
+      (Quintus Smyrnaeus 4.569)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING OF AELLOPOS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Ther/HippoiErekhtheioi.html">
+      XANTHOS
+     </a>
+     ,
+     <a href="../Ther/HippoiErekhtheioi.html">
+      PODARKES
+     </a>
+     (by
+     <a href="../Gigante/Typhoeus.html">
+      Boreas
+     </a>
+     )
+     <span class="family-refs">
+      (Nonnus Dionysiaca 37.155)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     HARPYIAE (Harpuiai), that is, "the swift robbers," are, in the Homeric poems, nothing but personified storm winds. (
+     <em>
+      Od.
+     </em>
+     xx. 66, 77.) Homer mentions only one by name, viz. Podarge, who was married to Zephyrus, and gave birth to the two horses of Achilles, Xanthus and Balius. (
+     <em>
+      Il.
+     </em>
+     xvi. 149, &amp;c.) When a person suddenly disappeared from the earth, it was said that he had been carried off by the Harpies (
+     <em>
+      Od.
+     </em>
+     i. 241, xiv. 371); thus, they carried off the daughters of king Pandareus, and gave them as servants to the Erinnyes. (
+     <em>
+      Od.
+     </em>
+     xx. 78.) According to Hesiod (
+     <em>
+      Theog.
+     </em>
+     267, &amp;c.), the Harpies were the daughters of Thaumas by the Oceanid Electra, fair-locked and winged maidens, who surpassed winds and birds in the rapidity of their flight. Their names in Hesiod are Aëllo and Ocypete. (Comp. Apollod. i. 2. § 6.) But even as early as the time of Aeschylus (
+     <em>
+      Eum.
+     </em>
+     50), they are described as ugly creatures with wings, and later writers carry their notions of the Harpies so far as to represent them as most disgusting monsters. They were sent by the gods as a punishment to harass the blind Phineus, and whenever a meal was placed before him, they darted down from the air and carried it off; later writers add, that they either devoured the food themselves, or that they dirtied it by dropping upon it some stinking substance, so as to render it unfit to be eaten. They are further described in these later accounts as birds with the heads of maidens, with long claws on their hands, and with faces pale with hunger. (Virg.
+     <em>
+      Aen.
+     </em>
+     iii. 216, &amp;c.; Tzetz.
+     <em>
+      ad Lycoph.
+     </em>
+     653; Ov.
+     <em>
+      Met.
+     </em>
+     vii.4,
+     <em>
+      Fast.
+     </em>
+     vi. 132; Hygin.
+     <em>
+      Fab.
+     </em>
+     14.) The traditions about their parentage likewise differ in the different traditions, for some called them the daughters of Pontus (or Poseidon) and Terra (Serv.
+     <em>
+      ad Aen.
+     </em>
+     iii. 241), of Typhon (Val. Flacc iv. 428, 516), or even of Phineus. (Tzetz.
+     <em>
+      ad Lycoph.
+     </em>
+     166,
+     <em>
+      Chil.
+     </em>
+     i. 220; Palaephat. 23. 3). Their number is either two, as in Hesiod and Apollodorus, or three; but their names are not the same in all writers, and, besides those already mentioned, we find Aëllopos, Nicothoë, Ocythoë, Ocypode, Celaeno, Acholoë. (Apollod. i. 9, 21; Serv.
+     <em>
+      ad Aen.
+     </em>
+     iii. 209; Hygin.
+     <em>
+      Fab.
+     </em>
+     Praef. p. 15,
+     <em>
+      Fab.
+     </em>
+     14.) Their place of abode is either the islands called Strophades (Virg.
+     <em>
+      Aen.
+     </em>
+     iii. 210), a place at the entrance of Orcus (vi. 289), or a cave in Crete. (Apollon. Rhod. ii. 298.) The most celebrated story in which the Harpies play a part is that of Phineus, at whose residence the Argonauts arrived while he was plagued by the monsters. He promised to instruct them respecting the course they had to take, if they would deliver him from the Harpies. When the food for Phineus was laid out on a table, the Harpies immediately came, and were attacked by the Boreades, Zetes and Calais, who were among the Argonauts, and provided with wings. According to an ancient oracle, the Harpies were to perish by the hands of the Boreades, but the latter were to die if they could not overtake the Harpies. The latter fled, but one fell into the river Tigris, which was hence called Harpys, and the other reached the Echinades, and as she never returned, the islands were called Strophades. But being worn out with fatigue, she fell down simultaneously with her pursuer; and, as they promised no further to molest Phineus, the two Harpies were not deprived of their lives. (Apollod. i. 9. § 21.) According to others, the Boreades were on the point of killing the Harpies, when Iris or Hermes appeared, and commanded the conquerors to set them free, or both the Harpies as well as the Boreades died. (Schol.
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     i. 286, 297; Tzetz.
+     <em>
+      Chil.
+     </em>
+     i. 217.) In the famous Harpy monument recently brought from Lycia to this country, the Harpies are represented in the act of carrying off the daughters of Pandareus.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2 id="Names">
+     NAMES OF THE HARPIES
+    </h2>
+    <h3>
+     NAMES OF INDIVIDUAL HARPIES
+    </h3>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Αελλω
+      </p>
+      <p class="names-greek">
+       Αελλοπος
+      </p>
+      <p class="names-greek">
+       Νικοθοη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Aellô
+      </p>
+      <p>
+       Aellopos
+      </p>
+      <p>
+       Nikothoê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Aello
+      </p>
+      <p>
+       Aellopus
+      </p>
+      <p>
+       Nicothoe
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Storm-Wind (
+       <em>
+        aella
+       </em>
+       )
+      </p>
+      <p>
+       Storm-Footed (
+       <em>
+        aella, pous
+       </em>
+       )
+      </p>
+      <p>
+       Racing-Victor (
+       <em>
+        thoos, nikê
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Κελαινω
+      </p>
+      <p class="names-greek">
+       Ποδαρκη
+      </p>
+      <p class="names-greek">
+       Ποδαργη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Kelainô
+      </p>
+      <p>
+       Podarkê
+      </p>
+      <p>
+       Podargê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Celaeno
+      </p>
+      <p>
+       Podarce
+      </p>
+      <p>
+       Podarge
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Black-One (
+       <em>
+        kelainos
+       </em>
+       )
+      </p>
+      <p>
+       Fleet-Footed (
+       <em>
+        arkês, pous
+       </em>
+       )
+      </p>
+      <p>
+       Flashing-Footed (
+       <em>
+        argês, pous
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <h3>
+     ALTERNATE NAMES
+    </h3>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Θυελλα Θυελλαι
+      </p>
+      <p class="names-greek">
+       Αελλα Αελλαι
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Thuella, Thuellai
+      </p>
+      <p>
+       Aella, Aellai
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Thuella, Thuellae
+      </p>
+      <p>
+       Aella, Aellae
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Storm-Winds, Squalls (
+       <em>
+        thuella
+       </em>
+       )
+      </p>
+      <p>
+       Storm-Winds, Whirlwinds (
+       <em>
+        aella
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE &amp; NAMES OF THE HARPIES
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/P20.3.html">
+      <img alt="Boreads chasing Harpies | Laconian black-figure kylix C6th B.C. | National Etruscan Museum, Rome" class="img-responsive center-block" src="../image/P20.3Harpyiai.jpg"/>
+     </a>
+     <figcaption>
+      Boreads chasing Harpies, Laconian black-figure kylix C6th B.C.,
+      <a href="http://www.villagiulia.beniculturali.it/" target="_blank">
+       National Etruscan Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 265 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Now Thaumas married a daughter of deep-running Okeanos (Oceanus), Elektra (Electra), and she bore him swift-footed Iris, the rainbow, and the Harpyiai (Harpies) of the lovely hair, Okypete (Ocypete) and Aello, and these two in the speed of their wings keep pace with the blowing winds, or birds in flight, as they soar and swoop, high aloft."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 10 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Thaumas and Elektra (Electra) had Iris and the Harpyiai (Harpies) named Aello and Okypete (Ocypete)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 123 :
+     </span>
+     <br/>
+     "[One Harpyia (Harpy)] was named Nikothoe (NIcothoe) by some, Aellopos by others, while the other was called Okypete (Ocypete) or Okythoe (Ocythoe), or, according to Hesiod, Okypode (Ocypode)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Thaumas and Electra [were born] : Iris, Harpyiae (Harpies) [named] Celaeno, Ocypete, Podarce."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 14 :
+     </span>
+     <br/>
+     "The three Harpyiae (Harpies), Aellopous, Celaeno, and Ocypete, daughters of Thaumas and Ozomene . . . They are said to have been feathered, with cocks' heads, wings, and human arms, with great claws; breasts, bellies, and female parts human."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 3. 209 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Bird-bodied, girl-faced things they [the Harpyiai (Harpies)] are; abominable their droppings, their hands are talons, their faces haggard with hunger insatiable."
+    </p>
+    <hr/>
+    <h3 id="Whirlwind">
+     HARPIES THE SNATCHING WHIRLWINDS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 1. 241 &amp; 14. 371 (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "But no, the Harpyiai (Harpies, Storm-Spirits) have snatched him [Odysseys] ingloriously away."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 20. 61 ff :
+     </span>
+     <br/>
+     "[Penelope laments :] ‘Or else if a Thuella (Storm-Wind) [i.e. a Harpy] might snatch me up, carry me on through dusky pathways and cast me down at the issuing-place of backward-flowing Okeanos (Oceanus). Let it be as when the Thuellai (Storm-Winds) [Harpies] bore off the daughters of Pandareus. The gods long before had slain their parents, and the girls were left orphans in their house. But Lady Aphrodite had nurtured them . . . But when Aphrodite went up to high Olympos to entreat Zeus to let these girls attain the moment of happy marriage . . . meanwhile the Harpyiai (Harpies) snatched them away and delivered them to the ministrations of the detested Erinyes (Furies). In self-same fashion may the Olympians cause me to vanish from the world.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 10. 1 ff :
+     </span>
+     <br/>
+     "[The Harpyiai (Harpies) were possibly numbered amongst the Winds commanded by Aiolos (Aeolus) in the
+     <em>
+      Odyssey
+     </em>
+     :] Aiolos, son of Hippotas; the deathless gods counted him their friend. His island is a floating one; all round it there is a wall of bronze, unbreakable, and rock rises sheer above it. Twelve children of his live in the palace with him; six are daughters [perhaps the Thuellai, storm-winds], six are sons [perhaps the Anemoi, directional-winds] in the prime of youth; moreover the king has given his daughters as wives to his sons. These all hold a continual feast with their dear father and much-loved mother; countless dainties are there before them, and through the daytime the hall is rich with savoury smells and murmurous with the sound of music. At night they sleep, each with his own chaste wife, on inlaid bedsteads with coverlets over them . . . Kronion (Cronion) [Zeus] had made him warden of all the Anemoi (Winds), to bid each of them rise or fall at his own pleasure . . .
+     <br/>
+     [Aiolos (Aeolus) placed the winds in a bag and entrusted them to the keeping of Odysseus, but his men in their greed opened the bag :] They undid the bag, the winds (
+     <em>
+      anemoi
+     </em>
+     ) rushed out all together, and in a moment a tempest (
+     <em>
+      thuella
+     </em>
+     ) had seized my crew and was driving them--now all in tears--back to the open sea and away from home. I myself awoke, and wondered if now I should throw myself overboard and be drowned in ocean or if I should bear it all in silence and stay among the living. I did bear it and did remain, but covered my face as I lay on deck. My own ship and the others with it were carried back by raging storm (
+     <em>
+      anemos thuella
+     </em>
+     ) to the island of Aiolos, amid the groaning of all my company."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 14 (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "[Atalanta ran] as swift as a Harpyia (Harpy)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 179 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "With as little warning as a whirlwind or a lightning flash, they [the Harpyiai (Harpies)] dropped from the clouds . . . [and in their speed] they outstripped the storm winds from the West."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 1115 ff :
+     </span>
+     <br/>
+     "May the Aellai (Storm-Winds) snatch me up and carry me across the sea to Iolkos (Iolcus) . . . Dear lady, you may spare the wandering Winds that task."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 395 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[Hekabe (Hecuba) laments upon the sack of Troy :] ‘Oh that the Harpyiai (Spirits of the Storm) had snatched me from the earth when first I fared with thee [King Priamos] drawn by a baleful Aisa (Fate)!’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 4. 425 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "In fleet a whirlwind do they [the Harpyiai (Harpies)] pass over peoples and seas afar."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Harpyiai (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Harpyiai (Harpies, Snatchers) : Rapacious [female] daimones."
+    </p>
+    <hr/>
+    <h3 id="Phineus">
+     THE HARPIES, PHINEUS &amp; THE ARGONAUTS
+    </h3>
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/P20.2.html">
+      <img alt="Boreads chasing Harpies | Apulian red-figure amphora C4th B.C. | Jatta National Archaeological Museum" class="img-responsive center-block" src="../image/P20.2Harpyiai.jpg"/>
+     </a>
+     <figcaption>
+      Boreads chasing Harpies, Apulian red-figure amphora C4th B.C., Jatta National Archaeological Museum
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 40 (from Ephoros in Strabo 7. 302) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Hesiod, in the so-called Journey round the Earth, says that 
+  Phineus was brought by the Harpyiai (Harpies) ‘to the land of milk-feeders  who have waggons for houses.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 40A (from Oxyrhynchus Papyri 1358 fr2) :
+     </span>
+     <br/>
+     "The Boreades pursued the Harpyiai (Harpies) to the lands 
+  of the Massagetai and of the proud Half-Dog men, of the 
+  Underground-folk and of the feeble Pygmaioi (Pygmies); and to the tribes of 
+  the boundless Black-skins and the Libyes (Africans). Huge Gaia (Gaea, Earth) bare these 
+  to Epaphus . . ((lacuna)) Aithiopes (Ethiopians) and Libyes (Africans) and mare-milking 
+  Skythes (Scythians) . . ((lacuna)) Round 
+  about all these the Boreades sped in darting flight . . ((lacuna)) [to the land] of the well-horsed Hyperboreoi--whom Gaia (Gaea, Earth) the all-
+  nourishing bare far off by the tumbling streams of deep-flowing 
+  Eridanos . . ((lacuna)) and [chased them] about the steep Fawn mountain and rugged Aitna (Etna) to the isle 
+  Ortygia and the people sprung from Laistrygon (Laestrygon) who was the son of 
+  wide-reigning Poseidon. Twice ranged the Boreades along 
+  this coast and wheeled round and about yearning to catch the 
+  Harpyiai (Harpies), while they strove to escape and avoid them. And they 
+  sped to the tribe of the haughty Kephallenians (Cephallenians), the people of 
+  patient-souled Odysseus  . . ((lacuna)) Then they came to the land of the 
+  lord the son of Ares [Aitolia] . . ((lacuna)) Yet still the Boreades ever pursued them with instant feet. So they [the Harpyiai] sped over the sea and through the fruitless air."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 42 (from Scholiast on Apollonius Rhodius 2.297) :
+     </span>
+     <br/>
+     "Hesiod also says that those with Zetes [the Argonauts] turned and prayed to 
+  Zeus : ‘There they prayed to the lord of Ainos (Aenus) who reigns on 
+  high.’          Apollonios indeed says it was Iris (the Rainbow) who made Zetes and his 
+  following turn away [from their pursuit of the Harpyiai (Harpies)], but Hesiod says Hermes.'"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Frag 42 (from Scholiast on Apollonius Rhodius 2. 296) :
+     </span>
+     <br/>
+     "Others say (the islands) were called Strophades, because they [the Boreades] 
+  turned there and prayed Zeus to seize the Harpyiai (Harpies). But according 
+  to Hesiod . . . they were not killed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ibycus, Fragment 292 (from Philodemus, Piety) (trans. Campbell, Vol. Greek Lyric III) (Greek lyric C6th B.C.) :
+     </span>
+     <br/>
+     "Aiskhylos (Aeschylus) . . . and Ibykos (Ibycus) and Telestes represent the Harpyiai (Harpies) as being killed by the Boreades."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theognis, Fragment 1. 715 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Faster of foot than the swift Harpyiai (Harpies) and the fleet-footed sons of Boreas."
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Phineus (lost play) (Greek tragedy C5th B.C.) :
+       <br/>
+      </span>
+      Aeschylus' lost drama  told the story of the arrival of the Argonauts at the court of King Phineus and how the Boreades drove away the Harpyiai (Harpies) which were tormenting him. According to Philodemus,
+      <em>
+       On Piety
+      </em>
+      Aeschylus represented the Harpyiai as being killed by the Boreades.
+     </span>
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 142 Phineus (from Athenaeus, Deipnosophists 10. 18. 421F) (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+       <br/>
+      </span>
+     </span>
+     "And many a deceitful meal with greedy jaws did they [the Harpyiai (Harpies)] snatch away amid the first delight of appetite."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 155 (from Aristophanes, Frogs 1291)  :
+      <br/>
+     </span>
+     "Giving him [Phineus?] as booty to the eager hounds [the Harpyiai?] that range the air."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 50 ff :
+     </span>
+     <br/>
+     "[The Pythia, prophetess of Delphoi, speaks :] Once before I saw some creatures [the Harpyiai (Harpies)] in a painting, carrying off the feast of Phineus; but these [the Erinyes (Erinyes)] are wingless in appearance, black, altogether disgusting."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 121 - 123 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The gods also sent on him [Phineus] the winged Harpyiai (Harpies), who when a table was prepared for Phineus, would swoop from the sky and grab most of the food. What little was left smelled too foul to be served. When the Argonauts sought information about their voyage, Phineus said that he would oblige them if they would exterminate the Harpyiai for him. So they set a meal on the table beside him, and the Harpyiai with a cry at once swooped down and seized it. When the sons of Boreas (the North Wind), Zetes and Kalais (Calais), saw them, they unsheathed their swords and, since they were themselves winged, took after them through the air. Now it happened to be a decree of fate that the Harpyiai should die at the hands of the sons of Boreas, and also that the sons should meet their end whenever they failed to catch the object of their chase. So as the Harpyiai were being chased, one fell into the Peloponnesian river Tigres--which is now called the Harpys after her; she, by the way, was named Nikothoe by some, Aellopos by others--, while the other--called Okypete or Okythoe, or, according to Hesiod, Okypode--fled along past the Propontis until she reached the Ekhinades (Echinades) islands, which are now called the Strophades (Isles of Turning), because she turned when she reached them and fell exhausted on their shore along with her pursuer. Apollonios, however, in the
+     <em>
+      Argonautica
+     </em>
+     writes that both Harpyiai were pursued to the Strophades, but suffered no harm after swearing that they would no longer mistreat Phineus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 199 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Zetes and Kalais (Calais), who sailed with Iason (Jason) and died pursuing the Harpyiai (Harpies), although Akousilaos (Acusilaus) says they were killed by Herakles (Heracles)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 179 - 434 (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Phoibos (Phoebus) [Apollon] had once endowed this man [King Phineus] with prophetic powers but the gift had brought on him the most appalling tribulations. For he showed no reverence even for Zeus, whose sacred purposes he did not scruple to disclose in full to all. Zeus punished him for this by giving him a lingering old age, without the boon of sight. He even robbed him of such pleasure as he might have got from the many dainties which neighbours kept bringing to his house when they came there to consult the oracle. On every occasion the Harpyiai (Harpies) swooped down through the clouds and snatched the food from his mouth and hands with their beaks, sometimes leaving him not a morsel, sometimes a few scraps, so that he might live and be tormented. They gave a loathsome stench to everything. What bits were left emitted such a smell that no one could have borne to put them in his mouth or even to come near . . .
+     <br/>
+     [Phineus addresses the Argonauts :] ‘I beseech you to help me, to save a luckless man from degradation and not to pass on unconcernedly and leave me as I am. Not only has the Fury quenched my sight, so that I drag myself through my last years in misery, but over and above all this I am the victim of another curse, which plagues me more than all. Harpyiai who live in some abominable haunt that lies beyond our ken swoop down on me and snatch the food from my lips. There is nothing I can do to stop them. It would be easier for me, when I am hungry, to forget my appetite than it would be to escape from them, so swiftly do they dart down from the sky. And if they leave me any food at all it stinks of putrefaction, the smell is intolerable, and no once could bear to come near it, even for a moment, even if he had an adamantine will. Yet bitter necessity that cannot be gainsaid, not only keeps me there, but forces me to pamper my accursed belly. But there is an oracle which says that these Harpyiai shall be dealt with by the two sons of Boreas (the North Wind)--no unknown foreigner shall drive them off.’ . . .
+     <br/>
+     [The Boread Zetes addresses Phineus :] ‘We should be quick to help you, if it were true that we are destined for this honour. Yet the thought fills us with dismay. No one is left in doubt when Heaven is punishing a mortal man. And for all our eagerness we dare not undertake to foil the Harpyiai when they come, unless you can assure us on oath that by doing so we shall not lose the favour of the gods.’
+     <br/>
+     The old man opened his sightless eyes and raising then as thought to look him in the face, replied to Zetes : ‘Say no more, my child. I beg you not to entertain such fears. I swear . . . that you will not incur the wrath of Heaven by helping me.’
+     <br/>
+     Reassured by these oaths the pair were eager to take up his cause. The younger members of the party immediately prepared a meal for the old man--the last pickings that the Harpyiai (Harpies) were to get from him--while Zetes and Kalias (Calais) took their stand beside him ready to smite them with their swords when they attacked. And Phineus had scarcely taken the first morsel up when, with as little warning as a whirlwind or a lightning flash, they dropped from the clouds proclaiming their desire for food with raucous cries. The young lords saw them coming and raised the alarm. Yet they had hardly done so before the Harpyiai had devoured the whole meal and were on the wing once more, far out at sea. All they left was an intolerable stench.
+     <br/>
+     Raising their swords, the two sons of Boreas flew off in pursuit. Zeus gave them indefatigable strength; indeed, without his aid, there could have been no chase, for whenever the Harpyiai came to Phineos’ house or left it they outstripped the storm winds from the West. But Zetes and Kalais very nearly caught them. They even touched them, though to little purpose, with their finger-tips, like a couple of keen hounds on a hillside, hot on the track of a horned goat or a deer, pressing close behind the quarry and snapping at the empty air. Yet even with Heaven against them, the long chase would certainly have ended in their tearing the Harpyiai to pieces when they overtook them at the Ekhinades (Echinades, Floating Isles),but for Iris of the swift feet,who when she saw them leapt down from Olympos through the sky and checked them with these words : ‘Sons of Boreas, you may not touch the Harpyiai with your swords: they are the hounds of almighty Zeus. But I myself will undertake on oath that never again shall they come near to Phineus.’
+     <br/>
+     And she went on to swear by the waters of Styx, the most portentous and inviolable oath that any god can take, that the Harpyiai should never visit Phineus' house again, such being Fate's decree. This oath prevailed upon the noble brothers, who wheeled round and set their course for safety and the ship; which is the reason why the Ekhinades (Floating Isles) have changed their name and are now called the Strophades (Islands of Return). The Harpyiai and Iris went their different ways. The Harpyiai withdrew to a den in Minoan Krete (Crete), and Iris soared up to Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 430 ff :
+     </span>
+     <br/>
+     "[Zetes, after returning from the chase of the Harpyiai (Harpies), :] told his eager friends [the Argonauts] how long the chase had been; how Iris had saved the Harpyiai's lives, but with a gracious undertaking for the time to come; and how the frightened monsters had taken refuge in the great cavern under the cliff of Dikte (Dicte)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 17. 11 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Among the scenes illustrated on the chest of Kypselos (Cypselus) dedicated at Olympia :] There is also Phineus the Thrakian (Thracian), and the sons of Boreas are chasing the Harpyiai (Harpies) away from him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 18. 10 - 16  :
+     </span>
+     <br/>
+     "[Among the scenes depicted on the throne of Apollon at Amyklai (Amyclae) near Sparta :] Kalais (Calais) and Zetes are driving the Harpyiai (Harpies) away from Phineus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 14 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "They [Zetes and Kalais] drove away the three Harpyiae (Harpies), Aellopous, Celaeno, and Ocypete, daughters of Thaumas and Ozomene, from Phineus, son of Agenor, when Jason's comrades were going to Colchis. They are said to have been feathered, with cocks' heads, wings, and human arms, with great claws; breasts, bellies, and female parts human."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 19 :
+     </span>
+     <br/>
+     "But he [Phineus], since he revealed the deliberations of the gods, was blinded by Jove [Zeus], and Jove set over him the Harpyiae (Harpies), who are called the hounds of Jove, to take the food from his lips. When the Argonauts came there and asked him to show them the way, he said he would show them if they would free him from the punishment. Then Zetes and Calais, sons of Aquilo [Boreas the North Wind] and Orithyia, who are said to have had wings on head and feet, drove the Harpyiae to the Strophades Islands, and freed Phineus from the punishment."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 4 (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "They [the Argonauts] had seen old Phineus dragging out his helpless age in endless night and Aquilo's [Boreas'] two sons had driven the Winged Virgins (
+     <em>
+      volucres virgeneae
+     </em>
+     ) [the Harpyiai (Harpies)] from his piteous lips."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 13. 709 ff :
+     </span>
+     <br/>
+     "They [Aeneas and his Trojans] reached the treacherous harbour of the Strophades, the bird [Harpy] Aello filled their hearts with fear."
+    </p>
+    <p>
+     <span class="hr1">
+      <span class="quote-latin">
+       Seneca, Medea 771 (trans. Miller) (Roman tragedy C1st A.D.) :
+      </span>
+      <br/>
+      "[Amongst the fabulous ingredients used by the witch Medea for a spell  :]
+     </span>
+     To thee [Hekate (Hecate)] I offer . . . these feathers the Harpyia (Harpy) left in her trackless lair when she fled from Zetes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 4. 425 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "All that they [the Argonauts] see is new--the Thynian shores near-by aghast at the fate of prophetic Phineus, oppressed only is he a stranger from his land, not only blind, but moreover the Harpyiae (Harpies), daughters of Typhoeus, ministers of the Thunderer's [Zeus'] wrath, do ravage him, thieving his food from his very mouth. Such portents and such penalties doth he suffer for his crimes; one hope alone the old man hath: the Fates decreed of yore that the sons of Aquilo [Boreas the North Wind] should dispel the cruel plague.
+     <br/>
+     So Phineus, aware that he Minyae and sure succour are drawing nigh, goes down with his staff’s aid to the water’s edge Then, drawing faint breath, he cries : ‘All hail, O long-expected band . . . Pity my present fate . . . The Harpyiae ever watch my food; never, alas! can I elude them; straightway they all swoop down like the black cloud of a whirling hurricane, already by the sound of her wings I know Celaeno from afar; they ravage and sweep away my banquet, and befoul and upset the cups, there is a violent stench and a sorry battle arises, for the monsters are as famished as I. What all have scorned or polluted with their touch, or what has fallen from their filthy claws, causes me to linger thus among the living. Nor may I break fate's bond by death: by nourishment is my cruel need prolonged. But do you save me, I beseech you, if heaven's presage to me be not false, do you set a term to my punishment. Surely Aquilo's [Boreas'] sons are here to rout the monsters, nor are they alien to me; for I am king of rich Hebrus, and once was your Cleopatra [sister of the Boreades] joined to me in wedlock . . . And deem not that I am now expiating a sin of cruelty or evil deeds: the fates, vain babbler, and Jove's [Zeus'] purpose and the counsels he framed, his from all else, and suddenly to be made manifest on earth--these had I disclosed, pitying the human race; hence this great plague and the darkness that even as I spoke o'erclouded me . . .’
+     <br/>
+     So he spoke, and--for so the fates now grants it--deeply stirred and excited them all with the picture of his cruel punishment. They set the couches, and welcome him to the midmost cushions, and themselves recline around; withal they watch the waters and withal the skies, and bid him dine and banish care: when suddenly the wretched old man trembled, and his fingers dropped from his paling lips; nor was there warning of the plague, but among the very dishes were seen the birds. A rank smell floats abroad, and a breath of their sire’s Avernus is exhaled; one only do all attack with flapping wings, one alone does the band molest; in savage glee doth the cloud of Cocytus gape at him, rousing disgust by their very sight. Then upon the ground and upon the fouled coverlets of the mocked banquet do they pour a filthy stream; there is a whirring of wings, and form the withholding of the prey hunger ranges on either side; for the horrible Celaeno debars not Phineus only, but her wretched sisters also. Thereat on a sudden dart forth [the Boreades] the sons of Aquilo [Boreas], and rise with a shout into the air, their sire impelling their wings the while. The new foe dismays the pests, and the plunder drops from their jaws, and first in fear they flutter about Phineus' palace, then seek the deep; the Haemonians [Argonauts] stand transfixed upon the shore, and follow the roving monsters with their gaze . . .
+     <br/>
+     In fleet a whirlwind do they pass over peoples and seas afar, nor are suffered to settle in any land. And now are they drawing nigh the bounds of the Ionian Sea and the rocks in its midst: today the dweller in that mighty sea called them the Strophades [i.e. Greek for Isles of Turning]. Here while they hovered, wearing and panting with fear of death’s approach, and weighed down in low and timorous flight implored with ghastly shriek their father Typho [Typhoeus], he rose and brought up the darkness with him, mingling high and low, while from the heart of the gloom a voice was heard : ‘It is enough to have chased the goddesses so far; why strive ye father in rage against the ministers of Jove [Zeus], whom, though he wield the thunderbolt and the aegis, he has chosen to work his mighty wrath? Now also hath that same Jove commanded them to depart from the dwelling of Agenor’s son [Phineus]; they hearken to his prompting, and withdraw upon his word. Yet anon will ye also in like manner flee, when the fatal blow shall bring doom upon you. Never shall the Harpyiae lack fresh sustinence, so long as mortals shall merit the anger of the gods.’
+     <br/>
+     The twain stopped short in the air, and hovered awhile with doubtful wing; then depart, and in triumph rejoin their comrades ranks."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 255 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Phineus after the long fast that was his punishment, when he knew the birds [the Harpyiai (Harpies)] were driven away nor screamed any more about his house--yet believed he not wholly,--recline hilarious at the board, and handle the cups that no fierce wings upset."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 10. 15 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "Monstrous flies soaring into their room like the Harpyiae (Harpies) of old who plundered Phineus' feasts."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Oppian, Cynegetica 2. 615 ff (trans. Mair) (Greek poet C3rd A.D.) :
+     </span>
+     <br/>
+     "Against Phineus once on a time was the Titan Phaethon [Helios the Sun] angered, wroth for the victory of prophet Phoibos [Apollon], and robbed him of his sight and sent the shameless Harpyiai (Harpies), a winged race to dwell with him to his sorrow. But when the two glorious sons of Boreas, even Zetes and Kalais (Calais), voyaged on this hip Argo in quest of the golden prize, assisting Jason, then did they take compassion on the old man and slew that tribe and gave his poor lips sweet food."
+    </p>
+    <hr/>
+    <h3 id="Aeneas">
+     HARPIES &amp; THE VOYAGE OF AENEAS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 3. 209 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "[Aeneas describes his voyage past the Strophades Islands :] Where dreadful Celaeno and her coven of Harpyiae (Harpies) dwell, now the house of Phineus is barred and in fear they have left their pristine banquets. No viler monstrosity than they, no pest more atrocious did ever the wrath of god conjure up out of hell's swamp. Bird-bodied, girl-faced things they are; abominable their droppings, their hands are talons, their faces haggard with hunger insatiable. When we had made our landfall and entered port, we observed abundant herds of cattle dotted over the vale and goat flocks browsing there without any goatherd by them. We slaughtered some; we invited Jove [Zeus] and the other gods to take their share of the spoil. Then by the winding shore seated on makeshift benches, we are most richly feasting. But, the next moment, we hear a hoarse vibration of wing-beats--the Harpyiae (Harpies) are on us, horribly swooping down from the mountains. They tear the banquet to pieces, filthying all with their bestial touch. Hideous the sounds, nauseous the stench about us.
+     <br/>
+     We choose a secluded spot under an overhanging crag, enclosed by trees and their shifting shadows, to set up our tables again and light a fire on a new altar. Again from their hidden lairs, flying in from different angles, that noisy coven claws at the feast, hovering around it, their mouths tainting the meal. So then I order my friends, stand to arms, for we must fight this damnable brood. They did as they were ordered: they put their shields out of sight beside them. So when the creatures again came screeching round the bay, Misenus from an observation post above us, blew the alarum. My friends went into an unfamiliar combat, trying their steel on sinister birds of the sea. But blows did not make them turn a feather, their bodies would not be wounded--they simply flew off at high speed into the blue, leaving a half devoured feast and their own disgusting traces. Celaeno alone, perching upon a rock pinnacle, stayed behind, and broke into speech, a fortune-teller of evil :--‘So you're willing to go to war--to war, sons of Laomedon, over the cattle you slaughtered, over slain bullocks? prepared to drive us innocent Harpyiae out of our rightful domain? very well: take these words to heart, and never forget them. What the Father almighty foreshowed to Phoebus Apollo and he to me, will I, the chief of the Furiae, reveal you. You are making all speed for Italy, and the winds won over, to Italy you shall go, even enter port you may: but, before you can wall your promised city, outrageous famine shall fasten upon you, in return for trying to kill us, and force you to chew your tables--yes, gnaw at them and devour them.’
+     <br/>
+     She spoke : she winged away into the sheltering forest. 
+  As for my friends, their blood went cold with the shock of panic and curdled; their hearts sank: ‘no more fighting,’ they said--‘through vows and prayers alone we must seek security, whether those creatures are of heaven or uncanny birds of ill omen.’"
+    </p>
+    <hr/>
+    <h3 id="Horses">
+     HARPIES MOTHERS OF SWIFT HORSES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 16. 148 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Xanthos (Xanthus) and Balios (Balius), who tore with the winds' speed, horses stormy Podarge [a Harpyia (Harpy)] once conceived of Zephyros (the West Wind) and bore, as she grazed in the meadow beside the swirl of Okeanos (Oceanus)."
+     <br/>
+     [N.B. Xanthos and Balios were the immortal horses of the hero Akhilleus (Achilles).]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment 178 (from Etymologicum Magnum) (trans. Campbell, Vol. Greek Lyric III) (Greek lyric C7th to 6th  B.C.) :
+     </span>
+     <br/>
+     "Stesichorus in his
+     <em>
+      Funeral Games of Pelias
+     </em>
+     says that Hermes gave the Dioskouri (Dioscuri) [who were competing in the chariot-race] Phlogeus and Harpagos, swift foals of Podarge, while Hera gave them Xanthos (Xanthus) and Kyllaros (Cyllarus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 30. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Aphrodite ascended into heaven, wishing to secure for the girls [the daughters of Pandareus which she had raised] a happy marriage, and in her absence they were carried off by the Harpyiai (Harpies) and given by them to the Erinnyes (Furies). This is the story as given by Homer."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 743 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Over the Okeanos' (Oceanus') streams, over Tethys' (the Sea Queen's) caverns, unto where divine Podarge bare that storm-foot twain [the immortal horses Xanthos and Balios] begotten of Zephyros (the West-wind) clarion-voiced."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 4. 569 ff :
+     </span>
+     <br/>
+     "Arion the foal begotten by the loud-piping Zephyros (West-wind) on a Harpyia (Harpy), the fleetest of all earth-born steeds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 37. 155 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "First Erekhtheus (Erechtheus) [king of Athens] brought his horse Xanthos (Xanthus, Bayard) under the yoke, and fastened in his mare Podarkes (Podarces, Swiftfoot); both sired by North-wind Boreas in winged coupling when he dragged a Sithonian Harpyia Aellopos to himself, and Wind gave them as loveprice to his godfather Erekhtheus when he stole Attik Oreithyia for his bride."
+    </p>
+    <hr/>
+    <h3 id="Haides">
+     HARPIES GUARDIANS OF THE UNDERWORLD
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 287 ff (trans. Fairclough) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Many monstrous forms besides of various beasts are stalled at the doors [of the Underworld], Centauri (Centaurs) and double-shaped Scyllae, and the hundredfold Briareus, and the beast of Lerna, hissing horribly, and the Chimaera armed with flame, Gorgones and Harpyiae (Harpies), and the shape of the three-bodied shade [Geryon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 747 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Does any certain place [in the underworld] enclose the guilty? and, as rumour has it, do sinners suffer cruel punishment in bonds unending? . . . 
+  [There] the ravenous bird [the Harpyia (Harpy)] torments Phineus at his board."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P20.1.html">
+        <img alt="Thumbnail Phineus &amp; the Harpies" src="../image/thumbP20.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P20.1 Phineus &amp; the Harpies
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P20.3.html">
+        <img alt="Thumbnail Boreades Chasing Harpies" src="../image/thumbP20.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P20.3 Boreades Chasing Harpies
+        </h3>
+        <p>
+         Laconian Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P20.2.html">
+        <img alt="Thumbnail Boreades Chasing Harpies" src="../image/thumbP20.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P20.2 Boreades Chasing Harpies
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Ibycus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Cynegetica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     HARPIES SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE DAEMON HARPIES
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Thaumas and Electra
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Names
+       </th>
+       <td>
+        Aello and Ocypete
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddesses of
+       </th>
+       <td>
+        Storm winds, whirlwinds
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Half-woman, half-bird
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Sky
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Thuellae, Aellae
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     HARPIES PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of the Harpies
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Names">
+       Names of the Harpies
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of the Harpies
+      </a>
+     </li>
+     <li>
+      <a href="#Whirlwind">
+       Harpies the Snatching Whirlwinds
+      </a>
+     </li>
+     <li>
+      <a href="#Phineus">
+       The Harpies, Phineus &amp; the Argonauts
+      </a>
+     </li>
+     <li>
+      <a href="#Aeneas">
+       Harpies &amp; the Voyage of Aeneas
+      </a>
+     </li>
+     <li>
+      <a href="#Horses">
+       Harpies Mothers of Swift Horses
+      </a>
+     </li>
+     <li>
+      <a href="#Haides">
+       Harpies Guardians of the Underworld
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

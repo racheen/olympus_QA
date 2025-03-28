@@ -1,0 +1,2418 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   OCEANUS (Okeanos) - Greek Titan God of the Ocean-Stream &amp; Fresh Water
+  </title>
+  <meta content="In Greek mythology Oceanus was the primordial Titan god of the great, earth-encircling River Ocean, font of all of the earth's fresh-water - rivers, wells, springs and rain-clouds. He was also the god who regulated the heavenly bodies which rose from and set into his waters. Oceanus was depicted as a bull-horned god with the tail of a serpentine fish." name="description"/>
+  <meta content="Oceanus, Okeanos, Titan, Greek mythology, god of the ocean, Oceanus pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-river.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/titans.html">
+      Titans
+     </a>
+     &gt;&gt;
+     <a href="Titanes.html">
+      Elder Titans
+     </a>
+     &gt;&gt; Oceanus (Okeanos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     OKEANOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ωκεανος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Ôkeanos
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Oceanus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       River Ocean
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O1.1.html">
+      <img alt="Oceanus | Athenian black-figure dinos C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O1.1BOkeanos.jpg"/>
+     </a>
+     <figcaption>
+      Oceanus, Athenian black-figure dinos C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     OKEANOS (Oceanus) was the primordial Titan god of the great, earth-encircling
+     <a href="../Kosmos/Okeanos.html">
+      River Okeanos
+     </a>
+     ,  font of all of the earth's fresh-water - rivers, wells, springs and rain-clouds. He was also the god who regulated the heavenly bodies which rose from and set into his waters. 
+Okeanos' wife
+     <a href="TitanisTethys.html">
+      Tethys
+     </a>
+     "the Nurse"  was probably envisioned distributing his nourishing waters across the earth through subterranean acquifers. Their children were the
+     <a href="../Potamos/Potamoi.html">
+      Potamoi
+     </a>
+     , gods of rivers, and the
+     <a href="../Nymphe/Okeanides.html">
+      Okeanides (Oceanids)
+     </a>
+     , nymphs of springs and fountains. Unlike his Titan-brothers Okeanos did not participate in the castration of their father
+     <a href="../Protogenos/Ouranos.html">
+      Ouranos
+     </a>
+     nor join the war against Zeus and the Olympian gods.
+    </p>
+    <p>
+     Okeanos was probably identical to
+     <a href="TitanOphion.html">
+      Ophion
+     </a>
+     , an elder Titan in the Orphic myths who ruled heaven briefly before being wrestled and cast into the Ocean stream by
+     <a href="TitanKronos.html">
+      Kronos (Cronus)
+     </a>
+     .
+    </p>
+    <p>
+     Okeanos was depicted in ancient Greek vase painting as a bull-horned god with the tail of a serpentine fish, a form shared by his River-God sons. His usual attributes were a fish and serpent.
+    </p>
+    <p>
+     In the Hellenistic era, Okeanos was reimagined as the god of the then increasingly accessible Atlantic and Indian Oceans, and the old cosmological idea of a great, earth-encircling, fresh-water stream was discarded. In mosaic art he is therefore usually depicted as a sea-god or the sea itself personified, with crab-claw horns, and for attributes, a serpent, oar and school of fish. His wife Tethys, shown seated beside him, had wings on her brow, in her role as the mother of rain-clouds.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF OCEANUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 133, Apollodorus 1.2, Diodorus Siculus 5.66.1)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Protogenos/Aither.html">
+      AITHER
+     </a>
+     (or
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     ) &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Hyginus Preface)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Nymphe/Okeanides.html">
+      THE OKEANIDES
+     </a>
+     ,
+     <a href="../Potamos/Potamoi.html">
+      THE POTAMOI
+     </a>
+     (by
+     <a href="TitanisTethys.html">
+      Tethys
+     </a>
+     )
+     <span class="family-refs">
+      (Hesiod Theogony 133, Aeschylus Prometheus Bound 139, Hyginus Preface)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Potamos/Potamoi.html">
+      THE POTAMOI
+     </a>
+     (by
+     <a href="TitanisTethys.html">
+      Tethys
+     </a>
+     )
+     <span class="family-refs">
+      (Aeschylus Seven 304, Diodorus Siculus 4.69.1, Hyginus Preface, Nonnus Dionysiaca 23.280)
+     </span>
+     <br/>
+     [1.3]
+     <a href="../Potamos/Potamoi.html">
+      THE POTAMOI
+     </a>
+     <span class="family-refs">
+      (Homer Iliad 21.190, Philostratus Elder 2.8)
+     </span>
+     <br/>
+     [1.4]
+     <a href="../Nymphe/Okeanides.html">
+      THE OKEANIDES
+     </a>
+     (by
+     <a href="TitanisTethys.html">
+      Tethys
+     </a>
+     )
+     <span class="family-refs">
+      (Apollodorus 1.8, Calimachus Hymns 3.40, Nonnus Dionysiaca 38.108)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Nymphe/Aurai.html">
+      THE AURAI
+     </a>
+     <span class="family-refs">
+      (Homer Odyssey 4.561)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Nymphe/Nephelai.html">
+      THE NEPHELAI
+     </a>
+     <span class="family-refs">
+      (Aristophanes Clouds 264)
+     </span>
+     <br/>
+     [4.1]
+     <a href="../Georgikos/Kerkopes.html">
+      THE KERKOPES
+     </a>
+     (by Theia)
+     <span class="family-refs">
+      (Homerica Cercopes Frag 1)
+     </span>
+     <br/>
+     [5.1]
+     <a href="../Georgikos/EleusiniosTriptolemos.html">
+      TRIPTOLEMOS
+     </a>
+     (by
+     <a href="../Protogenos/Gaia.html">
+      Gaia
+     </a>
+     )
+     <span class="family-refs">
+      (Pherecydes Frag, Apollodorus 1.32)
+     </span>
+     <br/>
+     [6.1]
+     <a href="../Potamos/Potamoi.html">
+      THE LIMNAI
+     </a>
+     <span class="family-refs">
+      (DNonnus ionysiaca 6.352)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     OCE′ANUS (Ôkeanos), the god of the river Oceanus, by which, according to the most ancient notions of the Greeks, the whole earth was surrounded. An account of this river belongs to mythical geography, and we shall here confine ourselves to describing the place which Oceanus holds in the ancient cosmogony. In the Homeric poems he appears as a mighty god, who yields to none save Zeus. (
+     <em>
+      Il.
+     </em>
+     xiv. 245, xx. 7, xxi. 195.) Homer does not mention his parentage, but calls Tethys his wife, by whom he had three daughters, Thetis, Eurynome and Perse. (
+     <em>
+      Il.
+     </em>
+     xiv. 302, xviii. 398,
+     <em>
+      Od.
+     </em>
+     x. 139.) His palace is placed somewhere in the west (
+     <em>
+      Il.
+     </em>
+     xiv. 303, &amp;c.), and there he and Tethys brought up Hera, who was conveyed to them at the time when Zeus was engaged in the struggle with the Titans. Hesiod (
+     <em>
+      Theog.
+     </em>
+     133, 337, &amp;c., 349, &amp;c.) calls Oceanus a son of Uranus and Gaea, the eldest of the Titans, and the husband of Tethys, by whom he begot 3000 rivers, and as many Oceanides, of whom Hesiod mentions only the eldest. (Comp. Apollod. iii. 8. § 1, 10. § 1.) This poet (
+     <em>
+      Theog.
+     </em>
+     282) also speaks of sources of Oceanus. Representations of the god are seen on imperial coins of Tyre and Alexandria.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAMES
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ωγηνος
+      </p>
+      <p class="names-greek">
+       Ωγην
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Ogênos
+      </p>
+      <p>
+       Ogên
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Ogenus
+      </p>
+      <p>
+       Ogen
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       River Ocean
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF OCEANUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 132 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "She [Gaia, Earth] lay with Ouranos (Uranus, Sky) and bare deep-swirling Okeanos (Oceanus), Koios (Coeus) and Krios (Crius) and Hyperion and Iapetos (Iapetus), Theia and Rhea, Themis and Mnemosyne and gold-crowned Phoibe (Phoebe) and lovely Tethys. After them was born Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 2 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Ouranos (Uranus, Sky) . . . fathered other sons on Ge (Earth), namely the Titanes (Titans) : Okeanos (Oceanus), Koios (Coeus), Hyperion, Kreios (Crius), Iapetos (Iapetus), and Kronos (Cronus) the youngest; also daughters called Titanides : Tethys, Rhea, Themis, Mnemosyne, Phoibe (Phoebe), Dione, and Theia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 66. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "The Titanes (Titans) numbered six men and five women, being born, as certain writers of myths relate, of Ouranos (Uranus) and Ge (Gaea), but according to others, of one of the Kouretes (Curetes) and Titaia (Titaea), from whom as their mother they derive the name they have. The males were Kronos, Hyperion, Koios (Coeus), Iapetos (Iapetus), Krios (Crius) and Okeanos (Oceanus), and their sisters were Rhea, Themis, Mnemosyne, Phoibe (Phoebe) and Tethys. Each one of them was the discover of things of benefit to mankind, and because of the benefaction they conferred upon all men they were accorded honours and everlasting fame."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Aether and Terra (Earth) [were born various abstractions] . . . [From Caelum (Ouranos, Sky) and Terra (Gaia, Earth) were born ?] Oceanus, Themis, Tartarus, Pontus, the Titanes . . . Hyperion, and Polus [Koios (Coeus)], Saturnus [Kronos (Cronus)], Ops [Rhea], Moneta [Mnemosyne], Dione."
+     <br/>
+     [N.B. Hyginus'
+     <em>
+      Preface
+     </em>
+     survives only in summary. The Titanes should be listed as children of Ouranos (Caelum) and Gaia not Aither (Terra) and Gaia, but the notation to this effect seems to have been lost in the transcription.]
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/O1.1.html">
+      <img alt="Hephaestus, Eileithyia, Tethys and Oceanus | Athenian black-figure dinos C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O1.1Okeanos_sm.jpg"/>
+     </a>
+     <figcaption>
+      Hephaestus, Eileithyia, Tethys and Oceanus, Athenian black-figure dinos C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h3 id="Children">
+     THE CHILDREN OF OCEANUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 337 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Tethys bore to Okeanos (Oceanus) the swirling Potamoi (Rivers), Neilos (Nile), Alpheios (Alpheus), and deep-eddying Eridanos (Eridanus), Strymon and Maiandros (Meander), Istros (Istrus) of the beautiful waters, Phasis and Rhesos (Rhesus) and silver-swirling Akheloios (Achelous), Nessos (Nessus) and Rhodios (Rhodius), Heptaporos (Heptaporus) and Haliakmon (Haliacmon), Grenikos (Grenicus) and Aisepos (Aesepus), and Simoeis, who is godlike, Hermos (Hermus) and Peneios (Peneus), and Kaikos (Caicus) strongly flowing, and great Sangarios (Sangarius), and Ladon, and Parthenios (Parthenius), Euenos (Evenus) and Ardeskos (Ardescus), and Skamandros (Scamander), who is holy.
+     <br/>
+     She [Tethys] brought forth also a race apart of daughters [Okeanides (Oceanids)], who with lord Apollon and the Rivers have the young in their keeping all over the earth, since this right from Zeus is given them. They are Peitho, Admete, Ianthe and Elektra (Electra), Doris and Prymno and Ourania (Urania) like a goddess, Hippo and Klymene (Clymene), Rhodeia and Kallirhoe (Callirhoe), Zeuxo and Klytia (Clytia), and Idyia and Pasithoe, Plexaura and Galaxaura and lovely Dione, Melobosis and Thoe, and Polydora the shapely, Kerkeis (Cerceis) of the lovely stature, and ox-eyed Plouto (Pluto), Xanthe and Akaste (Acaste), Perseis and Ianeira, Petraie the lovely, and Menestho, and Europa, Metis and Eurynome, Telesto robed in saffron, Khryseis (Chryseis), and Asia, and alluring Kalypso (Calypso), Eudora and Tykhe (Tyche), and Amphiro and Okyroe (Ocyroe), and Styx, who among them all has the greatest eminence. Now these are the eldest of the daughters who were born to Tethys and Okeanos, but there are many others beside these, for there are three thousand light-stepping daughters of Okeanos scattered far and wide, bright children among the goddesses, and all alike look after the earth and the depths of the standing water."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homerica, The Cercopes (from Suidas s.v. Kerkopes) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Kerkopes (Cercopes). These were two brothers living upon the earth who practised every kind of knavery . . . Their mother [was] a daughter of Memnon . . . The Kerkopes were sons of Theia and Okeanos (Oceanus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 136 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The Okeanides (Oceanids)] offspring of fruitful (
+     <em>
+      polyteknos
+     </em>
+     ) Tethys and of him who with his sleepless current encircles the whole earth, children of your father Okeanos (Oceanus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 528 ff :
+     </span>
+     <br/>
+     "[The Okeanides (Oceanids) :] By the side of the ceaseless stream of Okeanos (Oceanus), my father."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Seven Against Thebes 304 ff :
+     </span>
+     <br/>
+     "What more fertile plain will you find in place of ours [Thebes] . . . this deep-soiled land and the water of Dirke which is the most nourishing of the streams (
+     <em>
+      potamoi
+     </em>
+     ) that earth-encircling (
+     <em>
+      gaiaokhos
+     </em>
+     ) Poseidon [i.e. Okeanos] and Tethys' children pour forth."
+    </p>
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/Z35.1A.html">
+      <img alt="Oceanus | Greco-Roman mosaic from Antioch C2nd A.D. | Hatay Archaeology Museum, Antakya" class="img-responsive center-block" src="../image/Z35.1Okeanos.jpg"/>
+     </a>
+     <figcaption>
+      Oceanus, Greco-Roman mosaic from Antioch C2nd A.D.,
+      <a href="http://www.hatayarkeolojimuzesi.gov.tr/" target="_blank">
+       Hatay Archaeology Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Clouds 264 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "[Comedy-Play :] Come, oh! Nephelai (Clouds), whom I adore, come and show yourselves to this man, whether you be resting on the sacred summits of Olympos, crowned with hoar-frost, or tarrying in the gardens of Okeanos (Oceanus), your father, forming sacred Choruses with the Nymphai (Nymphs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 8 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Titanes (Titans) had children. Those of Okeanos (Oceanus) and Tethys were called Okeanides (Oceanids) : Asia, Styx, Elektra (Electra), Doris, Eurynome, Amphitrite, and Metis."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 32 :
+     </span>
+     <br/>
+     "But Pherekydes (Pherecydes) [poet C6th B.C.] says that he [the Eleusinian agricultural-hero Triptolemos] was born of Okeanos (Oceanus) and Ge [i.e. from Water and Earth]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 40 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "And the maiden [Artemis] fared unto the white moutain of Krete (Crete) leafy with woods; thence unto Okeanos (Oceanus); and she chose many Nymphai (Nymphs) all nine years old, all maidens yet ungirdled. And the River Kairatos (Caeratus) was glad exceedingly, and glad was Tethys that they were sending their daughters to be handmaidens to the daughter of Leto."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 69. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "To Okeanos (Oceanus) and Tethys, so the myths relate, were born a number of sons who gave their names to Rivers (Potamoi), and among them was Peneios (Peneus), from whom the river Peneios in Thessalia (Thessaly) later got its name."
+     <br/>
+     [N.B. Diodorus rationalises the myth--the river-gods become men who give their names to rivers.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 72. 1 :
+     </span>
+     <br/>
+     "According to the myths there were born to Okeanos (Oceanus) and Tethys a number of children who gave their names to Rivers (Potamoi), and among their number were Peneios (Peneus) and Asopos (Asopus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 8 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[The river] Meles through his son [Homer] will grant to the Peneios (Peneus) to be ‘silver-eddied’, to the Titaresios to be ‘nimble’ and ‘swift’, and to the Enipeus to be ‘divine’, and to the Axios to be ‘all-beautiful’, and he will also grant to the Xanthos (Xanthus) to be born from Zeus, and to Okeanos (Oceanus) that all Rivers spring from him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous (perhaps Pamprepius of Panopolis), Fragments (trans. Page, Vol. Select Papyri III, No. 140) (Greek poetry C4th A.D.) :
+     </span>
+     <br/>
+     "A fountain-nymphe (
+     <em>
+      nymphe pegaiê
+     </em>
+     ) . . . dear daughter of father Okeanos (Oceanus), queen of the plantation! How should I need your streams?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Oceanus and Tethys [were born] the Oceanides--namely yaea, Melite, Ianthe, Admete, Stilbo, Pasiphae, Polyxo, Eurynome, Euagoreis, Rhodope, lyris, Clytia, teschinoeno, clitenneste, Metis, Menippe, Argia. Of the same descent Rivers : Strymon, Nile, Euprhates, Tanais, Indus, Cephisus, Ismenus, Axenus, Achelous, Simois, Inachus, Alpheus, Thermodoon, Scamandrus, Tigris, Maeandrus, Orontes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 9. 497 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Gods have loved their sisters; yes, indeed! Why Saturnus [Kronos (Cronus)] married Ops [Rhea], his kin by blood, and Oceanus Tethys . . . But the gods above are laws unto themselves."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 79 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Titan Tethys was once married to Oceanus, whose translucent waters scarf the broad earth. Their child Pleione couples with sky-lifting Atlas--so the story is--and bears the Pleiades."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 6. 352 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The Limnai (Lakes), liquid daughters of Okeanos (Oceanus) raised their surface."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 23. 280 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[When Dionysos set the river Hydapses on fire :] Okeanos (Oceanus) also cried out against Dionysos in menacing words, pouring a watery roar from his manystream throat, and eluging the shores of the world with the flood of words which issued from his everlasting mouth like a fountain : ‘O Tethys! Agemate and bedmate of Okeanos, ancient as the world, nurse of commingled waters, selfborn, loving mother of children, what shall we do? Now Rainy Zeus blazes in arms against me and your children. Even as Asopos (Asopus) found the father Zeus Kronion (Cronion) his destroyer, in the bastard shape of a bird, so Hydaspes has found Bakkhos (Bacchus) the son.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 108 ff :
+     </span>
+     <br/>
+     "Loudbooming Okeanos (Oceanus), girdled with the circle of the sky, who leads his water earth-encompassing round the turning point which he bathes, was joined in primeval wedlock with Tethys. The water bride-groom begat Klymene (Clymene), fairest of the Neiades (Naiads), whom Tethys nursed on her wet breast, her youngest, a maiden with lovely arms . . . Her father united the girl to the heavenly charioteer [Helios,Sun]. The lightfoot Horai (Horae, Hours) acclaimed Klymene's bridal with Helios Phaesphoros (Lightbringer), the Nymphai Neides (Naiad Nymphs) danced around; in a watery bridal-bower the fruitful maiden was wedded in a flaming union, and received the hot bridegroom into her cool arms . . . and Okeanos beside his bride Tethys sounded his song with all the fountains of his throat."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 142 ff :
+     </span>
+     <br/>
+     "[Beroe goddess and city] star of the Lebanon country, yearsmate of Tethys, running side by side with Okeanos (Oceanus), who begat thee in his bed of many fountains when joined in watery union with Tethys--Beroe the same they named Amymone when her mother brought her forth on her bed in the deep waters!"
+    </p>
+    <hr/>
+    <h3 id="Genesis">
+     OCEANUS &amp; THE GENESIS OF THE GODS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z35.4.html">
+      <img alt="Oceanus and Tethys | Greco-Roman mosaic from Zeugma C2nd A.D. | Gaziantep Museum" class="img-responsive center-block" src="../image/Z35.4Okeanos.jpg"/>
+     </a>
+     <figcaption>
+      Oceanus and Tethys, Greco-Roman mosaic C2nd A.D., Gaziantep Museum
+     </figcaption>
+    </figure>
+    <p>
+     Okeanos (Oceanus) was sometimes represented as the primordial waters from which the Earth and the cosmos arose.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 200 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Hera addresses Aphrodite :] ‘Since I go now to the ends of the generous earth on a visit to Okeanos (Oceanus), whence the gods have risen, and Tethys our mother who brought me up kindly in their own house, and cared for me and took me from Rheia, at that time when Zeus of the wide brows drove Kronos (Cronus) underneath the earth and the barren water. I shall go to visit these, and resolve their division of discord, since now for a long time they have stayed apart from each other and from the bed of love, since rancour has entered their feelings. Could I win over with persuasion the dear heart within them and bring them back to their bed to be merged in love with each other I shall be forever called honoured by them, and beloved.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 300 ff :
+     </span>
+     <br/>
+     "[Hera addresses Zeus :] ‘I [Hera] am going to the ends of the generous earth, on a visit to Okeanos (Oceanus), whence the gods have risen, and Tethys our mother, who brought me up kindly in their own house, and cared for me. I shall go to visit these, and resolve their division of discord, since now for a long time they have stayed apart from each other and from the bed of love, since rancour has entered their feelings.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 244 ff :
+     </span>
+     <br/>
+     "[Hypnos, god of sleep, addresses Hera :] ‘Any other one of the gods, whose race is immortal, I would lightly put to sleep, even the stream of that River Okeanos (Oceanus), whence is risen the seed of all the immortals."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Birds 685 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "The Immortals did not exist until Eros (Love) had brought together all the ingredients of the world, and from their marriage Ouranos (Uranus, Heaven), Okeanos (Oceanus, Water), Ge (Gaea, Earth) and the imperishable race of blessed gods (
+     <em>
+      theoi
+     </em>
+     ) sprang into being."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Theaetetus 152e (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "And on this subject [i.e. that all things are derived from flow and motion] all the philosophers . . . may be marshalled in one line--Protagoras and Herakleitos (Heraclitus) and Empedokles (Empedocles)--and the chief poets in the two kinds of poetry, Epikharmos (Epicharmus), in comedy, and in tragedy, Homer, who, in the line ‘Okeanos (Oceanus) the origin of the gods, and Tethys their mother,’ has said that all things are the offspring of flow and motion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 83 to Oceanus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Okeanos (Oceanus) I call, whose nature ever flows, from whom at first both Gods and men arose."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 22. 280 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Tethys! Agemate and bedmate of Okeanos (Oceanus), ancient as the world, nurse of commingled waters, selfborn, loving mother of children."
+    </p>
+    <hr/>
+    <h3 id="Titanes">
+     OCEANUS &amp; THE WAR OF THE TITANS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 398 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Styx . . . was first to come to Olympos [to side with Zeus against the Titanes (Titans)] as her own father [Okeanos (Oceanus)] had advised her."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Fragment 30 (trans. sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "First did the Moirai (Fates) in their golden chariot bring heavenly Themis, wise in counsel, by a gleaming pathway from the springs of Okeanos (Oceanus) to the sacred stair of Olympos, there to be the primal bride of the Saviour Zeus."
+     <br/>
+     [N.B. During the Titan-War the Titanides (TItanesses) resided in the house of Okeanos along with Hera and the other goddesses.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 3 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Now Ge (Gaea, Earth) . . . persuaded the Titanes (Titans) to attack their father . . . So all of them except Okeanos (Oceanus) set upon Ouranos (Uranus, Sky)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 6. 155 ff :
+     </span>
+     <br/>
+     "After the first Dionysos [Zagreus] had been slaughtered, Father Zeus ... attacked [Gaia, Earth] the mother of the Titanes (Titans)  with avenging brand, and shut up the murderers of horned Dionysos [the Titanes who had dismembered the godling Zagreus] within the gate of Tartaros [after a long war]: the trees blazed, the hair of suffering Gaia (Earth) was scorched with heat . . . 
+  Now Okeanos (Oceanus) poured rivers of tears from his watery eyes, a libation of suppliant prayer. Then Zeus clamed his wrath at the sight of the scorched earth; he pitied her, and wished to wash with water the ashes of ruin and the fiery wounds of the land. 
+  Then Rainy Zeus covered the whole sky with clouds and flooded all the earth [in the Great Deluge of Deukalion (Deucalion)]."
+    </p>
+    <hr/>
+    <h3 id="Prometheus">
+     OCEANUS &amp; THE CHAINING OF PROMETHEUS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z35.2.html">
+      <img alt="Tethys and Oceanus | Greco-Roman mosaic from Daphne C4th A.D. | Hatay Archaeology Museum, Antakya" class="img-responsive center-block" src="../image/Z35.2Okeanos.jpg"/>
+     </a>
+     <figcaption>
+      Tethys and Oceanus, Greco-Roman mosaic from Daphne C4th A.D.,
+      <a href="http://www.hatayarkeolojimuzesi.gov.tr/" target="_blank">
+       Hatay Archaeology Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     In the play
+     <em>
+      Prometheus Bound
+     </em>
+     by Aiskhylos (Aeschylus), the Titan Okeanos (Oceanus) appears on the scene as a sympathetic fellow-Titan. His daughters, the Okeanides (Oceanids), formed the chorus of the play.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 286 - 397 (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Enter Okeanos (Oceanus) on a winged steed.] [Prometheus is chained to a crag in the Kaukasos (Caucasus) mountains.]
+     <br/>
+     Okeanos : I have come to the end of a long journey in my passage to you, Prometheus, guiding by my own will, without a bridle, this swift-winged bird. For your fate, you may be sure, I feel compassion. Kinship, I think, constrains me to this; and, apart from blood ties, there is none to whom I should pay greater respect than to you. You shall know this for simple truth and that it is not in me to utter vain and empty words; come, tell me; what aid can I render you? For you shall never say that you have a friend more loyal than Okeanos.
+     <br/>
+     Prometheus : Ha! What have we here? So then you too have come to stare upon my sufferings? How did you summon courage to quit the stream that bears your name and the rock-roofed caves you yourself have made and come to this land, the mother of iron? Is it that you have come to gaze upon my state and join your grief to my distress? Look upon me here--a spectacle, the friend of Zeus, who helped him to establish his sovereign power, by what anguish I am bent by him!
+     <br/>
+     Okeanos : I see, Prometheus; and I want to give you the best advice, although you yourself are wily. Learn to know yourself and adapt yourself to new ways; for new also is the ruler among the gods. If you hurl forth words so harsh and of such whetted edge, perhaps Zeus may hear you, though throned far off, high in the heavens, and then your present multitude of sorrows shall seem but childish sport. Oh wretched sufferer! Put away your wrathful mood and try to find release from these miseries. Perhaps this advice may seem to you old and dull; but your plight, Prometheus, is only the wages of too boastful speech. You still have not learned humility, nor do you bend before misfortune, but would rather add even more miseries to those you have. Therefore take me as your teacher and do not add insult to injury, seeing that a harsh monarch now rules who is accountable to no one. So now I will depart and see whether I can release you from these sufferings. And may you hold your peace and be not too blustering of speech. Or, can it be that for all your exceeding wisdom, you do not know that chastisement is inflicted on a wagging tongue?
+     <br/>
+     Prometheus : I envy you because you have escaped blame for having dared to share with me in my troubles. So now leave me alone and let it not concern you. Do what you want, you cannot persuade him; for he is not easy to persuade. Beware that you do not do yourself harm by the mission you take.
+     <br/>
+     Okeanos : In truth, you are far better able to admonish others than yourself. It is by fact, not by hearsay, that I judge. So do not hold back one who is eager to go. For I am confident, yes, confident, that Zeus will grant me this favor, to free you from your sufferings.
+     <br/>
+     Prometheus : But you are not inexperienced, and do not need me to teach you. Save yourself, as you know best; while I exhaust my present lot until the time comes when the mind of Zeus shall abandon its wrath.
+     <br/>
+     Okeanos : Do you not know then, Prometheus, that words are the physicians of a disordered temper?
+     <br/>
+     Prometheus : If one softens the soul in season, and does not hasten to reduce its swelling rage by violence.
+     <br/>
+     Okeanos : What lurking mischief do you see when daring joins to zeal? Teach me this.
+     <br/>
+     Prometheus : Lost labor and thoughtless simplicity.
+     <br/>
+     Okeanos : Leave me to be affected by this, since it is most advantageous, when truly wise, to be deemed a fool.
+     <br/>
+     Prometheus : This fault will be seen to be my own.
+     <br/>
+     Okeanos : Clearly the manner of your speech orders me back home.
+     <br/>
+     Prometheus : So that you won't win enmity for yourself by lamenting for me.
+     <br/>
+     Okeanos : In the eyes of the one who is newly seated on his omnipotent throne?
+     <br/>
+     Prometheus : Beware lest the time come when his heart is angered with you.
+     <br/>
+     Okeanos: Your plight, Prometheus, is my instructor.
+     <br/>
+     Prometheus : Go away, depart, keep your present purpose.
+     <br/>
+     Okeanos : Your urging meets my eagerness; for my four-footed winged beast fans with his wings the smooth pathway of the air; and truly he will be glad to rest his knees in his stall at home. 
+  [Exit.]"
+    </p>
+    <hr/>
+    <h3 id="River">
+     OCEANUS GOD OF THE RIVER OCEANUS
+    </h3>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/Z35.5A.html">
+      <img alt="Oceanus | Greco-Roman mosaic from Antioch A.D. | Hatay Archaeology Museum, Antakya" class="img-responsive center-block" src="../image/Z35.5AOkeanos.jpg"/>
+     </a>
+     <figcaption>
+      Oceanus, Greco-Roman mosaic from Antioch A.D.,
+      <a href="http://www.hatayarkeolojimuzesi.gov.tr/" target="_blank">
+       Hatay Archaeology Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 311 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The house of deep-running Okeanos (Oceanus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20. 5 ff :
+     </span>
+     <br/>
+     "[Zeus] told Themis to summon all the gods into assembly. She went everywhere and told them to make their way to Zeus' house. There was no River who was not there, except only Okeanos (Oceanus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 21. 194 ff :
+     </span>
+     <br/>
+     "Not powerful [river] Akheloios (Achelous) matches his strength against Zeus, not the enormous strength of Okeanos (Oceanus) with his deep-running waters, Okeanos, from whom all rivers are and the entire sea and all springs and all deep wells have their waters of him, yet even Okeanos is afraid of the lightning of great Zeus and the dangerous thunderbolt when it breaks from the sky crashing."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 4. 561 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The world's end, the Elysian fields . . . Snow and tempest and thunderstorms never enter there, but for men's refreshment Okeanos (Oceanus) sends out continually the high-singing breezes of the west (
+     <em>
+      aetai zephyroio
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 337 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Tethys bore to Okeanos (Oceanus) the swirling Potamoi (Rivers) . . . [and the Okeanides (Oceanids) who] alike look after the earth and the depths of the standing water."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 139 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Okeanos (Oceanus), him who with his sleepless current encircles the whole earth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 302 ff :
+     </span>
+     <br/>
+     "[Okeanos (Oceanus)] the stream that bears your name and the rock-roofed caves you yourself have made [for your home]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 400d &amp; 401e (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[Plato constructs philosophical etymologies for the names of the gods :]
+     <br/>
+     Sokrates (Socrates) : Let us inquire what thought men had in giving them [the gods] their names . . . The first men who gave names [to the gods] were no ordinary persons, but high thinkers and great talkers . . . Herakleitos (Heraclitus) [philosopher C6th to 5th B.C.] says, you know, that all things move and nothing remains still, and he likens the universe to the current of a river, saying that you cannot step twice into the same stream . . . Well, don't you think he who gave to the ancestors of the other gods the names ‘Rhea’ and ‘Kronos’ (Cronus) [derived by Plato from the Greek words ‘flow’ and ‘time’] had the same thought as Herakleitos? Do you think he gave both of them the names of streams merely by chance? Just so Homer, too, says--‘Okeanos (Oceanus) the origin of the gods, and their mother Tethys;’ and I believe Hesiod says that also. Orpheus, too, says--‘Fair-flowing Okeanos was the first to marry, and he wedded his sister Tethys, daughter of his mother.’ See how they agree with each other and all tend towards the doctrine of Herakleitos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 566 ff (trans. Mair) (Greek astronomical poem C3rd B.C.) :
+     </span>
+     <br/>
+     "Okeanos (Oceanus) himself will give thee signs at either horn--the East or the West--in the many constellations that wheel about him, when from below he sends forth each rising sign."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 83 to Oceanus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Okeanos (Oceanus), Fumigation from Aromatics. Okeanos I call, whose nature ever flows, from whom at first both Gods and men arose; sire incorruptible, whose waves surround, and earth's all-terminating circle bound: hence every river, hence the spreading sea, and earth's pure bubbling fountains spring from thee. Hear, mighty sire, for boundless bliss is thine, greatest cathartic of the powers divine: earth's friendly limit, fountain of the pole, whose waves wide spreading and circumfluent roll. Approach benevolent, with placid mind, and be forever to thy mystics kind."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 11 to Pan :
+     </span>
+     <br/>
+     "Old Okeanos (Oceanus), too, reveres thy [Pan's] high command, whose liquid arms begird the solid land."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 13. 949 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Tethys and Oceanus . . . [took] away my [the sea-god Glaukos' (Glaucus')] mortal essences. They purified me with a ninefold chant that purges my sins; then bade me plunge my body beneath a hundred rivers. Instantly torrents cascaded down from near and far and poured whole seas of waters on my head."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 79 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Oceanus, whose translucent waters scarf the broad earth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 50 (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "He [Poseidon] was coming from Oceanus his host, gladdened by the banquet, and his countenance suffused with the nectar of the deep."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 6. 352 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[During the Great Deluge :] Now the barriers of the sevenzoned watery sky were opened, when Zeus poured down his showers. The mountain-torrents roared with fuller fountains of the loudsplashing gulf. The Limnai (Lakes), liquid daughters cut off from Okeanos (Oceanus) raised their surface. The fountains shot spouts of the lower waters of Okeanos into the air."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 110 ff :
+     </span>
+     <br/>
+     "[Hera speaks :] ‘I am afraid Kronides (Cronides) [Zeus], who is called my husband and brother, will banish me from heaven for a woman's bed . . . I will leave heaven because of their earthly marriage, I will go to the uttermost bounds of Okeanos (Oceanus) and share the hearth of primeval Tethys; thence I will pass to the house of and abide with Ophion (the Snake) [i.e. Okeanos].’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 23. 236 ff :
+     </span>
+     <br/>
+     "[Dionysos calls out to the River Hydaspes when he tries to drown the god's army :] ‘If your Okeanos (Oceanus) makes you so haughty, consider Eridanos (Eridanus) struck by the bolt of Zeus, your brother burnt with fire : a cruel sorrow it was for your watery ancestor [Okeanos], who is girdled by the world's rim, who pours all those mighty streams of water to posses the earth, when he saw his own son burnt up and made no war on Olympos, nor contended with his flood against the firebarbed thunderbolt. Pray spare your waters awhile, or I may see you Hydaspes, burnt up in fiery flames like Eridanos.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 23. 280 ff :
+     </span>
+     <br/>
+     "[Dionysos set the streams of the river Hydaspes aflame :] Okeanos (Oceanus) also cried out against Dionysos  in menacing words, pouring a watery roar from his manystream throat, and deluging the shores of the world with the flood of words which issued from his everlasting mouth like a fountain : ‘O Tethys! Agemate and bedmate of Okeanos, ancient as the world, nurse of commingled waters, selfborn, loving mother of children, what shall we do? Now Rainy Zeus blazes in arms against me and your children. Even as Asopos (Asopus) found the father Zeus Kronion (Cronion) his destroyer, in the bastard shape of a bird, so Hydaspes has found Bakkhos (Bacchus) the son. Nay, I will bring my water against he lightnings of Zeus, and drown the fiery Sun in my quenching flood, I will put out the Stars of heaven! Kronion shall see me overwhelm Selene (the Moon) with my roaring streams. Under the region of the Bear, I will wash with my waters the ends of the axle and the dry track of the Wain. The heavenly Dolphin, which long ago swam in my deep sea, I will make to swim once more, and cover him with new seas. I will drag down from heaven the fiery Eridanos (Eridanus) whose course is among the stars, and bring him back to a new home in the Celtic land: he shall be water again, and the sky shall be bare of the river of fire. The starry Fishes that swim on high I will pull in to the sea and make them mine again, to swim in water instead of Olympos. Tethys, awake! We will drown the stars in water, that I may see the Bull, who once swam over a waveless sea, tossed on stormier waves in the paths of the waters after the bed of Europa. Selene herself, bullshaped and horned driver of cattle, may be angry to see my horned bullshaped form. I will travel high into the heaven, that I may behold Kepheus (Cepheus) drenched and the Wagggoner in soaking tunic, as Earthshaker [Poseidon] once did when about Korinthos (Corinth) soaking Ares once boldly shouted defiance of battle against stars! I will swallow the shining Goat, the nurse of Zeus, and I will offer infinite water to the Waterman as a suitable gift. Get ready, Tethys, and you, O Thalassa (Sea)! For Zeus has been delivered of a base son in bull shape, to destroy all Rivers and all creatures together, all blameless: the thyrsus wand has slain the Indians, the torch has burnt Hydaspes!’
+     <br/>
+     So he cried blustering in a flood of speech from his deep waves. 
+  Father Zeus turned aside the menace of his angry son, for he massed the clouds and flung out a thunderclap; he stayed the flaming attack of Dionysos, and calmed the anger of boundless Okeanos. Hera also made an infinite noise resound through the air, to restrain the wrath of Dionysos' fiery power. 
+  Then old Hydaspes held out a wet hand to merciful Bakkhos, and appealed to the fiery son of Zeus in words that bubbled out of his lips : ‘. . . I am ashamed to appear before my father [Okeanos], because the murmuring stream which I draw is mingled with blood, and I pollute Poseidon with clots of gore; this it was, only this that armed to strive against Dionysos. By your father, protector of guests and suppliants, have mercy on Hydaspes, now hot and boiling with your fire!’"
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z35.3.html">
+      <img alt="Oceanus and Tethys | Greco-Roman mosaic from Zeugma C1st-2nd A.D. | Gaziantep Museum" class="img-responsive center-block" src="../image/Z35.3Okeanos.jpg"/>
+     </a>
+     <figcaption>
+      Oceanus and Tethys, Greco-Roman mosaic from Zeugma C1st-2nd A.D., Gaziantep Museum
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 108 ff :
+     </span>
+     <br/>
+     "Loudbooming Okeanos (Oceanus), girdled with the circle of the sky, who leads his water earth-encompassing round the turning point which he bathes, was joined in primeval wedlock with Tethys. The water bride-groom begat Klymene (Clymene), fairest of the Neiades (Naiads), whom Tethys nursed on her wet breast, her youngest, a maiden with lovely arms. For her beauty Helios (the Sun) pined . . . The torch of love was stronger than the blaze of his car and the shining of his rays, when over the bend of the reddened Okeanos as he bathed his fiery form in the eastern waters, he beheld the maiden close by the way, while she swam naked and sported in her father's waves . . . Her father united the girl to the heavenly charioteer [Helios]. The lightfoot Horai (Hours) acclaimed Klymene's bridal with Helios Phaesphoros (Lightbringer), the Nymphai Neides (Naiad Nymphs) [Okeanides] danced around; in a watery bridal-bower the fruitful maiden was wedded in a flaming union, and received the hot bridegroom into her cool arms . . . and Okeanos beside his bride Tethys sounded his song with all the fountains of his throat.
+     <br/>
+     As he [Phaethon son of Helios and Klymene (Clymene)] sprang from the childbed, the daughters of Okeanos cleansed him, Klymene's son, in his grandsire's waters, and wrapt him in swaddlings. The Stars (Asteres) in shining movement leapt into the stream of Okeanos which they knew so well, and surrounded the boy, with Selene Eileithyia (our Lady of Labour), sending forth her sparkling gleams . . .
+     <br/>
+     Often in the course of the boy's training Okeanos would have a pretty game, lifting Phaethon on his midbelly and letting him drop down; he would throw the boy high in the air, rolling over and over moving in a high path as quick as the wandering wind, and catch him again on his arm; then he would shoot him up again, and the boy would avoid the ready hand of Okeanos, and turn a somersault round and round till he splashed into the dark waters, prophet of his own death. The old man groaned when he saw it, recognizing the divine oracle, and hid all in prudent silence, that he might not tear the happy heart of Klymene the loving mother by foretelling the cruel threads of Phaethon's Fate."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 142 ff :
+     </span>
+     <br/>
+     "Tethys, running side by side with Okeanos (Oceanus), who begat thee in his bed of many fountains when joined in watery union with Tethys."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 155 ff :
+     </span>
+     <br/>
+     "Okeanos (Oceanus), first messenger of the laws for the newborn child [Beroe goddess of the city famous for its laws], sent his flood for the childbed round the loins of the world, pouring his girdle of water in an everflowing belt."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 43. 286 ff :
+     </span>
+     <br/>
+     "[Poseidon led the sea-gods into battle against the army of Dionysos  :] The Potamoi (Rivers) came roaring into the battle with Dionysos, encouraging their lord, and Okeanos (Oceanus) gaped a watery bellow from his everflowing throat while Poseidon's trumpet sounded to tell of the coming strife."
+    </p>
+    <p class="see-also">
+     For MORE information on the cosmic river see
+     <a href="../Kosmos/Okeanos.html">
+      THE RIVER OKEANOS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Kallisto">
+     OCEANUS, CALLISTO &amp; THE CONSTELLATION BEAR
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 177 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Tethys, wife of Oceanus and foster mother of Juno [Hera], forbids its [the constellation of Ursa Major, the Bear] setting in Oceanus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 508 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Omnipotens (the Almighty) [Zeus] swept away both son [Arkas (Arcas)] and mother [Kallisto (Callisto), a love of Zeus] . . . whirled in a wind together through the void, and set them in the sky as neighbouring stars [Ursa Major and Ursa Minor]. Juno [Hera], in fury when that concubine shone midst the stars, descended to the sea, to Tethys and old Oceanus, whom the gods greatly revere, and to their questioning replied : ‘You ask why I, Regina Deorum (Queen of the Gods), come hither from the mansions of the sky? I am dethroned; another reigns; my words are false unless, when night darkens the world, you see, new-honoured in heaven to injure me, twin constellations at the utmost pole, where earth in last and shortest circle turns. Who now would hesitate to insult Juno [Hera]? . . . She whom I forbade to be a woman [by transforming her into a bear], made a goddess! Thus the guilty pay! So great my sovereignty! . . . But you who reared me, if your hearts are touched by my disgrace, debar from your green deeps that sevenfold star that at the price of shame was set in heaven, nor let that prostitute your waters' pure integrity pollute.’ The Sea-gods (
+     <em>
+      Di Mari
+     </em>
+     ) gave assent, and Saturnia [Hera] departed heavenwards through the cloudless air with her light chariot.'"
+    </p>
+    <hr/>
+    <h3 id="Sea">
+     OCEANUS GOD OF THE SEA
+    </h3>
+    <p>
+     Okeanos (Oceanus) was equated with Pontos (Pontus, the Sea) by late classical writers. The association occurred after Greek explorers reached the Atlantic and Indian Oceans, to discover a salty, rather than fresh-water, sea.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 4 to Delos 15 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "But none need grudge that she [the island Delos] be named among the first, whensoever unto Okeanos (Oceanus) and unto Titanide (Titaness) Tethys the islands gather and she ever leads the way. Behind her footsteps follow Phoinikian Kyrnos (Phoenician Cyrnus), no mean isle, and Abantian Makris (Macris) of the Ellopians, and delectable Sardo, and the isle whereto Kypris (Cypris) [Aphrodite] first swam from the water [Kypros (Cyprus)] and which for fee of her landing she keeps safe."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 229 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The hoary Titanide (Titaness) bride [Tethys] of Ogenos [Okeanos (Oceanus)] seething with the corded gulls."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 13. 949 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "I [Glaukos (Glaucus)] was once a mortal [who was transformed into a sea-god after eating a magical herb] . . . The Sea Gods (
+     <em>
+      Di Maris
+     </em>
+     ) welcomed me to join their company (so well was I esteemed) and called on Tethys and Oceanus to take away my mortal essences. They purified me with a ninefold chant that purges my sins; then bade me plunge my body beneath a hundred rivers. Instantly torrents cascaded down from near and far and poured whole seas of waters on my head. So far I can relate what I recall, so far remember; but the rest is lost. When sense returned, I found myself in body another self, nor was my mind the same. For the first time I saw this bronze-green beard, these flowing locks that sweep along the swell, these huge broad shoulders and my sea-blue arms, my legs that curve to form a fishes tail."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 375 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Any little craft now wanders at will upon the deep. All bounds have been removed . . . There will come an age in the far-off years when Oceanus shall unloose the bonds of things, when the whole broad earth shall be revealed, when Tethys shall disclose new worlds and Thule [a mythical northern land] not be the limit of the lands."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O1.1.html">
+        <img alt="Thumbnail Oceanus, Tethys, Eileithyia" src="../image/thumbO1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O1.1 Oceanus, Tethys, Eileithyia
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z35.1A.html">
+        <img alt="Thumbnail Oceanus with Oar" src="../image/thumbZ35.1A.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z35.1A Oceanus with Oar
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z35.2.html">
+        <img alt="Thumbnail Oceanus &amp; Tethys" src="../image/thumbZ35.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z35.2 Oceanus &amp; Tethys
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z35.4.html">
+        <img alt="Thumbnail Oceanus &amp; Tethys" src="../image/thumbZ35.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z35.4 
+          Oceanus &amp; Tethys
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.2.html">
+        <img alt="Thumbnail Oceanus, Tethys, Poseidon" src="../image/thumbZ2.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.2 Oceanus, Tethys, Poseidon
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z35.3.html">
+        <img alt="Thumbnail Oceanus &amp; Tethys" src="../image/thumbZ35.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z35.3 Oceanus &amp; Tethys
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z35.5A.html">
+        <img alt="Thumbnail Oceanus with Oar" src="../image/thumbZ35.5A.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z35.5A Oceanus with Oar
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z35.7.html">
+        <img alt="Thumbnail Oceanus or Pontus" src="../image/thumbZ35.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z35.7 Oceanus or Pontus
+        </h3>
+        <p>
+         Greco-Roman Utica Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Homerica, The Cercopes Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Seven Against Thebes
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Clouds
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Theaetetus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/AratusPhaenomena.html">
+       Aratus, Phaenomena
+      </a>
+      <span class="sources-detail">
+       - Greek Astronomy C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Plato Timaeus 40e.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     OCEANUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE TITAN OCEANUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Uranus and Gaea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Tethys
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        River Oceanus, fresh water
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        River Oceanus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Serpent, fish
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     OCEANUS PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Myths &amp; Introduction
+      <ul>
+       <li>
+        <a href="#Family">
+         Family of Oceanus
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Parentage">
+         Parentage
+        </a>
+       </li>
+       <li>
+        <a href="#Children">
+         Children
+        </a>
+       </li>
+       <li>
+        <a href="#Genesis">
+         Genesis of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="#Titanes">
+         War of the Titans
+        </a>
+       </li>
+       <li>
+        <a href="#Prometheus">
+         Oceanus &amp; Prometheus Bound
+        </a>
+       </li>
+       <li>
+        <a href="#River">
+         Oceanus God of the River Oceanus
+        </a>
+       </li>
+       <li>
+        <a href="#Kallisto">
+         Oceanus &amp; the Constellation Ursa Major
+        </a>
+       </li>
+       <li>
+        <a href="#Sea">
+         Oceanus God of the Sea
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Kosmos/Okeanos.html">
+       Part 2: The River Oceanus
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

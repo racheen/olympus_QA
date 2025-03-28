@@ -1,0 +1,3490 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   SELENE - Greek Goddess of the Moon (Roman Luna)
+  </title>
+  <meta content="Selene was the ancient Greek Titan goddess of the moon. She was depicted as a woman riding sidesaddle on a horse or driving a chariot drawn by a pair of winged steeds. Her lunar sphere or crescent was either a crown set upon her head or the fold of a raised, shining cloak. Selene's Roman name was Lunar." name="description"/>
+  <meta content="Selene, Titaness, Greek mythology, Greek goddess of the moon, Selene pictures, Luna" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/sky-gods.html">
+      Sky Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/titans.html">
+      Titans
+     </a>
+     &gt;&gt; Selene
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     SELENE
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Σεληνη
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Selênê
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Luna
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Moon (
+       <em>
+        selênê
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T18.1.html">
+      <img alt="Selene goddess of the moon | Athenian red-figure kylix C5th B.C. | Antikensammlung Berlin" class="img-responsive center-block" src="../image/../image/T18.1Selene.jpg"/>
+     </a>
+     <figcaption>
+      Selene goddess of the moon, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.smb.museum/en/museums-institutions/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     SELENE was the Titan goddess of the moon. She was depicted as a woman riding sidesaddle on a horse or driving a chariot drawn by a pair of winged steeds. Her lunar sphere or crescent was either a crown set upon her head or the fold of a raised, shining cloak. She was sometimes said to drive a team of oxen and her lunar crescent was likened to a pair of bull's horns.
+    </p>
+    <p>
+     Selene's great love was the shepherd prince
+     <a href="../Heros/Endymion.html">
+      Endymion
+     </a>
+     . The beautiful boy was granted eternal youth and immortality by Zeus and placed in a state of eternal slumber in a cave near the peak of Lydian Mount Latmos (Latmus). His heavenly bride consorted with him there in the night.
+    </p>
+    <p>
+     A number of other goddesses were also associated with the moon, however, only Selene was represented by the old Greek poets represented as the moon incarnate. Other Greek moon goddesses  included
+     <a href="Pasiphae.html">
+      Pasiphae
+     </a>
+     ,
+     <a href="../Ouranios/ApotheothenaLeukippides.html">
+      the Leukippides (Leucippes)
+     </a>
+     ,
+     <a href="../Ouranios/Eileithyia.html">
+      Eileithyia
+     </a>
+     ,
+     <a href="../Ouranios/ApotheothenaLeukippides.html">
+     </a>
+     <a href="../Khthonios/Hekate.html">
+      Hekate (Hecate)
+     </a>
+     ,
+     <a href="../Olympios/Artemis.html">
+      Artemis
+     </a>
+     ,
+     <a href="../Thrakios/Bendis.html">
+      Bendis
+     </a>
+     , and
+     <a href="../Olympios/Hera.html">
+      Hera
+     </a>
+     (who sometimes doubled for Selene in the Endymion myth).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF SELENE
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="TitanHyperion.html">
+      HYPERION
+     </a>
+     &amp;
+     <a href="TitanisTheia.html">
+      THEIA
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 371, Apollodorus 1.8, Hyginus Preface)
+     </span>
+     <br/>
+     [1.2]
+     <a href="TitanHyperion.html">
+      HYPERION
+     </a>
+     &amp;
+     <a href="TitanisTheia.html">
+      EURYPHAESSA
+     </a>
+     <span class="family-refs">
+      (Homeric Hymn 31 to Helios)
+     </span>
+     <br/>
+     [2.1]
+     <a href="TitanPallas.html">
+      PALLAS
+     </a>
+     <span class="family-refs">
+      (Homeric Hymn 4 to Hermes 100, Ovid Fasti 4.373)
+     </span>
+     <br/>
+     [3.1]
+     <a href="Helios.html">
+      HELIOS
+     </a>
+     <span class="family-refs">
+      (Euripides Phoenicians 175, Nonnus Dionysiaca 44.198)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="Pandeia.html">
+      PANDEIA
+     </a>
+     (by
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Homeric Hymn 32 to Selene, Hyginus Preface)
+      <br/>
+     </span>
+     [2.1]
+     <a href="Herse.html">
+      ERSA
+     </a>
+     (by
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Greek Lyric II Alcman Frag 57)
+      <br/>
+     </span>
+     [3.1]
+     <a href="../Nymphe/NympheNemea.html">
+      NEMEA
+     </a>
+     (by
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Scholiast on Pindar's Nemean Ode)
+     </span>
+     <br/>
+     [4.1]
+     <a href="../Ouranios/Horai.html">
+      THE HORAI x4
+     </a>
+     (by
+     <a href="Helios.html">
+      Helios
+     </a>
+     )
+     <span class="family-refs">
+      (Quintus Smyrnaeus 10.334)
+     </span>
+     <br/>
+     [5.1]
+     <a href="Menai.html">
+      THE MENAI x50
+     </a>
+     (by
+     <a href="../Heros/Endymion.html">
+      Endymion
+     </a>
+     )
+     <span class="family-refs">
+      (Pausanias 5.1.5)
+     </span>
+     <br/>
+     [6.1]
+     <a href="../Ther/LeonNemeios.html">
+      NEMEAN LION
+     </a>
+     <span class="family-refs">
+      (Aelian On Animals 12.7, Hyginus Fabulae 30, Seneca Hercules Furens 83)
+     </span>
+     <br/>
+     [7.1] MOUSAIOS
+     <span class="family-refs">
+      (Ion of Chiod Frag 30a, Plato Republic 364d, Philodemus On Piety)
+     </span>
+     <br/>
+     [8.1]
+     <a href="../Heros/Narkissos.html">
+      NARKISSOS
+     </a>
+     (by
+     <a href="../Heros/Endymion.html">
+      Endymion
+     </a>
+     )
+     <span class="family-refs">
+      (Nonnus Dionysiaca 48.582)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     SELE′NE (Selênê), also called Mene, or Latin Luna, was the goddess of the moon, or the moon personified into a divine being. She is called a daughter of Hyperion and Theia, and accordingly a sister of Helios and Eos (Hes.
+     <em>
+      Theog. 371,
+     </em>
+     &amp;c.; Apollod. i. 2. § 2; Schol.
+     <em>
+      ad Pind. Isthm.
+     </em>
+     v. 1,
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     iv. 55); but others speak of her as a daughter of Hyperion by Euryphaessa (Hom.
+     <em>
+      Hymn. 31. 5
+     </em>
+     ), or of Pallas (Hom.
+     <em>
+      Hymn. in Merc. 99,
+     </em>
+     &amp;c.), or of Zeus and Latona (Schol.
+     <em>
+      ad Eurip. Phoen. 175
+     </em>
+     ), or lastly of Helios (Eurip.
+     <em>
+      l.c.;
+     </em>
+     comp. Hygin.
+     <em>
+      Praef.
+     </em>
+     p. 10, ed. Muncker). She is also called Phoebe, as the sister of Phoebus, the god of the sun. By Endymion, whom she loved, and whom she sent to sleep in order to kiss him, she became the mother of fifty daughters (Apollod. i. 7. § 5; Cic.
+     <em>
+      Tusc.
+     </em>
+     i. 38; Catull. 66. 5; Paus. v. 1. § 2); by Zeus she became the mother of Pandeia, Ersa, and Nemea (Hom.
+     <em>
+      Hymn. 32. 14 ;
+     </em>
+     Plut.
+     <em>
+      Sympos.
+     </em>
+     iii. in fin.; Schol.
+     <em>
+      ad Pind. Nem.
+     </em>
+     Hypoth. p. 425, ed. Böckh). Pan also is said to have had connexion with her in the shape of a white ram (Virg.
+     <em>
+      Georg.
+     </em>
+     iii. 391). Selene is described as a very beautiful goddess, with long wings and a golden diadem (Hom.
+     <em>
+      Hymn. 32. 1, 7
+     </em>
+     ), and Aeschylus (
+     <em>
+      Sept. 390
+     </em>
+     ) calls her the eye of night. She rode, like her brother Helios, across the heavens in a chariot drawn by two white horses, cows, or mules (Ov.
+     <em>
+      Fast.
+     </em>
+     iv. 374, iii. 110,
+     <em>
+      Rem. Am. 258 ;
+     </em>
+     Auson.
+     <em>
+      Ep.
+     </em>
+     v. 3; Claudian,
+     <em>
+      Rapt. Proserp.
+     </em>
+     iii. 403; Nonn.
+     <em>
+      Dionys.
+     </em>
+     vii. 244). She was represented on the pedestal of the throne of Zeus at Olympia, riding on a horse or a mule (Paus. v. 11. § 3); and at Elis there was a statue of her with two horns (Paus. vi. 24. § 5). In later times Selene was identified with Artemis, and the worship of the two became amalgamated (Callim.
+     <em>
+      Hymn. in Dian. 114, 141 ;
+     </em>
+     Soph.
+     <em>
+      Oed. Tyr. 207 ;
+     </em>
+     Plut.
+     <em>
+      Sympos. l.c.;
+     </em>
+     Catull. 34. 16; Serv.
+     <em>
+      ad Aen.
+     </em>
+     iv. 511, vi. 118). In works of art, however, the two divinities are usually distinguished; the face of Selene being more full and round, her figure less tall, and always clothed in a long robe; her veil forms an arch above her head, and above it there is the crescent. At Rome Luna had a temple on the Aventine. (Liv. xl. 2; Ov.
+     <em>
+      Fast.
+     </em>
+     iii. 884.)
+    </p>
+    <p>
+     MENE (Mênê), a female divinity presiding over the months. (Hom.
+     <em>
+      Hymn.
+     </em>
+     xii. 1; Apollon. Rhod. iii. 533, iv. 55; August.
+     <em>
+      De Civ. Dei,
+     </em>
+     vii. 2.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAME SPELLINGS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Σελαναια
+      </p>
+      <p class="names-greek">
+       Μηνη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Selanaia
+      </p>
+      <p>
+       Mênê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Selene
+      </p>
+      <p>
+       Mene
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Moon (
+       <em>
+        selênê
+       </em>
+       )
+      </p>
+      <p>
+       Moon, Month (
+       <em>
+        mênê
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF SELENE
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/Z18.2.html">
+      <img alt="Selene and sleeping Endymion | Greco-Roman mosaic | Bardo National Museum, Tunis" class="img-responsive center-block" src="../image/Z18.2Selene.jpg"/>
+     </a>
+     <figcaption>
+      Selene and sleeping Endymion, Greco-Roman mosaic,
+      <a href="http://www.bardomuseum.tn/" target="_blank">
+       Bardo National Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 371 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And Theia was subject in love to Hyperion and bare great Helios (Sun) and clear Selene (Moon) and Eos (Dawn) who shines upon all that are on earth and upon the deathless Gods who live in the wide heaven."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 31 to Helius (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "For Hyperion wedded glorious Euryphaessa, his own sister, who bare him lovely children, rosy-armed Eos (Dawn) and rich-tressed Selene (Moon) and tireless Helios (Sun)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 4 to Hermes 100 ff :
+     </span>
+     <br/>
+     "Bright Selene, daughter of the lord Pallas, Megamedes' son."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Phoenicians 175 ff (trans. Vellacott) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Selene, circle of gleaming gold, daughter of radiant-belted Helios (Sun)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 8 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Titanes (Titans) had children . . . Hyperion and Theia had Eos, Helios, and Selene."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Hyperion and Aethra [were born]: Sol [Helios], Luna [Selene], Aurora [Eos]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 44. 198 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "O daughter of Helios, Mene [Selene] of many turnings, nurse of all."
+     <span class="quote-greek">
+     </span>
+    </p>
+    <hr/>
+    <h3 id="Children">
+     CHILDREN OF SELENE
+    </h3>
+    <p>
+     Selene was the mother of the goddesses Pandia (All-Gifts), Ersa (Dew), the Menai (Menae, Months), and some say of the four Horai (Horae, Seasons). Her only mortal child was the poet Mousaios (Musaeus).
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 32 to Selene (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Once Kronides (Cronides) [Zeus the Rain-God] was joined with her [Selene the Moon] in love; and she conceived an bare a daughter Pandeia (All Divine), exceeding lovely amongst the deathless gods."
+     <br/>
+     [N.B. Pandeia is probably the same as Ersa (All-Nourishing Dew), cf. Alcman below.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 57 (trans. Campbell, Vol. Greek Lyric II) (C7th B.C.) :
+     </span>
+     <br/>
+     "Such things as are nurtured by Ersa (Dew), daughter of Zeus and Selene (Moon)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ion of Chios, Fragment  30A Elegies (from Philodemus, On Piety) (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "And Musaios (Musaeus) [the mythical singer] is said by Orpheus to have been her [Selene's] son, Ion calls him moon-fallen."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, The Republic 364d (trans. Shorey) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "The [mystic]  books of Musaios (Musaeus) and Orpheus, the offspring of Selene (Moon) and of the Mousa (Muse), as they affirm."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 1. 4 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Selene, they say, fell in love with this Endymion and bore him fifty daughters [i.e. the Menai (Menae), fifty months of the four year Olympiad]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 334 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Seated at her [Hera's] side were handmaids four whom radiant-faced Selene bare to Helios (the Sun) to be unwearying ministers in Heaven, in form and office diverse each from each; for of these Horai (Horae, Seasons) one was summer's queen, and one of winter and his stormy star, of spring the third, of autumn-tide the fourth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Jove [Zeus] and Luna [Selene] [was born] : Pandia."
+    </p>
+    <hr/>
+    <h3 id="Lion">
+     SELENE &amp; THE NEMEAN LION
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 12. 7 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "They say that the Lion of Nemea fell from the moon (
+     <em>
+      selene
+     </em>
+     ). At any rate Epimenides [C6th B.C. poet] also has these words : ‘For I am sprung from fair-tressed Selene the Moon, who in a fearful shudder shook off the savage lion in Nemea, and brought him forth at the bidding of Queen Hera.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 30 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Nemean Lion, an invulnerable monster, which Luna [Selene] had nourished in a two-mouthed cave, he [Herakles] slew and took the pelt for defensive covering."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 83 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Let Luna (Moon) [Selene] in the sky produce still other monstrous creatures. But he [Herakles] has conquered such as these [i.e. the Nemeian lion, born of the moon]."
+    </p>
+    <p class="see-also">
+     For MORE information on this animal see the
+     <a href="../Ther/LeonNemeios.html">
+      NEMEIAN LION
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Endymion">
+     LOVE OF SELENE &amp; ENDYMION (AND PAN)
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T18.4.html">
+      <img alt="Selene and Endymion | Apulian red-figure volute krater C4th B.C. | Dallas Museum of Art, Texas" class="img-responsive center-block" src="../image/T18.4Selene.jpg"/>
+     </a>
+     <figcaption>
+      Selene and Endymion, Apulian red-figure volute krater C4th B.C.,
+      <a href="https://www.dma.org/" target="_blank">
+       Dallas Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 199 (from Scholiast on Apollonius of Rhodes) (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "The story goes that Selene comes down to this cave [on Mount Latmos in Karia (Caria)] to meet Endymion. Sappho and Nikandros) (Nicander [poet C2nd B.C.] . . . tell the story of the love of Selene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 56 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Endymion] a man of unrivalled beauty, he was loved by Selene. When he was given a wish of his choice by Zeus, he chose to remain immortal and unaging in eternal sleep."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 55 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Rising from the distant east, the Lady Selene (Moon), Titanian goddess, saw the girl [Medea the witch] wandering distraught [for love of Jason], and in wicked glee said to herself : ‘So I am not the only one to go astray for love, I that burn for beautiful Endymion and seek him in the Latmian cave. How many times, when I was bent on love, have you disorbed me with your incantations, making the night moonless so that you might practise your beloved witchcraft undisturbed! And now you are as lovesick as myself. The little god of mischief has given you Iason (Jason), and many a heartache with him. Well, go your way; but clever as you are, steel yourself now to face a life of sighs and misery.’ So said Selene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 1. 8 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "This mountain [Mount Latmos (Latmus)] lies above Herakleia (Heraclea) [in Lydia], and at a high elevation. At a slight distance away from it, after one has crossed a little river near Latmos, there is to be seen the sepulchre of Endymion, in a cave."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 1. 4 - 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Selene, they say, fell in love with this Endymion and bore him fifty daughters . . . As to the death of Enydmion, the people of Herakleia (Heraclea) near Miletos (Miletus) do not agree with the Eleans; for while the Eleans who a tomb of Endymion, the folk of Herakleia say that he retired to Mount Latmos (Latmus) and give him honour, there being a shrine of Endymion on Latmos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 127 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "That haunted cave [on Mount Latmos] of fair-haired Nymphai (Nymphs) where, as Endymion slept beside his kine, divine Selene watched him from on high, and slid from heaven to earth; for passionate love drew down the immortal stainless queen of night. And a memorial of her couch abides still 'neath the oaks; for mid the copses round was poured out milk of kine; and still do men marvelling behold its whiteness. Thou wouldst say far off that this was milk indeed, which is a well-spring of white water : if thou draw a little nigher, lo, the stream is fringed as though with ice, for white stone rims it round."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 411 ff :
+     </span>
+     <br/>
+     "White Selene (the Moon) . . . remembered her own love, princely Endymion."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 271 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Youths who were most handsome. Adonis, son of Cinyras and Smyrna, whom Venus [Aphrodite] loved. 
+  Endymion, son of Aetolus, whom Luna [Selene] loved. 
+  Ganymede, son of Erichthonius, whom Jove [Zeus] loved. Hyacinthus, son of Oebalus, whom Apollo loved."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 15. 87 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Sappho speaks of the beauty of Phaon :] Him should Phoebe [Selene the Moon] behold, who beholds all things, ‘twill be Phaon she bids continue in his sleep [i.e. as her lover in place of Endymion]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 18. 59 ff :
+     </span>
+     <br/>
+     "[Leandros (Leander) swimming the Hellespont by night prays to the Moon :] The moon for the most shed me a tremulous light as I swam, like a duteous attendant watchful over my path. Lifting to her my eyes, ‘Be gracious to me, shining deity,’ I said, ‘and let the rocks of Latmos (Latmus) rise in thy mind! Endymion will not have thee austere of heart. Bend, O I pray, thy face to aid my secret loves. Thou, a goddess, didst glide from the skies and seek a mortal love; ah, may it be allowed me to say the truth!-- she I seek is a goddess too . . . As much as all the stars are less than thy bright fires when thy silvery gleam goes forth with pure rays, so much more fair is she than all the fair. If thou dost, doubt it, Cynthia, thy light is blind.’”
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 390 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "'Twas with gift of such snowy wool, if we may trust the tale, that Pan, Arcadia's god, charmed and beguiled you, O Luna (the Moon) [Selene], calling you to the depths of the woods; nor did you scorn his call."
+     <br/>
+     [N.B. Virgil is probably alluding to the story of Selene's seduction by the shepherd Endymion. The name Pan is most likely used metaphorically, i.e. as the god of the flocks he was the source of the fine fleece which Endymion used to entice the goddess. A vase painting depicts Endymion waving such a fleece before the goddess' chariot. Alternatively, the story might be derived from a play on the Greek word,
+     <em>
+      panselênê
+     </em>
+     , i.e. "full moon," and/or be connected with the birth of Selene's daughter Pandeia.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 15 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "It was naked that Endymion enraptured Phoebus's sister [Phoebe-Selene] and naked, they say, lay with the goddess."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 309 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "The radiant goddess [Luna-Selene the Moon] of the darksome sky burned with love [for Endymion] and, forsaking the night, gave her gleaming chariot to her brother [Helios the Sun] to guide in fashion other than his own. He learned to drive the team of night and to wheel in narrower circuit, while the axle groaned beneath the car's heavier weight; nor did the nights keep their accustomed length, and with belated dawning came the day."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 422 ff :
+     </span>
+     <br/>
+     "May no shepherd [i.e. Endymion] make boast o'er thee [Selene the Moon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 786 ff :
+     </span>
+     <br/>
+     "Or else, looking down on thee from the starry heavens, the orb [Selene the Moon] that was born after the old Arcadians will lose control of her white-shining car [for love of a rustic, like Endymion]. And lately she blushed fiery red, though no staining cloud obscured her bright face; but we, anxious for our troubled goddess, thinking her harried by Thessalian charms [i.e. by witches], made loud jingling sounds: yet ‘twas thou hadst been her trouble, thou the cause of her delaying; while gazing on thee the goddess of the night checked her swift course."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 8. 28 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The Latmian hunter [Endymion], while his comrades are yet scattered in troops about the glens, rests in the summer shade, fit lover for a goddess, and soon Luna (the Moon) [Selene] comes with veiled horns."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 325 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Selene, Endymion's bed-fellow."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 4. 192 ff  :
+     </span>
+     <br/>
+     "[The goddess Harmonia laments her love for a mortal man :] ‘I will proclaim how Orion loved Erigeneia [Eos the Dawn], and I will recall the match of Kephalos (Cephalus); if I go to the misty sunset, my comfort is Selene herself who felt the same for Endymion upon Latmos (Latmus).’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 4. 213 ff :
+     </span>
+     <br/>
+     "When Mene [Selene the Moon] saw the girl [Harmonia, daughter of Aphrodite] following a stranger [Kadmos (Cadmus), her bridegroom] along the shore above the sea, and boiling under fiery constraint, she reproached Kypris (Cypris) [Aphrodite] in mocking words : ‘So you make war even upon your children, Kypris! Not even the fruit of your womb is spared by the goad of love! Don't you pity the girl you bore, hardheart? What other girl can you pity then, when you drag your own child into passion?--Then you must go wandering too, my darling. Say to your mother, Paphian's child, "Phaethon mocks you, and Selene puts me to shame." Harmonia, love-tormented exile, leave to Mene [Selene] her bridegroom Endymion, and care for your vagrant Kadmos (Cadmus). Be ready to endure as much trouble as I have, and when you are weary with lovebegetting anxiety, remember lovewounded Selene.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 516 ff :
+     </span>
+     <br/>
+     "Shining Eos carried off Orion for a bridegroom, and Selene Endymion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 222 ff :
+     </span>
+     <br/>
+     "[A Naiad compares the fair Semele to Selene :] I spy a silverfooted maiden stretched under the streams of my river! I believe Selene bathes in the Aonian [Theban] waves on her way to Endymion's bed on Latmos (Latmus), the bed of a sleepless shepherd; but if she has prinked herself out for her sweet shepherd, what's the use of Asopos (Asopus) after the Okeanos (Oceanus) stream? And if she has a body white as the snows of heaven, what mark of the Moon has she? A team of mules unbridled and a mule-cart with silver wheels are there on the beach, but Selene knows not how to put mules to her yokestrap--she drives a team of bulls!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 13. 553 ff :
+     </span>
+     <br/>
+     "He [Kaunos (Caunus) of Karia (Caria)] composed that tricking lovesong . . . the song about the Latmian cowshed of the neversleeping herdsman, while he praised Endymion, the bride-groom of love-smitten Selene, as happy in love's care on a neighbouring rock [i.e. Mount Latmos in Karia]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 339 ff :
+     </span>
+     <br/>
+     "Wise Endymion with changing bends of his fingers will calculate the three varying phases of Selene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 42. 266 ff :
+     </span>
+     <br/>
+     "Sing Selene madly in love with Endymion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 582 ff :
+     </span>
+     <br/>
+     "There were the clustering blooms which have the name Narkissos the fair youth, whom horned Selene's bridegroom Endymion begat on leafy Latmos (Latmus)."
+    </p>
+    <p class="see-also">
+     For MORE information on this hero see
+     <a href="../Heros/Endymion.html">
+      ENDYMION
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Typhoeus">
+     SELENE &amp; THE GIANT TYPHOEUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 1. 214 ff :
+     </span>
+     <br/>
+     "[The monster Typhoeus laid siege to heaven, challenging the rule of Zeus :] Many a time he [Typhoeus] took a bull at rest from his rustic plowtree and shook him with a threatening hand, bellow as he would, then shot him against Selene the Moon like another moon, and stayed her course, then rushed hissing against the goddess, checking with the bridle her bulls' white yoke-straps, while he poured out the mortal whistle of a poison-spitting viper. But Titanis Mene [Selene] would not yield to the attack. Battling against the Gigante's (Giant's) heads, like horned to hers [i.e. Selene was crowned with horns with the disc between them forming the circle of the moon--with these she locked horns with one of Typhoeus' bull-heads], she carved many a scar on the shining orb of her bull's horn [i.e the smooth white surface of the moon was scarred by this battle]; and Selene's radiant cattle bellowed amazed at the gaping chasm of Typhaon's throat."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 405 ff :
+     </span>
+     <br/>
+     "Some shots [of rocks from the monster Typhoeus when he was battling Zeus] went past Selene's car, and scored through the invisible footprints of her moving bulls."
+    </p>
+    <hr/>
+    <h3 id="Ampelos">
+     SELENE WRATH : AMPELOS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 185 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Ampelos, love of Dionysos, riding on the back of a wild bull :] He shouted boldly to the fullfaced Moon (Mene) [Selene]--‘Give me best, Selene, horned driver of cattle! Now I am both--I have horns and I ride a bull!’ 
+  So he called out boasting to the round Moon. Selene looked with a jealous eye through the air, to see how Ampleos rode on the murderous marauding bull. She sent him a cattlechasing gadfly; and the bull, pricked continually all over by the sharp sting, galloped away like a horse through pathless tracts . . . [it then threw him then gorged him to death]."
+    </p>
+    <hr/>
+    <h3 id="Moon">
+     SELENE GODDESS OF THE MOON
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/T18.2.html">
+      <img alt="Selene the moon | Athenian red-figure bell krater C5th B.C. | Kunsthistorisches Museum, Vienna" class="img-responsive center-block" src="../image/T18.2Selene.jpg"/>
+     </a>
+     <figcaption>
+      Selene the moon, Athenian red-figure bell krater C5th B.C.,
+      <a href="https://www.khm.at/" target="_blank">
+       Kunsthistorisches Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 32 to Selene (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Long-winged Mene [i.e. Selene as goddess of the month]. From her immortal head a radiance is shown from heaven and embraces earth; and great is the beauty that ariseth from her shining light. The air, unlit before, glows with the light of her golden crown, and her rays beam clear, whensoever bright Selene (the Moon) having bathed her lovely body in the waters of Okeanos (Oceanus), and donned her far-gleaming raiment, and yoked her strong-necked, shining team, and drives on her long-maned horses at full speed, at eventime in the mid-month : then her great orbit is full and then her beams shine brightest as she increases. So she is a sure token and a sign to mortal men."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 4 to Hermes 100 ff :
+     </span>
+     <br/>
+     "Bright Selene (the Moon), daughter of the lord Pallas, Megamedes' son, had just climbed her watch-post."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 4 to Hermes 140 ff :
+     </span>
+     <br/>
+     "Selene's (the Moon's) soft light shone down."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 34  (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "The Astera (Stars) hide away their shining form around lovely Selene (the Moon) when in all her fullnesss she shines over all the earth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 96 :
+     </span>
+     <br/>
+     "Rosy-fingered Selene (the Moon) after sunset, surpasssing all the stars (
+     <em>
+      astra
+     </em>
+     ), and her light spreads alike over the salt sea and the flowery fields; the dew is shed in beauty, and roses bloom and tender chervil and flowery melilot."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Corinna, Fragment 690 (trans. Campbell, Vol. Greek Lyric II) (C6th B.C.) :
+     </span>
+     <br/>
+     "Aas (Eos the Dawn), leaving the waters of Okeanos (Oceanus), drew from the sky the Moon's (Selene's) holy light."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 937 (Inscription from the shrine of Asclepius at Epidaurus) (trans. Campbell) (Greek lyric B.C.) :
+     </span>
+     <br/>
+     "High-skilled Asklepios (Asclepius); and summon [various gods including] . . . unwearied Helios (Sun) and Selene (Moon) at her full and all the signs with which heaven is crowned. Greetings, all you immortal gods everlasting and immortal goddesses!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Seven Against Thebes 389 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "He has this haughty symbol on his shield : a well-crafted sky, ablaze with stars, and the brightness of the full moon (
+     <em>
+      panselene
+     </em>
+     ) shining in the center of the shield, the moon that is the most revered of the stars, the eye of night."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Phoenicians 175 ff (trans. Vellacott) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Selene (the Moon), circle of gleaming gold, daughter of radiant-belted Helios (Sun)!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 400d &amp; 408d (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[Plato constructs philosophical etymologies for the names of the gods :]
+     <br/>
+     Sokrates (Socrates) : Let us inquire what thought men had in giving them [the gods] their names . . . The first men who gave names [to the gods] were no ordinary persons, but high thinkers and great talkers . . . But why should you not tell of another kind of gods, such as sun, moon, stars, earth, ether, air, fire, water, the seasons, and the year?  . . .
+     <br/>
+     Hermogenes : And what of the moon, Selene (the Moon)?
+     <br/>
+     Sokrates : That name appears to put Anaxagoras in an uncomfortable position . . . Why, it seems to have anticipated by many years the recent doctrine of Anaxagoras, that the moon receives its light from the sun . . .
+     <em>
+      Selas
+     </em>
+     (gleam) and
+     <em>
+      phôs
+     </em>
+     (light) are the same thing . . . Now the light is always new and old about the moon, if the Anaxagoreans are right; for they say the sun, in its continuous course about the moon, always sheds new light upon it, and the light of the previous month persists . . . The moon is often called Selanaia . . . Because it has always a new and old gleam (
+     <em>
+      sela neon te kai henon
+     </em>
+     ) the very most fitting name for it would be Selaenoneoaeia, which has been compressed into Selanaia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 35 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Ge (Gaea, Earth) learned of this [that her Gigante-sons would be slain by the gods], she sought a drug that would prevent their destruction even by mortal hands. But Zeus barred the appearance of Eos (the Dawn), Selene (the Moon), and Helios (the Sun), and chopped up the drug himself before Ge could find it."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 498 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "He [Orpheus] sang of [the origin of the cosmos] . . . how the Astra (Stars), Selene (Moon), and travelling Helios (Sun) keep faithfully to their stations in the heavens."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Hero and Leander Fragment (trans. Page, Vol. Select Papyri III, No. 126) (Greek poetry C3rd to 1st B.C.) :
+     </span>
+     <br/>
+     "`Stars (
+     <em>
+      asteres
+     </em>
+     ), bow to my prayer, and become sightless; Moon (
+     <em>
+      mênê
+     </em>
+     ) [Selene], suffer your light to sink swiftly and depart!' So she [Hero] spoke, for to see Laandros (Leander) was all her heart's desire."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 11. 8 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Amongst the illustrations on the throne of Zeus at Olympia :] Selene (the Moon) is driving what I think is a horse. Some have said the that steed of the goddess is a mule and not a horse, and they tell a silly story about the mule."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 1. 147 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Swelled like young Mene's (the Moon's) [Selene's] arching chariot-rail when high o'er Okeanos' (Oceanus') fathomless-flowing stream she rises, with the space half filled with light betwixt her bowing horns."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 411 ff :
+     </span>
+     <br/>
+     "Fast she [Oinone (Oenone), the nymph wife of Paris] ran . . . down the long tracks flew Oinone's feet; seeking the awful pyre [of Paris], to leap thereon . . . White Selene (the Moon) from on high looked on her, and remembered her own love, princely Endymion, and she pitied her in that wild race, and, shining overhead in her full brightness, made the long tracks plain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous (perhaps Pamprepius of Panopolis), Two Poems Fragments (trans. Page, Vol. Select Papyri III, No. 140) (Greek poetry C4th A.D.) :
+     </span>
+     <br/>
+     "The dog-star [Seirios (Sirius)] is extinguished by the watery snowstorms. For even the stars go pale before their streams, no longer do we see the Moon (
+     <em>
+      mênê
+     </em>
+     ) [Selene], the dark-eyed lady (
+     <em>
+      potnia kyanôpis
+     </em>
+     ) that treads upon the heel of the sun, who is frozen among the clouds ((lacuna)) . . no longer did the redness of the dawn embrace the circle of the night . . . The glow of the ox-eyed moon (
+     <em>
+      boôpis selênê
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 118 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "When Titan [Helios the Sun] perceived Lucifer the Morning Star [Eosphoros] setting and saw the world in crimson sheen and the last lingering crescent of Luna the Moon [Selene] fade in the dawn [he rose into the sky]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 208 ff :
+     </span>
+     <br/>
+     "Luna (the Moon) [Selene] with wonder sees her brother's [Helios the Sun's] team running below her own [as Phaethon attempting to drive the chariot of the sun looses control of the horses]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 4. 373 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "When Pallantis [Eos the Dawn] next gleams in heaven and stars flee and Luna's (the Moon's) [Selene's] snow-white horses are unhitched."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 395 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Luna (the Moon) [Selene] rises under no debt to her brother's rays [i.e. her light is reflected from the sun]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 426 ff :
+     </span>
+     <br/>
+     "Soon as the moon [Luna-Selene] gathers her returning fires, if she encloses a dark mist within dim horns, a heavy rain is awaiting farmers and seamen. But if over her face she spreads a maiden blush, there will be wind; as wind rises, golden Phoebe [Luna-Selene] ever blushes. But if at her fourth rising--for that is our surest guide--she pass through the sky clear and with undimmed horns, then all that day, and the days born of it to the month's end, shall be free from rain and wind; and the sailors, safe in port."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/N1.1.html">
+      <img alt="Nyx, Hesperus and Selene | Athenian red-figure krater C4th B.C. | State Hermitage Museum, Saint Petersburg" class="img-responsive center-block" src="../image/N1.1Nyx.jpg"/>
+     </a>
+     <figcaption>
+      Nyx, Hesperus and Selene,  Athenian red-figure krater C4th B.C.,
+      <a href="https://www.hermitagemuseum.org/" target="_blank">
+       State Hermitage Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 125 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Now stars shine few and faint in the sinking sky; vanquished night draws in her wandering fires as the new day is born, and Phosphorus brings up the rear of the shining host . . . Titan [Sol-Helios the Sun] peeps forth from Oeta's crest; now the rough brakes . . . touched by the dawn, flush red, and Phoebus' sister [Luna-Selene the Moon] flees away, to return again."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 95 ff :
+     </span>
+     <br/>
+     "So does starlight splendour wane with the coming of the sun, and the huddled flock of the Pleiades vanish away when Phoebe [Selene the Moon], shining with borrowed light [i.e. from the sun], with encircling horns encloses her full-orbed disk."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Oedipus 44 ff :
+     </span>
+     <br/>
+     "[During a time of drought :] With paling light glides Phoebus' sister [Selene the Moon] athwart the sky, and the gloomy heavens are wan in the lowering day."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Oedipus 250 ff :
+     </span>
+     <br/>
+     "Thou [Helios the Sun], greatest glory of the unclouded sky . . . and thou, his sister, ever faring opposite to thy brother, Phoebe [Selene the Moon], night-wanderer."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Oedipus 504 ff :
+     </span>
+     <br/>
+     "While the bright stars of the ancient heavens shall run in their courses; while Oceanus shall encircle the imprisoned earth with its waters; while full Luna (the Moon) [Selene] gather again her lost radiance; while Lucifer [Eosphoros the Dawn-Starr] shall herald the dawn of the morning."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 417 ff :
+     </span>
+     <br/>
+     "Mayst thou [Luna-Selene the Moon] wear a shining face and, the clouds all scattered, fare on with undimmed horns; when thou drivest thy car through the nightly skies."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 742 ff :
+     </span>
+     <br/>
+     "As much fairer does thy beauty shine as gleams more brightly the full-orbed moon when with meeting horns she has joined her fires, when at the full with speeding chariot blushing Phoebe [Selene the Moon] shows her face and the lesser stars fade out of sight."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 5. 408 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Depicted on the doors of the palace of King Aeetes :] There  iron Atlas stands in Oceanus, the wave swelling and breaking on his knees; but the god himself [Sol-Helios the Sun] on high hurries his shining steeds . . . behind with smaller wheel follows his sister [Luna-Selene the Moon] and the crowded Pleiades and the fires whose tresses are wet with dripping rain [the Hyades]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 336 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "But now through the wide domains which Phoebus [Helios the Sun], his day's work ended, had left bare, rose the Titanian queen [Selene the Moon], borne upward through a silent world, and with her dewy chariot cooled and rarefied the air; now birds and beasts are hushed, and Somnus (Sleep) [Hypnos] steals o'er the greedy cares of men, and stoops and beckons from the sky, shrouding a toilsome life once more in sweet oblivion."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 12. 1 ff :
+     </span>
+     <br/>
+     "Not ye had the wakeful dawn put all the stars to flight from heaven, and Luna (the Moon) [Selene] was beholding the approach of day with fading horn."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 12. 300 ff :
+     </span>
+     <br/>
+     "[Juno-Hera] encountering the lunar team she faced them and spoke thus with calm accents : ‘Grant me a little boon, O Cynthia [Selene the Moon], if Juno [Hera] can command respect . . . now canst thou do me a service. Argia, daughter of Inachus, my favourite votary--seest thou in what a night she roams [in search of the unburied body of her husband Polyneikes (Polynices) on the battlefields of Thebes], nor with failing strength can find her spouse in the thick darkness? Thy beams too are faint with shrouding vapour; show forth thy horns, I pray thee, and let thy orbit approach the earth nearer than is thy wont. This Sopor [Hypnos, sleep], too, who leaning forward plies for thee thy humid chariot-reins, send him upon the Aonian watchmen.’
+     <br/>
+     Scarce had she spoken, when the goddess cleft the clouds and displayed her mighty orb; the shadows started in terror, and the stars shorn of their radiance; scarce did Saturnia [Hera] herself endure the brightness."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 619 ff :
+     </span>
+     <br/>
+     "Luna (the Moon) [Selene] in her rosy chariot was climbing to the height of mid-heaven, when drowsy Somnus (Sleep) [Hypnos] glided down with full sweep of his pinions to earth and gathered a silent world to his embrace."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 3. 53 (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "But even deities have their laws : in thraldom the swift choir of the Astra (Stars), in thraldom is wandering Luna (the Moon) [Selene], not unbidden is the light whose path so oft returns [Sol-Helios the Sun]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Musaeus, Hero &amp; Leander 56 (Greek poetry C5th or 6th A.D.) :
+     </span>
+     <br/>
+     "Flashing a lightning of lovely radiance from her face, even as Selene of the fair white cheeks, when she is rising."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Tryphiodorus, The Taking of Ilias 514 (trans. Mair) (Greek poetry C6th A.D.) :
+     </span>
+     <br/>
+     "When Mene (the Moon) [Selene], full with grey fire, gilds with her face the gleaming heaven: not when, sharpening her pointed horns, she first shines, rising in the shadowless dusk of the month, but when, orbing the round radiance of her eye, she draws to herself the reflected rays of the sun."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 1. 98 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[A sailor sees Europa sailing across the sea on the back of a bull-shaped Zeus :] Surely Selene (Moon) has gotten an unruly bull [she was sometimes said to ride on the back of a bull through the heavens], and leaves the sky to traipse over the high seas."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 1. 454 ff :
+     </span>
+     <br/>
+     "Near the dewy turning-point [the spring equinox] where Selene's (the Moon) cattle send out a windy moo from their life-warming throats."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 4. 279 ff :
+     </span>
+     <br/>
+     "The changing circuits of Selene (the Moon) as she comes back and back again--how she changes her returning shape in three circles, new-shining, half-moon, and gleaming with full face; how her splendour now touching, now shrinking back, at the male furnace of father Helios is brought to birth without a mother, as she filches the father's selfbegotten fire ever lighted again."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 67 ff :
+     </span>
+     <br/>
+     "He [Kadmos (Cadmus) founder of Thebes] dedicated the seven gates [of the new-founded city] to the seven planets. First towards the western clime he allotted the Onkaian (Oncaean) Gate to Mene (the Moon) [Selene] brighteyes, taking the name from the honk of cattle, because Selene herself, bullshaped, horned, driver of cattle, being triform is Tritonis Athene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 4 ff :
+     </span>
+     <br/>
+     "Selene (the Moon) herself darted out newrisen, showing her light as she drove her cattle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 17. 234 ff :
+     </span>
+     <br/>
+     "Orontes [an Indian chief] proud of his armament struck Bakkhos (Bacchus) [Dionysos] on the top of his head, but wounded him not; he grazed the sharp horn of Bromios all for nothing. For Lord Dionysos wore on that invulnerable head . . . the shape of the bullfaced Selene the Moon . . . Lyaios (Lyaeus) wore the heavenly image of the cow's eye Selene, a growth of divine horns which cannot be broken, which enemies cannot shake."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 23. 280 ff :
+     </span>
+     <br/>
+     "[Okeanos (Oceanus) threatens to divert his streams through heaven :] ‘Selene (the Moon) herself, bullshaped and horned driver of cattle, may be angry to see my horned bullshaped form.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 36. 119 ff :
+     </span>
+     <br/>
+     "Let not Zeus be angry again . . . and pour down showers of rain through the air to flood the circuit of the eternal universe. I hope I may not behold the sea in the sky and Selene's car soaking."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 135 ff :
+     </span>
+     <br/>
+     "The light that shone on that bridal bed [of Helios the Sun and Klymene (Clymene)] come from the starry train; and the star of Kypris (Cypris) [Aphrodite], Eosphoros [the Dawn-Star], herald of the union wove a bridal song. Instead of the wedding torch, Selene (the Moon) sent her beams to attend the wedding."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 82 ff :
+     </span>
+     <br/>
+     "[The city of] Beroe alone grew up [at the beginning of time], older than Phaethon [Helios the Sun], from whom Selene (the Moon) got her light, even before all Khthon (Chthon, the Earth), milling out from Helios the shine of his newmade brightness upon her all-mothering breast and the later perfected light of unresting Selene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 320 ff :
+     </span>
+     <br/>
+     "Selene (the Moon) in her heavenly chariot sends forth the flame of her everwakeful fires in a shower of cloudless beams, and rises in full refulgence among the firefed stars, obscuring the whole heavenly host with her countenance."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Aigle (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Aigle (Aegle, Radiance) : Selene the moon is also so called, and Asklepios (Asclepius)."
+    </p>
+    <p class="see-also">
+     See also the following sections:
+     <br/>
+     <a href="#Hymns">
+      Hymns to Selene
+     </a>
+     <br/>
+     <a href="#Months">
+      Selene the Moon Goddess of the Month
+     </a>
+     (monthly cycles)
+     <br/>
+     <a href="#Witches">
+      Selene the Moon Drawn Down by Witches
+     </a>
+     (lunar eclipses and "red moons")
+     <br/>
+     <a href="#Artemis">
+      Artemis Identified with Selene
+     </a>
+     (identified with Selene)
+     <br/>
+     <a href="#Triad">
+      Hecate-Artemis-Selene Triad
+     </a>
+     Triad (three lunar goddesses)
+    </p>
+    <hr/>
+    <h3 id="Witches">
+     SELENE THE MOON DRAWN DOWN BY WITCHES
+    </h3>
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/Z50.1B.html">
+      <img alt="Luna-Selene as Monday | Greco-Roman mosaic from Orbe C3rd A.D. | Roman villa of Orbe-Boscéaz" class="img-responsive center-block" src="../image/Z50.1BSelene.jpg"/>
+     </a>
+     <figcaption>
+      Luna-Selene as Monday, Greco-Roman mosaic from Orbe C3rd A.D., Roman villa of Orbe-Boscéaz
+     </figcaption>
+    </figure>
+    <p>
+     Lunar eclipses and the phenomena of the "red moon" were  believed to be caused by the evil magics of Thessalian witches, who drew the goddess down from the sky in order to extract her blood. It was customary for villagers to beat cymbals at these times, to negate the witches' power and restore the goddess to the sky.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Gorgias 513a (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Sokrates (Socrates) : May that we not suffer, my distinguished friend, the fate that they say befalls the creatures who would draw down the Moon (
+     <em>
+      selênê
+     </em>
+     )--the Thettalides (women of Thessaly)."
+     <br/>
+     [N.B. Sokrates alludes to the popular theory that the practice of witchcraft is a serious danger to the practicioner.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 207 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Medea the witch cries out to the sky gods :] ‘Thee too, bright Luna (the Moon) [Selene], I banish, though thy throes the clanging bronze assuage; under my spells even my grandsire's [Helios the Sun's] chariot grows pale and Aurora (the Dawn) [Eos] pales before my poison's power.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 179 ff :
+     </span>
+     <br/>
+     "Three nights remained before Luna's (the Moon's) [Selene's] bright horns would meet and form her orb; then when she shone in fullest radiance and with form complete gazed down upon the sleeping lands below, [the witch] Medea, barefoot, her long robe unfastened, her hair upon her shoulders falling loose, went forth alone upon her roaming way, in the deep stillness of the midnight hour [to make her magics]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 14. 365 ff :
+     </span>
+     <br/>
+     "Circe turned to prayers and incantations, and unknown chants to worship unknown gods, chants which she used to eclipse Luna's (the Moon's) [Selene's] pale face and veil her father's [Helios the Sun's] orb in thirsty clouds."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 6. 85 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "She [the witch Medea] is one to strive to draw down from its course the unwilling moon (
+     <em>
+      luna
+     </em>
+     ), and to hide in darkness the horses of the sun (
+     <em>
+      sol
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 672 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Often have I seen her [the witch Medea] in frenzy and assailing the gods [Sol-Helios and Luna-Selene, the sun and moon], drawing down the sky."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 420 ff :
+     </span>
+     <br/>
+     "When thou [Luna-Selene the Moon] drivest thy car through the nightly skies, may no witcheries of Thessaly prevail to drag thee down."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 786 ff :
+     </span>
+     <br/>
+     "Anxious for our troubled goddess [Luna-Selene the Moon], thinking her harried by Thessalian charms [i.e. by witches], made loud jingling sounds [i.e. a charm to bring back the moon from the lunar eclipse]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 6. 148 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Mightiest among them in Stygian arts Coastes [the magician] comes [to war] . . . glad is . . . Latonia [Luna-Selene the Moon] that she can ride in a safe heaven [since Coastes has gone to war Selene the Moon is not continually being drawn down from the sky by his magic]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 6. 442 ff :
+     </span>
+     <br/>
+     "Medea . . . than whom is none more potent at the nightly altars [casting magic spells]; for responsive to her cry and to the juices she scatters in desolate places the Stars are halted trembling and Solis (the Sun) [Helios] her grandsire is aghast as he runs his course . . . the Atracian poisons made Luna (the Moon) [Selene] to foam and that spells of Haemonia were rousing up the ghosts."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 7. 327 ff :
+     </span>
+     <br/>
+     "From afar the chambers breathing magic spells burst open and the grim doors flew wide, and she [Medea] gazed at all that she had torn from the ocean-bed or from the Shades below, or drawn down from the blood-red visage of Luna (the Moon) [Selene]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 105 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "When Atracian [Thessalian witches'] spells make travailing Phoebe [Luna-Selene the Moon] redden through the clouds; suffused with venom, her skin distends and swells with corruption; a fiery vapour issues from her evil mouth, brining upon mankind thirst unquenchable and sickness and famine and universal death."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 684 ff :
+     </span>
+     <br/>
+     "So falls, whenever she is torn from the astonished stars, the darkened sister of the Sun [Luna-Selene the Moon]; afar the peoples beat the bronze for succour, and indulge their fruitless fears, but the Thessalian hag triumphant laughs at the panting steeds [of Selene] who obey her spell."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 36. 345 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Their [the Brahmans of India] inspired incantations have often enchanted Selene (the Moon) as she passes through the air like an untamed bull, and brought her down from heaven, and often stayed the course of Phaethon [Helios the Sun] swiftly driving his hurrying car."
+    </p>
+    <hr/>
+    <h3 id="Months">
+     SELENE GODDESS OF THE LUNAR MONTH
+    </h3>
+    <p>
+     The Greek months began with the new moon and were divided into three ten day periods. The first ten days were presided over by the waxing moon, the next ten the near full and full moon, and the last ten by the waning moon. Festivals and the lucky and unlucky days of the month were consequently measured in the cycles of the moon.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 32 to Selene (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Long-winged Mene [i.e. Selene as goddess of the month] . . . at eventime in the mid-month : then her great orbit is full and then her beams shine brightest as she increases. So she is a sure token and a sign to mortal men."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 154 (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "Selene (the Moon) was coming in to view in her fullness, and when the women took their position round the altar [i.e. she marked the time in the month for a festival]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 734 ff (trans. Mair) (Greek astronomical poem C3rd B.C.) :
+     </span>
+     <br/>
+     "Whenever Mene (Moon) [Selene] with slender horns shines forth in the West, she tells of a new month beginning: when first her rays are shed abroad just enough to cast a shadow, she is going to the fourth day : with orb half complete she proclaims eight days : with full face the mid-day of the month; and ever with varying phase she tells the date of the dawn that comes around."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 179 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Three nights remained before Luna's (the Moon's) [Selene's] bright horns would meet and form her orb; then she shone in fullest radiance and with form complete gazed down upon the sleeping lands below."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 883 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Luna (the Moon) [Selene] rules the months."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 276 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Luna (the Moon) [Selene] herself has ordained various days in various grades as lucky for work. Shun the fifth; then pale Orcus [Horkos (Horcus), Oath] and the Eumenides [Erinyes, Vengeances] were born . . . The seventeenth is lucky for planting the vine, for yoking and breaking in oxen, and for adding the leashes to the warp. The ninth is a friend to the runaway, a foe to the thief." [N.B. Virgil derives these days from Hesiod's
+     <em>
+      Works and Days
+     </em>
+     .]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 351 ff  :
+     </span>
+     <br/>
+     "Father [Zeus] himself decreed what warning the monthly moon should give, what should signal the fall of the wind, and what sight, oft seen, should prompt the farmer to keep his cattle nearer to their stalls."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 426 ff :
+     </span>
+     <br/>
+     "Soon as the moon [Luna-Selene] gathers her returning fires, if she encloses a dark mist within dim horns, a heavy rain is awaiting farmers and seamen. But if over her face she spreads a maiden blush, there will be wind; as wind rises, golden Phoebe [Luna-Selene] ever blushes. But if at her fourth rising--for that is our surest guide--she pass through the sky clear and with undimmed horns, then all that day, and the days born of it to the month's end, shall be free from rain and wind; and the sailors, safe in port."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 244 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "One of these Planetoi (Planets) [the wandering stars] is horned Selene (the Moon) whitening the sky; when she has completed all her circuit, she brings forth with her wise fire the month, being at first half seen, then curved, then full moon with her whole face. Against Mene the moon I [Helios the Sun] move my rolling ball, the sparkling nourisher of sheaf-producing growth, and pass on my endless circuit about the turning-point of the Zodiakos (Zodiac), creating the measures of time."
+    </p>
+    <hr/>
+    <h3 id="Childbirth">
+     SELENE THE MOON GODDESS OF CHILDBIRTH
+    </h3>
+    <p>
+     Pregnancies were measured in lunar months, so the moon-goddess  had a natural association with childbirth.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Timotheus, Frag 803 (from Plutarch, Table-Talk) (trans. Campbell, Vol. Greek Lyric V) (C5th B.C.) :
+     </span>
+     <br/>
+     "Through the blue-black vault of the stars and of Selana (Selene the Moon) who gives swift childbirth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Chrysippus, Old Physics Fragment (from Scholiast on Iliad) (trans. Campbell Greek Lyric I, Frag 390) (Greek scientific C3rd B.C.) :
+     </span>
+     <br/>
+     "Chrysippus [Greek C3rd B.C.] in his Old Physics, where he shows that Artemis is Selene (the Moon) and credits it with an influence on childbirth, says that at the full moon not only do women have the easiest labour but all animals have an easy birth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 11. 45 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "And now for the ninth time had Phoebus' fairest sister [Luna-Selene] risen, and for the tenth time Luna (the Moon) [Selene] was driving on her light-bearing steeds. I knew not what caused the sudden pangs in me; to travail I was unused."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 2. 27 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "She [Luna-Diana, Selene-Artemis] is invoked to assist at the birth of children, because the period of gestation is either occasionally seven, or more usually nine, lunar revolutions, and these are called
+     <em>
+      menses
+     </em>
+     (months), because they cover measured (
+     <em>
+      mensa
+     </em>
+     ) spaces."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 149 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "As he [Phaethon son of Helios and Klymene] sprang from the childbed, the daughters of Okeanos (Oceanus) cleansed him, Klymene's (Clymene's) son, in his grandsire's waters, and wrapt him in swaddlings. The Stars (Asteres) in shining movement leapt into the stream of Okeanos which they knew so well, and surrounded the boy, with Selene Eileithyia (our Lady of Labour), sending forth her sparkling gleams."
+    </p>
+    <hr/>
+    <h3 id="Dew">
+     SELENE THE MOON GODDESS OF DEW
+    </h3>
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/S28.1.html">
+      <img alt="Selene-Luna the moon | Greco-Roman marble statue A.D. | Pio-Clementino Museum, Vatican Museums" class="img-responsive center-block" src="../image/S28.1Selene.jpg"/>
+     </a>
+     <figcaption>
+      Selene-Luna the moon, Greco-Roman marble statue,
+      <a href="http://mv.vatican.va/" target="_blank">
+       Pio-Clementino Museum, Vatican Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     The moon was believed to nourish the plants and animals with her dew. As the nourishing goddess she was associated with Ariadne, wife of Dionysos (Dionysus), who was originally a moon-goddess.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 32 to Selene (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Once Kronides (Cronides) [Zeus the Rain-God] was joined with her [Selene the Moon] in love; and she conceived an bare a daughter Pandeia (All Divine), exceeding lovely amongst the deathless gods."
+     <br/>
+     [N.B. Pandeia is probably the same as Ersa (All-Nourishing Dew), cf. Alcman below.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 96 (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "Rosy-fingered Selene (the Moon) after sunset, surpasssing all the stars (
+     <em>
+      astra
+     </em>
+     ), and her light spreads alike over the salt sea and the flowery fields; the dew is shed in beauty, and roses bloom and tender chervil and flowery melilot."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 57 (trans. Campbell, Vol. Greek Lyric II) (C7th B.C.) :
+     </span>
+     <br/>
+     "Such things as are nurtured by Ersa (Dew), daughter of Zeus and Selene (Moon)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 2. 14 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Luna the Moon's [Selene's] course also has a sort of winter and summer solstice; and she emits many streams of influence, which supply animal creatures with nourishment and stimulate their growth and which cause plants to flourish and attain maturity."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 1. 454 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Near the dewy turning-point [the spring equinox] where Selene's (the Moon) cattle send out a windy moo from their life-warming throats."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 280 ff :
+     </span>
+     <br/>
+     "[Zeus] resolved to mount Semele's nightly couch, and turned his eye to the west, to see when sweet Hesperos (the Evening-Star_ would come . . . ‘Yoke your own car, I pray, bright Selene (Moon), send forth your rays which make the trees and plants to grow, because this marriage foretells the birth of plant-cherishing Dionysos; rise over the lovely roof of Semele, give light to my desire with the star of the Kyprian (Cyprian) [Hesperos], make long the sweet darkness for the wooing of Zeus.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 244 ff :
+     </span>
+     <br/>
+     "Against Mene the moon I [Helios the Sun] move my rolling ball, the sparkling nourisher of sheaf-producing growth, and pass on my endless circuit about the turning-point of the Zodiakos (Zodiac), creating the measures of time."
+    </p>
+    <hr/>
+    <h3 id="Lunacy">
+     SELENE THE MOON GODDESS OF LUNACY
+    </h3>
+    <p>
+     A late classical development of her character, made Selene the goddess of lunacy.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 44. 198 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Dionysos (Dionysus) waited for darksome night, and appealed in these words to circle Mene (Moon) [Selene] in heaven : ‘O daughter of Helios (the Sun), Mene of many turnings, nurse of all! O Selene, driver of the silver car! 
+  If thou art Hekate (Hecate) of many names, if in the night thou doest shake thy mystic torch in brandcarrying hand, come nightwanderer . . . If thou art staghunter Artemis, if on the hills thou dost eagerly hunt with fawnkilling Dionysos, be thy brother's helper now! . . . I am being chased out of Thebes [by Pentheus] . . . a mortal man, a creature quickly perishing, an enemy of god, persecutes me. As a being of night, help Dionysos of the night, when they pursue me! If thou art Persephoneia, whipperin of the dead, and yours are the ghosts which are subservient to the throne of Tartaros, let me see Pentheus a dead man, and let Hermes thy musterer of ghosts lull to sleep the tears of Dionysos in his grief. With Tartarean whip of thy Tisiphone, or furious Megaira (Megaera), stop the foolish threats of Pentheus . . .’
+     <br/>
+     To this appeal Mene [Selene] answered on high : ‘Night-illuminating Dionysos, friend of plants, comrade of Mene, look to your grapes; my concern is the mystic rites of Bakkhos (Bacchus), for the earth ripens the offspring of your plants when it receives the dewy sparkles of unresting Selene. Then do you, dancing Bakkhos, stretch out your thyrsos and look to your offspring; and you need not fear a race of puny men, whose mind is light, whose threats the whips of the Eumenides [Erinyes] repress perforce. With you I will attack your enemies. Equally with Bakkhos I rule distracted madness. I am the Bakkhic Mene, not alone because in heaven I turn the months, but because I command madness and excite lunacy. I will not leave unpunished earthly violence against you . . .’
+     <br/>
+     Such was the answer of the goldenrein deity to Bromios. But while Bakkhos yet conversed with circling Mene, even then Persephone was arming her Erinyes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 46. 97 ff :
+     </span>
+     <br/>
+     "Mene (the Moon) [Selene] helped Bromios [Dionysos], attacking Pentheus with her divine scourge; the frenzied reckless fury of distracting Selene joining in displayed many a phantom shape to maddened Pentheus [who became lunatic or moon-struck], and made the dread son of Ekhion (Echion) forget his earlier intent, while she deafened his confused ears with the bray of her divine avenging trumpet, and she terrified the man."
+    </p>
+    <hr/>
+    <h3 id="Moonstone">
+     SELENE &amp; THE MOONSTONE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 88 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The allwhite stone of Selene [the moonstone], which fades as the horned goddess wanes, and waxes when Mene (the Moon) [Selene] newkindled distils her horn's liquid light and milks out the self-gotten fire of Father Helios (the Sun)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 32. 22 ff :
+     </span>
+     <br/>
+     "She wore also that stone [the moonstone] which draws man to desire, which has the bright name of desire-struck Selene (the Moon)."
+    </p>
+    <hr/>
+    <h3 id="Artemis">
+     ARTEMIS IDENTIFIED WITH SELENE
+    </h3>
+    <p>
+     Artemis was sometimes identified with Selene the Moon, especially by Roman poets such as Ovid, Virgil and Statius. The connection is more popular today than it was in classical times. See also The Selene-Artemis-Hekate triad section which follows.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 87 Xantriae (from Galen, Commentary on Hippocrates' Epidemics) (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Women] upon whom looketh neither the sun's flashing ray nor the starry eye of Leto's child."
+     <br/>
+     [N.B. Leto's child is Artemis, here identified with the moon-goddess Selene.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Chrysippus, Old Physics Fragment (from Scholiast on Iliad) (trans. Campbell Greek Lyric I, Frag 390)  (Greek scientific C3rd B.C.) :
+     </span>
+     <br/>
+     "Chrysippus [Greek C3rd B.C.] in his Old Physics, where he shows that Artemis is Selene (the Moon) and credits it with an influence on childbirth, says that at the full moon not only do women have the easiest labour but all animals have an easy birth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 1. 6 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Both Helios (the Sun) and Selene (the Moon) are closely associated with these [Apollon and Artemis], since they are the causes of the temperature of the air. And both pestilential diseases and sudden deaths are imputed to these gods [i.e. Apollon and Artemis]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 2. 27 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "The name Apollo is Greek; they say that he is the Sun, and Diana [Artemis] they identify with the Moon . . . the name Luna is derived from
+     <em>
+      lucere
+     </em>
+     'to shine'; for it is the same word as Lucina [Eileithyia], and therefore in our country Juno Lucina is invoked in childbirth, as is Diana in her manifestation as Lucifera (the Light-Bringer) among the Greeks. She is also called Diana Omnivaga (wide-wandering), not from her hunting, but because she is counted as one of the seven planets or ‘wanderers’ (
+     <em>
+      vagary
+     </em>
+     ). She was called Diana because she made a sort of Day (Dia) in the night-time. She is invoked to assist at the birth of children, because the period of gestation is either occasionally seven, or more usually nine, lunar revolutions, and these are called
+     <em>
+      menses
+     </em>
+     (months), because they cover measured (
+     <em>
+      mensa
+     </em>
+     ) spaces."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 19 :
+     </span>
+     <br/>
+     "You say that Sol the Sun [Helios] and Luna the Moon [Selene] are deities, and the Greeks identify the former with Apollo and the latter with Diana [Artemis]."
+    </p>
+    <hr/>
+    <h3 id="Triad">
+     HECATE-ARTEMIS-SELENE TRIAD
+    </h3>
+    <p>
+     The Hekate-Artemis-Selene triad occurs  in Roman-era poetry.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 406 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[Phaedra prays to Diana-Hecate-Luna, Artemis-Hekate-Selene :] ‘O [Diana-Artemis] queen of the groves (
+     <em>
+      regina nemorum
+     </em>
+     ), thou who in solitude lovest thy mountain-haunts, and who upon the solitary mountains art alone held holy, change for the better these dark, ill-omened threats. O great goddess of the woods and groves, bright orb of heaven [Luna-Selene], glory of the night, by whose changing beams the universe shines clear, O three-formed Hecate, lo, thou art at hand, favouring our undertaking. Conquer the unbending soul of stern Hippolytus; may he, compliant, give ear unto our prayer. Soften his fierce heart; may he learn to love, may he feel answering flames. Ensnare his mind; grim, hostile, fierce, may he turn him back unto the fealty of love. To this end direct thy powers; so mayst thou wear a shining face [Selene the moon] and, the clouds all scattered, fare on with undimmed horns; so, when thou drivest thy car through the nightly skies, may no witcheries of Thessaly prevail to drag thee down and may no shepherd [i.e. Endymion] make boast o'er thee. Be near, goddess, in answer to our call; hear now our prayers.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Troades 386 ff :
+     </span>
+     <br/>
+     "With such whirlwind speed as the twelve signs fly along, with such swift course as the lord [Sol-Helios the Sun] of stars hurries on the centuries, and in such wise as Hecate [Luna-Selene the Moon] hastens along her slanting ways, so do we all seek fate."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 10. 365 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Statius, in the passage that follows describes Diana-Artemis as a triple goddess incorporating: aspects of Diana-Luna-Hecate (Artemis-Selene-Hekate) :] Cynthia, queen of the mysteries of the night, if as they say thou dost vary in threefold wise the aspect of thy godhead, and in different shape comest down into the woodland . . . The goddess stooped her horns and made bright her kindly star, and illumined the battle-field with near-approaching chariot."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 410 ff :
+     </span>
+     <br/>
+     "[The seer Teiresias (Tiresias) performs the rites of necromancy in the grove of Diana-Hecate (Artemis-Hekate) :] There stands a wood, enduring of time, and strong and erect in age, with foliage aye unshorn nor pierced by any suns . . . Beneath is sheltered quiet, and a vague shuddering awe guards the silence, and the phantom of the banished light gleams pale and ominous. Nor do the shadows lack a divine power: Latonia's [Artemis-Hekate's] haunting presence is added to the grove; her effigies wrought in pine or cedar and wood or very tree are hidden in the hallowed gloom of the forest. Her arrows whistle unseen through the wood, her hounds bay nightly [as Hekate], when she flies from her uncle's [Haides] threshold and resumes afresh Diana's kindlier shape. Or when she is weary from her ranging on the hills, and the sun high in heaven invites sweet slumber, here doth she rest with head flung back carelessly on her quiver, while all her spears stand fixed in the earth around . . . [Teiresias cries out summoning the ghosts forth :] ‘Haste ye all together, nor let there be fore the Shades but one fashion of return to the light; do thou, daughter of Perses [Artemis-Hekate], and the cloud-wrapt Arcadian [Hermes] with rod of power lead in separate throng the pious denizens of Elysium.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 44. 198 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Nonnus describes Artemis-Hekate-Selene as a triple goddess :] O daughter of Helios (Sun), Mene (Moon) of many turnings, nurse of all! O Selene (Moon), driver of the silver car! If thou art Hekate (Hecate) of many names, if in the night thou doest shake thy mystic torch in brandcarrying hand, come nightwanderer . . . If thou art staghunter Artemis, if on the hills thou dost eagerly hunt with fawnkilling Dionysos, be thy brother's helper now!"
+    </p>
+    <p class="see-also">
+     For MORE information on these goddesses see
+     <a href="../Olympios/Artemis.html">
+      ARTEMIS
+     </a>
+     and
+     <a href="../Khthonios/Hekate.html">
+      HEKATE
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Hymns">
+     HYMNS TO SELENE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 32 to Selene (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "And next, sweet voiced Mousai (Muses), daughters of Zeus, well skilled in song, tell of the long-winged Mene (Moon) [Selene]. From her immortal head a radiance is shown from heaven and embraces earth; and great is the beauty that ariseth from her shining light. The air, unlit before, glows with the light of her golden crown, and her rays beam clear, whensoever bright Selene having bathed her lovely body in the waters of Okeanos (Oceanus), and donned her far-gleaming raiment, and yoked her strong-necked, shining team, and drives on her long-maned horses at full speed, at eventime in the mid-month: then her great orbit is full and then her beams shine brightest as she increases. So she is a sure token and a sign to mortal men.
+     <br/>
+     Once Kronides (Cronides) [Zeus] was joined with her in love; and she conceived an bare a daughter Pandeia, exceeding lovely amongst the deathless gods. Hail, white-armed goddess, bright Selene, mild, bright-tressed queen! And now I will leave you and sing the glorious of men half-divine, whose deeds minstrels, the servants of the Mousai, celebrate with lovely lips."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 9 to Selene (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Selene (Moon), Fumigation from Aromatics. Hear, goddess queen (
+     <em>
+      thea basileia
+     </em>
+     ), diffusing silver light, bull-horned, and wandering through the gloom of night. With stars surrounded, and with circuit wide night's torch extending, through the heavens you ride: female and male, with silvery rays you shine, and now full-orbed, now tending to decline. Mother of ages, fruit-producing Mene (Moon), whose amber orb makes night's reflected noon: lover of horses, splendid queen of night, all-seeing power, bedecked with starry light, lover of vigilance, the foe of strife, in peace rejoicing, and a prudent life: fair lamp of night, its ornament and friend, who givest to nature's works their destined end. Queen of the stars, all-wise Goddess, hail! Decked with a graceful robe and amble veil. Come, blessed Goddess, prudent, starry, bright, come, moony-lamp, with chaste and splendid light, shine on these sacred rites with prosperous rays, and pleased accept thy suppliants' mystic praise."
+    </p>
+    <hr/>
+    <h3 id="Cult">
+     CULT OF SELENE
+    </h3>
+    <h4>
+     I. THALAMAE (THALAMAI) Town in Lacedaemonia (Lakedaimonia) (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 26. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "From Oitylos (Oetylus) to Thalamai (Thalamae) [in Lakedaimonia] the road is about eighty stades long. On it is a sanctuary of Ino and an oracle. They consult the oracle in sleep, and the goddess reveals whatever they wish to learn, in dreams. Bronze statues of Pasiphae and of Helios (the Sun) stand in the unroofed part of the sanctuary. It was not possible to see the one within the temple clearly, owing to the garlands, but they say this too is of bronze. Water, sweet to drink, flows from a sacred spring. Pasiphae is a title of Selene (the Moon), and is not a local goddess of the people of Thalamai."
+    </p>
+    <h4>
+     II. ELIS Main Town of Elis (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 24. 6 :
+     </span>
+     <br/>
+     "In another part [of the market-place of Elis] are the stone images of Helios (the Sun) and Selene (the Moon); from the head of Selene project horns, from the head of Helios, his rays."
+    </p>
+    <h4>
+     III. ROME Imperial Capital (Central Italy)
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 883 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "March 31 Comitialis. Luna (the Moon) [Selene] rules the months. Luna closes this month's time with her worship on the Aventine Hill."
+    </p>
+    <hr/>
+    <h2 id="Titles">
+     TITLES &amp; EPITHETS OF SELENE
+    </h2>
+    <p>
+     Selene had a number of titles and epithets.
+    </p>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Αιγλη
+      </p>
+      <p class="names-greek">
+       Πασιφαε
+      </p>
+      <p class="names-greek">
+       Ειλειθυια
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Aiglê
+      </p>
+      <p>
+       Pasiphae
+      </p>
+      <p>
+       Eileithyia
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Aegle
+      </p>
+      <p>
+       Pasiphae
+      </p>
+      <p>
+       Ilithyia
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Gleam, Radiance (
+       <em>
+        aiglê
+       </em>
+       )
+      </p>
+      <p>
+       All-Shining (
+       <em>
+        pasi-, phaethô
+       </em>
+       )
+      </p>
+      <p>
+       Aid, Relieve (in childbirth)
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T18.1.html">
+        <img alt="Thumbnail Selene's Pegasi Chariot" src="../image/thumbT18.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T18.1 Selene's Pegasi Chariot
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T18.4.html">
+        <img alt="Thumbnail Selene &amp; Endymion" src="../image/thumbT18.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T18.4 Selene &amp; Endymion
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T18.2.html">
+        <img alt="Thumbnail Selene Riding Horse" src="../image/thumbT18.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T18.2 Selene Riding Horse
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N1.1.html">
+        <img alt="Thumbnail Selene, Nyx, Hesperus" src="../image/thumbN1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N1.1 Selene, Nyx, Hesperus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z18.2.html">
+        <img alt="Thumbnail Selene &amp; Endymion" src="../image/thumbZ18.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z18.2 Selene &amp; Endymion
+        </h3>
+        <p>
+         Greco-Roman Bardo Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z50.1B.html">
+        <img alt="Thumbnail Luna-Selene as Monday" src="../image/thumbZ50.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z50.1B Luna-Selene as Monday
+        </h3>
+        <p>
+         Greco-Roman Orbe Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z50.3.html">
+        <img alt="Thumbnail Selene, Helius, the Horae" src="../image/thumbZ50.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z50.3 Selene, Helius, the Horae
+        </h3>
+        <p>
+         Greco-Roman Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S28.1.html">
+        <img alt="Thumbnail Selene Statue" src="../image/thumbS28.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S28.1 Statue of Selene
+        </h3>
+        <p>
+         Greco-Roman Marble Statue A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Alcaeus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Corinna, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Ion of Chios, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Timotheus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Seven Against Thebes
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Gorgias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/AratusPhaenomena.html">
+       Aratus, Phaenomena
+      </a>
+      <span class="sources-detail">
+       - Greek Astronomy C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Elegiac C3rd - 1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Tryphiodorus.html">
+       Tryphiodorus, The Taking of Ilias
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      Musaeus, Hero and Leander
+      <span class="sources-detail">
+       - Greek Poetry C6th A.D.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaOedipus.html">
+       Seneca, Oedipus
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaTroades.html">
+       Seneca, Troades
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Scholiast on Euripides Phoencian Maidens 175, Cicero Tuscan Disputations 1.38, Plutarch Table-Talk 3, Ovid Rem. Amore 258, Callimachus Hymn to Artemis 114 &amp; 141, Catullus 66.5, Claudian Rape of Proserpine 3.402, Ausonius Ep.5.3.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     SELENE SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS SELENE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Hyperion and Thea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Husband
+       </th>
+       <td>
+        Endymion
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddess of
+       </th>
+       <td>
+        The moon
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        River Oceanus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Lunar disc or crescent, bull's horns
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Hesperus, Astra
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Luna
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     SELENE PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Selene
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of Selene
+      </a>
+     </li>
+     <li>
+      <a href="#Children">
+       Children of Selene
+      </a>
+     </li>
+     <li>
+      <a href="#Lion">
+       Selene &amp; the Nemean Lion
+      </a>
+     </li>
+     <li>
+      <a href="#Endymion">
+       Love of Selene &amp; Endymion
+      </a>
+     </li>
+     <li>
+      <a href="#Typhoeus">
+       Selene &amp; the Giant Typhoeus
+      </a>
+     </li>
+     <li>
+      <a href="#Ampelos">
+       Selene Wrath: Ampelos
+      </a>
+     </li>
+     <li>
+      <a href="#Moon">
+       Selene Goddess of the Moon
+      </a>
+     </li>
+     <li>
+      <a href="#Witches">
+       Selene Drawn Down by Witches
+      </a>
+     </li>
+     <li>
+      <a href="#Months">
+       Selene Goddess of the Month
+      </a>
+     </li>
+     <li>
+      <a href="#Childbirth">
+       Selene Goddess of Childbirth
+      </a>
+     </li>
+     <li>
+      <a href="#Dew">
+       Selene Godess of Dew
+      </a>
+     </li>
+     <li>
+      <a href="#Lunacy">
+       Selene Goddess of Lunacy
+      </a>
+     </li>
+     <li>
+      <a href="#Moonstone">
+       Selene &amp; the Moonstone
+      </a>
+     </li>
+     <li>
+      <a href="#Artemis">
+       Artemis Identified with Selene
+      </a>
+     </li>
+     <li>
+      <a href="#Triad">
+       Hecate-Artemis-Selene Triad
+      </a>
+     </li>
+     <li>
+      <a href="#Hymns">
+       Hymns to Selene
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Cult of Selene
+      </a>
+     </li>
+     <li>
+      <a href="#Titles">
+       Titles &amp; Epithets
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

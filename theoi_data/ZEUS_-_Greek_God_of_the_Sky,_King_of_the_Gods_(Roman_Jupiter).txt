@@ -1,0 +1,3344 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ZEUS - Greek God of the Sky, King of the Gods (Roman Jupiter)
+  </title>
+  <meta content="Zeus was the king of the ancient Greek gods, and the god of the sky, weather, law and order, destiny and fate. He was depicted as a regal, mature man with a sturdy figure and dark beard. His usual attributes were a lightning bolt, royal sceptre and eagle. His Roman name was Jupiter." name="description"/>
+  <meta content="Zeus, Olympian god, Greek mythology, Greek king of the gods, Greek god of the sky, Greek god of fate, Greek god of law, Greek god of weather, Zeus pictures, Jupiter, Jove" name="keywords"/>
+  <meta content="ZEUS - Greek God of the Sky, King of the Gods" property="og:title">
+   <meta content="Zeus was the king of the ancient Greek gods, and the god of the sky, weather, law and order, destiny and fate. He was depicted as a regal, mature man with a sturdy figure and dark beard. His usual attributes were a lightning bolt, royal sceptre and eagle. His Roman name was Jupiter." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Zeus.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_zeus_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Zeus
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ZEUS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ζευς
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Zeus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Zeus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Jupiter, Jove
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-50pct">
+     <a href="../Gallery/K1.1.html">
+      <img alt="Zeus king of the gods | Athenian red-figure amphora C5th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/K1.1Zeus.jpg"/>
+     </a>
+     <figcaption>
+      Zeus with eagle and lightning, Athenian red-figure amphora C5th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ZEUS was the King of the Gods and the god of the sky, weather, law and order, destiny and fate, and kingship. 
+He was depicted as a regal, mature man with a sturdy figure and dark beard. His usual attributes were a lightning bolt, a royal sceptre and an eagle.
+    </p>
+    <h2>
+     MYTHS
+    </h2>
+    <p>
+     Zeus was the youngest child of the Titans Kronos (Cronus) and Rheia. Kronos devoured each of his children as they were born, but Zeus escaped this fate when his mother spirited him away, handing the Titan a stone substitute wrapped in swaddling cloth. &lt;&lt;
+     <a href="../Titan/TitanKronos.html#Cannibal">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The god was raised in secrecy on Mount Dikte in Krete (Crete) where he was nursed by nymphs on the milk of the goat Amaltheia and guarded by the warrior Kouretes (Curetes) who drowned out the sound of his crying with their shield-clashing battle-dance. &lt;&lt;
+     <a href="../Ther/AixAmaltheia.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Upon coming of age Zeus recruited the goddess Metis to his cause. She served the Titan Kronos a magical draught which caused him to disgorge the young gods he had devoured. &lt;&lt;
+     <a href="../Titan/TitanKronos.html#Cannibal">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Zeus liberated the six giant-sons of Heaven from the pit of Tartaros. In gratitude the Kyklopes (Cyclopes) armed him with lightning-bolts and the Hekatonkheires (Hundred-Handed) aided him in his assault on the Titanes with volleys of thrown boulders. Kronos and his allies were eventually defeated and banished to a prison beneath the earth. &lt;&lt;
+     <a href="../Titan/Titanes.html#Titanomakhia">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     After the fall of the Titan-gods, Zeus and his brothers drew lots to divide rule of the cosmos - Zeus won the heavens, Poseidon the sea and Haides the underworld.
+    </p>
+    <p>
+     Zeus devoured the pregnant goddess Metis when an oracle revealed that her son was destined to replace him as King of the Gods. Their child, Athena, was subsequently born in his belly and birthed directly from his head. &lt;&lt;
+     <a href="AthenaMyths.html#Birth">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Zeus married his sister Hera, queen of the heavens, after seducing her in the guise of a cuckoo-bird. But this union of ever quarreling sky-god and sky-goddess proved not to be a match made in heaven! &lt;&lt;
+     <a href="HeraMyths.html#Seduction">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Prometheus crafted the race of man and gave them fire stolen from the gods of heaven. Zeus punished this act by ordering the creation of the first woman, Pandora, and sent her to earth with a vessel full of troubles to plague mankind. Prometheus himself was arrested and chained to a mountain with an eagle set to torment him. &lt;&lt;
+     <a href="../Titan/TitanPrometheus.html#Fire">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The early generations of man descended into wickedness and corruption and Zeus decided to wipe them from the face of the earth with a great deluge. One virtuous couple, Deukalion and Pyrrha, were spared and afterwards allowed to repopulate the world with the casting of stones which transformed into men.  &lt;&lt;
+     <a href="../Heros/Deukalion.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The earth-goddess Gaia (Gaea), angered by the imprisonment of the Titanes, urged the Giants to rise up against the gods of Olympos. They laid siege to the heavenly fortress but Zeus laid low their king and many others with his deadly lightning-bolts. &lt;&lt;
+     <a href="../Gigante/Gigantes.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Gaia produced one more giant, Typhoeus, the most monstrous of his kind and set him upon Olympos. The rest of the gods fled in horror and Zeus himself was defeated in combat with the monster tearing the sinews from his limbs rendering him helpless. Pan later stole back the god's strength and, restored, Zeus defeated the giant in a rematch and bound him beneath Mount Etna. &lt;&lt;
+     <a href="../Gigante/Typhoeus.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Zeus seduced many mortal woman including Leda in the guise of a swan, Europa as a bull, Danae as a shower of gold, Alkmene as her own husband, Kallisto (Callisto) as the goddess Artemis, and Antiope as a satyr. &lt;&lt;
+     <a href="ZeusLoves3.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The god's favorite mortal son was Herakles (Heracles) whom he supported throughout his trials and eventually welcomed to Olympos as a god.
+    </p>
+    <p>
+     Zeus punished the worst villians of myth for their impiety and crimes against the gods including Tantalos who stole ambrosia from heaven, Lykaon (Lycaon) who served human flesh to the gods, Ixion who attempted to rape Zeus' wife the goddess Hera, and Salmoneus who tried to imitate Zeus and steal the worship that was due the gods.
+    </p>
+    <p>
+     Many other myths are detailed over the following pages.
+    </p>
+    <hr/>
+    <h2 id="Attributes">
+     SYMBOLS &amp; ATTRIBUTES
+    </h2>
+    <p>
+     Zeus' most distinctive attribute was his stylized lightning bolt which he wielded in his hand like a javelin. His other attributes included a royal sceptre, a throne, an eagle, a miniature Nike (winged goddess of victory), and the aigis (a goat-skin arm-guard). The god was usually clothed in a long robe (
+     <em>
+      chiton
+     </em>
+     ) and cloak (
+     <em>
+      himation
+     </em>
+     ) but was sometimes depicted nude. He was often crowned with a wreath of olive leaves.
+    </p>
+    <p>
+     Below are some examples of his attributes as depicted in ancient Greek art:-
+    </p>
+    <p>
+     1. Lightning bolt; 2. Lightning bolt; 3. Throne; 4. Wreath of olive-leaves.
+    </p>
+    <p>
+     <img alt="Lightning Bolt of Zeus" border="0" height="115" name="img1" src="../image/img_zeus_attributes_lightning1.jpg" width="115"/>
+     <img alt="Lightning Bolt of Zeus" border="0" height="115" name="img1" src="../image/img_zeus_attributes_lightning2.jpg" width="115"/>
+     <img alt="Throne of Zeus" border="0" height="115" name="img1" src="../image/img_zeus_attributes_throne.jpg" width="115"/>
+     <img alt="Wreath of Zeus" border="0" height="115" name="img1" src="../image/img_zeus_attributes_wreath.jpg" width="115"/>
+    </p>
+    <p>
+    </p>
+    <hr/>
+    <h2>
+     SACRED ANIMALS &amp; PLANTS
+    </h2>
+    <p>
+     Zeus' sacred animals were the eagle and the bull.  In myth he abducted the youth Ganymede in the shape of an eagle and the maiden Europa in the guise of a bull.
+     <br/>
+     His sacred plants were the evergreen holm oak and the olive tree. At the ancient oracle of Dodona Zeus' priests were inspired by the rustling of oak-leaves, and at the Olympic Games victors were crowned with a wreath of olive-leaves picked from the god's sacred grove.
+    </p>
+    <p>
+     Below are examples of the god's animals as depicted in ancient Greek art and photos of his sacred plants:-
+    </p>
+    <p>
+     1. Eagle; 2. Bull; 3. Holm oak; 4. Olive tree.
+    </p>
+    <p>
+     <img alt="Eagle of Zeus" border="0" height="115" name="img1" src="../image/img_zeus_animals_eagle.jpg" width="115"/>
+     <img alt="Bull of Zeus" border="0" height="115" name="img1" src="../image/img_zeus_animals_bull.jpg" width="115"/>
+     <a href="../image/flora_drys_lg.jpg">
+      <img alt="Holm Oak" border="0" height="115" src="../image/flora_drys.jpg" width="115"/>
+     </a>
+     <a href="../image/flora_elaia_lg.jpg">
+      <img alt="Olive Tree" border="0" height="115" src="../image/flora_elaia.jpg" width="115"/>
+     </a>
+    </p>
+    <hr/>
+    <h2 id="Retinue">
+     RETINUE OF ZEUS
+    </h2>
+    <p>
+     Befitting his role as King of the Gods, Zeus was attended by a large complement of lesser divinities.
+    </p>
+    <p>
+     His throne was guarded by four winged spirits, two male and two female, named Kratos (Strength), Zelos (Rivalry), Nike (Victory) and Bia (Force). Kratos and Bia functioned as muscular enforcers and were tasked with jobs such as the apprehension and imprisonment of the Titan Prometheus. Nike drove Zeus' chariot and often accompanied him in miniature form as something of a divine familiar.
+    </p>
+    <p>
+     The god Hermes was Zeus' personal herald who acted as diplomat, envoy and general agent of the god's will.
+    </p>
+    <p>
+     His messenger was Iris, the winged goddess of the rainbow, who simply relayed messages verbatim and delivered commands to the other gods.
+    </p>
+    <p>
+     Zeus' high councillor Themis, goddess of law and order, was seated beside his throne. She was attended by their six daughters the Moirai (Fates) and the Horai (Seasons). These goddesses were collectively responsible for the orderly functioning of the cosmos. Themis was also charged with summoning all of the gods to assembly in the courtyard of Zeus.
+    </p>
+    <p>
+     The god's  virgin sister Hestia also resided in his palace where she tended the ever-burning, divine hearth-fire in the center of his hall.
+    </p>
+    <p>
+     Metis, goddess of wisdom, was perhaps his most unusual attendant. Zeus swallowed her whole to avoid a prophesy and she took up residence in his belly. The ancient Greeks believed the belly rather than the brain was the seat of thought and emotion, and so by subsuming her he effectively implanted wise counsel in his mind. She continued to exist in some form or other within the god, even to the extent of birthing Athena there and equipping her with armour and weapons before her second birth from Zeus' head.
+    </p>
+    <p>
+     Ganymede and the goddess Hebe were Zeus' cupbearers who served ambrosia and nectar at the feasts of the gods.
+     <br/>
+     The winged Harpyiai (Harpies),  known as the "hounds of Zeus", were crude creatures tasked by the god with carrying off or harrassing mortals.
+     <br/>
+     Pegasos, the winged horse, carried Zeus' lightning bolts, and four other immortal horses drew his chariot through the sky.
+    </p>
+    <hr/>
+    <h2>
+     ZEUS PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 8 pages describing the god, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Zeus Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF ZEUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     <a href="../Titan/TitanKronos.html">
+      KRONOS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisRhea.html">
+      RHEA
+     </a>
+     <span class="family-refs">
+      (Homer Iliad 15.187, Hesiod Theogony 453, Apollodorus 1.4, Diodorus Siculus 5.68.1, et al)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     See
+     <a href="ZeusFamily.html#Genealogy">
+      Family of Zeus
+     </a>
+    </p>
+    <hr/>
+    <p>
+     Zeus was a son of the Titans Kronos (Cronus) and Rheia and a grandson of Ouranos (the Sky) and Gaia (the Earth). He was a brother of the gods Poseidon, Haides, Hera, Demeter and Hestia.
+     <br/>
+     Zeus married his sister, the sky-goddess Hera, and they had three children - Ares, Hebe and Eileithyia.
+     <br/>
+     His other divine consorts included: his sister Demeter mother of Persephone; his cousins Metis mother of Athena, Leto mother of Apollon and Leto, and Maia mother of Hermes; his aunts Dione mother of Aphrodite, Themis mother of the Moirai (Fates) and Horai (Seasons), and Mnemosyne mother of the Mousai (Muses); and his descendant Semele mother of Dionysos.
+     <br/>
+     He was also the father of innumerable mortal kings and heroes, the most famous of which were Perseus, Herakles (Heracles), and Helene of Troy. &lt;&lt;
+     <a href="ZeusFamily.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Below are two graphics depicting Zeus' core family tree, the first with names transliterated from the Greek and the second with the common English spellings:-
+    </p>
+    <img alt="Family Tree of Zeus" class="img-responsive" src="../image/family-tree-zeus-1.jpg"/>
+    <img alt="Family Tree of Zeus" class="img-responsive" src="../image/family-tree-zeus-2.jpg"/>
+    <p>
+     A much more detailed family tree  for Zeus including all of his immortal lovers and children can be found
+     <a href="../Tree5.html">
+      here
+     </a>
+     (transliterated Greek version) and
+     <a href="../Tree5Latin.html">
+      here
+     </a>
+     (English names version).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/K1.2.html">
+      <img alt="Zeus | Athenian red-figure Panathenaic amphora C5th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/K1.2Zeus.jpg"/>
+     </a>
+     <figcaption>
+      Zeus, Athenian red-figure Panathenaic amphora C5th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ZEUS (Zeus), the greatest of the Olympian gods, and the father of gods and men, was a son of Cronos and Rhea, a brother of Poseidon, Hades (Pluto), Hestia, Demeter, Hera, and at the same time married to his sister Hera. When Zeus and his brothers distributed among themselves the government of the world by lot, Poseidon obtained the sea, Hades the lower world, and Zeus the heavens and the upper regions, but the earth became common to all (Hom.
+     <em>
+      Il.
+     </em>
+     xv. 187, &amp;c., i. 528, ii. 111; Virg.
+     <em>
+      Aen.
+     </em>
+     iv. 372).
+    </p>
+    <p>
+     Later mythologers enumerate three Zeus in their genealogies two Arcadian ones and one Cretan; and tne first is said to be a son of Aether, the second of Coelus, and the third of Saturnus (Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 21). This accounts for the fact that some writers use the name of the king of heaven who sends dew, rain, snow, thunder, and lightning for heaven itself in its physical sense. (Horat.
+     <em>
+      Carm.
+     </em>
+     i. 1. 25 ; Virg.
+     <em>
+      Georg.
+     </em>
+     ii. 419.)
+    </p>
+    <p>
+     According to the Homeric account Zeus, like the other Olympian gods, dwelt on Mount Olympus in Thessaly, which was believed to penetrate with its lofty summit into heaven itself (
+     <em>
+      Il.
+     </em>
+     i. 221, &amp;c., 354, 609, xxi. 438). He is called the father of gods and men (i. 514, v. 33; comp. Aeschyl.
+     <em>
+      Sept.
+     </em>
+     512), the most high and powerful among the immortals, whom all others obey (
+     <em>
+      Il.
+     </em>
+     xix. 258, viii. 10, &amp;c.). He is the highest ruler, who with his counsel manages every thing (i. 175, viii. 22), the founder of kingly power, of law and of order, whence Dice, Themis and Nemesis are his assistants (i. 238, ii. 205, ix. 99, xvi. 387; comp. Hes.
+     <em>
+      Op. et D. 36 ;
+     </em>
+     Callim.
+     <em>
+      Hymn. in Jov. 79
+     </em>
+     ).
+    </p>
+    <p>
+     For the same reason he protects the assembly of the people (agoraios), the meetings of the council (boulaios), and as he presides over the whole state, so also over every house and family (herkeios,
+     <em>
+      Od.
+     </em>
+     xxii. 335; comp. Ov.
+     <em>
+      Ib. 285
+     </em>
+     ). He also watched over the sanctity of the oath (horkios), the law of hospitality (xenios), and protected suppliants (hikesios,
+     <em>
+      Od.
+     </em>
+     ix. 270; comp. Paus. v. 24. § 2). He avenged those who were wronged, and punished those who had committed a crime, for he watched the doings and sufferings of all men (epopsios,
+     <em>
+      Od.
+     </em>
+     xiii. 213; comp. Apollon. Rhod. i. 1123).
+    </p>
+    <p>
+     He was further the original source of all prophetic power, front whom all prophetic signs and sounds proceeded (panomphaios,
+     <em>
+      Il.
+     </em>
+     viii. 250 ; comp. Aeschyl.
+     <em>
+      Eum. 19 ;
+     </em>
+     Callim.
+     <em>
+      Hymn. in Jov. 69
+     </em>
+     ). Every thing good as well as bad comes from Zeus, and according to his own choice he assigns their good or evil lot to mortals (
+     <em>
+      Od.
+     </em>
+     iv. 237, vi. 188, ix. 552,
+     <em>
+      Il.
+     </em>
+     x. 71, xvii. 632, &amp;c.), and fate itself was subordinate to him.
+    </p>
+    <p>
+     He is armed with thunder and lightning, and the shaking of his aegis produces storm and tempest (
+     <em>
+      Il.
+     </em>
+     xvii. 593) : a number of epithets of Zeus in the Homeric poems describe him as the thunderer, the gatherer of clouds, and the like.
+    </p>
+    <p>
+     He was married to Hera, by whom he had two sons, Ares and Hephaestus, and one daughter, Hebe (
+     <em>
+      Il.
+     </em>
+     i. 585, v. 896,
+     <em>
+      Od.
+     </em>
+     xi. 604). Hera sometimes acts as an independent divinity, she is ambitious and rebels against her lord, but she is nevertheless inferior to him, and is punished for her opposition (
+     <em>
+      Il.
+     </em>
+     xv. 17, &amp;c., xix. 95, &amp;c.) ; his amours with other goddesses or mortal women are not concealed from her, though they generally rouse her jealousy and revenge (
+     <em>
+      Il.
+     </em>
+     xiv. 317). During the Trojan war, Zeus, at the request of Thetis, favoured the Trojans, until Agamemnon made good the wrong he had done to Achilles.
+    </p>
+    <p>
+     Zeus, no doubt, was originally a god of a portion of nature, whence the oak with its eatable fruit and the fertile doves were sacred to him at Dodona and in Arcadia (hence also rain, storms, and the seasons were regarded as his work, and hence the Cretan stories of milk, honey, and cornucopia) ; but in the Homeric poems, this primitive character of a personification of certain powers of nature is already effaced to some extent, and the god appears as a political and national divinity, as the king and father of men, as the founder and protector of all institutions hallowed by law, custom. or religion.
+    </p>
+    <p>
+     Hesiod (
+     <em>
+      Theog. 116,
+     </em>
+     &amp;c.) also calls Zeus the son of Cronos and Rhea , and the brother of Hestia, Demeter, Hera, Hades, and Poseidon. Cronos swallowed his children immediately after their birth, but when Rhea was near giving birth to Zeus, she applied to Uranus and Ge for advice as to how the child might be saved. Before the hour of birth came, Uranus and Ge sent Rhea to Lyctos in Crete, requesting her to bring up her child there. Rhea accordingly concealed her infant in a cave of Mount Aegaeon, and gave to Cronos a stone wrapped up in cloth, which he swallowed in the belief that it was his son. Other traditions state that Zeus was born and brought up on Mount Dicte or Ida (also the Trojan Ida), Ithome in Messenia, Thebes in Boeotia, Aegion in Achaia, or Olenos in Aetolia. According to the common account, however, Zeus grew up in Crete. As Rhea is sometimes identified with Ge, Zeus is also called a son of Ge. (Aeschyl.
+     <em>
+      Suppl. 901.
+     </em>
+     )
+    </p>
+    <p>
+     In the meantime Cronos by a cunning device of Ge or Metis was made to bring up the children he had swallowed, and first of all the stone, which was afterwards set up by Zeus at Delphi. The young god now delivered the Cyclopes from the bonds with which they had been fettered by Cronos, and they in their gratitude provided him with thunder and lightning. On the advice of Ge. Zeus also liberated the hundred-armed Gigantes, Briareos, Cottus, and Gyes, that they might assist him in his fight against the Titans. (Apollod. i. 2. § 1; Hes.
+     <em>
+      Theog. 617,
+     </em>
+     &amp;c.) The Titans were conquered and shut up in Tartarus (
+     <em>
+      Theog. 717
+     </em>
+     ), where they were henceforth guarded by the Hecatoncheires. Thereupon Tartarus and Ge begot Typhoeus, who began a fearful struggle with Zeus, but was conquered. (
+     <em>
+      Theog. 820,
+     </em>
+     &amp;c.)
+    </p>
+    <p>
+     Zeus now obtained the dominion of the world, and chose Metis for his wife. (
+     <em>
+      Theog. 881,
+     </em>
+     &amp;c.) When she was pregnant with Athena, he took the child out of her body and concealed it in his own, on the advice of Uranus and Ge, who told him that thereby he would retain the supremacy of the world. For Metis had given birth to a son, this son (so fate had ordained it) would have acquired the sovereignty. After this Zeus, by his second wife Themis. became the father of the Horae and Moerae; of the Charites by Eurynome, of Persephone by Demeter, of the Muses by Mnemosyne, of Apollo and Artemis by Leto, and of Hebe, Ares, and Eileithyia by Hera. Athena was born out of the head of Zeus; while Hera, on the other hand, gave birth to Hephaestus without the co-operation of Zeus. (
+     <em>
+      Theog. 8866,
+     </em>
+     &amp;c.)
+    </p>
+    <p>
+     The family of the Cronidae accordingly embraces the twelve great gods of Olympus, Zeus (the head of them all), Poseidon, Apollo, Ares, Hermes, Hephaestus, Hestia, Demeter, Hera, Athena, Aphrodite, and Artemis. These twelve Olympian gods, who in some places were worshipped as a body, as at Athens (Thueyd. vi. 54), were recognised not only by the Greeks, but were adopted also by the Romans, who, in particular, identified their Jupiter with the Greek Zeus.
+    </p>
+    <p>
+     In surveying the different local traditions about Zeus, it would seem that originally there were several, at least three, divinities which in their respective countries were supreme, but which in the course of time became united in the minds of tile people into one great national divinity. We may accordingly speak of an Arcadian, Dodonaean, Cretan, and a national Hellenic Zeus.
+    </p>
+    <p>
+     1. The
+     <em>
+      Arcadian Zeus
+     </em>
+     (Zeus Lukaios) was born, according to the legends of the country, in Arcadia, either on Mount Parrhasion (Callim.
+     <em>
+      Hymn. in Jov. 7, 10
+     </em>
+     ), or in a district of Mount Lycaeon, which was called Cretea. (Paus. viii. 38. § 1 ; Callim.
+     <em>
+      l. c. 14.
+     </em>
+     ) He was brought up there by the nymphs Theisoa, Neda, and Hagno; the first of these gave her name to an Arcadian town, the second to a river, and the third to a well. (Paus. viii. 38. § 2, &amp;c., 47. § 2; comp. Callim.
+     <em>
+      l. c. 33.
+     </em>
+     ) Lycaon, a son of Pelasgus, who built the first and most ancient town of Lycosura, called Zeus Lycaeus, and erected a temple and instituted the festival of the Lyceia in honour of him; he further offered to him bloody sacrifices, and among others his own son, in consequence of which he was metamorphosed into a wolf (lukos; Paus. viii. 2. § 1, 38. § 1; Callim.
+     <em>
+      l. c. 4 ;
+     </em>
+     Ov.
+     <em>
+      Met.
+     </em>
+     i. 218.) No one was allowed to enter the sanctuary of Zeus Lycaeus on Mount Lycaeon, and there was a belief that, if any one entered it, he died within twelve months after, and that in it neither human beings nor animals cast a shadow. (Paus. viii. 38. § 5; comp. Schol.
+     <em>
+      ad Callim. Hymn. in Jov. 13.
+     </em>
+     ) Those who entered it intentionally were stoned to death, unless they escaped by flight; and those who had got in by accident were sent to Eleutherae. (Plut.
+     <em>
+      Quaest. Gr. 39.
+     </em>
+     ) On the highest summit of Lycaeon, there was an altar of Zeus, in front of which, towards the east, there were two pillars bearing golden eagles. The sacrifices offered there were kept secret. (Paus. viii. 38. § 5; Callim.
+     <em>
+      l. c. 68.
+     </em>
+     )
+    </p>
+    <p>
+     2. The
+     <em>
+      Dodonaean Zeus
+     </em>
+     (Zeus Dôdônaios or Pelasgikos) possessed the most ancient oracle in Greece, at Dodona in Epeirus, near mount Tomarus (Tmarus or Tomurus), from which he derived his name. (Hom.
+     <em>
+      Il.
+     </em>
+     ii. 750, xvi. 233; Herod. ii. 52 ; Paus. i. 17. § 5; Strab. v. p. 338, vi. p. 504; Virg.
+     <em>
+      Eclog.
+     </em>
+     viii. 44.) At Dodona Zeus was mainly a prophetic god, and the oak tree was sacred to him ; but there too he was said to have been reared by if the Dodonaean nymphs (Hyades; Schol.
+     <em>
+      ad Hom. Il.
+     </em>
+     xviii. 486; Hygin.
+     <em>
+      Fab. 182 ;
+     </em>
+     Ov.
+     <em>
+      Fast.
+     </em>
+     vi. 711,
+     <em>
+      Met.
+     </em>
+     iii. 314). Respecting the Dodonaean oracle of Zeus, see
+     <em>
+      Dict. of Ant. s. v. Oraculum.
+     </em>
+    </p>
+    <p>
+     3. The
+     <em>
+      Cretan Zeus
+     </em>
+     (Zeus Diktaios or Krêtagenês). We have already given the account of him which is contained in the Theogony of Hesiod. He is the god, to whom Rhea, concealed from Cronos, gave birth in a cave of mount Dicte, and whom she entrusted to the Curetes and the nymphs Adrasteia and Ida, the daughters of Melisseus. They fed him with milk of the goat Amaltheia, and the bees of the mountain provided him with honey. (Apollod. i. 1. § 6; Callim.
+     <em>
+      l. c. ;
+     </em>
+     Diod. v. 70; comp. Athen. xi. 70; Ov.
+     <em>
+      Fast.
+     </em>
+     v. 115.) Crete is called the island or nurse of the great Zeus, and his worship there appears to have been very ancient. (Virg.
+     <em>
+      Aen.
+     </em>
+     iii. 104; Dionys. Perieg. 501.) Among the places in the island which were particularly sacred to the god, we must mention the district about mount Ida, especially Cnosus, which was said to have been built by the Curetes, and where Minos had ruled and conversed with Zeus (Hom.
+     <em>
+      Od.
+     </em>
+     xix. 172; Plat.
+     <em>
+      de Leg.
+     </em>
+     i. 1; Diod. v. 70; Strab. x. p. 730; Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 21); Gortyn, where the god, in the form of a bull, landed when he had carried off Europa from Phoenicia, and where he was worshipped under the surname of Hecatombaeus (Hesych.
+     <em>
+      s. v.
+     </em>
+     ) ; further the towns about mount Dicte, as Lyctos (Hes.
+     <em>
+      Theog. 477
+     </em>
+     ), Praesos, Hierapytna, Biennos, Eleuthernae and Oaxus. (Comp. Hoeck,
+     <em>
+      Creta,
+     </em>
+     i. p. 160, &amp;c., 339, &amp;c.)
+    </p>
+    <p>
+     4. The
+     <em>
+      national Hellenic Zeus,
+     </em>
+     near whose temple at Olympia in Elis, the great national panegyris was celebrated every fifth year. There too Zeus was regarded as the father and king of gods and men, and as the supreme god of the Hellenic nation, His statue there was executed by Pheidias, a few years before the outbreak of the Peloponnesian war, the majestic and sublime idea for this statue having been suggested to the artist by the words of Homer,
+     <em>
+      Il.
+     </em>
+     i. 527. (Comp. Hygin.
+     <em>
+      Fab. 223.
+     </em>
+     ) According to the traditions of Elis, Cronos was the first ruler of the country, and in the golden age there was a temple dedicated to him at Olympia. Rhea, it is further said, entrusted the infant Zeus to the Idaean Dactyls, who were also called Curetes, and had come from mount Ida in Crete to Elis. Heracles, one of them, contended with his brother Dactyls in a footrace, and adorned the victor with a wreath of olive. In this manner he is said to have founded the Olympian games, and Zeus to have contended with Cronos for the kingdom of Elis. (Paus. v. 7. § 4.)
+    </p>
+    <p>
+     The Greek and Latin poets give to Zeus an immense number of epithets and surnames, which are derived partly from the places where he was worshipped, and partly from his powers and functions. He was worshipped throughout Greece and her colonies, so that it would be useless and almost impossible to enumerate all the places.
+    </p>
+    <p>
+     The eagle, the oak, and the summits of mountains were sacred to him, and his sacrifices generally consisted of goats, bulls and cows. (Hom.
+     <em>
+      Il.
+     </em>
+     ii. 403; Aristot.
+     <em>
+      Ethic.
+     </em>
+     v. 10, ix. 2; Virg.
+     <em>
+      Aen.
+     </em>
+     iii. 21, ix. 627.) His usual attributes are, the sceptre, eagle, thunderbolt, and a figure of Victory in his hand, and sometimes also a cornucopia. The Olympian Zeus sometimes wears a wreath of olive, and the Dodonaean Zeus a wreath of oak leaves.
+    </p>
+    <p>
+     In works of art Zeus is generally represented as the omnipotent father and king of gods and men, according to the idea which had been embodied in the statue of the Olympian Zeus by Pheidias.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Hymns">
+     HYMNS TO ZEUS
+    </h3>
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/K1.3.html">
+      <img alt="Zeus and the giant Porphyrion | Athenian red-figure kylix C5th B.C. | Antikensammlung Berlin" class="img-responsive center-block" src="../image/K1.3Zeus.jpg"/>
+     </a>
+     <figcaption>
+      Zeus and the giant Porphyrion, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I) THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 23 to Cronides (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "To [Zeus] Kronides  (Cronides) (Son of Kronos), Most High (
+     <em>
+      hypatos
+     </em>
+     ). I will sing of Zeus, chiefest among the gods and greatest, all-seeing, the lord of all, the fulfiller who whispers words of wisdom to Themis as she sits leaning towards him. Be gracious, all-seeing Kronides, most excellent and great!"
+    </p>
+    <h4>
+     II) THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 15 to Zeus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "O Zeus, much-honoured, Zeus supremely great, to thee our holy rites we consecrate, our prayers and expiations, king divine, for all things to produce with ease through mind is thine. Hence mother earth (
+     <em>
+      gaia
+     </em>
+     ) and mountains swelling high proceed from thee, the deep and all within the sky. Kronion (Cronion) king, descending from above, magnanimous, commanding, sceptred Zeus; all-parent, principle and end of all, whose power almighty shakes this earthly ball; even nature trembles at thy mighty nod, loud-sounding, armed with lightning, thundering god. Source of abundance, purifying king, O various-formed, from whom all natures spring; propitious hear my prayer, give blameless health, with peace divine, and necessary wealth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 19 to Zeus of Thunder :
+     </span>
+     <br/>
+     "To Zeus Keraunos (Ceraunus) (Thundering). O father Zeus, who shakest with fiery light the world, deep-sounding from thy lofty height. From thee proceeds the ethereal lightning's blaze, flashing around intolerable rays. Thy sacred thunders shake the blest abodes, the shining regions of the immortal Gods. Thy power divine the flaming lightning shrouds with dark investiture in fluid clouds. 'Tis thine to brandish thunders strong and dire, to scatter storms, and dreadful darts of fire; with roaring flames involving all around, and bolts of thunder of tremendous sound. Thy rapid dart can raise the hair upright, and shake the heart of man with wild affright. Sudden, unconquered, holy, thundering God, with noise unbounded flying all abroad; with all-devouring force, entire and strong, horrid, untamed, thou rollest the flames along. Rapid, ethereal bolt, descending fire, the earth, all-parent, trembles at thine ire; the sea all-shining, and each beast, that hears the sound terrific, with dread horror fears: when nature's face is bright with flashing fire, and in the heavens resound they thunders dire. They thunders white the azure garments tear, and burst the veil of all-surrounding air. O Zeus, all-blessed, may thy wrath severe, hurled in the bosom of the deep appear, and on the tops of mountains be revealed, for thy strong arm is not from us concealed. Propitious to these sacred rites incline, and to thy suppliants grant a life divine, add royal health, and gentle peace beside, with upright reasoning for a constant guide."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 20 to Zeus  of Lightning :
+     </span>
+     <br/>
+     "To Zeus Astrapaios (Astrapaeus) (Lightning Maker). I call the mighty, holy, splendid, light, aerial, dreadful-sounding, fiery-bright, flaming, ethereal light, with angry voice, lighting through lucid clouds with crashing noise. Untamed, to whom resentments dire belong, pure, holy power, all-parent, great and strong: come, and benevolent these rites attend, and grant the mortal life a pleasing end."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 73 to the Daemon :
+     </span>
+     <br/>
+     "To the Daimon [Zeus]. Thee, mighty ruling Daimon dread, I call, mild Zeus, life-giving, and the source of all: great Zeus, much wandering, terrible and strong, to whom revenge and tortures dire belong. Mankind from thee in plenteous wealth abound, when in their dwellings joyful thou art found; or pass through life afflicted and distressed, the needful means of bliss by thee suppressed. 'Tis thine alone, endued with boundless might, to keep the keys of sorrow and delight. O holy blessed father, hear my prayer, disperse the seeds of life-consuming care, with favouring mind the sacred rites attend, and grant to life a glorious blessed end."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.1.html">
+        <img alt="Thumbnail Zeus Wielding Lightning" src="../image/thumbK1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.1 Zeus Wielding Lightning
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.2.html">
+        <img alt="Thumbnail Zeus Wielding Lightning" src="../image/thumbK1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.2 Zeus Wielding Lightning
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T24.2.html">
+        <img alt="Thumbnail Zeus &amp; Nike, War of Giants" src="../image/thumbT24.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T24.2 Zeus &amp; Nike, War of Giants
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.3.html">
+        <img alt="Thumbnail Zeus, Giant Porphyrion" src="../image/thumbK1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.3 Zeus, Giant Porphyrion
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.10.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Athena" src="../image/thumbK8.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.10 Zeus &amp; Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.11.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Athena" src="../image/thumbK8.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.11 Zeus &amp; Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.12.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Athena" src="../image/thumbK8.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.12 Zeus &amp; Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.14.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Athena" src="../image/thumbK8.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.14 Zeus &amp; Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.13.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Athena" src="../image/thumbK8.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.13 Zeus &amp; Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K17.2.html">
+        <img alt="Thumbnail Zeus, Hera, Horae" src="../image/thumbK17.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K17.2 Zeus, Hera, Horae
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M10.1B.html">
+        <img alt="Thumbnail Zeus &amp; Typhoeus" src="../image/thumbM10.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M10.1B Zeus &amp; Typhoeus
+        </h3>
+        <p>
+         Chalcidian Black Figure  Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T23.1.html">
+        <img alt="Thumbnail Zeus, Maia, Infant Hermes" src="../image/thumbT23.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T23.1 Zeus, Maia, Infant Hermes
+        </h3>
+        <p>
+         Caeretan Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T6.1.html">
+        <img alt="Thumbnail Cronus, Rhea, Omphalos Stone" src="../image/thumbT6.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T6.1 Cronus, Rhea, Omphalos Stone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.14.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Dionysus" src="../image/thumbK12.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.14 Zeus &amp; Birth of Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.27.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Dionysus" src="../image/thumbK12.27.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.27 Zeus &amp; Birth of Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.13.html">
+        <img alt="Thumbnail Zeus &amp; Birth of Dionysus" src="../image/thumbK12.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.13 Zeus &amp; Birth of Dionysus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.6.html">
+        <img alt="Thumbnail Zeus, Athena, Birth Erichthonius" src="../image/thumbT1.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.6 Zeus, Athena, Birth Erichthonius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.9.html">
+        <img alt="Thumbnail Zeus, Hera, Eros, Athena" src="../image/thumbK4.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.9 Zeus, Hera, Eros, Athena
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L11.3.html">
+        <img alt="Thumbnail Zeus, Hera, Io as Cow, Hermes" src="../image/thumbL11.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L11.3 Zeus, Hera, Io as Cow, Hermes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.1.html">
+        <img alt="Thumbnail Zeus, Aphrodite, Eros" src="../image/thumbK10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.1 Zeus, Aphrodite, Eros
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.9.html">
+        <img alt="Thumbnail Zeus &amp; Ganymedes" src="../image/thumbO24.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.9 Zeus &amp; Ganymedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.6.html">
+        <img alt="Thumbnail Zeus &amp; Ganymedes" src="../image/thumbO24.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.6 Zeus &amp; Ganymedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.1.html">
+        <img alt="Thumbnail Zeus &amp; Ganymedes" src="../image/thumbO24.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.1 Zeus &amp; Ganymedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K18.2.html">
+        <img alt="Thumbnail Zeus, Hera &amp; Hebe" src="../image/thumbK18.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K18.2 Zeus, Hera &amp; Hebe
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.5.html">
+        <img alt="Thumbnail Zeus &amp; Ganymedes" src="../image/thumbO24.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.5 Zeus &amp; Ganymedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.8.html">
+        <img alt="Thumbnail Zeus &amp; Ganymede" src="../image/thumbO24.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.8 Zeus &amp; Ganymede
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.7.html">
+        <img alt="Thumbnail Zeus &amp; Ganymedes" src="../image/thumbO24.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.7 Zeus &amp; Ganymedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.4.html">
+        <img alt="Thumbnail Zeus &amp; Ganymedes" src="../image/thumbO24.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.4 Zeus &amp; Ganymedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O26.1.html">
+        <img alt="Thumbnail Zeus &amp; Nymph Aegina" src="../image/thumbO26.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O26.1 Zeus &amp; Nymph Aegina
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O26.2.html">
+        <img alt="Thumbnail Zeus &amp; Nymph Aegina" src="../image/thumbO26.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O26.2 Zeus &amp; Nymph Aegina
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.12.html">
+        <img alt="Thumbnail Danae &amp; Zeus as Shower of Gold" src="../image/thumbK1.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.12 Danae &amp; Zeus as Shower of Gold
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.14.html">
+        <img alt="Thumbnail Danae &amp; Zeus as Shower of Gold" src="../image/thumbK1.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.14 Danae &amp; Zeus as Shower of Gold
+        </h3>
+        <p>
+         Lucanian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H18.1.html">
+        <img alt="Thumbnail Leda &amp; Zeus as Swan" src="../image/thumbH18.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H18.1 Leda &amp; Zeus as Swan
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.8.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbK1.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.8 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.10.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbK1.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.10 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.13.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbK1.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.13 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O2.1.html">
+        <img alt="Thumbnail Zeus, Alcmena on Pyre" src="../image/thumbO2.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O2.1 Zeus, Alcmena on Pyre
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K9.7.html">
+        <img alt="Thumbnail Zeus, Ares, Heracles, Cycnus" src="../image/thumbK9.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K9.7 Zeus, Ares, Heracles, Cycnus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H2.4.html">
+        <img alt="Thumbnail Zeus, Athena, Heracles" src="../image/thumbH2.4B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H2.4 Zeus, Athena, Heracles
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P21.5.html">
+        <img alt="Thumbnail Zeus Served by Iris" src="../image/thumbP21.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P21.5 Zeus Served by Iris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.8.html">
+        <img alt="Thumbnail Zeus, Nike, Hera, Athena" src="../image/thumbK4.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.8 Zeus, Nike, Hera, Athena
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T8.2.html">
+        <img alt="Thumbnail Zeus, Themis, Hermes, Athena" src="../image/thumbT8.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T8.2 Zeus, Themis, Hermes, Athena
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O24.2.html">
+        <img alt="Thumbnail Zeus &amp; Ganymedes" src="../image/thumbO24.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O24.2 Zeus &amp; Ganymedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.7.html">
+        <img alt="Thumbnail Antiope &amp; Zeus as Satyr" src="../image/thumbZ1.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.7 Antiope &amp; Zeus as Satyr
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.6.html">
+        <img alt="Thumbnail Antiope &amp; Zeus as Satyr" src="../image/thumbZ1.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.6 Antiope &amp; Zeus as Satyr
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.4.html">
+        <img alt="Thumbnail Leda &amp; Zeus as Swan" src="../image/thumbZ1.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.4 Leda &amp; Zeus as Swan
+        </h3>
+        <p>
+         Greco-Roman Kouklia Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F1.1.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbF1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F1.1 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.5.html">
+        <img alt="Thumbnail Leda &amp; Zeus as Swan" src="../image/thumbZ1.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.5 Leda &amp; Zeus as Swan
+        </h3>
+        <p>
+         Greco-Roman Spain Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.2.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbZ1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.2 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Greco-Roman Sparta Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.3.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbZ1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.3 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Greco-Roman Naxos Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.8.html">
+        <img alt="Thumbnail IEuropa &amp; Zeus as Bull" src="../image/thumbZ1.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.8 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Greco-Roman Arles Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z50.1E.html">
+        <img alt="Thumbnail Zeus as Thursday" src="../image/thumbZ50.1E.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z50.1E Zeus as Thursday
+        </h3>
+        <p>
+         Greco-Roman Orbe Floor Mosaic C3th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.6.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbZ2.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.6 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.1.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbZ1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.1 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Greco-Roman Antioch Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.9.html">
+        <img alt="Thumbnail Europa &amp; Zeus as Bull" src="../image/thumbZ1.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.9 Europa &amp; Zeus as Bull
+        </h3>
+        <p>
+         Greco-Roman Stabia Mosaic C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S1.1.html">
+        <img alt="Thumbnail Zeus-Jupiter Statue" src="../image/thumbS1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S1.1 Zeus-Jupiter
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S1.2.html">
+        <img alt="Thumbnail Zeus-Jupiter Statue" src="../image/thumbS1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S1.2 Zeus-Jupiter
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S1.3.html">
+        <img alt="Thumbnail Zeus-Jupiter Statue" src="../image/thumbS1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S1.3 Zeus-Jupiter
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL ZEUS PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Great Eoiae Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Astronomy Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1B.html">
+       Greek Lyric I Alcman, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Theages
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other sources not quoted here: numerous.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     ZEUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD ZEUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Cronus and Rhea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Hera
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Sky, weather, kings, fate
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbol
+       </th>
+       <td>
+        Lightning bolt
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Eagle, bull
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Oak tree, olive tree
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Hermes, Nike, Cratus, Themis, Moirae, Horae
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Cronides, Cronion
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Jupiter
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     ZEUS PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Family">
+         Family Tree of Zeus
+        </a>
+       </li>
+       <li>
+        <a href="#Attributes">
+         Symbols &amp; Attributes
+        </a>
+       </li>
+       <li>
+        <a href="#Retinue">
+         Retinue of Zeus
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Zeus
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="ZeusFamily.html">
+       Part 2: Zeus Family
+      </a>
+      <ul>
+       <li>
+        <a href="ZeusFamily.html#Genealogy">
+         Genealogy
+        </a>
+       </li>
+       <li>
+        <a href="ZeusFamily.html#Divine">
+         Divine Offspring
+        </a>
+       </li>
+       <li>
+        <a href="ZeusFamily.html#Mortal">
+         Mortal Offspring
+        </a>
+       </li>
+       <li>
+        <a href="ZeusFamily.html#Kingdom">
+         Family by Kingdom
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      Part 3: Zeus Myths 1 General
+      <ul>
+       <li>
+        <a href="../Titan/TitanKronos.html#Cannibal">
+         Birth of Zeus
+        </a>
+       </li>
+       <li>
+        <a href="../Ther/AixAmaltheia.html">
+         Nursing of Zeus
+        </a>
+       </li>
+       <li>
+        <a href="../Titan/Titanes.html#Titanomakhia">
+         War of the Titans
+        </a>
+       </li>
+       <li>
+        <a href="../Gigante/Gigantes.html">
+         War of the Giants
+        </a>
+       </li>
+       <li>
+        <a href="../Gigante/Typhoeus.html">
+         Battle with Typhoeus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="ZeusLoves.html">
+       Part 3: Zeus Myths 2 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="ZeusLoves.html#Aphrodite">
+         Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Asteria">
+         Asteria
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Demeter">
+         Demeter
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Eurynome">
+         Eurynome
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Leto">
+         Leto
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Metis">
+         Metis
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Mnemosyne">
+         Mnemosyne
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Persephone">
+         Persephone
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves.html#Themis">
+         Themis
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="ZeusLoves2.html">
+       Part 3: Zeus Myths 3 Loves
+      </a>
+      <ul>
+      </ul>
+     </li>
+     <li>
+      <a href="ZeusLoves3.html">
+       Part 3: Zeus Myths 4 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="ZeusLoves3.html#Antiope">
+         Antiope
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves3.html#Kallisto">
+         Callisto
+        </a>
+       </li>
+       <li>
+        <a href="ZeusLoves3.html#Danae">
+         Danae
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ZeusCult.html">
+       Part 4: Cult of Zeus 1
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ZeusCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult.html#Aigina">
+         Aegina, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ZeusCult2.html">
+       Part 4: Cult of Zeus 2
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ZeusCult2.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult2.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult2.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult2.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult2.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ZeusCult3.html">
+       Part 4: Cult of Zeus 3
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Euboia">
+         Euboea, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Kephallenia">
+         Cephallenia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Thesprotia">
+         Dodona , Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Makedonia">
+         Macedonia, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Keos">
+         Ceos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Samos">
+         Samos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Rhodes">
+         Rhodes, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Krete">
+         Crete, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Karia">
+         Caria, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Kappadokia">
+         Cappadocia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Kilikia">
+         Cilicia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Phrygia">
+         Phrygia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Kypros">
+         Cyprus, Mediterranean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Libya">
+         Libya, North Africa
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ZeusCult3.html#Rome">
+         Rome &amp; Latium, Central Italy
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/Cult/ZeusDodonaiosCult.html">
+       Part 4: Cult of Zeus 4
+      </a>
+      <ul>
+       <li>
+        <a href="/Cult/ZeusDodonaiosCult.html">
+         Oracle of Dodona, Northern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ZeusTitles.html">
+       Part 5: Titles &amp; Epithets
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

@@ -1,0 +1,1692 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   DANAE - Argive Princess of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Danae was a princess of Argos in the Greek Peloponnese, the only child of King Acrisius. When her father learned a prophecy that he was destined to be killed by a son of his daughter, he locked Danae away in a subterranean, bronze chamber. Her prison, however, was infiltrated by the god Zeus who impregnated her in the guise of a golden shower. She conceived and bore a son named Perseus. As soon as her father learned of this, he placed Danae and the infant in a chest and set them adrift at sea. By the providence of the gods they made it safely to the island of Seriphos where the fisherman Dictys offered them refuge in his home." name="description"/>
+  <meta content="Danae, Greek mythology, heroine, Argive princess, shower of gold, mother of Perseus, Danae pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Heroines
+     </a>
+     &gt;&gt; Danae
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     DANAE
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Δαναη
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Danaê
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Danae
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Danaan-Woman
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/K1.14.html">
+      <img alt="Danae and the Golden Shower | Lucanian red-figure krater C5th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/K1.14Zeus.jpg"/>
+     </a>
+     <figcaption>
+      Danae and the Golden Shower, Lucanian red-figure krater C5th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     DANAE was a princess of Argos in the Greek Peloponnese, the only child of King Akrisios (Acrisius). When her father learned  a prophecy that he was destined to be killed by a son of his daughter, he locked Danae away in a subterranean, bronze chamber. Her prison, however, was  infiltrated by the god
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     who impregnated her in the guise of a golden shower. She conceived and bore a son named Perseus. As soon as her father learned of this, he placed Danae and the infant in a chest and set them adrift at sea. By the providence of the gods they  made it safely to the island of Seriphos where the fisherman Diktys (Dictys) offered them refuge in his home.
+    </p>
+    <p>
+     Later when Perseus was fully grown, King Polydektes  (Polydectes) of Seriphos sought Danae for his wife and, wishing to rid himself of her son, commanded Perseus fetch the
+     <a href="../Pontios/Gorgones.html">
+      Gorgon
+     </a>
+     's head. The hero returned victorious only to learn that his mother had fled to the temple of Athena seeking refuge from the king. In anger Perseus turned Polydektes and his allies to stone with Gorgon's head. He then travelled with mother to Argos to claim his grandfather's throne.
+    </p>
+    <p>
+     Danae was the eponymous "queen" of the Danaans. Danaan was synonymous with Argive but was sometimes used to describe Greeks in general (e.g. in Homer's
+     <em>
+      Iliad
+     </em>
+     ).
+    </p>
+    <h3>
+     CHRONOLOGY OF MYTH
+    </h3>
+    <p>
+     In the chronology of myth Danae was a descendant of
+     <a href="Io.html">
+      Io
+     </a>
+     --an Argive maiden loved by Zeus who was forced to wander all the way to Egypt in the guise of a cow. 
+  Io's great-great-grandson Danaus made the return trip to Argos with his fifty daughters, the Danaides, to claim the throne. Danae was a great-grandaughter of the Danaid Hypermnestra and her cousin Lynkeus.
+     <br/>
+     Of Danae's descendants, the most famous were Herakles, her great-great grandson, and King Eurystheus, her great-grandson
+     <br/>
+     It should be noted that the Argive genealogies were quite bloated and do not synchronise well with those of the other mythic royal houses.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF DANAE
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1] AKRISIOS
+     <span class="family-refs">
+      (Homer Iliad 14.319, Aeschylus, Herodotus 6.53, Strabo 10.5.10, Diodorus Siculus 4.9.1, Pausanias 2.23.7, Hyginus Fabulae 155, Ovid Metamorphoses 4.607, Nonnus Dionysiaca 30.264)
+     </span>
+     <br/>
+     [1.2] AKRISIOS &amp; EURYDIKE
+     <span class="family-refs">
+      (Apollodorus 2.26)
+     </span>
+     <br/>
+     [1.3] AKRISIOS &amp; AGANIPPE
+     <span class="family-refs">
+      (Hyginus Fabulae 63)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Heros/Perseus.html">
+      PERSEUS
+     </a>
+     (by
+     <a href="../Olympios/ZeusFamily.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Homer Iliad 14.319, Pindar Pythian 12. 16, Aeschylus, Apollodorus 2.34, Strabo 10.5.10, Herodotus 6.53 &amp; 7.61, Diodorus Siculus 4.9.1, Hyginus Fabulae 63 &amp; 155, Ovid Metamorphoses 4.607, Nonnus Dionysiaca 2.286, et al)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     DANAE (Danaê). An oracle declared that Danaë, the daughter of Acrisius, would give birth to a son, who would kill his grandfather. For this reason Acrisius kept Danaë shut up in a subterraneous apartment, or in a brazen tower. But here she became mother of Perseus, notwithstanding the precautions of her father, according to some accounts by her uncle Proetus, and according to others by Zeus, who visited her in the form of a shower of gold. Acrisius ordered mother and child to be exposed on the wide sea in a chest; but the chest floated towards the island of Seriphus, where both were rescued by Dictys, the brother of king Polydectes. (Apollod. ii. 2. § 1, 4. § 1; Paus. ii. 16. § 2, 25. § 6, iii. 13. § 6; Hygin.
+     <em>
+      Fab.
+     </em>
+     63.) According to a later or Italian tradition, the chest was carried to the coast of Italy, where king Pilumnus married Danaë, and founded Ardea (Virg.
+     <em>
+      Aen.
+     </em>
+     vii. 410; Serv.
+     <em>
+      ad Aen.
+     </em>
+     vii. 372); or Danaë is said to have come to Italy with two sons, Argus and Argeus, whom she had by Phineus, and took up her abode on the spot where Rome was afterwards built (Serv.
+     <em>
+      ad Aen.
+     </em>
+     viii. 345). But, according to the common story, Polydectes, king of Seriphos, made Danae his slave, and courted her favour, but in vain; and in order to obtain the undisturbed possession of her, he sent off Perseus, who had in the meantime grown up to manhood, to the Gorgons, to fetch the head of Medusa, which he said he would give to Hippodameia as a wedding present (Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     838).
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/H1.4.html">
+      <img alt="Acrisius, Danae and infant Perseus | Athenian red-figure hydria C5th B.C. | Museum of Fine Arts Boston" class="img-responsive center-block" src="../image/H1.4Perseus.jpg"/>
+     </a>
+     <figcaption>
+      Acrisius, Danae and infant Perseus, Athenian red-figure hydria C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 319 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Zeus speaks to Hera of his greatest loves :] Zeus who gathers the clouds answered her : ‘. . . Never before has love for any goddess or woman so melted about the heart inside me, broken it to submission, as now: not that time . . . when I loved Akrisios' (Acrisius') daughter sweet-stepping Danaë, who bore Perseus to me, preeminent among all men.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Shield of Heracles 216 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "The son of rich-haired Danae, the horseman Perseus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 12. 16 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "[Perseus] that son of Danaë . . . he who, men tell, was from a flowing stream of gold betotten."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 12. 8 ff  :
+     </span>
+     <br/>
+     "When Perseus o'er [Medousa] the third of those fell sisters launched his cry of triumph, and brought fatal doom to Seriphos by the sea--doom for that isle and for her people. Yes, for he had made blind the grim offspring of Phorkys (Phorcys), and bitter the wedding-gift he brought to Polydektes (Polydectes), thus to end his mother's [Danae's] long slavery and enforced wedlock." [N.B. Perseus turned Polydektes to stone with the head of Medousa and so rescued his mother Danae from a forced marriage.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, The Net-Draggers (lost satyr play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     The first play of Aeschylus' Perseus trilogy,
+     <em>
+      The Net-Draggers
+     </em>
+     (or
+     <em>
+      Diktyoulkoi
+     </em>
+     ) was a satyr-play which described the arrival of the chest containing Danae and her infant son Perseus on the island of Seriphos. The Net-draggers of the title were the Satyrs who fished the chest to shore.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 274 The Net-Draggers (from Papyri) (trans. Lloyd-Jones) :
+     </span>
+     <br/>
+     "[The fisherman Diktys (Dictys) sees the chest containing Danae in the sea and summon the Satyrs to help him drag it ashore. It is not clear who Diktys is talking to.]
+     <br/>
+     ? : Can you see . . ?
+     <br/>
+     Diktys : I can see. . .
+     <br/>
+     ? : What do you want me to look out for? . .
+     <br/>
+     Diktys : In case anywhere . . in the sea. . .
+     <br/>
+     ? : Not a sign; so far as I can see, the sea's a mill-pond.
+     <br/>
+     Diktys : Look now at the crannies of the cliffs by the shore.
+     <br/>
+     ? : All right, I'm looking. . . Good Lord, what am I to call this! Is it a monster of the sea that meets my eyes, a grampus or a shark or a whale (
+     <em>
+      ketos
+     </em>
+     )? Lord Poseidon and Zeus of the deep, a fine gift to send up from the sea . . .!
+     <br/>
+     Diktys : What gift of the sea does your net conceal? It's covered with seaweed like. . . Is it some warm-blooded creature? Or has the Old Man of the Islands [Nereus or Proteus] sent us something in a chest? How tremendously heavy it is! the work's not going ahead! I'll shout and raise an alarm. Hallo There! Farmers and ditchers, this way, all of you! Herdsmen and shepherds, anyone in the place! Coastal folk and all you other toilers of the sea!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 275 The Net-Draggers (from Papyri Oxyrhynchus) :
+     </span>
+     <br/>
+     "[Silenos and the Satyrs have dragged the chest containing Danae and the infant Perseus ashore. Silenos competes with Diktys in his offers of refuge but his Satyr-sons threaten to violate her.]
+     <br/>
+     Silenos : I call upon . . ((lacuna)) and the gods to witness what I now proclaim to the whole company. But whatever you [Danae] do, don't rush recklessly away from us; understand at last and accept me as a most kindly protector and supporter. Why, look, the boy [Perseus] is greeting me with friendly words, as he would his respected grandmother. Won't he always be the same towards me, as time goes on?
+     <br/>
+     Danae : Rivers of Argos and gods of my fathers, and you, Zeus, who bring my ordeal to such an end! Will you give me to these beasts [i.e. Silenos and the lusty Satyrs], so that they may outrage me with their savage onslaughts, or so that I endure in captivity the worst of tortures? Anyhow, I shall escape. Shall I then knot myself a noose, applying a desperate remedy against this torture, so that no one may put me to sea again, neither a lascivious beast nor a father? No, I am afraid to! Zeus, send me some help in this plight, I beg you! for you were guilty of the greater fault, but it is I who have paid the full penalty. I call upon you to set things right! You have heard all I have to say.
+     <br/>
+     Chorus [of Satyrs] : Look, the little one [Perseus] is smiling sweetly as he looks on his [Silenos'] shining raddled bald pate. . .
+     <br/>
+     Silenos : . . ((lacuna)) if I don't rejoice in the sight of you. Damnation take Diktys (Dictys), who is trying to cheat me of this prize behind my back! [To Perseus.] Come here, my dearie! (He makes chuckling noises.) Don't be frightened! Why are you whimpering? Over here to my sons, so that you can come to my protecting arms, dear boy--I'm so kind--, and you can find pleasure in the martens and fawns and the young porcupines, and can make a third in bed with your mother and with me your father. And daddy shall give, the little one his fun. And you shall lead a healthy life, so that one day, when you've grown strong, you yourself--for your father's losing his grip on his fawn-killing footwork--you yourself shall catch beasts without a spear, and shall give them to your mother for dinner, after the fashion of her husband's family, amongst whom you'll be earning your keep.
+     <br/>
+     Chorus [of Satyrs] : Come now, dear fellows, let us go and hurry on the marriage [with Danae], for the time is ripe for it and without words speaks for it. Why, I see that already the bride is eager to enjoy our love to the full. No wonder : she spent a long time wasting away all lonely in the ship beneath the foam. Well, now that she has before her eyes our youthful vigour, she rejoices and exults; such is the bridegroom that by the bright gleam of Aphrodite's torches."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Danae (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     The Greek tragedian Euripides wrote a play about Danae.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sophocles, Danae (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Sophocles followed in the footsteps of Aeschylus and Euripides with his play
+     <em>
+      Danae
+     </em>
+     .
+    </p>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/K1.12.html">
+      <img alt="Danae and the Golden Shower | Athenian red-figure calyx krater C5th B.C. | State Hermitage Museum, St Petersburg" class="img-responsive center-block" src="../image/K1.12Zeus.jpg"/>
+     </a>
+     <figcaption>
+      Danae and the Golden Shower, Athenian red-figure krater C5th B.C.,
+      <a href="http://www.hermitagemuseum.org/" target="_blank">
+       State Hermitage Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 6. 53. 1 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "The Greeks recount these kings of the Dorians as far back as Perseus son of Danae--they make no mention of the god [i.e. Zeus as father of Perseus]--and prove these kings to be Greek; for by that time they had come to be classified as Greeks. I said as far back as Perseus, and I took the matter no further than that, because no one is named as the mortal father of Perseus, as Amphitryon is named father of Herakles . . . Danae [was the] daughter of Akrisios (Acrisius)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 7. 61. 1 :
+     </span>
+     <br/>
+     "Perseus son of Danae and Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 26 &amp; 34 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "To Akrisios (Acrisius) and Eurydike (Eurydice), Lakedaimon's (Lacedaemon's) daughter, was born a daughter Danae . . . While Akrisios was making oracular inquiry into the problem of fathering sons, the god informed him that a son born of his daughter would slay him. In fear Akrisios constructed a bronze chamber beneath the earth, where he kept Danae under guard. Now some say that Proitos (Proetus) [twin brother of Akrisios] seduced her, which led to the hard feelings between the brothers, but others say that Zeus had sex with her by changing himself into gold that streamed in through the ceiling and down into her womb. When Akrisios later learned that she had given birth to Perseus, not believing that Zeus seduced her, he cast his daughter out to sea with her son on an ark. The ark drifted ashore at Seriphos, where Diktys (Dictys) recovered the child and brought him up."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 36  :
+     </span>
+     <br/>
+     "The ruler of Seriphos was Polydektes (Polydectes), Diktys' (Dictys') brother. He fell in love with Danae, but was unable to have sex with her, now that Perseus was a grown man, so he got together his friends, Perseus among them, and told them he was collecting contributions to offer for the hand of Hippodameia, daughter of Oinomaos (Oenomaus). He asked for horses from the others, but, because he got no horses from Perseus and because Perseus had said that he would not deny Polydektes even the Gorgo's head, he assigned him the task of fetching that very object."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 45  :
+     </span>
+     <br/>
+     "[Perseus returned home with the Gorgon's head.] When he reached Seriphos, Perseus found that his mother [Danae] along with Diktys (Dictys) had sought refuge at the altars from the violence of Polydektes (Polydectes), so he entered the royal palace where Polydektes was entertaining his friends, and with his own face turned aside he displayed the Gorgo's head. When they looked at it, each one turned to stone, holding the pose he happened to have been striking at that moment."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 47 :
+     </span>
+     <br/>
+     "Perseus with Danae and Andromeda hurried on to Argos in order to get a look at Akrisios (Acrisius). But as soon as Akrisios learned of this, he left Argos, still fearful of the oracle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1090 ff (trans. Seaton) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "For fathers are all too jealous against their children . . . What woes did Danae endure on the wide sea through her sire's [Akrisios'] mad rage!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 838 (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The eagle son [Perseus] of the golden Sire."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 5. 10 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Seriphos, the scene of the mythical story of Diktys (Dictys), who with his net drew to land the chest in which were enclosed Perseus and his mother Danae, who had been sunk in the sea by Akrisios (Acrisius) the father of Danae; for Perseus was reared there, it is said, and when he brought the Gorgon's head there, he showed it to the Seriphians and turned them all into stone. This he did to avenge his mother [Danae], because Polydektes (Polydectes) the king, with their cooperation, intended to marry his mother against her will. The island is so rocky that the comedians say that it was made thus by the Gorgo."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 9. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Perseus was the son of Danaê, the daughter of Akrisios (Acrisius), and Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 18. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Diktys (Dictys) and Klymene (Clymene), who are called the saviours of Perseus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 23. 7 :
+     </span>
+     <br/>
+     "The Argives have other things worth seeing [in their town]; for instance, an underground building over which was the bronze chamber which Akrisios (Acrisius) once made to guard his daughter. Perilaus [historical], however, when he became tyrant, pulled it down."
+    </p>
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/H1.2.html">
+      <img alt="Danae and Perseus at sea in the chest | Athenian red-figure lekythos C5th B.C. | Rhode Island School of Design Museum" class="img-responsive center-block" src="../image/H1.2Perseus.jpg"/>
+     </a>
+     <figcaption>
+      Danae and Perseus at sea in the chest, Athenian red-figure lekythos C5th B.C.,
+      <a href="http://risdmuseum.org/" target="_blank">
+       Rhode Island School of Design Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 63 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Danae was the daughter of Acrisius and Aganippe. A prophecy about her said that the child she bore would kill Acrisius, and Acrisius, fearing this, shut her in a stone-walled prison. But Jove [Zeus], changing into a shower of gold, lay with Danae, and from this embrace Perseus was born. Because of her sin her father shut her up in a chest with Perseus and cast it into the sea. By Jove's [Zeus'] will it was borne to the island of Seriphus, and when the fisherman Dictys found it and broke it open, he discovered the mother and child. He took them to King Polydectes, who married Danae and brought up Perseus in the temple of Minerva [Athena].
+     <br/>
+     When Acrisius discovered they [Perseus and Danae] were staying at Polydectes' court, he started out to get them, but at his arrival Polydectes interceded for them, and Perseus swore an oath to his grandfather that he would never kill him. When Acrisius was detained there by a storm, Polydectes died, and at his funeral games the wind blew a discus from Perseus' hand at Acrisius' head which killed him. Thus what he did not do of his own will was accomplished by the gods. When Polydectes was buried, Perseus set out for Argos and took possession of his grandfather's kingdom."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 155  :
+     </span>
+     <br/>
+     "Sons of Jove [Zeus] . . . Perseus by Danae, daughter of Acrisius."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 607 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "But Acrisius the son of Abas, of the Cadmean race, remained to banish Bacchus [Dionysos] from the walls of Argos, and to lift up hostile arms against that deity, who he denied was born to Jove [Zeus]. He would not even grant that Perseus from the loins of Jupiter [Zeus] was got of Danae in the showering gold. So mighty is the hidden power of truth, Acrisius soon lamented that affront to Bacchus, and that ever he refused to own his grandson."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 697 ff :
+     </span>
+     <br/>
+     "I [Perseus], who am the son of Regal Jove [Zeus] and her [Danae] whom he embraced in showers of gold, leaving her pregnant in her brazen cell."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 11 :
+     </span>
+     <br/>
+     "Jupiter [Zeus], dissolved in showers of imitation gold."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 250 :
+     </span>
+     <br/>
+     "[Perseus] her [Athena's] gold-begotten brother."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 113 :
+     </span>
+     <br/>
+     "He [Zeus] courted lovely Danae luring her as a gleaming shower of gold."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 11. 117 ff :
+     </span>
+     <br/>
+     "When he [Midas of the golden-touch] washed his hands in liquid streams, the lustrous drops upon his hands might have been those which once astonished Danae."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 163 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Not in such mood wouldst thou [Zeus] go to Danaë's city, or the Parrhasian grove [home of Callisto], or Amyclae, Leda's home."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 110 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Eros (Love) . . . took out the divine quiver, in which were kept apart twelve firefed arrows for Zeus, when his desire turned towards one or another of mortal women for a bride. Right on the back of his quiver of lovebolts he had engraved with letters of gold a sentence in verse for each. On the back of his quiver of lovebolts he [the god Eros] had engraved with letters of gold a sentence in verse for each:--
+     <br/>
+     The first takes Kronion (Cronion) to the bend of heifer-fronted Io.
+     <br/>
+     The second shall Europa woo for the bold bull abducting.
+     <br/>
+     The third to Plouto's (Pluto's) bridal brings the lord of high Olympos.
+     <br/>
+     The fourth shall call to Danaë a golden bed-companion.
+     <br/>
+     The fifth shall offer Semele a burning fiery wedding.
+     <br/>
+     The sixth shall bring the King of heaven an eagle to Aigina (Aegina).
+     <br/>
+     The seventh joins Antiope to a pretended Satyros (Satyr)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 124 ff  :
+     </span>
+     <br/>
+     "Zeus and his rain did not sleep a second time with Danaë; after the seals of the ironbound prison the bride went a-sailing and had to blame her golden wedding for her lovegift of the brine--her hutch sailing with her on the sea floated where the shifting winds did blow!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 286 ff :
+     </span>
+     <br/>
+     "By Danaë's opulent wooing I pray, grant me this grace . . . I too should have been glad to see a wedding of gold, Zeus of the Rain, if the mother of Perseus had not first stolen that honour from thee."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 30. 264 ff :
+     </span>
+     <br/>
+     "Akrisios' (Acrisius') daughter [Danae] bore the Gorgonslayer [Perseus], a son worthy of my Zeus."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.12.html">
+        <img alt="Thumbnail Danae &amp; the Shower of Gold" src="../image/thumbK1.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.12 Danae &amp;  Shower of Gold
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K1.14.html">
+        <img alt="Thumbnail Danae &amp; the Shower of Gold" src="../image/thumbK1.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K1.14 Danae &amp; Shower of Gold
+        </h3>
+        <p>
+         Lucanian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H1.3.html">
+        <img alt="Thumbnail Acrisius, Danae, Infant Perseus" src="../image/thumbH1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H1.3 Acrisius, Danae, Perseus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H1.4.html">
+        <img alt="Thumbnail Acrisius, Danae, Infant Perseus" src="../image/thumbH1.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H1.4 Acrisius, Danae, Perseus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H1.2.html">
+        <img alt="Thumbnail Danae &amp; Infant Perseus" src="../image/thumbH1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H1.2 Danae &amp; Infant Perseus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodShield.html">
+       Hesiod, The Shield of Heracles
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     DANAE SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE PRINCESS DANAE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Acrisius and Eurydice
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Argos in Argolis and the Island of Seriphus
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

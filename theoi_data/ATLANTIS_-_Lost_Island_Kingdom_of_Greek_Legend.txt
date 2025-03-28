@@ -1,0 +1,1387 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ATLANTIS - Lost Island Kingdom of Greek Legend
+  </title>
+  <meta content="In ancient Greek and Roman legend Atlantis was a legendary island realm of the far west which was sunk beneath the ocean by the gods to punish its people for their immorality.The term Atlanteans was also applied by the Greeks to the Phoenician colonies along the Barbary Coast of North Africa--that is, the people living near the Atlas Mountains." name="description"/>
+  <meta content="Atlantis, Atlanteans, Atlantians, Greek mythology, ancient Greek legend, ancient Roman legend, legendary realm, lost island kingdom, sunken isle" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sun.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/fabulous-tribes.html">
+      Legendary Realms
+     </a>
+     &gt;&gt; Atlantis
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ATLANTIS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ατλαντις
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Atlantis
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Atlantis
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Land of  Atlas
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     ATLANTIS was a legendary island realm of the far west which was sunk beneath the ocean by the gods  to punish its people for their immorality.
+    </p>
+    <p>
+     The term "Atlanteans" was also applied by the Greeks to the Phoenician colonies along the Barbary Coast of North Africa--i.e. those living near the Atlas Mountains. Diodorus Siculus describes their Titan-mythology and wars with the Libyan Amazones. Plato may have the same nation in mind for he names the second Atlantean king Gadeiros after a famous Phoenician colony near the Straits of Gibraltar.
+    </p>
+    <p>
+     Other realms proposed by philosophers and writers which resemble Atlantis include the fabulous southern island of
+     <a href="Pankhaia.html">
+      Pankhaia (Panchaea)
+     </a>
+     and the blessed
+     <a href="Heliades.html">
+      Heliades
+     </a>
+     islands.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE ATLANTEAN KINGS
+    </h2>
+    <h3>
+     PARENTS OF EUENOR FIRST KING OF ATLANTIS
+    </h3>
+    <p>
+     Sprung self-formed from
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     the Earth
+     <span class="family-refs">
+      (Plato Critias 113d)
+     </span>
+    </p>
+    <h3>
+     PARENTS OF KLEITO FIRST PRINCESS OF ATLANTIS
+    </h3>
+    <p>
+     EUENOR &amp; LEUKIPPE
+     <span class="family-refs">
+      (Plato Critias 113d)
+     </span>
+    </p>
+    <h3>
+     PARENTS OF THE TEN KINGS OF ATLANTIS
+    </h3>
+    <p>
+     <a href="../Olympios/PoseidonFamily.html">
+      POSEIDON
+     </a>
+     &amp; KLEITO
+     <span class="family-refs">
+      (Plato Critias 113d)
+     </span>
+    </p>
+    <h3>
+     NAMES OF THE TEN KINGS OF ATLANTIS
+    </h3>
+    <p>
+     ATLAS, GADEIROS, AMPHERES, EUAIMON, MNESEOS, AUTOKHTHON, ELASIPPOS, MESTOR, AZAES, DIAPREPRES
+     <span class="family-refs">
+      (Plato Critias 114b)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3>
+     PLATO'S  ISLAND OF ATLANTIS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Plato, Timaeus 24e - 25d (trans. Bury) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Many great and wonderful deeds are recorded of your state [Athens] in our [the Egyptian's] histories. But one of them exceeds all the rest in greatness and valour. For these histories tell of a mighty power [Atlantis] which unprovoked made an expedition against the whole of Europe and Asia, and to which your city put an end. This power came forth out of the Atlantic Ocean, for in those days the Atlantic was navigable; and there was an island situated in front of the straits which are by you called the Pillars of Herakles (Heracles) [i.e. the Strait of Gibraltar]; the island was larger than Libya and Asia put together, and was the way to other islands, and from these you might pass to the whole of the opposite continent which surrounded the true ocean; for this sea which is within the Straits of Herakles is only a harbour, having a narrow entrance, but that other is a real sea, and the surrounding land may be most truly called a boundless continent. Now in this island of Atlantis there was a great and wonderful empire which had rule over the whole island and several others, and over parts of the continent, and, furthermore, the men of Atlantis had subjected the parts of Libya [Africa] within the columns of Herakles as far as Aigyptos (Egypt), and of Europe as far as Tyrrhenia [in Italy]. This vast power, gathered into one, endeavoured to subdue at a blow our country and yours and the whole of the region within the straits; and then, Solon, your country shone forth, in the excellence of her virtue and strength, among all mankind. She was pre-eminent in courage and military skill, and was the leader of the Hellenes. And when the rest fell off from her, being compelled to stand alone, after having undergone the very extremity of danger, she defeated and triumphed over the invaders, and preserved from slavery those who were not yet subjugated, and generously liberated all the rest of us who dwell within the pillars. But afterwards there occurred violent earthquakes and floods; and in a single day and night of misfortune all your warlike men in a body sank into the earth, and the island of Atlantis in like manner disappeared in the depths of the sea. For which reason the sea in those parts is impassable and impenetrable, because there is a shoal of mud in the way; and this was caused by the subsidence of the island."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Critias 108e - 109c &amp; 113c - 121c (trans. Bury) :
+     </span>
+     <br/>
+     "[Sokrates (Socrates) :] If I can sufficiently remember and report the tale once told by the priests and brought hither by Solon, I am wellnigh convinced that I shall appear to the present audience to have fulfilled my task adequately. This, then, I must at once proceed to do, and procrastinate no longer. 
+  Now first of all we must recall the fact that 9000 is the sum of years since the war occurred, as is recorded, between the [Atlantean] dwellers beyond the pillars of Herakles (Heracles) [i.e. the Strait of Gibraltar] and all that dwelt within them; which war we have now to relate in detail. It was stated that this city of ours [Athens] was in command of the one side and fought through the whole of the war, and in command of the other side were the kings of the island of Atlantis, which we said was an island larger than Libya and Asia once upon a time, but now lies sunk by earthquakes and has created a barrier of impassable mud which prevents those who are sailing out from here to the ocean beyond from proceeding further. Now as regards the numerous barbaric tribes and all the Hellenic nations that then existed, the sequel of our story, when it is, as it were, unrolled, will disclose what happened in each locality; but the facts about the Athenians of that age and the enemies [the Atlantes (Atlanteans)] with whom they fought we must necessarily describe first, at the outset,--the military power, that is to say, of each and their forms of government. And of these two we must give the priority in our account to the state of Athens.
+     <br/>
+     Once upon a time the gods were taking over by lot the whole earth according to its regions,--not according to the results of strife: for it would not be reasonable to suppose that the gods were ignorant of their own several rights, nor yet that they attempted to obtain for themselves by means of strife a possession to which others, as they knew, had a better claim. So by just allotments they received each one his own, and they settled their countries; and when they had thus settled them, they reared us up, even as herdsmen rear their flocks, to be their cattle and nurslings; only it was not our bodies that they constrained by bodily force, like shepherds guiding their flocks with stroke of staff, but they directed from the stern where the living creature is easiest to turn about, laying hold on the soul by persuasion, as by a rudder, according to their own disposition; and thus they drove and steered all the mortal kind . . .
+     <br/>
+     Concerning the allotments of the Gods, that they portioned out the whole earth, here into larger allotments and there into smaller, and provided for themselves shrines and sacrifices, even so Poseidon took for his allotment the island of Atlantis and settled therein the children whom he had begotten of a mortal woman in a region of the island of the following description. Bordering on the sea and extending through the center of the whole island there was a plain, which is said to have been the fairest of all plains and highly fertile; and, moreover, near the plain, over against its center, at a distance of about 50 stades, there stood a mountain that was low on all sides.
+     <br/>
+     Thereon dwelt one of the natives originally sprung from the earth (
+     <em>
+      autokhthones
+     </em>
+     ), Euenor (Evenor) by name, with his wife Leukippe (Leucippe); and they had for offspring an only-begotten daughter, Kleito (Cleito). And when this damsel was now come to marriageable age, her mother died and also her father; and Poseidon, being smitten with desire for her, wedded her; and to make the hill whereon she dwelt impregnable he broke it off all round about; and he made circular belts of sea and land enclosing one another alternately, some greater, some smaller, two being of land and three of sea, which he carved as it were out of the midst of the island; and these belts were at even distances on all sides, so as to be impassable for man; for at that time neither ships nor sailing were as yet in existence. And Poseidon himself set in order with ease, as a god would, the central island, bringing up from beneath the earth two springs of waters, the one flowing warm from its source, the other cold, and producing out of the earth all kinds of food in plenty. And he begat five pairs of twin sons and reared them up; and when he had divided all the island of Atlantis into ten portions, he assigned to the first-born of the eldest sons his mother's dwelling and the allotment surrounding it, which was the largest and best; and him he appointed to be king over the rest, and the others to be rulers, granting to each the rule over many men and a large tract of country. And to all of them he gave names, giving to him that was eldest and king the name after which the whole island was called and the sea spoken of as the Atlantic, because the first king who then reigned had the name of Atlas. And the name of his younger twin-brother, who had for his portion the extremity of the island near the pillars of Herakles up to the part of the country now called Gadeira after the name of that region, was Eumelos in Greek, but in the native tongue Gadeiros,--which fact may have given its title to the country. And of the pair that were born next he called the one Ampheres and the other Euaimon (Euaemon); and of the third pair the elder was named Mneseus and the younger Autokhthon (Autochthon); and of the fourth pair, he called the first Elasippos (Elasippus) and the second Mestor; and of the fifth pair, Azaes was the name given to the elder, and Diaprepes to the second.  So all these, themselves and their descendants, dwelt for many generations bearing rule over many other islands throughout the sea, and holding sway besides, as was previously stated, over the Mediterranean peoples as far as Aigyptos (Egypt) and Tyrrhenia [in Italy].
+     <br/>
+     Now a large family of distinguished sons sprang from Atlas; but it was the eldest, who, as king, always passed on the scepter to the eldest of his sons, and thus they preserved the sovereignty for many generations; and the wealth they possessed was so immense that the like had never been seen before in any royal house nor will ever easily be seen again; and they were provided with everything of which provision was needed either in the city or throughout the rest of the country. For because of their headship they had a large supply of imports from abroad, and the island itself furnished most of the requirements of daily life,--metals, to begin with, both the hard kind and the fusible kind, which are extracted by mining, and also that kind which is now known only by name but was more than a name then, there being mines of it in many places of the island,--I mean
+     <em>
+      orikhalkon
+     </em>
+     (mountain-copper), which was the most precious of the metals then known, except gold. It brought forth also in abundance all the timbers that a forest provides for the labors of carpenters; and of animals it produced a sufficiency, both of tame and wild. Moreover, it contained a very large stock of elephants; for there was an ample food-supply not only for all the other animals which haunt the marshes and lakes and rivers, or the mountains or the plains, but likewise also for this animal, which of its nature is the largest and most voracious. And in addition to all this, it produced and brought to perfection all those sweet-scented stuffs which the earth produces now, whether made of roots or herbs or trees, or of liquid gums derived from flowers or fruits. The cultivated fruit [i.e., of the vine] also, and the dry [i.e., corn], which serves us for nutriment, and all the other kinds that we use for our meals--the various species of which are comprehended under the name ‘vegetables’--and all the produce of trees which affords liquid and solid food and unguents [i.e., the olive], and the fruit of the orchard-trees, so hard to store, which is grown for the sake of amusement and pleasure [i.e., the pomegranate or apple], and all the after-dinner fruits [i.e., the citron] that we serve up as welcome remedies for the sufferer from repletion,--all these that hallowed island, as it lay then beneath the sun, produced in marvellous beauty and endless abundance. And thus, receiving from the earth all these products, they furnished forth their temples and royal dwellings, their harbors and their docks, and all the rest of their country, ordering all in the fashion following.
+     <br/>
+     First of all they bridged over the circles of sea which surrounded the ancient metropolis, making thereby a road towards and from the royal palace. And they had built the palace at the very beginning where the settlement was first made by their God [Poseidon] and their ancestors; and as each king received it from his predecessor, he added to its adornment and did all he could to surpass the king before him, until finally they made of it an abode amazing to behold for the magnitude and beauty of its workmanship. For, beginning at the sea, they bored a channel right through to the outermost circle, which was three plethra in breadth, one hundred feet in depth, and fifty stades in length; and thus they made the entrance to it from the sea like that to a harbor by opening out a mouth large enough for the greatest ships to sail through. Moreover, through the circles of land, which divided those of sea, over against the bridges they opened out a channel leading from circle to circle, large enough to give passage to a single trireme; and this they roofed over above so that the sea-way was subterranean; for the lips of the landcircles were raised a sufficient height above the level of the sea. The greatest of the circles into which a boring was made for the sea was three stades in breadth, and the circle of land next to it was of equal breadth; and of the second pair of circles that of water was two stades in breadth and that of dry land equal again to the preceding one of water; and the circle which ran round the central island itself was of a stade's breadth. And this island, wherein stood the royal palace, was of five stades in diameter. Now the island and the circles and the bridge, which was a plethrum in breadth, they encompassed round about, on this side and on that, with a wall of stone; and upon the bridges on each side, over against the passages for the sea, they erected towers and gates. And the stone they quarried beneath the central island all round, and from beneath the outer and inner circles, some of it being white, some black and some red; and while quarrying it they constructed two inner docks, hollowed out and roofed over by the native rock. And of the buildings some they framed of one simple color, in others they wove a pattern of many colors by blending the stones for the sake of ornament so as to confer upon the buildings a natural charm. And they covered with brass, as though with plaster, all the circumference of the wall which surrounded the outermost circle; and that of the inner one they coated with tin; and that which encompassed the acropolis itself with
+     <em>
+      orikhalkon
+     </em>
+     (orichalc) (mountain-copper) which sparkled like fire.
+     <br/>
+     The royal palace within the acropolis was arranged in this manner. In the center there stood a temple sacred to Kleito (Cleito) and Poseidon, which was reserved as holy ground, and encircled with a wall of gold; this being the very spot where at the beginning they had generated and brought to birth the family of the ten royal lines. Thither also they brought year by year from all the ten allotments their seasonable offerings to do sacrifice to each of those princes.
+     <br/>
+     And the temple of Poseidon himself was a stade in length, three plethra in breadth, and of a height which appeared symmetrical therewith; and there was something of the barbaric in its appearance. All the exterior of the temple they coated with silver, save only the pinnacles, and these they coated with gold. As to the interior, they made the roof all of ivory in appearance, variegated with gold and silver and orichalc, and all the rest of the walls and pillars and floors they covered with orichalc. And they placed therein golden statues, one being that of the God [Poseidon] standing on a chariot and driving six winged steeds, his own figure so tall as to touch the ridge of the roof, and round about him a hundred Nereides on dolphins (for that was the number of them as men then believed); and it contained also many other images, the votive offerings of private men. And outside, round about the temple, there stood images in gold of all the princes, both themselves and their wives, as many as were descended from the ten kings, together with many other votive offerings both of the kings and of private persons not only from the State itself but also from all the foreign peoples over whom they ruled. And the altar, in respect of its size and its workmanship, harmonized with its surroundings; and the royal palace likewise was such as befitted the greatness of the kingdom, and equally befitted the splendor of the temples.
+     <br/>
+     The springs they made use of, one kind being of cold, another of warm water, were of abundant volume, and each kind was wonderfully well adapted for use because of the natural taste and excellence of its waters; and these they surrounded with buildings and with plantations of trees such as suited the waters; and, moreover, they set reservoirs round about, some under the open sky, and others under cover to supply hot baths in the winter; they put separate baths for the kings and for the private citizens, besides others for women, and others again for horses and all other beasts of burden, fitting out each in an appropriate manner. And the outflowing water they conducted to the sacred grove of Poseidon, which contained trees of all kinds that were of marvellous beauty and height because of the richness of the soil; and by means of channels they led the water to the outer circles over against the bridges. And there they had constructed many temples for gods, and many gardens and many exercising grounds, some for men and some set apart for horses, in each of the circular belts of island; and besides the rest they had in the center of the large island a racecourse laid out for horses, which was a stade in width, while as to length, a strip which ran round the whole circumference was reserved for equestrian contests. And round about it, on this side and on that, were barracks for the greater part of the spearmen; but the guard-house of the more trusty of them was posted in the smaller circle, which was nearer the acropolis; while those who were the most trustworthy of all had dwellings granted to them within the acropolis round about the persons of the kings.
+     <br/>
+     And the shipyards were full of triremes and all the tackling that belongs to triremes, and they were all amply equipped.
+     <br/>
+     Such then was the state of things round about the abode of the kings. And after crossing the three outer harbors, one found a wall which began at the sea and ran round in a circle, at a uniform distance of fifty stades from the largest circle and harbor, and its ends converged at the seaward mouth of the channel. The whole of this wall had numerous houses built on to it, set close together; while the sea-way and the largest harbor were filled with ships and merchants coming from all quarters, which by reason of their multitude caused clamor and tumult of every description and an unceasing din night and day.
+     <br/>
+     Now as regards the city and the environs of the ancient dwelling we have now well-nigh completed the description as it was originally given. We must endeavor next to repeat the account of the rest of the country, what its natural character was, and in what fashion it was ordered. In the first place, then, according to the account, the whole region rose sheer out of the sea to a great height, but the part about the city was all a smooth plain, enclosing it round about, and being itself encircled by mountains which stretched as far as to the sea; and this plain had a level surface and was as a whole rectangular in shape, being 3000 stades long on either side and 2000 stades wide at its center, reckoning upwards from the sea. And this region, all along the island, faced towards the South and was sheltered from the Northern blasts. And the mountains which surrounded it were at that time celebrated as surpassing all that now exist in number, magnitude and beauty; for they had upon them many rich villages of country folk, and streams and lakes and meadows which furnished ample nutriment to all the animals both tame and wild, and timber of various sizes and descriptions, abundantly sufficient for the needs of all and every craft.
+     <br/>
+     Now as a result of natural forces, together with the labors of many kings which extended over many ages, the condition of the plain was this. It was originally a quadrangle, rectilinear for the most part, and elongated; and what it lacked of this shape they made right by means of a trench dug round about it. Now, as regards the depth of this trench and its breadth and length, it seems incredible that it should be so large as the account states, considering that it was made by hand, and in addition to all the other operations, but none the less we must report what we heard: it was dug out to the depth of a plethrum and to a uniform breadth of a stade, and since it was dug round the whole plain its consequent length was 10,000 stades. It received the streams which came down from the mountains and after circling round the plain, and coming towards the city on this side and on that, it discharged them thereabouts into the sea. And on the inland side of the city channels were cut in straight lines, of about 100 feet in width, across the plain, and these discharged themselves into the trench on the seaward side, the distance between each being 100 stades. It was in this way that they conveyed to the city the timber from the mountains and transported also on boats the seasons' products, by cutting transverse passages from one channel to the next and also to the city. And they cropped the land twice a year, making use of the rains from Heaven in the winter, and the waters that issue from the earth in summer, by conducting the streams from the trenches.
+     <br/>
+     As regards their manpower, it was ordained that each allotment should furnish one man as leader of all the men in the plain who were fit to bear arms; and the size of the allotment was about ten times ten stades, and the total number of all the allotments was 60,000; and the number of the men in the mountains and in the rest of the country was countless, according to the report, and according to their districts and villages they were all assigned to these allotments under their leaders. So it was ordained that each such leader should provide for war the sixth part of a war-chariots equipment, so as to make up 10,000 chariots in all, together with two horses and mounted men; also a pair of horses without a car, and attached thereto a combatant with a small shield and for charioteer the rider who springs from horse to horse; and two hoplites; and archers and slingers, two of each; and light-armed slingers and javelin-men, three of each; and four sailors towards the manning of twelve hundred ships. Such then were the military dispositions of the royal City; and those of the other nine varied in various ways, which it would take a long time to tell.
+     <br/>
+     Of the magistracies and posts of honor the disposition, ever since the beginning, was this. Each of the ten kings ruled over the men and most of the laws in his own particular portion and throughout his own city, punishing and putting to death whomsoever he willed. But their authority over one another and their mutual relations were governed by the precepts of Poseidon, as handed down to them by the law and by the records inscribed by the first princes on a pillar of orikhalkon, which was placed within the temple of Poseidon in the center of the island; and thither they assembled every fifth year, and then alternately every sixth year--giving equal honor to both the even and the odd--and when thus assembled they took counsel about public affairs and inquired if any had in any way transgressed and gave judgement. And when they were about to give judgement they first gave pledges one to another of the following description. In the sacred precincts of Poseidon there were bulls at large; and the ten princes, being alone by themselves, after praying to the God that they might capture a victim well-pleasing unto him, hunted after the bulls with staves and nooses but with no weapon of iron; and whatsoever bull they captured they led up to the pillar and cut its throat over the top of the pillar, raining down blood on the inscription. And inscribed upon the pillar, besides the laws, was an oath which invoked mighty curses upon them that disobeyed. When, then, they had done sacrifice according to their laws and were consecrating all the limbs of the bull, they mixed a bowl of wine and poured in on behalf of each one a gout of blood, and the rest they carried to the fire, when they had first purged the pillars round about. And after this they drew out from the bowl with golden ladles, and making libation over the fire swore to give judgement according to the laws upon the pillar and to punish whosoever had committed any previous transgression; and, moreover, that henceforth they would not transgress any of the writings willingly, nor govern nor submit to any governor's edict save in accordance with their father's laws. And when each of them had made this invocation both for himself and for his seed after him, he drank of the cup and offered it up as a gift in the temple of the God; and after spending the interval in supping and necessary business, when darkness came on and the sacrificial fire had died down, all the princes robed themselves in most beautiful sable vestments, and sate on the ground beside the cinders of the sacramental victims throughout the night, extinguishing all the fire that was round about the sanctuary; and there they gave and received judgement, if any of them accused any of committing any transgression. And when they had given judgement, they wrote the judgements, when it was light, upon a golden tablet, and dedicated them together with their robes as memorials. And there were many other special laws concerning the peculiar rights of the several princes, whereof the most important were these: that they should never take up arms against one another, and that, should anyone attempt to overthrow in any city their royal house, they should all lend aid, taking counsel in common, like their forerunners, concerning their policy in war and other matters, while conceding the leadership to the royal branch of Atlas; and that the king had no authority to put to death any of his brother-princes save with the consent of more than half of the ten.
+     <br/>
+     Such was the magnitude and character of the power which existed in those regions at that time; and this power the God set in array and brought against these regions of ours on some such pretext as the following, according to the story. For many generations, so long as the inherited nature of the God remained strong in them, they were submissive to the laws and kindly disposed to their divine kindred. For the intents of their hearts were true and in all ways noble, and they showed gentleness joined with wisdom in dealing with the changes and chances of life and in their dealings one with another. Consequently they thought scorn of everything save virtue and lightly esteemed their rich possessions, bearing with ease the burden, as it were, of the vast volume of their gold and other goods; and thus their wealth did not make them drunk with pride so that they lost control of themselves and went to ruin; rather, in their soberness of mind they clearly saw that all these good things are increased by general amity combined with virtue, whereas the eager pursuit and worship of these goods not only causes the goods themselves to diminish but makes virtue also to perish with them. As a result, then, of such reasoning and of the continuance of their divine nature all their wealth had grown to such a greatness as we previously described. But when the portion of divinity within them was now becoming faint and weak through being oft times blended with a large measure of mortality, whereas the human temper was becoming dominant, then at length they lost their comeliness, through being unable to bear the burden of their possessions, and became ugly to look upon, in the eyes of him who has the gift of sight; for they had lost the fairest of their goods from the most precious of their parts; but in the eyes of those who have no gift of perceiving what is the truly happy life, it was then above all that they appeared to be superlatively fair and blessed, filled as they were with lawless ambition and power. And Zeus, the God of gods, who reigns by Law, inasmuch as he has the gift of perceiving such things, marked how this righteous race was in evil plight, and desired to inflict punishment upon them, to the end that when chastised they might strike a truer note.
+     <br/>
+     Wherefore he assembled together all the gods into that abode which they honor most, standing as it does at the center of all the Universe, and beholding all things that partake of generation and when he had assembled them, he spake thus : [the text breaks off here]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Solon 26. 1 (trans. Perrin) (Greek historian C1st - C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Solon] also spent some time in studies with Psenophis of Heliopolis [in Egypt] and Sonkhis (Sonchis) of Sais, who were very learned priests. From these, as Plato says, he heard the story of the lost Atlantis, and tried to introduce it in a poetical form to the Greeks."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Solon 32. 1 :
+     </span>
+     <br/>
+     "Plato, ambitious to elaborate and adorn the subject of the lost Atlantis, as if it were the soil of a fair estate unoccupied, but appropriately his by virtue of some kinship with Solon, began the work by laying out great porches, enclosures, and courtyards, such as no story, tale, or poesy ever had before. But he was late in beginning, and ended his life before his work. Therefore the greater our delight in what he actually wrote, the greater is our distress in view of what he left undone. For as the Olympieion in the city of Athens, so the tale of the lost Atlantis in the wisdom of Plato is the only one among many beautiful works to remain unfinished."
+    </p>
+    <hr/>
+    <h3>
+     DIODORUS SICULUS ON THE TITAN-RULERS OF ATLANTIS
+    </h3>
+    <p>
+     Other ancient writers, such as Diodorus Siculus, who mention "Atlantis" or the "Atlanteans" are inevitably referring to the native tribes and Phoenician colonies of north-west Africa in the vicinity of the Atlas mountain range. Some Greek and Roman writers describe this continental region as the largest of the "islands."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 3. 56. 1 - 57. 8 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "But since we have made mention of the Atlantioi (Atlanteans) [i.e. their war with the Amazons, see the following section], we believe that it will not be inappropriate in this place to recount what their myths relate about the genesis of the gods, in view of the fact that it does not differ greatly from the myths of the Greeks. Now the Atlantians, dwelling as they do in the regions on the edge of Okeanos (the Ocean) and inhabiting a fertile territory, are reputed far to excel their neighbours in reverence toward the gods and the humanity they showed in their dealings with strangers, and the gods, they say, were born among them. And their account, they maintain, is in agreement with that of the most renowned of the Greek poets [Homer,
+     <em>
+      Iliad
+     </em>
+     14.200] when he represents Hera as saying: ‘For I go to see the ends of the bountiful earth, Okeanos source of the gods and Tethys divine their mother.’
+     <br/>
+     This is the account given in their myth: Their first king was Ouranos (Uranus, Heaven), and he gathered the human beings, who dwelt in scattered habitations, within the shelter of a walled city and caused his subjects to cease from their lawless ways and their bestial manner of living, discovering for them the uses of cultivated fruits, how to store them up, and not a few other things which are of benefit to man; and he also subdued the larger part of the inhabited earth, in particular the regions to the west and the north. And since he was a careful observer of the stars he foretold many things which would take place throughout the world; and for the common people he introduced the year on the basis of the movement of the sun and the months on that of the moon, and instructed them in the seasons which recur year after year. Consequently the masses of the people, being ignorant of the eternal arrangement of the stars and marvelling at the events which were taking place as he had predicted, conceived that the man who taught such things partook of the nature of the gods, and after he had passed from among men they accorded to him immortal honours, both because of his benefactions and because of his knowledge of the stars; and then they transferred his name to the firmament of heaven, both because they thought that he had been so intimately acquainted with the risings and the settings of the stars and with whatever else took place in the firmament, and because they would surpass his benefactions by the magnitude of the honours which they would show him, in that for all subsequent time they proclaimed him to be the king of the universe.
+     <br/>
+     To Ouranos, the myth continues, were born forty-five sons from a number of wives, and, of these, eighteen, it is said, were by Titaia (Titaea), each of them bearing a distinct name, but all of them as a group were called, after their mother, Titanes (Titans). Titaia, because she was prudent and had brought about many good deeds for the peoples, was deified after her death by those whom she had helped and her name was changed to Gê (Earth). To Ouranos were also born daughters, the two eldest of whom were by far the most renowned above the others and were called Basileia (Queen) and Rhea, whom some also named Pandora. Of these daughters Basileia, who was the eldest and far excelled the others in both prudence and understanding, reared all her brothers, showing them collectively a mother's kindness; consequently she was given the appellation of ‘Great Mother’; and after her father had been translated from among men into the circle of the gods, with the approval of the masses and her brothers she succeeded to the royal dignity, though she was still a maiden and because of her exceedingly great chastity had been unwilling to unite in marriage with any man.
+     <br/>
+     But later, because of her desire to leave sons who should succeed to the throne, she united in marriage with Hyperion, one of her brothers, for whom she had the greatest affection. And when there were born to her two children, Helios (the Sun) and Selenê (the Moon), who were greatly admired for both their beauty and their chastity, the brothers of Basileia, they say, being envious of her because of her happy issue of children ad fearing that Hyperion would divert the royal power to himself, committed an utterly impious deed; for entering into a conspiracy among themselves they put Hyperion to the sword, and casting Helios [i.e. the child Phaethon of myth], who was still in years a child, into the Eridanos river, drowned him. When this crime came to light, Selene, who loved her brother very greatly, threw herself down from the roof, but as for his mother, while seeking his body along the river, her strength left her and falling into a swoon she beheld a vision in which she thought that Helios stood over her and urged her not to mourn the death of her children; for, he said, the Titanes would meet the punishment which they deserve, while he and his sister would be transformed, by some divine providence, into immortal natures, since that which had formerly been called ‘holy fire’ in the heavens would be called by men ‘the sun’ (
+     <em>
+      hêlios
+     </em>
+     ) and that addresses as
+     <em>
+      menê
+     </em>
+     would be called ‘the moon’ (Selene).
+     <br/>
+     When she was aroused from the swoon she recounted to the common crowd both the dream and the misfortunes which had befallen her, asking that they render to the dead honours like those accorded to the gods and asserting that no man should thereafter touch her body. And after this she became frenzied, and seizing such of her daughter's playthings as could make a noise, she began to wander over the land, with her hair hanging free, inspired by the noise of the kettledrums and cymbals, so that those who saw her were struck with astonishment. And all men were filled with pity at her misfortune and some were clinging to her body, when there came a mighty storm and continuous crashes of thunder and lightning; and in the midst of this Basileia passed from sight, whereupon the crowds of people, amazed at this reversal of fortune, transferred the names and the honours of Helios and Selenê to the stars of the sky, and as for their mother, they considered her to be a goddess and erected altars to her, and imitating the incidents of her life by the pounding of the kettledrums and the clash of cymbals they rendered unto her in this way sacrifices and all other honours."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 3. 60. 1 - 61. 6 :
+     </span>
+     <br/>
+     [After a digression on Phrygian mythology following the passage above Diodorus continues with his Atlantian story.]
+     <br/>
+     "After the death of Hyperion, the myth relates, the kingdom was divided among the sons of Ouranos (Uranus), the most renowned of whom were Atlas and Kronos (Cronus). Of these sons Atlas received as his part the regions on the coast of Okeanos (the Ocean), and he not only gave the name of Atlantioi (Atlanteans) to his peoples but likewise called the greatest mountain in the land Atlas. They also say that he perfected the science of astrology and was the first to publish to mankind the doctrine of the sphere; and it was for this reason that the idea was held that he entire heavens were supported upon the shoulders of Atlas, the myth darkly hinting in this way at his discovery and description of the sphere. There were born to him a number of sons, one of whom was distinguished above the others for his piety, justice to his subjects, and love of mankind, his name being Hesperos (Evening-Star). This king, having once climbed to the peak of Mount Atlas, was suddenly snatched away by mighty winds while he was making his observations of the stars, and never was seen again; and because of the virtuous life he had lived and their pity for his sad fate the multitudes accorded to him immortal honours and called the brightest of the stars of heaven after him.
+     <br/>
+     Atlas, the myth goes on to relate, also had seven daughters, who as a group were called Atlantides [i.e. the Pleiades] after their father, but their individual names were Maia, Elektra (Electra), Taÿgetê (Taygeta), Steropê, Meropê, Halkyonê (Halcyone), and the last Kelaino (Celaeno). These daughters lay with the most renowned heroes and gods and thus became ancestors of the larger part of the race of human beings, giving birth to those who, because of their high achievements, came to be called gods and heroes; Maia the eldest, for instance, lay with Zeus and bore Hermes, who was the discoverer of many things for the use of mankind; similarly the other Atlantides also gave birth to renowned children, who became the founders in some instances of nations and in other cases of cities. Consequently, not only among certain barbarians but among the Greeks as well, the great majority of the most ancient heroes trace their descent back to the Atlantides. These daughters were also distinguished for their chastity and after their death attained to immortal honour among men, by whom they were both enthroned in the heavens and endowed with the appellation of Pleiades. The Atlantides were also called ‘nymphai’ (nymphs) because the natives of that land addressed their women by the common appellation of ‘nymphe.’
+     <br/>
+     Kronos (Cronus), the brother of Atlas, the myth continues, who was a man notorious for his impiety and greed, married his sister Rhea, by whom he begat that Zeus who was later called ‘Olympios’ (Olympian) . . .
+     <br/>
+     Zeus, the son of Kronos, emulated a manner of life the opposite of that led by his father, and since he showed himself honourable and friendly to all, the masses addressed him as ‘father.’ As for his succession to the kingly power, some say that his father yielded it to him of his own accord, but others state that he was chosen as king by the masses because of the hatred they bore towards his father, and that when Kronos made war against him with he aid of the Titanes, Zeus overcame him in battle, and on gaining supreme power visited all the inhabited world, conferring benefactions upon the race of men. He was pre-eminent also in bodily strength and in all the other qualities of virtue and for this reason quickly became master of the entire world. And in general he showed all zeal to punish impious and wicked men and to show kindness to the masses. In return for all this, after he had passed from among men he was given the name of Zên [from the verb ‘to live’], because he was the cause of right ‘living’ among men, and those who had received his favours showed him honour by enthroning him in the heavens, all men eagerly acclaiming him as god and lord for ever of the whole universe.
+     <br/>
+     These, then, are in summary the facts regarding the teachings of the Atlantioi (Atlanteans) about the gods.”
+    </p>
+    <hr/>
+    <h3>
+     DIODORUS SICULUS ON THE ATLANTEAN-AMAZON WAR
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 3. 53. 1 - 55. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "We are told, namely, that there was once in the western parts of Libya, on the bounds of the inhabited world, a race which was ruled by women and followed a manner of life unlike that which prevails among us. For it was the custom among them that the women should practise the arts of war and be required to serve in the army for a fixed period, during which time they maintained their virginity . . .
+     <br/>
+     As mythology relates, their home was on an island which, because it was in the west, was called Hespera (Evening), and it lay in the marsh Tritonis. This marsh was near Okeanos (the Ocean) which surrounds the earth and received its name from a certain river Triton which emptied into it; and this marsh was also near Aithiopia [Africa] and that mountain by the shore of Okeanos which is the highest of those in the vicinity and impinges upon Okeanos and is called by the Greeks Atlas. The island mentioned above was of great size and full of fruit-bearing trees of every kind, from which the natives secured their food . . .
+     <br/>
+     The Amazones (Amazons), then, the account continues, being a race superior in valour and eager for war, first of all subdued all the cities on the island except one called Menê (Moon), which was considered to be sacred and was inhabited by Aithiopian Ikhthyophagoi (Fish-Eaters), and was also subject to great eruptions of fire and possessed a multitude of the precious stones which the Greeks call anthrax, sardion, and smaragdos; and after this they subdued many of the neighbouring Libyans and nomad tribes, and founded within the marsh Tritonis a great city which they named Kherronesos (Chersonese) (Peninsular) after its shape.
+     <br/>
+     Setting out from the city of Kherronesos, the account continues, the Amazones embarked upon great ventures, a longing having come over them to invade many parts of the inhabited world. The first people against whom they advanced, according to the tale, was the Atlantioi (Atlanteans), the most civilized men among the inhabitants of those regions, who dwelt in a prosperous country and possessed great cities; it was among them, we are told, that mythology places the birth of the gods, in the regions which lie along the shore of Okeanos, in this respect agreeing with those among the Greeks who relate legends, and about this we shall speak in detail a little later.
+     <br/>
+     Now the queen of the Amazones, Myrina, collected, it is said, an army of thirty thousand foot-soldiers and three thousand cavalry, since they favoured to an unusual degree the use of cavalry in their wars. For protective devices they used the skins of large snakes, since Libya contains such animals of incredible size, and for offensive weapons, swords and lances; they also used bows and arrows, with which they struck not only when facing the enemy but also when in flight, by shooting backwards at their pursuers with good effect. Upon entering the land of the Atlantioi (Atlanteans) they defeated in a pitched battle the inhabitants of the city of Kernê (Cerne), as it is called, and making their way inside the walls along with the fleeing enemy, they got the city into their hands; and desiring to strike terror into the neighbouring peoples they treated the captives savagely, put to the sword the men from the youth upward, led into slavery the children and women, and razed the city. But when the terrible fate of the inhabitants of Kernê became known among their fellow tribesmen, it is related that the Atlantioi (Atlanteans), struck with terror, surrendered their cities on terms of capitulation and announced that they would do whatever should be commanded them, and that the queen Myrina, bearing herself honourably towards the Atlantioi, both established friendship with them and founded a city to bear her name [i.e. Myrina] in place of the city which had been razed; and in it she settled both the captives and any native who so desired. Whereupon the Atlantioi presented her with magnificent presents and by public decree voted to her notable honours, and she in return accepted their courtesy and in addition promised that she would show kindness to their nation. And since the natives were often being warred upon by the Gorgones (Gorgons), as they were named, a folk which resided upon their borders, and in general had that people lying in wait to injure them, Myrina, they say, was asked by the Atlantioi to invade the land of the afore-mentioned Gorgones. But when the Gorgones drew up their forces to resist them a mighty battle took place in which the Amazones, gaining the upper hand, slew great numbers of their opponents and took no fewer than three thousand prisoners; and since the rest had fled for refuge into a certain wooded region, Myrina undertook to set fire to the timber, being eager to destroy the race utterly, but when she found that she was unable to succeed in her attempt she retired to the borders of her country . . .
+     <br/>
+     The story is also told that the marsh Tritonis disappeared from sight in the coruse of an earthquake, when those parts of it which lay towards Okeanos were torn asunder."
+     <br/>
+     [N.B. For the Libyan Amazones, Diodorus combines accounts of the mythical Hesperides and the legendary warrior-women of the Makhlyes (Machlyes) tribe of Lake Tritonis. The Gorgones are based on the monsters encountered by the hero Perseus who is actually mentioned in the passage which follows. Here he encounters the Gorgon0tribe some time after the Amazon-Atlantean-Gorgon war occurred. Herakles is mentioned in the same context visiting the Hesperides. The Atlanteans are either an indigenous people dwelling about Mount Atlas in North Africa or are based on the Phoenician colonies of the region. Diodorus also refers to Plato's story of the sinking of Atlantis in the last line of the passage quoted above. The unusual combination of myths and legends is an Hellenistic Greek attempt to rationalize a variety of stories and present them as true history.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 3. 10. 11 :
+     </span>
+     <br/>
+     "[Diodorus briefly discusses sources for the ancient Greek histories of Egypt, sub-Saharan Africa, Libya and the Atlas region--the last three are all referred to as Aithiopia (Ethiopia) :] Concerning the historians, we must distinguish among them, to the effect that many have composed works on both Aigyptos (Egypt) and Aithiopia (Ethiopia), of whom some have given credence to false report and others have invented many tales out of their own minds for the delectation of their readers, and so may justly be distrusted." [N.B. Aithiopia is the ancient Greek term for the whole of Africa, not just the land of Ethiopia.]
+    </p>
+    <hr/>
+    <h3>
+     OTHER ANCIENT WRITERS ON ATLANTIS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 15. 2 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "Those who live on the shores of Okeanos (Ocean) [i.e. on the Atlantic coast of North Africa] tell a fable of how the ancient kings of Atlantis, sprung from the seed of Poseidon, wore upon their head the bands from the male Ram-fish, as an emblem of their authority, while their wives, the queens, wore the curls of the females as a proof of theirs."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 6. 199 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "There is reported to be another island off [African] Mount Atlas [in the Atlantic], itself also called Atlantis, from which a two days' voyage along the coast reaches the desert district in the neighbourhood of the Western Aethiopes [i.e. black Africans] and the cape mentioned above as the Horn of the West, the point at which the coastline begins to curve westward in the direction of the Atlantic."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Plato, Critias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Timaeus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     ATLANTIS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS NAME
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Qualities
+       </th>
+       <td>
+        Sunken island-continent
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Location
+       </th>
+       <td>
+        Atlantic Ocean
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     MYTHIC REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="../Kosmos/Elysion.html">
+       Elysium, Home of the Blessed Dead
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Haides.html">
+       Hades I, Realm of the Dead (Archaic)
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Haides2.html">
+       Hades II, Realm of the Dead (Mystic)
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Okeanos.html">
+       Oceanus, Earth-Encircling River
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Olympos.html">
+       Olympus, Home of the Gods
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Tartaros.html">
+       Tartarus I, Pit Beneath the Earth
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Tartaros2.html">
+       Tartarus II, Dungeon of the Damned
+      </a>
+     </li>
+    </ul>
+    <h2>
+     LEGENDARY REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Atlantis, Land of the Far West
+     </li>
+     <li>
+      <a href="../Kosmos/Erytheia.html">
+       Erytheia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="Heliades.html">
+       Heliades, Land of the Far South
+      </a>
+     </li>
+     <li>
+      <a href="../Titan/Hesperides.html">
+       Hesperia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="Hyperborea.html">
+       Hyperborea, Land of the Far North
+      </a>
+     </li>
+     <li>
+      <a href="Pankhaia.html">
+       Panchaea, Land of the Far South
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

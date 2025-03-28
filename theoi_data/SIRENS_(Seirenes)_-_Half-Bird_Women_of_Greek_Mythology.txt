@@ -1,0 +1,2478 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   SIRENS (Seirenes) - Half-Bird Women of Greek Mythology
+  </title>
+  <meta content="In Greek mythology the Sirens were three monstrous sea-nymphs who lured sailors to their death with a bewitching song. They were formerly handmaidens of the goddess Persephone and when she was secretly abducted by Haides, Demeter gave them the bodies of birds to assist in the search. They eventually gave up and settled on the flowery island of Anthemoessa. The Sirens were depicted as birds with either the heads or entire upper bodies of women." name="description"/>
+  <meta content="Sirens, Seirenes, Greek mythology, bird-women monsters, Sirens pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sea.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt; Sirens (Seirenes)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     SEIRENES
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Σειρην Σειρηνες
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Seirên, Seirênes
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Siren, Sireni
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Entwiner, Binder (
+       <em>
+        seiraô
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O21.3.html">
+      <img alt="Siren suicide | Athenian red-figure stamnos C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O21.3BSeirenes.jpg"/>
+     </a>
+     <figcaption>
+      Siren suicide, Athenian red-figure stamnos C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE SEIRENES (Sirens) were three monstrous sea-nymphs who lured sailors to their death with a bewitching song. They were formerly handmaidens of the goddess
+     <a href="../Khthonios/Persephone.html">
+      Persephone
+     </a>
+     and when she was secretly abducted by
+     <a href="../Khthonios/Haides.html">
+      Haides
+     </a>
+     ,
+     <a href="../Olympios/Demeter.html">
+      Demeter
+     </a>
+     gave them the bodies of birds  to assist in the search. They eventually gave up and settled on the flowery island of Anthemoessa.
+    </p>
+    <p>
+     The Seirenes were encountered by the Argonauts who passed by unharmed with the help of the poet Orpheus who drowned out their music with song. 
+  Odysseus later sailed by, bound tightly to the mast, while his men blocked their ears with wax. The Seirenes were so distressed to see a man hear their song and still escape that they threw themselves into the sea and drowned.
+    </p>
+    <p>
+     The Seirenes were depicted as birds with either the heads or entire upper bodies of women. In mosaic art they were depicted with just bird legs.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE SIRENS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Potamos/PotamosAkheloios.html">
+      AKHELOIOS
+     </a>
+     &amp;
+     <a href="../Ouranios/MousaMelpomene.html">
+      MELPOMENE
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.18, 1.63, Lycophron 712, Hyginus Fabulae 141)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Potamos/PotamosAkheloios.html">
+      AKHELOIOS
+     </a>
+     &amp;
+     <a href="../Ouranios/MousaTerpsikhore.html">
+      TERPSIKHORE
+     </a>
+     <span class="family-refs">
+      (Apollonius Rhodius 4.892, Nonnus Dionysiaca 13.313)
+     </span>
+     <br/>
+     [1.3]
+     <a href="../Potamos/PotamosAkheloios.html">
+      AKHELOIOS
+     </a>
+     &amp; STEROPE
+     <span class="family-refs">
+      (Apollodorus 1.63)
+     </span>
+     <br/>
+     [1.4]
+     <a href="../Potamos/PotamosAkheloios.html">
+      AKHELOIOS
+     </a>
+     <span class="family-refs">
+      (Pausanias 9.34.3, Ovid Metamorphoses 14.85)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Euripides Helen 167)
+     </span>
+    </p>
+    <h3>
+     NAMES
+    </h3>
+    <p>
+     [1.1] THELXIOPE-THELXINOE, MOLPE, AGLAOPHONOS
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 47)
+     </span>
+     <br/>
+     [1.2] THELXIEPEIA, PEISINOE, AGLAOPE
+     <span class="family-refs">
+      (Apollodorus E7.18)
+     </span>
+     <br/>
+     [1.3] THELXIEPEIA, PEISINOE, LIGEIA
+     <span class="family-refs">
+      (Suidas 'Seirenas')
+     </span>
+     <br/>
+     [2.1] PARTHENOPE, LEUKOESIA
+     <span class="family-refs">
+      (Strabo 5.4.7 &amp; 6.1.1)
+     </span>
+     <br/>
+     [2.2] PARTHENOPE, LIGEIA, LEUKOSIA
+     <span class="family-refs">
+      (Lycophron 712)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     SIRE′NES or SEIRE′NES (Seirênes), mythical beings who were believed to have the power of enchanting and charming, by their song, any one who heard them. When Odysseus, in his wanderings through the Mediterranean, came near the island on the lovely beach of which the Sirens were sitting, and endeavouring to allure him and his companions, he, on the advice of Circe, stuffed the ears of his companions with wax, and tied himself to the mast of his vessel, until he was so far off that he could no longer hear their song (Hom.
+     <em>
+      Od.
+     </em>
+     xii. 39, &amp;c., 166, &amp;c.). According to Homer, the island of the Sirens was situated between Aeaea and the rock of Scylla, near the south-western coast of Italy. Homer says nothing of their number, but later writers mention both their names and number some state that they were two, Aglaopheme and Thelxiepeia (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1709); and others, that there were three, Peisinoë, Aglaope, and Thelxiepeia (Tzetz.
+     <em>
+      ad Lycoph. 712
+     </em>
+     ), or Parthenope, Ligeia, and Leucosia (Eustath.
+     <em>
+      l. c. ;
+     </em>
+     Strab. v. pp. 246, 252; Serv.
+     <em>
+      ad Virg. Georg.
+     </em>
+     iv. 562). They are called daughters of Phorcus (Plut.
+     <em>
+      Sympos.
+     </em>
+     ix. 14), of Achelous and Sterope (Apollod. i. 7. § 10), of Terpsichore (Apollon. Rhod. iv. 893), of Melpomene (Apollod. i. 3. § 4), of Calliope (Serv.
+     <em>
+      ad Aen.
+     </em>
+     v. 364), or of Gaea (Eurip.
+     <em>
+      Hel. 168
+     </em>
+     ). Their place of abode is likewise different in the different traditions, for some place them on cape Pelorum others in the island of Anthemusa, and others again in the Sirenusian islands near Paestum, or in Capreae (Strab. i. p. 22; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1709; Serv.
+     <em>
+      l.c.
+     </em>
+     ). The Sirens are also connected with the legends about the Argonauts and the rape of Persephone. When the Argonauts, it is said. passed by the Sirens, the latter began to sing, but in vain, for Orpheus rivalled and surpassed them ; and as it had been decreed that they should live only till some one hearing their song should pass by unmoved, they threw themselves into the sea, and were metamorphosed into rocks. Some writers connected the self-destruction of the Sirens with the story of Orpheus and the Argonauts, and others With that of Odysseus (Strab. v. p. 252; Orph.
+     <em>
+      Arg.
+     </em>
+     1284; Apollod. i. 9. § 25; Hygin.
+     <em>
+      Fab. 141
+     </em>
+     ). Late poets represent them as provided with wings, which they are said to have received at their own request, in order to be able to search after Persephone (Ov.
+     <em>
+      Met.
+     </em>
+     v. 552), or as a punishment from Demeter for not having assisted Persephone (Hygin.
+     <em>
+      l. c.
+     </em>
+     ), or from Aphrodite, because they wished to remain virgins (Eustath.
+     <em>
+      l. c. ;
+     </em>
+     Aelian,
+     <em>
+      H. A.
+     </em>
+     xvii. 23; Apollon. Rhod. iv. 896). Once, however, they allowed themselves to be prevailed upon by Hera to enter into a contest with the Muses, and being defeated, they were deprived of their wings (Paus. ix. 34. § 2; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 85). There was a temple of the Sirens near Surrentum, and the tomb of Parthenope was believed to be near Neapolis. (Strab. i. p. 23, v. p. 246.)
+     <br/>
+     Achelo′is. A surname of the Sirens, the daughters of Achelous and a muse. (Ov.
+     <em>
+      Met.
+     </em>
+     v. 552, xiv. 87; Apollod. i. 7. § 10.)
+     <br/>
+     Ligeia or Ligea (Ligeia), (Ligeia), i. e. the shrill sounding, occurs as the name of a seiren and of a nymph. (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1709; Virg.
+     <em>
+      Georg.
+     </em>
+     iv. 336.)
+     <br/>
+     Parthe′nope (Parthenopê). One of the Seirens (Schol.
+     <em>
+      ad Hom. Od.
+     </em>
+     xii. 39; Aristot.
+     <em>
+      Mir. Ausc.
+     </em>
+     103.) At Naples her tomb was shown, and a torch race was held every year in her honour. (Strab. v. p. 246; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     732.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/O21.3.html">
+      <img alt="Odysseus and the Sirens | Athenian red-figure stamnos C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O21.3Seirenes.jpg"/>
+     </a>
+     <figcaption>
+      Odysseus and the Sirens, Athenian red-figure stamnos C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2 id="Names">
+     NAMES OF THE SIRENS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Θελξιοπη
+      </p>
+      <p class="names-greek">
+       Θελξινοη
+      </p>
+      <p class="names-greek">
+       Θελξιεπεια
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Thelxiopê
+      </p>
+      <p>
+       Thelxinoê
+      </p>
+      <p>
+       Thelxiepeia
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Thelxiope
+      </p>
+      <p>
+       Thelxinoe
+      </p>
+      <p>
+       Thelxipea
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Charming Voice (
+       <em>
+        thelxis, ops
+       </em>
+       )
+      </p>
+      <p>
+       Charming-the-Mind (
+       <em>
+        thelxis, noos
+       </em>
+       )
+      </p>
+      <p>
+       Charming- (
+       <em>
+        thelxis,
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Μολπη
+      </p>
+      <p class="names-greek">
+       Πεισινοη
+      </p>
+      <p class="names-greek">
+       Αγλαοφωνος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Molpê
+      </p>
+      <p>
+       Peisinoê
+      </p>
+      <p>
+       Aglaophônos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Molpe
+      </p>
+      <p>
+       Peisinoe
+      </p>
+      <p>
+       Aglaophonus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Song (
+       <em>
+        molpê
+       </em>
+       )
+      </p>
+      <p>
+       Affecting-the-Mind (
+       <em>
+        peisis, noos
+       </em>
+       )
+      </p>
+      <p>
+       Splendid Sounding (
+       <em>
+        aglaos, phônê
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Λιγεια
+      </p>
+      <p class="names-greek">
+       Λευκωσια
+      </p>
+      <p class="names-greek">
+       Αγλαοπη
+      </p>
+      <p class="names-greek">
+       Παρθενοπη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Ligeia
+      </p>
+      <p>
+       Leukôsia
+      </p>
+      <p>
+       Aglaopê
+      </p>
+      <p>
+       Parthenopê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Ligeia
+      </p>
+      <p>
+       Leucosia
+      </p>
+      <p>
+       Aglaope
+      </p>
+      <p>
+       Parthenope
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Clear-Toned (
+       <em>
+        ligeios
+       </em>
+       )
+      </p>
+      <p>
+       White-Stuff (
+       <em>
+        leukê, ôsia
+       </em>
+       )
+      </p>
+      <p>
+       Splendid Voice (
+       <em>
+        aglaos, ops
+       </em>
+       )
+      </p>
+      <p>
+       Maiden Voice (
+       <em>
+        parthenos, ops
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE &amp; NAMES OF THE SIRENS
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/O21.11.html">
+      <img alt="Decorative Siren | Campanian red-figure lekythos C4th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O21.11Seiren.jpg"/>
+     </a>
+     <figcaption>
+      Decorative Siren, Campanian red-figure lekythos C4th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 47 (from Scholiast on Homer's Odyssey 12. 168) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "He [Apollonius] followed Hesiod who thus names the island of the Seirenes (Sirens) : ‘To the island Anthemoessa (Flowery) which the son of Kronos (Cronus) [Zeus] gave them. And their names are Thelxiope or Thelxinoe, Molpe and Aglaophonos. Hence Hesiod said that they charmed even the Anemoi (Winds).’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Helen 167 (trans. Vellacott) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Winged maidens, virgin daughters of Gaia (Gaea, the Earth), the Seirenes (Sirens)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 18 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[The Mousa (Muse)] Melpomene bore to Akheloios (Achelous) the Seirenes (Sirens), whom we shall discuss in the course of the tale of Odysseus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 63 :
+     </span>
+     <br/>
+     "They [King Porthaon and his wife Euryte of Aitolia (Aetolia)] also had a daughter Sterope, who was alleged to be the mother by Akheloios (Achelous) of the Seirenes (Sirens)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E7. 18 :
+     </span>
+     <br/>
+     "The Seirenes (Sirens). They were the daughters of Akhelous (Achelous) and the Mousa (Muse) Melpomene, and their names were Peisinoe, Aglaope, and Thelxiepeia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 892 (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Lovely Terpsikhore (Terpsichore), one of the Mousai (Muses), had borne them [Seirenes (Sirens)] to Akheloios (Achelous)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 712 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The triple daughters [Seirenes (Sirens)] of Tethys' son [Akheloos (Achelous)], who imitated the strains of their melodious mother [Melpomene] . . . One of them . . . the bird goddess Parthenope. And Leukosia (Leucosia) . . . and Ligeia."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 141 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Sirenes (Sirens), daughter of the River Achelous and the Muse Melpomene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 13. 313 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Lake Katana (Catana) [in Sicily] near the Seirenes (Sirens), whom rosy Terpsikhore (Terpsichore) brought forth by the stormy embraces of her bull-horned husband Akheloios."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Seirenas (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "The names of the Seirenes (Sirens) : Thelxiepeia, Peisinoe, Ligeia."
+    </p>
+    <hr/>
+    <h3 id="Persephone">
+     SIRENS HANDMAIDENS OF PERSEPHONE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Euripides, Helen 167 ff (trans. Vellacott) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Helene of Troy speaks :] ‘Winged maidens, virgin daughters of Gaia (Gaea, Earth), the Seirenes (Sirens), may you come to my mourning with Libyan flute or pipe or lyre, tears to match my plaintive woes; grief for grief and mournful chant for chant, may Persephone send choirs of death in harmony with my lamentation, so that she may receive as thanks from me, in addition to my tears, a paean for the departed dead beneath her gloomy roof.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 892 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Lovely Terpsikhore (Terpsichore), one of the Mousai (Muses), had borne them [Seirenes (Sirens)] to Akheloos (Achelous), and at one time they had been handmaids to Demeter's gallant Daughter [Persephone], before she was married, and sung to her in chorus. But now, half human and half bird in form, they spent their time watching for ships from a height that overlooked their excellent harbour; and many a traveller, reduced by them to skin and bones, had forfeited the happiness of reaching home."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 141 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Sirenes (Sirens), daughter of the River Achelous and the Muse Melpomene, wandering away after the rape of Proserpina [Persephone], came to the land of Apollo, and there were made flying creatures by the will of Ceres [Demeter] because they had not brought help to her daughter. It was predicted that they would live only until someone who heard their singing would pass by."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 552 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The Acheloides [Seirenes (Sirens)], why should it be that they have feathers now and feet of birds, though still a girl's fair face, the sweet-voiced Sirenes? Was it not because, when Proserpine [Persephone] was picking those spring flowers, they were her comrades there, and, when in vain they’d sought for her through all the lands, they prayed for wings to carry them across the waves, so that the seas should know their search, and found the gods gracious, and then suddenly saw golden plumage clothing all their limbs? Yet to reserve that dower of glorious song, their melodies' enchantment, they retained their fair girls' features and their human voice."
+    </p>
+    <hr/>
+    <h3 id="Mousai">
+     CONTEST OF THE SIRENS &amp; MUSES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 34. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[At Koroneia (Coronea) in Boiotia (Boeotia)] is a sanctuary of Hera . . . in her [the statue's] hands she carried the Seirenes (Sirens). For the story goes that the daughters of Akheloios (Achelous) were persuaded by Hera to compete with the Mousai (Muses) in singing. The Mousai won, plucked out the Seirenes' feathers and made crowns for themselves out of them."
+    </p>
+    <hr size="2"/>
+    <h3 id="Kentauroi">
+     SIRENS &amp; THE DEATH OF THE CENTAURS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 648 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Others [Odysseus] shall wander . . . the narrow meet of the Tyrrhenian Strait and the watching-place fatal to the hybrid monsters [the Kentauroi (Centaurs)] . . . and the rocks of the harpy-limbed nightingales [Seirenes]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ptolemy Hephaestion, New History Book 6 (summary from Photius, Myriobiblon 190) (trans. Pearse) (Greek mythographer C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "In the
+     <em>
+      Alexandra
+     </em>
+     which Lykophron (Lycophron) wrote : ‘What sterile nightingale killer of Kentauroi (Centaurs) . . .’, these are the Seirenes (Sirens) who he called killers of Kentauroi (Centaurs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ptolemy Hephaestion, New History Book 5 (summary from Photius, Myriobiblon 190) :
+     </span>
+     <br/>
+     "The Kentauroi (Centaurs) who fled from Herakles (Heracles) through Tyrsenia [in Italy] perished of hunger, ensnared by the soft song of the Seirenes (Sirens)."
+    </p>
+    <hr/>
+    <h3 id="Argonauts">
+     SIRENS &amp; THE VOYAGE OF THE ARGONAUTS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O21.12.html">
+      <img alt="Decorative Siren | Paestan red-figure kylix C4th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/O21.12Seiren_sm.jpg"/>
+     </a>
+     <figcaption>
+      Decorative Siren, Paestan red-figure kylix C4th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 135 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "As they [the Argonauts] sailed past the Seirenes (Sirens), Orpheus kept the Argonauts in check by singing a song that offset the effect of the sisters' singing. The only one to swim off to them was Butes, whom Aphrodite snatched up and settled at Lilybaeum."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 892 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Before long they [the Argonauts] sighted the beautiful island of Anthemoessa, where the clear-voiced Seirenes (Sirens), Akheloios' (Achelous') daughters, used to bewitch with their seductive melodies whatever sailors anchored there. Lovely Terpsikhore (Terpsichore), one of the Mousai (Muses), has borne them to Akheloios, and at one time they had been handmaids to Demeter’s gallant Daughter [Persephone], before she was married, and sung to her in chorus. But now, half human and half bird in form, they spent their time watching for ships from a height that overlooked their excellent harbour; and many a traveller, reduced by them to skin and bones, had forfeited the happiness of reaching home. The Seirenes, hoping to add the Argonauts to these, made haste to greet them with a liquid melody; and the young men would soon have cast their hawsers on the beach if Thrakian Orpheos (Orpheus) had not intervened. Raising his Bistonian lyre, he drew from it the lively tune of a fast-moving song, so as to din their ears with a medley of competing sounds. The girlish voices were defeated by the lure; and the set wind, aided by the sounding backwash from the shore, carried the ship off. The Seirenes’ song grew indistinct; yet even so there was one man, Boutes the noble son of Teleon, who was so enchanted by their sweet voices that before he could be stopped he leapt into the sea from his polished bench. The poor man swam through the dark swell making for the shore, and had he landed, they would soon have robbed him of all hope of reaching home. But Aphrodite, Queen of Eryx, had pity on him. She snatched him up while he was still battling with the surf; and having saved his life, she took him to her heart and found a home for him on the heights of Lilybaion."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 14 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Butes, son of Teleon, though diverted by the singing and lyre of Orpheus, nevertheless was overcome by the sweetness of the Sirens' song, and in an effort to swim to them threw himself into the sea. Venus [Aphrodite] saved him at Lilybaeum, as he was borne along by the waves."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 355 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[On the voyage of the Argonauts :] What, when the deadly pests [Seirenes (Sirens)] soothed the Ausonian sea with their tuneful songs, when, sounding back on his Pierian lyre, Thracian Orpheus well-nigh forced the Siren to follow, though wont to hold ships spell-bound by her song?"
+    </p>
+    <hr/>
+    <h3 id="Odysseus">
+     SIRENS &amp; THE VOYAGE OF ODYSSEUS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O21.2.html">
+      <img alt="Odysseus and the Sirens | Paestan red-figure bell krater C4th B.C | Antikensammlung Berlin" class="img-responsive center-block" src="../image/O21.2Seirenes_sm.jpg"/>
+     </a>
+     <figcaption>
+      Odysseus and the Sirens, Paestan red-figure bell krater C4th B.C,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 12. 39 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Kirke (Circe) warns Odysseus of the dangers of the journey ahead :] ‘You will come to the Seirenes (Sirens) first of all; they bewitch any mortal who approaches them. If a man in ignorance draws too close and catches their music, he will never return to fine wife and little children near him and to see their joy at his homecoming; the high clear tones of the Seirenes will bewitch him. They sit in a meadow; men's corpses lie heaped up all round them, mouldering upon the bones as the skin decays. You must row past there; you must stop the ears of all your crew with sweet wax that you have kneaded, so that none of the rest may hear the song. But if you yourself are bent on hearing, then give them orders to bind you both hand and foot as you stand upright against the mast-stay, with the rope-ends tied to the mast itself; thus you may hear the two Seirenes' voices and be enraptured. If you implore your crew and beg them to release you, then they must bind you fast with more bonds again. 
+  When your crew have rowed past the Seirenes . . . [you reach the Wandering Rocks and the straight of Skylla (Scylla) and Kharybdis (Charybdis)].’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 12. 200 ff :
+     </span>
+     <br/>
+     "Then with heavy heart I [Odysseus] spoke to my comrades thus : ‘Friends it is not right that only one man, or only two, should know the divine decrees that Lady Kirke (Circe) has uttered to me. I will tell you of them, so that in full knowledge we may die or in full knowledge escape, it may be, from death and doom. Her first command was to shun the Seirenes (Sirens)--their enchanting notes, their flowery meadow. I alone was to hear their song, she said. You for your part must bind me with galling ropes as I stand upright against the mast-stay, with the rope-ends tied to the mast itself; then I shall stay there immovably. And if I beg and beseech you to set me free, you must bind me hard with more ropes again.’
+     <br/>
+     Thus I told my comrades and made things plain, point by point. Meanwhile the trim ship sped swiftly on to the island of the Seirenes, wafted still be the favouring breeze. Then of a sudden the wind dropped and everything became hushed and still, because some divinity lulled the waters. My men stood up, furled the sails and stowed them in the ship's hold, then sat at the thwarts and made the sea white with their polished oars of fir. I myself, with my sharp sword, cut a great round of wax into little pieces and set about kneading them with all the strength I had. Under my mighty hands, and under the beams of the lordly sun-god [Helios] whose father is Hyperion, the wax quickly began to melt, and with it I sealed all my comrades' ears in turn. Then they bound me fast, hand and foot, with the rope-ends tied to the mast itself, then again sat down and dipped their oars in the whitening sea.
+     <br/>
+     But them, the Seirenes (Sirens) saw the quick vessel near them and raised their voices in high clear notes : ‘Come hither, renowned Odysseus, hither, you pride and glory of all Akhaia (Achaea)! Pause with your ship; listen to our song. Never has nay man passed this way in his dark vessel and left unheard the honey-sweet music from our lips; first he has taken his delight, then gone on his way a wiser man. We know of all the sorrows in the wide land of Troy that Argives and Trojans bore because the gods would needs have it so; we know all things that come to pass on the fruitful earth.’
+     <br/>
+     So they sang with their lovely voices, and my heart was eager to listen still. I twitched my brows to sign to the crew to let me go, but they leaned to their oars and rowed on; Eurylokhos (Eurylochus) and Perimedes quickly stood up and bound me with more ropes and with firmer hold. But when they had rowed well past the Seirenes--when music and words could be heard no more--my trusty comrades were quick to take out the wax that had sealed their ears, and to rescue and unbind myself. 
+  But the island was hardly left behind when I saw smoke above the heavy breakers and heard a great noise [the whirlpool of Kharybdis (Charybdis)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 13. 322 ff :
+     </span>
+     <br/>
+     "[Odysseus tells Penelope of his travels :] How he heard the Seirenes (Sirens) singing and came to the Wanderers, to grim Kharybdis (Charybdis) and to Skylla (Scylla)."
+    </p>
+    <figure class="image-main image-main-275">
+     <a href="../Gallery/O21.2.html">
+      <img alt="Siren beating  tambourine | Paestan red-figure bell krater C4th B.C | Antikensammlung Berlin" class="img-responsive center-block" src="../image/O21.2CSeirenes.jpg"/>
+     </a>
+     <figcaption>
+      Siren beating tambourine (detail), Paestan red-figure bell krater C4th B.C,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E7. 18 - 19 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Odysseus] sailed past the island of the Seirenes (Sirens). They were the daughters of Akheloios (Achelous) and the Mousa (Muse) Melpomene, and their names were Peisinoe, Aglaope, and Thelxiepeia. One played the cithara, the second sang, and the third played the flute, and in this manner they used to persuade passing sailors to remain with them. From the thighs down they had the shape of birds. As Odysseus sailed past, he wanted to hear their song, so, following Kirke's (Circe's) instructions, he plugged the ears of his comrades with wax, and had them tie him to the mast, When the Sierenes persuaded him to stay with them, he begged to be set free, but his men tied him even tighter, and thus he sailed past. An oracle had said that the Seirenes would die if a ship ever made it past them; and indeed they died."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 648 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Others [Odysseus] shall wander . . . the narrow meet of the Tyrrhenian Strait and the watching-place fatal to mariners of the hybrid monster [Skylla (Scylla)] . . . and the rocks of the harpy-limbed nightingales [Seirenes (Sirens)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 668 ff :
+     </span>
+     <br/>
+     "What Kharybdis (Charybdis) shall not eat of his [Odysseus'] dead? What half-maiden Fury-hound [Skylla (Scylla)]? What barren nightingale [Seiren (Siren)], slayer of the Kentauroi (Centaurs), Aitolis or Kouretis (Curetis), shall not with her varied melody tempt them to waste away through fasting from food?"
+     <br/>
+     [N.B. The Kenaturoi who escaped Herakles were charmed by the song of the Seirenes and forgetting to eat  all perished.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 712 ff :
+     </span>
+     <br/>
+     "And he [Odysseus] shall slay the triple daughters [Seirenes (Sirens)] of Tethys' son [Akheloos (Achelous)], who imitated the strains of their melodious mother [Melpomene]: self-hurled from the cliff's top they dive with their wings into the Tyrrhenian Sea, where the bitter thread spun by the Moirai (the Fates) shall draw them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Athenaeus, Deipnosophistae 1. 14d (trans. Gullick) (Greek rhetorician C2nd to C3rd A.D.) :
+     </span>
+     <br/>
+     "The Seirens (Sirens) sing to Odysseus the things most likely to please him, reciting what would appeal to his ambition and knowledge. ‘For we know,’ say they, ‘all other things and all that shall befall upon the fruitful earth as well.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 125 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Odysseus] came to the Sirenes (Sirens), daughters of the Muse Melpomene and Achelous, women in the upper parts of their bodies but bird below. It was their fate to live only so long as mortals who heard their song failed to pass by. Ulysses [Odysseus], instructed by Circe, daughter of Sol [Helios the Sun], stopped up the ears of his comrades with wax, had himself bound to the wooden mast, and thus sailed by."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 141 :
+     </span>
+     <br/>
+     "The Sirenes (Sirens), daughter of the River Achelous and the Muse Melpomene . . . It was predicted that they would live only until someone who heard their singing would pass by. Ulysses [Odysseus] proved fatal to them, for when by his cleverness he passed by the rocks where they dwelt, they threw themselves into the sea. This place is called Sirenides from them, and is between Sicily and Italy."
+     <span class="quote-greek">
+     </span>
+    </p>
+    <hr/>
+    <h3 id="Telemakhos">
+     SIRENS &amp; THE DEATH OF TELEMACHUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Ptolemy Hephaestion, New History Book 7 (summary from Photius, Myriobiblon 190) (trans. Pearse) (Greek mythographer C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "Telemakhos (Telemachus) was put to death by the Seirenes (Sirens) when they learned that he was the son of Odysseus."
+    </p>
+    <hr/>
+    <h3 id="Miscellany">
+     SIRENS POETIC MISCELLANY
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/O21.1.html">
+      <img alt="Decorative Siren | Apulian red-figure loutrophoros C4th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/O21.1Seiren.jpg"/>
+     </a>
+     <figcaption>
+      Decorative Siren, Apulian red-figure loutrophoros C4th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 1 (trans. Campbell, Vol. Greek Lyric II) (Greek lyric C7th B.C.) :
+     </span>
+     <br/>
+     "She is of course not more melodious than the Serenides (Sirens), for they are goddesses."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 30 :
+     </span>
+     <br/>
+     "The Mosa (Muse) cries out, that clear-voiced Seren (Siren)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 403d (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[Plato uses the Seirenes (Sirens) in a metaphor on the binding power of death :] He [Haides] binds with the desire which is the strongest of all, if he is to restrain them with the strongest bond . . . No one has been willing to come away from that other world, not even the Seirenes (Sirens), but they and all others have been overcome by his [death's] enchantments."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 21. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Down to the present day men are wont to liken to a Seiren (Siren) whatever is charming in both poetry and prose."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 17. 23 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "But for beauty and clarity of tone their [an Indian bird's] singing is unsurpassed; they might be, if the expression is not too strong, Seirenes (Sirens), for these fabled maidens as celebrated by poets and portrayed by artists had wings."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 17. 12 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of a painting of imaginary islands :] A parrot and a magpie in a woven cage sing like Seirenes (Sirens) on the island."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 14. 85 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The fleet [of Aeneas] . . . cast off and left behind Hippotades' [Aiolos' (Aeolus')] domain, the smoking land of sulphur fumes, and the three Sirenes Acheloiades' (daughter of Achelous') rock."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 2. 1. 10 (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "The triple chant of the Sicilian maidens [Seirenes (Sirens)] wafted hither."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 3. 82 :
+     </span>
+     <br/>
+     "The Tyrrhenian winged maids [Seirenes' (Sirens')] chant to mariners from the fatal cliff."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 5. 12 (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "Like Sireni (Sirens) they lean out over the crag, and make the rocks resound with the death-dealing cries!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 10 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "When a sailor hears the Seiren's (Siren's) perfidious song, and bewitched by the melody, he is dragged to a self-chosen fate too soon; no longer he cleaves the waves, no longer he whitends the blue water with his oars unwetted now, but falling into the net of melodious Moira (Fate), he forgets to steer, quite happy, caring not for the seven starry Pleiades and the Bear’s circling course."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 22. 1 ff :
+     </span>
+     <br/>
+     "Sang a melody of Sikelian (Sicilian) tune like the hymns which the minstrel Seirenes (Sirens) pour from their honeytongued throats."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Seirenas (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Seirenes (Sirens) : Seirenes were women with lyric voices who, in bygone Greek myth, dwelled on a small island and so enticed passing sailors with their beautiful voices that crews steered in and perished there. From their chests up they had the form of sparrows, below they were women. Mythologers say that they were little birds with women's faces who beguiled sailors as they passed by, bewitching with lewd songs the hearing of those harkening to them. And the song of pleasure has no good consequence, only death. But the truth of the matter is this, that there are narrow straits in the sea created by certain mountains in which the compressed rush of water sends up a sort of melodious lilt; when those who sail by hear it, they trust their lives to the rushing water and perish, with crews and ships . . . Also in the
+     <em>
+      Epigrams
+     </em>
+     , ‘And that talking is sweeter than Seirenes.’ The names of the Seirenes : Thelxiepeia, Peisinoe, Ligeia; Anthemousa the island they inhabited."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Sereneion melos :
+     </span>
+     <br/>
+     "
+     <em>
+      Seireneion melos
+     </em>
+     (Siren Song)."
+    </p>
+    <hr size="2"/>
+    <h3 id="Cult">
+     CULT OF THE SIRENS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z41.1B.html">
+      <img alt="Odysseus and the Sirens | Greco-Roman mosaic from Dougga | Bardo National Museum, Tunis" class="img-responsive center-block" src="../image/Z41.1BSeirenes.jpg"/>
+     </a>
+     <figcaption>
+      Odysseus and the Sirens, Greco-Roman mosaic from Dougga,
+      <a href="http://www.bardomuseum.tn/" target="_blank">
+       Bardo National Museum
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I. NAPLES (NEAPOLIS) Town in Campania (Kampania) (Southern Italy)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 712 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "And he [Odysseus] shall slay the triple daughters [Seirenes (Sirens)] of Tethys' son [Akheloos (Achelous)], who imitated the strains of their melodious mother [Melpomene] : self-hurled from the cliff's top they dive with their wings into the Tyrrhenian Sea, where the bitter thread spun by the Moirai (the Fates) shall draw them. One of them [Parthenope] washed ashore the tower of Phaleros shall receive, and Glanis wetting the earth with its streams. There the inhabitants shall build a tomb for the maiden and with libations and sacrifice of oxen shall yearly honour the bird goddess Parthenope. And Leukosia (Leucosia) shall be cast on the jutting strand of Enipeus and shall long haunt the rock that bears her name, where rapid Is and neighbouring Laris pour forth their waters. And Ligeia shall come ashore at Tereina spitting out the wave. And her shall sailormen bury on the stony beach nigh to the eddies of Okinaros (Ocinarus); and an ox-horned Ares shall lave her tomb with his streams, cleansing with his waters the foundation of her whose children were turned into birds. And there one day in honour of the first goddess [Parthenope] of the sisterhood shall the ruler of the navy of Popsops [historical Athenian admiral Diotimos] array for his mariners a torch-race, in obedience to an oracle, which one day the people of the Neapolitans shall celebrate."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 5. 4. 7 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "A monument of Parthenope, one of the Seirenes (Sirens), is pointed out in Neapolis [Naples in Italy], an in accordance with an oracle a gymnastic contest is celebrated there."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 5. 4. 8 :
+     </span>
+     <br/>
+     "Surrenton [in Italy], a city of the Kampanoi (Campania), whence the Athenaion (Athenaeum, temple of Athena) juts forth into the sea, which some call the Cape of Seirenoussai (Sirenussae) (of the Sirens) . . . It is only a short voyage from here across to the island of Kaprea (Capri); and after doubling the cape you come to desert, rocky isles, which are the called the Seirenes (Sirens)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 6. 1. 1 :
+     </span>
+     <br/>
+     "Sailing out past the gulf [Poseidonian Gulf of Leukania in Italy], one comes to Leukosia (Leucosia), an island, from which it is only a short voyage across to the continent. The island is named after one of the Seirenes (Sirens), who was cast ashore here after the Seirenes had flung themselves, as the myth has it, into the depths of the sea [following their encounter with Odysseus]. In front of the island lies that promontory which is opposite the Seirenoussai (Sirenussae) and with them forms the Poseidonian Gulf."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 4. 563 (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "I, Virgil, was nursed by sweet Parthenope [i.e. the town of Naples, where the Seiren (Siren) was worshipped], and rejoiced in the arts of inglorious ease."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 3. 61 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "On the coast stands Neapolis (Naples) . . . [also] named Parthenope from the tomb of one of the Sirenes (Sirens)."
+    </p>
+    <h4>
+     II. LEUCASIA (LEUKASIA) Island near Paestanum (Paistanon) (Southern Italy)
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 3. 85 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "[In southern Italy :] Opposite to the Bay of Paestanum is [the island of] Leucasia [la Licosa] after the Siren buried there."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.3.html">
+        <img alt="Thumbnail Odysseus &amp; the Sirens" src="../image/thumbO21.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.3 Odysseus &amp; the Sirens
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.2.html">
+        <img alt="Thumbnail Odysseus &amp; the Sirens" src="../image/thumbO21.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.2 Odysseus &amp; the Sirens
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.5.html">
+        <img alt="Thumbnail Odysseus &amp; the Sirens" src="../image/thumbO21.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.5 Odysseus &amp; the Sirens
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.6.html">
+        <img alt="Thumbnail Odysseus &amp; the Sirens" src="../image/thumbO21.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.6 Odysseus &amp; the Sirens
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.11.html">
+        <img alt="Thumbnail Decorative Siren" src="../image/thumbO21.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.11 Decorative Siren
+        </h3>
+        <p>
+         Campanian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.1.html">
+        <img alt="Thumbnail Decorative Siren" src="../image/thumbO21.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.1 Decorative Siren
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.12.html">
+        <img alt="Thumbnail Decorative Siren" src="../image/thumbO21.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.12 Decorative Siren
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.4.html">
+        <img alt="Thumbnail Odysseus &amp; the Sirens" src="../image/thumbO21.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.4 Odysseus &amp; Siren
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.7.html">
+        <img alt="Thumbnail Decorative Siren" src="../image/thumbO21.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.7 Decorative Siren
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O21.8.html">
+        <img alt="Thumbnail Decorative Siren" src="../image/thumbO21.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O21.8 Decorative Siren
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z41.1.html">
+        <img alt="Thumbnail Sirens on the Rocks" src="../image/thumbZ41.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z41.1 Sirens on the Rocks
+        </h3>
+        <p>
+         Greco-Roman Dougga Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z41.1B.html">
+        <img alt="Thumbnail Odysseus' Ship &amp; Sirens" src="../image/thumbZ41.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z41.1B Odysseus' Ship &amp; Sirens
+        </h3>
+        <p>
+         Greco-Roman Dougga Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1B.html">
+       Greek Lyric I Alcman, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Argonautica Orphica 1271 &amp; 1284, Eustathius on Homer's Odyssey 1709, Tzetzes on Lycophron 712, Servius on Virgil's Eclogues 4.562, Servius on Virgil's Aeneid 5.364, Plutarch Table-Talk 9.14.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     SIRENS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE SIRENS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Achelous and Melpomene
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Bodies of birds, heads of women
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Island of Anthemoessa
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     SIRENS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of the Sirens
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Names">
+       Names of the Sirens
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of the Sirens
+      </a>
+     </li>
+     <li>
+      <a href="#Persephone">
+       Sirens Handmaidens of Persephone
+      </a>
+     </li>
+     <li>
+      <a href="#Mousai">
+       Contest of the Sirens &amp; Muses
+      </a>
+     </li>
+     <li>
+      <a href="#Kentauroi">
+       Sirens &amp; the Death of the Centaurs
+      </a>
+     </li>
+     <li>
+      <a href="#Argonauts">
+       Sirens &amp; the Voyage of the Argonauts
+      </a>
+     </li>
+     <li>
+      <a href="#Odysseus">
+       Sirens &amp; the Voyage of Odysseus
+      </a>
+     </li>
+     <li>
+      <a href="#Telemakhos">
+       Sirens &amp; the Death of Telemachus
+      </a>
+     </li>
+     <li>
+      <a href="#Miscellany">
+       Sirens Miscellany
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Cult of the Sirens
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

@@ -1,0 +1,3144 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   MEDUSA &amp; GORGONS (Medousa &amp; Gorgones) - Snake-Haired Monsters of Greek Mythology
+  </title>
+  <meta content="In Greek mythology the Gorgons were three powerful, winged daemons named Medusa, Sthenno and Euryale. Of the three sisters only Medusa was mortal. King Polydectes of Seriphus once commanded the hero Perseus to fetch her head. He accomplished this with the help of the gods who equipped him with a reflective shield, a curved sword, winged boots and helm of invisibility. When he fell upon Medusa and decapitated her, two creatures sprang forth from the wound--the winged horse Pegasus and the giant Chrysaor. Perseus fled with the monster's head in a sack and her two angry sisters chasing close on his heels." name="description"/>
+  <meta content="Medusa, Gorgons, Medousa, Gorgones, Greek mythology, Medusa pictures, Gorgons pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sea.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt; Gorgons &amp; Medusa (Gorgones &amp; Medousa)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     GORGONES &amp; MEDOUSA
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Γοργω Γοργον Γοργονες
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Gorgô, Gorgon, Gorgones
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Gorgon, Gorgones
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Terrible, Fierce (
+       <em>
+        gorgos
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/P23.3.html">
+      <img alt="Gorgoneion | Athenian red-figure hydria C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/P23.3Gorgon.jpg"/>
+     </a>
+     <figcaption>
+      Gorgoneion, Athenian red-figure hydria C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE GORGONES (Gorgons) were three powerful, winged
+     <em>
+      daimones
+     </em>
+     named Medousa (Medusa), Sthenno and Euryale. Of the three sisters only Medousa was mortal. King Polydektes of Seriphos once commanded the hero
+     <a href="../Heros/Perseus.html">
+      Perseus
+     </a>
+     to fetch her head. He accomplished this with the help of the gods who equipped him with a reflective shield, a curved sword, winged boots and helm of invisibility. When he fell upon Medousa and decapitated her, two creatures sprang forth from the wound--the winged horse Pegasos (Pegasus) and the giant Khrysaor (Chrysaor). Perseus fled with the monster's head in a sack and  her two angry sisters chasing close on his heels.
+    </p>
+    <p>
+     According to late classical poets, Medousa was once a beautiful woman who was transformed into a monster by Athena as punishment for lying with Poseidon in her shrine. Earlier Greek writers and artists, however, simply portray her as a monster born into a large family of monsters.
+    </p>
+    <p>
+     The three Gorgones were depicted in ancient Greek vase painting and sculpture as winged women with broad, round heads, serpentine locks of hair, large staring eyes, wide mouths, lolling tongues, the tusks of swine, flared nostrils, and sometimes short, coarse beards. 
+  Medousa was humanised in late classical art with the face of a beautiful woman. In mosaic art her round face was wreathed with coiling snakes and adorned with a pair of small wings on the brow.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE GORGONS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="Phorkys.html">
+      PHORKYS
+     </a>
+     &amp;
+     <a href="Keto.html">
+      KETO
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 270, Apollodorus 1.10)
+     </span>
+     <br/>
+     [1.2]
+     <a href="Phorkys.html">
+      PHORKYS
+     </a>
+     <span class="family-refs">
+      (Aeschylus Prometheus Bound 794, Pausanias 2.21.5, Nonnus Dionysiaca 24.270)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Titan/GorgoAix.html">
+      GORGO
+     </a>
+     &amp;
+     <a href="Keto.html">
+      KETO
+     </a>
+     <span class="family-refs">
+      (Hyginus Pref &amp; Fabulae 151)
+     </span>
+    </p>
+    <h3>
+     NAMES
+    </h3>
+    <p>
+     [1.1] MEDOUSA, EURYALE, STHENNO
+     <span class="family-refs">
+      (Hesiod Theogony 270, Pindar Pythian 12, Apollodorus 2.39, Hyginus Pref, Nonnus Dionysiaca 40.227)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING OF MEDOUSA
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Ther/HipposPegasos.html">
+      PEGASOS
+     </a>
+     ,
+     <a href="../Ther/Khrysaor.html">
+      KHRYSAOR
+     </a>
+     (by
+     <a href="../Olympios/Poseidon.html">
+      Poseidon
+     </a>
+     )
+     <span class="family-refs">
+      (Hesiod Theogony 278, Apollodorus 2.40, Lycophron 840, Hyginus Pref, Nonnus Dionysiaca 31.13)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     GORGO and GO′RGONES (Gorgô and Gorgones). Homer knows only one Gorgo, who, according to the Odyssey (xi. 633), was one of the frightful phantoms in Hades: in the Iliad (v. 741, viii. 349, xi. 36; comp. Virg.
+     <em>
+      Aen.
+     </em>
+     vi. 289), the Aegis of Athena contains the head of Gorgo, the terror of her enemies. Euripides (
+     <em>
+      Ion,
+     </em>
+     989) still speaks of only one Gorgo, although Hesiod (
+     <em>
+      Theog.
+     </em>
+     278) had mentioned three Gorgones, the daughters of Phorcys and Ceto, whence they are sometimes called Phorcydes or Phorcides. (Aeschyl.
+     <em>
+      Prom.
+     </em>
+     793, 797; Pind.
+     <em>
+      Pyth.
+     </em>
+     xii. 24; Ov.
+     <em>
+      Met.
+     </em>
+     v. 230.) The names of the three Gorgones are Stheino (Stheno or Stenusa), Euryale, and Medusa (Hes.
+     <em>
+      l. c.
+     </em>
+     ; Apollod. ii. 4. § 2), and they are conceived by Hesiod to live in the Western Ocean, in the neighbourhood of Night and the Hesperides. But later traditions place them in Libya. (Herod. ii. 91; Paus. ii. 21. § 6.) They are described (
+     <em>
+      Scut. Here.
+     </em>
+     233) as girded with serpents, raising their heads, vibrating their tongues, and gnashing their teeth; Aeschylus (
+     <em>
+      Prom.
+     </em>
+     794. &amp;c.,
+     <em>
+      Choëph.
+     </em>
+     1050) adds that they had wings and brazen claws, and enormous teeth. On the chest of Cypselus they were likewise represented with wings. (Paus. v. 18. § 1.) Medusa, who alone of her sisters was mortal, was, according to some legends, at first a beautiful maiden, but her hair was changed into serpents by Athena, in consequence of her having become by Poseidon the mother of Chrysaor and Pegasus, in one of Athena's temples. (Hes.
+     <em>
+      Theog.
+     </em>
+     287, &amp;c.; Apollod. ii. 4. § 3; Ov.
+     <em>
+      Met.
+     </em>
+     iv. 792; comp. Perseus.) Her head was now of so fearful an appearance, that every one who looked at it was changed into stone. Hence the great difficulty which Perseus had in killing her; and Athena afterwards placed the head in the centre of her shield or breastplate. There was a tradition at Athens that the head of Medusa was buried under a mound in the Agora. (Paus. ii. 21. § 6, v. 12. § 2.) Athena gave to Heracles a lock of Medusa (concealed in an urn), for it had a similar effect upon the beholder as the head itself. When Heracles went out against Lacedaemon he gave the lock of hair to Sterope, the daughter of Cepheus, as a protection of the town of Tegea, as the sight of it would put the enemy to fight. (Paus. viii. 47. § 4; Apollod. ii. 7. § 3.)
+    </p>
+    <p>
+     The mythus respecting the family of Phorcys, to which also the Graeae, Hesperides, Scylla, and other fabulous beings belonged, has been interpreted in various ways by the ancients themselves. Some believed that the Gorgones were formidable animals with long hair, whose aspect was so frightful, that men were paralysed or killed by it, and some of the soldiers of Marius were believed to have thus met with their death (Athen. v. 64). Pliny (
+     <em>
+      H. N.
+     </em>
+     iv. 31) thought that they were a race of savage, swift, and hair-covered women; and Diodorus (iii. 55) regards them as a race of women inhabiting the western parts of Libya, who had been extirpated by Heracles in traversing Libya.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2 id="Names">
+     NAMES OF THE GORGONS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ευρυαλη
+      </p>
+      <p class="names-greek">
+       Σθεννω Σθεινω
+      </p>
+      <p class="names-greek">
+       Μεδουσα Μεδουση
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Euryalê
+      </p>
+      <p>
+       Sthennô, Stheinô
+      </p>
+      <p>
+       Medousa, Medousê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Euryale
+      </p>
+      <p>
+       Sthenno
+      </p>
+      <p>
+       Medusa
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Wide-Stepping (
+       <em>
+        euryalê
+       </em>
+       ) *
+      </p>
+      <p>
+       Strong (
+       <em>
+        sthenos
+       </em>
+       )
+      </p>
+      <p>
+       Guardian, Queen (
+       <em>
+        medeôn
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <p>
+     * Euryale may also mean "of the wide briny sea" from
+     <em>
+      eury-
+     </em>
+     ,
+     <em>
+      hals
+     </em>
+     , an appropriate name for a daughter of sea-gods.
+    </p>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE &amp; GENERAL DESCRIPTIONS OF THE GORGONS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/P23.1B.html">
+      <img alt="Gorgon Medusa | Athenian red-figure amphora C5th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/P23.1BMedousa.jpg"/>
+     </a>
+     <figcaption>
+      Gorgon Medusa, Athenian red-figure amphora C5th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 270 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And to Phorkys (Phorcys) Keto (Ceto) bore the Graiai (Graeae), with fair faces and gray from birth, and these the gods who are immortal and men who walk on the earth call Graiai, the gray sisters, Pemphredo robed in beauty and Enyo robed in saffron, and the Gorgones (Gorgons) who, beyond the famous stream of Okeanos (Oceanus), live in the utmost place toward night, by the singing Hesperides : they are Sthenno, Euryale, and Medousa (Medusa), whose fate is a sad one, for she was mortal, but the other two immortal and ageless both alike. Poseidon, he of the dark hair, lay with one of these, in a soft meadow and among spring flowers. But when Perseus had cut off the head of Medousa there sprang from her blood great Khrysaor (Chrysaor) and the horse Pegasos (Pegasus) so named from the springs (
+     <em>
+      pegai
+     </em>
+     ) of Okeanos, where she was born."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stasinus of Cyprus or Hegesias of Aegina, Cypria Fragment 21 (from Herodian, One Peculiar Diction) (trans. Evelyn-White) (Greek epic C7th or C6th B.C.) :
+     </span>
+     <br/>
+     "By him [Phorkys (Phorcys)] she [Keto (Ceto)] conceived and bare the Gorgones (Gorgons), fearful monsters who lived in Sarpedon, a rocky island in deep-eddying Okeanos (Oceanus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 788 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Prometheus warns the wandering cow-maid Io of the perils she will face on her journey :] First, to you, Io, will I declare your much-vexed wandering, and may you engrave it on the recording tablets of your mind. When you have crossed the stream that bounds the two continents [probably the Red Sea], toward the flaming east, where the sun walks [text missing] crossing the surging sea until you reach the Gorgonean plains of Kisthene (Cisthene), where the Phorkides (Phorcides)  dwell, ancient maids, three in number, shaped like swans, possessing one eye amongst them and a single tooth; neither does the sun with his beams look down upon them, nor ever the nightly moon. And near them are their three winged sisters, the snake-haired (
+     <em>
+      drakontomalloi
+     </em>
+     ) Gorgones (Gorgons), loathed of mankind, whom no one of mortal kind shall look upon and still draw breath. Such is the peril that I bid you to guard against."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 10 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Phorkys (Phorcys) and Keto (Ceto) had [offspring] the Phorkides (Phorcides) and the Gorgones (Gorgons)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 5. 38 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[Depicted on the shield of Akhilleus (Achilles) :] There were the ruthless Gorgones (Gorgons) : through their hair horribly serpents coiled with flickering tongues."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Gorgon and Ceto [were born] : Sthenno, Euryale, Medusa."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 151 :
+     </span>
+     <br/>
+     "From Typhon the giant and Echidna were born Gorgon . . . From Medusa, daughter of Gorgon, and Neptunus [Poseidon], were born Chrysaor and horse Pegasus."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Gorgones Tithrasiai (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Gorgones Tithrasiai (Tithrasian Gorgons) : Tithrasos [is a] river, or a location in Libya, where the Gorgones resided."
+    </p>
+    <hr/>
+    <h3 id="Gorgo">
+     ZEUS' SLAYING OF THE ELDER GORGO
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 13 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "But when Jupiter [Zeus], confident in his youth, was preparing for war against the Titanes (Titans), oracular reply was given to him that if he wished to win, he should carry on the war protected with the skin of a goat, aigos, and the head of the Gorgon. The Greeks call this the aegis. When this was done, as we have shown above, Jupiter [Zeus], overcoming the Titanes, gained possession of the kingdom."
+    </p>
+    <hr/>
+    <h3 id="Poseidon">
+     POSEIDON'S SEDUCTION OF MEDUSA
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 270 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Poseidon, he of the dark hair, lay with one of these [Medousa (Medusa), one of the Gorgones], in a soft meadow and among spring flowers."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 770 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Medousa (Medusa)] was violated in Minerva's [Athena's] shrine by the Lord of the Sea (
+     <em>
+      Rector Pelagi
+     </em>
+     ) [Poseidon]. Jove's [Zeus'] daughter turned away and covered with her shield her virgin's eyes. And then for fitting punishment transformed the Gorgo's lovely hair to loathsome snakes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 119 ff :
+     </span>
+     <br/>
+     "As a bird, [Medousa (Medusa)] the snake-tressed mother of the flying steed [Pegasos (Pegasus)] [was seduced by Poseidon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 19. 129 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Neptune [Poseidon], wert thou mindful of thine own heart's flames, thou oughtst let no love be hindered by the winds--if neither Amymone, nor Tyro much bepraised for beauty, are stories idly charged to thee, nor shining Alcyone, and Calyce, child of Hecataeon, nor Medusa when her locks were not yet twined with snakes, nor golden-haired Laodice and Celaeno taken to the skies, nor those whose names I mind me of having read. These, surely, Neptune, and many more, the poets say in their songs have mingled their soft embraces with thine own."
+    </p>
+    <hr/>
+    <h3 id="Athene">
+     ATHENA &amp; THE MONSTROUS TRANSFORMATION OF MEDUSA
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 46 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "It is affirmed by some that Medousa (Medusa) was beheaded because of Athene (Athena), for they say the Gorgon had been willing to be compared with Athene in beauty."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 770 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[After slaying the Gorgon, Perseus travelled to the land of the Aithiopians (Ethiopians) :] A chief, one of their number, asked [Perseus] why she [Medousa (Medusa)] alone among her sisters wore that snake-twined hair, and Perseus answered : ‘What you ask is worth the telling; listen and I'll tell the tale. Her beauty was far-famed, the jealous hope of many a suitor, and of all her charms her hair was loveliest; so I was told by one who claimed to have seen her. She, it's said, was violated in Minerva's [Athena's] shrine by the Lord of the Sea (
+     <em>
+      Rector Pelagi
+     </em>
+     ) [Poseidon]. Jove's [Zeus'] daughter turned away and covered with her shield her virgin's eyes. And then for fitting punishment transformed the Gorgo's lovely hair to loathsome snakes. Minerva [Athena] still, to strike her foes with dread, upon her breastplate wears the snakes she made.’"
+    </p>
+    <hr/>
+    <h3 id="Perseus">
+     PERSEUS &amp; THE  BEHEADING OF MEDUSA
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/P23.6.html">
+      <img alt="Perseus slaying Medusa | Athenian red-figure pelike C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/P23.6Medousa_sm.jpg"/>
+     </a>
+     <figcaption>
+      Perseus slaying Medusa, Athenian red-figure pelike C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 270 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "When Perseus had cut off the head of Medousa (Medusa) there sprang from her blood great Khrysaor (Chrysaor) and the horse Pegasos (Pegasus) so named from the springs (
+     <em>
+      pegai
+     </em>
+     ) of Okeanos (Oceanus), where she was born."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Shield of Heracles 220 ff :
+     </span>
+     <br/>
+     "[Among the scenes depicted on the shield of Herakles (Heracles):] On Perseus' feet were the flying sandals, and across his shoulders was slung the black-bound sword, suspended on a sword-belt of bronze, and he hovered like a thought in the mind, and all his back was covered with the head of the monster, the dreaded Gorgo [i.e. Medousa], and the bag floated about it, a wonder to look at, done in silver, but the shining tassels fluttered, and they were gold, and the temples of the lord Perseus were hooded over by the war-cap of Haides, which confers terrible darkness. The son of Danae, Perseus himself, sped onward like one who goes in haste or terror, as meanwhile the rest of the Gorgones (Gorgons) tumbled along behind him, unapproachable, indescribable, straining to catch and grab him, and on the green of the steel surface gibbered the sound of their feet on the shield running with a sharp high noise, and on the belts of the Gorgones a pair of snakes were suspended, but they reared and bent their heads forward and flickered with their tongues. The teeth for their rage were made jagged and their staring fierce, and over the dreaded heads of the Gorgones was great Panic shivering."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 12. 12 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Perseus o'er [Medousa (Medusa)] the third of those fell sisters [the Gorgones] launched his cry of triumph . . . he had made blind the grim offspring of Phorkys (Phorcys)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 13. 64 :
+     </span>
+     <br/>
+     "The snake-head Gorgon's offspring, Pegasos (Pegasus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Phorcides (lost play) (Greek tragedy C5th B.C.) :
+      <br/>
+     </span>
+     The
+     <em>
+      Phorcides
+     </em>
+     was the second of a trilogy of plays describing the story of Perseus. The plot revolved around Perseus' quest for the head of Medousa (Medusa). The Graiai (Graeae), sisters of the Gorgones, formed the chorus.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 145 Phorcides (from Athenaeus, Deipnosophists ix. 65) (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+      <br/>
+     </span>
+     "[Perseus enters the cave of the Gorgones :] Into the cave he rushed like a wild boar."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Alcestis 511 ff (trans. Vellacott) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "He turns away as he reaches out his hand behind him and grasps her hand. There, I stretch it out, as if I were cutting off a Gorgo's head."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 38 - 46 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[The Graiai (Graeae)] directed him [Perseus] to the Nymphai (Nymphs). These Nymphai had in their possession winged sandals and the
+     <em>
+      kibisis
+     </em>
+     , which they say was a knapsack. Pindar and Hesiod in the
+     <em>
+      Shield of Herakles
+     </em>
+     , describe Perseus as follows : ‘The head of a terrible monster, Gorgo, covered all his back, and a
+     <em>
+      kibisis
+     </em>
+     held it.’ . . . They also had the helmet of Hades . . . Approaching the Nymphai (Nymphs) he received what he had come for, and he flung on the
+     <em>
+      kibisis
+     </em>
+     , tied the sandals on his ankles, and placed the helmet on his head. With the helmet on he could see whomever he cared to look at, but was invisible to others. He also received from Hermes a sickle made of adamant.
+     <br/>
+     Perseus took flight and made his way to Okeanos (Oceanus), where he found the Gorgones (Gorgons) sleeping. Their names were Stheno, Euryale and the third was Medousa (Medusa), the only mortal one: thus it was her head that Perseus was sent to bring back. The Gorgones' heads were entwined with the horny scales of serpents, and they had big tusks like hogs, bronze hands, and wings of gold on which they flew. All who looked at them were turned to stone. Perseus, therefore, with Athene guiding his hand, kept his eyes on the reflection in a bronze shield as he stood over the sleeping Gorgones, and when he saw the image of Medousa, he beheaded her. As soon as her head was severed there leaped from her body the winged horse Pegasos (Pegasus) and Khrysaor (Chrysaor) the father of Geryon. The father of these two was Poseidon. Perseus then placed the head in the
+     <em>
+      kibisis
+     </em>
+     and headed back again, as the Gorgones pursued him through the air. But the helmet kept him hidden, and made it impossible for them to identify him . . .
+     <br/>
+     Athena placed the Gorgo's head in the center of her shield. It is affirmed by some that Medousa was beheaded because of Athene, for they say the Gorgon had been willing to be compared with Athene in beauty."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 840 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The harvester [Perseus] who delivered of her pains in birth of horse and man the stony-eyed weasel [Medousa] whose children sprang from her neck. Fashioning men as statues from top to toe he shall envelope them in stone--he that stole the lamp of his three wandering guides."
+     <br/>
+     [N.B. "The harvester" is Perseus; "the horse and man" are Pegasos and Khrysaor (Chrysaor); "the weasel" is Medousa, as the Greeks believed weasels birthed their young from their throats; and " the three wandering guides" are the Graiai.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 190 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[Depicted on the quiver of Herakles (Heracles) :] There Perseus slew Medousa (Medusa) gorgon-eyed by the stars' baths and utmost bounds of earth and fountains of deep-flowing Okeanos (Oceanus), where night in the far west meets the setting sun."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 8. 6. 21 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Pegasos, a winged horse which sprang from the neck of the Gorgon Medousa (Medusa) when her head was cut off."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 23. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[On the Akropolis of Athens  is dedicated a sculpture :] Myron's Perseus after beheading Medousa (Medusa)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 20. 7 :
+     </span>
+     <br/>
+     "Beside the sanctuary of [the river] Kephisos (Cephisus) [at Argos] is a head of Medousa (Medusa) made of stone, which is said to be another of the works of the Kyklopes (Cyclopes)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 21. 5 - 6 :
+     </span>
+     <br/>
+     "[Pausanias presents a rationalisation of the Medousa myth :] In the market-place of Argos is a mound of earth, in which they say lies the head of the Gorgon Medousa (Medusa). I omit the miraculous, but give the rational parts of the story about her. After the death of her father, Phorkys (Phorcys), she reigned over those living around Lake Tritonis, going out hunting and leading the Libyans to battle. On one such occasion, when she was encamped with an army over against the forces of Perseus, who was followed by picked troops from the Peloponnesos, she was assassinated by night. Perseus, admiring her beauty even in death, cut off her head and carried it to show the Greeks. But Prokles (Procles), the son of Eukrates (Eucrates), a Carthaginian, thought a different account more plausible that the preceding. It is as follows. Among the incredible monsters to be found in the Libyan desert are wild men and wild women. Prokles affirmed that he had seen a man from them who had been brought to Rome. So he guessed that a woman from them, reached Lake Tritonis, and harried the neighbours until Perseus killed her; Athena was supposed to have helped him in this exploit, because the people who live around Lake Tritonis are sacred to her."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/P23.7.html">
+      <img alt="Perseus, beheaded Medusa and Athena | Athenian red-figure hydria C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/P23.7Medousa_sm.jpg"/>
+     </a>
+     <figcaption>
+      Perseus, beheaded Medusa and Athena, Athenian red-figure hydria C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 27. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[On the throne of Asklepios (Asclepius) at Epidauros in Argolis] are wrought in relief the exploits of Argive heroes . . . [including] Perseus, who has cut off the head of Medousa (Medusa)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 17. 3  :
+     </span>
+     <br/>
+     "[In bronze at the temple of Athene in Sparta] there are also represented Nymphai (Nymphs) bestowing upon Perseus, who is starting on his enterprise against Medousa (Medusa) in Libya, a cap and the shoes by which he was carried through the air."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 18. 10 - 16 :
+     </span>
+     <br/>
+     "[Amongst the reliefs on throne of Apollon at Amyklai (Amyclae) near Sparta :] Perseus too, is represented killing Medousa (Medusa)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 18. 5 :
+     </span>
+     <br/>
+     "[Among the images decorating the chest of Kypselos (Cypselus) at Olympia :] The sisters of Medousa (Medusa), with wings, are chasing Perseus, who is flying. Only Perseus has his name inscribed on him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 3. 52. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "[Diodorus invents a rational explanation of the Gorgon-myth, cf. Pausanias above: ] Now there have been in Libya a number of races of women who were warlike and greatly admired for their manly vigour; for instance, tradition tells us of the race of the Gorgones (Gorgons), against whom, as the account is given, Perseus made war, a race distinguished for its valour; for the fact that it was the son of Zeus, the mightiest Greek of his day, who accomplished the campaign against these women, and that this was his greatest Labour may be taken by any man as proof of both the pre-eminence and the power of the women we have mentioned. Furthermore, the manly prowess of those of whom we are now about to write presupposes an amazing pre-eminence when compared with the nature of the women of our day." [N.B. Diodorus then goes on to describe a legendary tribe of Libyan Amazon-women.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 12 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Perseus . . . when sent by Polydectes, son of Magnes, to the Gorgones (Gorgons), he received from Mercurius [Hermes], who is thought to have loved him,
+     <em>
+      talaria
+     </em>
+     and
+     <em>
+      petasus
+     </em>
+     , and, in addition, a helmet which kept its wearer from being seen by an enemy . . . He is said, too, to have received from Vulcanus [Hephaistos (Hephaestus)] a knife made of adamant, with which he killed Medusa the Gorgon. The deed itself no one has described.
+     <br/>
+     But as Aeschylus, the writer of tragedies, says in his Phorcides, the Graeae were guardians of the Gorgones. We wrote about them in the first book of the
+     <em>
+      Genealogiae
+     </em>
+     . They are thought to have had but one eye among them, and thus to have kept guard, watch one taking it in her turn. This eye Perseus snatches, as one was passing it to another, and threw is in Lake Tritonis. So, when the guards were blinded, he easily killed the Gorgon when she was overcome with sleep. Minerva [Athena] is said to have the head on her breastplate. Euhemerus [Greek writer C3rd B.C.] says the Gorgon was killed by Minerva [Athena]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 770 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Perseus arrives in the land of Aithiopia (Ethiopia) after slaying the Gorgon, and there King Kepheus (Cepheus) enquires after his labour :] ‘My gallant Perseus, tell me by what craft, what courage, you secured the snake-tressed head.’ And Agenorides [Perseus] told him of the place that lies, a stronghold safe below the mountain mass of icy Atlas; how at its approach twin sisters, the Phorcides [Graiai (Graeae)], lived who shared a single eye, and how that eye by stealth and cunning, as it passed from twin to twin, his sly hand caught, and then through solitudes, remote and trackless, over rough hillsides of ruined woods he reached the Gorgones' lands, and everywhere in fields and by the road he saw the shapes of men and beasts, all changed to stone by glancing at Medusa's face. But he, he said, looked at her ghastly head reflected in the bright bronze of the shield in his left hand, and while deep sleep held fast Medusa and her snakes, he severed it clean from her neck; and from their mother's blood swift-flying Pegasus and his brother sprang.'"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 69 :
+     </span>
+     <br/>
+     "Acrisionades [Perseus] turned on him the blade Medusa's death had proved."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 254 :
+     </span>
+     <br/>
+     "I [Athena] saw that horse [Pegasos] brought into being from his mother's [Medousa's (Medusa's)] blood."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 699 ff :
+     </span>
+     <br/>
+     "Perseus, the snake-haired Gorgo's victor."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 3. 22 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "The Gorgon's head which the hand of Perseus severed."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 544 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Thereon [a cup] was embossed work of images : all golden, a winged youth [Perseus] holds the snake-tressed Gorgon's severed head, and even upon the moment--so it seems--leaps up into the wandering breeze; she almost moves her heavy eyes and dropping head, and even grows pale in the living gold."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 270 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Nimbleknee Perseus, waving his winged feet, held his course near the clouds, a wayfarer pacing through the air . . . He crept up on tiptoe, keeping his footfall noiseless, and with hollowed hand and robber's fist caught the roving eye of Phorkys' (Phorcys') unsleeping daughter [the Graiai], then shore off the snaky swathe of one Medousa (Medusa), while her womb was still burdened and swollen with young, still in foal of Pegasos (Pegasus); what good if the sickle played the part of childbirth Eileithyia, and reaped the neck of the pregnant Gorgon, firstfruits of a horsebreeding neck? There was no battle when swiftshoe Perseus lifted the lifeless token of victory, the snaky sheaf of Gorgon hair, relics of the head dripping drops of blood, gently wheezing a half-heard hiss through the severed throats . . . Perseus fled with flickering wings trembling at the hiss of mad Sthenno's hairy snakes, although he bore the cap of Haides and the sickle of Pallas [Athena], with Hermes' wings though Zeus was his father; he sailed a fugitive on swiftest shoes, listening for no trumpet but Euryale's bellowing--having despoiled a little Libyan hole!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 30. 264 ff :
+     </span>
+     <br/>
+     "Have you set foot in Libya? Have you had the task of Perseus? Have you seen the eye of Sthenno which turns all to stone, or the bellowing invincible throat of Euryale herself? Have you seen the tresses of viperhair Medousa (Medusa), and have the open mouths of her tangled serpents run round you? . . . Akrisios' (Acrisius') daughter [Danae] bore the Gorgonslayer, a son worthy of my Zeus, for winged Perseus did not throw down my [Athena's] sickle, and he thanked Hermeias [Hermes] for lending his shoes . . . the Hesperides sing him who cut down Medousa."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 13 ff :
+     </span>
+     <br/>
+     "Perseus was ferrying across to the thirsty stretches of Libya, swimming on his wings and circling in the air a quickfoot knee. He had taken the travelling eye of Phorkys' (Phorcys') old one-eyed daughter unsleeping [the Graia (Graea)]; he dived into the dangerous cave [of the Gorgones], reaped the hissing harvest by the rockside, the firstfruits of curling hair, sliced the Gorgon's teeming throat and stained his sickle red. He cut off the head and bathed a bloodstained in the viperish dew; then as Medousa (Medusa) was slain, the neck was delivered of its twin birth, the Horse [Pegasos] and the Boy [Khrysaor (Chrysaor)] with the golden sword."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Aidos kune (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "
+     <em>
+      Aidos kune
+     </em>
+     (helmet of Hades) : A proverb [applied] to those concealing themselves with certain devices. For such was the helmet of Haides, which Perseus used when he killed the Gorgon."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Medousa :
+     </span>
+     <br/>
+     "Medousa (Medusa) : She [who was] also called Gorgon. Perseus, the son of Danae and Pekos (Pecus) [Zeus], having learned all the mystic apparitions and wanting to establish for himself his own kingdom, despised that of the Medes [Persians]. And going through a great expanse of land he saw a virgin maiden, hideous and ugly, and turning aside [to speak] to her, he asked ‘what is your name?’ And she said, ‘Medousa.’ And cutting off her head he despatched her as he had been taught, and he hung it up, amazing and destroying all who saw it. The head he called Gorgon, because of its sheer force."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/P23.19.html">
+      <img alt="Poseidon, Gorgon Euryale, beheaded Medusa and birth of Pegasus | Boeotian black-figure bowl C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/P23.19Medousa.jpg"/>
+     </a>
+     <figcaption>
+      Poseidon, Gorgon Euryale, beheaded Medusa and birth of Pegasus, Boeotian black-figure bowl C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h3 id="Dirge">
+     DIRGE OF THE GORGONS &amp; THE INVENTION OF THE FLUTE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 12. 8 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "The art that long ago Pallas Athene invented [the flute], weaving in music's rich refrain the ghoulish dirge of the fierce-hearted Gorgones (Gorgons). This in their anguished struggle from those dread maiden's lips was heard streaming, and from those writhing serpent heads untouchable, when Perseus o'er the third of those fell sisters launched his cry of triumph, and brought fatal doom to Seriphos by the sea--doom for that isle and for her people. Yes, for he had made blind the grim offspring of Phorkys (Phorcys), and bitter the wedding-gift he brought to Polydektes (Polydectes), thus to end his mother's long slavery and enforced wedlock--that son of Danae, who reaped the head of fair-cheeked Medousa (Medusa) . . . But when the goddess maid delivered from these labours the man she loved, then she contrived the manifold melodies of the flute, to make in music's notes an image of the shrill lamenting cries, strung from Euryale's ravening jaws. A goddess found, but finding, gave the strain to mortal men to hold, naming it the tune of many heads."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 13. 77 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Mykalessos (Mycalessus) (Bellowing-Cry) [a town in Boiotia] with broad dancing-lawns named to remind us of [the Gorgon] Euryale's roar."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 35 ff :
+     </span>
+     <br/>
+     "My reeds, which . . . your musical Athena may reproach you one day: she who invented the Libyan double pipes to imitate with their tootle the voices of the Gorgones' grim heads."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 40. 227 ff :
+     </span>
+     <br/>
+     "The double Berekyntian (Berecynthian) pipes in the mouth of Kleokhos (Cleochus) droned a gruesome Libyan lament, one which long ago both Sthenno and Euryale with one many-throated voice sounded hissing and weeping over Medousa (Medusa) newly gashed, while their snakes gave out voice from two hundred heads, and from the lamentations of their curling and hissing hairs they uttered the ‘manyheaded dirge of Medousa."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Mykale (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Mykale (Mycale) : Name of a city [in Boiotia]. [Named] after the fact that the Gorgones bellowed (
+     <em>
+      mykasthai
+     </em>
+     ) there."
+     <span class="quote-greek">
+     </span>
+    </p>
+    <hr/>
+    <h3 id="Vipers">
+     BIRTH OF VIPERS FROM MEDUSA'S BLOOD
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1505 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "[When the Argonauts were travelling through the Libyan desert one of their number, Mopsos (Mopsus), was killed by a Libyan viper :] A fearsome snake lay in the [Libyan] sand, sheltering from the midday sun. It was too sluggish to attack a man who showed now wish to harm it, or to fly at anyone who shrank away. And yet, for any creature living on the face of Mother Earth, one drop of its black poison in his veins was short cut to the world below. Even Paieon himself (if I may tell the truth without offence) could not have saved the victim's life, even if the fangs had only grazed the skin. For when the godlike Perseus, whom his mother called Eurymedon, flew over Libye (Libya) brining the Gorgon's newly severed head to the king, every drop of dark blood that fell from it to the ground produced a brood of these serpents. Mopsos, stepping forward with his left foot, brought the sole down on the tip of the creature's tail, and in its pain the snake coiled round his shin and calf and bit him halfway up the leg tearing the flesh . . . The poor man was doomed. A paralysing numbness was already creeping through him, and a dark mist began to dim his sight. Unable to control his heavy limbs, he sank to the ground and soon was cold . . . Mopsos was dead; and they could not leave him in the sunshine even for a short time, for the poison at once began to rot his flesh and mouldering hair fell from his scalp."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 770 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "But Perseus, with the snake-haired monster's head, that famous spoil, in triumph made his way on rustling pinions through the balmy air and, as he hovered over Libya's sands, the blood-drops from the Gorgoneum (Gorgon's Head) dripped down. The spattered desert gave them life as snakes, smooth snakes of many kinds, and so that land still swarms with deadly serpents to this day."
+    </p>
+    <hr/>
+    <h3 id="Head">
+     PERSEUS &amp; THE PETRIFYING HEAD OF MEDUSA
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/P23.14.html">
+      <img alt="Gorgon | Athenian black-figure dinos C6th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/P23.14Gorgon.jpg"/>
+     </a>
+     <figcaption>
+      Gorgon, Athenian black-figure dinos C6th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 12. 12 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Perseus o'er the third of those fell sisters [Medousa (Medusa)] launched his cry of triumph, and brought fatal doom to Seriphos by the sea--doom for that isle and for her people. Yes, for he had made blind [Medousa] the grim offspring of Phorkys (Phorcys), and bitter the wedding-gift he brought to Polydektes (Polydectes), thus to end his mother's long slavery and enforced wedlock--that son of Danae, who reaped the head of fair-cheeked Medousa (Medusa)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 10. 44 ff :
+     </span>
+     <br/>
+     "The son of Danaë, Perseus, who slew the Gorgo, and brought her head wreathed with its serpent locks to strike stony death to the islanders."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 45 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[After Perseus had rescued Andromeda from the sea-monster :] Kepheus' (Cepheus') brother Phineus, who was previously engaged to Andromeda, conspired against Perseus, but Perseus learned of the plot, and by displaying the Gorgon to Phineus and his colleagues in the conspiracy, turned them instantly to stone."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 46 :
+     </span>
+     <br/>
+     "[Upon returning to the island of Seriphos, he avenged himself on King Polydektes (Polydectes) who had sent him on the quest :] He entered the royal palace where Polydektes was entertaining his friends, and with his own face turned aside he displayed the Gorgo's head. When they looked at it, each one turned to stone, holding the pose he happened to have been striking at that moment. Perseus made Diktys (Dictys) king of Seriphos, and gave the sandals,
+     <em>
+      kibisis
+     </em>
+     , and helmet back to Hermes, and the Gorgo's head to Athene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 840 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Fashioning men as statues from top to toe he [Perseus] shall envelope them in stone--he that stole the lamp of his three wandering guides [the Graiai (Graeae)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 5. 10 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Perseus was reared there [on Seriphos], it is said, and when he brought the Gorgo's head there, he showed it to the Seriphians and turned them all into stone. This he did to avenge his mother, because Polydektes the king, with their cooperation, intended to marry his mother against her will. The island is so rocky that the comedians say that it was made thus by the Gorgo."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 22. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Painted on a building on the Akropolis of Athens :] There is also Perseus journeying to Seriphos, and carrying to Polydektes (Polydectes) the head of Medousa (Medusa)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 29 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Perseus, after slaying the Aithiopian (Ethiopian) sea-monster,] lies in the sweet fragrant grass, dripping sweat on the ground and keeping the Gorgo's head hidden lest people see it and be turned to stone."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 64 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When he [Perseus] wanted to marry her [Andromeda], Cepheus, her father, along with Agenor, her betrothed, planned to kill him. Perseus, discovering the plot, showed them the head of the Gorgon, and all were changed from human form into stone. Perseus with Andromeda returned to his country. When Polydectes saw that Perseus was so courageous, he feared him and tried to kill him by treachery, but when Perseus discovered this he showed him the Gorgon's head, and he was changed from human form into stone."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 653 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "‘Very well!’ he [Perseus] taunted, ‘if you rate my thanks so low accept a gift!’ and turned his face away and on his left held out the loathsome head, Medusa's head. Atlas, so huge, became a mountain; beard and hair were changed to forests, shoulders were cliffs, hands ridges; where his head had lately been, the soaring summit rose; his bones were turned to stone."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 740 ff :
+     </span>
+     <br/>
+     "[After Perseus had slain the Aithiopian (Ethiopian) Sea-Monster by the Red Sea coast :] Water was brought and Perseus washed his hands, triumphant hands, and, less the snake-girt head be bruised on the hard shingle, made a bed of leaves and spread the soft weed of the sea above, and on it placed Medusa Phorcynis' (Daughter of Phorcys) head. The fresh sea-weed, with living spongy cells, absorbed the monster's power and at its touch hardened, its fronds and branches stiff and strange. The Sea-Nymphs (
+     <em>
+      Nymphae Pelagi
+     </em>
+     ) tried the magic on more weed and found to their delight it worked the same, and sowed the changeling seeds back on the waves. Coral still keeps that nature; in the air it hardens, what beneath the sea has grown a swaying plant, above it, turns to stone."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 178 ff :
+     </span>
+     <br/>
+     "[When Perseus was battling the Aithiopian (Ethiopian) Prince Phineus and his thousand men :] Perseus saw that valour could not vie with weight of numbers. ‘You, yourselves,’ he cried. ‘Compel me! I'll seek succour from my foe! If any friend is present, turn away your face!’ And he held up the Gorgon's head. ‘Find someone else to fear your miracles!’         said Thescelus, aiming his lance of doom, and in that pose he stayed, a marble statue. Next Ampyx lunged his sword at Lyncides' [Perseus'] heart, that great and valiant heart, and as he lunged his hand, rigid, moved neither back nor forth.
+     <br/>
+     But Nileus . . . cried ‘See the source of my proud lineage! You'll get great solace in the silent umbrae (shades of the dead) to know you fell by my proud hand.’ His voice was cut off in mid speech, his parted lips seemed to frame words, but never a word could pass.
+     <br/>
+     Then Eryx cursed them: ‘It's your cowardice that holds you frozen, not the Gorgon's power. Charge him with me, charge him, and bring him down, him and his magic weapon!’ As he charged the floor fastened his feet, and there he stayed stock still, a man in armour turned to stone.
+     <br/>
+     These paid the proper price, but there was one, a warrior on Perseus' side, Aconteus, who, fighting for his lord, looked at the head, Medusa's head, and hardened into stone. Astyages, who thought him still alive, hit him with his long-sword, and loud and shrill the long sword rang. And he, gazing aghast, took the same stoniness, caught there and fixed with blank amazement in his marble face.
+     <br/>
+     To name the rank and file who fought and died would take too long; two hundred still survived, two hundred saw that head and turned to stone. Now Phineus rues his battle so unjust--at last. But what is he to do? He sees statues in many poses, knows they are his men, calls each by name and begs his aid. In disbelief he touched those nearest him: marble they were! He turned away, his hands held abject in defeat, his arms outstretched sideways for mercy. ‘You have won,’ he said, ‘Put down your Medusa's head whoever she may be, that makes men marble! Put it down, I beg! . . .’
+     <br/>
+     He dared not look at Perseus as he spoke; and Perseus answered ‘Cowardest of cowards! What I have power to grant, I grant; and great the guerdon to your craven soul. Fear not! No steel shall work you woe. Oh, no! my gift shall be an everlasting monument. In Cepheus' palace men shall gaze at you for ever, and my wife take comfort from the sight of her betrothed.’
+     <br/>
+     And as he speaks he thrusts Phorcynis' [Medousa's (Medusa's)] head in Phineus' face, his wincing face. Even then he tries to turn his eyes away, but now his neck is stiff, his moist eyes fixed and hard and stony. There with frightened pleading face and abject hands, in cringing pose the marble statue stands.
+     <br/>
+     Abantiades [Perseus] returned in triumph with his wife to Argos, his ancestral city. There to champion and avenge his grandfather, Acrisius, despite his ill-deserts, he challenged Proetus. Proetus had usurped Argos' high stronghold and expelled his brother by force of arms. But neither force of arms nor stronghold, basely seized, availed against the ghastly snake-haired's glaring eyes. Yet Polydectes, lord of small Seriphus . . . belittled Perseus' praise and even claimed Medusa's death a lie. ‘I'll give you proof conclusive.’ Perseus cried, ‘Friends, shield your eyes!’ and with Medusa's face he changed the king's face to bloodless stone."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 18. 294 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "He [Perseus] carried the head which had topped Gorgonos Medousa (Medusa) whom no eye may see."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionsyiaca 25. 80 ff :
+     </span>
+     <br/>
+     "Perseus killed a Ketos (Cetus) (Monster of the Sea); with Gorgo's eye he turned to stone a leviathan of the deep! . . . [and] Polydektes (Polydectes), looking upon deadly Medousa's (Medusa's) eye, changed his human limbs to another kind and transformed himself into stone."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 47. 478 :
+     </span>
+     <br/>
+     "[Hera urges King Perseus to make war on Dionysos when the god arrives in the kingdom of Argos :] ‘Make war on the Satyroi (Satyrs) too: turn towards battling Lyaios [Dionysos] the deadly eye of snakehair Medousa (Medusa), and let me see a new Polydektes (Polydectes) made stone . . . 
+  Kill the array of bull-horned Satyroi (Satyrs), change with the Gorgon's eye the human countenances of the Bassarides into like images selfmade; with the beauty of the stone copies adorn your streets, and make statues like an artist for the Inakhian (Inachian) market-places.’ . . .
+     <br/>
+     Perseus of the sickle was champion of the Argives; he fitted his feet into the flying shoes, and he lifted up the head of Medousa which no eyes may see. 
+  But Iobakkhos (Iobacchus) [Dionysos] marshalled his women with flowing locks, and Satyroi with horns. Wild for battle he was when he saw the winged champion coursing through the air. The thyrsos was held up in his hand, and to defend his face he carried a diamond, the gem made stone in the showers of Zeus which protects against the stony glare of Medousa, that the baleful light of that destroying face may do him no harm."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 47. 665 ff :
+     </span>
+     <br/>
+     "[Perseus in a battle with Dionysos :] He shook in his hand the deadly face of Medousa (Medusa), and turned armed Ariadne into stone. Bakkhos (Bacchus) was even more furious when he saw his bride all stone . . . 
+  [Perseus] one who killed the Keteos (Sea-monster) and beheaded horsebreeding Medousa."
+    </p>
+    <hr/>
+    <h3 id="Aigis">
+     THE GORGONEION &amp; THE AEGIS OF ATHENA
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/P23.2.html">
+      <img alt="Perseus, Athena and the head of Medusa | Apulian red-figure krater C4th B.C. | Museum of Fine Arts Boston" class="img-responsive center-block" src="../image/P23.2Medousa.jpg"/>
+     </a>
+     <figcaption>
+      Perseus, Athena and the head of Medusa, Apulian red-figure krater C4th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 738 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Across her [Athena's] shoulders she threw the betasselled, terrible
+     <em>
+      aigis
+     </em>
+     (aegis), all about which Phobos (Terror) hangs like a garland, and Eris (Hatred) is there, and Alke (Battle Strength), and heart-freezing Ioke (Onslaught) and thereon is set the head of the grim gigantic Gorgo (Gorgon), a thing of fear and horror, portent of Zeus of the aigis."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 46 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Perseus gave] the Gorgo's head to Athene . . . Athene placed the Gorgo's head in the center of her shield. It is affirmed by some that Medousa (Medusa) was beheaded because of Athene, for they say the Gorgo had been willing to be compared with Athene in beauty."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 14. 453 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "She [Athena] donned the stormy Aigis flashing far, adamantine, massy, a marvel to the Gods, whereon was wrought Medousa's (Medusa's) ghastly head, fearful: strong serpents breathing forth the blast of ravening fire were on the face thereof. Crashed on the Queen's breast all the Aigis-links."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 21. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "On the south wall of the Akropolis [at Athens] . . . there is dedicated a gilded head of Medouse (Medusa) the Gorgon, and round it is wrought an aegis."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 24. 7 :
+     </span>
+     <br/>
+     "The statue of Athena [on the Akropolis of Athens] is upright with a tunic reaching to her feet, and on her breast the head of Medousa (Medusa) is worked in ivory."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 10. 4 :
+     </span>
+     <br/>
+     "[At the temple of Zeus at Olympia] has been dedicated a golden shield, with Medousa (Medusa) the Gorgon in relief."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 12. 4 :
+     </span>
+     <br/>
+     "Antiokhos (Antiochus), who also gave as offerings the golden aigis with the Gorgon on it at above the theatre at Athens."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 34. 2 :
+     </span>
+     <br/>
+     "Iodama, who served the goddess [Athena] as priestess [at Koroneia (Coronea) in Phokis], entered the precinct by night, where there appeared to her Athene, upon whose tunic was worked the head of Medousa (Medusa) the Gorgon. When Iodama saw it, she was turned to stone."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 12 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Perseus] easily killed the Gorgon when she was overcome with sleep. Minerva [Athena] is said to have the head on her breastplate. Euhemerus [Greek writer C3rd B.C.] says the Gorgon was killed by Minerva."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 770 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Minerva [Athena] still, to strike her foes with dread, upon her breastplate wears the snakes [of the head of Medousa (Medusa)] she made."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 2 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Like Pallas [Athene] as she steps up to Athenian altars, her bosom covered with the Gorgon's chevalure of snakes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 36. 15 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "It [the spear of Ares] struck full on the aegis, and ran through the snaky crop of hair on the Gorgon's head, which none may look upon. So it wounded only the shaggy target of Pallas [Athene], and the sharpened point of the whizzing unbending spear scored the counterfeit hair of Medouse's image."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Gorgolophas (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Gorgolophas (Gorgon-crested) : She who has a helmet of the head of the Gorgon, [that is] Athena."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Gorgonoton :
+     </span>
+     <br/>
+     "Gorgonoton : Periphrastically, the shield [of Athena], the one which has a Gorgon [on it]."
+    </p>
+    <hr/>
+    <h3 id="Blood">
+     ASCLEPIUS, ERINYES, MEDEA &amp; THE BLOOD OF MEDUSA
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 144 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "As a surgeon Asklepios (Asclepius) became so skilled in his profession that he not only saved lives but even revived the dead; for he had received from Athene the blood that had coursed through the Gorgo's veins, the left-side portion of which he used to destroy people, but that on the right he used for their preservation, which is how he could revive those who had died."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 828 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[The witch Medea employs a variety of fabulous ingredients in a spell of magical fire :]
+     <br/>
+     I have gifts from Chimaera's middle part, I have flames caught from the bull's scorched throat, which, well mixed with Medusa's gall, I have bidden to guard their bane in silence."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 44. 198 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "She [one of the Erinyes] brought the blood of Gorgon Medousa (Medusa), scraped off into a shell fresh when she was newly slain, and smeared the tree with the crimson Libyan drops."
+    </p>
+    <hr/>
+    <h3 id="Hair">
+     CEPHEUS &amp; THE LOCK OF MEDUSA'S HAIR
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z47.6.html">
+      <img alt="Head of Medusa | Greco-Roman mosaic from Sousse | Sousse Museum" class="img-responsive center-block" src="../image/Z47.6Medousa.jpg"/>
+     </a>
+     <figcaption>
+      Head of Medusa, Greco-Roman mosaic from Sousse, Sousse Museum
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 144 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Herakles (Heracles), who had received from Athene a lock of Gorgo's hair in a bronze urn, gave it to Kepheus' (Cepheus') daughter Sterope, with instructions to hold it up three times from the walls in the event of an invasion, and, if she didn't look in front of her, the enemy would reverse its direction."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 46. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "This sanctuary [of Athene at Tegea, Arkadia (Arcadia)] they name Eryma (Defence), saying that Kepheus (Cepheus), the son of Aleus, received from Athene a boon, that Tegea should never be captures while time shall endure, adding that the goddess cut off some of the hair of Medousa (Medusa) and gave it to him as a guard to the city."
+     <br/>
+     [N.B. Medousa's hair in this myth was a bronze snake.]
+    </p>
+    <hr/>
+    <h3 id="Gorgoneion">
+     GORGONEION  THE IMAGE OF TERROR
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 11. 36 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Depicted on the shield of Agamemnon :] And he took up the man-enclosing elaborate stark shield, a thing of splendour. There were ten circles of bronze upon it, and set about it were twenty knobs of tin, pale-shining, and in the very centre another knob of dark cobalt. And circled in the midst of all was the blank-eyed face of the Gorgo with her stare of horror, and Deimos (Fear) was inscribed upon it, and Phobos (Terror)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8. 348 :
+     </span>
+     <br/>
+     "Hektor (Hector), wearing the stark eyes of a Gorgo (Gorgon), or murderous Ares, wheeled about at the edge his bright-maned horses."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 46 ff (trans. Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The Erinyes] an extraordinary band of women . . . No! Not women, but rather Gorgones (Gorgons), I call them; and yet I cannot compare them to forms of Gorgones either . . . [for] these are wingless in appearance."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Libation Bearers 1048 ff :
+     </span>
+     <br/>
+     "Orestes [in fright at the sight of the Erinyes]: Ah, ah! You handmaidens, look at them there: like Gorgones, wrapped in sable garments, entwined with swarming snakes!."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 32. 169 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "On the shield he [an Indian warrior] bore the graven image of Medousa (Medusa) with her bush of hair, like the viperine tresses of the Gorgon's head."
+    </p>
+    <hr/>
+    <h3 id="Haides">
+     MEDUSA IN THE UNDERWORLD
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 11. 633 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Odysseus, while summoning the ghosts of the dead in the Underworld, took fright and retreated :] I feared that august Persephone night send against me from Aides' (Hades') house the Gorgo (Gorgon) head of some grisly monster."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Frogs 475 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "[Aiakos (Aeacus), doorsman of Haides, threatens Dionysos in the Underworld :] ‘The black hearted Stygian rock and the crag of Akheron (Acheron) dripping with gore can hold you; and the circling hounds of Kokytos (Cocytus) and [Ladon] the hundred-headed
+     <em>
+      ekhidna
+     </em>
+     (serpent) shall tear your entrails; your lungs will be attacked by [Ekhidna (Echidna)] the Myraina Tartesia (the Tartesian Eel), your kidneys bleeding with your very entrails the Gorgones Teithrasiai (Tithrasian Gorgons) will rip apart.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 123 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When he [Herakles] reached Lakonian Tainaron (Laconian Taenarum), where the entrance to the descent into Hades' realm is located, he entered it. All the souls who saw him ran away, except Meleagros (Meleager) and Medousa (Medusa) the Gorgo. Herakles drew his sword against the Gorgo, assuming her to be alive, but from Hermes he learned that she was an empty wraith."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 287 ff (trans. Fairclough) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Many monstrous forms besides of various beasts are stalled at the doors [of Hades], Centauri (Centaurs) and double-shaped Scyllae, and the hundredfold Briareus, and the beast of Lerna, hissing horribly, and the Chimaera armed with flame, Gorgones (Gorgons) and Harpyiae (Harpies), and the shape of the three-bodied shade [Geryon]."
+    </p>
+    <hr/>
+    <h2 id="Commentary">
+     COMMENTARY
+    </h2>
+    <p>
+     The poet Hesiod seems to have envisaged the Gorgones (Gorgons) as reef-creating sea-daemones, personifications of the deadly submerged rocks which posed such a danger to ancient mariners. As such he names the three petrifyers daughters of dangerous sea-gods. One also bears a distincty marine name, Euryale, "she of the wide, briny sea". Later writers continue this tradition when they speak of reefs being created  where  Perseus had set the Gorgon's head and where he had turned a sea monster to stone.
+    </p>
+    <p>
+     In other motifs, the Gorgon Medousa (Medusa) was a portrayed as a storm-daemon
+  whose visage was set upon the storm-bringing aigis-shield  of Athene. The two ideas were probably connected, with sea storms driving ships to destruction upon the reefs.   Some say there was a but a single goat-like Gorgon (Gorgo), a daughter of the Sun-God, who was slain by Zeus at the start of the Titan-War to form his stormy aigis shield.
+    </p>
+    <p>
+     The Gorgones were probably also connected with Demeter Erinys (the Fury) and the three Erinyes. These goddesses could bring drought, wither the crops and herald famine. In myth, the beheading of Medousa  saw the release of two beings--Pegasos (of the springs) and Khrysaor (golden blade). This story might have symbolised the ending of drought with the release of the waters of  the springs (
+     <em>
+      pegai
+     </em>
+     ) and growth of the golden (
+     <em>
+      khryse
+     </em>
+     ) blades of grain.  in Homeric poetry, Demeter was also titled Khrysaoros, further suggesting a close link between the name and blades of corn.
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.1B.html">
+        <img alt="Thumbnail Gorgon Medusa" src="../image/thumbP23.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.1B Gorgon Medusa
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.6.html">
+        <img alt="Thumbnail Perseus, Medusa, Athena" src="../image/thumbP23.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.6 Perseus, Medusa, Athena
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.7.html">
+        <img alt="Thumbnail Perseus, Medusa, Athena" src="../image/thumbP23.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.7 Perseus, Medusa, Athena
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.2.html">
+        <img alt="Thumbnail Perseus, Athena, Gorgoneion" src="../image/thumbP23.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.2 Perseus, Athena, Gorgoneion
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.3.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbP23.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.3 Gorgoneion
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.10.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbP23.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.10 Gorgoneion
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.16.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbP23.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.16 Gorgoneion
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.5.html">
+        <img alt="Thumbnail Gorgon" src="../image/thumbP23.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.5 Gorgon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.18.html">
+        <img alt="Thumbnail Perseus, Medusa, Pegasus" src="../image/thumbP23.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.18 Perseus, Medusa, Pegasus
+        </h3>
+        <p>
+         Athenian Bilingual Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.19.html">
+        <img alt="Thumbnail Poseidon, Medusa, Pegasus" src="../image/thumbP23.19.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.19 Poseidon, Medusa, Pegasus
+        </h3>
+        <p>
+         Boeotian Black  Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.19B.html">
+        <img alt="Thumbnail Perseus &amp; Athena" src="../image/thumbP23.19B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.19B Perseus &amp; Athena
+        </h3>
+        <p>
+         Boeotian Black  Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.8.html">
+        <img alt="Thumbnail Gorgons, Medusa, Pegasus" src="../image/thumbP23.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.8 Gorgons, Medusa, Pegasus
+        </h3>
+        <p>
+         Athenian Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.17.html">
+        <img alt="Thumbnail Sleeping Medusa" src="../image/thumbP23.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.17 Sleeping Medusa
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.4.html">
+        <img alt="Thumbnail Perseus &amp; the Gorgons" src="../image/thumbP23.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.4 Perseus &amp; the Gorgons
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.14.html">
+        <img alt="Thumbnail Gorgon" src="../image/thumbP23.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.14 Gorgon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.11.html">
+        <img alt="Thumbnail Gorgon" src="../image/thumbP23.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.11 Gorgon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.15.html">
+        <img alt="Thumbnail Gorgons" src="../image/thumbP23.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.15 Gorgons
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.9.html">
+        <img alt="Thumbnail Gorgon" src="../image/thumbP23.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.9 Gorgon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.12.html">
+        <img alt="Thumbnail Gorgon" src="../image/thumbP23.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.12 Gorgon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L3.5.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbL3.5B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L3.5B Gorgoneion
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.1.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.1 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Rome Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.2.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.2 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Naples Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.3.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.3 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Rome Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.4.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.4 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Athens Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.8.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.8 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Antioch Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.6.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.6 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Sousse Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.5.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.5 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Mosaic Alexandria A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.7.html">
+        <img alt="Thumbnail Gorgoneion" src="../image/thumbZ47.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.7 Gorgoneion
+        </h3>
+        <p>
+         Greco-Roman Rhodes Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F47.1.html">
+        <img alt="Thumbnail Perseus &amp; Head of Medusa" src="../image/thumbF47.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F47.1 Perseus &amp; Head of Medusa
+        </h3>
+        <p>
+         Greco-Roman Pompeii Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F47.2.html">
+        <img alt="Thumbnail Perseus &amp; Head of Medusa" src="../image/thumbF47.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F47.2 Perseus &amp; Head of Medusa
+        </h3>
+        <p>
+         Greco-Roman Pompeii Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.11.html">
+        <img alt="Thumbnail Perseus &amp; Head of Medusa" src="../image/thumbZ47.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.11 Perseus &amp; Head of Medusa
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z47.9.html">
+        <img alt="Thumbnail Perseus &amp; Head of Medusa" src="../image/thumbZ47.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z47.9 Perseus &amp; Head of Medusa
+        </h3>
+        <p>
+         Greco-Roman Bardo Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R47.2.html">
+        <img alt="Thumbnail Perseus &amp; Medusa" src="../image/thumbR47.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R47.2 Perseus &amp; Medusa
+        </h3>
+        <p>
+         Greek Bas-Relief B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R47.1.html">
+        <img alt="Thumbnail Perseus, Medusa, Pegasus" src="../image/thumbR47.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R47.1 Perseus, Medusa, Pegasus
+        </h3>
+        <p>
+         Greek Bas-Relief B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodShield.html">
+       Hesiod, The Shield of Heracles
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Cypria Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Libation Bearers
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Alcestis
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Frogs
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/AratusPhaenomena.html">
+       Aratus, Phaenomena
+      </a>
+      <span class="sources-detail">
+       - Greek Astronomy C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Manilus Astronomy 5.22.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     GORGONS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GORGONS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Phorcys and Ceto
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Names
+       </th>
+       <td>
+        Medusa, Euryale, Sthenno
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Snake-hair, wings, tusks
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Island of Cisthene
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Slain by
+       </th>
+       <td>
+        Medusa by Perseus
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     GORGONS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of the Gorgons
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Names">
+       Names of the Gorgons
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of the Gorgons
+      </a>
+     </li>
+     <li>
+      <a href="#Gorgo">
+       Zeus' Slaying of the Elder Gorgo
+      </a>
+     </li>
+     <li>
+      <a href="#Poseidon">
+       Poseidon's Seduction of Medusa
+      </a>
+     </li>
+     <li>
+      <a href="#Athene">
+       Athena &amp; the Monstrous Transformation of Medusa
+      </a>
+     </li>
+     <li>
+      <a href="#Perseus">
+       Perseus &amp; the Beheading of Medusa
+      </a>
+     </li>
+     <li>
+      <a href="#Dirge">
+       Dirge of the Gorgons &amp; Invention of the Flute
+      </a>
+     </li>
+     <li>
+      <a href="#Vipers">
+       Birth of Vipers from Medusa's Blood
+      </a>
+     </li>
+     <li>
+      <a href="#Head">
+       Perseus &amp; the Petrifying Head of Medusa
+      </a>
+     </li>
+     <li>
+      <a href="#Aigis">
+       The Gorgoneion &amp; Aegis of Athena
+      </a>
+     </li>
+     <li>
+      <a href="#Blood">
+       Asclepius &amp; the Blood of Medusa
+      </a>
+     </li>
+     <li>
+      <a href="#Hair">
+       Cepheus &amp; the Hair of Medusa
+      </a>
+     </li>
+     <li>
+      <a href="#Gorgoneion">
+       Gorgoneion the Image of Terror
+      </a>
+     </li>
+     <li>
+      <a href="#Haides">
+       Medusa in the Underworld
+      </a>
+     </li>
+     <li>
+      <a href="#Commentary">
+       Commentary
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

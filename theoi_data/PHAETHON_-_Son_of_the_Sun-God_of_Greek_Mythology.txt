@@ -1,0 +1,1694 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PHAETHON - Son of the Sun-God of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Phaethon was a youthful son of Helius who begged his father let him drive the chariot of the sun. The god reluctantly conceded to the boy's wishes and handed him the reigns. But his inexperience proved fatal, for Phaethon quickly lost control of the immortal steeds and the sun-chariot veered out of control setting the earth ablaze. The plains of Africa were scorched to desert and men charred black. Zeus, appalled by the destruction, smote the boy with a thunderbolt, hurling his flaming body into the waters of the River Eridanus. Phaethon's sisters, the Heliades, gathered on the banks and in their mourning were transformed into amber-teared poplar trees." name="description"/>
+  <meta content="Phaethon, Greek mythology, son of the sun-god" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sun.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/sky-gods.html">
+      Sky Gods
+     </a>
+     &gt;&gt; Phaethon
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     PHAETHON
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Φαεθων
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Phaethôn
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Phaethon
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Shining (
+       <em>
+        phaethô
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T17.1.html">
+      <img alt="Chariot of the sun-god | Athenian red-figure krater C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T17.1Helios_xsm.jpg"/>
+     </a>
+     <figcaption>
+      Chariot of the sun-god, Athenian red-figure krater C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     PHAETHON was a youthful son of Helios who begged his father let him drive the chariot of the sun. The god reluctantly conceded to the boy's wishes and handed him the reigns. But his inexperience proved fatal, for Phaethon quickly lost control of the immortal steeds and the sun-chariot veered out of control setting the earth ablaze. The plains of Africa were scorched to desert and men charred black. Zeus, appalled by the destruction, smote the boy with a thunderbolt, hurling his flaming body  into the waters of the River Eridanos. Phaethon's sisters, the
+     <a href="../Nymphe/NymphaiHeliades.html">
+      Heliades
+     </a>
+     , gathered on the banks and in their mourning were transformed into amber-teared poplar trees.
+    </p>
+    <p>
+     After his death Phaethon was placed amongst the stars as the
+     <a href="../greek-mythology/star-myths.html">
+      constellation
+     </a>
+     Auriga ("the Charioteer"), or else transformed into the god of the star which the Greeks named
+     <a href="AsterPhaethon.html">
+      Phaethon
+     </a>
+     --the planet Jupiter or Saturn.
+    </p>
+    <p>
+     The name Phaethon means "the shining" or "radiant one"  from the Greek verb
+     <em>
+      phaethô
+     </em>
+     "to shine."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF PHAETHON
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="Helios.html">
+      HELIOS
+     </a>
+     <span class="family-refs">
+      (Aeschylus Heliades, Philoxenus of Cythera Frag 834, Pausanias 2.3.2, Apollonius Rhodius 4.598, Quintus Smyraneus 5.300, Diodorus Siculus 5.23.2, Philostratus the Elder 1.11, Seneca Medea 597)
+     </span>
+     <br/>
+     [1.2]
+     <a href="Helios.html">
+      HELIOS
+     </a>
+     &amp;
+     <a href="../Nymphe/NympheKlymene.html">
+      KLYMENE
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 153, Ovid Metamorphoses 1.751, Nonnus Dionysiaca 27.189)
+     </span>
+     <br/>
+     [1.3] KLYMENOS &amp;
+     <a href="../Nymphe/NympheKlymene.html">
+      MEROPE
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 154)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     PHAETHON (Phaethôn), that is, "the shining," occurs in Homer (
+     <em>
+      ll.
+     </em>
+     xi. 735,
+     <em>
+      Od.
+     </em>
+     v. 479) as an epithet or surname of Helios, and is used by later writers as a real proper name for Helios (Apollon, Rhod. iv. 1236; Virg.
+     <em>
+      Aen.
+     </em>
+     v. 105); but it is more commonly known as the name of son of Helios by the Oceanid Clymene, the wife of Merops. The genealogy of Phaethon, however, is not the same in all writers, for some call him a son of Clymenus, the son of Helios, by Merope (Hygin.
+     <em>
+      Fab.
+     </em>
+     154), or a son of Helios by Prote (Tzetz.
+     <em>
+      Chil.
+     </em>
+     iv. 127). or, lastly, a son of Helios by the nymph Rhode or Rhodos. (
+     <em>
+      Schol. ad Pind. Ol.
+     </em>
+     vi. 131.) He received the significant name Phaethon from his father, and was afterwards also presumptuos and ambitious enough to request his father one day to allow him to drive the chariot of the sun across the heavens. Helios was induced by the entreaties of his son and of Clymene to yield, but the youth being too weak to cheek the horses, came down with his chariot, and so near to the earth, that he almost set it on fire. Zeus, therefore, killed him with a flash of lightning, so that he fell down into the river Eridanus or the Po. His sisters, who had yoked the horses to the chariot, were metamorphosed into poplars, and their tears into amber. (Eurip. Hippol. 737, &amp;c.; Apollon. Rhod. iv. 598, &amp;c.; Lucian,
+     <em>
+      Dial.
+     </em>
+     Deor. 25 ; Hygin,
+     <em>
+      Fab.
+     </em>
+     152, 154; Virg.
+     <em>
+      Eclog.
+     </em>
+     vi. 62,
+     <em>
+      Aen
+     </em>
+     x. 190; Ov.
+     <em>
+      Met.
+     </em>
+     i. 755, &amp;c.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Heliades (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Aeschylus' lost play
+     <em>
+      The Heliades
+     </em>
+     or
+     <em>
+      Daughters of Helius
+     </em>
+     described the story of Phaethon. His sisters formed the titular chorus. Weir Smyth (L.C.L.) summarises evidence of the plot : "
+     <em>
+      The Daughters of Helios
+     </em>
+     dealt with the legend of Phaëthon, whose rashness in diving the chariot of the Sun, his father, caused the parching of the earth, and thereby his punishment at the hands of Zeus, whose thunderbolt hurled him into the river Eridanus. In pity for the unceasing grief of Phaëthon's sisters, Zeus turned them into poplars, from which, it was believed, their tears oozed forth and became amber, the stone of light; a poetic fancy due to the association of
+     <em>
+      êlectron
+     </em>
+     'amber' with
+     <em>
+      êlectôr
+     </em>
+     'the beaming sun.' The form assumed by the myth in Aeschylus is unknown; but it is certain that Euripides in his
+     <em>
+      Phaëthon
+     </em>
+     differed widely from the older poet. Aeschylus was in part dependent on Hesiod for the story; but whereas Hesiod knew of seven daughters of Helios, Aeschylus recognized only three--Lampetië, Aegle, and Phaëthousa--children of the sun-god and Rhode. Furthermore he transferred to Iberia the scene of the fall of Phaëthon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Phaethon  (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Euripides' version of the Phaethon story diverged in certain respects from the earlier play by Aeschylus. Later accounts of the story--e.g. those of Hyginus and Ovid--are probably largely based on the content of this play.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philoxenus of Cythera, Fragment 834 (from Pliny, Natural History) (trans. Campbell, Vol. Greek Lyric V) (Greek lyric C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "When Phaethon was struck by the thunderbolt, his sisters were changed into poplar trees in their grief and every year shed tears of amber by the banks of the river Eridanos, which we call the Padus (Po); the amber is known as electrum, since the Sun is called Elector (
+     <em>
+      Elketor
+     </em>
+     , Shiner). Many poets have told this."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 598 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "The Argo sped on under sail, up the Eridanos (Eridanus) as far as ships can go. They reached the outfall of that deep lake where Phaethon, struck in the breast and half-consumed by a blazing thunderbolt, fell into the water from the chariot of Helios (the Sun). His wounded body smoulders to this day and sends up clouds of steam. Even the light-winged birds that try to fly across the water fail to reach the other side and with a helpless flutter plunge into the heat. All around, the Daughters of the Sun (Heliades), encased in tall poplars, utter their sad and unavailing plaint. Shining drops of amber fall from their eyes onto the sands and are dried by the sun. But when the wailing wind stirs the dark waters of the lake to rise above the beach, all the tersr that have collected there are swept by the overflow into the river."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 619 ff :
+     </span>
+     <br/>
+     "[The Argonauts sail up the river Eridanos :] By day they were plagued to the point of exhaustion by the nauseating stench from Phaethon's smouldering body, which the outflow to the river emitted all the time. At night they had to listen to the loud lament of the shrill-voiced Daughters of Helios (Heliades), whose tears were borne along on the stream like drops of oil [i.e. amber]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 23. 2 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Many poets and historians give the story that Phaethon, the son of Helios, while yet a youth, persuaded his father to retire in his favour from his four-horse chariot for a single day; and when Helios yielded to the request Phaethon, as he drove the chariot, was unable to keep control of the reins, and the horses, making light of the youth, left their accustomed course; and first they turned aside to traverse the heavens, setting it afire and creating what is now called the Milky Way, and after that they brought the scorching rays to many parts of the inhabited earth and burned up not a little land. Consequently Zeus, being indignant because of what had happened, smote Phaethon with a thunderbolt and brought back the sun to its accustomed course. And Phaethon fell to the earth at the mouths of the river which is now known as the Pados (Po), but in ancient times was called the Eridanos, and his sisters [the Heliades] vied with each other in bewailing his death and by reason of their exceeding grief underwent a metamorphosis of their nature, becoming poplar trees."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 3. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "On leaving the market-place [of Korinthos (Corinth)] along the road to Lekhaion (Lechaeum) you come to a gateway, on which are two gilded chariots, one carrying Phaithon (Phaethon) the son of Helios, the other Helios himself."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 5. 300 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "The  Daughters of the Sun (
+     <em>
+      Thugateres Helioio
+     </em>
+     ), the Lord of Omens [Helios], shed [tears] for Phaethon slain, when by Eridanos' flood they mourned for him. These, for undying honour to his son, the god [Helios] made amber, precious in men's eyes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 190 ff :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the quiver of Herakles :] There was Phaethon from the Sun-car hurled into Eridanos. Earth verily seemed ablaze, and black smoke hovered on the air."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 11 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an  ancient Greek painting in Neapolis (Naples) :] Golden are the tears of the Heliades (Daughters of Helios). The story is that they are shed for Phaethon; for in his passion for driving this son of Helios (the Sun) ventured to mount his father's chariot, but because he did not keep a firm rein he came to grief and fell into the Eridanos--wise men interpret the story as indicating a superabundance of the fiery element in nature, but for poets and painters it is simply a chariot and horses--and at his fall the heavens are confounded. Look! Nyx (Night) is driving Hemera (Day) from the noonday sky, and the sun's orb as it plunges toward the earth draws in its train the Astera (Stars). The Horai (Seasons or Hours) abandon their posts at the gates and flee toward the gloom that rises to meet them, while the horses have thrown off their yoke and rush madly on. Despairing, Ge (Gaea, the Earth) raises her hands in supplication, as the furious fire draws near her. Now the youth is thrown from the chariot and is falling headlong--for his hair is on fire and his breast smouldering with the heat; his fall will end in the river Eridanos and will furnish this stream with a mythical tale. For swans scattered about, breathing sweet notes, will hymn the youth; and flocks of swans rising aloft will sing the story to [the rivers] Kaystros (Cayster) and Istros (Ister); nor will any place fail to hear the strange story. And they will have Zephyros (the West Wind), nimble god of wayside shrines, to accompany their song, for it is said that Zephyros (has made a compact with the swans to join them in the music of the dirge. This agreement is even now being carried out, for look! The Wind is playing on the swans as on musical instruments.
+     <br/>
+     As for the women on the bank, not yet completely transformed into trees, men say that the Heliades on account of their brother's mishap changed their nature and became trees, and that they shed tears. The painting recognizes the story, for it puts roots at the extremities of their toes, while some, over here, are trees to the waist, and branches have supplanted the arms of others. Behold the hair, it is nothing but poplar leaves! Behold the tears, they are golden! While the welling tide of tears in their eyes gleams in the bright pupils and seems to attract rays of light, and the tears on the cheeks glisten amid the cheek's ruddy glow, yet the drops tricking down their breasts have already turned into gold. The river [Eridanos] also laments, emerging from its eddying stream, and offers its bosom to receive Phaethon--for the attitude is of one ready to receive--and soon it will harvest the tears of the Heliades; for the breezes and the chills which it exhales will turn into stone the tear-drops of the poplar trees, and it will catch them as they fall and conduct them through its bright waters to the barbarians by Okeanos (Oceanus)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 153 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Phaethon, son of Sol [Helios] and Clymene, who had secretly mounted his father's car, and had been borne too high above the earth, from fear fell into the river Eridanus. When Jupiter [Zeus] struck him with a thunderbolt, everything started to burn . . . The sisters of Phaethon, because they had yoked the horses without the orders of their father, were changed into poplar trees."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 154 :
+     </span>
+     <br/>
+     "Phaethon, son of Clymenus, son of Sol [Helios], and the nymph Merope, who, as we have heard was and Oceanid, upon being told by his father that his grandfather was Sol [Helios], put to bad use the chariot he asked for. For when he was carried too near the earth, everything burned in the fire that came near, and, struck by a thunderbolt, he fell into the river Po. This river is called Eridanus by the Greeks; Pherecydes [Greek mythographer C5th B.C.] was the first to name it. The Indians became black, because their blood was turned to a dark colour from the heat that came near. The sister of Phaethon, too, in grieving for their brother, were changed into poplar trees. Their tears, as Hesiod tells, hardened into amber' in spite of the change they are called Heliades. They are, then, Merope, Helie, Aegle, Lampetia, Phoebe, Aetherie, Dioxippe."
+     <br/>
+     [N.B. In this version of the myth Phaethon's mother is the eponym of the Aithiopian (Ethiopian) kingdom of Merope  on the upper reaches of the Nile. When Phaethon loses control of the sun-chariot he scorches his countrymen black.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 250 :
+     </span>
+     <br/>
+     "Teams which destroyed their drivers. They destroyed Phaethon, son of Sol [Helios] by Clymene."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 42 :
+     </span>
+     <br/>
+     "Planets. It remains for us to speak of the five stars which many have called Wandering, and which the Greeks call Planeta (Planets) . . . The second star [Saturn] is that of [i.e. belongs to] Sol [Helios]; others say of Saturnus [Kronos]. Eratosthenes claim that it is called Phaethon, from the son of Sol. Many have written about him--how he foolishly drove his father's chariot and set fire to the earth. Because of this he was struck with a thunderbolt by Jove [Zeus], and fell into the river Eridanus, and was conveyed by Sol to the constellations."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 252 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "He [Zeus] recalled the Fata (Fate) [Moira] foretold a time when sea and land and heaven's high palaces in sweeping flames should burn [i.e. scorched during Phaethon's failed attempt at driving the chariot of the sun], and down should fall the beleaguered bastions of the universe."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 750 ff :
+     </span>
+     <br/>
+     "[N.B. In Ovid Epaphos is the prince of Egypt and Phaethon the prince of  Merope, the Aithiopian (Ethiopian) kingdom of the upper Nile.]
+     <br/>
+     His [Epaphos the prince of Egypt's] peer in pride and years was Phaethon, child of Phoebus [i.e. Helios the Sun], whose arrogance one day and boasts of his high parentage were more than Inachides [Epaphos] could bear. ‘You fool,’ he said, ‘To credit all your mother says; that birth you boast about is false.’ Then Phaethon flushed, though shame checked his rage, and took those taunts to Clymene, his mother. ‘And to grieve you more, dear mother, I so frank,’ he said, ‘So fiery, stood there silent. I'm ashamed that he could so insult me and that I could not repulse him. But, if I indeed am sprung from heavenly stock, give me sure proof of my high birth, confirm my claim to heaven.’
+     <br/>
+     He threw his arms around his mother's neck, and begged her by his own and Merops' [Clymene's mortal husband] life, his sisters' hopes of marriage, to provide some token that that parentage was true. And Clymene, moved whether by his words or anger at the insult to herself, held out her arms to heaven and faced Sol [Helios the Sun] and cried, ‘By this great glorious radiance, this beaming blaze, that hears and sees us now, I swear, dear child, that he, Sol [Helios the Sun], on whom you gaze, Sol who governs all the globe, he is your father. If I lie, let him deny his beams, let this light be the last my eyes shall ever see! And you may find your father's home with no long toil. The place from which he rises borders our own land [of Egypt]. Go, make the journey if your heart is set, and put your question to Sol [Helios] himself.’
+     <br/>
+     Then up flashed Phaethon at his mother's words; through his own Aethiopes (Ethiopians) and the lands of India beneath their burning skies, he quickly reached his father's rising place. The palace of Sol (the Sun) rose high aloft on soaring columns, bright with flashing gold and flaming bronze; the pediments were clothed with sheen of ivory; the double doors dazzled with silver--and the artistry was nobler still. For Mulciber [Hephaistos (Hephaestus)] had engraved the world's great orb, the seas that ring the world, the sky that hangs above; and in the waves the Sea-gods (
+     <em>
+      Di Caerulei
+     </em>
+     ) dwelt, Aegeon, his huge arms entwined around the backs of giant whales, ambiguous Proteus, Triton with his horn; and Doris and her daughters [the Nereides] might be seen, and some were swimming, some on fishes rode, or sat on rocks to dry their sea-green hair. Nor were their looks the same, nor yet diverse, but like as sisters should be. On the land people and cities, woods and beasts were graven, Flumina (Rivers) and Nymphae (Nymphs) and Rural Deities (
+     <em>
+      Numina Ruris
+     </em>
+     ), and, set above them, the bright signs of heaven [the Zodiac], in glory shining, six upon each door. Then the son of Clymene [Phaethon], climbing the steep ascent, entered his father's palace, fatherhood uncertain still, and made his way direct into the presence and there stood afar, unable to approached the dazzling light. Enrobed in purple vestments Phoebus [Helios] sat, high on a throne of gleaming emeralds. Attending him on either side stood Dies (Day) [Hemera] and Mensis (Month) and Annus (Year) and Saecula (Century), and Horae (Hours) disposed at equal intervals between. Young Ver (Spring) was there, with coronet of flowers, and naked Aestas (Summer), garlanded with grain; Autumnus (Autumn) was there with trampled vintage stained, and icy Hiems (Winter), rime upon his locks.
+     <br/>
+     Enthroned amidst, Sol [Helios] who sees all things beheld the boy dismayed by sights so strange, and said ‘What purpose brings, faring so far, my son, a son no father would deny, to this high citadel?’ The boy replied ‘O thou, Creation's universal light, Phoebus, my father, if to use that name thou givest me leave, and Clymene spoke truth and hides no guilt, give proof that all may know I am thy son indeed, and for ever end the doubt that grieves me.’ Then his father laid aside the dazzling beams that crowned his head and bade him come and held him to his heart : ‘Well you deserve to be my son,’ he said, ‘Truly your mother named your lineage; and to dispel all doubt, ask what you will that I may satisfy your heart's desire; and that dark marsh [the river Styx] by which the gods make oath, though to my eyes unknown, shall seal my troth.’
+     <br/>
+     He scarce had ended when the boy declared his wish--his father's chariot for one day with licence to control the soaring steeds. Grief and remorse flooded his father's soul, and bitterly he shook his glorious head : ‘Rash have your words proved mine! Would that I might retract my promise, Phaethon! This alone I would indeed deny you. Yet at least I may dissuade you. Dangerous is your choice; you seek a privilege that ill befits your growing years and strength so boyish still. Mortal your lot--not mortal your desire; this, to which even the gods may not aspire, in ignorance you claim. Though their own powers may please the gods, not one can take his stand above my chariot's flaming axle-tree save I. Even he whose hand hurls thunderbolts, the mighty Lord of Olympus (
+     <em>
+      Rector Olympi
+     </em>
+     ) [Zeus], may never drive my team--and who is mightier than Jove [Zeus]? Steep is the way at first, which my steeds scarce can climb in the morning freshness; in mid sky the altitude is greatest and the sight of land and sea below has often struck in my own heart an agony of fear. The final part drops sheer; then above all control must be assured, and even she whose waters lie below to welcome me, Tethys, waits fearful lest I headlong fall. Besides, in constant flux the sky [with its moving constellations] streams by, sweeping in dizzy whirl the stars on high. I drive against this force, which overcomes all things but me, and on opposing course against its rushing circuit makes my way. Suppose my chariot yours : what then? Could you confront the spinning poles [of the sky] and not be swept away by the swift axis of the world? Perhaps you fancy cities of gods are there and groves and temples rich with offerings. No! Wild beasts lie in wait and shapes of fear! And though you shall meet Taurus (the Bull), must brave his horns, and face Arcus Haemonius (the Thessalian Archer) [Saggitarius] and the ravening Leo (the Lion), the long curved circuit of the Scorpio's claws, Cancer (the Crab) whose claws in counter-menace wave. My horses too, when fire within their breast rages, from mouth and nostrils breathing flames, are hard to hold; even I can scarce restrain their ardent hearts, their necks that fight the rein. But, O my son, amend, while time remains, your choice, so may my gift not be your doom. Sure proof you seek of fatherhood; indeed my dread sure proof affords : a father's fear proves me your father. Look into my eyes! Would you could look into my heart and see and understand your father's agony! The bounty of the lands, the seas, the skies; choose what you will of these--it shall be yours. But this alone, not this! Bane truly named not glory, Phaethon--bane this gift not boon! Why fold me in your arms, fond foolish boy? By Stygia I swore and I shall not refuse, whate'er your choice: but oh! more wisely choose!’
+     <br/>
+     So Sol [Helios] warned; but Phaethon would not yield and held his purpose, burning with desire to drive the chariot. Then his father, slow and pausing as he might, lead out the boy to that high chariot, Vulcanus' [Hephaistos'] masterwork. Gold was the axle, gold the shaft, and gold the rolling circles of the tyres; the spokes in silver order stood, and on the harness patterns of gorgeous gems and chrysolites shone gleaming in the glory of Sol [Helios]. And while the daring boy in wonder gazed, Aurora [Eos the Dawn], watchful in the reddening dawn, threw wide her crimson doors and rose-filled halls; the Stellae (Stars) took flight, in marshalled order set by Lucifer [Eosphoros] who left his station last. Then, when Titan [Helios] perceived the Morning Star [Eosphoros] setting and saw the world in crimson sheen and the last lingering crescent of Luna the Moon [Selene] fade in the dawn, he bade the nimble Horae (Hours) go yoke his steeds, and they, swift goddesses, fastened the jingling harness and the reins, as from the lofty stalls the horses came, filled with ambrosial food and breathing flame. Then on his son's young face the father smeared a magic salve to shield him from the heat and set the flashing sunbeams [the sun's aureole] on his head, and with a heavy heart and many a sigh, that told of grief to come, addressed the boy : ‘If this advice at least you will obey, spare, child, the whip and rein them hard; they race unurged; the task's to hold them in their zeal. Avoid the road direct through all five zones; on a wide slanting curve the true course lies within the confines of three zones [of the heavenly constellations]; beware alike the southern pole and northern Arctus (the Bear). Keep to this route; my wheeltracks there show plain. Press not too low nor strain your course to high; too high, you'll burn heaven's palaces; too low, the earth; the safest course lies in between. And neither rightwards towards the twisting Anguis (Snake) nor leftwards swerve to where the Ara (Altar) lies. Hold in the midst! To fortune I resign the rest to guide with wiser wit than yours. See, dewy Nox (Night) [Nyx] upon the Hesperian shore even while I speak has reached her goal. No more may we delay; our duty calls; the day dawns bright, all shadows fled. Come take the reins! Or take, if yet your stubborn heart will change, my counsel, not my chariot, while you may, while still on firm foundations here you stand before you mount between my chariot wheels, so ignorant, so foolish!--and let me give the world light that you may safely see.’
+     <br/>
+     But Phaethon mounted, light and young and proud, and took the reins with joy, and looking down, thanked his reluctant father for the gift. Meanwhile the four swift horses of Sol [Helios], Aethon (Blaze), Eous (Dawn), Pyrois (Fire) and Phlegon (Flame), kick at the gates, neighing and snorting fire, and Tethys [the mother of Clymene, mother of Phaethon] then, her grandson's fate undreamt, draws back the bars and makes the horses free of all the boundless heavens. Forth they go, tearing away, and cleave with beating hooves the clouds before them, and on wings outride the winds that westwards from the morning blow. But lightly weighs the yoke; the chariot moves with ease unwonted, suspect buoyancy; and like a ship at sea unballasted that pitches in the waves for lack of weight, the chariot, lacking now its usual load, bounced driverless, it seemed, in empty leaps. The horses in alarm ran wild and left the well-worn highway. Phaethon, dazed with fear, could neither use the reins nor find the road, nor were it found could make the team obey. Then first the sunbeams warmed freezing Troiones (the Bear), who sought vain refuge in forbidden seas [i.e. the Constellation Ursa was not allowed to set into the world-river Okeanos (Oceanus)]; Serpens (the Snake) that numb and harmless hitherto lay next the icy pole, roused by the heat, in newly kindled rage began to burn; Bootes (the Wagoner) too, it's said , fled in dismay, though slow and hampered by his lumbering wain.
+     <br/>
+     And when poor hapless Phaethon from the height of highest heaven looked down and saw below, far, far below the continents outspread, his face grew pale, his knees in sudden fear shook, and his eyes were blind with light so bright. Would he had never touched his father's steeds, nor learnt his birth, nor won his heart's desire! Oh, to be known as Merops' son! Too late! He's swept a way as when a barque is driven before the northern gales and in despair the master leaves the helm, resigns his charge to heaven. What shall he do? The sky behind him stretches away so far; yet more in front. He measures each in turn; ahead he sees the west that fate ordains he shall not reach, then looks back to the east. Dazes and in doubt he cannot hold the reins or let them fall or even recall the horses' names. And then he sees in panic strewn across the sky monstrous gigantic shapes of beasts of prey.
+     <br/>
+     There is a place in which the Scorpio's claws curve in a double arc, with tail and legs on either side crossing two signs of heaven; sweating black venom, there before his eyes, circling its tail to strike, the creature lies. His senses reel; he drops the reins aghast. And when the reins fall loose upon their backs, the horses swerve away and, unrestrained, gallop through tracts of air unknown and race headlong, out of control, running amok amid the stars fixed in the vault of heaven, hurtling the chariot where no road had run. And now they climb to highest heaven, now plunge sheer in breakneck descent down to the earth. Luna (the Moon) [Selene] with wonder sees her brother's team running below her own; the scalding clouds steam; the parched fields crack deep, all moisture dried, and every summit flames; the calcined meads lie white; the leaf dies burning with the bough and the dry corn its own destruction feeds. These are but trifles. Mighty cities burn with all their ramparts; realms and nations turn to ashes; mountains with their forests blaze. Athos is burning, Oete is on fire, and Tmolus and proud Taurus Cilix and the crest of Ide, dry whose springs were once so famed, and virgin Helicon and Haemus, still unknown, unhonoured. Aetne burns immense in twofold conflagration; Eryx flames and Othrys and Parnasos' double peaks; Cynthus and Dindyma and Mycale and Rhodope, losing at last her snows, and Mimas and Cithaeron's holy hill. Caucasus burns; the frosts of Scythia fail in her need; Pindus and Ossa blaze and, lordlier than both, Olympus flames and the airy Alpes and cloud-capped Appeninus.
+     <br/>
+     Then Phaethon saw the world on every side ablaze--heat more that he could bear. He breathed vapours that burned like furnace-blasts, and felt the chariot glow white-hot beneath his feet. Cinders and sparks past bearing shoot and swirl and scorching smoke surrounds him; in the murk, the midnight murk, he knows not where he is or goes; the horses whirl him where they will. The Aethiopes (Ethiopians) then turned black, so men believe, as heat summoned their blood too near the skin. Then was Libya's dusty desert [i.e. the Sahara] formed, all water scorched away. Then the sad Nymphae (Nymphs) bewailed their pools and springs; Boeotia mourned her Dirce lost, Argos Amymone, Ephyre Pirene; nor were Flumina (Rivers) [Potamoi] safe though fortune's favour made them broad and deep and their banks far apart; in middle stream from old Peneus rose the drifting steam, from Erymanthus Phegaicus too and swift Ismenos, and Caicus Teuthranius and the Tanais; Maeander playing on his winding way; tawny Lycormas, Xanthus doomed to burn at Troy a second time; Melas Mygdonius, that sable stream; the pride of Eurotas Taenarius. Eurphrates Babylonius burned, Phasis, Hister [Danube] and Ganges were on fire, Orontes burned and racing Thermodon; Alpheus boiled, fire scorched Spercheus' banks. The gold that Tagus carried in his sands ran molten in the flames, and all the swans that used to charm the Maeonian banks with song huddled in mid Cayster sweltering. The Nilus (Nile) in terror to the world's end fled and his head, still hidden; this seven mouths gaped dusty, seven vales without a stream. The same disaster dried the Ismarian rivers, Hebrus and Strymon, dried the lordly flow of the Hesperian waters, Rhodanus (Rhode) and Rhenus (Rhine) and Padus (Po), and Thybris (Tiber), promised empire of the world. Earth everywhere splits deep and light strikes down into Tartara (the Underworld) and fills with fear Hell's Monarch (
+     <em>
+      Rex Infernus
+     </em>
+     ) [Haides] and his consort [Persephone]; the wide seas shrink and where ocean lay a wilderness of dry sand spread; new peaks and ranges rise, long covered by the deep, and multiply the scattered islands of the Cyclades. The fishes dive, the dolphins dare no leap their curving course through the familiar air, and lifeless seals float supine on the waves; even Nereus, fathoms down, in his dark caves, with Doris and her daughters [the Nereides], felt the fire. Thrice from the waters Neptunus [Poseidon] raised his arm and frowning face; thrice fled the fiery air.
+     <br/>
+     But Mother Tellus (Earth) [Gaia], encompassed by the seas, between the ocean and her shrinking streams, that cowered for refuge in her lightless womb, lifted her smothered head and raised her hand to shield her tortured face; then with a quake, a mighty tremor that convulsed the world, sinking in shallow subsidence below her wonted place, in solemn tones appealed : ‘If this thy pleasure and my due, why now,  Supreme God (
+     <em>
+      Summus Deum
+     </em>
+     ) [Zeus], lie thy dread lightnings still? If fire destroy me, let the fire be thine: my doom were lighter dealt by thy design! Scarce can my throat find voice to speak’ the smoke and heat were choking her. ‘See my singed hair! Ash in my eyes, ash on my lips so deep! Are these the fruits of my fertility? Is this for duty done the due return? That I endure the wounds of pick and plough, year-long unceasing pain, that I supply grass for the flocks and crops, sweet sustenance, for humankind and incense for you gods? But, grant my doom deserved, what have the seas deserved and shat they brother? Why shrinks that main, his charge, and form the sky so far recoils? And if no grace can save they brother now, nor me, pity thine own fair sky! Look round! See, each pole smokes; if there the fire should gain, your royal roofs will fall. Even Atlas fails, his shoulders scarce sustain the flaming sky. If land and sea, if heaven's high palaces perish, prime chaos will us all confound! Save from the flames whatever's still alive, and prove you mean Creation to survive!’
+     <br/>
+     Tellus (Earth) [Gaia] could speak no more, nor more endure the fiery heat and vapour, and sank back to her deep caverns next the Manes (Ghosts of the Underworld). But the Almighty Father (
+     <em>
+      Pater Omnipotens
+     </em>
+     ) [Zeus], calling the gods and him who gave the chariot to attest creation doomed were now his aid not given, mounted the highest citadel of heaven, whence he was wont to veil the lands with clouds and roll his thunders and his lightnings hurl. But then no clouds had he the lands to veil, nor rain to send from heaven to soothe their pain. He thundered; and poising high his bolt to blast, struck Phaethon from the chariot and from life, and fire extinguished fire and flame quenched flame. The horses in wild panic leapt apart, burst from the traces and flung off the yoke, there lies the reins, the sundered axle there, here the spokes dangle from a shattered wheel, and far and wide the signs of wreckage fly. And Phaethon, flames ravaging his auburn hair, falls headlong down, a streaming trail of light, as sometimes through the cloudless vault of night a star, though never falling, seems to fall. Eridanus receives him, far from home, in his wide waters half a world away. And bathes his burning face.
+     <br/>
+     The Naides Hesperiae (Hesperian Naiads) bury his smouldering body in a tomb and on a stone engrave this epitaph : ‘Here Phaethon lies, his father's charioteer; great was his fall, yet did he greatly dare.’ His father, sick with grief, had hidden his face, shrouded in misery, an, if the tale is true, one day went by without the Sun. The flaming fires gave light--some gain at least in that disaster. Clymene, distraught with sorrow, said whatever could be said in woes so terrible and beat her breast, and roamed the world to find his lifeless limbs and then his bones, and found his bones at last buried beside a foreign river-bank. And, prostrate there, she drenched in tears his name carved in the marble and hugged it to her breast. His sister's too, the three Heliades, wept sad tears, their futile tribute to the dead, and long lay prostrate on their brother's tomb, bruising their breasts and calling day and night Phaethon who never more would hear their moans. Four times the waxing crescent of the moon had filled her orb, in their wonted way, wailing was now their wont, they made lament . . . [The Heliades were then transformed into amber-crying poplar-trees and Phaethon's friend Kyknos (Cycnus)  into a swan.]
+     <br/>
+     Sol [Helios] meanwhile, dishevelled, his bright sheen subdued as in the gloom of an eclipse, loathing himself, loathing the light, the day, gives way to grief, and, grief rising to rage, denies his duty to the world. ‘Enough,’ he cries, ‘Since time began my lot has brought no rest, no respite. I resent this toil, unending toil, unhonoured drudgery. Let someone else take out my chariot that bears my sunbeams, or, if no one will, and all the gods confess they can't, let Jove [Zeus] drive it, and, as he wrestles with the reins, there'll be a while at least when he won't wield his bolt to rob a father of his son; and, when he's tried the fiery-footed team and learnt their strength, he'll know no one should die for failing to control them expertly.’
+     <br/>
+     Then all the deities surround Sol [Helios] and beg him and beseech him not to shroud the world in darkness. Juppiter [Zeus], indeed, defends his fiery bolt and adds his royal threats. So Sol [Helios] took in hand his maddened team, still terrified, and whipped them savagely, whipped them and cursed them for their guilt that they destroyed his son, their master, that dire day."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 245 ff :
+     </span>
+     <br/>
+     "Nothing since Phaethon's fiery death had grieved so sore the master  [Sol-Helios] of the swift Winged Steeds (
+     <em>
+      Equi Volucres
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 31 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "How could a god be deceived? As Sol (the Sun) [Helios] was when he gave his son Phaethon a ride in his chariot?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 3. 117 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "[The River Po in Italy :] Its Greek name was Eridanus, and it is famous as the scene of the punishment of Phaethon."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 598 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "The youth [Phaethon] who dared drive the everlasting chariot, heedless of his father's [Helios the Sun's] goal, himself caught the fire which in his madness he scattered o'er the sky."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 826 ff :
+     </span>
+     <br/>
+     "[The witch Medea employs a variety of fabulous ingredients in a spell to create magical fire :] Bolts of living flame I took from my kinsman, Phaëthon [i.e. from his still-flaming body]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 1088 ff :
+     </span>
+     <br/>
+     "[Phaethon driving the chariot of the sun :] The horses felt their deed, and now, with the light chariot, since none controlled, wherever fear bade on they dashed. Just so, not recognizing their wonted burden, and indignant that the day had been entrusted to a pretended Sol (the Sun) [Helios], the horses flung Phaëthon far from his heavenly track."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 5. 428 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Depicted on the walls of the palace of Aeetes son of Helios :] His poplar sisters [the Heliades] were weeping for young Phaethon, while the charred lump fell into the terrified waters of Eridanus; but scarce can Tethys gather the fragments of yoke and axle, or rescue Pyroeis [one of the horses of the Sun] who fears the father's [Sol-Helios'] grief."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 219 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "I [Jove-Zeus] had suffered Sol's [Helios the Sun's] steeds to run free of their false driver, and heaven to be burned with their straying wheels and earth to be foul with the ashes that once were Phaethon."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 321 ff :
+     </span>
+     <br/>
+     "When Sol (the Sun) [Helios] granted the fiery reins and set his son [Phaethon] upon the whirling chariot, with tears did he warn the rejoicing youth of treacherous stars and zones that would fain not be o'errun and the temperate heat that lies midway between the poles; obedient was he and cautious, but he cruel Parcae (Fates) [Moirai] would not suffer him to learn."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 12. 412 ff :
+     </span>
+     <br/>
+     "His sisters [the Heliades] lave the smoking Phaethon, Hyperion's son, in the heated Padus : scarce was he interred, when a weeping grove rose by the river-side."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 23. 236 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Dionysos threatens the River Hydaspes when he attempts to drown the god's troops :] ‘My father burnt with fire the gold son of Helios the fiery charioteer, when he drove the team through heaven; Hyperion dispenser of fire had to mourn his own son dead : he did not make war on my father for Phaethon's sake, he did not lift fire against fire even if he is lord of fire.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 30. 112 ff :
+     </span>
+     <br/>
+     "He [the dancer] would depict by gesture Phaethon's death with sensitive hand, until he made the feasters weep with tears . . . mourning the death of an imaginary Phaethon; as he depicted the young man blazing and hurtling down."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 90 ff :
+     </span>
+     <br/>
+     "[Hermes addresses Dionysos :] ‘So great a marvel ancient [an eclipse] eternal Khronos (Chronos, Time) our foster-father has never brought, since Phaethon, struck by the steam of fire divine, fell tumbling half-burnt from Helios's lightbearing chariot.’
+     <br/>
+     At these words, Dionysos rejoiced in hope of victory; then he questioned Hermes and wished to hear more of the Olympian tale which the Celts of the west know well: how Phaethon tumbled over and over through the air, and why even the Heliades (Daughters of Helios) were changed into trees beside the moaning Eridanos, and from their leafy trees drop sparkling tears into the stream [the source of amber].
+     <br/>
+     In answer, friendly Hermes opened his mouth and noised out his inspired tale to Bakkhos (Bacchus) eagerly listening : ‘Dionysos, joy of mankind, shepherd of human life! If sweet desire constrains you to hear these ancient stories, I will tell you the whole tale of Phaethon from beginning to end:--
+     <br/>
+     Loudbooming Okeanos (Oceanus), girdled with the circle of the sky, who leads his water earth-encompassing round the turning point which he bathes, was joined in primeval wedlock with Tethys. The water bride-groom begat Klymene (Clymene), fairest of the Neiades (Naiads), whom Tethys nursed on her wet breast, her youngest, a maiden with lovely arms. For her beauty Helios (Helius) pined, Helios who spins round the twelvemonth lichtgang, and travels the sevenzone circuit [the zodiac] garland-wise--Helios dispenser of fire was afflicted with another fire! The torch of love was stronger than the blaze of his car and the shining of his rays, when over the bend of the reddened Okeanos as he bathed his fiery form in the eastern waters, he beheld the maiden close by the way, while she swam naked and sported in her father's waves. Her body gleamed in her bath, she was one like the full Moon (Mene) reflected in the evening waters, when she has filled the compass of her twin horns with light. Half-seen, unshod, the girl stood in the waves shooting the rosy shafts from her cheeks at Helios; her shape was outlined in the waters, no stomacher hid her maiden bosom, but the glowing circle of her round silvery breasts illuminated the stream.
+     <br/>
+     Her father united the girl to the heavenly charioteer. The lightfoot Horai (Horae, Seasons) acclaimed Klymene's bridal with Helios Phaesphoros (Lightbringer), the Nymphai Neides (Naiad Nymphs) danced around; in a watery bridal-bower the fruitful maiden was wedded in a flaming union, and received the hot bridegroom into her cool arms. The light that shone on that bridal bed come from the starry train; and the star of Kypris (Cypris) [Aphrodite], Eosphoros [the Star Venus], herald of the union wove a bridal song. Instead of the wedding torch, Selene sent her beams to attend the wedding. The Hesperides raised the joy-cry, and Okeanos beside his bride Tethys sounded his song with all the fountains of his throat.
+     <br/>
+     Then Klymene's womb swelled in that fruitful union, and when the birth ripened she brought forth a baby son divine and brilliant with light. At the boy's birth his father's ether saluted him with song; as he sprang from the childbed, the daughters of Okeanos cleansed him, Klymene's son, in his grandsire's waters, and wrapt him in swaddlings. The Stars (Asteres) in shining movement leapt into the stream of Okeanos which they knew so well, and surrounded the boy, with Selene Eileithyia (the Moon Lady of Labour), sending forth her sparkling gleams. Helios gave his son his own name, as well suited the testimony of his form; for upon the boy's shining face was visible the father's inborn radiance.
+     <br/>
+     Often in the course of the boy's training Okeanos would have a pretty game, lifting Phaethon on his midbelly and letting him drop down; he would throw the boy high in the air, rolling over and over moving in a high path as quick as the wandering wind, and catch him again on his arm; then he would shoot him up again, and the boy would avoid the ready hand of Okeanos, and turn a somersault round and round till he splashed into the dark waters, prophet of his own death. The old man groaned when he saw it, recognizing the divine oracle, and hid all in prudent silence, that he might not tear the happy heart of Klymene the loveing mother by foretelling the cruel threads of Phaethon's Fate.
+     <br/>
+     So the boy, hardly gown up, and still with no down on his lip, sometimes frequented his mother Klymene's house, sometimes travelled even to the meadows of Thrinakia (Thrinacia), where he would often visit and stay with Lampetie, tending cattle and sheep ... There he would long for his father the charioteer divine; made a wooden axle with skilful joinery, fitted on a sort of round wheel for his imitation car, fashioned yoke-straps, took three light withies from the flowering garden and plaited them into a lash, put unheard of bridles on four young rams. Then he made a clever imitation of the morning star round like a wheel, out of a bunch of white flowers, and fixed it in front of his spokeswheeled wagon to show the shape of the star Eosphoros. He set burning torches standing about his hair on every side, and mimicked his father with fictitious rays as he drove round and round the coast of the seagirt isle.
+     <br/>
+     But when he grew up into the fair bloom of youth, he often touched his father's fire, lifted with his little hand the hot yokestraps and the starry whip, busied himself with the wheel, stroked the horses' coats with snow-white hands--and so the playful boy enjoyed himself. With his right hand he touched the fireshotten bridle, mad with longing to manage the horses. Seated on his father's knees, he shed imploring tears, and begged for a run with the fiery chariot and heavenly horses. His father said no, but he only begged and prayed all the more with gracious pleading. Then the father said in affectionate words to his young son in the highfaring car : ‘Dear son of Helios, dear grandson of Okeanos, ask me another boon; what have you to do with the chariot of the sky? Let alone the course of horsemanship. You cannot attain it, for you cannot guide my car--I can hardly drive it myself! Furious Ares never armed him with flaming thunderbolt, but he blared his tune with a trumpet, not with thunder. Hephaistos (Hephaestus) never collects his father's clouds; he is not called Cloudgatherer like Kronion (Cronion), but hammers his iron anvil in the forge, and pours artificial blasts of artificial wind. Apollon has a winged swan, not a running horse. Hermes keeps his rod and wears not his father's aegis, lifts not his father's fiery lightning. But you will say--"He gave Zagreus the flash of the thunderbolt." Yes, Zagreus held the thunderbolt, and came to his death! Take good care, my child, that you too suffer not woes like this.’
+     <br/>
+     So he spoke, but the boy would not listen; he prodded his father and wetted his tunic with hotter tears. He put out his hands and touched his father's fiery beard; kneeling on the ground he bent his arched neck, pleading, and when the father saw, he pitied the boy. Klymene cried and begged too. Then although he knew in his heart the immovable inflexible spinnings of Moira (Fate), he consented regretful, and wiped with his tunic the rain of tears form the unsmiling face of sad Phaethon, and kissed the boy's lips while he said : ‘There are twelve houses in all the fiery aither, set in the circle of the rounded Zodiakos (Zodiac), one close after another in a row, each separate; though these alone is the inclined winding path of the restless Planetoi (Planets) rolling in their courses. All round these Kronos (Cronus) [i.e. the planet Saturn] crawls from house to house on his heavy knees along the seventh zone upon the circle, until at last with difficulty he completes thirty circuits of returning Selene (the Moon) [i.e. two and half years]. On the sixth, quicker than his father, Zeus [the planet Jupiter] has his course opposite, and goes his round in a lichtgang. By the third, fiery Ares [i.e. the planet Mars] passes [one sign of the Zodiac] in sixty days, near your father. I myself [the Sun] rise in the fourth, and traverse the whole sky garland-wise in my car, following the winding circles of the heavenly orbits. I carry the measures of time (
+     <em>
+      khronos
+     </em>
+     ), surrounded by the four Horai (Seasons), about the same centre, until I have passed through a whole house and fulfilled one complete month as usual; I never leave my journey unfinished and change to a backward course, nor do I go forward again; since the other Asteres (Stars), the Planeta (Planets), in their various courses always run contrary ways : they check backwards, and go both to and fro; when the measures of their way are half done they run back again, thus receiving on both sides my one-sided light [i.e. half the planets, including the moon, travel above the sun and half below  so that each receives his light on just one side]. One of these Planeta (Planets) is horned Selene (the Moon) whitening the sky; when she has completed all her circuit, she brings forth with her wise fire the month, being at firs half seen, then curved, then full moon with her whole face. Against Mene the moon I move my rolling ball, the sparkling nourisher of sheafproducing growth, and pass on my endless circuit about the turning-point of the Zodiakos (Zodiac), creating the measures of time. When I have completed one whole circle passing from house to house I bring off the lichtgang. Take care of the crossing-point itself [i.e. where the moon cuts the ecliptic], lest when you come close, rounding the cone of darkness with your car, it should steal all light from your overshadowed chariot. And in your driving do not stray form the usual circuit of the course, or be tempted to leave your father's usual goal by looking at the five parallel circles [i.e. the arctic, the two tropic, the equatorial and the Antarctic circles] with their multiple bond of long encompassing lines, or your horses may run away and carry you through the air out of your course. Do not, when you look about on the twelve circles [i.e. the 12 signs of the zodiac] as you cross them, hurry from house to house. When you are driving your car in the Krios [Aries the Ram], do not try to drive over the Tauros [Taurus the Bull]. Do not seek for his neighbour Skorpios [Scorpio] moving among the stars, the harbinger of the plowtree, when you are driving under the Balance [Libra], until you complete thirty degrees.
+     <br/>
+     ‘Just listen to me, and I will tell you everything. When I reach Krios [Aries the Ram], the centre of the universe, the navel-star of Olympos, I in my exaltation let the Spring (Eiar) increase; and crossing the herald of the West-Wind (Zephyros), the turning-line which balances night equal with day, I guide the dewy course of that Season (Hora Eiar) when the swallow comes. Passing into the lower house, opposite Krios [Aries the Ram], I cast the light equal day on the two hooves; and again I make day balanced equally with dark on my homeward course when I bring in the leafshaking course of the autumn Season (Hora Phthinoporon), and drive with lesser light to the lower turning-point in the leafshedding month. Then I bring Winter (Kheimon) for mankind with its rains, over the back of fish-tailed Aigokeros [Capricorn], that earth may bring forth her gifts full of life for the farmers, when she receives the bridal showers and the creative dew. I deck out also corn-tending Summer (Theros) the messenger of harvest, floggin the wheatbearing earth with hotter beams, while I drive at the highest point of my course in Karkinos [Cancer the Crab], who is right opposite to the cold Aigokeros [Capricorn]: both Neilos (Nile) and grapes together I make to grow.
+     <br/>
+     ‘When you begin your course, pass close by the side of Kerne (Cerne), and take Phosphoros (the Morning Star) as guide to lead the way for your car, and you will not go astray; twelve circling Horai (Horae, Hours) in turn will direct your way [i.e. Helios has twelve minor Hour attendants--sometimes representing hours of the day and at other times the months of the year].’
+     <br/>
+     After this speech, he placed the golden helmet on Phaethon's head and crowned him with his own fire, winding the seven rays like strings upon his hair, and put the white kilt girdlewise round him over his loins; he clothed him in his own fiery robe and laced his foot into the purple boot, and gave his chariot to his son. The Horai brought the fiery horses of Helios from their eastern manger; Eosphoros (the Dawn Star) came boldly to the yoke, and fastened the horses' necks in the bright yokestraps for their service.
+     <br/>
+     Then Phaethon mounted, Helios his father gave him the reins to manage, shining reins and gleaming whip : he shook in trembling silence, for he understood that his son had not long to live. Klymene his mother could be half seen near the shore [i.e. she was up to her waist in the water], as she watched her dear son mounting the flaming car, and shook with joy.
+     <br/>
+     Already Eosphoros (the Dawn Star) was sparkling, that dewy star, and Phaethon rose traversing the eastern ambit, after his bath in the waters of Okeanos his grandsire. The bold driver of brilliant horses, running on high, scanned the heavens dotted with the company of the stars, girdled about by the seven Zones; he beheld the Planetoi (Planets) moving opposite, he saw the earth fixed in the middle like a centre, uplifted on tall cliffs and fortified on all sides by the Winds in her caverns, he scanned the rivers, and the brows of Okeanos, driving back his own water into his own stream.
+     <br/>
+     While he directed his eye to the upper air and the flood of stars, the diverse races of earth and the restless back of the sea, gazing round and round on the foundations of the infinite universe, the shining horses rolled along under the yoke over their usual course through the Zodiakos (Zodiac). Now inexperienced Phaethon with his fiery whip could be seen flogging the horses' necks; they went wild shrinking under the goad of their merciless charioteer, and all unwilling they ran away over the limit of their ancient road beyond the mark of the zodiac, expecting a different call from their familiar driver. Then there was tumult along the bounds of Notos (the South Wind) and the back of Boreas (the North Wind): the quickfoot Horai at the celestial gate wondered at the strange and unreal day, Eos (the Dawn) trembled, and star Phosphoros cried out. 
+  ‘Where are you hurrying, dear boy? Why have you gone mad with reins in your hand? Spare you headstrong lash! Beware of these two companies--both Planeta (Planets) and the company of fixed stars, lest bold Orion kill you with his knife, lest ancient Bootes hit you with fiery cudgel. Spare this wild driving, and let not the Olympian Ketos [Cetus the Sea-Monster] entomb you in his belly in high heaven; let not Leon [Leo the Lion] tear you to pieces, or the Olympian Tauros [Taurus the Bull] arch his neck and strike you with fiery horn! Respect Tosdeutera [Saggitarius the Archer], or he may kill you with a firebarbed arrow from his drawn bowstring. Let there not be a second chaos, and the stars of heaven appear at the rising day, or erratic Eos (Dawn) meet Selene (the Moon) at noonday in her car!’
+     <br/>
+     As he spoke, Phaethon drove harder still, drawing his car aside to Notos (the South), to Boreas (the North), close to Zephyros (the West), near to Euros (the East). There was tumult in the sky shaking the joints of the immovable universe : the very axle bent which runs through the middle of the revolving heavens [i.e. the pole around which the constellations revolve]. Libyan Atlas could hardly support the self-rolling firmament of stars, as he rested on his knees with bowed back under this greater burden . . . [and all the constellations and stars were thrown from their paths into disarray.]
+     <br/>
+     Then father Zeus struck down Phaethon with a thunderbolt, and sent him rolling helplessly from on high into the stream of Eridanos. He fixed again the joints which held all together with their primeval union, gave back the horses to Helios, brought the heavenly chariot to the place of rising; and the agile Horai that attended upon Phaethon followed their ancient course. All the earth laughed again. Rain from lifebreeding Zeus cleared all the fields, and with moist showers quenched the wandering fires, all that the glowing horses had spat whinnying from their flaming throats out of the sky over all the earth. Helios rose driving his car on his road again; the crops grew, the orchards laughed again, receiving as of yore the life-giving warmth from the sky.
+     <br/>
+     But father Zeus fixed Phaethon in Olympos, like a Heniokhos [Auriga the Charioteer], and bearing that name. As he hold in the radiant Chariot of the heavens with shining harm, he has the shape of a Charioteer starting upon his course, as if even among the stars he longed again for his father's car. The fire-scorched river also came up to the vault o the stars with the consent of Zeus, and in the starry circle rolls the meandering stream of burning Eridanos. 
+  But the sisters [the Heliades] of the charioteer fallen to his early death changed their shape into trees, and from the weeping trees they distil precious dew out of their leaves."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 39. 3 ff :
+     </span>
+     <br/>
+     "Bakkhos (Bacchus) was wondering still at the confusion of the disordered stars, and Phaethon's fall, how he slipt down among the Celts into the Western river, firescorched."
+    </p>
+    <p>
+     <em>
+      Other sources :
+     </em>
+     <br/>
+     Smyth (L.C.L.) comments on Aeschylus'
+     <em>
+      Heliades
+     </em>
+     : Phaëthon was hurled into the Eridanus, which Aeschylus, according to Pliny,
+     <em>
+      Nat. Hist.
+     </em>
+     37. 31, placed in Iberia and identified with the Rhone, a river confused with the Po, on the banks of which was the city of Adria. Polybius,
+     <em>
+      History
+     </em>
+     ii. 16 and Plutarch,
+     <em>
+      On the Delay of Divine Vengeance
+     </em>
+     12. p. 557, report that the inhabitants along the Eridanus wore black in mourning for Phaëthon.
+     <em>
+      Quaestiones Phaëthonteae
+     </em>
+     18, refers “the way of mourning” to the tears of amber from the poplars into which the maidens had been transformed.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Greek Lyric V Philoxenus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     PHAETHON SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE DEMI-GOD PHAETHON
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Helius and Clymene
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        The failed sun
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Slain by
+       </th>
+       <td>
+        Zeus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Merope in Ethiopia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Constellation
+       </th>
+       <td>
+        Auriga
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

@@ -1,0 +1,1866 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   HYACINTHUS (Hyakinthos) - Spartan Prince of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Hyacinthus was a handsome, young, Spartan prince loved by the gods Apollo and Zephyrus. The West-Wind, however, grew jealous of his rival in love and one day, as the pair were playing discus, blew the discus off course causing it to strike Hyacinthus in the head killing him. The grieving Apollo then transformed the dying youth into a larkspur flower (hyakinthos in Greek) which he inscribed with the wail of mourning AI, AI." name="description"/>
+  <meta content="Hyacinthus, Hyakinthos, Greek mythology, Spartan prince, lover of Apollo, larkspur metamorphosis, Hyacinthus pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-spring.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Heroes
+     </a>
+     &gt;&gt; Hyacinthus (Hyakinthos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HYAKINTHOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ὑακινθος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Hyakinthos
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Hyacinthus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Larkspur flower
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/T29.1.html">
+      <img alt="Zephyrus and Hyacinthus | Athenian red-figure kylix C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/T29.1Zephyros.jpg"/>
+     </a>
+     <figcaption>
+      Zephyrus and Hyacinthus, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     HYAKINTHOS (Hyacinthus) was a handsome young Spartan prince loved by the gods
+     <a href="../Olympios/Apollon.html">
+      Apollon
+     </a>
+     and
+     <a href="../Titan/AnemosZephyros.html">
+      Zephyros
+     </a>
+     . The West-Wind, however, grew jealous of his rival in love and one day, as the pair were playing discus, blew the discus off course causing it to strike Hyakinthos in the head killing him. The grieving Apollon then transformed the dying youth into a larkspur flower (
+     <em>
+      hyakinthos
+     </em>
+     in Greek) which he inscribed with the wail of mourning "AI, AI."
+    </p>
+    <h3>
+     THESSALIAN HYACINTHUS
+    </h3>
+    <p>
+     The Thessalians had their own version of Hyakinthos who they also named Hymenaios "Of the Hymns." As with his female counterpart, Apollon's love
+     <a href="../Nymphe/NympheDaphne.html">
+      Daphne
+     </a>
+     , the northern Hyakinthos was associated with the Vale of Tempe--seat of Apollon's cult in the region. His father was  named as either King Magnes of Magnesia or King Pieros of Pieria who ruled the two regions adjacent to the vale. Even the Spartans seemed to acknowledge this tradition when they describe their Hyakinthos as the son of the Lapith princess Diomede of Thessalia.
+    </p>
+    <h3>
+     CHRONOLOGY OF MYTH
+    </h3>
+    <p>
+     In the chronology of myth Hyakinthos was a very early figure. His grandfather Lakedaimon (Lacedaemon) was the very first king of Lakedaimonia--the Spartan kingdom--who probably reigned shortly after the Great Deluge. His great-nephew Oibalos (Oebalus) was a contemporary of the Aiolides who established kingdoms throughout the Peloponessos--namely Perieres,
+     <a href="Salmoneus.html">
+      Salmoneus
+     </a>
+     , Sisyphos, and
+     <a href="Endymion.html">
+      Endymion
+     </a>
+     .
+     <br/>
+     According to Parthenius, Apollon's famous love
+     <a href="../Nymphe/NympheDaphne.html">
+      Daphne
+     </a>
+     was a daughter of Amyklas and therefore sister of Hyakinthos.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF HYACINTHUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1] MAGNES
+     <span class="family-refs">
+      (Hesiod Great Eoiae Frag 16)
+     </span>
+     <br/>
+     [2.1] PIEROS &amp;
+     <a href="../Ouranios/MousaKleio.html">
+      KLEIO
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.16)
+     </span>
+     <br/>
+     [3.1] DIOMEDE
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 102)
+     </span>
+     <br/>
+     [3.2] AMYKLAS &amp; DIOMEDE
+     <span class="family-refs">
+      (Apollodorus 3.116)
+     </span>
+     <br/>
+     [3.3] AMYKLAS
+     <span class="family-refs">
+      (Pausanias 3.1.3, Ovid Metamorphoses 10.162)
+     </span>
+     <br/>
+     [4.1] OIBALOS
+     <span class="family-refs">
+      (Lucian Dialogues of the Gods 16, Philostratus Elder 1.14, Hyginus Fabulae 271, Ovid Metamorphoses 10.162 &amp; 13.395)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] ANTHEIS, AIGLEIS, LYTAIA, ORTHAIA
+     <span class="family-refs">
+      (Apollodorus 3.15.8)
+     </span>
+     <br/>
+     [1.2] ANTHEIS
+     <span class="family-refs">
+      (Hyginus Fabulae 238)
+     </span>
+     <br/>
+     [1.3] THE HYAKINTHIDES
+     <span class="family-refs">
+      (Harpocration s.v Hyacinthides)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     HYACINTHUS (Huakinthos). 1. The youngest son of the Spartan king Amyclas and Diomede (Apollod. iii. 10. § 3; Paus. iii. 1. § 3, 19. § 4), but according to others a son of Pierus and Clio, or of Oebalus or Eurotas (Lucian,
+     <em>
+      Dial. Deor.
+     </em>
+     14; Hygin.
+     <em>
+      Fab.
+     </em>
+     271.) He was a youth of extraordinary beauty, and beloved by Thamyris and Apollo, who unintentionally killed him during a game of discus. (Apollod. i. 3. § 3.) Some traditions relate that he was beloved also by Boreas or Zephyrus, who, from jealousy of Apollo, drove the discus of the god against the head of the youth, and thus killed him. (Lucian,
+     <em>
+      l.
+     </em>
+     c; Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     iii. 63; Philostr.
+     <em>
+      Imag.
+     </em>
+     i.24; Ov.
+     <em>
+      Met.
+     </em>
+     x. 184.) From the blood of Hyacinthus there sprang the flower of the same name (hyacinth), on the leaves of which there appeared the exclamation of woe AI, AI, or the letter U, being the initial of Huakinthos. According to other traditions, the hyacinth (on the leaves of which, howeve those characters do not appear) sprang from the blood of Ajax. (Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     x. 28; comp. Ov.
+     <em>
+      Met.
+     </em>
+     xiii. 395, &amp;c., who combines both legends; Plin.
+     <em>
+      H. N.
+     </em>
+     xxi. 28.) Hyacinthus was worshipped at Amyclae as a hero, and a great festival, Hyacinthia, was celebrated in his honour.
+     <br/>
+     2. A Lacedaemonian, who is said to have gone to Athens, and in compliance with an oracle, to have caused his daughters to be sacrificed on the tomb on the Cyclops Geraestus, for the purpose of a learned of delivering the city from famine and the plague, under which it was suffering during the war with Minos. His daughters, who were sacrificed either to Athena or Persephone, were known in the Attic legends by the name of the Hyacinthides, which they derived from their father. (Apollod. iii. 15. § 8; Hygin.
+     <em>
+      Fab.
+     </em>
+     238; Harpocrat.
+     <em>
+      s. v.
+     </em>
+     ) Some traditions make them the daughters of Erechtheus, and relate that they received their name from the village of Hyacinthus, where they were sacrificed at the time when Athens was attacked by the Eleusinians and Thracians, or Thebans. (Suid.
+     <em>
+      s.v.
+     </em>
+     Parthenoi; Demosth.
+     <em>
+      Epilaph.
+     </em>
+     p. 1397; Lycurg.
+     <em>
+      c. Leocrat.
+     </em>
+     24; Cic.
+     <em>
+      p. Sext.
+     </em>
+     48; Hygin.
+     <em>
+      Fab.
+     </em>
+     46.) The names and numbers of the Hyacinthides differ in the different writers. The account of Apollodorus is confused: he mentions four, and represents them as married, although they were sacrificed as maidens, whence they are sometimes called simply
+     <em>
+      hai parthenoi
+     </em>
+     . Those traditions in which they are described as the daughters of Erechtheus confound them with Agraulos, Herse, and Pandrosos (Schol.
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     i. 211), or with the Hyades. (Serv.
+     <em>
+      ad Aen.
+     </em>
+     i. 748.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Thessalia">
+     APOLLO &amp; THE THESSALIAN HYACINTHUS
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/T29.2.html">
+      <img alt="Zephyrus and Hyacinthus | Athenian red-figure kylix C5th B.C." class="img-responsive center-block" src="../image/T29.2Zephyros.jpg"/>
+     </a>
+     <figcaption>
+      Zephyrus and Hyacinthus, Athenian red-figure kylix C5th B.C.
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, The Great Eoiae Fragment 16 (from Antoninus Liberalis, Metamorphoses 23) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Hesiod tells the story in the
+     <em>
+      Great Eoiai
+     </em>
+     . . . Magnes . . . lived in the region of Thessalia (Thessaly), in the land which men called after him Magnesia. He had a son of remarkable beauty, Hymenaios (Hymenaeus). And when Apollon saw the boy, he was seized with love for him, and would not leave the house of Magnes. Then Hermes made designs on Apollon's herd of cattle which were grazing in the same place as the cattle of Admetos (Admetus) [i.e. which Apollon was herding at the time]." [N.B. Hymenaios was identified with Hyakinthos, see Apollodorus below.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 16 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Aphrodite, furious with [the Muse] Kleio (Clio). . . caused her to fall in love with Magnes' son Pieros (Pierus). As a result of their union she bore him a son Hyakinthos (Hyacinthus). Thamyris, son of Philammon and the Nymphe Argiope, the first male to love other males, fell in love with Hyakinthos. Later on Apollon, who also loved him, accidentally killed him with a discus."
+    </p>
+    <hr/>
+    <h3 id="Apollon">
+     APOLLO &amp; THE SPARTAN HYACINTHUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 102 (from Oxyrhynchus Papyri 1359 fr. 3) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     ". . ((lacuna)) rich-tressed Diomede; and she bare Hyakinthos (Hyacinthus), the blameless one and strong . . ((lacuna)) whom, on a time Phoibos (Phoebus) [Apollon] himself slew unwittingly with a ruthless disk."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 116  (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Amyklas (Amyclas) and Lapithes' daughter Diomede had Kynortes (Cynortes) and Hyakinthos (Hyacinthus). They tell how this Hyakinthos was loved by Apollon, who accidentally killed him while hurling a discus."
+     <br/>
+     [N.B. Lapithes, grandfather of Hyakinthos, was the eponymous king of the Lapith tribe of northern Thessalia.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bion, Poems   11 (trans. Edmonds) (Greek bucolic C2nd to 1st B.C.) :
+     </span>
+     <br/>
+     "When he beheld thy [Hyakinthos'] agony Phoibos (Phoebus) [Apollon] was dumb. He sought every remedy, he had recourse to cunning arts, he anointed all the wound, anointed it with ambrosia and with nectar; but all remedies are powerless to heal the wounds of Fate."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 1. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Amyklas (Amyclas), son of Lakedaimon (Lacedaemon), wished to leave some memorial behind him, and built [Amyklai (Amyclae)] a town in Lakonia. Hyakinthos (Hyacinthus), the youngest and most beautiful of his sons, died before his father, and his tomb is in Amyklai below the image of Apollon. On the death of Amyklas the empire came to Aigalos (Aegalus), the eldest of his sons, and 
+  afterwards, when Aigalos died, to Kynortas (Cynortas). Kynortas had a son Oibalos (Oebalus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 19. 3 - 5  :
+     </span>
+     <br/>
+     "[In the temple of Apollon at Amyklai (Amyclae) :] Nikias (Nicias) [painter fl. c. 320 B.C.], son of Nikomedes, has painted him [Hyakinthos (Hyacinthus)] in the very prime of youthful beauty, hinting at the love of Apollon for Hyakinthos of which legend tells . . . As for Zephyros (the West Wind), how Apollon unintentionally killed Hyakinthos, and the story of the flower, we must be content with the legends, although perhaps they are not true history."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Dialogues of the Gods 16 (trans. Fowler) (Greek satire C2nd A.D.) :
+     </span>
+     <br/>
+     "Hermes : Why so sad, Apollon?
+     <br/>
+     Apollon : Alas, Hermes,--my love!
+     <br/>
+     Hermes : Oh; that's bad. What, are you still brooding over that affair of Daphne?
+     <br/>
+     Apollon : No. I grieve for my beloved; the Lakonian, the son of Oibalos (Oebalus).
+     <br/>
+     Hermes : Hyakinthos (Hyacinthus)? he is not dead?
+     <br/>
+     Apollon : Dead.
+     <br/>
+     Hermes : Who killed him? Who could have the heart? That lovely boy!
+     <br/>
+     Apollon : It was the work of my own hand.
+     <br/>
+     Hermes : You must have been mad!
+     <br/>
+     Apollon : Not mad; it was an accident.
+     <br/>
+     Hermes : Oh? and how did it happen?
+     <br/>
+     Apollon : He was learning to throw the quoit, and I was throwing with him. I had just sent my quoit up into the air as usual, when jealous Zephyros (damned be he above all winds! he had long been in love with Hyakinthos, though Hyakinthos would have nothing to say to him)--Zephyros came blustering down from Taygetos, and dashed the quoit upon the child's head; blood flowed from the wound in streams, and in one moment all was over. My first thought was of revenge; I lodged an arrow in Zephyros, and pursued his flight to the mountain. As for the child, I buried him at Amyklai (Amyclae), on the fatal spot; and from his blood I have caused a flower to spring up, sweetest, fairest of flowers, inscribed with letters of woe.--Is my grief unreasonable?
+     <br/>
+     Hermes : 
+  It is, Apollon. You knew that you had set your heart upon a mortal: grieve not then for his mortality."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Dialogues of the Gods 6 :
+     </span>
+     <br/>
+     "Why are Brankhos (Branchus) and Hyakinthos (Hyacinthus) so fond of Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Dialogues of the Gods 17 :
+     </span>
+     <br/>
+     "Apollon : Well, my loves never prosper; Daphne and Hyakinthos (Hyacinthus) were my great passions; she so detested me that being turned to a tree was more attractive than I; and him I killed with a quoit. Nothing is left me of them but wreaths of their leaves and flowers."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Dialogues of the Dead 8 :
+     </span>
+     <br/>
+     "[Menippos, arriving in the underworld, asks the god Hermes to show him the greatest beauties of myth.]
+     <br/>
+     Menippos : Where are all the beauties, Hermes? Show me round; I am a new-comer.
+     <br/>
+     Hermes : I am busy, Menippos. But look over there to your right, and you will see Hyakinthos (Hyacinthus), Narkissos (Narcissus), Nireus, Akhilleus (Achilles), Tyro, Helene, Leda,--all the beauties of old."
+    </p>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/K5.15.html">
+      <img alt="Hyacinthus riding swan | Athenian red-figure kylix C5th B.C. | The University of Mississippi Museum" class="img-responsive center-block" src="../image/K5.15Hyakinthos.jpg"/>
+     </a>
+     <figcaption>
+      Hyacinthus riding swan, Athenian red-figure kylix C5th B.C.,
+      <a href="http://museum.olemiss.edu/" target="_blank">
+       The University of Mississippi Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Clement of Alexandria, Recognitions 10. 26 (trans. Smith) (Greek Christian rhetoric C2nd A.D.) :
+     </span>
+     <br/>
+     "The poets also adorn the falsehoods of error by elegance of words, and by sweetness of speech persuade that mortals have been made immortal; yea more, they say that men are changed into stars, and trees, and animals, and flowers, and birds, and fountains, and rivers. And but that it might seem to be a waste of words, I could even enumerate almost all the stars, and trees, and fountains, and rivers, which they assert to have been made of men; yet, by way of example, I shall mention at least one of each class. They say that . . . Hyacinthus, beloved of Apollo, was turned into a flower . . . And they assert that almost all the stars, trees, fountains, and rivers, flowers, animals, and birds, were at one time human beings."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement of Alexandria, Exhortation to the Greeks 2 (trans. Butterworth)  :
+     </span>
+     <br/>
+     "Your gods did not abstain from boys. One [Herakles] loved Hylas, another [Apollon] Hyakinthos (Hyacinthus), another [Poseidon] Khrysippos (Chrysippus), another [Zeus] Ganymedes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 24 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting at Neapolis (Naples) :] Read the hyacinth, for there is writing on it which says it sprang from the earth in honour of a beautiful youth; and it laments him at the beginning of spring, doubtless because it was born from him when he died. Let no the meadow delay you with the flower, for it grows here also, not different from the flower which springs from the earth. The painting tells us that the hair of the youth is ‘hyacinthine,’ and that his blood, taking on life in the earth, has given the flower its own crimson colour. It flows from the head itself where the discus struck it. Terrible was the failure to hit the mark and incredible is the story told of Apollon; but since we are not here to criticize the myths and are not ready to refuse them credence, but are merely spectators of the paintings, let us examine the painting and in the first place the stand set for throwing the discus.
+     <br/>
+     A raised thrower's stand has been set apart, so small as to suffice for only one person to stand on, and then only when it supports the posterior portions and the right leg of the thrower, causing the anterior portions to bend forward and the left leg to be relieved of weight; for this leg must be straightened and advanced along with the right arm. As for the attitude of the man holding the discus, he must turn his head to the right and bend himself over so far that he an look down at his side, and he must hurl the discus by drawing himself up and putting his whole right side into the throw. Such, no doubt, was the way Apollon threw the discus, for he could not have cast it in any other way; and now that he discus has stuck the youth, he lies there on the discus itself--a Lakonian youth, straight of leg, not unpractised in running, the muscles of his arm already developed, the fine lines of the bones indicated under the flesh; but Apollon with averted face is still on the thrower's stand and he gazes down at the ground. You will say he is fixed there, such consternation has fallen upon him. A lout is Zephyros (the West Wind), who was angry with Apollon and caused the discus to strike the youth, and the scene seems a laughing matter to the wind and he taunts the god from his look-out. You can see him, I think, with his winged temples and his delicate form; and he wears a crown of all kinds of flowers, and will soon weave the hyacinth in among them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 14 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting :] Hyakinthos (Hyacinthus). Let us ask the youth, my boy, who he is and what is the reason for Apollon's presence with him, for he will not be afraid to have us, at least, look at him. Well, he says that he is Hyakinthos, the son of Oibalos (Oebalus); and now that we have learned this we must also know the reason for the god's presence. The son of Leto for love of the youth promises to give him all he possesses for permission to associate with him; for he will teach him the use of the bow, and music, and understanding the art of prophecy, and not to be unskilful with the lure, and to preside over the contest of the palaestra, and he will grant to him that, riding in the chariot drawn by swans, he should visit all the lands dear to Apollon. Here is the god, painted as usual with unshorn locks; he lifts a radiant forehead above eyes that shine like rays of light, and with a sweet smile he encourages Hyakinthos, extending his right hand with the same purpose. The youth keeps his eyes steadfastly on the ground, and they are very thoughtful, for he rejoices at what he hears and tempers with modesty the confidence that is yet to come. He stands there, covering with a purple mantle the left side of his body, which is also drawn back, and he supports his right hand on a spear, the hip being thrown forward and the right side exposed to view, and this bare arm permits us to describe what is visible. He has a slender ankle below the straight lower leg, and above the latter this supple knee-joint; then come thighs not unduly developed and hip-joints which support the rest of the body; his side rounds out a full-lunged chest, his arm swells in a delicate curve, his neck is moderately erect, while the hair is not unkempt nor stiff from grime, but falls over his forehead and blends with the first down of his beard. The discus at his feet  ((lacuna)) . . about himself, and Eros (Love), who is both radiant and at just the same time downcast, and Zephyros who just shows his savage eye from his place of look-out--by all this the painter suggests the death of the youth, and as Apollon makes his cast, Zephyros, by breathing athwart its course, will cause the discus to strike Hyakinthos."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 271 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Youths who were most handsome. Adonis, son of Cinyras and Smyrna, whom Venus [Aphrodite] loved. Endymion, son of Aetolus, whom Luna [Selene] loved. Ganymede, son of Erichthonius, whom Jove [Zeus] loved. Hyacinthus, son of Oebalus, whom Apollo loved. Narcissus, son of the river Cephisus, who loved himself . . ."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 162 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "You also, Amyclides [Hyacinthus son of Amyclas], would have been set in the sky! if Phoebus [Apollon] had been given time which the cruel fates denied for you. But in a way you are immortal too. Though you have died. Always when warm spring drives winter out, and Aries (the Ram) succeeds to Pisces (watery Fish), you rise and blossom on the green turf. And the love my father had for you was deeper than he felt for others. Delphi center of the world, had no presiding guardian, while the god frequented the Eurotas and the land of Sparta, never fortified with walls. His zither and his bow no longer fill his eager mind and now without a thought of dignity, he carried nets and held the dogs in leash, and did not hesitate to go with Hyacinthus on the rough, steep mountain ridges; and by all of such associations, his love was increased. Now Titan was about midway, betwixt the coming and the banished night, and stood at equal distance from those two extremes. Then, when the youth and Phoebus were well stripped, and gleaming with rich olive oil, they tried a friendly contest with the discus. First Phoebus, well-poised, sent it awhirl through air, and cleft the clouds beyond with its broad weight; from which at length it fell down to the earth, a certain evidence of strength and skill. Heedless of danger Taenarides [Hyacinthus] rushed for eager glory of the game, resolved to get the discus. But it bounded back from off the hard earth, and struck full against your face, O Hyacinthus! Deadly pale the God's face went--as pallid as the boy's. With care he lifted the sad huddled form.
+     <br/>
+     The kind god tries to warm you back to life, and next endeavors to attend your wound, and stay your parting soul with healing herbs. His skill is no advantage, for the wound is past all art of cure. As if someone, when in a garden, breaks off violets, poppies, or lilies hung from golden stems, then drooping they must hang their withered heads, and gaze down towards the earth beneath them; so, the dying boy's face droops, and his bent neck, a burden to itself, falls back upon his shoulder : ‘You are fallen in your prime defrauded of your youth, O Oebalides [Hyakinthos]!' Moaned Apollo. `I can see in your sad wound my own guilt, and you are my cause of grief and self-reproach. My own hand gave you death unmerited--I only can be charged with your destruction.--What have I done wrong? Can it be called a fault to play with you? Should loving you be called a fault? And oh, that I might now give up my life for you! Or die with you! But since our destinies prevent us you shall always be with me, and you shall dwell upon my care-filled lips. The lyre struck by my hand, and my true songs will always celebrate you. A new flower you shall arise, with markings on your petals, close imitation of my constant moans: and there shall come another to be linked with this new flower, a valiant hero shall be known by the same marks upon its petals.’
+     <br/>
+     And while Phoebus, Apollo, sang these words with his truth-telling lips, behold the blood of Hyacinthus, which had poured out on the ground beside him and there stained the grass, was changed from blood; and in its place a flower, more beautiful than Tyrian dye, sprang up. It almost seemed a lily, were it not that one was purple and the other white. But Phoebus was not satisfied with this. For it was he who worked the miracle of his sad words inscribed on flower leaves. These letters AI, AI, are inscribed on them. And Sparta certainly is proud to honor Hyacinthus as her son; and his loved fame endures; and every year they celebrate his solemn festival."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 13. 395 :
+     </span>
+     <br/>
+     "From the green turf that purple flower [the hyacinth] bore, which first had sprung from wounded Oebalius [Hyacinthus]. Upon its petals letters are inscribed letters for boy [Hyacinthus] and man [Ajax] alike the same, there for a wail of woe, here for a name."  [N.B. According to a rival myth about the larkspur the AI, AI inscribed on its petals spelt the name Aias (Ajax), the Salaminian hero of the Trojan War.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 222 ff (trans. Frazer) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Chloris, goddess of flowers, speaks of the metamorphosis of handsome youths into flowers :] I was the first to make a flower out of Therapnaean blood [i.e. Hyacinthus of Therapne], and on its petals the lament remains inscribed. Thou, too, Narcissus, hast a name in the trim gardens, unhappy thou in that thou hadst not a double of thyself. What need to tell of Crocus, and Attis, and [Adonis] the son of Cinyras, from whose wounds by my art doth beauty spring?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Claudian, Rape of Proserpine 2. 130 ff (trans. Platnauer) (Roman poetry C4th A.D.) :
+     </span>
+     <br/>
+     "[Persephone and her nymphs gather flowers :] Thee also, Hyacinthus, they gather, thy flower inscribed with woe, and Narcissus too--once lovely boys, now the pride of flowering spring. Thou, Hyacinthus, wert born at Amyclae, Narcissus was Helicon's child; thee the errant discus slew; him love of his stream-reflected face beguiled; for thee weeps Delos' god [Apollon] with sorrow-weighted brow; for him Cephisus with his broken reeds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 240 ff (trans. Mair) (Greek poetry C5th to 6th A.D.) :
+     </span>
+     <br/>
+     "The shrine of Hyakinthos (Hyacinthus) [at Amyklai (Amyclae) in Lakedaimonia], whom once while he played as a boy with Apollon the people of Amyklai marked and marvelled whether he too had not been conceived and borne by Leto to Zeus. But Apollon knew not that he was keeping the youth for envious Zephyros (the West Wind). And the earth, doing a pleasure to the weeping king, brought forth a flower to console Apollon, even that flower which bears the name of the splendid youth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 80 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The fresh-flowering garden was laid waste [by a storm], the rosy meadows withered; Zephyros (the West Wind) was beaten by the dry leaves of whirling cypresses. Phoibos (Phoebus) [Apollon] sang a dirge in lamentable tones for his devastated iris (
+     <em>
+      hyakintho
+     </em>
+     s), twining a sorrowful song, and lamented far more bitterly than for his clusters of Amyklaian (Amyclaean) flowers, when the laurel by his side was struck."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 153 ff  :
+     </span>
+     <br/>
+     "On the learned leaves of Apollon's mournful iris [i.e. the flower of Hyakinthos (Hyacinthus)] was embroidered many a plant-grown word; and when Zephyros (the West Wind) breathed through the flowery garden, Apollon turned a quick eye upon his young darling, his yearning never satisfied; if he saw the plant beaten by the breezes, he remembered the quoit, and trembled for fear the wind, so jealous once about the boy, might hate him even in a leaf: if it is true that Apollon once wept with those eyes that never wept, to see that boy writhing in the dust, and the pattern there on the flower traced its own ‘alas!’ on the iris, and so figured the tears of Phoibos (Phoebus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 10. 253  ff  :
+     </span>
+     <br/>
+     "The deathbringing breath of Zephyros might blow again, as it did once before when the bitter blast killed a young man while it turned the hurtling quoit against Hyakinthos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 362 ff :
+     </span>
+     <br/>
+     "A young Lakonian [Hyakinthos (Hyacinthus)] shook Zephyros (the West Wind); but he died, and the amorous Wind found young Kyparissos (Cyparissus) a consolation for Amyklaian Hyakinthos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 29. 95 ff  :
+     </span>
+     <br/>
+     "Apollon bemoaned Hyakinthos (Hyacinthus), struck by the quoit which brought him quick death, and reproached the blast of Zephyros (the West Wind's) jealous gale."
+    </p>
+    <hr/>
+    <h3 id="Hyakinthides">
+     SACRIFICE OF THE DAUGHTERS OF HYACINTHUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 15. 8 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[King Minos of Krete (Crete) attempted an invasion of Athens :] When the war lingered on and he could not take Athens, he prayed to Zeus that he might be avenged on the Athenians. And the city being visited with a famine and a pestilence, the Athenians at first, in obedience to an ancient oracle, slaughtered the daughters of Hyakinthos (Hyacinthus), to wit, Antheis, Aigleis (Aegleis), Lytaia (Lytaea), and Orthaia (Orthaea), on the grave of Geraistos (Geraestus), the Kyklops (Cyclops); now Hyakinthos, the father of the damsels, had come from Lakedaimon (Lacedaemon) and dwelt in Athens. But when this was of no avail, they inquired of the oracle how they could be delivered; and the god answered them that they should give Minos whatever satisfaction he might choose."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 238 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Those who killed their daughters . . . Hyacinthus, a Spartan, killed Antheis his daughter according to an oracle on behalf of the Athenians." [N.B. Antheis is the "flower." Hyginus only mentions one daughter but the passage is corrupt.]
+    </p>
+    <p>
+     Harpocration,
+     <em>
+      s.v. Huakinthides
+     </em>
+     , says that the daughters of Hyakinthos the Lakedaimonian were known as the Hyakinthides (Hyacinthides).
+    </p>
+    <hr/>
+    <h3 id="Hyakinthia">
+     THE HYACINTHIA FESTIVAL OF AMYCLAE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 9. 6 . 1 - 7. 1 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "[During the historic Persian War.] They [the Athenians] also sent envoys to Lakedaimon (Lacedaemon), who were to upbraid the Lakedaimonians for permitting the barbarian to invade Attika (Attica) and not helping the Athenians to meet him in Boiotia (Boeotia) . . . and warn them that the Athenians would devise some means of salvation for themselves if the Lakedaimonians sent them no help. The Lakedaimonians were at this time celebrating the Hyakinthia (Hyacinthia) (festival of Hyakinthos), and their chief concern was to give the god [Apollon] his due."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 1. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Amyklas (Amyclas), son of Lakedaimon (Lacedaemon), wished to leave some memorial behind him, and built a town in Lakonia. Hyakinthos (Hyacinthus), the youngest and most beautiful of his sons, died before his father, and his tomb is in Amyklai (Amyclae) below the image of Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 19. 3 - 5 :
+     </span>
+     <br/>
+     "[In the temple of Apollon at Amyklai (Amyclae) in Lakedaimonia :] The pedestal of the statue [of Apollon] is fashioned into the shape of an altar and they say that Hyakinthos (Hyacinthus) is buried in it, and at the Hyakinthia (Hyacinthia), before the sacrifice to Apollon, they devote offerings to Hyakinthos as to a hero into this altar through a bronze door, which is on the left of the altar. On the altar are wrought in relief . . . Demeter, Kore (Core, the Maid), Plouton (Pluton) [Haides], next to them Moirai (Fates) and Horai (Seasons), and with them Aphrodite, Athena and Artemis. They are carrying to heaven Hyakinthos and Polyboia (Polyboea), the sister, they say, of Hyakinthos, who died a maid. Now this statue of Hyakinthos represents him as bearded, but Nikias (Nicias) [fl. c. 320 B.C.], son of Nikomedes, has painted him in the very prime of youthful beauty, hinting at the love of Apollon for Hyakinthos of which legend tells . . . As for Zephyros (the West Wind), how Apollon unintentionally killed Hyakinthos, and the story of the flower, we must be content with the legends, although perhaps they are not true history."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 10. 1 :
+     </span>
+     <br/>
+     "[The historic Spartan general] Agesilaus again marched with an army against Korinthos (Corinth) [late 4th B.C.], and, as the festival Hyakinthia (Hyacinthia) was at hand, he gave the Amyklaians (Amyclaeans) leave to go back home and perform the traditional rites in honor of Apollon and Hyakinthos (Hyacinthus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 4. 19. 4 :
+     </span>
+     <br/>
+     "[During the Second Messenian War C7th B.C. :] Now the Lakedaimonians (Lacedaemonians), as the festival of Hyakinthos was approaching, made a truce of forty days with the men of Eira [in Messenia]. They themselves returned home to keep the feast."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 218 (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "And Sparta certainly is proud to honor Hyacinthus as her son; and his loved fame endures; and every year they celebrate his solemn festival."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 240 ff (trans. Mair) (Greek poetry C5th to 6th A.D.) :
+     </span>
+     <br/>
+     "The shrine of Hyakinthos [i.e. at Amyklai]."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.15.html">
+        <img alt="Thumbnail Hyacinthus Riding Swan" src="../image/thumbK5.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.15 Hyacinthus Riding Swan
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T29.1.html">
+        <img alt="Thumbnail Zephyrus &amp; Hyacinthus" src="../image/thumbT29.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T29.1 Zephyrus &amp; Hyacinthus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T29.2.html">
+        <img alt="Thumbnail Zephyrus &amp; Hyacinthus" src="../image/thumbT29.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T29.2 Zephyrus &amp; Hyacinthus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../image/flora_hyakinthos_lg.jpg">
+        <img alt="Thumbnail Larkspur Flower of Hyacinthus" src="../image/flora_hyakinthos.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Larkspur Flower of Hyacinthus
+        </h3>
+        <p>
+         Photo Montage
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Great Eoiae Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Bion.html">
+       Bion, Poems
+      </a>
+      <span class="sources-detail">
+       - Greek Burcolic C2nd - 1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Lucian, Dialogues of the Gods
+      <span class="sources-detail">
+       - Greek Satire C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Lucian, Dialogues of the Dead
+      <span class="sources-detail">
+       - Greek Satire C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClementExhortation1.html">
+       Clement, Exhortation to the Greeks
+      </a>
+      <span class="sources-detail">
+       - Christian Scholar C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClementRecognitions.html">
+       Clement, Recognitions
+      </a>
+      <span class="sources-detail">
+       - Christian Scholar C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClaudianProserpine.html">
+       Claudian, Rape of Proserpine
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Nicander Theriaca 901,  Palaephatus De incredib. 47, Servius On Virgil's Eclogues 3.63, Lactantius Placidus on Statius' Thebaid 4.223, First Vatican Mythographer 117, Second Vatican Mythographer 181.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     HYACINTHUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE PRINCE HYACINTHUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Amyclas and Diomede
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Loved by
+       </th>
+       <td>
+        Apollo and Zephyrus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Amyclae in Laconia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Slain by
+       </th>
+       <td>
+        Apollo (accidental) and Zephyrus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Larkspur
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     HYACINTHUS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Hyacinthus
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Thessalia">
+       Apollo &amp; the Thessalian Hyacinthus
+      </a>
+     </li>
+     <li>
+      <a href="#Apollon">
+       Apollo &amp; the Spartan Hyacinthus
+      </a>
+     </li>
+     <li>
+      <a href="#Hyakinthides">
+       Sacrifice of the Daughters of Hyacinthus
+      </a>
+     </li>
+     <li>
+      <a href="#Hyakinthia">
+       The Hyacinthia Festival of Amyclae
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

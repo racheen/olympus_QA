@@ -1,0 +1,663 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <!-- InstanceBegin template="/Templates/Main_Tree.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="nopin" name="pinterest">
+   <!-- InstanceBeginEditable name="doctitle" -->
+   <title>
+    Family Tree of the Greek Gods: Hesiod's Theogony (Transliterated Greek Names)
+   </title>
+   <meta content="Genealogical Chart of the Gods of Hesiod's Theogony" name="description"/>
+   <meta content="Hesiod, Theogony, charts, family tree, family trees, genealogy, genealogical chart, greek mythology, mythology, myth, gods, goddesses, pantheon, ancient, classical, ancient Greece, Greece, Greek, pictures" name="keywords"/>
+   <!-- InstanceEndEditable -->
+   <!-- ImageReady Preload Script (buttons) -->
+   <script type="text/javascript">
+    <!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		bt_hm_over = newImage("image/bt_hm_over.gif");
+		bt_enc_over = newImage("image/bt_enc_over.gif");
+		bt_pan_over = newImage("image/bt_pan_over.gif");
+		bt_bes_over = newImage("image/bt_bes_over.gif");
+		bt_fam_over = newImage("image/bt_fam_over.gif");
+		bt_misc_over = newImage("image/bt_misc_over.gif");
+		bt_lib_over = newImage("image/bt_lib_over.gif");
+		bt_gal_over = newImage("image/bt_gal_over.gif");
+		bt_bib_over = newImage("image/bt_bib_over.gif");
+		bt_tree_key_over = newImage("image/bt_tree_key_over.gif");
+		bt_tree_ind_over = newImage("image/bt_tree_ind_over.gif");
+		bt_tree0_over = newImage("image/bt_tree0_over.gif");
+		bt_tree1_over = newImage("image/bt_tree1_over.gif");
+		bt_tree2_over = newImage("image/bt_tree2_over.gif");
+		bt_tree3_over = newImage("image/bt_tree3_over.gif");
+		bt_tree4_over = newImage("image/bt_tree4_over.gif");
+		bt_tree5_over = newImage("image/bt_tree5_over.gif");
+		bt_tree6_over = newImage("image/bt_tree6_over.gif");
+		bt_tree7_over = newImage("image/bt_tree7_over.gif");
+		bt_tree8_over = newImage("image/bt_tree8_over.gif");
+		bt_tree_hes_over = newImage("image/bt_tree_hes_over.gif");
+		bt_tree_hom_over = newImage("image/bt_tree_hom_over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+   </script>
+   <!-- End Preload Script -->
+   <style type="text/css">
+    <!--
+.style4 {
+	color: #531C1C;
+	font-weight: bold;
+}
+-->
+   </style>
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body bgcolor="#D9C4AE" leftmargin="0" marginheight="0" marginwidth="0" onload="preloadImages();" topmargin="0">
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <table align="center" width="100%">
+   <tr>
+    <td width="1">
+     <img height="20" src="image/space.gif" width="1"/>
+    </td>
+    <td>
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+       <td align="left" height="31" width="100%">
+        <!-- InstanceBeginEditable name="border_T" -->
+        <img height="31" src="image/palmT5.jpg" width="1434"/>
+        <!-- InstanceEndEditable -->
+       </td>
+      </tr>
+     </table>
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+       <td align="right" bgcolor="#fbe7d9" valign="top" width="150">
+        <div align="center">
+         <img height="5" src="image/space.gif" width="145"/>
+         <br/>
+         <img alt="" height="30" name="head" src="image/tree_cnr.jpg" width="140"/>
+         <br/>
+         <img height="3" src="image/space.gif" width="145"/>
+        </div>
+       </td>
+       <td bgcolor="#fbe7d9" valign="top">
+        <img height="5" src="image/space.gif" width="145"/>
+        <br/>
+        <a href="TreeKey.html" onmousedown="changeImages('bt_tree_key', 'image/bt_tree_key_over.gif'); return true;" onmouseout="changeImages('bt_tree_key', 'image/bt_tree_key.gif'); return true;" onmouseover="changeImages('bt_tree_key', 'image/bt_tree_key_over.gif'); return true;" onmouseup="changeImages('bt_tree_key', 'image/bt_tree_key_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree_key" src="image/bt_tree_key.gif" width="60"/>
+        </a>
+        <a href="TreeIndex.html" onmousedown="changeImages('bt_tree_ind', 'image/bt_tree_ind_over.gif'); return true;" onmouseout="changeImages('bt_tree_ind', 'image/bt_tree_ind.gif'); return true;" onmouseover="changeImages('bt_tree_ind', 'image/bt_tree_ind_over.gif'); return true;" onmouseup="changeImages('bt_tree_ind', 'image/bt_tree_ind_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree_ind" src="image/bt_tree_ind.gif" width="60"/>
+        </a>
+        <a href="Tree0.html" onmousedown="changeImages('bt_tree0', 'image/bt_tree0_over.gif'); return true;" onmouseout="changeImages('bt_tree0', 'image/bt_tree0.gif'); return true;" onmouseover="changeImages('bt_tree0', 'image/bt_tree0_over.gif'); return true;" onmouseup="changeImages('bt_tree0', 'image/bt_tree0_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree0" src="image/bt_tree0.gif" width="30"/>
+        </a>
+        <a href="Tree1.html" onmousedown="changeImages('bt_tree1', 'image/bt_tree1_over.gif'); return true;" onmouseout="changeImages('bt_tree1', 'image/bt_tree1.gif'); return true;" onmouseover="changeImages('bt_tree1', 'image/bt_tree1_over.gif'); return true;" onmouseup="changeImages('bt_tree1', 'image/bt_tree1_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree1" src="image/bt_tree1.gif" width="30"/>
+        </a>
+        <a href="Tree2.html" onmousedown="changeImages('bt_tree2', 'image/bt_tree2_over.gif'); return true;" onmouseout="changeImages('bt_tree2', 'image/bt_tree2.gif'); return true;" onmouseover="changeImages('bt_tree2', 'image/bt_tree2_over.gif'); return true;" onmouseup="changeImages('bt_tree2', 'image/bt_tree2_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree2" src="image/bt_tree2.gif" width="30"/>
+        </a>
+        <a href="Tree3.html" onmousedown="changeImages('bt_tree3', 'image/bt_tree3_over.gif'); return true;" onmouseout="changeImages('bt_tree3', 'image/bt_tree3.gif'); return true;" onmouseover="changeImages('bt_tree3', 'image/bt_tree3_over.gif'); return true;" onmouseup="changeImages('bt_tree3', 'image/bt_tree3_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree3" src="image/bt_tree3.gif" width="30"/>
+        </a>
+        <a href="Tree4.html" onmousedown="changeImages('bt_tree4', 'image/bt_tree4_over.gif'); return true;" onmouseout="changeImages('bt_tree4', 'image/bt_tree4.gif'); return true;" onmouseover="changeImages('bt_tree4', 'image/bt_tree4_over.gif'); return true;" onmouseup="changeImages('bt_tree4', 'image/bt_tree4_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree4" src="image/bt_tree4.gif" width="30"/>
+        </a>
+        <a href="Tree5.html" onmousedown="changeImages('bt_tree5', 'image/bt_tree5_over.gif'); return true;" onmouseout="changeImages('bt_tree5', 'image/bt_tree5.gif'); return true;" onmouseover="changeImages('bt_tree5', 'image/bt_tree5_over.gif'); return true;" onmouseup="changeImages('bt_tree5', 'image/bt_tree5_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree5" src="image/bt_tree5.gif" width="30"/>
+        </a>
+        <a href="Tree6.html" onmousedown="changeImages('bt_tree6', 'image/bt_tree6_over.gif'); return true;" onmouseout="changeImages('bt_tree6', 'image/bt_tree6.gif'); return true;" onmouseover="changeImages('bt_tree6', 'image/bt_tree6_over.gif'); return true;" onmouseup="changeImages('bt_tree6', 'image/bt_tree6_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree6" src="image/bt_tree6.gif" width="30"/>
+        </a>
+        <a href="Tree7.html" onmousedown="changeImages('bt_tree7', 'image/bt_tree7_over.gif'); return true;" onmouseout="changeImages('bt_tree7', 'image/bt_tree7.gif'); return true;" onmouseover="changeImages('bt_tree7', 'image/bt_tree7_over.gif'); return true;" onmouseup="changeImages('bt_tree7', 'image/bt_tree7_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree7" src="image/bt_tree7.gif" width="30"/>
+        </a>
+        <a href="Tree8.html" onmousedown="changeImages('bt_tree8', 'image/bt_tree8_over.gif'); return true;" onmouseout="changeImages('bt_tree8', 'image/bt_tree8.gif'); return true;" onmouseover="changeImages('bt_tree8', 'image/bt_tree8_over.gif'); return true;" onmouseup="changeImages('bt_tree8', 'image/bt_tree8_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree8" src="image/bt_tree8.gif" width="30"/>
+        </a>
+        <a href="TreeHesiod.html" onmousedown="changeImages('bt_tree_hes', 'image/bt_tree_hes_over.gif'); return true;" onmouseout="changeImages('bt_tree_hes', 'image/bt_tree_hes.gif'); return true;" onmouseover="changeImages('bt_tree_hes', 'image/bt_tree_hes_over.gif'); return true;" onmouseup="changeImages('bt_tree_hes', 'image/bt_tree_hes_over.gif'); return true;">
+         <img alt="" border="0" height="30" img="" name="bt_tree_hes" src="image/bt_tree_hes.gif" width="60"/>
+        </a>
+        <img height="30" src="image/space.gif" width="1"/>
+        <br/>
+        <img height="3" src="image/space.gif" width="145"/>
+       </td>
+      </tr>
+      <tr>
+       <td align="right" bgcolor="#fbe7d9" valign="top" width="150">
+        <p align="center">
+         <a href="../" onmousedown="changeImages('bt_hm', 'image/bt_hm_over.gif'); return true;" onmouseout="changeImages('bt_hm', 'image/bt_hm.gif'); return true;" onmouseover="changeImages('bt_hm', 'image/bt_hm_over.gif'); return true;" onmouseup="changeImages('bt_hm', 'image/bt_hm_over.gif'); return true;">
+          <img alt="" border="0" height="30" name="bt_hm" src="image/bt_hm.gif" width="140"/>
+         </a>
+         <br/>
+         <img height="5" src="image/space.gif" width="145"/>
+         <br/>
+         <a href="greek-mythology/encyclopedia-a.html" onmousedown="changeImages('bt_enc', 'image/bt_enc_over.gif'); return true;" onmouseout="changeImages('bt_enc', 'image/bt_enc.gif'); return true;" onmouseover="changeImages('bt_enc', 'image/bt_enc_over.gif'); return true;" onmouseup="changeImages('bt_enc', 'image/bt_enc_over.gif'); return true;">
+          <img alt="" border="0" height="30" name="bt_enc" src="image/bt_enc.gif" width="140"/>
+         </a>
+         <br/>
+         <img height="5" src="image/space.gif" width="145"/>
+         <br/>
+         <a href="greek-mythology/bestiary.html" onmousedown="changeImages('bt_bes', 'image/bt_bes_over.gif'); return true;" onmouseout="changeImages('bt_bes', 'image/bt_bes.gif'); return true;" onmouseover="changeImages('bt_bes', 'image/bt_bes_over.gif'); return true;" onmouseup="changeImages('bt_bes', 'image/bt_bes_over.gif'); return true;">
+          <img alt="" border="0" height="30" name="bt_bes" src="image/bt_bes.gif" width="140"/>
+         </a>
+         <br/>
+         <img height="5" src="image/space.gif" width="145"/>
+         <br/>
+         <a href="Tree.html" onmousedown="changeImages('bt_fam', 'image/bt_fam_over.gif'); return true;" onmouseout="changeImages('bt_fam', 'image/bt_fam.gif'); return true;" onmouseover="changeImages('bt_fam', 'image/bt_fam_over.gif'); return true;" onmouseup="changeImages('bt_fam', 'image/bt_fam_over.gif'); return true;">
+          <img alt="" border="0" height="30" name="bt_fam" src="image/bt_fam.gif" width="140"/>
+         </a>
+         <br/>
+         <img height="5" src="image/space.gif" width="145"/>
+         <br/>
+         <a href="Library.html" onmousedown="changeImages('bt_lib', 'image/bt_lib_over.gif'); return true;" onmouseout="changeImages('bt_lib', 'image/bt_lib.gif'); return true;" onmouseover="changeImages('bt_lib', 'image/bt_lib_over.gif'); return true;" onmouseup="changeImages('bt_lib', 'image/bt_lib_over.gif'); return true;">
+          <img alt="" border="0" height="30" name="bt_lib" src="image/bt_lib.gif" width="140"/>
+         </a>
+         <br/>
+         <img height="5" src="image/space.gif" width="145"/>
+         <br/>
+         <a href="Galleries.html" onmousedown="changeImages('bt_gal', 'image/bt_gal_over.gif'); return true;" onmouseout="changeImages('bt_gal', 'image/bt_gal.gif'); return true;" onmouseover="changeImages('bt_gal', 'image/bt_gal_over.gif'); return true;" onmouseup="changeImages('bt_gal', 'image/bt_gal_over.gif'); return true;">
+          <img alt="" border="0" height="30" name="bt_gal" src="image/bt_gal.gif" width="140"/>
+         </a>
+         <br/>
+         <img height="5" src="image/space.gif" width="145"/>
+         <br/>
+         <a href="Bibliography.html" onmousedown="changeImages('bt_bib', 'image/bt_bib_over.gif'); return true;" onmouseout="changeImages('bt_bib', 'image/bt_bib.gif'); return true;" onmouseover="changeImages('bt_bib', 'image/bt_bib_over.gif'); return true;" onmouseup="changeImages('bt_bib', 'image/bt_bib_over.gif'); return true;">
+          <img alt="" border="0" height="30" name="bt_bib" src="image/bt_bib.gif" width="140"/>
+         </a>
+         <br/>
+         <img height="5" src="image/space.gif" width="145"/>
+        </p>
+       </td>
+       <td bgcolor="#fbe7d9" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td bgcolor="#FEF9F5" class="main" valign="top">
+          </td>
+          <td align="right" valign="top">
+          </td>
+         </tr>
+         <tr>
+          <td bgcolor="#FEF9F5" class="main" valign="top">
+           <!-- InstanceBeginEditable name="text" -->
+           <p>
+            <span class="heading">
+             Chart Hesiod's Theogony: Greek Names (Transilterated)
+            </span>
+            <br/>
+            Click on a name on the tree to view the full page entry for that individual.
+            <br/>
+            Two other versions of this chart are available:
+            <a href="TreeHesiodLatin.html">
+             Greek Names (English Spelling)
+            </a>
+            and
+            <a href="TreeHesiodRoman.html">
+             Roman Names
+            </a>
+            .
+           </p>
+           <p>
+            <img border="0" height="3600" src="image/treehesiod.jpg" usemap="#Map" width="1233"/>
+            <map name="Map">
+             <area coords="214,35,322,54" href="Protogenos/Erebos.html" shape="rect"/>
+             <area coords="212,222,279,239" href="Protogenos/Nyx.html" shape="rect"/>
+             <area coords="383,35,462,52" href="Protogenos/Aither.html" shape="rect"/>
+             <area coords="382,74,465,92" href="Protogenos/Hemera.html" shape="rect"/>
+             <area coords="42,200,113,220" href="Protogenos/Khaos.html" shape="rect"/>
+             <area coords="213,641,294,661" href="Protogenos/Pontos.html" shape="rect"/>
+             <area coords="44,750,113,770" href="Protogenos/Gaia.html" shape="rect"/>
+             <area coords="212,1012,344,1031" href="Protogenos/Ourea.html" shape="rect"/>
+             <area coords="214,1249,304,1268" href="Protogenos/Ouranos.html" shape="rect"/>
+             <area coords="42,3257,148,3276" href="Protogenos/Eros.html" shape="rect"/>
+             <area coords="43,3401,148,3420" href="Protogenos/Tartaros.html" shape="rect"/>
+             <area coords="212,3216,300,3234" href="Protogenos/Ouranos.html" shape="rect"/>
+             <area coords="384,114,471,132" href="Daimon/Moros.html" shape="rect"/>
+             <area coords="384,140,476,160" href="Daimon/Keres.html" shape="rect"/>
+             <area coords="381,167,483,184" href="Daimon/Thanatos.html" shape="rect"/>
+             <area coords="384,192,473,211" href="Daimon/Hypnos.html" shape="rect"/>
+             <area coords="383,220,508,238" href="Daimon/Oneiroi.html" shape="rect"/>
+             <area coords="383,246,473,264" href="Daimon/Momos.html" shape="rect"/>
+             <area coords="383,273,465,290" href="Daimon/Oizys.html" shape="rect"/>
+             <area coords="383,325,508,342" href="Daimon/Moirai.html" shape="rect"/>
+             <area coords="397,351,459,395" href="Daimon/Moirai.html" shape="rect"/>
+             <area coords="383,405,496,422" href="Daimon/Keres.html" shape="rect"/>
+             <area coords="383,431,504,449" href="Daimon/Nemesis.html" shape="rect"/>
+             <area coords="383,458,463,474" href="Daimon/Apate.html" shape="rect"/>
+             <area coords="383,485,473,501" href="Daimon/Philotes.html" shape="rect"/>
+             <area coords="383,510,476,527" href="Daimon/Geras.html" shape="rect"/>
+             <area coords="553,220,628,238" href="Daimon/Ponos.html" shape="rect"/>
+             <area coords="555,247,673,263" href="Daimon/Lethe.html" shape="rect"/>
+             <area coords="554,274,642,290" href="Daimon/Limos.html" shape="rect"/>
+             <area coords="554,300,659,317" href="Daimon/Algea.html" shape="rect"/>
+             <area coords="555,326,693,343" href="Daimon/Hysminai.html" shape="rect"/>
+             <area coords="555,353,678,369" href="Daimon/Makhai.html" shape="rect"/>
+             <area coords="554,378,678,395" href="Daimon/Phonoi.html" shape="rect"/>
+             <area coords="555,407,666,436" href="Daimon/Androktasiai.html" shape="rect"/>
+             <area coords="555,445,676,462" href="Daimon/Neikea.html" shape="rect"/>
+             <area coords="555,472,696,488" href="Daimon/Pseudologoi.html" shape="rect"/>
+             <area coords="554,497,707,513" href="Daimon/Amphilogiai.html" shape="rect"/>
+             <area coords="554,523,632,540" href="Daimon/Ate.html" shape="rect"/>
+             <area coords="554,550,641,568" href="Daimon/Horkos.html" shape="rect"/>
+             <area coords="384,299,502,316" href="Titan/Hesperides.html" shape="rect"/>
+             <area coords="383,537,451,555" href="Daimon/Eris.html" shape="rect"/>
+             <area coords="910,441,983,456" href="Pontios/Amphitrite.html" shape="rect"/>
+             <area coords="855,454,900,469" href="Pontios/NereisThetis.html" shape="rect"/>
+             <area coords="900,454,951,469" href="Pontios/NereisGalene.html" shape="rect"/>
+             <area coords="801,587,867,600" href="Pontios/NereisPsamathe.html" shape="rect"/>
+             <area coords="801,521,861,534" href="Pontios/NereisPanopeia.html" shape="rect"/>
+             <area coords="862,521,921,535" href="Pontios/NereisGalateia.html" shape="rect"/>
+             <area coords="555,589,666,606" href="Pontios/Nereides.html" shape="rect"/>
+             <area coords="560,616,633,633" href="Pontios/Amphitrite.html" shape="rect"/>
+             <area coords="562,655,627,671" href="Pontios/NereisPsamathe.html" shape="rect"/>
+             <area coords="563,695,607,711" href="Pontios/NereisThetis.html" shape="rect"/>
+             <area coords="382,576,434,592" href="Pontios/Nereus.html" shape="rect"/>
+             <area coords="383,748,442,765" href="Pontios/Thaumas.html" shape="rect"/>
+             <area coords="382,852,442,869" href="Pontios/Phorkys.html" shape="rect"/>
+             <area coords="383,919,419,936" href="Pontios/Keto.html" shape="rect"/>
+             <area coords="383,985,436,1002" href="Pontios/Eurybia.html" shape="rect"/>
+             <area coords="553,736,635,753" href="Pontios/Iris.html" shape="rect"/>
+             <area coords="554,762,654,778" href="Pontios/Harpyiai.html" shape="rect"/>
+             <area coords="563,787,620,817" href="Pontios/Harpyiai.html" shape="rect"/>
+             <area coords="555,827,642,844" href="Pontios/Graiai.html" shape="rect"/>
+             <area coords="562,853,638,884" href="Pontios/Graiai.html" shape="rect"/>
+             <area coords="554,893,668,911" href="Pontios/Gorgones.html" shape="rect"/>
+             <area coords="562,919,624,936" href="Pontios/Gorgones.html" shape="rect"/>
+             <area coords="563,960,623,988" href="Pontios/Gorgones.html" shape="rect"/>
+             <area coords="554,999,609,1017" href="Ther/DrakainaEkhidna1.html" shape="rect"/>
+             <area coords="554,1038,675,1055" href="Ther/DrakonHesperios.html" shape="rect"/>
+             <area coords="723,907,783,924" href="Ther/HipposPegasos.html" shape="rect"/>
+             <area coords="724,934,790,951" href="Ther/Khrysaor.html" shape="rect"/>
+             <area coords="724,974,776,991" href="Ther/KuonOrthros.html" shape="rect"/>
+             <area coords="724,1012,783,1030" href="Ther/Khimaira.html" shape="rect"/>
+             <area coords="722,1052,791,1069" href="Ther/KuonKerberos.html" shape="rect"/>
+             <area coords="724,1078,818,1096" href="Ther/DrakonHydra.html" shape="rect"/>
+             <area coords="892,985,940,1002" href="Ther/Sphinx.html" shape="rect"/>
+             <area coords="893,1012,982,1029" href="Ther/LeonNemeios.html" shape="rect"/>
+             <area coords="791,60,971,132" href="Text/HesiodTheogony.html" shape="rect"/>
+             <area coords="893,946,960,963" href="Gigante/GiganteGeryon.html" shape="rect"/>
+             <area coords="212,3415,278,3431" href="Gigante/Typhoeus.html" shape="rect"/>
+             <area coords="383,3348,513,3365" href="Gigante/Gigantes.html" shape="rect"/>
+             <area coords="384,3322,523,3339" href="Khthonios/Erinyes.html" shape="rect"/>
+             <area coords="385,3376,504,3392" href="Nymphe/NymphaiMeliai.html" shape="rect"/>
+             <area coords="383,3414,498,3432" href="Titan/AnemoiThuellai.html" shape="rect"/>
+             <area coords="384,3256,453,3273" href="Olympios/Aphrodite.html" shape="rect"/>
+             <area coords="552,2266,614,2283" href="Olympios/Demeter.html" shape="rect"/>
+             <area coords="553,2318,591,2336" href="Olympios/Hera.html" shape="rect"/>
+             <area coords="723,2319,800,2336" href="Olympios/Hephaistos.html" shape="rect"/>
+             <area coords="553,2398,619,2415" href="Olympios/Poseidon.html" shape="rect"/>
+             <area coords="552,2450,589,2468" href="Olympios/Zeus.html" shape="rect"/>
+             <area coords="722,3137,787,3154" href="Olympios/Dionysos.html" shape="rect"/>
+             <area coords="724,3111,778,3129" href="Olympios/Hermes.html" shape="rect"/>
+             <area coords="723,3004,759,3023" href="Olympios/Ares.html" shape="rect"/>
+             <area coords="722,2951,780,2970" href="Olympios/Apollon.html" shape="rect"/>
+             <area coords="722,2977,777,2995" href="Olympios/Artemis.html" shape="rect"/>
+             <area coords="722,2464,772,2482" href="Olympios/Athena.html" shape="rect"/>
+             <area coords="893,3005,980,3023" href="Daimon/Deimos.html" shape="rect"/>
+             <area coords="894,3031,983,3049" href="Daimon/Deimos.html" shape="rect"/>
+             <area coords="1064,3005,1109,3024" href="Pontios/Leukothea.html" shape="rect"/>
+             <area coords="1065,3032,1134,3049" href="Georgikos/Thyone.html" shape="rect"/>
+             <area coords="894,3057,1012,3075" href="Ouranios/Harmonia.html" shape="rect"/>
+             <area coords="724,3177,788,3194" href="greek-mythology/heracles.html" shape="rect"/>
+             <area coords="554,3229,634,3247" href="Ouranios/Eros.html" shape="rect"/>
+             <area coords="555,3256,663,3273" href="Ouranios/ErosHimeros.html" shape="rect"/>
+             <area coords="723,3071,797,3089" href="Ouranios/Hebe.html" shape="rect"/>
+             <area coords="722,3044,789,3061" href="Ouranios/Eileithyia.html" shape="rect"/>
+             <area coords="722,2794,859,2811" href="Ouranios/Mousai.html" shape="rect"/>
+             <area coords="732,2820,769,2835" href="Ouranios/MousaKleio.html" shape="rect"/>
+             <area coords="732,2834,788,2849" href="Ouranios/MousaEuterpe.html" shape="rect"/>
+             <area coords="732,2848,782,2862" href="Ouranios/MousaThaleia.html" shape="rect"/>
+             <area coords="732,2862,807,2876" href="Ouranios/MousaMelpomene.html" shape="rect"/>
+             <area coords="733,2874,812,2889" href="Ouranios/MousaTerpsikhore.html" shape="rect"/>
+             <area coords="733,2889,773,2902" href="Ouranios/MousaErato.html" shape="rect"/>
+             <area coords="733,2902,808,2915" href="Ouranios/MousaPolyhymnia.html" shape="rect"/>
+             <area coords="733,2914,786,2928" href="Ouranios/MousaOurania.html" shape="rect"/>
+             <area coords="733,2927,789,2942" href="Ouranios/MousaKalliope.html" shape="rect"/>
+             <area coords="724,2650,873,2665" href="Ouranios/Kharites.html" shape="rect"/>
+             <area coords="734,2676,778,2692" href="Ouranios/KharisAglaia.html" shape="rect"/>
+             <area coords="734,2715,816,2730" href="Ouranios/KharisEuphrosyne.html" shape="rect"/>
+             <area coords="735,2730,784,2745" href="Ouranios/KharisThalia.html" shape="rect"/>
+             <area coords="723,2755,805,2770" href="Khthonios/Persephone.html" shape="rect"/>
+             <area coords="554,2359,602,2374" href="Khthonios/Haides.html" shape="rect"/>
+             <area coords="723,2569,845,2586" href="Daimon/Moirai.html" shape="rect"/>
+             <area coords="733,2597,794,2638" href="Daimon/Moirai.html" shape="rect"/>
+             <area coords="553,2240,600,2256" href="Ouranios/Hestia.html" shape="rect"/>
+             <area coords="723,2491,860,2507" href="Ouranios/Horai.html" shape="rect"/>
+             <area coords="734,2517,858,2532" href="Ouranios/HoraEunomia.html" shape="rect"/>
+             <area coords="734,2531,809,2546" href="Ouranios/HoraDike.html" shape="rect"/>
+             <area coords="734,2545,822,2560" href="Ouranios/HoraEirene.html" shape="rect"/>
+             <area coords="723,2412,800,2428" href="Nymphe/NympheKymopoleia.html" shape="rect"/>
+             <area coords="723,2384,769,2401" href="Pontios/Triton.html" shape="rect"/>
+             <area coords="723,2293,824,2310" href="Georgikos/Ploutos.html" shape="rect"/>
+             <area coords="383,1105,490,1121" href="Titan/Kyklopes.html" shape="rect"/>
+             <area coords="390,1133,519,1173" href="Titan/Kyklopes.html" shape="rect"/>
+             <area coords="383,1197,532,1214" href="Titan/Hekatonkheires.html" shape="rect"/>
+             <area coords="391,1223,444,1252" href="Titan/Hekatonkheires.html" shape="rect"/>
+             <area coords="391,1263,453,1279" href="Titan/HekatonkheirBriareos.html" shape="rect"/>
+             <area coords="563,1224,620,1240" href="Titan/TitanisKlymene.html" shape="rect"/>
+             <area coords="562,1382,651,1398" href="Titan/TitanisMetis.html" shape="rect"/>
+             <area coords="562,1422,631,1437" href="Titan/TitanisEurynome.html" shape="rect"/>
+             <area coords="562,1462,604,1478" href="Titan/TitanisDione.html" shape="rect"/>
+             <area coords="562,1264,596,1279" href="Khthonios/PotamosStyx.html" shape="rect"/>
+             <area coords="931,1285,966,1299" href="Khthonios/PotamosStyx.html" shape="rect"/>
+             <area coords="554,1079,686,1095" href="Nymphe/Okeanides.html" shape="rect"/>
+             <area coords="562,1144,619,1160" href="Nymphe/NympheElektra1.html" shape="rect"/>
+             <area coords="562,1183,629,1199" href="Nymphe/NympheKallirhoe1.html" shape="rect"/>
+             <area coords="561,1104,604,1121" href="Nymphe/NympheDoris.html" shape="rect"/>
+             <area coords="561,1303,615,1319" href="Nymphe/NymphePerseis.html" shape="rect"/>
+             <area coords="562,1342,603,1359" href="Nymphe/NympheEidyia.html" shape="rect"/>
+             <area coords="561,1553,624,1570" href="Nymphe/NymphePhilyre.html" shape="rect"/>
+             <area coords="562,1487,618,1504" href="Nymphe/NympheKalypso.html" shape="rect"/>
+             <area coords="859,1139,952,1155" href="Nymphe/Okeanides.html" shape="rect"/>
+             <area coords="798,1165,845,1180" href="Daimon/Peitho.html" shape="rect"/>
+             <area coords="943,1165,999,1180" href="Nymphe/NympheElektra1.html" shape="rect"/>
+             <area coords="999,1165,1040,1180" href="Nymphe/NympheDoris.html" shape="rect"/>
+             <area coords="948,1179,1008,1193" href="Titan/TitanisKlymene.html" shape="rect"/>
+             <area coords="854,1193,922,1207" href="Nymphe/NympheKallirhoe1.html" shape="rect"/>
+             <area coords="965,1193,1010,1207" href="Nymphe/NympheKlytie.html" shape="rect"/>
+             <area coords="797,1207,841,1220" href="Nymphe/NympheEidyia.html" shape="rect"/>
+             <area coords="798,1219,839,1234" href="Titan/TitanisDione.html" shape="rect"/>
+             <area coords="851,1232,902,1245" href="Nymphe/NymphePlouto.html" shape="rect"/>
+             <area coords="903,1233,957,1246" href="Nymphe/NymphePerseis.html" shape="rect"/>
+             <area coords="850,1259,889,1273" href="Titan/TitanisMetis.html" shape="rect"/>
+             <area coords="889,1260,958,1273" href="Titan/TitanisEurynome.html" shape="rect"/>
+             <area coords="860,1273,890,1287" href="Nymphe/NympheAsie.html" shape="rect"/>
+             <area coords="889,1272,947,1287" href="Nymphe/NympheKalypso.html" shape="rect"/>
+             <area coords="1002,1273,1043,1286" href="Daimon/Tykhe.html" shape="rect"/>
+             <area coords="871,1285,931,1299" href="Nymphe/NympheOkyrhoe3.html" shape="rect"/>
+             <area coords="724,1553,780,1570" href="Georgikos/KentaurosKheiron.html" shape="rect"/>
+             <area coords="383,1316,485,1333" href="Titan/Titanes.html" shape="rect"/>
+             <area coords="394,1356,525,1372" href="Titan/TitanOkeanos.html" shape="rect"/>
+             <area coords="394,1421,444,1437" href="Titan/TitanisTethys.html" shape="rect"/>
+             <area coords="393,1605,458,1623" href="Titan/TitanHyperion.html" shape="rect"/>
+             <area coords="393,1673,432,1690" href="Titan/TitanisTheia.html" shape="rect"/>
+             <area coords="394,1830,434,1848" href="Titan/TitanKrios.html" shape="rect"/>
+             <area coords="394,2027,435,2046" href="Titan/TitanKoios.html" shape="rect"/>
+             <area coords="393,2081,442,2099" href="Titan/TitanisPhoibe.html" shape="rect"/>
+             <area coords="394,2160,447,2178" href="Titan/TitanIapetos.html" shape="rect"/>
+             <area coords="392,2253,448,2270" href="Titan/TitanKronos.html" shape="rect"/>
+             <area coords="393,2319,430,2336" href="Titan/TitanisRhea.html" shape="rect"/>
+             <area coords="394,2530,441,2548" href="Titan/TitanisThemis.html" shape="rect"/>
+             <area coords="393,2596,522,2614" href="Titan/TitanisMnemosyne.html" shape="rect"/>
+             <area coords="553,1619,630,1637" href="Titan/Helios.html" shape="rect"/>
+             <area coords="554,1659,641,1677" href="Titan/Selene.html" shape="rect"/>
+             <area coords="552,1685,622,1702" href="Titan/Eos.html" shape="rect"/>
+             <area coords="552,1804,615,1821" href="Titan/TitanAstraios.html" shape="rect"/>
+             <area coords="554,1909,602,1926" href="Titan/TitanPallas.html" shape="rect"/>
+             <area coords="553,1989,605,2007" href="Titan/TitanPerses.html" shape="rect"/>
+             <area coords="554,2029,606,2045" href="Titan/TitanisAsteria.html" shape="rect"/>
+             <area coords="551,2068,590,2085" href="Titan/TitanisLeto.html" shape="rect"/>
+             <area coords="552,2107,594,2124" href="Titan/TitanAtlas.html" shape="rect"/>
+             <area coords="553,2134,621,2151" href="Titan/TitanMenoitios.html" shape="rect"/>
+             <area coords="553,2161,636,2177" href="Titan/TitanPrometheus.html" shape="rect"/>
+             <area coords="554,2188,632,2204" href="Titan/TitanEpimetheus.html" shape="rect"/>
+             <area coords="559,2202,613,2217" href="Heroine/Pandora.html" shape="rect"/>
+             <area coords="723,2002,775,2019" href="Khthonios/Hekate.html" shape="rect"/>
+             <area coords="724,1605,763,1623" href="Titan/Kirke.html" shape="rect"/>
+             <area coords="722,1739,790,1755" href="Titan/AsterPhaethon.html" shape="rect"/>
+             <area coords="735,1870,873,1887" href="Titan/AsterEosphoros.html" shape="rect"/>
+             <area coords="725,1764,856,1781" href="Titan/Anemoi.html" shape="rect"/>
+             <area coords="724,1844,825,1860" href="Titan/AstraPlaneta.html" shape="rect"/>
+             <area coords="735,1791,864,1807" href="Titan/AnemosZephyros.html" shape="rect"/>
+             <area coords="736,1805,852,1820" href="Titan/AnemosBoreas.html" shape="rect"/>
+             <area coords="735,1818,846,1834" href="Titan/AnemosNotos.html" shape="rect"/>
+             <area coords="548,1579,672,1597" href="Potamos/Potamoi.html" shape="rect"/>
+             <area coords="859,1338,938,1354" href="Potamos/Potamoi.html" shape="rect"/>
+             <area coords="799,1364,846,1379" href="Potamos/PotamosNeilos.html" shape="rect"/>
+             <area coords="847,1364,906,1378" href="Potamos/PotamosAlpheios.html" shape="rect"/>
+             <area coords="907,1364,969,1379" href="Potamos/PotamosEridanos.html" shape="rect"/>
+             <area coords="969,1364,1030,1379" href="Potamos/PotamosStrymon.html" shape="rect"/>
+             <area coords="799,1378,872,1392" href="Potamos/PotamosMaiandros.html" shape="rect"/>
+             <area coords="871,1378,918,1392" href="Potamos/PotamosIstros.html" shape="rect"/>
+             <area coords="917,1377,965,1392" href="Potamos/PotamosPhasis.html" shape="rect"/>
+             <area coords="964,1378,1017,1392" href="Potamos/PotamosRhesos.html" shape="rect"/>
+             <area coords="799,1392,865,1406" href="Potamos/PotamosAkheloios.html" shape="rect"/>
+             <area coords="865,1393,916,1406" href="Potamos/PotamosNestos.html" shape="rect"/>
+             <area coords="917,1392,975,1406" href="Potamos/PotamosRhodios.html" shape="rect"/>
+             <area coords="976,1392,1044,1406" href="Potamos/PotamosHaliakmon.html" shape="rect"/>
+             <area coords="799,1405,881,1419" href="Potamos/PotamosHeptaporos.html" shape="rect"/>
+             <area coords="881,1406,944,1418" href="Potamos/PotamosGrenikos.html" shape="rect"/>
+             <area coords="943,1405,1000,1418" href="Potamos/PotamosAisepos.html" shape="rect"/>
+             <area coords="800,1419,851,1432" href="Potamos/PotamosSimoeis.html" shape="rect"/>
+             <area coords="851,1418,906,1432" href="Potamos/PotamosPeneios.html" shape="rect"/>
+             <area coords="904,1418,960,1432" href="Potamos/PotamosHermos.html" shape="rect"/>
+             <area coords="958,1418,1008,1432" href="Potamos/PotamosKaikos.html" shape="rect"/>
+             <area coords="800,1432,870,1445" href="Potamos/PotamosSaggarios.html" shape="rect"/>
+             <area coords="870,1431,914,1445" href="Potamos/PotamosLadon.html" shape="rect"/>
+             <area coords="913,1432,990,1444" href="Potamos/PotamosParthenios.html" shape="rect"/>
+             <area coords="990,1432,1044,1444" href="Potamos/PotamosEuenos.html" shape="rect"/>
+             <area coords="800,1444,867,1458" href="Potamos/PotamosArdeskos.html" shape="rect"/>
+             <area coords="867,1444,949,1458" href="Potamos/PotamosSkamandros.html" shape="rect"/>
+             <area coords="862,415,947,431" href="Pontios/Nereides.html" shape="rect"/>
+             <area coords="724,1897,800,1913" href="Daimon/Nike.html" shape="rect"/>
+             <area coords="724,1923,811,1939" href="Daimon/Zelos.html" shape="rect"/>
+             <area coords="724,1950,824,1966" href="Daimon/Kratos.html" shape="rect"/>
+             <area coords="723,1975,785,1992" href="Daimon/Bia.html" shape="rect"/>
+            </map>
+           </p>
+           <table border="0" cellpadding="0" width="774">
+            <tr>
+             <td>
+              <p class="heading">
+               NOTES ON HESIOD'S GENEALOGY OF THE GODS:
+              </p>
+              <p>
+               <span class="heading">
+                (1)
+               </span>
+               Khaos in Hesiod's poem is the air, literally the "gap" between heaven and earth. He uses the word clearly as such in his description of the Titan-War where, through the flaming lightning bolts of Zeus "all the land (
+               <em>
+                gaia
+               </em>
+               ) seethed, and Okeanos' streams and the unfruitful sea (
+               <em>
+                pontos
+               </em>
+               ) . . . flame unspeakable rose to the bright upper air (
+               <em>
+                aither
+               </em>
+               ) . . . astounding heat seized the gap (
+               <em>
+                khaos
+               </em>
+               )."
+              </p>
+              <p>
+               <span class="heading">
+                (2)
+               </span>
+               At the start of the genealogies Hesiod says "at the first Khaos came to be, but next wide-bossomed Gaia (Earth) . . . and dim Tartaros in the depths of the wide-pathed Earth, and Eros." Some interpret this to mean that Gaia and the others were born of, or emerged from, Khaos. However most read this passage to say that the five emerged sequentially but independently of one another. Indeed, Hesiod goes on to specifically describe the beings sprung of Khaos: Erebos (Darkness) and Nyx (Night).
+              </p>
+              <p>
+               <span class="heading">
+                (3)
+               </span>
+               According to Hesiod the spirit-children of Nyx and Eris were born without a sire.
+              </p>
+              <p>
+               <span class="heading">
+                (4)
+               </span>
+               The three Moirai (Fates) appear twice in the genealogies of Hesiod, and in both places their names are given. Their first appearance is as daughters of Nyx (without father). They are later described as daughters of Zeus and Themis.
+              </p>
+              <p>
+               <span class="heading">
+                (5)
+               </span>
+               Hesiod says that at the birth of Aphrodite "Eros and comely Himeros followed her at her birth at the first." This passage is sometimes interpreted to mean (including by some classical writers) that a younger Eros and Himeros were either born together with Aphrodite from the castrated genitals of Ouranos, or that they were born from the goddess at her birth, in a tradition which describes her as emerging fully-grown and pregnant from the sea .
+              </p>
+              <p>
+               <span class="heading">
+                (6)
+               </span>
+               The poet describes three sets of beings born from the blood of the castrated Ouranos: the Erinyes, the Gigantes, and the Nymphai Meliai. The Gigantes (literally the "earth-born") are probably the Kouretes (Curetes) and the Meliai the Idaian Nymphs, both protectors of the infant Zeus. There is a certain symmetry that the children born of Kronos' crime--the castration of his own father--should be the ones to ensure his eventual downfall through the agent of Zeus. Several later authors also call the Kouretes Gigantes and the nurses of Zeus Melian Nymphs.
+               <br/>
+               Others believe that these Gigantes were those which later made war on the gods. However the Giant War appears to be simply a later alternative to Hesiod's Titanomachia and/or the attack of the hundred-formed giant Typhoeus upon Olympos .
+              </p>
+              <p>
+               <span class="heading">
+                (7)
+               </span>
+               The parentage of Ekhidna is not entirely clear. Hesiod says that "
+               <em>
+                she
+               </em>
+               bare another monster . . . Ekhidna". The "she" in this sentence may be referring back to either to Keto (mated with Phorkys), or Kallirhoe (who coupled with Khrysaor). It is usually assumed that the poet is referring to Keto, another child of whose is mentioned after the description of Ekhidan and her brood.
+              </p>
+              <p>
+               <span class="heading">
+                (8)
+               </span>
+               The Sphinx and Nemean Lion are also described as being born of a vague "she" who was coupled with the hound Orthros. The poet may here be referring back to either Ekhidna or Khimaira. However considering that the offspring are both leonine, the lioness Khimaira makes the most likely candidate for mother.
+              </p>
+              <p>
+               <span class="heading">
+                (9)
+               </span>
+               In the list of Nereides, Hesiod mentions a goddess named Kymatolege, who alongside Kymothoe and Amphitrite had the power to still the waves. There is no Kymatolege named elsewhere in the genealogies, and her name is surplus to the fifty Nereides. Presumably she is either the same as the Nereid Kymo, or Kymopoleia, a daughter of Poseidon, named elsewhere in the Theogony.
+              </p>
+              <p>
+               <span class="heading">
+                (10)
+               </span>
+               Hera is described as giving birth to Hephaistos without father, in reaction to Zeus' producing a motherless child, Athene, from his head.
+              </p>
+              <p>
+               <span class="heading">
+                (11)
+               </span>
+               The centaur Kheiron is mentioned in passing in the passage describing the son of Jason and Medea. Hesiod calls him a son of Philyre. She was presumably one of the Okeanides, as attested by later authors, however she is absent from the poet's list of these goddesses.
+              </p>
+              <p>
+               <span class="heading">
+                (12)
+               </span>
+               The text of the Theogony is believed to contain some interpolations by later writers. Especially the section describing the mortal sons of goddesses coupled with men.
+              </p>
+             </td>
+            </tr>
+           </table>
+           <!-- InstanceEndEditable -->
+          </td>
+          <td align="right" valign="top" width="12">
+           <img height="31" src="image/space.gif" width="12"/>
+          </td>
+         </tr>
+         <tr>
+          <td bgcolor="#FEF9F5" class="main" valign="top">
+           <p>
+           </p>
+          </td>
+          <td align="right" valign="top">
+          </td>
+         </tr>
+        </table>
+        <div style="padding-right: 5px;">
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td align="right" bgcolor="#fbe7d9" height="10" valign="top">
+        <img height="10" src="image/space.gif" width="145"/>
+       </td>
+       <td bgcolor="#fbe7d9" height="10" valign="top">
+       </td>
+      </tr>
+     </table>
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr align="right">
+       <td align="left" height="31" width="100%">
+        <!-- InstanceBeginEditable name="border_B" -->
+        <img height="31" src="image/palmB5.jpg" width="1434"/>
+        <!-- InstanceEndEditable -->
+       </td>
+      </tr>
+     </table>
+    </td>
+    <td width="1">
+     <img height="20" src="image/space.gif" width="1"/>
+    </td>
+   </tr>
+  </table>
+  <map name="ABCMap">
+   <area coords="12,1,37,24" href="/greek-mythology/encyclopedia-a.html" shape="rect"/>
+   <area coords="37,1,61,24" href="Encyc_C.html" shape="rect"/>
+   <area coords="61,1,87,24" href="Encyc_C.html#C" shape="rect"/>
+   <area coords="87,1,111,24" href="Encyc_D.html" shape="rect"/>
+   <area coords="111,1,136,24" href="Encyc_E.html" shape="rect"/>
+   <area coords="136,1,158,24" href="Encyc_E.html#F" shape="rect"/>
+   <area coords="158,1,183,24" href="Encyc_E.html#G" shape="rect"/>
+   <area coords="183,1,209,24" href="Encyc_H.html" shape="rect"/>
+   <area coords="209,1,228,24" href="Encyc_I.html" shape="rect"/>
+   <area coords="228,1,248,24" href="Encyc_I.html#J" shape="rect"/>
+   <area coords="248,1,272,24" href="Encyc_I.html#K" shape="rect"/>
+   <area coords="272,1,296,24" href="Encyc_L.html" shape="rect"/>
+   <area coords="296,1,325,24" href="Encyc_M.html" shape="rect"/>
+   <area coords="325,1,350,24" href="Encyc_N.html" shape="rect"/>
+   <area coords="350,1,376,24" href="Encyc_O.html" shape="rect"/>
+   <area coords="376,1,397,24" href="Encyc_P.html" shape="rect"/>
+   <area coords="397,1,422,24" href="Encyc_S.html" shape="rect"/>
+   <area coords="422,1,444,24" href="Encyc_S.html#S" shape="rect"/>
+   <area coords="444,1,467,24" href="Encyc_T.html" shape="rect"/>
+   <area coords="467,1,494,24" href="Encyc_T.html#U" shape="rect"/>
+   <area coords="494,1,520,24" href="Encyc_T.html#X" shape="rect"/>
+   <area coords="520,1,543,24" href="Encyc_T.html#Z" shape="rect"/>
+  </map>
+ </body>
+ <!-- InstanceEnd -->
+</html>

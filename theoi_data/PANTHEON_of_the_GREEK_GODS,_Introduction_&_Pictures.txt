@@ -1,0 +1,4519 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <!-- InstanceBegin template="/Templates/Main_Pantheon.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PANTHEON of the GREEK GODS, Introduction &amp; Pictures
+  </title>
+  <meta content="Illustrated Introduction to the Greek pantheon of god, including types of gods and individuals. This page links to in depth profiles of each god." name="description"/>
+  <meta content="greek pantheon, greek gods, ancient Greek gods, greek mythology, mythology, myth, gods, goddesses, pantheon, ancient, classical, ancient Greece, Greece, Greek, pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <!-- ImageReady Preload Script (buttons) -->
+  <script type="text/javascript">
+   <!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		bt_hm_over = newImage("image/bt_hm_over.gif");
+		bt_enc_over = newImage("image/bt_enc_over.gif");
+		bt_pan_over = newImage("image/bt_pan_over.gif");
+		bt_bes_over = newImage("image/bt_bes_over.gif");
+		bt_fam_over = newImage("image/bt_fam_over.gif");
+		bt_lib_over = newImage("image/bt_lib_over.gif");
+		bt_gal_over = newImage("image/bt_gal_over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+  </script>
+  <!-- End Preload Script -->
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+  <script type="text/javascript">
+   window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+  </script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+  </script>
+  <!--
+<script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+-->
+  <!-- End Cookie Consent plugin -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script>
+   var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+  </script>
+ </head>
+ <body bgcolor="#FDEFE6" leftmargin="0" marginheight="0" marginwidth="0" onload="preloadImages();" topmargin="0">
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="764">
+   <tr>
+    <td align="left" height="29" width="100%">
+     <img height="29" src="image/borderT.jpg" width="764"/>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="764">
+   <tr>
+    <td align="left" background="image/borderL.jpg" valign="top" width="29">
+     <!-- InstanceBeginEditable name="border_L" -->
+     <img height="49" src="image/borderLT.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderL.jpg" width="29"/>
+     <br/>
+     <img height="49" src="image/borderLB.jpg" width="29"/>
+     <br/>
+     <!-- InstanceEndEditable -->
+    </td>
+    <td align="right" bgcolor="#fbe7d9" valign="top" width="145">
+     <p>
+      <img alt="" height="135" name="CornerImage" src="image/cnr_dionysos.gif" width="145"/>
+      <br/>
+      <img height="10" src="image/space.gif" width="10"/>
+      <br/>
+      <!-- ImageReady Slices (buttons) -->
+      <a href="../" onmousedown="changeImages('bt_hm', 'image/bt_hm_over.gif'); return true;" onmouseout="changeImages('bt_hm', 'image/bt_hm.gif'); return true;" onmouseover="changeImages('bt_hm', 'image/bt_hm_over.gif'); return true;" onmouseup="changeImages('bt_hm', 'image/bt_hm_over.gif'); return true;">
+       <img alt="" border="0" height="30" name="bt_hm" src="image/bt_hm.gif" width="140"/>
+      </a>
+      <br/>
+      <img height="5" src="image/space.gif" width="145"/>
+      <br/>
+      <a href="greek-mythology/encyclopedia-a.html" onmousedown="changeImages('bt_enc', 'image/bt_enc_over.gif'); return true;" onmouseout="changeImages('bt_enc', 'image/bt_enc.gif'); return true;" onmouseover="changeImages('bt_enc', 'image/bt_enc_over.gif'); return true;" onmouseup="changeImages('bt_enc', 'image/bt_enc_over.gif'); return true;">
+       <img alt="" border="0" height="30" name="bt_enc" src="image/bt_enc.gif" width="140"/>
+      </a>
+      <br/>
+      <img height="5" src="image/space.gif" width="145"/>
+      <br/>
+      <a href="greek-mythology/bestiary.html" onmousedown="changeImages('bt_bes', 'image/bt_bes_over.gif'); return true;" onmouseout="changeImages('bt_bes', 'image/bt_bes.gif'); return true;" onmouseover="changeImages('bt_bes', 'image/bt_bes_over.gif'); return true;" onmouseup="changeImages('bt_bes', 'image/bt_bes_over.gif'); return true;">
+       <img alt="" border="0" height="30" name="bt_bes" src="image/bt_bes.gif" width="140"/>
+      </a>
+      <br/>
+      <img height="5" src="image/space.gif" width="145"/>
+      <br/>
+      <a href="Tree.html" onmousedown="changeImages('bt_fam', 'image/bt_fam_over.gif'); return true;" onmouseout="changeImages('bt_fam', 'image/bt_fam.gif'); return true;" onmouseover="changeImages('bt_fam', 'image/bt_fam_over.gif'); return true;" onmouseup="changeImages('bt_fam', 'image/bt_fam_over.gif'); return true;">
+       <img alt="" border="0" height="30" name="bt_fam" src="image/bt_fam.gif" width="140"/>
+      </a>
+      <br/>
+      <img height="5" src="image/space.gif" width="145"/>
+      <br/>
+      <a href="Library.html" onmousedown="changeImages('bt_lib', 'image/bt_lib_over.gif'); return true;" onmouseout="changeImages('bt_lib', 'image/bt_lib.gif'); return true;" onmouseover="changeImages('bt_lib', 'image/bt_lib_over.gif'); return true;" onmouseup="changeImages('bt_lib', 'image/bt_lib_over.gif'); return true;">
+       <img alt="" border="0" height="30" name="bt_lib" src="image/bt_lib.gif" width="140"/>
+      </a>
+      <br/>
+      <img height="5" src="image/space.gif" width="145"/>
+      <br/>
+      <a href="Galleries.html" onmousedown="changeImages('bt_gal', 'image/bt_gal_over.gif'); return true;" onmouseout="changeImages('bt_gal', 'image/bt_gal.gif'); return true;" onmouseover="changeImages('bt_gal', 'image/bt_gal_over.gif'); return true;" onmouseup="changeImages('bt_gal', 'image/bt_gal_over.gif'); return true;">
+       <img alt="" border="0" height="30" name="bt_gal" src="image/bt_gal.gif" width="140"/>
+      </a>
+     </p>
+     <div style="padding-left: 13px; padding-right: 12px; padding-top: 10px; padding-bottom: 12px">
+     </div>
+    </td>
+    <td bgcolor="#fbe7d9" valign="top">
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+       <td align="left" valign="top" width="415">
+        <!-- InstanceBeginEditable name="title" -->
+        <img height="110" src="image/title_panth.gif" style="background-color: #FBE7D9" width="415"/>
+        <!-- InstanceEndEditable -->
+       </td>
+       <td align="left" valign="center" width="146">
+        <style type="text/css">
+         @import url(//www.google.com/cse/api/branding.css);
+        </style>
+        <div class="cse-branding-bottom" style="background-color:#fbe7d9;color:#000000">
+         <div class="cse-branding-form">
+          <form action="https://www.google.com/cse" id="cse-search-box">
+           <div>
+            <input name="cx" type="hidden" value="partner-pub-3887923691185452:rgnqhiyzekw"/>
+            <input name="ie" type="hidden" value="ISO-8859-1"/>
+            <input name="q" size="17" type="text"/>
+            <br/>
+            <input name="sa" type="submit" value="Search"/>
+           </div>
+          </form>
+         </div>
+         <div class="cse-branding-logo">
+          <img alt="Google" src="//www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif">
+          </img>
+         </div>
+         <div class="cse-branding-text">
+          Custom Search
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td align="left" colspan="2" valign="top">
+        <p>
+         <img alt="" border="0" height="25" name="ABC" src="image/abc.gif" usemap="#ABCMap" width="555"/>
+         <br/>
+         <img height="1" src="image/space.gif" width="100"/>
+        </p>
+       </td>
+      </tr>
+     </table>
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+       <td bgcolor="#FEF9F5" class="main" valign="top" width="546">
+        <table align="right" border="0" cellpadding="0">
+         <tr>
+          <td>
+          </td>
+         </tr>
+        </table>
+        <!-- InstanceBeginEditable name="text" -->
+        <p>
+         <span class="heading">
+          THE IMMORTALS
+         </span>
+         of the Ancient Greek pantheon can be divided into roughly eight classes.
+        </p>
+        <p>
+         <span class="heading">
+          THE FIRST
+         </span>
+         of these were the
+         <a href="greek-mythology/primeval-gods.html">
+          PROTOGENOI
+         </a>
+         or First Born gods. These were the primeval beings who emerged at creation to form the  very fabric of universe: Earth, Sea, Sky, Night, Day, etc. Although they were divinites they were purely elemental in form: Gaia was the literal Earth, Pontos the Sea, and Ouranos the Dome of Heaven. However they were sometimes represented assuming anthroporphic shape, albeit ones that were indivisible from their native element. Gaia the earth, for example, might manifest herself as a matronly woman half-risen from the ground ; and Thalassa the sea might lift her head above the waves in the shape of a sea-formed woman.
+        </p>
+        <table align="right" class="thumb">
+         <tr align="middle">
+          <td bgcolor="#ffffff">
+           <span class="MsoNormal">
+            <font face="Arial" size="2">
+             <strong>
+              <a href="Gallery/K15.1.html">
+               <img border="0" height="115" src="image/thumbK15.1.jpg" width="115"/>
+              </a>
+             </strong>
+            </font>
+           </span>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <div align="center">
+            THE GODS
+           </div>
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="heading">
+          THE SECOND
+         </span>
+         were the nature
+         <span class="heading">
+          DAIMONES
+         </span>
+         (Spirits) and NYMPHAI who nurtured life in the four elements. E.g. fresh-water Naiades, forest Dryades, beast-loving Satyroi, marine Tritones, etc.
+        </p>
+        <p>
+         <span class="heading">
+          THE THIRD
+         </span>
+         were the body- and mind-affecting
+         <a href="greek-mythology/personifications.html">
+          DAIMONES
+         </a>
+         (Spirits). E.g. Sleep (Hypnos), Love (Eros), Joy (Euphrosyne), Hate (Eris), Fear (Phobos), Death (Thanatos), Old Age (Geras), etc.
+        </p>
+        <p>
+         <span class="heading">
+          THE FOURTH
+         </span>
+         class consisted of  the
+         <span class="heading">
+          THEOI
+         </span>
+         (Gods) who controlled  the forces of nature and bestowed civilised arts upon mankind.
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/O1.1.html">
+            <img border="0" height="115" src="image/thumbO1.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           THE GODS
+          </td>
+         </tr>
+        </table>
+        <p class="indent">
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/sky-gods.html">
+          THEOI OURANIOI
+         </a>
+         (Sky Gods). E.g. Helios (Sun), Anemoi (Winds), etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/sea-gods.html">
+          THEOI HALIOI
+         </a>
+         (Sea Gods). E.g. The Nereides, Triton, Glaukos, etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/underworld-gods.html">
+          THEOI KHTHONIOI
+         </a>
+         (Underworld Gods). E.g. Persephone, Hekate, etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/agricultural-gods.html">
+          THEOI GEORGIKOI
+         </a>
+         (Agricultural Earth Gods). E.g. Ploutos, etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/rustic-gods.html">
+          THEOI NOMIOI
+         </a>
+         (Pastoral Earth Gods). E.g. Pan, Aristaios, etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <span class="heading">
+          THEOI POLIKOI
+         </span>
+         (City Gods). E.g. Hestia, Eunomia, etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/olympian-gods.html">
+          THEOI OLYMPIOI
+         </a>
+         (Olympian Gods). E.g. The Mousai, Hebe, etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/titans.html">
+          THEOI TITANES
+         </a>
+         (Titan Gods). E.g. Themis, Kronos, Prometheus, etc.
+         <br/>
+         <img height="8" src="image/bullet.gif" width="14"/>
+         <a href="greek-mythology/deified-mortals.html">
+          APOTHEOTHENAI
+         </a>
+         (Deified Mortals). E.g. Herakles, Asklepios, etc.
+        </p>
+        <p>
+         <span class="heading">
+          THE FIFTH
+         </span>
+         were the
+         <a href="greek-mythology/olympian-gods.html">
+          12 OLYMPIAN GODS
+         </a>
+         who governed the universe and commanded the legions of lesser gods and spirits. They were, namely, Zeus, Hera, Poseidon, Demeter, Artemis, Apollon, Ares, Athene, Aphrodite, Hephaistos, Hermes, Dionysos, and Hestia.
+        </p>
+        <p>
+         <span class="heading">
+          THE SIXTH
+         </span>
+         of the immortals were the spirits of the CONSTELLATIONS which circed the heavenly night sky. Every constellation, including the twelve signs of the Zodiac, was possessed of one or more spirits EG Saggitarius was the centaur Kheiron, Gemini the Dioskouroi Twins, etc.
+        </p>
+        <table align="right" class="thumb">
+         <tr align="middle">
+          <td bgcolor="#ffffff">
+           <a href="Gallery/O24.9.html">
+            <img border="0" height="115" src="image/thumbO24.9.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <div align="center">
+            THE GODS
+           </div>
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="heading">
+          THE SEVENTH
+         </span>
+         class consisted of the fabulous
+         <a href="greek-mythology/bestiary.html">
+          MONSTERS, BEASTS, GIANTS
+         </a>
+         of myth. 
+                      They were semi-divine creatures, closely related to the gods.E.g.
+         <a href="greek-mythology/giants.html">
+          GIGANTES
+         </a>
+         (Giants),
+         <a href="greek-mythology/dragons.html">
+          DRAKONES
+         </a>
+         (Dragons), Kentauroi (Centaurs), Kerberos (Cerberus),  Sphinx, Sirens,  etc.
+        </p>
+        <p>
+         <span class="heading">
+          THE EIGHTH
+         </span>
+         were the
+         <span class="heading">
+          HEROI HEMITHEOI
+         </span>
+         (Semi-Divine Heroes) who were worshipped after death as minor divinities. They included great heroes like Akhilleus, Theseus and Perseus; heroines such as Alkmene, Helene and Baubo; and founding kings like Erikhthonios, Kadmos and Pelops.
+        </p>
+        <p>
+         There were many divinities in the Greek pantheon who fell into more than one of these categories. Tykhe (Lady Fortune), for example, can easily be classified under category Two as an Okeanis Nymphe, Three as fortune personified, and Four as a popularly worshipped goddess.
+        </p>
+        <hr size="1"/>
+        <p>
+         <span class="heading">
+          KEY TO THE  DEITY-SUMMARIES BELOW
+         </span>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/L20.1.html">
+            <img border="0" height="115" src="image/thumbL20.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           GODS vs GIANTS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          NAME
+         </span>
+         Transliterated Greek spelling of the god's name.
+         <br/>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Spellings of the name in modern  languages : En = English; Fr = French; Es = Spanish;   It = Italian
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         The Roman name of the god
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         The god's general spheres of influence
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         The usual parentage of the god in myth
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         The wife or husband of the god
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         The significant divine offspring of the god
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         The god's sacred animals (beasts, birds and/or fish)
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Trees, shrubs, flowers and herbs held sacred to the god
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Usual attributes of the god in Greek vase painting, relief and sculpture
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Location of images of the deity on the Theoi site
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         Links to pages on this site containing more detailed descriptions of the god, his/her mythology, and cult. The linked to pages contain quotes from a wide range  of classical literature, as well as images of the deity in classical art. Click on the numbers 1 - 2 - 3 ...
+         <br/>
+         <span class="details">
+          Thumbnail Image:
+         </span>
+         The majority of these images come from C5th - C4th BC Greek vase paintings. The mosaics and frescoes are from the Imperial Roman era. Click on the thumbs to view the full size image.
+        </p>
+        <hr size="1"/>
+        <p class="heading">
+         <a name="Olympioi">
+         </a>
+         (I) THE TWELVE OLYMPIAN GODS
+        </p>
+        <p>
+         The Greek Pantheon was ruled by a council of twelve great gods known as the Olympians, namely  Zeus, Hera, Poseidon, Demeter, Athene, Hephaistos, Ares, Aphrodite, Apollon, Artemis, Hermes, Dionysos, and sometimes Hestia.
+         <br/>
+         These twelve gods demanded worship from all their subjects. Those who failed to honour any one of the Twelve with due sacrifice and libation were duly punished.
+         <br/>
+         Directly and through a host of divine minions the Twelve gods governed all aspects of human life.
+        </p>
+        <a href="Olympios/Zeus.html">
+         ZEUS
+        </a>
+        <table align="right" class="thumb">
+         <tr align="middle">
+          <td bgcolor="#ffffff">
+           <a href="Gallery/K1.1.html">
+            <img border="0" height="115" src="image/thumbK1.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <div align="center">
+            ZEUS
+           </div>
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Zeus (En, Fr,  Es, It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Jupiter, Jove
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         King of Heaven,  Sky, Weather, Fate, Kingship
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Kronos &amp; Titanis Rhea
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Hera
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Athene, Apollon, Artemis, Ares, Aphrodite, Hermes, Dionysos, Herakles, others see pg 2 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Golden eagle, Wolf
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Oak, Celery
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Lightning bolt, Lotus staff, Eagle, Oak wreath
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 1; statues pgs 5-7 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Olympios/Zeus.html">
+          1
+         </a>
+         -
+         <a href="Olympios/ZeusFamily.html">
+          2
+         </a>
+         -
+         <a href="Olympios/ZeusLoves.html">
+          3
+         </a>
+         -
+         <a href="Olympios/ZeusLoves2.html">
+          4
+         </a>
+         -
+         <a href="Olympios/ZeusLoves3.html">
+          5
+         </a>
+         -
+         <a href="Cult/ZeusCult.html">
+          6
+         </a>
+         -
+         <a href="Cult/ZeusCult2.html">
+          7
+         </a>
+         -
+         <a href="Cult/ZeusCult3.html">
+          8
+         </a>
+         -
+         <a href="Cult/ZeusTitles.html">
+          9
+         </a>
+         (other pages still under construction)
+        </p>
+        <a href="Olympios/Poseidon.html">
+         POSEIDON
+        </a>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <img border="0" height="115" src="image/thumbK2.3B.jpg" width="115"/>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           POSEIDON
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spell.:
+         </span>
+         Poseidon (En), Poséidon (Fr), Poseidón (Es), Poseidone (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Neptunus (Neptune)
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         King of the Seas, Rivers, Earthquakes, Horses
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Kronos &amp; Titanis Rhea
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Amphitrite
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Triton, others see pg 2 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Horse, Bull, Dolphin
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Seaweed,  Pine Tree
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Trident, Fish
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 1; statues pgs  5- 6(below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Olympios/Poseidon.html">
+          1
+         </a>
+         -
+         <a href="Olympios/PoseidonFamily.html">
+          2
+         </a>
+         -
+         <a href="Olympios/PoseidonLoves.html">
+          3
+         </a>
+         -
+         <a href="Olympios/PoseidonLoves2.html">
+          4
+         </a>
+         -
+         <a href="Cult/PoseidonCult.html">
+          5
+         </a>
+         -
+         <a href="Cult/PoseidonCult2.html">
+          6
+         </a>
+         (other pages still under construction)
+        </p>
+        <p>
+         <a href="Olympios/Hera.html">
+          HERA
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K4.1.html">
+            <img border="0" height="115" src="image/thumbK4.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HERA
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Hera (En, Es), Héra (Fr), Era (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Juno
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Queen of Heaven, the Sky, Women, Marriage, Impregnation
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Kronos &amp; Titanis Rhea
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Zeus
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Ares, Hephaistos, Eileithyia, Hebe, others see pg 2 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Cuckoo, Peacock, Crane, Hawk, Cow (Heifer), Lion
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Chaste Tree, Pomegranate
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Lotus staff, Crown, Lion
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 2; statues  pg 4-5 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Summary/Hera.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Hera.html">
+          2
+         </a>
+         -
+         <a href="Olympios/HeraMyths.html">
+          3
+         </a>
+         -
+         <a href="Cult/HeraCult.html">
+          4
+         </a>
+         -
+         <a href="Cult/HeraCult2.html">
+          5
+         </a>
+         (other pages still under construction)
+        </p>
+        <p>
+         <a href="Olympios/Demeter.html">
+          DEMETER
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K3.1.html">
+            <img border="0" height="115" src="image/thumbK3.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           DEMETER
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Demeter (En), Déméter (Fr), Deméter (Es), Demetra (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Ceres
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Agriculture, Grain &amp; Bread, The Afterlife
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Kronos &amp; Titanis Rhea
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Persephone, Ploutos, others see pg 8 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Serpent, Swine, Gecko
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Wheat, Barley, Poppy, Mint
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Grain Sheaf, Lotus Staff, Torch, Cornucopia
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 2; statues pgs 10-12 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Summary/Demeter.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Demeter.html">
+          2
+         </a>
+         -
+         <a href="Olympios/DemeterGoddess.html">
+          3
+         </a>
+         -
+         <a href="Olympios/DemeterMyths.html">
+          4
+         </a>
+         -
+         <a href="Olympios/DemeterMyths2.html">
+          5
+         </a>
+         -
+         <a href="Olympios/DemeterWrath.html">
+          6
+         </a>
+         -
+         <a href="Olympios/DemeterFavour.html">
+          7
+         </a>
+         -
+         <a href="Olympios/DemeterFamily.html">
+          8
+         </a>
+         -
+         <a href="Olympios/DemeterTreasures.html">
+          9
+         </a>
+         -
+         <a href="Cult/DemeterCult.html">
+          10
+         </a>
+         -
+         <a href="Cult/DemeterCult2.html">
+          11
+         </a>
+         -
+         <a href="Cult/DemeterCult3.html">
+          12
+         </a>
+         -
+         <a href="Cult/DemeterTitles.html">
+          13
+         </a>
+        </p>
+        <a href="Olympios/Apollon.html">
+         APOLLON
+        </a>
+        <table align="right" class="thumb">
+         <tr align="middle">
+          <td bgcolor="#ffffff">
+           <a href="Gallery/K5.11.html">
+            <img border="0" height="115" src="image/thumbK5.11.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <div align="center">
+            APOLLON
+           </div>
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Apollo (En, It), Apollon (Fr), Apolo (Es)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Apollo
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Music, Prophecy, Education, Healing &amp; Disease
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus and Titanis Leto
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Asklepios, others see pg 2 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Swan, Raven, Mouse, Wolf
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Laurel, Larkspur
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Lyre, Laurel wreath or branch, Bow &amp; arrows, Delphic tripod
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 1; statues pgs 4-8 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Olympios/Apollon.html">
+          1
+         </a>
+         -
+         <a href="Olympios/ApollonFamily.html">
+          2
+         </a>
+         -
+         <a href="Olympios/ApollonLoves.html">
+          3
+         </a>
+         -
+         <a href="Cult/ApollonCult.html">
+          4
+         </a>
+         -
+         <a href="Cult/ApollonCult2.html">
+          5
+         </a>
+         -
+         <a href="Cult/ApollonCult3.html">
+          6
+         </a>
+         -
+         <a href="Cult/ApollonCult4.html">
+          7
+         </a>
+         -
+         <a href="Cult/ApollonCult5.html">
+          8
+         </a>
+         -
+         <a href="Cult/ApollonTitles.html">
+          9
+         </a>
+         (other pages still under construction)
+        </p>
+        <p>
+         <a href="Olympios/Artemis.html">
+          ARTEMIS
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K6.1.html">
+            <img border="0" height="115" src="image/thumbK6.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           ARTEMIS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Artemis (En), Artémis (Fr), Artemisa (Es), Artemide (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Diana
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Hunting, Wild Animals, Children, Choirs, Disease
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Titanis Leto
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None (Virgin Goddess)
+         <br/>
+         <span class="details">
+          Children:
+         </span>
+         None (Virgin Goddess)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Deer, Bear, Wild boar, Guinea fowl, Quail
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Cypress, Walnut, Amaranth-flower
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Bow &amp; arrows, Hunting spears, Lyre, Deer
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 2; statues pgs 12-15 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Summary/Artemis.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Artemis.html">
+          2
+         </a>
+         -
+         <a href="Olympios/ArtemisGoddess.html">
+          3
+         </a>
+         -
+         <a href="Olympios/ArtemisMyths.html">
+          4
+         </a>
+         -
+         <a href="Olympios/ArtemisMyths2.html">
+          5
+         </a>
+         -
+         <a href="Olympios/ArtemisWrath.html">
+          6
+         </a>
+         -
+         <a href="Olympios/ArtemisWrath2.html">
+          7
+         </a>
+         -
+         <a href="Olympios/ArtemisWrath3.html">
+          8
+         </a>
+         -
+         <a href="Olympios/ArtemisFavour.html">
+          9
+         </a>
+         -
+         <a href="Olympios/ArtemisTreasures.html">
+          10
+         </a>
+         -
+         <a href="Olympios/ArtemisAttendants.html">
+          11
+         </a>
+         -
+         <a href="Cult/ArtemisCult.html">
+          12
+         </a>
+         -
+         <a href="Cult/ArtemisCult2.html">
+          13
+         </a>
+         -
+         <a href="Cult/ArtemisCult3.html">
+          14
+         </a>
+         -
+         <a href="Cult/ArtemisCult4.html">
+          15
+         </a>
+         -
+         <a href="Cult/ArtemisTitles.html">
+          16
+         </a>
+        </p>
+        <a href="Olympios/Athena.html">
+         ATHENE
+        </a>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K8.1.html">
+            <img border="0" height="115" src="image/thumbK8.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           ATHENE
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Athena (En), Athéna (Fr), Atenea (Es), Atena (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Minerva
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Warcraft, Heroism, Counsel, Pottery, Weaving, Olives &amp; Oil
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Titanis Metis
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None (Virgin Goddess)
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         None (Virgin Goddess)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Little Owl, Crow
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Olive Tree
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Greek helmet, Aigis (Goat-skin breastplate), Spear
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings see pg 1; statues pgs 2-5 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Olympios/Athena.html">
+          1
+         </a>
+         -
+         <a href="Cult/AthenaCult.html">
+          2
+         </a>
+         -
+         <a href="Cult/AthenaCult2.html">
+          3
+         </a>
+         -
+         <a href="Cult/AthenaCult3.html">
+          4
+         </a>
+         -
+         <a href="Cult/AthenaCult4.html">
+          5
+         </a>
+         -
+         <a href="Cult/AthenaTitles.html">
+          6
+         </a>
+         (other pages still under construction)
+        </p>
+        <p>
+         <a href="Olympios/Ares.html">
+          ARES
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K9.1.html">
+            <img border="0" height="115" src="image/thumbK9.1B.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           ARES
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Ares (En, Es, It), Arès (Fr)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Mars
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         War, Battle, Manliness
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Goddess Hera
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Perhaps Aphrodite
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Deimos, Phobos, others see pg 8 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Serpent, Vulture, Woodpecker, Eagle-owl
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Perhaps Manna Ash
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Helmet, Spear
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings, mosaics &amp; statues pg 2 (below)
+         <br/>
+         <span class="details">
+          Theoi  Pages:
+         </span>
+         <a href="Summary/Ares.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Ares.html">
+          2
+         </a>
+         -
+         <a href="Olympios/AresGod.html">
+          3
+         </a>
+         -
+         <a href="Olympios/AresMyths.html">
+          4
+         </a>
+         -
+         <a href="Olympios/AresMyths2.html">
+          5
+         </a>
+         -
+         <a href="Olympios/AresWrath.html">
+          6
+         </a>
+         -
+         <a href="Olympios/AresFavour.html">
+          7
+         </a>
+         -
+         <a href="Olympios/AresFamily.html">
+          8
+         </a>
+         -
+         <a href="Olympios/AresLoves.html">
+          9
+         </a>
+         -
+         <a href="Olympios/AresTreasures.html">
+          10
+         </a>
+         -
+         <a href="Olympios/AresAttendants.html">
+          11
+         </a>
+         -
+         <a href="Cult/AresCult.html">
+          12
+         </a>
+        </p>
+        <p>
+         <a href="Olympios/Aphrodite.html">
+          APHRODITE
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K10.5.html">
+            <img border="0" height="115" src="image/thumbK10.5.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           APHRODITE
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Aphrodite (En, Fr), Afrodita (Es), Afrodite (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Venus
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Love, Beauty, Pleasure, Procreation
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Titanis Dione; or Born of the Sea-Foam
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Hephaistos, perhaps later Ares
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Eros, others see pg 10 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Turtle dove, Sparrow, Goose, Hare
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Apple Tree, Rose, Myrtle, Myrrh Tree, Anemone, Lettuce
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Eros (winged godling), Apple, Dove
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 2; statue see pg 16-17 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Summary/Aphrodite.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Aphrodite.html">
+          2
+         </a>
+         -
+         <a href="Olympios/AphroditeGoddess.html">
+          3
+         </a>
+         -
+         <a href="Olympios/AphroditeMyths.html">
+          4
+         </a>
+         -
+         <a href="Olympios/AphroditeMyths2.html">
+          5
+         </a>
+         -
+         <a href="Olympios/AphroditeMyths3.html">
+          6
+         </a>
+         -
+         <a href="Olympios/JudgementParis.html">
+          7
+         </a>
+         -
+         <a href="Olympios/AphroditeWrath.html">
+          8
+         </a>
+         -
+         <a href="Olympios/AphroditeWrath2.html">
+          9
+         </a>
+         -
+         <a href="Olympios/AphroditeFavour.html">
+          10
+         </a>
+         -
+         <a href="Olympios/AphroditeFamily.html">
+          11
+         </a>
+         -
+         <a href="Olympios/AphroditeLoves.html">
+          12
+         </a>
+         -
+         <a href="Olympios/AphroditeLoves2.html">
+          13
+         </a>
+         -
+         <a href="Olympios/AphroditeTreasures.html">
+          14
+         </a>
+         -
+         <a href="Olympios/AphroditeAttendants.html">
+          15
+         </a>
+         -
+         <a href="Cult/AphroditeCult.html">
+          16
+         </a>
+         -
+         <a href="Cult/AphroditeCult2.html">
+          17
+         </a>
+         -
+         <a href="Cult/AphroditeTitles.html">
+          18
+         </a>
+        </p>
+        <p>
+         <a href="Olympios/Hermes.html">
+          HERMES
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K11.11.html">
+            <img border="0" height="115" src="image/thumbK11.11.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HERMES
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Hermes (En, Es), Hermès (Fr), Ermes (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Mercurius (Mercury)
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Animal Husbandry, Travel, Trade, Athletics, Language, Thievery, Good Luck, Guide of the Dead, Herald of the Gods
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Nymphe Maia
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None
+         <br/>
+         <span class="details">
+          Children:
+         </span>
+         Pan, others see pg 9 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Tortoise, Sheep, Cattle, Hawk
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Crocus, Strawberry Tree
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Kerykeion (Herald's Rod), Traveller's Cap, Winged Boots
+         <br/>
+         <span class="details">
+          Images
+         </span>
+         : Vase paintings &amp; mosaics pg 2; statues pg 12 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Summary/Hermes.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Hermes.html">
+          2
+         </a>
+         -
+         <a href="Olympios/HermesGod.html">
+          3
+         </a>
+         -
+         <a href="Olympios/HermesMyths.html">
+          4
+         </a>
+         -
+         <a href="Olympios/HermesMyths2.html">
+          5
+         </a>
+         -
+         <a href="Olympios/HermesMyths3.html">
+          6
+         </a>
+         -
+         <a href="Olympios/HermesWrath.html">
+          7
+         </a>
+         -
+         <a href="Olympios/HermesFavour.html">
+          8
+         </a>
+         -
+         <a href="Olympios/HermesFamily.html">
+          9
+         </a>
+         -
+         <a href="Olympios/HermesLoves.html">
+          10
+         </a>
+         -
+         <a href="Olympios/HermesTreasures.html">
+          11
+         </a>
+         -
+         <a href="Cult/HermesCult.html">
+          12
+         </a>
+         -
+         <a href="Cult/HermesTitles.html">
+          13
+         </a>
+        </p>
+        <p>
+         <a href="Olympios/Hephaistos.html">
+          HEPHAISTOS
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K7.1.html">
+            <img border="0" height="115" src="image/thumbK7.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HEPHAISTOS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spell.:
+         </span>
+         Hephaestus (En), Héphaïstos (Fr), Hefesto (Es), Efesto (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Vulcanus (Vulcan)
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Metalworking, Fire, Building, Scupture, Volcanism
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Goddess Hera (no father)
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Aphrodite or Kharis
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 6 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Donkey, Crane
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Fennel
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Hammer, Tongs, Anvil, Donkey, Crane-head
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 2; statue pg 11 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Summary/Hephaistos.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Hephaistos.html">
+          2
+         </a>
+         -
+         <a href="Olympios/HephaistosGod.html">
+          3
+         </a>
+         -
+         <a href="Olympios/HephaistosMyths.html">
+          4
+         </a>
+         -
+         <a href="Olympios/HephaistosFavour.html">
+          5
+         </a>
+         -
+         <a href="Olympios/HephaistosFamily.html">
+          6
+         </a>
+         -
+         <a href="Olympios/HephaistosLoves.html">
+          7
+         </a>
+         -
+         <a href="Olympios/HephaistosWorks.html">
+          8
+         </a>
+         -
+         <a href="Olympios/HephaistosWorks2.html">
+          9
+         </a>
+         -
+         <a href="Olympios/HephaistosTreasures.html">
+          10
+         </a>
+         -
+         <a href="Cult/HephaistosCult.html">
+          11
+         </a>
+        </p>
+        <p>
+         <a href="Olympios/Dionysos.html">
+          DIONYSOS
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K12.1.html">
+            <img border="0" height="115" src="image/thumbK12.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           DIONYSOS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Dionysus (En, Fr), Dioniso (Es), Dionysio (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Liber, Bacchus
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Wine, Drunkenness, Madness, Parties, Vegetation, The Afterlife
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Princess Semele
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Ariadne
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 10 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Leopard, Lynx, Tiger, Serpent, Bull, Goat, Donkey
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Grape-vine, Ivy, Bindweed, Silver Fir
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Thyrsos (pine-cone tipped staff), Grapes, Ivy wreath, Leopard
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 2; statues pgs 13-14 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Summary/Dionysos.html">
+          1
+         </a>
+         -
+         <a href="Olympios/Dionysos.html">
+          2
+         </a>
+         -
+         <a href="Olympios/DionysosGod.html">
+          3
+         </a>
+         -
+         <a href="Olympios/DionysosMyths.html">
+          4
+         </a>
+         -
+         <a href="Olympios/DionysosMyths2.html">
+          5
+         </a>
+         -
+         <a href="Olympios/DionysosMyths3.html">
+          6
+         </a>
+         -
+         <a href="Olympios/DionysosWrath.html">
+          7
+         </a>
+         -
+         <a href="Olympios/DionysosWrath2.html">
+          8
+         </a>
+         -
+         <a href="Olympios/DionysosFavour.html">
+          9
+         </a>
+         -
+         <a href="Olympios/DionysosFamily.html">
+          10
+         </a>
+         -
+         <a href="Olympios/DionysosLoves.html">
+          11
+         </a>
+         -
+         <a href="Georgikos/Ariadne.html">
+          12
+         </a>
+         -
+         <a href="Cult/DionysosCult.html">
+          13
+         </a>
+         -
+         <a href="Cult/DionysosCult2.html">
+          14
+         </a>
+         -
+         <a href="Cult/DionysosTitles.html">
+          15
+         </a>
+        </p>
+        <p>
+         <a href="Ouranios/Hestia.html">
+          HESTIA
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K13.2.html">
+            <img border="0" height="115" src="image/thumbK13.2.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HESTIA
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Hestia (En, Fr, Es), Estia (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Vesta
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Home, Hearth, Family, Meals, Sacrificial offerings
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Kronos &amp; Titanis Rhea
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None (Virgin Goddess)
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         None (Virgin Goddess)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Swine
+         <br/>
+         <span class="details">
+          Plants
+         </span>
+         : Chaste Tree
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Chaste tree branch, Head veil, Kettle
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; statues pg 2 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+          <a href="Summary/Hestia.html">
+           1
+          </a>
+          -
+         </span>
+         <a href="Ouranios/Hestia.html">
+          2
+         </a>
+        </p>
+        <hr size="1"/>
+        <p class="heading">
+         (II)  KING &amp; QUEEN OF THE DEAD
+        </p>
+        <p>
+         The thirteenth of the great gods was Haides, King of the Dead. Unlike the other 12, he was never titled Olympian, nor did he partake in the feasts of Heaven. Instead this lord remained  ever enthroned within the gloom of the underworld.
+        </p>
+        <p>
+         <a href="Khthonios/Haides.html">
+          HAIDES
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <img border="0" height="115" src="image/thumbK14.1C.jpg" width="115"/>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HAIDES
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Hades (En, Es), Hadès (Fr), Ade (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Pluto, Dis
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         King of the  Underworld, the Dead, Death
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Kronos &amp; Titanis Rhea
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Persephone
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 
+                      1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Screech owl
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Asphodel, Mint, White Poplar
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Cornucopia, Bird-tipped staff
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Khthonios/Haides.html">
+          1
+         </a>
+         -
+         <a href="Khthonios/HaidesGod.html">
+          2
+         </a>
+         -
+         <a href="Khthonios/HaidesPersephone1.html">
+          3
+         </a>
+         -
+         <a href="Khthonios/HaidesPersephone2.html">
+          4
+         </a>
+         - 5 -
+         <a href="Khthonios/HaidesTreasures.html">
+          6
+         </a>
+         -
+         <a href="Cult/HaidesCult.html">
+          7
+         </a>
+        </p>
+        <p>
+         <a href="Khthonios/Persephone.html">
+          PERSEPHONE
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <img border="0" height="115" src="image/thumbK14.1B.jpg" width="115"/>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           PERSEPHONE
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Persephone (En), Perséphone (Fr), Perséfone (Es),
+         <br/>
+         Persefone (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Proserpina
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Queen of the Underworld, the Afterlife, Spring Growth, Grain
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Goddess Demeter
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Haides
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Screech owl
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Wheat, Narcissus, Black Poplar, Mint, Asphodel
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Eleusinian torch or torches, Wheat sheafs
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Khthonios/Persephone.html">
+          1
+         </a>
+         -
+         <a href="Khthonios/PersephoneGoddess.html">
+          2
+         </a>
+         -
+         <a href="Khthonios/HaidesPersephone1.html">
+          3
+         </a>
+         -
+         <a href="Khthonios/HaidesPersephone2.html">
+          4
+         </a>
+         - 5 -
+         <a href="Cult/DemeterCult.html">
+          6
+         </a>
+         -
+         <a href="Cult/DemeterCult2.html">
+          7
+         </a>
+         -
+         <a href="Cult/DemeterCult3.html">
+          8
+         </a>
+         -
+         <a href="Cult/DemeterTitles.html">
+          9
+         </a>
+        </p>
+        <hr size="1"/>
+        <p class="heading">
+         (III) OTHER IMPORTANT GODS
+        </p>
+        <p>
+         The other Gods and Spirits of the Pantheon fell within the sphere of one or more of the twelve great Olympians. They essentially functioned as minions and, servants of the greater gods.
+         <br/>
+         The most important of these gods appear below.
+        </p>
+        <p>
+         <a href="Khthonios/Hekate.html">
+          HEKATE
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/T16.2.html">
+            <img border="0" height="115" src="image/thumbT16.2.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HEKATE
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Hecate (En), Hécate (Fr, Es), Ecate (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Hecate, Trivia
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Witchcraft, Ghosts
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Perses &amp; Titanis Asteria
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None (perhaps a Virgin Goddess)
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 1 (below)
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Herbs, Asphodel
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Dog, Weasel, Polecat
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Twin torches, Triple body
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Khthonios/Hekate.html">
+          1
+         </a>
+         -
+         <a href="Cult/HekateCult.html">
+          2
+         </a>
+        </p>
+        <p>
+         <a href="Khthonios/Erinyes.html">
+          THE 3 ERINYES
+         </a>
+         <span class="heading">
+          (Furies)
+         </span>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/T40.1.html">
+            <img border="0" height="115" src="image/thumbT40.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           THE ERINYES
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Erinyes, Erinnyes (En, Fr), Erinias (Es), Erinni (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Furiae
+         <br/>
+         <span class="details">
+          Goddesses of:
+         </span>
+         Punishment, Retribution
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Protogenos Ouranos &amp; Protogenos Gaia
+         <br/>
+         <span class="details">
+          Names:
+         </span>
+         Alekto, Megaira, Tisiphone
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Poisonous serpent, Screech owl
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Elm, Yew
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Serpentine hair, Poison serpents, Wings, Whip
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pgs 1, 2 &amp; 4 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Khthonios/Erinyes.html">
+          1
+         </a>
+         -
+         <a href="Khthonios/Erinyes2.html">
+          2
+         </a>
+         -
+         <a href="Khthonios/Erinyes3.html">
+          3
+         </a>
+         -
+         <a href="Khthonios/Erinyes4.html">
+          4
+         </a>
+         -
+         <a href="Khthonios/Erinyes5.html">
+          5
+         </a>
+         -
+         <a href="Khthonios/Erinyes6.html">
+          6
+         </a>
+        </p>
+        <p>
+         <a href="Titan/Helios.html">
+          HELIOS
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/T17.1.html">
+            <img border="0" height="115" src="image/thumbT17.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HELIOS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Helius (En), Hélios (Fr), Helios (Es), Elo (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Sol
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         the Sun
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Helios &amp; Titanis Thea
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Rhode
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Phaethon, others see pg 3 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Rooster, White Horse
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Heliotrope, Frankincense
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Aureole (sun crown)
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics  pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Titan/Helios.html">
+          1
+         </a>
+         -
+         <a href="Titan/HeliosGod.html">
+          2
+         </a>
+         -
+         <a href="Titan/HeliosFamily.html">
+          3
+         </a>
+         -
+         <a href="Titan/HeliosLoves.html">
+          4
+         </a>
+         -
+         <a href="Titan/HeliosTreasures.html">
+          5
+         </a>
+         -
+         <a href="Cult/HeliosCult.html">
+          6
+         </a>
+        </p>
+        <p>
+         <a href="Protogenos/Gaia.html">
+          GAIA
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/T1.1B.html">
+            <img border="0" height="115" src="image/thumbT1.1B.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           GAIA
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Gaea (En), Gaia (Fr, Es), Gea (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Terra, Tellus
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         the Earth
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         None (Emerged at Creation)
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Ouranos
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Ouranos (Sky), Pontos (Sea), the Titanes, the Erinyes, the Kyklopes, the Hekatonkheires, the Gigantes, others see pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Half risen from earth
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Protogenos/Gaia.html">
+          1
+         </a>
+        </p>
+        <p>
+         <a href="Titan/TitanisRhea.html">
+          RHEA
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/T6.1.html">
+            <img border="0" height="115" src="image/thumbT6.1B.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           RHEA
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Rhea (En, Fr), Rea (Es, It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Ops
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Mother of the Gods, Motherhood, Mountains
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Protogenos Ouranos &amp; Protogenos Gaia
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Kronos
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Zeus, Poseidon, Haides, Hera, Demeter, Hestia
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Lion
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Silver Fir
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Turret crown, Lions
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 1; statues pg 6 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Titan/TitanisRhea.html">
+          1
+         </a>
+         -
+         <a href="Titan/TitanisRheaKybele.html">
+          2
+         </a>
+         -
+         <a href="Phrygios/Kybele.html">
+          3
+         </a>
+         -
+         <a href="Titan/TitanisRheaTreasures.html">
+          4
+         </a>
+         -
+         <a href="Cult/RheaCult.html">
+          5
+         </a>
+         -
+         <a href="Cult/KybeleCult.html">
+          6
+         </a>
+        </p>
+        <p>
+         <a href="Titan/TitanisThemis.html">
+          THEMIS
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/N15.2.html">
+            <img border="0" height="115" src="image/thumbN15.2.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           THEMIS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Themis (En), Thémis (Fr), Temis (Es), Temi (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Themis
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Custom, Order, Prophecy
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Protogenos Ouranos &amp; Protogenos Gaia
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Zeus
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Horai, Moirai, others see pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Delphic tripod
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Titan/TitanisThemis.html">
+          1
+         </a>
+        </p>
+        <p>
+         <a href="Titan/TitanisLeto.html">
+          LETO
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/T14.1.html">
+            <img border="0" height="115" src="image/thumbT14.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           LETO
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Leto (En, Es, It), Lètô (Fr)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Latona
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Motherhood, Womanly Demure
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Titan Koios &amp; Titanis Phoibe
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None (consort of Zeus)
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Apollon, Artemis
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Rooster, Weasel (Ichneumon)
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Date Palm
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Head veil
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Titan/TitanisLeto.html">
+          1
+         </a>
+         -
+         <a href="Cult/LetoCult.html">
+          2
+         </a>
+        </p>
+        <p>
+         <a href="Georgikos/Pan.html">
+          PAN
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K22.1.html">
+            <img border="0" height="115" src="image/thumbK22.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           PAN
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Pan (En, Fr, Es, It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Faunus
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Herds &amp; Flocks, Mountain Wilderness
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Hermes &amp; Nymphe Penelopeia
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Aix
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Goat, Sheep
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Pine Tree, Reeds
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Pan-pipes, Goat legs, Horns
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; fresco pg 1; statues pg 2 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Georgikos/Pan.html">
+          1
+         </a>
+         -
+         <a href="Cult/PanCult.html">
+          2
+         </a>
+        </p>
+        <p>
+         <a href="Ouranios/Eileithyia.html">
+          EILEITHYIA
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K19.1.html">
+            <img border="0" height="115" src="image/thumbK19.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           EILEITHYIA
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Ilithyia (En), Ilithye (Fr), Ilitía (Es), Ilizia (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Lucina
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Childbirth, Pregnancy &amp; Labour
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Goddess Hera
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         None
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Weasel (Ichneumon)
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Raised hands
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings  pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Ouranios/Eileithyia.html">
+          1
+         </a>
+        </p>
+        <p>
+         <a href="Ouranios/Eros.html">
+          EROS
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K32.3.html">
+            <img border="0" height="115" src="image/thumbK32.3.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           EROS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Eros (En, Fr, Es, It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Cupidus (Cupid), Amor
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Love, Sexual Desire
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Goddess Aphrodite &amp; (father variously named)
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Psykhe
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Hare
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Apple, Rose, Myrtle
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Wings, Bow &amp; arrows, Torch, Myrtle wreath
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pgs 1 &amp; 3; statues pg 4 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Ouranios/Eros.html">
+          1
+         </a>
+         -
+         <a href="Protogenos/Eros.html">
+          2
+         </a>
+         -
+         <a href="Ouranios/Erotes.html">
+          3
+         </a>
+         -
+         <a href="Cult/ErosCult.html">
+          4
+         </a>
+        </p>
+        <p>
+         <a href="Pontios/Amphitrite.html">
+          AMPHITRITE
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/P14.5.html">
+            <img border="0" height="115" src="image/thumbP14.5B.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           AMPHITRITE
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Amphitrite (En, Fr), Anfitrite (Es, It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Salacia
+         <br/>
+         <span class="details">
+          Goddess of:
+         </span>
+         Queen of the Sea, Sea Life (fish, shellfish, sea-mammals)
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         Sea-God Nereus &amp; Nymphe Doris
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Poseidon
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Triton, others see pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Dolphin, Fish, Seal
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Seaweed
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Dolphin, Fish, Pinched fingers
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics  pg 1 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Pontios/Amphitrite.html">
+          1
+         </a>
+         -
+         <a href="Pontios/Nereides.html">
+          2
+         </a>
+        </p>
+        <p>
+         <a href="Ouranios/Asklepios.html">
+          ASKLEPIOS
+         </a>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/Z23.1.html">
+            <img border="0" height="115" src="image/thumbZ23.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           ASKLEPIOS
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Asclepius (En), Asclépios (Fr), Asclepio (Es, It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Aesculapius
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Medicine, Healing
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Apollon &amp; Princess Koronis
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Epione
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         See pg 1 (below)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Serpent
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Herbs (healing)
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Serpent-entwined staff
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Mosaics pg 1; statues pg 2 (below)
+         <br/>
+         <span class="details">
+          Theoi pages:
+         </span>
+         <a href="Ouranios/Asklepios.html">
+          1
+         </a>
+         -
+         <a href="Cult/AsklepiosCult.html">
+          2
+         </a>
+        </p>
+        <p>
+         <a href="Ouranios/Mousai.html">
+          THE 9 MOUSAI
+         </a>
+         <span class="heading">
+          (Muses)
+         </span>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K20.1C.html">
+            <img border="0" height="115" src="image/thumbK20.1C.jpg" width="114"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           THE MOUSAI
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Muses (En, Fr), Musas (Es), Muse (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Musae
+         <br/>
+         <span class="details">
+          Goddesses of:
+         </span>
+         Music, Song, Dancing, the Arts
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Titanis Mnemosyne
+         <br/>
+         <span class="details">
+          Names:
+         </span>
+         Kleio, Euterpe, Thaleia, Melpomene, Terpsikhore, Erato, Polyhymnia, Ourania, Kalliope
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         Dove
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Lyre (cithara &amp; barbiton), Laurel wreath, Scroll-chest, Scroll
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics  pgs 1, 4, 8 &amp; 9; statues pg 11 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Ouranios/Mousai.html">
+          1
+         </a>
+         -
+         <a href="Ouranios/MousaErato.html">
+          2
+         </a>
+         -
+         <a href="Ouranios/MousaEuterpe.html">
+          3
+         </a>
+         -
+         <a href="Ouranios/MousaKalliope.html">
+          4
+         </a>
+         -
+         <a href="Ouranios/MousaKleio.html">
+          5
+         </a>
+         -
+         <a href="Ouranios/MousaMelpomene.html">
+          6
+         </a>
+         -
+         <a href="Ouranios/MousaOurania.html">
+          7
+         </a>
+         -
+         <a href="Ouranios/MousaPolyhymnia.html">
+          8
+         </a>
+         -
+         <a href="Ouranios/MousaTerpsikhore.html">
+          9
+         </a>
+         -
+         <a href="Ouranios/MousaThaleia.html">
+          10
+         </a>
+         -
+         <a href="Cult/MousaiCult.html">
+          11
+         </a>
+        </p>
+        <p>
+         <a href="Ouranios/Kharites.html">
+          THE 3 KHARITES
+         </a>
+         <span class="heading">
+          (Graces)
+         </span>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/F21.1.html">
+            <img border="0" height="115" src="image/thumbF21.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           THE KHARITES
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Charites (En, Fr), Cárites (Es), Carite (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Gratiae
+         <span class="details">
+          <br/>
+          Goddesses of:
+         </span>
+         Joy, Mirth, Beauty, Adornment, Festivities, Dancing
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Titanis Eurynome
+         <br/>
+         <span class="details">
+          Names:
+         </span>
+         Aglaia, Euphrosyne, Thaleia
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Dancing circle
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Mosaics &amp; frescoes pg 1; statues pg 6 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Ouranios/Kharites.html">
+          1
+         </a>
+         -
+         <a href="Ouranios/KharisAglaia.html">
+          2
+         </a>
+         -
+         <a href="Ouranios/KharisEuphrosyne.html">
+          3
+         </a>
+         -
+         <a href="Ouranios/KharisThalia.html">
+          4
+         </a>
+         -
+         <a href="Ouranios/KharisPasithea.html">
+          5
+         </a>
+         -
+         <a href="Cult/KharitesCult.html">
+          6
+         </a>
+        </p>
+        <p>
+         <a href="Ouranios/Horai.html">
+          THE 3 HORAI
+         </a>
+         <span class="heading">
+          (Seasons)
+         </span>
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/K17.1.html">
+            <img border="0" height="115" src="image/thumbK17.1.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           THE HORAI
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Horae (En), Heures (Fr), Horas (Es), Ore (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Horae
+         <br/>
+         <span class="details">
+          Goddesses of:
+         </span>
+         the  Seasons, Law, Good Order, Peace
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Titanis Themis
+         <br/>
+         <span class="details">
+          Names:
+         </span>
+         Eirene, Dike, Eunomia
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         Fruit trees
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Branches of fruit &amp; blossoms, Basket of fruit, Cornucopia
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings &amp; mosaics pg 1; statue pg 3 (below)
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Ouranios/Horai.html">
+          1
+         </a>
+         -
+         <a href="Ouranios/HoraDike.html">
+          2
+         </a>
+         -
+         <a href="Ouranios/HoraEirene.html">
+          3
+         </a>
+         -
+         <a href="Ouranios/HoraEunomia.html">
+          4
+         </a>
+        </p>
+        <p>
+         <a href="Daimon/Moirai.html">
+          THE 3 MOIRAI
+         </a>
+         <span class="heading">
+          (Fates)
+         </span>
+        </p>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Moirae (En), Moires (Fr), Moras (Es), Moire (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Parcae
+         <br/>
+         <span class="details">
+          Goddesses of:
+         </span>
+         Fate, Destiny
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Titanis Themis
+         <br/>
+         <span class="details">
+          Names:
+         </span>
+         Klotho, Lakhesis, Atropos
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         None (Virgin goddesses)
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Spinning spool, Thread, Shears
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Currently none
+         <br/>
+         <span class="details">
+          Theoi Pages:
+         </span>
+         <a href="Daimon/Moirai.html">
+          1
+         </a>
+        </p>
+        <p class="heading">
+         HERAKLES THEOS
+        </p>
+        <table align="right" class="thumb">
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           <a href="Gallery/M12.2.html">
+            <img border="0" height="115" src="image/thumbM12.2.jpg" width="115"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td align="middle" bgcolor="#ffffff">
+           HERAKLES
+          </td>
+         </tr>
+        </table>
+        <p>
+         <span class="details">
+          Modern Spellings:
+         </span>
+         Heracles (En, Es), Héraclès (Fr),  Eracle (It)
+         <br/>
+         <span class="details">
+          Roman Name:
+         </span>
+         Hercules
+         <br/>
+         <span class="details">
+          God of:
+         </span>
+         Defender against Evil
+         <br/>
+         <span class="details">
+          Parents:
+         </span>
+         God Zeus &amp; Princess Alkmene
+         <br/>
+         <span class="details">
+          Spouse:
+         </span>
+         Hebe
+         <br/>
+         <span class="details">
+          Offspring:
+         </span>
+         Numerous mortal offspring
+         <br/>
+         <span class="details">
+          Animals:
+         </span>
+         -
+         <br/>
+         <span class="details">
+          Plants:
+         </span>
+         White Poplar
+         <br/>
+         <span class="details">
+          Iconography:
+         </span>
+         Lion skin cape, Gnarled club
+         <br/>
+         <span class="details">
+          Images:
+         </span>
+         Vase paintings see all pages below; statues see God pgs 1 - 3
+         <br/>
+         <span class="details">
+          Theoi Pages 12 Labours:
+         </span>
+         <a href="Ther/LeonNemeios.html">
+          1
+         </a>
+         -
+         <a href="Ther/DrakonHydra.html">
+          2
+         </a>
+         -
+         <a href="Ther/ElaphosKerynitis.html">
+          3
+         </a>
+         -
+         <a href="Ther/HusErymanthios.html">
+          4
+         </a>
+         -
+         <span class="heading">
+          5
+         </span>
+         -
+         <a href="Ther/OrnithesStymphalides.html">
+          6
+         </a>
+         -
+         <a href="Ther/TaurosKretaios.html">
+          7
+         </a>
+         -
+         <span class="heading">
+          8
+         </span>
+         -
+         <span class="heading">
+          9
+         </span>
+         -
+         <a href="Gigante/GiganteGeryon.html">
+          10
+         </a>
+         -
+         <a href="Titan/Hesperides.html">
+          11
+         </a>
+         -
+         <a href="Ther/KuonKerberos.html">
+          12
+         </a>
+         <br/>
+         <span class="details">
+          Theoi Pages Other Adventures:
+         </span>
+         <a href="Georgikos/KentaurosPholos.html">
+          1
+         </a>
+         -
+         <a href="Georgikos/KentauroiPeloponnesioi.html">
+          2
+         </a>
+         -
+         <a href="Ther/KetosTroias.html">
+          3
+         </a>
+         -
+         <a href="Ther/AetosKaukasios.html">
+          4
+         </a>
+         -
+         <a href="Gigante/GiganteAntaios.html">
+          5
+         </a>
+         -
+         <a href="Titan/TitanAtlas.html">
+          6
+         </a>
+         -
+         <a href="Khthonios/Askalaphos.html">
+          7
+         </a>
+         -
+         <a href="Gigante/GiganteAlkyoneus.html">
+          8
+         </a>
+         -
+         <a href="Georgikos/Kerkopes.html">
+          9
+         </a>
+         -
+         <a href="Georgikos/KentaurosEurytion2.html">
+          10
+         </a>
+         -
+         <a href="Potamos/PotamosAkheloios.html">
+          11
+         </a>
+         -
+         <a href="Georgikos/KentaurosNessos.html">
+          12
+         </a>
+         <br/>
+         <span class="details">
+          Theoi Pages God:
+         </span>
+         <a href="Cult/HeraklesCult.html">
+          1
+         </a>
+         -
+         <a href="Cult/HeraklesCult2.html">
+          2
+         </a>
+         -
+         <a href="Cult/HeraklesCult3.html">
+          3
+         </a>
+        </p>
+        <p class="heading">
+         OTHER MINOR GODS
+        </p>
+        <p>
+         For hundreds of other minor gods and spirits see the A-Z Guide.
+         <br/>
+         Those listed here on the Pantheon page were the  best known and most widely worshipped gods of ancient Greece.
+        </p>
+        <!-- InstanceEndEditable -->
+       </td>
+       <td align="right" valign="top" width="5">
+        <img height="29" src="image/space.gif" width="5"/>
+       </td>
+      </tr>
+      <tr>
+       <td align="left" bgcolor="#FEF9F5" class="main" valign="middle">
+       </td>
+       <td align="right" valign="top">
+        <div align="left">
+         <img height="60" src="image/space.gif" width="5"/>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <div style="padding-right: 5px;">
+     </div>
+    </td>
+    <td align="right" background="image/borderR.jpg" valign="top" width="29">
+     <!-- InstanceBeginEditable name="border_R" -->
+     <img height="49" src="image/borderRT.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="50" src="image/borderR.jpg" width="29"/>
+     <br/>
+     <img height="49" src="image/borderRB.jpg" width="29"/>
+     <br/>
+     <!-- InstanceEndEditable -->
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="764">
+   <tr align="right">
+    <td align="left" height="29" width="100%">
+     <img height="29" src="image/borderB.jpg" width="764"/>
+    </td>
+   </tr>
+   <tr align="right">
+    <td align="left" height="29">
+     <div align="center">
+      <span class="copyright">
+       Theoi Project Copyright © 2000 - 2011, Aaron Atsma
+      </span>
+     </div>
+    </td>
+   </tr>
+  </table>
+  <map name="ABCMap">
+   <area coords="12,1,37,24" href="greek-mythology/encyclopedia-a.html" shape="rect"/>
+   <area coords="37,1,61,24" href="greek-mythology/encyclopedia-c.html" shape="rect"/>
+   <area coords="61,1,87,24" href="greek-mythology/encyclopedia-c.html#C" shape="rect"/>
+   <area coords="87,1,111,24" href="greek-mythology/encyclopedia-d.html" shape="rect"/>
+   <area coords="111,1,136,24" href="greek-mythology/encyclopedia-d.html#E" shape="rect"/>
+   <area coords="136,1,158,24" href="greek-mythology/encyclopedia-d.html#F" shape="rect"/>
+   <area coords="158,1,183,24" href="greek-mythology/encyclopedia-d.html#G" shape="rect"/>
+   <area coords="183,1,209,24" href="greek-mythology/encyclopedia-h.html" shape="rect"/>
+   <area coords="209,1,228,24" href="greek-mythology/encyclopedia-h.html#I" shape="rect"/>
+   <area coords="229,2,249,25" href="greek-mythology/encyclopedia-h.html#J" shape="rect"/>
+   <area coords="249,1,273,24" href="greek-mythology/encyclopedia-h.html#K" shape="rect"/>
+   <area coords="272,1,296,24" href="greek-mythology/encyclopedia-l.html" shape="rect"/>
+   <area coords="296,1,325,24" href="greek-mythology/encyclopedia-l.html#M" shape="rect"/>
+   <area coords="325,1,350,24" href="greek-mythology/encyclopedia-l.html#N" shape="rect"/>
+   <area coords="350,1,376,24" href="greek-mythology/encyclopedia-l.html#O" shape="rect"/>
+   <area coords="376,1,397,24" href="greek-mythology/encyclopedia-p.html" shape="rect"/>
+   <area coords="397,1,422,24" href="greek-mythology/encyclopedia-r.html" shape="rect"/>
+   <area coords="422,1,444,24" href="greek-mythology/encyclopedia-r.html#S" shape="rect"/>
+   <area coords="444,1,467,24" href="greek-mythology/encyclopedia-r.html#T" shape="rect"/>
+   <area coords="467,1,494,24" href="greek-mythology/encyclopedia-r.html#U" shape="rect"/>
+   <area coords="494,1,520,24" href="greek-mythology/encyclopedia-r.html#X" shape="rect"/>
+   <area coords="520,1,543,24" href="greek-mythology/encyclopedia-r.html#Z" shape="rect"/>
+  </map>
+ </body>
+ <!-- InstanceEnd -->
+</html>

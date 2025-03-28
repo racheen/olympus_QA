@@ -1,0 +1,3947 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ATHENA (Athene) - Greek Goddess of Wisdom, War &amp; Crafts (Roman Minerva)
+  </title>
+  <meta content="Athena was the ancient Greek goddess of wisdom and good counsel, war, the defence of towns, heroic endeavour, weaving, pottery and various other crafts. She was depicted as a stately woman armed with a shield and spear, and wearing a long robe, crested helm, and the famed aegis--a snake-trimmed cape adorned with the monstrous visage of the Gorgon Medusa. Her Roman name was Minerva." name="description"/>
+  <meta content="Athena, Athene, Pallas, Olympian goddess, Greek mythology, Greek goddess of wisdom, Greek goddess of war, Greek goddess of heroism, Greek goddess of crafts, Athena pictures, Minerva" name="keywords"/>
+  <meta content="ATHENA - Greek Goddess of Wisdom, War &amp; Crafts" property="og:title">
+   <meta content="Athena was the ancient Greek goddess of wisdom and good counsel, war, the defence of towns, heroic endeavour, weaving, pottery and various other crafts. She was depicted as a stately woman armed with a shield and spear, and wearing a long robe, crested helm, and the famed aegis - a snake-trimmed cape adorned with the monstrous visage of the Gorgon Medusa. Her Roman name was Minerva." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Athena.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_athena_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Athena (Athene)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ATHENE
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Αθηνη
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Athênê
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Athena
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Minerva
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/K8.3.html">
+      <img alt="Athena goddess of wisdom | Athenian red-figure lekythos C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/K8.3Athena.jpg"/>
+     </a>
+     <figcaption>
+      Athena, Athenian red-figure lekythos C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ATHENE (Athena) was the Olympian goddess of wisdom and good counsel, war, the defence of towns, heroic endeavour, weaving, pottery and various other crafts. 
+  She was depicted as a stately woman armed with a shield and spear, and wearing a long robe, crested helm, and the famed
+     <em>
+      aigis
+     </em>
+     --a snake-trimmed cape adorned with the monstrous visage of the Gorgon Medousa (Medusa).
+    </p>
+    <h2>
+     MYTHS
+    </h2>
+    <p>
+     The more famous myths featuring the goddess Athene include:--
+    </p>
+    <p>
+     Her birth from the head of Zeus, fully-grown and arrayed in arms. &lt;&lt;
+     <a href="AthenaMyths.html#Birth">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Her contest with Poseidon for dominion of Athens in which she produced the first olive tree and he the first horse. &lt;&lt;
+     <a href="AthenaMyths.html#Athens">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The War of the Giants in which she buried Enkelados (Enceladus) beneath Mount Etna and made her
+     <em>
+      aigis
+     </em>
+     from the skin of Pallas. &lt;&lt;
+     <a href="AthenaMyths.html#Gigantes">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The attempted violation of the goddess by Hephaistos (Hephaestus), who spilled his seed upon the earth and produced Erikhthonios (Erichthonius), who she then adopted as her own son. &lt;&lt;
+     <a href="AthenaMyths.html#Erikhthonios">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The assisting of Perseus in his quest to slay the Gorgon and the Argonauts in their quest for the Golden Fleece. &lt;&lt;
+     <a href="AthenaFavour2.html#Perseus">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The assisting of Herakles (Heracles) with his twelve labours. &lt;&lt;
+     <a href="AthenaFavour2.html#Herakles">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The weaving contest with Arakhne (Arachne) who was transformed by the goddess into a spider . &lt;&lt;
+     <a href="AthenaWrath.html#Arakhne">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The blinding of Teiresias (Tiresias) for seeing her naked while bathing. &lt;&lt;
+     <a href="AthenaFavour.html#Teiresias">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The Judgement of Paris in which she competed with Hera and Aphrodite for the prize of the golden apple. &lt;&lt;
+     <a href="JudgementParis.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The Trojan War where she sided with the Greeks in battle, but attacked their ships with a storm when they failed to punish Oilean Aias (Ajax) for violating her Trojan shrine. &lt;&lt;
+     <a href="AthenaMyths3.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Many other myths are detailed over the following pages.
+    </p>
+    <hr/>
+    <h2>
+     ATHENA PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 9 pages describing the goddess, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Athena Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF ATHENA
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisMetis.html">
+      METIS
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 887, 924; Apollodorus 1.20)
+     </span>
+     <br/>
+     [1.2] Born from the head of
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 887, 924; Apollodorus 1.20, others)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     NONE (she was a virgin goddess)
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/S8.1.html">
+      <img alt="Pallas Athena | Greco-Roman marble statue C2nd A.D. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/S8.1Athene.jpg"/>
+     </a>
+     <figcaption>
+      Pallas Athena, Greco-Roman marble statue C2nd A.D.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ATHE′NA (Athênê or Athêna), one of the great divinities of the Greeks. Homer
+     <em>
+      Il.
+     </em>
+     v. 880) calls her a daughter of Zeus, without any allusion to her mother or to the manner in which she was called into existence, while most of the later traditions agree in stating that she was born from the head of Zeus. According to Hesiod (
+     <em>
+      Theog.
+     </em>
+     886, &amp;c.), Metis, the first wife of Zeus, was the mother of Athena, but when Metis was pregnant with her, Zeus, on the advice of Gaea and Uranus, swallowed Metis up, and afterwards gave birth himself to Athena, who sprang from his head. (Hesiod,
+     <em>
+      l. c.
+     </em>
+     924.) Pindar
+     <em>
+      (Ol.
+     </em>
+     vii. 35, &amp;c.) adds, that Hephaestus split the head of Zeus with his axe, and that Athena sprang forth with a mighty war-shout. Others relate, that Prometheus or Hermes or Palamaon assisted Zeus in giving birth to Athena, and mentioned the river Triton as the place where the event took place. (Apollod. i. 4. § 6; Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     vii. 66.) Other traditions again relate, that Athena sprang from the head of Zeus in full armour, a statement for which Stesichorus is said to have been the most ancient authority. (Tzetz.
+     <em>
+      ad Lycoph.
+     </em>
+     355; Philostr.
+     <em>
+      Icon.
+     </em>
+     ii. 27; Schol.
+     <em>
+      ad Apollon.
+     </em>
+     iv. 1310.)
+    </p>
+    <p>
+     All these traditions, however, agree in making Athena a daughter of Zeus; but a second set regard her as the daughter of Pallas, the winged giant, whom she afterwards killed on account of his attempting to violate her chastity, whose skin she used as her aegis, and whose wings she fastened to her own feet. (Tzetz.
+     <em>
+      ad Lycoph. l. c.;
+     </em>
+     Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 23.)
+    </p>
+    <p>
+     A third tradition carries us to Libya, and calls Athena a daughter of Poseidon and Tritonis. Athena, says Herodotus (iv. 180), on one occasion became angry with her father and went to Zeus, who made her his own daughter. This passage shows more clearly than any other the manner in which genuine and ancient Hellenic myths were transplanted to Libya, where they were afterwards regarded as the sources of Hellenic ones. Respecting this Libyan Athena, it is farther related, that she was educated by the rivergod Triton, together with his own daughter Pallas. (Apollod. iii. 12. § 3.) In Libya she was also said to have invented the flute; for when Perseus had cut off the head of Medusa, and Stheno and Euryale, the sisters of Medusa, lamented her death, while plaintive sounds issued from the mouths of the serpents which surrounded their heads, Athena is said to have imitated these sounds on a reed. (Pind.
+     <em>
+      Pyth.
+     </em>
+     xii. 19, &amp;c.; compare the other accounts in Hygin.
+     <em>
+      Fab.
+     </em>
+     165; Apollod. i. 4. § 2 ; Paus. i. 24. § 1.)
+    </p>
+    <p>
+     The connexion of Athena with Triton and Tritonis caused afterwards the various traditions about her birth-place, so that wherever there was a river or a well of that name, as in Crete, Thessaly, Boeotia, Arcadia, and Egypt, the inhabitants of those districts asserted that Athena was born there. It is from such birth-places on a river Triton that she seems to have been called Tritonis or Tritogeneia (Paus. ix. 33. § 5), though it should be observed that this surname is also explained in other ways; for some derive it from an ancient Cretan, Aeolic, or Boeotian word, tritô, signifying "head," so that it would mean " the goddess born from the head," and others think that it was intended to commemorate the circumstance of her being born on the third day of the month. (Tztez.
+     <em>
+      ad Lycoph.
+     </em>
+     519.) The connexion of Athena with Triton naturally suggests, that we have to look for the most ancient seat of her worship in Greece to the banks of the river Triton in Boeotia, which emptied itself into lake Copais, and on which there were two ancient Pelasgian towns, Athenae and Eleusis, which were according to tradition swallowed up by the lake. From thence her worship was carried by the Minyans into Attica, Libya, and other countries. (Müller,
+     <em>
+      Orchom.
+     </em>
+     p. 355.) We must lastly notice one tradition, which made Athena a daughter of Itonius and sister of Iodama, who was killed by Athena (Paus. ix. 34. § 1; Tzetz.
+     <em>
+      ad Lycoph.
+     </em>
+     355), and another according to which she was the daughter of Hephaestus.
+    </p>
+    <p>
+     These various traditions about Athena arose, as in most other cases, from local legends and from identifications of the Greek Athena with other divinities. The common notion which the Greeks entertained about her, and which was most widely spread in the ancient world, is, that she was the daughter of Zeus, and if we take Metis to have been her mother, we have at once the clue to the character which she bears in the religion of Greece ; for, as her father was the most powerful and her mother the wisest among the gods, so Athena was a combination of the two, that is, a goddess in whom power and wisdom were harmoniously blended. From this fundamental idea may be derived the various aspects under which she appears in the ancient writers. She seems to have been a divinity of a purely ethical character, and not the representative of any particular physical power manifested in nature; her power and wisdom appear in her being the protectress and preserver of the state and of social institutions. Everything, therefore, which gives to the state strength and prosperity, such as agriculture, inventions, and industry, as well as everything which preserves and protects it from injurious influence from without, such as the defence of the walls, fortresses, and harbours, is under her immediate care.
+    </p>
+    <p>
+     As the protectress of agriculture, Athena is represented as the inventor of the plough and rake: she created the olive tree, the greatest blessing of Attica, taught the people to yoke oxen to the plough, took care of the breeding of horses, and instructed men how to tame them by the bridle, her own invention. Allusions to this feature of her character are contained in the epithets boudeia, boarmia, agripha, hippia, or chalinitis. (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1076; Tzetz.
+     <em>
+      ad Lycoph.
+     </em>
+     520; Hesych.
+     <em>
+      s. v.
+     </em>
+     Hippia; Serv.
+     <em>
+      ad Aen.
+     </em>
+     iv. 402; Pind.
+     <em>
+      Ol.
+     </em>
+     xiii. 79.) At the beginning of spring thanks were offered to her in advance (procharistêria, Suid.
+     <em>
+      s. v.
+     </em>
+     ) for the protection she was to afford to the fields.
+    </p>
+    <p>
+     Besides the inventions relating to agriculture, others also connected with various kinds of science, industry, and art, are ascribed to her, and all her inventions are not of the kind which men make by chance or accident, but such as require thought and meditation. We may notice the invention of numbers (Liv. vii. 3), of the trumpet (Böckh,
+     <em>
+      ad Pind.
+     </em>
+     p. 344), the chariot, and navigation. [Aethyia.] In regard to all kinds of useful arts, she was believed to have made men acquainted with the means and instruments which are necessary for practising them, such as the art of producing fire.
+    </p>
+    <p>
+     She was further believed to have invented nearly every kind of work in which women were employed, and she herself was skilled in such work : in short Athena and Hephaestus were the great patrons both of the useful and elegant arts. Hence she is called erganê (Paus. i. 24. § 3), and later writers make her the goddess of all widom, knowledge, and art, and represent her as sitting on the right hand side of her father Zeus, and supporting him with her counsel. (Hom.
+     <em>
+      Od.
+     </em>
+     xxiii 160, xviii. 190;
+     <em>
+      Hymn. in Ven.
+     </em>
+     4, 7, &amp;c.; Plut.
+     <em>
+      Cim.
+     </em>
+     10; Ovid,
+     <em>
+      Fast.
+     </em>
+     iii. 833; Orph.
+     <em>
+      Hymn.
+     </em>
+     xxxi. 8; Spanh.
+     <em>
+      ad Callim.
+     </em>
+     p. 643; Horat.
+     <em>
+      Carm.
+     </em>
+     i. 12. 19; comp.
+     <em>
+      Dict. of Ant.
+     </em>
+     under Athênaia and Chalkeia.) As the goddess who made so many inventions necessary and useful in civilized life, she is characterized by various epithets and surnames, expressing the keenness of her sight or the power of her intellect, such as optiletis, ophthalmitis, oxuderkês, glaukôpis, poluboulos, polumêtis, and mêchanitis.
+    </p>
+    <p>
+     As the patron divinity of the state, she was at Athens the protectress of the phratries and houses which formed the basis of the state. The festival of the Apaturia had a direct reference to this particular point in the character of the goddess. (
+     <em>
+      Dict. of Ant. s. v. Apaturia.
+     </em>
+     ) She also maintained the authority of the law, and justice, and order, in the courts and the assembly of the people. This notion was as ancient as the Homeric poems, in which she is described as assisting Odysseus against the lawless conduct of the suitors. (Od. xiii. 394.) She was believed to have instituted the ancient court of the Areiopagus, and in cases where the votes of the judges were equally diviled, she gave the casting one in favour of the accused. (Aeschyl.
+     <em>
+      Eum.
+     </em>
+     753; comp. Paus. i. 28. § 5.) The epithets which have reference to this part of the goddess's character are axiopoinos, the avenger (Paus. iii. 15. § 4), Boulaia, and aguraia. (iii. 11. § 8.)
+    </p>
+    <p>
+     As Athena promoted the internal prosperity of the state, by encouraging agriculture and industry, and by maintaining law and order in all public transactions, so also she protected the state from outward enemies, and thus assumes the character of a warlike divinity, though in a very different sense from Ares, Eris, or Enyo. According to Homer (
+     <em>
+      Il.
+     </em>
+     v. 736, &amp;c.), she does not even bear arms, but borrows them from Zeus; she keeps men from slaughter when prudence demands it (Il. i. 199, &amp;c.), and repels Ares's savage love of war, and conquers him. (v. 840, &amp;c., xxi. 406.) She does not love war for its own sake, but simply on account of the advantages which the state gains in engaging in it; and she therefore supports only such warlike undertakings as are begun with prudence, and are likely to be followed by favourable results. (x. 244, &amp;c.) The epithets which she derives from her warlike character are ageleia, laphria, alkimachê, laossoos, and others. In times of war, towns, fortresses, and harbours are under her especial care, whence she is designated as
+     <em>
+      erusiptolis
+     </em>
+     ,
+     <em>
+      alalkomenêïs
+     </em>
+     ,
+     <em>
+      polias
+     </em>
+     ,
+     <em>
+      poliouchos
+     </em>
+     ,
+     <em>
+      akraia
+     </em>
+     ,
+     <em>
+      akria
+     </em>
+     ,
+     <em>
+      klêdouchos
+     </em>
+     ,
+     <em>
+      pulaitis
+     </em>
+     ,
+     <em>
+      promachorma
+     </em>
+     , and the like.
+    </p>
+    <p>
+     As the prudent goddess of war, she is also the protectress of all heroes who are distinguished for prudence and good counsel, as well as for their strength and valour, such as Heracles, Perseus, Bellerophontes, Achilles, Diomedes, and Odysseus. In the war of Zeus against the giants, she assisted her father and Heracles with her counsel, and also took an active part in it, for she buried Enceladus under the island of Sicily, and slew Pallas. (Apollod. i. 6. § 1, &amp;c.; comp. Spanheim,
+     <em>
+      ad Callim.
+     </em>
+     p. 643; Horat.
+     <em>
+      Carm.
+     </em>
+     i. 12. 19.) In the Trojan war she sided with the more civilised Greeks, though on their return home she visited them with storms, on account of the manner in which the Locrian Ajax had treated Cassandra in her temple. As a goddess of war and the protectress of heroes, Athena usually appears in armour, with the aegis and a golden staff, with which she bestows on her favourites youth and majesty. (Hom.
+     <em>
+      Od.
+     </em>
+     xvi. 172.)
+    </p>
+    <p>
+     The character of Athena, as we have here traced it, holds a middle place between the male and female, whence she is called in an Orphic hymn (xxxi. 10) arsên kai thêlus, and hence also she is a virgin divinity (Hom.
+     <em>
+      Hymn.
+     </em>
+     ix. 3), whose heart is inaccessible to the passion of love, and who shuns matrimonial connexion. Teiresias was deprived of his sight for having seen her in the bath (Callim.
+     <em>
+      Hymn.
+     </em>
+     pp. 546,589), and Hephaestus, who made an attempt upon her chastity, was obliged to flee. (Apollod. iii. 6. § 7, 14. § 6; Hom.
+     <em>
+      Il.
+     </em>
+     ii. 547, &amp;c.; comp. Tzetz.
+     <em>
+      ad Lycophr.
+     </em>
+     111.) For this reason, the ancient traditions always describe the goddess as dressed; and when Ovid (
+     <em>
+      Heroid.
+     </em>
+     v. 36) makes her appear naked before Paris, he abandons the genuine old story. Her statue also was always dressed, and when it was carried about at the Attic festivals, it was entirely covered. But, notwithstanding the common opinion of her virgin character, there are some traditions of late origin which describe her as a mother. Thus, Apollo is called a son of Hephaestus and Athena -- a legend which may have arisen at the time when the Ionians introduced the worship of Apollo into Attica, and when this new divinity was placed in some family connexion with the ancient goddess of the country. (Müller,
+     <em>
+      Dor.
+     </em>
+     ii. 2. § 13.) Lychnus also is called a son of Hephaestus and Athena. (Spanheim,
+     <em>
+      ad Callim.
+     </em>
+     p. 644.)
+    </p>
+    <p>
+     Athena was worshipped in all parts of Greece, and from the ancient towns on the lake Copais her worship was nitroduced at a very early period into Attica, where she became the great national divinity of the city and the country. Here she was afterwards regarded as the thea sôteira, ugieia, and paiônia, and the serpent, the symbol of perpetual renovation, was sacred to her. (Paus. i. 23. § 5, 31. § 3, 2. § 4.) At Lindus in Rhodes her worship was likewise very ancient. Among the things sacred to her we may mention the owl, serpent, cock, and olive-tree, which she was said to have created in her contest with Poseidon about the possession of Attica. (Plut.
+     <em>
+      de Is. et Os.;
+     </em>
+     Paus. vi. 26. § 2, i. 24. § 3; Hygin.
+     <em>
+      Fab.
+     </em>
+     164.) At Corone in Messenia her statue bore a crow in its hand. (Paus. iv. 34. § 3.)
+    </p>
+    <p>
+     The sacrifices offered to her consisted of bulls, whence she probably derived the surname of taurobolos (Suid.
+     <em>
+      s. v.
+     </em>
+     ), rams, and cows. (Horn.
+     <em>
+      Il.
+     </em>
+     ii. 550; Ov.
+     <em>
+      Met.
+     </em>
+     iv. 754.) Eustathius (
+     <em>
+      ad Hom. l. c.
+     </em>
+     ) remarks, that only female animals were sacrificed to her, but no female lambs. In Ilion, Locrian maidens or children are said to have been sacrificed to her every year as an atonement for the crime committed by the Locrian Ajax upon Cassandra; and Suidas (
+     <em>
+      s. v.
+     </em>
+     poinê) states, that these human sacrifices continued to be offered to her down to B. C. 346. Respecting the great festivals of Athena at Athens, see
+     <em>
+      Dict. of Ant. s. vv. Panathenaea
+     </em>
+     and
+     <em>
+      Arrhephoria.
+     </em>
+    </p>
+    <p>
+     Athena was frequently represented in works of art; but those in which her figure reached the highest ideal of perfection were the three statues by Pheidias. The first was the celebrated colossal statue of the goddess, of gold and ivory, which was erected on the acropolis of Athens; the second was a still greater bronze statue, made out of the spoils taken by the Athenians in the battle of Marathon; the third was a small bronze statue called the beautiful or the Lemnian Athena, because it had been dedicated at Athens by the Lemnians. The first of these statues represented the goddess in a standing position, bearing in her hand a Nike four cubits in height. The shield stood by her feet; her robe came down to her feet, on her breast was the head of Medusa, in her right hand she bore a lance, and at her feet there lay a serpent. (Paus. i. 24. § 7, 28. § 2.) We still possess a great number of representations of Athena in statues, colossal busts, reliefs, coins, and in vase-paintings.
+    </p>
+    <p>
+     Among the attributes which characterise the goddess in these works of art, we mention -- 1. The helmet, which she usually wears on her head, but in a few instances carries in her hand. It is usually ornamented in the most beautiful manner with griffins, heads of rams, horses, and sphinxes. (Comp. Horn.
+     <em>
+      Il.
+     </em>
+     v. 743.) 2. The aegis. (
+     <em>
+      Dict. of Ant. s. v. Aegis.
+     </em>
+     ) 3. The round Argolic shield. in the centre of which is represented the head of Medusa. 4. Objects sacred to her, such as an olive branch, a serpent, an owl, a cock, and a lance. Her garment is usually the Spartan tunic without sleeves, and over it she wears a cloak, the peplus, or, though rarely, the chlamys. The general expression of her figure is thoughtfulness and earnestness; her face is rather oval than round, the hair is rich and generally combed backwards over the temples, and floats freely down behind. The whole figure is majestic, and rather strong built than slender: the hips are small and the shoulders broad, so that the whole somewhat resembles a male figure.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Hymns">
+     HYMNS TO ATHENA
+    </h3>
+    <h4>
+     I) THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 11 to Athena (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "Of Pallas Athena, guardian of the city, I begin to sing. Dread is she, and with Ares she loves the deeds of war, the sack of cities and the shouting and the battle. It is she who saves the people as they go to war and come back. Hail, goddess, and give us good fortune and happiness!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 39 to Athena :
+     </span>
+     <br/>
+     "I begin to sing of Pallas Athena, the glorious goddess, bright-eyed, inventive, unbending of heart, pure virgin, saviour of cities, courageous, Tritogeneia. From his awful head wise Zeus himself bare her arrayed in warlike arms of flashing gold, and awe seized all the gods as they gazed. But Athena sprang quickly from the immortal head and stood before Zeus who holds the aegis, shaking a sharp spear: great Olympos began to reel horribly at the might of the grey-eyed goddess, and earth round about cried fearfully, and the sea was moved and tossed with dark waves, while foam burst forth suddenly: the bright Son of Hyperion [Helios the Sun] stopped his swift-footed horses a long while, until the maiden Pallas Athena had stripped the heavenly armour from her immortal shoulders. And wise Zeus was glad. 
+  Hail to you, daughter of Zeus who holds the aigis!"
+    </p>
+    <h4>
+     II) THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 32 to Athena (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+    </p>
+    <p>
+     "Only-begotten, noble race of Zeus, blessed and fierce, who joyest in caves to rove: O warlike Pallas, whose illustrious kind, ineffable, and effable we find : magnanimous and famed, the rocky height, and groves, and shady mountains thee delight: in arms rejoicing, who with furies dire and wild the souls of mortals dost inspire. Gymnastic virgin of terrific mind, dire Gorgon's bane, unmarried, blessed, kind: mother of arts, impetuous; understood as fury by the bad, but wisdom by the good. Female and male, the arts of war are thine, O much-formed, Drakaina (She-Dragon), inspired divine: over the Phlegraion Gigantes (Phlegraean Giants), roused to ire, thy coursers driving with destructive dire. Tritogeneia, of splendid mien, purger of evils, all-victorious queen. Hear me, O Goddess, when to thee I pray, with supplicating voice both night and day, and in my latest hour give peace and health, propitious times, and necessary wealth, and ever present be thy votaries aid, O much implored, art's parent, blue-eyed maid."
+    </p>
+    <hr/>
+    <h3 id="Descriptions">
+     DESCRIPTIONS OF ATHENA
+    </h3>
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/K8.8.html">
+      <img alt="Athena | Athenian red-figure lekythos C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K8.8Athena.jpg"/>
+     </a>
+     <figcaption>
+      Athena, Athenian red-figure lekythos C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 14. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "I saw that the statue of Athena had blue eyes . . . For the Libyans have a saying that the goddess is the daughter of Poseidon . . . and for this reason has blue eyes like Poseidon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 8. 350 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Athena from Olympos swooped to forest-mantled Ida. Quaked the earth and Xanthos' murmuring streams; so mightily she shook them . . . From her immortal armour flashed around the hovering lightnings; fearful serpents breathed fire from her shield invincible; the crest of her great helmet swept the clouds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 12. 167 ff :
+     </span>
+     <br/>
+     "Ares to the fray rose first, and on Athena rushed. Thereat fell each on other: clashed around their limbs the golden arms celestial as they charged. round them the wide sea thundered, the dark earth quaked 'neath immortal feet. Rang from them all far-pealing battle-shouts; that awful cry rolled up to the broad-arching heaven, and down even to Hades' fathomless abyss."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 14. 386 ff :
+     </span>
+     <br/>
+     "She [Athena] donned the stormy Aigis flashing far, adamantine, massy, a marvel to the Gods, whereon was wrought Medousa's (Medusa's) ghastly head, fearful: strong serpents breathing forth the blast of ravening fire were on the face thereof. Crashed on the Queen's breast all the Aigis-links, as after lightning crashes the firmament. Then grasped she her father's weapons, which no God save Zeus can lift, and wide Olympos shook. Then swept she clouds and mist together on high; night over earth was poured, haze o'er the sea. Zeus watched, and was right glad as broad heaven's floor rocked 'neath the Goddess's feet, and crashed the sky, as though invincible Zeus rushed forth to war."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 8 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of a Greek painting :] Three goddesses standing near them--they need no interpreter to tell who they are; for Athena is recognized at a glance, clothed as she is in what the poets call the ‘panoply of her race,’ casting a ‘bright glance’ from under her helmet, and ruddy of face as well as masculine in general appearance."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 70 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[The artist] gives her [Athena] a shield, she gives a spear sharp-tipped, she gives a helmet for her head; the aegis guards her breast."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 10. 30 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek play portraying the Judgement of Paris:] A second girl then burst in, whom you would have recognized as Minerva [Athene]. Her head was covered with a gleaming helmet which was itself crowned with an olive-wreath; she bore a shield and brandished a spear, simulating the goddess' fighting role . . . Each maiden representing a goddess was accompanied by her own escort . . .
+     <br/>
+     The girl whose appearance in arms had revealed her as Minerva [Athene] was protected by two boys who were the comrades in arms of the battle-goddess, Terror [Deimos, Terror] and Metus [Phobos, Fear]; they pranced about with swords unsheathed, and behind her back a flutist played a battle-tune in the Dorian mode. He mingled shrill whistling notes with deep droning chords like a trumpet-blast, stirring the performers to lively and supple dancing."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.3.html">
+        <img alt="Thumbnail Athena Holding Helm" src="../image/thumbK8.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.3 Athena Holding Helm
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.6.html">
+        <img alt="Thumbnail Athena Holding Helm" src="../image/thumbK8.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.6 Athena Holding Helm
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.7.html">
+        <img alt="Thumbnail Athena Holding Stern" src="../image/thumbK8.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.7 Athena Holding Stern
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.8.html">
+        <img alt="Thumbnail Athena Holding Shield" src="../image/thumbK8.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.8 Athena Holding Shield
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.5.html">
+        <img alt="Thumbnail Athena at Delphi" src="../image/thumbK8.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.5 Athena at Delphi
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.1.html">
+        <img alt="Thumbnail Athena Holding Helm" src="../image/thumbK8.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.1 Athena Holding Helm
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.4.html">
+        <img alt="Thumbnail Athena Holding Stylus" src="../image/thumbK8.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.4 Athena Holding Stylus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.2.html">
+        <img alt="Thumbnail Athena, Perseus, Medusa" src="../image/thumbP23.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.2 Athena, Perseus, Medusa
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.10.html">
+        <img alt="Thumbnail Birth of Athena" src="../image/thumbK8.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.10 Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.11.html">
+        <img alt="Thumbnail Birth of Athena" src="../image/thumbK8.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.11 Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.13.html">
+        <img alt="Thumbnail Birth of Athena" src="../image/thumbK8.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.13 Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.14.html">
+        <img alt="Thumbnail Birth of Athena" src="../image/thumbK8.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.14 Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.12.html">
+        <img alt="Thumbnail Birth of Athena" src="../image/thumbK8.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.12 Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K16.1.html">
+        <img alt="Thumbnail Athena, Artemis, Moirae" src="../image/thumbK16.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K16.1 Athena, Artemis, Moirae
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.21.html">
+        <img alt="Thumbnail Athena &amp; Giant Enceladus" src="../image/thumbK8.21.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.21 Athena &amp; Giant Enceladus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.22.html">
+        <img alt="Thumbnail Athena &amp; Giant Enceladus" src="../image/thumbK8.22.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.22 Athena &amp; Giant Enceladus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.2.html">
+        <img alt="Thumbnail Athena, Birth of Erichthonius" src="../image/thumbT1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.2 Athena, Birth of Erichthonius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.7.html">
+        <img alt="Thumbnail Athena, Birth of Erichthonius" src="../image/thumbT1.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.7 Athena, Birth of Erichthonius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.6.html">
+        <img alt="Thumbnail Athena, Birth of Erichthonius" src="../image/thumbT1.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.6 Athena, Birth of Erichthonius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.3.html">
+        <img alt="Thumbnail Athena, Birth of Erichthonius" src="../image/thumbT1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.3 Athena, Birth of Erichthonius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T40.7.html">
+        <img alt="Thumbnail Athena, Orestes, Apollo" src="../image/thumbT40.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T40.7 Athena, Orestes, Apollo
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T40.8.html">
+        <img alt="Thumbnail Athena, Orestes, Apollo" src="../image/thumbT40.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T40.8 Athena, Orestes, Apollo
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.6.html">
+        <img alt="Thumbnail Athena, Perseus, Medusa" src="../image/thumbP23.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.6 Athena, Perseus, Medusa
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.7.html">
+        <img alt="Thumbnail Athena, Perseus, Medusa" src="../image/thumbP23.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.7 Athena, Perseus, Medusa
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.19B.html">
+        <img alt="Thumbnail Athena, Perseus, Medusa" src="../image/thumbP23.19D.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.19B Athena, Perseus, Medusa
+        </h3>
+        <p>
+         Boeotian Black  Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.8.html">
+        <img alt="Thumbnail Athena, Perseus, Medusa" src="../image/thumbP23.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.8 Athena, Perseus, Medusa
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K9.4.html">
+        <img alt="Thumbnail Athena &amp; Kneeling Ares" src="../image/thumbK9.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K9.4 Athena &amp; Kneeling Ares
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.3.html">
+        <img alt="Thumbnail Athena, Birth of Pandora" src="../image/thumbT22.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.3 Athena, Birth of Pandora
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.2.html">
+        <img alt="Thumbnail Athena &amp; Heracles" src="../image/thumbK8.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.2 Athena &amp; Heracles
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M22.3.html">
+        <img alt="Thumbnail Athena, Heracles, the Hind" src="../image/thumbM22.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M22.3 Athena, Heracles, the Hind
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M22.1.html">
+        <img alt="Thumbnail Athena, Heracles, the Hind" src="../image/thumbM22.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M22.1 Athena, Heracles, the Hind
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M23.5.html">
+        <img alt="Thumbnail Athena, Heracles, the Boar" src="../image/thumbM23.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M23.5 Athena, Heracles, the Boar
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M23.2.html">
+        <img alt="Thumbnail Athena, Heracles, the Boar" src="../image/thumbM23.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M23.2 Athena, Heracles, the Boar
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K9.7.html">
+        <img alt="Thumbnail Athena, Heracles, Cycnus" src="../image/thumbK9.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K9.7 Athena, Heracles, Cycnus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.6.html">
+        <img alt="Thumbnail Athena, Heracles, Apollo" src="../image/thumbK5.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.6 Athena, Heracles, Apollo
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H2.4.html">
+        <img alt="Thumbnail Athena, Heracles, Zeus" src="../image/thumbH2.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H2.4 Athena, Heracles, Zeus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M13.2.html">
+        <img alt="Thumbnail Athena, Heracles, the Hydra" src="../image/thumbM13.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M13.2 Athena, Heracles, the Hydra
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.5.html">
+        <img alt="Thumbnail Athena, Heracles, Apollo" src="../image/thumbK5.5D.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.5 Athena, Heracles, Apollo
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H2.6.html">
+        <img alt="Thumbnail Athena &amp; Heracles" src="../image/thumbH2.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H2.6 Athena &amp; Heracles
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H2.5.html">
+        <img alt="Thumbnail Athena &amp; Heracles" src="../image/thumbH2.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H2.5 Athena &amp; Heracles
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M20.1.html">
+        <img alt="Thumbnail Athena, Jason, the Dragon" src="../image/thumbM20.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M20.1 Athena, Jason, the Dragon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M20.2.html">
+        <img alt="Thumbnail Athena, Jason, the Dragon" src="../image/thumbM20.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M20.2 Athena, Jason, the Dragon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M28.2.html">
+        <img alt="Thumbnail Athena, Cadmus, the Dragon" src="../image/thumbM28.2C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M28.2 Athena, Cadmus, the Dragon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P14.1.html">
+        <img alt="Thumbnail Athena, Theseus, Amphitrite" src="../image/thumbP14.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P14.1 Athena, Theseus, Amphitrite
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T34.7.html">
+        <img alt="Thumbnail Athena, Theseus, Minotaur" src="../image/thumbT34.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T34.7 Athena, Theseus, Minotaur
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.4.html">
+        <img alt="Thumbnail Athena, Theseus, Ariadne" src="../image/thumbN13.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.4 Athena, Theseus, Ariadne
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.3.html">
+        <img alt="Thumbnail Athena, Theseus, Ariadne" src="../image/thumbN13.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.3 Athena, Theseus, Ariadne
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.17.html">
+        <img alt="Thumbnail Athena, Theseus, Ariadne" src="../image/thumbK12.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.17 Athena, Theseus, Ariadne
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.5.html">
+        <img alt="Thumbnail Judgement of Paris" src="../image/thumbK4.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.5 Judgement of Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.6.html">
+        <img alt="Thumbnail Judgement of Paris" src="../image/thumbK4.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.6 Judgement of Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.10.html">
+        <img alt="Thumbnail Athena, Trojan War" src="../image/thumbK5.10B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.10 Athena, Trojan War
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M34.3.html">
+        <img alt="Thumbnail Athena's Owl (Comical)" src="../image/thumbM34.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M34.3 Athena's Owl (Comical)
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T28.3.html">
+        <img alt="Thumbnail Athena, Boreas, Oreithyia" src="../image/thumbT28.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T28.3 Athena, Boreas, Oreithyia
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.5.html">
+        <img alt="Thumbnail Silenus, Athena, Marsyas" src="../image/thumbT61.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.5 Silenus, Athena, Marsyas
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.4.html">
+        <img alt="Thumbnail Marsyas &amp; Athena" src="../image/thumbT61.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.4 Marsyas &amp; Athena
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.11.html">
+        <img alt="Thumbnail Athena &amp; Poseidon" src="../image/thumbK2.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.11 Athena &amp; Poseidon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.10.html">
+        <img alt="Thumbnail Athena &amp; Hera" src="../image/thumbK4.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.10 Athena &amp; Hera on Olympus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T8.2.html">
+        <img alt="Thumbnail Athena, Zeus, Themis, Hermes" src="../image/thumbT8.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T8.2 Athena, Zeus, Themis, Hermes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.8.html">
+        <img alt="Thumbnail Athena, Zeus, Hera, Nike" src="../image/thumbK4.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.8 Athena, Zeus, Hera, Nike
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.12.html">
+        <img alt="Thumbnail Athena, Ares, Ixion, Hera" src="../image/thumbK4.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.12 Athena, Ares, Ixion, Hera
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L1.3.html">
+        <img alt="Thumbnail Athena, Heracles, Giant" src="../image/thumbL1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L1.3 Athena, Heracles, Giant
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L3.6.html">
+        <img alt="Thumbnail Athena, Heracles, Geryon" src="../image/thumbL3.6B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L3.6 Athena, Heracles, Geryon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z4.1.html">
+        <img alt="Thumbnail Judgement of Paris" src="../image/thumbZ4.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z4.1 Judgement of Paris
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z4.1B.html">
+        <img alt="Thumbnail Judgement of Paris" src="../image/thumbZ4.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z4.1B Judgement of Paris
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R43.2.html">
+        <img alt="Thumbnail Athena, Nike, Giant Enceladus" src="../image/thumbR43.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R43.2 Athena, Nike, Giant Enceladus
+        </h3>
+        <p>
+         Greek Pergamon Bas-relief C2nd B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R43.1.html">
+        <img alt="Thumbnail Athena, War of the Giants" src="../image/thumbR43.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R43.1 Athena, War of the Giants
+        </h3>
+        <p>
+         Greek Aphrodisias Bas-relief C2nd B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.1.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.1 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.2.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.2 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.3.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.3 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.4.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.4 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.5.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.5 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.6.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.6 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.7.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.7 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.8.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.8 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.9.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.9 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.10.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.10 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.11.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.11 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.12.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.12 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.13.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.13 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.14.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.14 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.15.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.15 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.16.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.16 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.17.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.17 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S8.18.html">
+        <img alt="Thumbnail Pallas Athena Statue" src="../image/thumbS8.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S8.18 Pallas Athena
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL ATHENA PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Cypria Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Little Iliad Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Sack of Ilium Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Returns Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Telegony Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Telestes, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Hippias Major
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Menexenus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Parthenius.html">
+       Parthenius, Love Romances
+      </a>
+      <span class="sources-detail">
+       - Greek Mythography C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Moralia
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PlutarchParallelStories.html">
+       Plutarch, Parallel Stories
+      </a>
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Photius, Myriobiblon
+      <span class="sources-detail">
+       - Byzantine Greek Scholar C9th A.D.
+      </span>
+     </li>
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Source status of Athena pages:-
+      <br/>
+      1. Fully quoted: Hesiod; Homeric Hymns, Epic Cycle &amp; Homerica, Apollodorus, Pausanias, Strabo, Orphic Hymns, Quintus Smyrnaeus, Parthenius, Aelian (On Animals),; Ovid (Metamorphoses), Hyginus (Fabulae), Apuleius, Aesop;
+      <br/>
+      2. Partially or not quoted (Greek): Homer (Iliad &amp; Odyssey), Pindar, Greek Lyric (Fragments), Greek Elegaic (Fragments), Euripides, Aeschylus, Sophocles, Aristophanes, Plato, Herodotus, Apollonius Rhodius, Callimachus, Diodorus Siculus, Antoninus Liberalis, Theocritus, Lycophron, Plutarch, Philostratus &amp; Callistratus, Nonnus, Oppian; Tryphiodorus, et. al.;
+      <br/>
+      3. Partially or not quoted (Latin): Hyginus (Astronomica), Ovid (Fasti), Cicero, Statius, Colluthus, Propertius, Valerius Flaccus, et. al.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     ATHENA SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS ATHENA
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Metis
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddess of
+       </th>
+       <td>
+        Wisdom, war,  weaving, crafts
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Aegis, gorgoneion
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Owl
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Olive tree
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Nike
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Pallas, Tritogeneia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Minerva
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     ATHENA PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Family">
+         Family Tree of Athena
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Athena
+        </a>
+       </li>
+       <li>
+        <a href="#Descriptions">
+         Physical Descriptions
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AthenaMyths.html">
+       Part 2: Athena Myths 1 General
+      </a>
+      <ul>
+       <li>
+        <a href="AthenaMyths.html#Birth">
+         Birth of Athena
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Pallas">
+         Athena &amp; Pallas
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Virginity">
+         Virginity of Athena
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Persephone">
+         Rape of Persephone
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Pandora">
+         Creation of Pandora
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Titanes">
+         War of the Titanes
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Gigantes">
+         War of the Giants
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Typhoeus">
+         Athena &amp; Typhoeus
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Athens">
+         Contest with Poseidon for Athens
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Akropolis">
+         Laying of Acropolis
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Erikhthonios">
+         Birth of Erichthonius
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Troizenos">
+         Contest with Poseidon for Troezen
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths.html#Marsyas">
+         Invention of the Flute
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="JudgementParis.html">
+       Part 2: Athena Myths 2 General
+      </a>
+      <ul>
+       <li>
+        <a href="JudgementParis.html">
+         Judgement of Paris
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AthenaMyths3.html">
+       Part 2: Athena Myths 3 General
+      </a>
+      <ul>
+       <li>
+        <a href="AthenaMyths3.html#Penthesileia">
+         Trojan War &amp; Penthesileia
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths3.html#AiasTelamonios">
+         Madness of Ajax
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths3.html#Palladion">
+         Theft of the Palladium
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths3.html#TrojanHorse">
+         The Trojan Horse
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths3.html#AiasOileis">
+         Shipwreck of Ajax
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AthenaWrath.html">
+       Part 2: Athena Myths 4 Wrath
+      </a>
+      <ul>
+       <li>
+        <a href="AthenaMyths3.html#AiasOileis">
+         Ajax Oilean
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths3.html#AiasTelamonios">
+         Ajax Telamonian
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Alkinoe">
+         Alcinoe
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Arakhne">
+         Arachne
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Auge">
+         Auge
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Kekropides">
+         Cecropides
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Kekropides">
+         The Crow
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Harmonia">
+         Harmonia
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Iodama">
+         Iodama
+        </a>
+       </li>
+       <li>
+        <a href="AthenaMyths3.html#Laokoon">
+         Laocoon
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Lokrians">
+         Locrians
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Medousa">
+         Medusa
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Teiresias">
+         Tiresias
+        </a>
+       </li>
+       <li>
+        <a href="AthenaWrath.html#Teuthis">
+         Teuthis
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AthenaFavour.html">
+       Part 2: Athena Myths 5 Favour
+      </a>
+      <ul>
+       <li>
+        <a href="AthenaFavour.html#Asklepios">
+         Asclepius
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Koroneis">
+         Coroneis
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Koronides">
+         Coronides
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Perdix">
+         Daedalus
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Danaus">
+         Danaus &amp; the Danaides
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Eurynome">
+         Eurynome
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Nyktimene">
+         Nyctimene
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Pandareides">
+         Pandareïdes
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Perdix">
+         Perdix
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Polyboia">
+         Polyboea
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour.html#Teiresias">
+         Tiresias
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AthenaFavour2.html">
+       Part 2: Athena Myths 6 Favour
+      </a>
+      <ul>
+       <li>
+        <a href="AthenaFavour2.html#Aeetes">
+         Aeetes
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Bellerophon">
+         Bellerophon
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Diomedes">
+         Diomedes
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Herakles">
+         Heracles
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Argonauts">
+         Jason &amp; the Argonauts
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Kadmos">
+         Cadmus
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Odysseus">
+         Odysseus
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Peleus">
+         Peleus
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Perseus">
+         Perseus
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Theseus">
+         Theseus
+        </a>
+       </li>
+       <li>
+        <a href="AthenaFavour2.html#Tydeus">
+         Tydeus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AthenaCult.html">
+       Part 3: Cult of Athena 1
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AthenaCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AthenaCult2.html">
+       Part 3: Cult of Athena 2
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AthenaCult2.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult2.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult2.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult2.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult2.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AthenaCult3.html">
+       Part 3: Cult of Athena 3
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AthenaCult3.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult3.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult3.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AthenaCult4.html">
+       Part 3: Cult of Athena 4
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Lokris">
+         Ozolean Locris, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Opous">
+         Opuntian Locris, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Malis">
+         Malis, Nothern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Thessalia">
+         Thessaly, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Keos">
+         Ceos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Khios">
+         Chios, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Samos">
+         Samos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Rhodos">
+         Rhodes, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Krete">
+         Crete, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Troad">
+         Troad, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Lykia">
+         Lycia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Pamphylia">
+         Pamphylia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Sikelia">
+         Sicily, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Lucania">
+         Lucania, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Calabria">
+         Calabria, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Campania">
+         Campania, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Apulia">
+         Apulia, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Rome">
+         Rome &amp; Latium, Central Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AthenaCult4.html#Iberia">
+         Iberia, Southern Spain
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      Part 3: Festivals of Athena
+      <ul>
+       <li>
+        <a href="../Festival/Panathenaia.html">
+         The Panathenaea
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AthenaTitles.html">
+       Part 4: Titles &amp; Epithets
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

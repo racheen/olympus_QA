@@ -1,0 +1,4717 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   MOIRAE (Moirai) - The Fates, Greek Goddesses of Fate &amp; Destiny (Roman Parcae)
+  </title>
+  <meta content="The Moirae were the three ancient Greek goddesses of fate who personified the inescapable destiny of man. They assigned to every person his or her fate or share in the scheme of things. The individuals were Clotho who spun the thread of life, Lachesis who measured it, and Atropos who cut it short. Zeus Moiragetes, the god of fate, was their leader.The Moirai were described as ugly, old women and were sometimes lame. They were severe, inflexible and stern. Their Roman name was Parcae." name="description"/>
+  <meta content="Moirae, Moirai, the Fates, Greek mythology, Greek goddesses of fate, personifications of fate, Aesa, Parcae, Fatae" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Moirae (Moirai)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     MOIRAI
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Μοιρα Μοιραι
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Moira, Moirai
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Fatum, Fatae, Parcae
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Fates
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/K16.2.html">
+      <img alt="Spinner | Athenian red-figure oinochoe C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K16.2Moirai.jpg"/>
+     </a>
+     <figcaption>
+      Spinner, Athenian red-figure oinochoe C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE MOIRAI (Moirae) were the three goddesses of fate who personified the inescapable destiny of man. They assigned to  every person his or her fate or share in the scheme of things. Their name means "Parts." "Shares" or "Alottted Portions." The individuals were Klotho (Clotho), the "the Spinner," who spun the thread of life, 
+                        Lakhesis (Lachesis), "the Apportioner of Lots", who measured it, and 
+    Atropos (or Aisa), "She who cannot be turned," who cut it short.  Zeus Moiragetes, the god of fate, was their leader.
+    </p>
+    <p>
+     At the birth of a man, the Moirai spinned out the thread of his future life, followed his steps, and directed the consequences of his actions according to the counsel of the gods. It was not an inflexible fate; Zeus, if he chose, had the power of saving even those who were already on the point of being seized by their fate. The Fates did not abruptly interfere in human affairs but availed themselves of intermediate causes, and determined the lot of mortals not absolutely, but only conditionally, even man himself, in his freedom was allowed to exercise a certain influence upon them. As man's fate terminated at his death, the goddesses of fate become the goddesses of death,
+     <em>
+      Moirai Thanatoio
+     </em>
+     .
+    </p>
+    <p>
+     The Moirai were independent, at the helm of necessity, directed fate, and watched that the fate assigned to every being by eternal laws might take its course without obstruction; and Zeus, as well as the other gods and man, had to submit to them. They assigned to the
+     <a href="../Khthonios/Erinyes.html">
+      Erinyes
+     </a>
+     , who inflicted the punishement for evil deeds, their proper functions; and with them they directed fate according to the laws of necessity.
+    </p>
+    <p>
+     As goddesses of birth, who spinned the thread of life, and even prophesied the fate of the newly born,
+     <a href="../Ouranios/Eileithyia.html">
+      Eileithyia
+     </a>
+     was their companion. As goddesses of fate they must necessarily have known the future, which at times they revealed, and were therefore prophetic deities. Their ministers were all the soothsayers and oracles.
+    </p>
+    <p>
+     As goddesses of death, they appeared together with the
+     <a href="Keres.html">
+      Keres
+     </a>
+     and the infernal
+     <a href="../Khthonios/Erinyes.html">
+      Erinyes
+     </a>
+     .
+    </p>
+    <p>
+     The Moirai were described as ugly, old women and sometimes lame. They were severe, inflexible and stern. Klotho carries a spindle or a roll (the book of ate), Lakhesis a staff with which she points to the horoscope on a globe, and Atropos a scroll, a wax tablet, a sundial, a pair of scales, or a cutting instrument. At other times the three were shown with staffs or sceptres, the symbols of dominion, and sometimes even with crowns. At the birth of each man they appeared spinning, measuring, and cutting the thread of life.
+    </p>
+    <p>
+     The Romans name for the goddesses was Parcae and the names of the individuals were Nona, Decuma and Morta.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE MOIRAE
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Olympios/Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisThemis.html">
+      THEMIS
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony, Apollodorus 1.13)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Protogenos/Nyx.html">
+      NYX
+     </a>
+     (no father)
+     <span class="family-refs">
+      (Hesiod Theogony 217, Aeschylus Eumenides 961, Greek Lyric V Anon 1018, Orphic Hymn 59)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Protogenos/Erebos.html">
+      EREBOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Nyx.html">
+      NYX
+     </a>
+     <span class="family-refs">
+      (Hyginus Pref, Cicero De Natura Deum 3.17)
+     </span>
+     <br/>
+     [4.1]
+     <a href="../Protogenos/Khronos.html">
+      KRONOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Nyx.html">
+      NYX
+     </a>
+     <span class="family-refs">
+      (Tzetzes ad Lycophron)
+     </span>
+     <br/>
+     [5.1]
+     <a href="../Protogenos/Ananke.html">
+      ANANKE
+     </a>
+     <span class="family-refs">
+      (Plato Republic 617C)
+     </span>
+     <br/>
+     [6.1]
+     <a href="../Protogenos/Khaos.html">
+      KHAOS
+     </a>
+     <span class="family-refs">
+      (Quintus Smyrnaeus 3.755)
+     </span>
+     <br/>
+     [7.1]
+     <a href="../Titan/TitanOkeanos.html">
+      OKEANOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Lycophron 144, Athenaeus 15)
+     </span>
+    </p>
+    <h3>
+     NAMES
+    </h3>
+    <p>
+     [1.1] KLOTHO, LAKHESIS, ATROPOS
+     <span class="family-refs">
+      (Hesiod Theogony, et. al.)
+     </span>
+     <br/>
+     [2.1] AISA
+     <span class="family-refs">
+      (Homer Iliad, et. al.)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     MOIRA (Moira) properly signifies "a share," and as a personification " the deity who assigns to every man his fate or his share," or the Fates. Homer usually speaks of only one Moira, and only once mentions the Moirai in the plural. (
+     <em>
+      Il.
+     </em>
+     xxiv. 29.) In his poems Moira is fate personified, which, at the birth of man, spins out the thread of his future life (
+     <em>
+      Il.
+     </em>
+     xxiv. 209), follows his steps, and directs the consequences of his actions according to the counsel of the gods. (
+     <em>
+      11.
+     </em>
+     v. 613, xx. 5.) Homer thus, when he personifies Fate, conceives her as spinning, an act by which also the power of other gods over the life of man is expressed. (
+     <em>
+      Il.
+     </em>
+     xxiv. 525,
+     <em>
+      Od.
+     </em>
+     i. 17,iii. 208, iv. 208.) But the personification of his Moira is not complete, for he mentions no particular appearance of the goddess, no attributes, and no parentage; and his Moira is therefore quite synonymous with Aisa. (
+     <em>
+      II.
+     </em>
+     xx. 127, xxiv. 209.) If in
+     <em>
+      Od.
+     </em>
+     vii. 197, the Kataklôthes are the Moirae, and not the Eileithyiae, as some suppose, Aisa and Moira would indeed be two distinct beings, but still beings performing entirely the same functions.
+    </p>
+    <p>
+     The Moirae, as the divinities of the duration of human life, which is determined by the two points of birth and of death, are conceived either as goddesses of birth or as goddesses of death, and hence their number was two, as at Delphi. (Paus. x. 24. § 4; Plut.
+     <em>
+      de Tranq. An.
+     </em>
+     15,
+     <em>
+      de Ei ap. Delph.
+     </em>
+     2.) From this circumstance we may perhaps infer that originally the Greeks conceived of only one Moira, and that subsequently a consideration of her nature and attributes led to the belief in two, and ultimately in three Moirae; though a distribution of the functions among the three was not strictly observed, for in Ovid, for example (
+     <em>
+      ad Liv.
+     </em>
+     239), and Tibullus (i. 8. 1.), all three are described as spinning, although this should be the function of Clotho alone, who is, in fact, often mentioned alone as the representative of all. (Pind.
+     <em>
+      01.
+     </em>
+     i. 40; Ov.
+     <em>
+      ad Liv.
+     </em>
+     164,
+     <em>
+      Fast.
+     </em>
+     vi. 757,
+     <em>
+      Ex Pont.
+     </em>
+     iv. 15. 36.) As goddesses of birth, who spill the thread of beginning life, and even prophesy the fate of the newly born, they are mentioned along with Eileithyia, who is called their companion and paredros. (Paus. viii. 21. § 2; Plat.
+     <em>
+      Sympos.
+     </em>
+     p. 206, d.; Pind.
+     <em>
+      Ol.
+     </em>
+     vi. 70,
+     <em>
+      Nem.
+     </em>
+     vii. 1; Anton. Lib. 29; comp. Eurip.
+     <em>
+      Iphig. Taur.
+     </em>
+     207.) In a similar capacity they are also joined with Prometheus, the former, or creator of the human race in general. (Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 15.) The symbol with which they, or rather Clotho alone, are represented to indicate this function, is a spindle, and the idea implied in it was carried out so far, that sometimes we read of their breaking or cutting off the thread when life is to end. (Ov.
+     <em>
+      Am.
+     </em>
+     ii. 6. 46; Plat.
+     <em>
+      de Re Publ.
+     </em>
+     p. 616.) Being goddesses of fate, they must necessarily know the future, which at times they reveal, and thus become prophetic divinities. (Ov.
+     <em>
+      Met.
+     </em>
+     viii. 454,
+     <em>
+      Trist.
+     </em>
+     v. 3. 25; Tibull. i. 8. 1, iv. 5. 3; Catull. 64. 307.) As goddesses of death, they appear together with the Keres (Hes.
+     <em>
+      Scut. Herc.
+     </em>
+     258) and the infernal Erinnyes, with whom they are even confounded, and in the neighbourhood of Sicyon the annual sacrifices offered to them were the same as those offered to the Erinnyes. (Paus. ii. 11. § 4; comp. Schol.
+     <em>
+      ad Aesch. Agam.
+     </em>
+     70; Aelian,
+     <em>
+      H. A.
+     </em>
+     x. 33; Serv.
+     <em>
+      ad Aen.
+     </em>
+     i. 86.) It belongs to the same character that, along with the Charites, they lead Persephone out of the lower world into the regions of light, and are mentioned along with Pluto and Charon. (Orph.
+     <em>
+      Hymn.
+     </em>
+     428; Ov.
+     <em>
+      Fast.
+     </em>
+     vi. 157; comp. Aristoph.
+     <em>
+      Ran.
+     </em>
+     453.) The various epithets which poets apply to the Moirae generally refer to the severity, inflexibility, and sternness of fate.
+    </p>
+    <p>
+     The Homeric Moira is not, as some have thought, an inflexible fate, to which the gods themselves must bow; but, on the contrary, Zeus, as the father of gods and men, weighs out their fate to them (
+     <em>
+      Il.
+     </em>
+     viii. 69, xxii. 209; comp. xix. 108); and if he chooses, he has the power of saving even those who are already on the point of being seized by their fate (II. xvi. 434, 441, 443); nay, as Fate does not abruptly interfere in human affairs, but avails herself of intermediate causes, and determines the lot of mortals not absolutely, but only conditionally, even man himself, in his freedom, is allowed to exercise a certain influence upon her. (
+     <em>
+      Od.
+     </em>
+     i. 34,
+     <em>
+      Il.
+     </em>
+     ix. 411, xvi. 685.) As man's fate terminates at his death, the goddess of fate at the close of life becomes the goddess of death, moira Danatoio (
+     <em>
+      Od.
+     </em>
+     xxiv. 29, ii. 100, iii. 238), and is mentioned along with death itself, and with Apollo, the bringer of death. (
+     <em>
+      Il.
+     </em>
+     iii. 101, v. 83, xvi. 434, 853, xx. 477, xxi. 101, xxiv. 132.)
+    </p>
+    <p>
+     Hesiod (
+     <em>
+      Theog.
+     </em>
+     217, &amp;c., 904; comp. Apollod. i 3. § 1) has the personification of the Moirae complete; for he calls them, together with the Keres, daughters of Night; and distinguishes three, viz. Clotho, or the spinning fate; Lachesis, or the one who assigns to man his fate; and Atropos, or the fate that cannot be avoided. According to this genealogy, the Moirae must be considered as in a state of dependence upon their father, and as agreeing with his counsels. Hence he is called Moiragetês, i. e. the guide or leader of the Moirae (Paus. v. 15. § 4), and hence also they were represented along with their father in temples and works of art, as at Megara (Paus. i. 40. § 3), in the temple of Despoena in Arcadia (viii. 37. § 1), and at Delphi (x. 24. § 4; comp. viii. 42. § 2). They are further described as engraving on indestructible tables the decrees of their father Zeus. (Claudian, xv. 202; comp. Ov.
+     <em>
+      Met.
+     </em>
+     xv. 808, &amp;c.) Later writers differ in their genealogy of the Moirae from that of Hesiod; thus they are called children of Erebus and Night (Cic.
+     <em>
+      De Aat. Deor.
+     </em>
+     iii. 17), of Cronos and Night (Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     406), of Ge and Oceanus (Athenag. 15; Lycoph. 144), or lastly of Ananke or Necessity. (Plat.
+     <em>
+      De Re Publ.
+     </em>
+     p. 617, d.)
+    </p>
+    <p>
+     It cannot be surprising to find that the character and nature of the Moirae were conceived differently at different times and by different authors. Sometimes they appear as divinities of fate in the strict sense of the term, and sometimes only as allegorical divinities of the duration of human life. In the former character they are independent, at the helm of necessity, direct fate, and watch that the fate assigned to every being by eternal laws may take its course without obstruction (Aeschyl.
+     <em>
+      Prom.
+     </em>
+     511, 515); and Zeus, as well as the other gods and men, must submit to them. (Herod. i. 91; Lactant.
+     <em>
+      Institute.
+     </em>
+     i. 11, 13; Stob.
+     <em>
+      Eclog.
+     </em>
+     i. pp. 152, 170.) They assign to the Erinnyes, who inflict the punishment for evil deeds, their proper functions; and with them they direct fate according to the laws of necessity, whence they are sometimes called the sisters of the Erinnyes. (Aeschyl.
+     <em>
+      Eum.
+     </em>
+     335, 962,
+     <em>
+      Prom.
+     </em>
+     516, 696, 895; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     406.) Later poets also conceive the Moirae in the same character. (Virg.
+     <em>
+      Aen.
+     </em>
+     v. 798, xii. 147; Tibull. i. 8. 2; Ov.
+     <em>
+      Trist.
+     </em>
+     v. 3. 17,
+     <em>
+      Met.
+     </em>
+     xv. 781; Horat.
+     <em>
+      Carm. Saec.
+     </em>
+     25, &amp;c.) These grave and mighty goddesses were represented by the earliest artists with staffs or sceptres, the symbol of dominion; and Plato (
+     <em>
+      De Re Pub.
+     </em>
+     p. 617) even mentions their crowns. (
+     <em>
+      Mus. Pio-Clem.
+     </em>
+     tom. vi. tab. B.)
+    </p>
+    <p>
+     They had sanctuaries in many parts of Greece, such as Corinth (Paus. ii. 4. § 7), Sparta (iii. 11. § 8), Olympia (v. 15. § 4), Thebes (ix. 2.5. § 4), and elsewhere. The poets sometimes describe them as aged and hideous women, and even as lame, to indicate the slow march of fate (Catull. 64, 306; Ov.
+     <em>
+      Met.
+     </em>
+     xv. 781; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     584) ; but in works of art they are represented as grave maidens, with different attributes, viz., Clotho with a spindle or a roll (the book of fate); Lachesis pointing with a staff to the horoscope on the globe ; and Atropos with a pair of scales, or a sun-dial, or a cutting instrument. It is worthy of remark that the Muse Urania was sometimes represented with the same attributes as Lachesis, and that Aphrodite Urania at Athens, according to an inscription on a Hermes-pillar, was called the oldest of the Moirae. (Paus. i. 19. § 2.)
+    </p>
+    <p>
+     PEPRO′MENE (Peprômenê), namely
+     <em>
+      etopa
+     </em>
+     , that is, the share destined by fate, occurs also as a proper name in the same sense as Moira or Fate. (Paus. viii. 21. § 2; Hom.
+     <em>
+      Il.
+     </em>
+     iii. 309.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/K16.1.html">
+      <img alt="Artemis, Athena and the Moirae | Athenian black-figure dinos C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K16.1Moirai_sm.jpg"/>
+     </a>
+     <figcaption>
+      Artemis, Athena and the Moirae, Athenian black-figure dinos C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2 id="Names">
+     NAMES OF THE MOIRAE
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Κλωθω
+      </p>
+      <p class="names-greek">
+       Λαχεσις
+      </p>
+      <p class="names-greek">
+       Ατροπος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Klôthô
+      </p>
+      <p>
+       Lakhesis
+      </p>
+      <p>
+       Atropos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Clotho
+      </p>
+      <p>
+       Lachesis
+      </p>
+      <p>
+       Atropus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Spinner
+      </p>
+      <p>
+       Disposer of Lots
+      </p>
+      <p>
+       Cannot be Turned
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Αισα
+      </p>
+      <p class="names-greek">
+       Πεπρωμενη
+      </p>
+      <p class="names-greek">
+       Ἑιμαρμενη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Aisa
+      </p>
+      <p>
+       Peprômenê
+      </p>
+      <p>
+       Heimarmenê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Aesa
+      </p>
+      <p>
+       Pepromene
+      </p>
+      <p>
+       Heimarmene
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Destiny
+      </p>
+      <p>
+       Share
+      </p>
+      <p>
+       Destiny
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     <a>
+     </a>
+     PARENTAGE OF THE MOIRAE
+    </h3>
+    <h4>
+     I. DAUGHTERS OF ZEUS &amp; THEMIS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 901 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Next [after the goddess Metis] he [Zeus] married bright Themis who bare the Horai (Horae, Hours), and Eunomia (Order), Dike (Justice), and blooming Eirene (Irene, Peace), who mind the works of mortal men, and the Moirai (Moirae, Fates) to whom wise Zeus gave the greatest honour, Klotho (Clotho), and Lakhesis (Lachesis), and Atropos (Atropus) who give mortal men evil and good to have."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Shield of Heracles 258 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Klotho (Clotho) and Lakhesis (Lachesis) stood over them, and smaller than they was Atropos, no tall goddess, yet she it is who is eldest of them, and ranked high beyond the two others."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 13 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "With Themis, the daugther of Ouranos (Uranus, Heaven), he [Zeus] fathered the Horai (Horae, Seasons), by name Eirene (Irene, Peace), Eunomia (Good Order), and Dike (Justice); also the Moirai (Moirae, Fates), called Klotho (Clotho), Lakhesis (Lachesis), and Atropos."
+    </p>
+    <h4>
+     II. DAUGHTERS OF NYX
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 211 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "And Nyx (Night) bare hateful Moros (Doom) and black Ker (Violent Death) and Thanatos (Death), and she bare Hypnos (Sleep) and the tribe of Oneiroi (Dreams). And again the goddess murky Nyx, though she lay with none, bare Momos (Blame) and painful Oizys (Misery), and the Hesperides (Evenings) . . . Also she bare the Moirai (Morae, Fates) and the ruthless avenging Keres (Death-Fates), Klotho (Clotho) and Lakhesis (Lachesis) and Atropos, who give men at their birth both evil and good to have. Also deadly Nyx bare Nemesis (Envy) to afflict mortal men, and after her, Apate (Deceit) and Philotes (Friendship) and hateful Geras (Old Age) and hard-hearted Eris (Strife)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 1018 (from Stobaeus, Anthology) (trans. Campbell) :
+     </span>
+     <br/>
+     "Moirai (Morae, Fates) . . . Aisa (Aesa, Dispensation), Klotho (Clotho) and Lakhesis (Lachesis), fair-armed daughters of Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 961 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "You, divine (
+     <em>
+      theai
+     </em>
+     ) Moirai (Moirae, Fates), our [the Erinyes'] sisters by one mother [Nyx], divinities who distribute justly."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 59 to the Fates (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates) . . . daughters of darkling Nyx (Night) . . . Atropos, Lakhesis (Lachesis), and Klotho (Clotho) named."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface  (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Nox (Night) and Erebus [were born] : Fatum (Fate), Senectus (Old Age), Mors (Death), Letum (Dissolution), Continentia (Moderation), Somnus (Sleep), Somnia (Dreams), Amor (Love)--that is Lysimeles--, Epiphron (Prudence), Porphyrion, Epaphus, Discordia (Discord), Miseria (Misery), Petulantia (Wantonness), Nemesis (Retribution), Euphrosyne (Good Cheer), Amicitia (Friendship), Misericordia (Compassion), Styx (Hatred); the three Parcae (Fates) [i.e. the Moirai], namely Clotho, Lachesis and Atropos; the Hesperides Aegle, Hesperie and Aerica."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 17 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Their [Aether and Hemera's] brothers and sisters, whom the ancient genealogists name Amor (Love), Dolus (Guile), Metus (Fear), Labor (Toil), Invidentia (Envy), Fatum (Fate), Senectus (Old Age), Mors (Death), Tenebrae (Darkness), Miseria (Misery), Querella (Complaint), Gratia (Favour), Fraus (Fraud), Pertinacia (Obstinacy), the Parcae (Fates) [i.e. the Moirai], the Hesperides, the Somnia (Dreams): all of these are fabled to be the children of Erebus (Darkness) and Nox (Night)."
+    </p>
+    <h4>
+     III. DAUGHTERS OF ANANKE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 617c (trans. Shorey) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates), daughters of Ananke (Compulsion), clad in white vestments with filleted heads, Lakhesis (Lachesis), and Klotho (Clotho), and Atropos, who sang in unison with the music of the Seirenes (Sirens), Lakhesis singing the things that were, Klotho the things that are, and Atropos the things that are to be."
+    </p>
+    <h4>
+     IV. DAUGHTERS OF CHAOS (KHAOS)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 755 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "The Moirai (Fates), daughters of holy Khaeos (Chaos)."
+    </p>
+    <h4>
+     V. DAUGHTERS OF PONTUS (PONTOS)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 143 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The lame daughters [the Moirai (Moirae)] of the ancient Sea (Halos) with triple thread."
+     <br/>
+     [N.B. The Moirai are perhaps here identified with the Graiai or Grey Ones.]
+    </p>
+    <hr/>
+    <h3 id="Zeus">
+     <a>
+     </a>
+     MOIRAE &amp; THE RULERSHIP OF ZEUS
+    </h3>
+    <p>
+     Zeus was either described as the leader of the fates (Moiragetes) or as a god subject to their rule.
+    </p>
+    <h3>
+     I. ZEUS MOIRAGETES LEADER OF THE FATES
+    </h3>
+    <p>
+     Zeus was titled Moiregetes (Leader of the Fates), and the three goddesses sat in attendance of his throne.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 901 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates) to whom wise Zeus gave the greatest honour, Klotho (Clotho), and Lakhesis (Lachesis), and Atropos who give mortal men evil and good to have."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 1018 (from Stobaeus, Anthology) (trans. Campbell) :
+     </span>
+     <br/>
+     "Moirai (Moirae, Fates), who sit nearest of the gods to the throne of Zeus and weave on adamantine shuttles countless and inescapable devices of counsels of all kinds. Aisa (Desiny), Klotho (Clotho) and Lakhesis (Lachesis), fair-armed daughters of Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 40. 4 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[In the temple of Zeus at Megara :] Above the head of Zeus  are the Horai (Horae, Seasons) and Moirai (Moirae, Fates), and all may see that he is the only god obeyed by Moira (Destiny)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 15. 5 :
+     </span>
+     <br/>
+     "There is an altar [at Olympia] with an inscription ‘to Moiragetes’ ‘to the Bringer of the Fates.’ This is plainly a surname of Zeus, who knows the affairs of men, all that the Moirai (Moirae) give them, and all that is destined for them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 37. 1 :
+     </span>
+     <br/>
+     "[In the shrine of Despoine (Despoena) at Akakesion (Acacesium) in Arkadia :] On the first relief are wrought Moirai (Moirae) and Zeus surnamed Moiragetes (Guide of Fate)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 24. 4 :
+     </span>
+     <br/>
+     "[In the temple of Apollon at Delphoi (Delphi) :] There are also images  of two Moirai (Moirae); but in place of the third Moira there stand by their side Zeus, Moiragetes (Guide of Fate), and Apollon, Moiragetes (Guide of Fate)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 59 to the Fates (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Moira (Fate) is Zeus' perfect eternal eye, for Zeus and Moira our every deed descry."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 7 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The Father [Zeus] spoke, the Moirai (Moirae, Fates) applauded; at his words the lightfoot Horai (Horae, Seasons) sneezed, as a presage of things to come."
+    </p>
+    <h3>
+     II. ZEUS BOUND BY FATE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 515 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Chorus : Who then is the helmsman of Ananke (Necessity)?
+     <br/>
+     Prometheus : The three-shaped (
+     <em>
+      trimorphoi
+     </em>
+     ) Moirai (Fates) and mindful (
+     <em>
+      mnêmones
+     </em>
+     ) Erinyes (Furies).
+     <br/>
+     Chorus : Can it be that Zeus has less power than they do?
+     <br/>
+     Prometheus : Yes, in that even he cannot escape what is foretold."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 13. 545 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "To the Moirai (Moirae, Fates) the might of Zeus must bow; and by the Immortals' purpose all these things had come to pass, or by the Moirai's ordinance."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 14. 96 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Powerless for her help [were the allies of Troy amongst the gods] to override fate (
+     <em>
+      aisa
+     </em>
+     ); for not Kronos' (Cronus') Son [Zeus] can stay the hand of Aisa (Aesa, Destiny), whose might transcendeth all the immortals, and Zeus sanctioneth all her deeds."
+     <br/>
+     [N.B. Aisa is either the single goddess of fate or the first of the three sisters.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 8. 7 (trans. Conybeare) (Greek biography C1st to 2nd A.D.) :
+     </span>
+     <br/>
+     "[Zeus] presented Minos the brother of Sarpedon with a golden sceptre, and appointed him judge in the court of Aidoneus [Haides], yet he could not exempt him from the decree of the Moirai (Moirae, Fates)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 15. 781 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The gods were moved; but none can break the ancient Sisters' [the Moirai's] iron decrees."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 351 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Zeus swore he would grant Semele a wish, but she  requested he appear before her in his full glory which would bring her destruction :] Father Zeus heard, and blamed the jealous Moirai (Moirae, Fates), and pitied Semele so soon to die . . . [Zeus tried to dissuade her] but he had no thought of fighting against the threads of Fate."
+    </p>
+    <h3>
+     III. THE MARRIAGES OF ZEUS
+    </h3>
+    <p>
+     The Moirai were described as accomplishing the primal marriages of Zeus to Hera and Themis. Both of these were significant in cosmical terms, Hera was the queen of the sky, and Themis, the mother of the  Seasons.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Fragment 30 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "First did the Moirai (Moirae, Fates) in their golden chariot bring heavenly Themis, wise in counsel, by a gleaming pathway from the springs of Okeanos (Oceanus) to the sacred stair of Olympos, there to be the primal bride of Zeus Soter (the Saviour)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Birds 1720 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "Twas in the midst of such [wedding] festivities that the Moirai (Moirae, Fates) formerly united Hera Olympia to the King [Zeus] who governs the gods from the summit of his inaccessible throne."
+    </p>
+    <h4>
+     IV. DEFENCE OF THE THRONE OF ZEUS
+    </h4>
+    <p class="see-also">
+     See
+     <a href="#War">
+      Moirae &amp; the Wars &amp; Prophecies of Heaven
+     </a>
+     (below)
+    </p>
+    <h4>
+     V. THE LAWS OF HEAVEN
+    </h4>
+    <p>
+     Alongside Themis the Moirai presided over the sacred laws of heaven, with Styx over oaths, and together with the Erinyes over filial loyalty and proscription against murder.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 19 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[When thieves attempted to steal honey from the sacred cave of Zeus' birth :] Zeus thundered and brandished his thunderbolt, but the Moirai (Moirae, Fates) and Themis stopped him. It was impious for anyone to die there. So Zeus turned them all into birds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 42. 526 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Both [the gods] took a binding oath, by Kronides (Cronides) [Zeus] and Gaia (Gaea, Earth), by Aither (Aether, Sky) and the floods of Styx; and the Moirai (Moirae, Fates) formally witnessed the bargain."
+    </p>
+    <p class="see-also">
+     See also
+     <a href="#Murder">
+      Moirae &amp; the Crime of Murder
+     </a>
+     (below)
+    </p>
+    <hr/>
+    <h3 id="War">
+     <a>
+     </a>
+     MOIRAE &amp; THE WARS AND PROPHECIES OF THE GODS
+    </h3>
+    <p>
+     The Moirai (Fates) were defenders of Zeus' divine right to rule.
+    </p>
+    <h4>
+     I. THE WAR OF THE TITANES
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 793 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Saturnus [Kronos (Cronus)] was thrust from his realm by Jove [Zeus]. In anger he stirs the mighty Titanes (Titans) to arms and seeks the assistance owed by fate. There was a shocking monster born of Mother Terra (Earth) [Gaia], a bull, whose back half was a serpent. Roaring Styx [as an ally of Zeus] imprisoned it, warned by the three Parcae (Fates) [Moirae], in a black grove with a triple wall. Whoever fed the bull's guts to consuming flames was destined to defeat the eternal gods."
+    </p>
+    <h4>
+     II. THE WAR OF THE GIANTS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 38 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[In the war between the gods and Gigantes (Giants) :] The Moirai (Moirae) fought  with bronze maces and killed Agrios (Agrius) and Thoon."
+    </p>
+    <h4>
+     III. THE MONSTER TYPHOEUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 43  :
+     </span>
+     <br/>
+     "[Zeus] chased Typhon to the mountain called Nysa. There the Moirai (Moirae, Fates) deceived the pursued creature, for he ate some of the ephemeral fruit on Nysa after they had persuaded him that he would gain strength from it."
+    </p>
+    <h4>
+     IV. THE PROPHECY OF THE CHILD OF THETIS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 515 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Chorus : Who then is the helmsman of Ananke (Necessity)?
+     <br/>
+     Prometheus : The three-shaped Moirai (Moirae, Fates) and mindful Erinyes (Furies).
+     <br/>
+     Chorus : Can it be that Zeus has less power than they do?
+     <br/>
+     Prometheus : Yes, in that even he cannot escape what is foretold.
+     <br/>
+     Chorus : Why, what is fated for Zeus except to hold eternal sway?
+     <br/>
+     Prometheus : This you must not learn yet; do not be over-eager."
+     <br/>
+     [N.B. Prometheus had learnt that Thetis was destined to bear a son greater than his father. This child would overthrow Zeus if he were to be conceived by the god.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 12 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "At that time the Moirae (Moirae, Fates) were said to have prophesied what the natural order of events should be. They said that the son of Thetis' husband, whoever he might be, would be more famous than his father."
+    </p>
+    <h4>
+     V. THE DESTRUCTION OF PHAETHON
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 252 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "He [Zeus] recalled the Fata (Fate) [Moira] foretold a time when sea and land and heaven's high palaces in sweeping flames should burn [scorched by Phaethon's failed attempt to drive the chariot of the sun], and down should fall the beleaguered bastions of the universe."
+    </p>
+    <hr/>
+    <h3 id="Persephone">
+     <a>
+     </a>
+     MOIRAE, PERSEPHONE &amp; THE HORAE (SEASONS)
+    </h3>
+    <h4>
+     I. BIRTH OF THE HORAE (SEASONS)
+    </h4>
+    <p>
+     The Moirai united Zeus and Themis in marriage and from their union was born the three goddesses of the seasons.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Fragment 30 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "First did the Moirai (Moirae, Fates) in their golden chariot bring heavenly Themis, wise in counsel, by a gleaming pathway from the springs of Okeanos (Oceanus) to the sacred stair of Olympos, there to be the primal bride of Zeus Soter (the Saviour)."
+    </p>
+    <h4>
+     II. PERSEPHONE &amp; THE SEASONS
+    </h4>
+    <p>
+     The Moirai presided over the cyclical descent of Persephone into the underworld, and her springtime return. Her passing heralded the revolution of the seasons and symbolised the birth and death of all life on earth.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 42. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Zeus learnt the whereabouts of Demeter when she had left to mourn Persephone leaving mankind to starve :]
+     <br/>
+     Zeus learnt this  from Pan, and sent the Moirai (Moirae, Fates) to Demeter, who listened to the Moirai and laid aside her wrath, moderating her grief as well."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 43 to the Horae (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "[The Horai (Horae), Seasons] attending Persephone, when back from night the Moirai (Moirae, Fates) and Kharites (Charites, Graces) lead her up to light; when in a band harmonious they advance, and joyful found her form the solemn dance."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 520 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Zeus addresses Demeter :] ‘Proserpina [Persephone] shall reach the sky again on one condition, that in Hell her lips have touched no food; such is the rule forestablished by the three Parcae (Fates) [Moirai].’"
+    </p>
+    <p>
+    </p>
+    <hr/>
+    <h3 id="Gods">
+     <a>
+     </a>
+     MOIRAE &amp; THE PRIVILEGES OF GODS
+    </h3>
+    <p>
+     The Moirai were present at the birth of gods to declare their divine privileges and function. They also made declarations on the assignment of countries and nations to the gods.
+    </p>
+    <h4>
+     I. BIRTH OF APOLLO
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 6. 40 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "And she [the goddess Leto] let fall her crimson girdle and bore a son . . . and to serve at her side [in the birth] Apollon . . . sent Eleithyia the kindly goddess, and the Moirai (Moirae, Fates) divine."
+    </p>
+    <h4>
+     II. BIRTH OF ARTEMIS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 22 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "I [Artemis] will visit when women vexed by the sharp pangs of childbirth call me to their aid--even in the hour when I was born the Moirai (Moirae, Fates) ordained that I should be their helper, forasmuch as my mother suffered no pain either when she gave me birth or when she carried me in her womb, but without travail put me from her body."
+    </p>
+    <h4>
+     III. BIRTH OF ATHENA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Telestes, Fragment 805 (from Athenaeus, Scholars at Dinner) (trans. Campbell, Vol. Greek Lyric V) (B.C.) :
+     </span>
+     <br/>
+     "Divine Athena . . . to whom [the Moira] Klotho (Clotho) had assigned a marriageless and childless virginity."
+    </p>
+    <h4>
+     IV. BIRTH OF THE ERINYES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 334 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "For this is the office that relentless (
+     <em>
+      diantaia
+     </em>
+     ) Moira (Fate) spun for us [the Erinyes] to hold securely: when rash murders of kin come upon mortals, we pursue them until they go under the earth; and after death, they have no great freedom . . . This office was ordained for us at birth; but the immortal gods must hold back their hands from us."
+    </p>
+    <h4>
+     V. FOUNDATION OF OLYMPIC GAMES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 10. 51 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "[Herakles founded the Olympic Games :] Now in that birthday hour the Moirai (Moirae, Fates) stood by, this new-established rite to consecrate, and Khronos (Chronos, Time), whose proof at last stands the sole judge of truth that shall abide."
+    </p>
+    <h4>
+     VI. ASSIGNMENT OF RHODES TO HELIUS
+    </h4>
+    <p>
+     Helios the Sun was the patron-god of Rhodes. The island was awarded to him by Zeus and the Moirai.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 7. 64 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "And straightaway then the god [Zeus] commanded Lakhesis (Lachesis) of the golden fillet to raise aloft her hands and swear, no on her lips alone, the great oath of the gods, promising with [Zeus] the son of Kronos (Cronus) this land once risen [the island Rhodes born from the sea] to the light of heaven should be thenceforth as for a crown of honour his own awarded title [i.e. given to the god Helios]. The great words spoken, fell in truth's rich furrow."
+    </p>
+    <h4>
+     VII. ASSIGNMENT OF COS TO POSEIDON
+    </h4>
+    <p>
+     Poseidon was the patron god of Kos. The island was awarded to him by the Moirai.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 4 to Delos 16 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[Apollon speaks :] ‘Bright isle [Kos (Cos)] it is and rich in pasture as any other. But there is due to her from the Moirai (Moirae, Fates) another god [i.e. to Poseidon, as his seat of worship].'"
+    </p>
+    <h4>
+     VIII. ESTABLISHMENT OF THE ERINYES IN ATHENS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 1044 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[A shrine was established for the Eumenides in Athens :] Peace endures for all time between Pallas' citizens [the Athenians] and these new dwellers here [i.e. the Eumenides]. Zeus who sees all and Moira (Fate) have come down to lend aid [i.e. at the foundation of the cult]--cry aloud now in echo to our song!"
+    </p>
+    <hr/>
+    <h3 id="Birth">
+     <a>
+     </a>
+     MOIRAE GODDESSES OF FATE - FATE SPUN AT BIRTH
+    </h3>
+    <p>
+     The Moirai were present at  births to assign men their destinies.
+     <span class="quote-greek">
+     </span>
+    </p>
+    <p class="see-also">
+     For MYTHS of the Moirai as goddesses present at birth see:--
+     <br/>
+     (1)
+     <a href="#Meleagros">
+      Moirae &amp; the Birth of Meleager
+     </a>
+     (below)
+     <br/>
+     (2)
+     <a href="#Herakles">
+      Moirae &amp; the Birth of Herakles
+     </a>
+     (below)
+     <br/>
+     (3)
+     <a href="#Gods">
+      Moirae &amp; the Birth of Gods
+     </a>
+     (above)
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 19. 108 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Hera challenges Zeus over the birth of Herakles :] ‘Come, then, lord of Olympos, and swear before me a strong oath that he shall be lord over all those dwelling about him who this day shall fall between the feet of a woman, the man who is born of the blood of your generation.’
+     <br/>
+     So Hera spoke. And Zeus was entirely unaware of her falsehood, but swore a great oath."
+     <br/>
+     [N.B. Here Zeus, rather than the Moirai, declares the fate of the newborn.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20. 127 ff :
+     </span>
+     <br/>
+     "[Hera speaks :] ‘For all of us have come down from Olympos to take our part in this battle, so nothing may be cone to him [Akhilleus (Achilles)] by the Trojans on this day. Afterwards he shall suffer such things as destiny (
+     <em>
+      aisa
+     </em>
+     ) wove with the strand of his birth that day he was born to his mother.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24. 209 ff :
+     </span>
+     <br/>
+     "[Queen Hekabe (Hecuba) speaks :] ‘Let us sit apart in our palace now, and weep for Hektor (Hector), and the way at the first strong Moira (Destiny) spun with his life line when he was born, when I gave birth to him, that the dogs with their shifting feet should feed on him, far from his parents, gone down before a stronger man.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 7. 193 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "He must look to meet whatever events his own fate (
+     <em>
+      aisa
+     </em>
+     ) and the stern Klothes (Clothés, Spinners) twisted into his thread of destiny when he entered the world and his mother bore him."
+     <br/>
+     [N.B. The Moirai are here named Klothes or Spinners.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 218 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Klotho (Clotho), Lakhesis (Lachesis), and Atropos, who at their birth bestow upon mortals their portion of good and evil."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 904 ff :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates), to whom Zeus of the counsels gave the highest position: they are Klotho (Clotho), Lakhesis (Lachesis), and Atropos : they distribute to mortal people what people have, for good and for evil."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 6. 40 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "And she [the goddess Leto] let fall her crimson girdle and bore a son . . . and to serve at her side [in the birth] Apollon . . . sent Eleithyia (Goddess of Childbirth) the kindly goddess, and the Moirai (Moirae, Fates) divine."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Nemean Ode 7. 1 ff :
+     </span>
+     <br/>
+     "Eileithyia (Goddess of Childbirth), maid to the throne of the deep-thinking Moirai (Moirae, Fates)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 24 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "Since the man for whom the righteous Moirai (Moirae, Fates) with the golden distaffs, taking their place by his side [i.e. at his birth], predicts evils has not escape, not even if he has fortified his house with bornze walls and stays there trying to shut them out, a mere mortal: both prosperity and fame."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 22 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "I [Artemis] will visit when women vexed by the sharp pangs of childbirth call me to their aid--even in the hour when I was born the Moirai (Moirae, Fates) ordained that I should be their helper, forasmuch as my mother suffered no pain either when she gave me birth or when she carried me in her womb, but without travail put me from her body."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 5 Bath of Pallas 103 ff :
+     </span>
+     <br/>
+     "[Athena speaks to Khariklo (Chariclo) about the blinding of her son :] ‘Noble lady, the thing that is done can no more be taken back; since thus the thread of the Moirai (Moirae, Fates) span when thou didst bear him at the first.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 21. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The Lykian (Lycian) Olen, an earlier poet, who composed for the Delians, among other hymns, one to Eileithyia (Goddess of Childbirth), where he calls her the good spinner, obviously identifying her with Moira (Fate), and says she is older than Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 755 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[On the immortal horses of Akhilleus (Achilles) :] The Moirai (Moirae, Fates), daughters of holy Khaeos (Chaos), at their birth had spun the life-threads of those deathless foals, even to serve Poseidon first, and next Peleus the dauntless king, Akhilleus then the invincible, and, after these, the fourth, the mighty-hearted Neoptolemos, whom after death to the Elysian Plain they were to bear, unto the Blessed Land, by Zeus' decree."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 11. 140 ff :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates) hath spun long destiny-threads for thee and thee."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 8 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of a painting depicting the union of Meles and Kritheis, mythical parents of the poet Homer :]
+     <br/>
+     Now, by decree of the Moirai (Moirae, Fates), the Mousai (Muses) are spinning the birth of Homer."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 55 to Aphrodite (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "The triple Moirai (Moirae, Fates) [as birth goddesses] are ruled by thy [Aphrodite's] decree [as the goddess of procreation], and all productions yield alike to thee."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 241 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The Fata (Fate) [Moira] has sworn to me [Jove, Zeus], and the dark spindles of the Sororum (Sisters): this day abides from the beginning of the world ordained for war, these people are destined to battle from their birth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 1. 4. 123 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "Twin now, ye Sisters [Moirae, Fates], joyfully twin your threads of shining white! Let none reckon the measures of life already spent : this day is the birthday of life to be."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 2. 1. 120 ff :
+     </span>
+     <br/>
+     "Truly did Lachesis touch his cradle with ill-omened hand [i.e. he died young]."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Geinamenais (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates) decreed tears for Hekabe (Hecuba) and for the women of Ilion [Troy] at the very time they gave birth."
+    </p>
+    <hr/>
+    <h3 id="Meleagros">
+     <a>
+     </a>
+     MOIRAE &amp; THE BIRTH OF MELEAGER (MELEAGROS)
+    </h3>
+    <p>
+     The three Moirai appeared to Althaia at the birth of her son Meleagros and declared that he would die when a brand burning in the fireplace had been consumed.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 5 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "[The ghost of Meleagros (Meleager) tells his story :] ‘And she [my mother] set fire to the swift-dooming log, taking it from the elaborate chest, and Fate then decreed that that be the limit of my life. I happened to be slaying Klymenos (Clymenus) . . and my sweet life was diminished within me, and I realised I had little strength left, alas! And as I breathed my last I wept in misery at leaving behind my glorious youth.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 65 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Althaia (Althaea) also bore a son named Meleagros (Meleager) . . . They say that, when he was but seven days old, the Moirai (Moirae, Fates) appeared and declared that Meleagros would die when the fire-brand that was then ablaze on the hearth should be totally burnt up. When she heard that, Althaia grabbed the brand and put it away in a chest."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 34. 6 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "At the time of the birth of Meleagros (Meleager) the Moirai (Moirae, Fates) stood over Althaia (Althaea) in her sleep and said to her that her son Meleagros would die at the moment when the brand in the fire had been consumed. Consequently, when she had given birth, she believed that the safety of her child depended upon the preservation of the brand and so she guarded the brand with every care. Afterward, however, being deeply incensed at the murder of her brothers, she burned the brand and so made herself the cause of the death of Meleagros."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 31. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The piece of fire-wood that the Moirai (Moirae, Fates) gave Althaia (Althaea), which had to be consumed in flames before Meleagros (Meleager) could ever die."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 2 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Meleagros (Meleager)] rose up against the army of the Kouretes (Curetes) and himself died because his mother had burnt the brand which had been given to her by the Moirai (Moirae, Fates). For they had assigned him a stretch of life to last only as long as the brand."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 171 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Meleager was born from them [Althaea and the god Ares], suddenly in the place the Parcae (Fates) [Moirai] Coltho, Lachesis, and Atropos appeared. They thus sang his fate: Clotho said that he would be noble, Lachesis that he would be brave, but Atropos looking at a brand burning on the hearth and said, ‘He will live only as long as this brand remains unconsumed.’ When Althaea, the mother, heard this, she leaped from the bed, put out the fatal brand, and buried it in the midst of the palace, so that it shouldn't be destroyed by fire."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 174 :
+     </span>
+     <br/>
+     "Althaea, daughter of Thestius, bore Meleager to Oeneus. There in the palace a glowing brad is said to have appeared. The Parcae (Fates) [Moirai] came there, and foretold the fate of Meleager, that he would live as long as the brand was unharmed. Althaea, putting it in a chest, carefully preserved it.
+     <br/>
+     When Althaea, the mother, heard that her son had dared to commit such a crime [i.e. he killed her brother's in a row], remembering the warning of the Parcae, she brought out the brand from the chest and threw it in the fire. Thus, in desiring to avenge the death of her brothers, she killed her son."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 8. 449 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "There was a log which, when Thestias [Althaia, daughter of Thestius] lay in childbirth with her son, the Sisters Three (
+     <em>
+      Sorores Triplices
+     </em>
+     ) [the Moirai] placed in her blazing hearth and as they spun, with thumbs firm-pressed, the thread of fate, they said ‘To you, babe newly born, and to this log we give the same life-span.’
+     <br/>
+     This prophecy pronounced the Sisters (
+     <em>
+      Sorores
+     </em>
+     ) vanished, and at once the mother snatched the burning brand away and quenched the flame. The brand, for years concealed in deepest secrecy, had been kept safe and kept the lad's life safe. And now at last she brought it out [angry at her son for the murder of her brothers] and called for kindling wood and fired the kindling with a flame of hate . . . With trembling hand and eyes averted, full into the flames she threw the fatal brand. The log itself groaned, or it seemed to groan, as there it lay licked by the unwilling flames and burned away. Unknowing, absent, Meleager burned, burned with those flames and felt a hidden fire scorching his vitals and courageously suppressed his agony . . . The fire, the pains increase, then sink again; both die away together; gradually in the light air his spirit slips away as over the embers spreads a veil of grey."
+    </p>
+    <hr/>
+    <h3 id="Herakles">
+     <a>
+     </a>
+     MOIRAE &amp; THE BIRTH OF HERACLES
+    </h3>
+    <p>
+     At the command of Hera, Eileithyia and the Moirai obstructed the birth of Herakles. However, Alkmene's midwife Galinthias distracted them and the child was born.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 29 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "At Thebes Proitos (Proetus) had a daughter Galinthias. This maiden was playmate and companion of Alkmene (Alcmena), daughter of Elektryon (Electryon). As the birth throes for Herakles (heracles) were pressing on Alkmene, the Moirai (Moirae, Fates) and Eileithyia (Birth-Goddess), as a favour to Hera, kept Alkmene in continuous birth pangs.
+     <br/>
+     They remained seated, each keeping their arms crossed. Galinthias, fearing that the pains of her labour would drive Alkmene mad, ran to the Moirai (Fates) and Eleithyia and announced that by desire of Zeus a boy had been born to Alkmene and that their prerogatives had been abolished.
+     <br/>
+     At all this, consternation of course overcame the Moirai and they immediately let go their arms. Alkmene's pangs ceased at once and Herakles was born. The Moirai were aggrieved at this and took away the womanly parts of Galinthias since, being but a mortal, she had deceived the gods. They turned her into a deceitful weasel, making her live in crannies and gave her a grotesque way of mating. She is mounted through the ears and gives birth by bringing forth her young through the throat.
+     <br/>
+     Hekate (Hecate) felt sorry for this transformation of her appearance and appointed her a sacred servant of herself."
+    </p>
+    <hr/>
+    <h3 id="Spinners">
+     <a>
+     </a>
+     MOIRAE GODDESSES OF FATE - THE SPINNING OF FATE
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K16.3.html">
+      <img alt="Weavers | Athenian black-figure lekythos C6th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/K16.3Moirai_sm.jpg"/>
+     </a>
+     <figcaption>
+      Weavers, Athenian black-figure lekythos C6th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Homer, in the
+     <em>
+      Odyssey
+     </em>
+     , is the first to call the Fates Spinners (
+     <em>
+      Klôthes
+     </em>
+     ). Some later writers use a similar term,
+     <em>
+      Kataklôthes
+     </em>
+     .
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20. 127 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "He shall suffer such things as destiny (
+     <em>
+      aisa
+     </em>
+     ) wove with the strand of his birth that day he was born to his mother."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24. 209 ff :
+     </span>
+     <br/>
+     "The way at the first strong Moira (Destiny) spun with his life line when he was born, when I gave birth to him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24. 525 ff :
+     </span>
+     <br/>
+     "Such is the way the gods spun for unfortunate mortals, that we live in unhappiness, but the gods themselves have no sorrow."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 7. 193 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "He must look to meet whatever events his own fate (
+     <em>
+      aisa
+     </em>
+     ) and the stern Klothes (Clothés, Spinners) twisted into his thread of destiny when he entered the world and his mother bore him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 24 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "The righteous Moirai (Moirae, Fates) with the golden distaffs."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 334 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "For this is the office that relentless Moira (Fate) spun for us [the Erinyes]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 617c (trans. Shorey) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates), daughters of Ananke, clad in white vestments with filleted heads, Lakhesis (Lachesis), and Klotho (Clotho), and Atropos, who sang in unison with the music of the Seirenes (Sirens), Lakhesis singing the things that were, Klotho the things that are, and Atropos the things that are to be. And Klotho with the touch of her right hand helped to turn the outer circumference of the spindle, pausing from time to time. Atropos with her left hand in like manner helped to turn the inner circles, and Lakhesis alternately with either hand lent a hand to each."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 143 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The lame daughters [the Moirai] of the ancient Sea (Halos) with triple thread."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 584 ff :
+     </span>
+     <br/>
+     "These things  the Ancient Maidens [the Moirai, Fates] whirl on with rushing thread of brazen spindles."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Oedipus 980 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "By fate are we driven; yield ye to fate. No anxious cares can change the threads of its inevitable spindle. Whate'er we mortals bear, whate'er we do, comes from on high; and Lachesis maintains the decrees of her distaff which by no hand may be reversed. All things move on in an appointed path, and our first day fixed our last. Those things God may not change which speed on their way, close woven with their causes. To each his established life goes on, unmovable by any prayer. To many their very fear is bane; for many have come upon their doom while shunning doom."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 632 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Mors (Death) [Thanatos] with his sword cuts through the Sister's [the Moirai's, Fates'] threads."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 642 ff :
+     </span>
+     <br/>
+     "Lachesis with crumbling thread laying the ages waste."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 10 ff :
+     </span>
+     <br/>
+     "[Amphiaraus fell into a gaping chasm and appeared alive in the realm of Haides :] His presence surprised the very distaff of the Fatae (Fates) [Moirai], and not till in terror beheld the augur did the Parcae (Fates) [Moirai] break the thread."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 1. 171 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "Hold fast the threads of the Parcae (Fates) [Moirai] and stretch out the wool upon their distaffs--subdue remorseless Mortes (Death) [Thanatos]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 3. 125 ff :
+     </span>
+     <br/>
+     "Atropos roughly tore the thread of flourishing life."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 1. 366 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "He [Zeus] devised with him an ingenious plan, and entwined the deadly threads of Moira's (Fate's) spindle for Typhon (Typhoeus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 675 ff :
+     </span>
+     <br/>
+     "May you escape all the bitter things which the wreathed spindle of apportioned Moira has spun for your fate--if the threads of the Moirai (Moirae, Fates) ever obey!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 329 ff :
+     </span>
+     <br/>
+     "All that are born of mortal womb are slaves by necessity to Moira (Fate) the Spinner."
+    </p>
+    <hr/>
+    <h3 id="Lot">
+     <a>
+     </a>
+     MOIRAE GODDESS OF FATE -  DISTRIBUTION OF FORTUNE
+    </h3>
+    <p>
+     The Moirai were the distributers of good and bad fortune to men and to nations.
+    </p>
+    <p class="see-also">
+     See also
+     <a href="#Spinning">
+      Moirae &amp; the Spinning of Fate
+     </a>
+     (above)
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 3. 208 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "For me the gods have allotted no such happiness; I have no choice but to bear what comes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, The Great Eoiae Fragment 2 (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "The Moirai (Moirae, Fates) made you [Herakles] the most toilful and the most excellent."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Solon, Fragment 13  (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Moira (Fate) brings good and ill to mortals and the gifts of the immortal gods are inescapable."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 2. 21 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Fate brings from the hand of heaven happiness rich and wide."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 2. 35 ff :
+     </span>
+     <br/>
+     "For as Moira (Fate), who accords our mortal race their heritage of happy fortune, to their heaven-sent prosperity brings at another hour an opposite load of ill."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Nemean Ode 7. 5 ff :
+     </span>
+     <br/>
+     "Yet is the life we breathe not given to all for a like end. Destiny's bar yokes one man to this venture, one to that."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Isthmian Ode 6. 17 ff :
+     </span>
+     <br/>
+     "I to high-throned Klotho (Clotho, Spinner) and her sister Moirai (Moirae, Fates) add this my plea, that they may look with favour on this dear wish of my good friend."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment 222a (trans. Campbell, Vol. Greek Lyric III) (C7th to 6th B.C.) :
+     </span>
+     <br/>
+     "[Eteokles (Eteocles) and Polyneikes (Polynices) drew lots for rulership of the kingdom of Thebes :] But if it is destined that I see my sons slain each by the other and the Moirai (Moirae, Fates) have spun it . . . 
+  One of you have the palace . . . and the other have the flocks and all the gold of his dear father and depart--he who in the shaking of lots is the first to obtain his portion, thanks to the Moirai (Fates)."
+     <br/>
+     [N.B. The lot, which usually took the form of a pottery shard or pebble drawn from a helmet or urn, was the device of the Moirai (Fates). Lotteries were believed to reflect the will of the gods of fate, rather than mere random chance.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment 222b :
+     </span>
+     <br/>
+     "For a city is greatly exalted when god grants blessings, not is there any excellence and honour of mortals contrary to the deity's dispensation and Lakhesis (Lachesis)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ibycus, Fragment 282a (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "The gods give much prosperity to those whom they wish to have it, but for the others they destroy it by the plans of the Moirai (Moirae, Fates)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 16 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "At that moment the irresistable god (
+     <em>
+      daimon amakhos
+     </em>
+     ) [ i.e. Fate] wove for Deianeira a tear-filled plan. Whatever all-powerful Moira (Fate) has ordained for us from the gods and the scales of justice confirm, we shall fulfil it as our destined portion when it comes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 24 :
+     </span>
+     <br/>
+     "But mortals are not free to choose prosperity nor stubborn war nor all-destroying civil strife: Aisa (Aesa, Destiny), giver of all things, moves a cloud now over this land, now over that."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 1018 (from Stobaeus, Anthology) (trans. Campbell) :
+     </span>
+     <br/>
+     "Aisa, Klotho (Clotho) and Lakhesis (Lachesis), fair-armed daughters of Nyx (Night), hear our prayers, you all-terrible deities of heaven and the lower world: send us rose-bloomed Eunomia (Good Order) and her bright-throned sisters Dike (Justice) and garland-wearing Eirana (Eirene, Peace), and make this city forget its heavy-hearted misfortunes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Agamemnon 126 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The seer Kalkhas (Calchas) prophecises before the departure of the Greeks for Troy :] ‘In time those who here issue forth shall seize Priamos' (Priam's) town, and Moira (Fate) shall violently ravage before its towered walls all the public store of cattle.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Agamemnon 1534 ff :
+     </span>
+     <br/>
+     "On other whetstones Destiny (
+     <em>
+      moira
+     </em>
+     ) is sharpening justice for another evil deed [i.e. in reference to the cycle of family murders in the saga of the Atreides]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 971 ff :
+      <br/>
+     </span>
+     "[The Eumenides bless the Athenians with good fortune :] ‘I forbid deadly and untimely fate for men; grant to lovely maidens life with a husband, you that have the rightful power; you, divine Moirai (Moirae, Fates), our sisters by one mother, divinities who distribute justly, who have a share in every home, and whose righteous visitations press heavily at every season, most honored everywhere among the gods!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Libation Bearers 306 ff :
+     </span>
+     <br/>
+     "You mighty Moirai (Moirae, Fates), through the power of Zeus grant fulfilment in the way to which Dike (Justice) now turns [i.e. avenging the murder of Agamemnon with murder]. ‘For a word of hate let a word of hate be said,’ Dike (Justice) cries out as she exacts the debt, ‘and for a murderous stroke let a murderous stroke be paid.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 511 ff :
+     </span>
+     <br/>
+     "Not in this way is Moira (Fate), who brings all to fulfillment, destined to complete this course . . . Skill is weaker by far than Ananke (Necessity). Who then is the helmsman of Ananke (Necessity)? The three-shaped (
+     <em>
+      trimorphoi
+     </em>
+     ) Moirai (Moirae, Fates) and mindful Erinyes (Furies)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 694 ff :
+     </span>
+     <br/>
+     "Alas, O Fate (
+     <em>
+      moira
+     </em>
+     ), O Fate (
+     <em>
+      moira
+     </em>
+     ), I shudder to behold the plight that has befallen Io."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 894 ff :
+     </span>
+     <br/>
+     "Never, oh never, immortal (
+     <em>
+      potniai
+     </em>
+     ) Moirai (Moirae, Fates), may you see me [the Okeanides (Oceanids), terrified by the fate of Io] the partner of the bed of Zeus, and may I be wedded to no bridegroom who descends to me from heaven."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Seven Against Thebes 977 &amp; 991 :
+     </span>
+     <br/>
+     "O Moira (Fate), giver of grievous troubles, and . . . black Erinys, you are indeed a mighty force."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 389 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "No, it was Destiny and the cruel orders of a brutal king that sent me [Jason] here [to Kholkis (Colchis) to fetch the Fleece]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 143 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The lame daughters [the Moirai, Fates] of the ancient Sea (Halos) with triple thread have decreed that her [Helene] bedfellows shall share their marriage-feast among five bridegrooms."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 584 ff :
+     </span>
+     <br/>
+     "These things [the events of the Trojan War] the Ancient Maidens [Moirai, Fates] whirl on with rushing thread of brazen spindles."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 7. 66 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "On high good things and bad lie on the knees of spirits unnumbered, indistinguishably blent. These no Immortal seeth; they are veiled in mystic cloud-folds. Only Moira (Fate) puts forth her hands thereto, nor looks at what she takes, but casts them from Olympos down to earth. This way and that they are wafted, as it were by gusts of wind. The good man oft is whelmed in suffering : wealth undeserved is heaped on the vile person. Blind is each man's life; therefore he never walketh surely; oft he stumbleth: ever devious is his path, now sloping down to sorrow, mounting now to bliss. All-happy is no living man from the beginning to the end, but still the good and evil clash. Our life is short; beseems not then in grief to live. Hope on, still hope for better days: chain not to woe thine heart."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 9. 415 ff :
+     </span>
+     <br/>
+     "And no man of them all was cause of thine affliction, but the Moirai (Moirae, Fates), the cruel ones, whom none that walk the earth escape, but aye they visit hapless men unseen; and day by day with pitiless hearts now they afflict men, now again exalt to honour--none knows why; for all the woes and all the joys of men do these devise after their pleasure."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 9. 500 ff :
+     </span>
+     <br/>
+     "For all the tangled paths of human life, by land and sea, are by the will of Moira (Fate) hid from our eyes, in many and devious tracks are cleft apart, in wandering mazes lost. Along them men by Aisa's (Fortune's) dooming drift like unto leaves that drive before the wind. Oft on an evil path the good man's feet stumble, the brave finds not a prosperous path; and none of earth-born men can shun the Moirai (Moirae, Fates)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 11. 272 ff :
+     </span>
+     <br/>
+     "Far other issues Aisa (Aesa, Fate) devised, nor recked of Zeus the Almighty, nor of none beside of the Immortals. Her unpitying soul cares naught what doom she spinneth with her thread inevitable, be it for men new-born or cities: all things wax and wane through her."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 12. 171 ff :
+     </span>
+     <br/>
+     "[Fate prevented the gods allied with the Trojans from destroying the Wooden Horse :] All-contriving Aisa (Aesa, Fate) held them therefrom, and turned their hearts to strife against each other."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 12. 565 ff :
+     </span>
+     <br/>
+     "One heart was steadfast, and one soul clear-eyed, Kassandra. Never her words were unfulfilled; yet was their utter truth, by Aisa's (Aesa's, Fate's) decree, ever as idle wind in the hearers' ears, that no bar to Troy's ruin might be set."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 13. 472 ff :
+     </span>
+     <br/>
+     "[The Trojans prayed to the gods as their city was plundered :] For all their prayers, no god defends them now; for strong Aisa (Aesa, Fate) oversees all works of men, and the renownless and obscure to fame she raises, and brings low the exalted ones. Oft out of good is evil brought, and good from evil, mid the travail and change of life."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 8. 7  (trans. Conybeare) (Greek biography C1st to 2nd A.D.) :
+     </span>
+     <br/>
+     "What I said concerned the topic of the Moirai (Moirae, Fates) and necessity (
+     <em>
+      ananke
+     </em>
+     ), and I only used as an example of my argument the affairs of kings, because your rank is thought to be the highest in human ranks; and I dwelled upon the influence of the Moirai (Fates), and argued that the threads which they spin are so unchangeable, that, even if they decreed to someone a kingdom that belonged to another, and even if that other slew the man of destined, to save himself from ever being deprived by him of this throne, nevertheless the dead man would come to life again in order to fulfil the decree of the Moirai . . .
+     <br/>
+     He who is destined to become a carpenter, will become one even if his hands have been cut off: and he who has been destined to carry off the prize for running the Olympic Games, will not fail to win even if he broke his leg: and a man to whom the Moirai have decreed that he shall be an eminent archer, will not miss the mark, even though he lost his eyesight . . .
+     <br/>
+     An argument such as mine is tolerated by most of the gods; and even Zeus himself is not angry when he hears from the poet in the
+     <em>
+      Story of Lykia
+     </em>
+     this language :--‘Alas for myself, when Sarpedon . . .’
+     <br/>
+     And there are other such strains referring to himself, such as those in which he accuses the Moirai (Fates) of having deprived him of his son."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 1 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "Thetis learned from her father Nereus the decree of Moirai (Moirae, Fates) about her son--that one of two things had been allotted to him, either to live ingloriously or becoming glorious to die very soon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 9  :
+     </span>
+     <br/>
+     "The girl [Hippodameia] in love with her lover [Pelops] is conspiring against her father, the future which is in store for the house of Pelops comes from the Moirai (Moirae, Fates)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid  12. 147 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "As far as fortune seemed to allow and the Fate-spinners granted that Latium's affairs should go well."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 698 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "For you [Kadmos (Cadmus)], the Moira's (Fate's) thread weighs equal with your brothers; be king of the Kadmeians, and leave your name to your people."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 25. 364 ff :
+     </span>
+     <br/>
+     "[Attis reveals to Dionysos the will of Fate on his Indian War :] ‘The war shall not end until the four Seasons complete he sixth year. So much the eye of Zeus and the threads of the unturning Moira (Fate) have granted to the will of Hera; in the seventh lichtgang which follows, you shall destroy the Indian city.’"
+    </p>
+    <hr/>
+    <h3 id="Prophecy">
+     <a>
+     </a>
+     MOIRAE GODDESSES OF FATE - PROPHECY
+    </h3>
+    <p>
+     The Moirai were sometimes regarded as the source of prophecies. This role, however, was usually assigned to Apollon.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 9 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "To few men have the Moirai (Moirae, Fates) granted the gift of conjecturing the future."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 15. 807 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Zeus addresses Aphrodite :] ‘Child, do you mean, by your sole self, to move unconquerable fate? You are allowed to enter the three Sisters' [Fates'] dwelling. There a giant fabric forged of steel and bronze will meet your eyes, the archives of the world, that fear no crush of heaven, no lightning's wrath, nor any cataclysm, standing safe to all eternity. And there you'll find engraved on everlasting adamant the fortunes of your line. I read them there myself and stored them in my memory and I'll declare them that you may not still labour in ignorance of things to come.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 552 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Whence first arose among unhappy mortals throughout the world that sickly craving for the future? . . . that search our the day of our birth [i.e. horoscopes] and the scene of life's ending, what the kindly Father of the gods [Jove-Zeus] is thinking, or iron-hearted Clotho?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 635 ff :
+     </span>
+     <br/>
+     "[The ghost of King Laios (Laeus) is summoned from Haides to prophecise the future of Thebes :] ‘I have found such favour as a prophet of these times of woe, I will speak, so far as [the Moira] Lachesis and grim [Erinys] Megaera suffer me.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 190 ff :
+     </span>
+     <br/>
+     "Sittest thou [in the underworld] beside the glad Parcae (Fates) [Moirai], thine own deities, and by harmonious interchange dost learn and teach the future?"
+     <span class="quote-greek">
+     </span>
+    </p>
+    <p class="see-also">
+     See also
+     <a href="#War">
+      Moirae &amp; the Wars and Prophecies of the Gods
+     </a>
+     (above)
+    </p>
+    <hr/>
+    <h3 id="Death">
+     <a>
+     </a>
+     MOIRAE GODDESSES OF FATE - DEATH
+    </h3>
+    <p>
+     This section is divided into two parts, the first contains quotes with direct references to the goddess Fates, the second more abstract poetical references to
+     <em>
+      moira
+     </em>
+     (fate) and
+     <em>
+      aisa
+     </em>
+     (destiny).
+    </p>
+    <h4>
+     I. DESTINY OF DEATH (THE GODDESS FATES)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Shield of Heracles 237 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "There were men fighting in warlike harness, some defending their own town and parents from destruction, and others eager to sack it; many lay dead, but the greater number still strove and fought . . . and behind them the dusky Keres (Death-Spirits), gnashing their white fangs, lowering, grim, bloody, and unapproachable, struggled for those who were falling, for they all were longing to drink dark blood. So soon as they caught a man overthrown or falling newly wounded, one of them would clasp her great claws about him, and his soul would go down to Haides to chilly Tartaros. And when they had satisfied their souls with human blood, they would cast that one behind them, and rush back again into the tumult and the fray. [The Moirai, Fates] Klotho (Clotho) and Lakhesis (Lachesis) were over them and Atropos less tall than they, a goddess of no great frame, yet superior to the others and the eldest of them. And they [the Keres] all made a fierce fight over one poor wretch, glaring evilly at one another with furious eyes and fighting equally with claws and hands."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 1 (trans. Campbell, Vol. Greek Lyric II) (C7th B.C.) :
+     </span>
+     <br/>
+     "Aisa (Aesa, Destiny) and Poros (Contrivance), those ancient ones, conquered them all [i.e. they were killed in battle]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment 222a (trans. Campbell, Vol. Greek Lyric III) (C7th to 6th B.C.) :
+     </span>
+     <br/>
+     "If it is destined that I see my sons slain each by the other and the Moirai (Moirae, Fates) have spun it."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Timotheus, Fragment 786 (from Machon, Philoxenus) (trans. Campbell, Vol. Greek Lyric V) (B.C.) :
+     </span>
+     <br/>
+     "Kharon (Charon) [ferryman of Hades] . . . does not let me dally but shouts that the ferry-boat is leaving, and gloomy Moira (Fate), who must be obeyed is summoning me."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 8. 7 (trans. Conybeare) (Greek biography C1st to 2nd A.D.) :
+     </span>
+     <br/>
+     "Yet he [Zeus] could not exempt him [his son Minos] from the decree of the Moirai (Moirae, Fates) [i.e. could not save him from death]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Epicedeion for a Professor of the University of Berytus (trans. Page, Vol. Select Papyri III, No. 138) (Greek poetry C4th A.D.) :
+     </span>
+     <br/>
+     "Yet all this kept not evil doom from him, nor availed the broad flood of his speech to avert relentless unsmiling Moira (Fate); the brazen doom of death laid him to sleep."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 15. 781 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The gods were moved; but none can break the ancient Sisters' iron decrees [i.e. none can overrule the Fates of death]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 13 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Would that any one Sister (
+     <em>
+      Soror
+     </em>
+     ) of the Three (
+     <em>
+      Tribus
+     </em>
+     ) had bidden me lay down my life in my infant cradle."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 177 (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "While the Fatae (Fates) [Moirai] permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned. The harsh sisters ply their tasks, yet do they not spin backward the threads of life. But men are driven, each one uncertain of his own, to meet the speeding fates; we seek the Stygian waves of our own accord . . . At the appointed time the Parcae (Fates) [Moirai] come. No one may linger when they command, no one may postpone the allotted day; the urn receives the nations hurried to their doom."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 452 ff :
+     </span>
+     <br/>
+     "[The journey of Herakles to the Underworld :] Oh, that thou mayest o'ercome the laws of cruel Styx [i.e. death], and the relentless distaffs of the Parcae (Fates) [Moirai] . . . Fate's bars burst thou with thy hands; to the sad nether regions open a view of light."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 1. 502 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "With him [Zeus] all the gods rejoice, and the Parcae (Fates) [Moirai] mark how the coming age and the paths over the waters  increase for their own gain." 
+  [I.e. In the coming age merchantmen will travel the seas, and many will die in storms,  "the gain" of the Fates.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 632 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Pleasant lives droop and fail, Mors (Death) [Thanatos] with his sword cuts through the Sister's [Moirai's, Fates] threads, and hurries the stricken city to the shades."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 67 ff :
+     </span>
+     <br/>
+     "The gods' commands snatched destruction from me [i.e. he, alone of his companions, survived], and Atropos, whose pleasure knows no denial, and the fate that long since shut against me this door of death."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 642 ff :
+     </span>
+     <br/>
+     "Lachesis with crumbling thread laying the ages waste [in war]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 10 ff :
+     </span>
+     <br/>
+     "[Amphiaraus was swallowed by the earth and arrived still alive in the realm of Haides :] His presence surprised the very distaff of the Fatae (Fates) [Moirai], and not till in terror beheld the augur did the Parcae [Moirai] break the thread."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 3. 19 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "A son is thinking that his father's life is swiftly flown, that the black Sisters [the Moirai] have brought the end too soon."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 3. 125 ff :
+     </span>
+     <br/>
+     "But in the midst of thy prime those joys fell shattered, and Atropos roughly tore the thread of flourishing life."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 4. 40 ff :
+     </span>
+     <br/>
+     "Surely it was in pity of thee [my love] alone that Lachesis prolonged my exhausted term of life."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 4. 4. 56 ff :
+     </span>
+     <br/>
+     "If Atropos gives thee a long span of life--and 'tis my prayer she may."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 4. 8. 19 ff :
+     </span>
+     <br/>
+     "To thee hath white-robed Atropos promised old age and the glory of enduring worth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 1. 155 ff :
+     </span>
+     <br/>
+     "The dark snares of death encompassed around the wretched woman, the Sisters' [Moirai's] ruthless threads are tightened, and there abides but the last portion of the exhausted span."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 1. 366 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "He [Zeus] devised with him an ingenious plan, and entwined the deadly threads of Moira's (Fate's) spindle for Typhon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 675 ff :
+     </span>
+     <br/>
+     "May you escape all the bitter things which the wreathed spindle of apportioned Moira (Fate) has spun for your fate--if the threads of the Moirai (Moirae, Fates) ever obey!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 329 ff :
+     </span>
+     <br/>
+     "All that are born of mortal womb are slaves by necessity to Moira (Fate) the Spinner [i.e. all mortals must necessarily die]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 356 ff :
+     </span>
+     <br/>
+     "Unforseen, for you also the terrible thread of Moira (Fate) is rolling the eddy of your wandering lot of life, and the seal is set."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 217 ff  :
+     </span>
+     <br/>
+     "Then although he [Helios] knew in his heart the immovable inflexible spinnings of Moira (Fate), he consented regretful [i.e. to let Phaethon drive his Sun-chariot and die in so doing]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 39. 234 ff :
+     </span>
+     <br/>
+     "The threads of Moira (Fate) drowned them in waters."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 47. 665 ff :
+     </span>
+     <br/>
+     "The Moirai's (Fates') threads obey not persuasion [i.e. death is inevitable]."
+    </p>
+    <h4>
+     II. DESTINY OF DEATH (GENERAL REFERENCES)
+    </h4>
+    <p>
+     A common Homeric phrase speaks of men falling in battle to red death (
+     <em>
+      porphureos thanatos
+     </em>
+     ) and powerful destiny (
+     <em>
+      moira krataiê
+     </em>
+     ). The word
+     <em>
+      aisa
+     </em>
+     is often used as a synonym for
+     <em>
+      moira
+     </em>
+     .
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 3. 101 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "As for that one of us two to whom death (
+     <em>
+      thanatos
+     </em>
+     ) and doom (
+     <em>
+      moira
+     </em>
+     ) are given, let him die."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 83 ff  :
+     </span>
+     <br/>
+     "So that the arm dropped bleeding to the ground, and red death (
+     <em>
+      thanatos
+     </em>
+     ) and destiny (
+     <em>
+      moira
+     </em>
+     ) the powerful took hold of both eyes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 613 ff :
+     </span>
+     <br/>
+     "But his own destiny (
+     <em>
+      moira
+     </em>
+     ) brought him [i.e. an ally of the Trojans about to die in battle] companion in arms to Priamos (Priam)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 9. 411 ff :
+     </span>
+     <br/>
+     "[Akhilleus (Achilles) speaks of his prophesied destiny :] ‘For my mother Thetis the goddess of the silver feet tells me I carry two sorts of destiny (
+     <em>
+      ker
+     </em>
+     ) toward the day of my death. Either, if I stay here and fight beside the city of the Trojans, my return home is gone, but my glory shall be everlasting; but if I return home to the beloved land of my fathers, the excellence of my glory is gone, but there will be a long life left for me, and my end in death will not come to me quickly.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 16. 853 ff :
+     </span>
+     <br/>
+     "You yourself are not one who shall live long, but now already death (
+     <em>
+      thanatos
+     </em>
+     ) and powerful destiny (
+     <em>
+      moira
+     </em>
+     ) are standing beside you, to go down under the hands of . . . Akhilleus (Achilles)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20. 477 ff :
+     </span>
+     <br/>
+     "So all the sword was smoking with blood, and over both eyes closed the red death (
+     <em>
+      thanatos
+     </em>
+     ) and the strong destiny (
+     <em>
+      moira
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 21. 100 ff :
+     </span>
+     <br/>
+     "Patroklos (Patroclus) came to the day of his destiny (
+     <em>
+      êmar aisimon
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24. 132 ff :
+     </span>
+     <br/>
+     "[Thetis warns Akhilleus (Achilles) of his impending death :] `But already death (thanatos) and powerful destiny (
+     <em>
+      moira
+     </em>
+     ) stand closely above you.'"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 3. 238 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Nevertheless it is true enough that death (
+     <em>
+      thanatos
+     </em>
+     ) comes to all, and the gods themselves cannot ward it off, even from one they love, on the day when he is overtaken by the grim doom (
+     <em>
+      moira oloê
+     </em>
+     ) of distressful death (
+     <em>
+      thanatos
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 24. 29 ff :
+     </span>
+     <br/>
+     "[The shade of Akhilleus (Achilles) addresses the shade of Agamemnon :] ‘Yet deadly fate (
+     <em>
+      moira oloê
+     </em>
+     ), which no man, once he is born, can shun, was appointed ot visit you thus early. Would that, in all the glory you mastered then you had met your death (
+     <em>
+      thanatos
+     </em>
+     ) and doom (
+     <em>
+      potmos
+     </em>
+     ) at Troy! . . . But instead it was fated that you should fall by the most pitiable of deaths.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 271 Epigrams (from Palatine Anthology 7. 255) (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+      <br/>
+     </span>
+     "On other Thessalian champions. Dark Fate (
+     <em>
+      moira
+     </em>
+     ) likewise laid low these valiant spearmen defending their fatherland."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 1029 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Their king [i.e. of the Doliones] himself was not allowed to cheat the fate (
+     <em>
+      moira
+     </em>
+     ) . . . he had had his span of life, and more than that no mortal can command--we are like birds trapped in the wide net of destiny."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 815 ff :
+     </span>
+     <br/>
+     "But at this moment fate (
+     <em>
+      moira
+     </em>
+     ) intervened and Idmon . . . met his predestined end."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 855 ff :
+     </span>
+     <br/>
+     "Who then was next [of the Argonauts] to die? The story goes that it was Tiphys . . . whom destiny (
+     <em>
+      moira
+     </em>
+     ) allowed to sail no further."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1467 ff :
+     </span>
+     <br/>
+     "Kanthos (Canthus) . . . was impelled to go [on a quest that led to his death], not only by the hand of fate (
+     <em>
+      aisa
+     </em>
+     ), but by his own chivalry."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 1. 389 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "The impending doom (
+     <em>
+      aisa
+     </em>
+     ), which roused unto the terrible strife not yet Akhilleus (Achilles), clothed her [the Amazon Penthesilea] still with glory; still aloof the dread Power stood, and still would shed splendour of triumph o'er the death-ordained but for a little space, ere it should quell that Maiden 'neath the hands of Aiakos' (Aeacus') son [Akhilleus]. In darkness ambushed, with invisible hand ever it thrust her on, and drew her feet destruction-ward, and lit her path to death with glory, while she slew foe after foe."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 1. 492 ff :
+     </span>
+     <br/>
+     "So the great Danaan host lay, dashed to dust by doom of fate (
+     <em>
+      moira
+     </em>
+     ), by Penthesileia's spear."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 2. 235 ff :
+     </span>
+     <br/>
+     "Like to a baleful doom (
+     <em>
+      aisa
+     </em>
+     ) which bringeth down on men a grim and ghastly pestilence."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 2. 361 ff :
+     </span>
+     <br/>
+     "[When Memnon was battling the Greeks at Troy :] But all the while stood baleful doom (
+     <em>
+      moira
+     </em>
+     ) beside him, and spurred on to strife, with flattering smile."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 650 ff :
+     </span>
+     <br/>
+     "Know'st thou not that round all men which dwell upon the earth hovereth irresistible deadly fate (
+     <em>
+      aisa
+     </em>
+     ), who recks not even of the Gods? Such power she only hath for heritage. Yea, she soon shall destroy gold-wealthy Priamos' town, and Trojans many and Argives doom to death, whom so she will. No god can stay her hand."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 4. 433 ff :
+     </span>
+     <br/>
+     "The destroyer fate (
+     <em>
+      moira
+     </em>
+     ) had lured him [i.e. Troilos, who was destined to be killed by Akhilleus (Achilles)] on to war, upon the threshold of glad youth, when youth is bold, and the heart feels no void."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 5. 581 ff :
+     </span>
+     <br/>
+     "Blame the dark dolorous fate (
+     <em>
+      aisa
+     </em>
+     ) that struck him down . . . But that great-hearted man [Aias (Ajax)] was led astray by fate (
+     <em>
+      aisa
+     </em>
+     ), the hateful fiend [i.e. Aias killed himself out of anger and grief]; for surely it is unworthy a man to be made passion's fool."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 97 ff :
+     </span>
+     <br/>
+     "Doom (
+     <em>
+      moira
+     </em>
+     ) the destroyer against the Argives sped valiant Aeneas' friend, Eurymenes . . . Then Meges' dart smote 'neath his ribs; blood spurted from his mouth, and in death's agony doom (
+     <em>
+      moira
+     </em>
+     ) stood at his side."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 11. 304 ff :
+     </span>
+     <br/>
+     "In red dust thousands fell, horses and men; and chariots overturned were strewn there: blood was streaming all around like rain, for deadly doom (
+     <em>
+      aisa
+     </em>
+     ) raged through the fray."
+    </p>
+    <hr/>
+    <h3 id="Haides">
+     <a>
+     </a>
+     MOIRAE IN THE UNDERWORLD
+    </h3>
+    <p>
+     The Moirai assigned to each man at birth his allotted portion of life. When the portion expired they cut the thread of life. As such they were sometimes described as goddesses of death, attendant upon the throne of Haides.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Frogs 449 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "Now haste we [i.e. the shades of the Eleusinian Initiates] to the roses [of Elysium], and the meadows full of posies, now haste we to the meadows in our own old way, in choral dances blending, in dances never ending, which only for the holy the Moirai (Moirae, Destinies) array [i.e. the Moirai only allow the good to pass to Elysium]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 617c (trans. Shorey) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "And there were another three who sat round about [the throne of Haides] at equal intervals, each one on her throne, the Moirai (Moirae, Fates), daughters of Ananke, clad in white vestments with filleted heads, Lakhesis (Lachesis), and Klotho (Clotho), and Atropos, who sang in unison with the music of the Seirenes (Sirens), Lakhesis singing the things that were, Klotho the things that are, and Atropos the things that are to be. And Klotho with the touch of her right hand helped to turn the outer circumference of the spindle, pausing from time to time. Atropos with her left hand in like manner helped to turn the inner circles, and Lakhesis alternately with either hand lent a hand to each. Now when they arrived they were straight-way bidden to go before Lakhesis, and then a certain prophet first marshalled them in orderly intervals, and thereupon took from the lap of Lakhesis lots and patterns of lives and went up to a lofty platform and spoke, `This is the word of Lakhesis, the maiden daughter of Ananke (Necessity), souls that live for a day, now is the beginning of another cycle of mortal generation where birth is the beacon of death.'"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 603 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[From a description of the Underworld :] The chaos of everlasting night, and something worse than night, and the grim gods and the fates [i.e. the Moirai]--all these I [Herakles] saw and, having flouted death, I have come back."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 9. 318 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The Elysian Sisters [Moirai, Fates]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 21 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The lord of Erebus [Haides], enthroned in the midst of the fortress of his dolorous realm, was demanding of his subjects the misdoings of their lives, pitying nought human but wroth against all the Manes (Shades). Around him stand the Furiae (Furies) [Erinyes] and various Mortes (Deaths) [Thanatoi] in order due, and savage Poena (Vengeance) thrusts forth her coils of jangling chains; the Fatae (Fates) [Moirai] bring the Animas (Souls) and with one gesture damn them [literally, ‘the thumb,’ as in the Roman amphitheatre]; too heavy grows the work. Hard by, Minos with his dread brother [Rhadamanthys] in kindly mood counsels a milder justice, and restrains the bloodthirsty king [Haides]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 1. 253 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "Whenever a shade approaches that has won the praise of a loving spouse, Proserpine [Persephone] [sends the shade to Elysium.] . . . Thus doth [the dead wife] Priscilla enter the kingdom of the dead; there with suppliant hand she prays the Fatae (Fates) [Moirai] for thee, and placates the lords of grim Avernus [Haides], that having fulfilled the term of human life thou in old age mayst leave thy prince [husband] still giving peace to the world and still young! The unfailing Sisters [Moirai] take oath to grant her prayers."
+    </p>
+    <hr/>
+    <h3 id="Murder">
+     <a>
+     </a>
+     MOIRAE &amp; THE CRIME OF MURDER
+    </h3>
+    <p>
+     Murder was a crime performed in defiance of the decrees of fate. The Erinyes, acting as agents of the Moirai (Fates), exacted punishment upon the miscreant.
+    </p>
+    <h4>
+     I. MURDER IN DEFIANCE OF FATE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 1. 32 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "His [Zeus'] mind was full of Lord Aigisthos (Aegisthus), slain by renowned Orestes . . . with him in mind Zeus began to speak to the Deathless Ones. ‘Oh the waywardness of these mortals! They accuse the gods, they say that their troubles come from us, and yet by their won presumptuousness they draw down sorrow upon themselves that outruns their allotted portion. So now; Aigisthos  outran his allotted portion by taking in marriage the wedded wife of the son of Atreus and killing her husband when he returned.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 4. 145 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "But if enmity breeds twixts men of the same race, to hide the shame even the Moirai (Moirae, Fates) veil their eyes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 375 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "I [Apollon] served [Admetos] as thrall on Pelian ground--such was Jove's [Zeus'] command, so the dark Sisters [the Moirai] willed [i.e. as punishment for the murder of the Kyklopes (Cyclopes)]."
+    </p>
+    <h4>
+     II. ERINYES AGENTS OF THE MOIRAE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 334 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "This [revenge upon the murderer] is our [the Erinyes] right, spun for us by the Moirai (Moirae, Fates), the ones who bind the world."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 350 ff :
+     </span>
+     <br/>
+     "Even at birth, I say, our [the Erinyes'] rights were so ordained [i.e. to exact vengeance for murder]. The deathless gods must keep their hands far off . . . the Moirai (Moirae, Fates) who gave us power made us free."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 400 ff :
+     </span>
+     <br/>
+     "Then where is the man not stirred with awe, not gripped by fear to hear us tell the law that Fate ordains, the gods concede the Erinyes (Furies) absolute till the end of time."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 973 ff :
+     </span>
+     <br/>
+     "[The Erinyes speak :] Sisters [the Moirai, Fates] born of Nyx (Night) our mother, spirits sharing at all our hearths, at all times bearing down to make our lives more just, all realms exalt you highest of the gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Libation Bearers 639 ff :
+     </span>
+     <br/>
+     "But the keen and bitter sword is near the breast [of Aigisthos (Aegisthus), murderer of Agamemnon] and drives home its blow at the bidding of Dike (Justice). For truly the injustice of him who has unjustly transgressed the sovereign majesty of Zeus lies on the ground trampled under foot. The anvil of Dike (Justice) is planted firm. Aisa (Aesa, Destiny) fashions her arms and forges her sword quickly, and the famed and deeply brooding Erinys (Fury) is bringing the son into our house, to requite at last the pollution of blood shed long ago."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Libation Bearers 909 ff :
+     </span>
+     <br/>
+     "Orestes [addresses his mother, the murderess Klytaimestra (Clytemnestra)] : What! Murder my father and then make your home with me?
+     <br/>
+     Klytaimestra : Moira (Fate), my child, must share the blame for this.
+     <br/>
+     Orestes : And Moira (Fate) now brings this destiny to pass [i.e. he will kill Klytaimestra for her crime]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 515 ff :
+     </span>
+     <br/>
+     "Okeanides (Oceanids) : And whose hand controls necessity?
+     <br/>
+     Prometheus : The three Moirai (Moirae, Fates); and the Erinyes (Furies), who forget nothing."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 110 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "From her [the Erinys Tisiphone's] shoulders falls a stark and grisly robe, whose dark fastenings meet upon her breast: Atropos [one of the Moirai] and Proserpine [Persephone] fashion her this garb anew."
+    </p>
+    <h4>
+     III. SUICIDE IN DEFIANCE OF FATE
+    </h4>
+    <p>
+     Suicide is described as a breech of fate by at least one Roman writer.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 10. 810 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Of thy own will and pleasure slain [of one who committed suicide], ay, even against the will of Fata (Fate) [Moira], thou hast forcest an entrance to the gloomy Manes (Shades)."
+    </p>
+    <hr/>
+    <h3 id="Reprieves">
+     <a>
+     </a>
+     MOIRAE &amp; REPRIEVES FROM FATE
+    </h3>
+    <h4>
+     I. RESURRECTION OF PELOPS
+    </h4>
+    <p>
+     The boy Pelops was murdered by his father and served up at a feast of the gods. The Moirai (Fates) restored him to life.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 1. 27 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Pelops, that he who shakes the earth in his great strength, Poseidon, loved when Klotho (Clotho) lifted him out of the clear cauldron, his shoulder gleaming ivory."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 30 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting :] This too is a clever touch: Poseidon loves the lad [Pelops] and brings him to the cauldron and to Klotho (Clotho), after which Pelops' shoulder seemed to shine [i.e. because it was replaced with ivory]."
+    </p>
+    <h4>
+     II. ADMETUS RELEASED FROM DEATH
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 723 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Chorus [of Eumenides] : You [Apollon] did such things also in the house of Pheres [i.e. of Admetos (Admetus)], when you persuaded the Moirai (Moirae, Fates) to make mortals free from death.
+     <br/>
+     Apollon : Is it not right, then, to do good for a worshipper, especially when he is in need?
+     <br/>
+     Chorus : It was you who destroyed the old dispensations when you beguiled the ancient goddesses (
+     <em>
+      theai arkhaiai
+     </em>
+     ) with wine."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 106 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Apollon] also obtained from the Moirai (Moirae, Fates) a privilege for Admetos (Admetus), whereby, when it was time for him to die, he would be released form death if someone should volunteer to die in his place."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 1. 171 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "I [Herakles] will hold fast the threads of the Parcae (Fates) [Moirai] and stretch out the wool upon their distaffs--I can subdue remorseless Mortes (Death) [Thanatos] [i.e. Herakles rescues Alkestis (Alcestis) from death in spite of the Fates]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 3. 186 ff  :
+     </span>
+     <br/>
+     "Is it not granted to move the Parcae (Fates) [Moirai], or appease the ruthless deities of deadly Lethe? . . . Is it so, then that the Thessalian consort [Alkestis (Alcestis)] could give her life to save her lord [Admetos (Admetus)]?"
+    </p>
+    <h4>
+     III. EURYDICE RELEASED FROM DEATH
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 58 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "It shames me [the god Haides] too, alas! how Tartarus opened a way to the Odyrsian plaint [Orpheus]; with my own eyes I saw the Eumenides [Erinyes, Furies] shed base tears at those persuasive strains, and the Sisters [Moirai, Fates] repeat their allotted task [bringing Eurydike (Eurydice) back to the underworld]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 3. 186 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "Is it not granted to move the Parcae (Fates) [Moirai], or appease the ruthless deities of deadly Lethe? . . . Is it so, then that . . . the suppliant Thracian [Orpheus] could defeat remorseless Styx?"
+    </p>
+    <h4>
+     IV. JOURNEYS TO THE UNDERWORLD
+    </h4>
+    <p>
+     Return from the underworld was only allowed through special dispensation from the Fates.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 251 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Those who, by permission of the Parcae (Fates) [Moirai], returned from the lower world.
+     <br/>
+     Ceres [Demeter], seeking Porserpina [Persephone], her daughter.
+     <br/>
+     Father Liber [Dionysos]; he descended for Semele, his mother, daughter of Cadmus.
+     <br/>
+     Hercules [Herakles], son of Jove [Zeus], to bring up the dog Cerberus.
+     <br/>
+     Asclepius, son of Apollo and Coronis.
+     <br/>
+     Castor and Pollux, sons of Jove [Zeus] and Leda, return in alternate death.
+     <br/>
+     Mercurius [Hermes], son of Maia, in constant trips."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 520 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Zeus addresses Demeter :] ‘Proserpina [Persephone] shall reach the sky again on one condition, that in Hell her lips have touched no food; such is the rule forestablished by the three Parcae (Fates) [Moirai].’"
+    </p>
+    <h4>
+     V. RELEASE OF CHIRON (KHEIRON) FROM IMMORTALITY
+    </h4>
+    <p>
+     In a curious reversal of the above tradition, the centaur Kheiron (Chiron) was granted a release from his predestined immortality.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 653 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Kheiron (Chiron)], you, immortal now and destined by your birthright to live on through all eternity, will long to die when you are tortured by the serpent's blood, that agonizing poison in your wounds; and, saved from immortality, the gods shall put you in death's power, and the three Goddesses (
+     <em>
+      Deae Triplices
+     </em>
+     ) [i.e. the Moirai] shall unloose your threads of fate."
+    </p>
+    <hr/>
+    <h3 id="Metamorphosis">
+     <a>
+     </a>
+     MOIRAE &amp; POST-MORTEM APOTHEOSIS AND METAMORPHOSIS
+    </h3>
+    <p>
+     Death could be reversed or avoided through apotheosis (ascension to godhood) and metamorphosis--the transformation of man post mortem into bird, animal, plant or constellation. There are few examples where the Moirai are mentioned in the process.
+    </p>
+    <h4>
+     I. APOTHEOSIS OF HYACINTHUS (HYAKINTHOS)
+    </h4>
+    <p>
+     In the Spartan cult of Hyakinthos, the love of Apollon, the boy was described carried to heaven by the Fates after death.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 19. 4 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the altar of Apollon at Amyklai (Amyclae) near Sparta :] On the altar are also [depicted] Demeter, Kore (Core) [Persephone], Plouton (Pluton) [Haides], next to them the Moirai (Moirae, Fates) and Horai (Horae, Seasons), and with them Aphrodite, Athena and Artemis. They are carrying to heaven Hyakinthos (Hyacinthus) and Polyboia (Polyboea), the sister, they say, of Hyakinthos."
+    </p>
+    <h4>
+     II. METAMORPHOSIS OF AMPELOS
+    </h4>
+    <p>
+     Ampelos was a boy loved by the god Dionysos who was transformed by the Fates, or with the assent of the Fates, into a vine at death.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 138 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Ampelos, a youth loved by the god Dionysos, was killed by a bull :] Dionysos, who never wept, lamented thus in his love, the awful threads of Moira (Fate) were unloosened and turned back; and Atropos Neverturnback, whose word stands fast, uttered a voice divine to console Dionysos in sorrow : ‘He lives, I declare, Dionysos; your boy lives, and shall not pass the bitter water of Akheron (Acheron). Your lamentation has found out how to undo the inflexible threads of unturning Moira (Fate), it has turned back the irrevocable. Ampelos is not dead, even if he died; for I will change your boy to a lovely drink, a delicious nectar. He shall be worshiped with dancing beat of tripling fingers, when the double-sounding pipe shall strike up harmony over the feast, be it in Phrygian rhythm or Dorian tune; or on the boards a musical man shall sing him, pouring out the voice of Aonian reeds for Ismenians or the burghers of Marathon. The Mousai (Muses) shall cry triumph for Ampelos the lovely with Lyaios (Lyaeus) of the Vine (Ampelos). You shall throw off the twisting coronal of snakes from your head, and entwine your hair with tendrils of the vine; you shall make Phoibos (Phoebus) [Apollon] jealous, that he holds out his melancholy iris with its leafy dirge. You too dispense a drink, the earthly image of heavenly nectar, the comfort of the human race, and your young friend shall eclipse the flowery glory of the Amyklaian (Amyclaean) boy [i.e. Hyakinthos]: if his country produces the bronze of battle, your boy's country too increases the shining torrent of red juice like a river--she is all proud of her gold, and she likes not steel. If one boasts of a roaring river, Paktolos had better water than Eurotas. Ampelos, you have brought mourning to Dionysos who never mourns--yes, that when your honeydropping wine shall grow, you my bring its delight to all the four quarters of the world, a libation for the Blessed, and for Dionysos a heart of merry cheer. Lord Bakkhos (Bacchus) has wept tears, that he may wipe away a man's tears!’
+     <br/>
+     Having spoke thus, the divinity departed with her sisters. 
+  Then a great miracle was shown to sorrowful Bakkhos witnessing. For Ampelos the lovely dead rose of himself and took the form of a creeping snake, and became the healtrouble flower. As the body changed, his belly was along stalk, his fingers grew into toptendrils, his feet took root, his curlclusters were grapeclusters, his fawnskin changed into the manycoloured bloom of the growing fruit, his long neck became a bunch of grapes, his elbow gave place to a bending twig swollen with berries, his head changed until the horns took the shape of twisted clumps of drupes. There grew rows of [grape-vine] plants without end."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 213 ff :
+     </span>
+     <br/>
+     "[After the dead Ampelos was transformed into a grapevine, Dionysos declares :] ‘Verily even Moira's (Fate's) threads have been turned womanish for you [Ampelos] and your beauty; for you Haides himself has become merciful, for you Persephone herself has changed her hard temper, and saved you alive in death for brother Bakkhos (Bacchus).’"
+    </p>
+    <hr/>
+    <h3 id="Letters">
+     <a>
+     </a>
+     MOIRAE &amp; THE INVENTION OF LETTERS
+    </h3>
+    <p>
+     The Moirai were the attributed inventors of certain letters of the alphabet. Presumably these had certain mystical values connected with prophecy and fate.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 277 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "First Inventors. The Parcae (Fates) [Moirai], Clotho, Lachesis, and Atropos invented seven Greek letters--A B H T I U."
+    </p>
+    <hr/>
+    <h3 id="Identification">
+     <a>
+     </a>
+     OTHER GODDESSES IDENTIFIED AS MOIRAE
+    </h3>
+    <p>
+     Several other goddesses such as Tykhe (Tyche), fortune personified, Aphrodite as goddess of generation, and Eileithyia, goddess of childbirth, were sometimes described as Moirai or goddesses of fate.
+    </p>
+    <h4>
+     I. APHRODITE GODDESS OF PROCREATION
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 19. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The incscription [in the temple of Aphrodite at Athens] declares that Aphrodite Ourania (Urania, Heavenly) is the oldest of those called Moirai (Moirae, Fates)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 55 to Aphrodite (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "The triple Moirai (Moirae, Fates) [as birth goddesses] are ruled by thy [Aphrodite's] decree [as the goddess of procreation], and all productions yield alike to thee."
+    </p>
+    <p class="see-also">
+     For MORE information on this goddess see
+     <a href="../Olympios/Aphrodite.html">
+      APHRODITE
+     </a>
+    </p>
+    <h4>
+     II. TYCHE GODDESS OF FORTUNE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 7. 26. 8 :
+     </span>
+     <br/>
+     "I am in general agreement with Pindar's ode, and especially with his making Tykhe (Tyche, Fortune) one of the Moirai (Moirae, Fates), and more powerful than her sisters."
+    </p>
+    <p class="see-also">
+     For MORE information on this goddess see
+     <a href="Tykhe.html">
+      TYKHE
+     </a>
+    </p>
+    <h4>
+     III. EILEITHYIA GODDESS OF CHILDBIRTH
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pindar, Nemean Ode 7. 1 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Eileithyia (Goddess of Childbirth), maid to the throne of the deep-thinking Moirai (Moirae, Fates)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 21. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The Lykian (Lycian) Olen, an earlier poet, who composed for the Delians, among other hymns, one to Eileithyia, where he calls her the good spinner, obviously identifying her with Moira (Fate), and says she is older than Kronos (Cronus, Time)."
+    </p>
+    <p class="see-also">
+     For MORE information on this goddess see
+     <a href="../Ouranios/Eileithyia.html">
+      EILEITHYIA
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Hymns">
+     <a>
+     </a>
+     HYMNS TO THE MOIRAE
+    </h3>
+    <h4>
+     I. THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 59 to the Fates (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To the Moirai (Moirae, Fates), Fumigation from Aromatics. Daughters of darkling Nyx (Night), much named, draw near, infinite Moirai, and listen to my prayer; who in the heavenly lake, where waters white burst from a fountain hid in depths of night, and through a dark and stony cavern glide, a cave profound, invisible abide; from whence, wide coursing round the boundless earth, your power extends to those of mortal birth; to men with hope elated, trifling, gay, a race presumptuous, born but to decay. To these acceding, in a purple veil to sense impervious, you yourselves conceal, when in the plain of Moira (Fate) you joyful ride in one great car, with glory for your guide; till all-complete, your heaven appointed round, at justice, hope, and care's concluding bound, the terms absolved, prescribed by ancient law, of power immense, and just without a flaw. For Moira (Fate) alone with vision unconfined surveys the conduct of the mortal kind. Moira (Fate) is Zeus' perfect eternal eye, for Zeus and Moira our every deed descry. Come, gentle powers, well born, benignant, famed, Atropos, Lakhesis (Lachesis), and Klotho (Clotho) named; unchanged, aerial, wandering in the night, untamed, invisible to mortal sight; Moirai all-producing, all-destroying, hear, regard the incense and the holy prayer; propitious listen to these rites inclined, and far avert distress, with placid mind."
+    </p>
+    <h4>
+     II. OTHER INVOCATIONS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 1018 (from Stobaeus, Anthology) (trans. Campbell) (Greek lyric B.C.) :
+     </span>
+     <br/>
+     "Listen, Moirai (Moirae, Fates), who sit nearest of the gods to the throne of Zeus and weave on adamantine shuttles countless and inescapable devices of counsels of all kinds. Aisa (Aesa, Destiny), Klotho (Clotho) and Lakhesis (Lachesis), fair-armed daughters of Nyx (Night), hear our prayers, you all-terrible deities of heaven and the lower world: send us rose-bloomed Eunomia (Order) and her bright-throned sisters Dike (Justice) and garland-wearing Eirana (Eirene, Peace), and make this city forget its heavy-hearted misfortunes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 937 (from Inscription from the shrine of Asclepius at Epidaurus) (trans. Campbell) (Greek lyric B.C.) :
+     </span>
+     <br/>
+     "High-skilled Asklepios (Asclepius); and summon the two Dioskouroi (Dioscuri) and the august Kharites (Charites, Graces) and glorious Mousai (Muses) and kindly Moirai (Moirae, Fates) . . . Greetings, all you immortal gods everlasting and immortal goddesses!"
+    </p>
+    <hr/>
+    <h3 id="Animals">
+     <a>
+     </a>
+     SACRED BIRDS &amp; ANIMALS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 10. 33 (trans. Scholfield) (Greek natural history C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "White Turtle-doves are often to be seen. These, they say, are sacred to Aphrodite and Demeter, while the other kind [i.e. the more common dusky turtle-dove] is sacred to the Moirai (Moirae, Fates) and the Erinyes (Furies)."
+    </p>
+    <hr/>
+    <h3 id="Cult">
+     <a>
+     </a>
+     CULT OF THE MOIRAE
+    </h3>
+    <h4>
+     I. CORINTH (KORINTHOS)  Chief City of Corinthia (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 4. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[On the Akropolis (Acropolis) of Korinthos (Corinth) :] The temple of the Moirai (Moirae, Fates) and that of Demeter and Kore (Core) [Persephone] have images that are not exposed to view."
+    </p>
+    <h4>
+     II. SICYON-PHLIUS (SIKYON-PHLIOS) ROAD Towns in Sicyonia (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 11. 3 - 4 :
+     </span>
+     <br/>
+     "On the direct road from Sikyon (Sicyon) to Phlios (Phlius) . . . At a distance along it, in my opinion, of twenty stades, to the left on the other side of the Asopos [river], is a grove of holm oaks and a temple of the goddesses named by the Athenians the Semnai (August), and by the Sikyonians the Eumenides (Kindly Ones). On one day in each year they celebrate a festival to them and offer sheep big with young as a burnt offering, and they are accustomed to use a libation of honey and water, and flowers instead of garlands. They practise similar rites at the altar of the Moirai (Moirae, Fates); it is in an open space in the grove."
+    </p>
+    <h4>
+     III. SPARTA Chief City of Lacedaemonia (Lakedaimonia) (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 11. 10 :
+     </span>
+     <br/>
+     "The Lakedaimonians (Lacedaemonians) have also a sanctuary [at Sparta] of the Moirai (Moirae, Fates), by which is the grave of Orestes, son of Agamemnon."
+    </p>
+    <h4>
+     IV. OLYMPIA Town &amp; Sanctuary in Elis (Southern Grece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 15. 5 :
+     </span>
+     <br/>
+     "There is an altar [at Olympia] with an inscription ‘to the Bringer of the Fates (Moiragetes).’ This is plainly a surname of Zeus, who knows the affairs of men, all that the Moirai (Moirae, Fates) give them, and all that is destined for them. Near there is also an oblong altar of Moirai (Fates)."
+    </p>
+    <h4>
+     V. Near ACACESIUM (AKAKESION)  Town in Arkadia (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 37. 1  :
+     </span>
+     <br/>
+     "From Akakesion (Acacesium) [in Arkadia] as you go to the temple [of Despoine] there is a portico on the right, with reliefs of white marble on the wall. On the first relief are wrought Moirai (Moirae, Fates) and Zeus surnamed Moiragetes (Guide of Fate)."
+    </p>
+    <h4>
+     VI. THEBES Chief City of Boeotia (Central Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 25. 4 :
+     </span>
+     <br/>
+     "Along the road from the Neistan gate [at Thebes in Boiotia (Boeotia)] are three sanctuaries. There is a sanctuary of Themis, with an image of white marble; adjoining it is a sanctuary of the Moirai (Moirae, Fates), while the third is of Agoraios (Agoreus, of the Market) Zeus. Zeus is made of stone; the Moirai (Moirae, Fates) have no images."
+    </p>
+    <h4>
+     VII. DELPHI (DELPHOI) Town &amp; Sanctuary in Phocis (Central Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 24. 4 :
+     </span>
+     <br/>
+     "[In the temple of Apollon at Delphoi (Delphi) :] There are also images of two Moirai (Fates); but in place of the third Moira there stand by their side Zeus Moiragetes (Guide of Fate), and Apollon Moiragetes (Guide of Fate)."
+    </p>
+    <h4>
+     VIII. CORCYRA (KORKYRA) Island (Ionian Sea)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1216 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "And still the altars which Medea built on the island [of the Phaiakes (Phaeacians)] at the shrine of the Shepherd Apollon are laden year by year with offerings to the Moirai (Moirae, Fates) and the Nymphai (Nymphs)."
+    </p>
+    <hr/>
+    <h2 id="Titles">
+     <a>
+     </a>
+     POETIC TITLES &amp; EPITHETS
+    </h2>
+    <p>
+     The Moirai had a number of poetic titles and epithets.
+    </p>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Κλωθεσ
+      </p>
+      <p class="names-greek">
+       Κατακλωθεσ
+      </p>
+      <p class="names-greek">
+       Διανταιαι
+      </p>
+      <p class="names-greek">
+       Θεαι Αρχαιαι
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Klôthes
+      </p>
+      <p>
+       Kataklôthes
+      </p>
+      <p>
+       Diantaiai
+      </p>
+      <p>
+       Theai Arkhaiai
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Clothés
+      </p>
+      <p>
+       Cataclothés
+      </p>
+      <p>
+       Diantaeae
+      </p>
+      <p>
+       Theae Archaeae
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       The Spinners
+      </p>
+      <p>
+       The Spinners
+      </p>
+      <p>
+       Relentless Ones
+      </p>
+      <p>
+       Ancient Goddesses
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K16.1.html">
+        <img alt="Thumbnail Moirae, Athena, Artemis" src="../image/thumbK16.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K16.1 Moirae, Athena, Artemis
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K16.2.html">
+        <img alt="Thumbnail Spinner" src="../image/thumbK16.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K16.2 Spinner
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K16.3.html">
+        <img alt="Thumbnail Weavers" src="../image/thumbK16.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K16.3 Weavers
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodShield.html">
+       Hesiod, The Shield of Heracles
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1B.html">
+       Greek Lyric I Alcman, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Ibycus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Telestes, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Timotheus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Solon, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Libation Bearers
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Seven Against Thebes
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Birds
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Frogs
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaOedipus.html">
+       Seneca, Oedipus
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     MOIRAE SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS MOIRAE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Themis
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Names
+       </th>
+       <td>
+        Atropus, Clotho, Lachesis
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddesses of
+       </th>
+       <td>
+        Fate, destiny
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Spindle and thread, shears
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Dusky turtle-dove
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Parcae, Fatae
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     MOIRAE PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of the Moirae
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Names">
+       Names of the Moirae
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of Moirae
+      </a>
+     </li>
+     <li>
+      <a href="#Zeus">
+       Moirae &amp; the Rulership of Zeus
+      </a>
+     </li>
+     <li>
+      <a href="#War">
+       Wars &amp; Prophecies of the Gods
+      </a>
+     </li>
+     <li>
+      <a href="#Persephone">
+       Moirae, Persephone &amp; the Seasons
+      </a>
+     </li>
+     <li>
+      <a href="#Gods">
+       Moirae &amp; the Privileges of the Gods
+      </a>
+     </li>
+     <li>
+      <a href="#Birth">
+       Goddesses of Fate - Birth
+      </a>
+     </li>
+     <li>
+      <a href="#Meleagros">
+       Moirae &amp; the Birth of Meleager (Meleagros)
+      </a>
+     </li>
+     <li>
+      <a href="#Herakles">
+       Moirae &amp; the Birth of Heracles (Herakles)
+      </a>
+     </li>
+     <li>
+      <a href="#Spinners">
+       Goddesses of Fate -  Spinners
+      </a>
+     </li>
+     <li>
+      <a href="#Lot">
+       Goddesses of Fate - Fortune
+      </a>
+     </li>
+     <li>
+      <a href="#Prophecy">
+       Goddesses of Fate -  Prophecy
+      </a>
+     </li>
+     <li>
+      <a href="#Death">
+       Goddesses of Fate - Death
+      </a>
+     </li>
+     <li>
+      <a href="#Haides">
+       Moirae in the Underworld
+      </a>
+     </li>
+     <li>
+      <a href="#Murder">
+       Moirae &amp; the Crime of Murder
+      </a>
+     </li>
+     <li>
+      <a href="#Reprieves">
+       Reprieves from Fate
+      </a>
+     </li>
+     <li>
+      <a href="#Metamorphosis">
+       Apotheosis &amp; Metamorphosis
+      </a>
+     </li>
+     <li>
+      <a href="#Letters">
+       Invention of Letters
+      </a>
+     </li>
+     <li>
+      <a href="#Identification">
+       Other Gods Identified as Moirae
+      </a>
+     </li>
+     <li>
+      <a href="#Hymns">
+       Hymns to the Moirae
+      </a>
+     </li>
+     <li>
+      <a href="#Animals">
+       Sacred Animals
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Cult of the Moirae
+      </a>
+     </li>
+     <li>
+      <a href="#Titles">
+       Titles &amp; Epithets
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

@@ -1,0 +1,2689 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   NYX - Greek Primordial Goddess of the Night (Roman Nox)
+  </title>
+  <meta content="Nyx was the ancient Greek goddess of the night, one of the primordial gods (protogenoi) who emerged as the dawn of creation. She was a child of Chaos (Air), and coupling with Erebus (Darkness) she produced Aether (Light) and Hemera (Day). Alone she spawned a brood of dark spirits including the three Fates, Sleep, Death, Strife and Pain. Nyx was depicted as a either a winged goddess or charioteer, sometimes crowned with an aureole of dark mists. Her Roman name was Nox." name="description"/>
+  <meta content="Nyx, Greek mythology, Greek goddess of the night, Nyx pictures, Nox" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/primeval-gods.html">
+      Primordial Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/sky-gods.html">
+      Sky Gods
+     </a>
+     &gt;&gt; Nyx
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     NYX
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Νυξ
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Nyx
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Nox
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Night (
+       <em>
+        nyx, nyktos
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/N1.3.html">
+      <img alt="Nyx | Athenian black-figure lekythos C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/N1.3Nyx.jpg"/>
+     </a>
+     <figcaption>
+      Nyx goddess of night, Athenian black-figure lekythos C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     NYX was the goddess of the night, one of the primordial gods (
+     <em>
+      protogenoi
+     </em>
+     ) who emerged as the dawn of creation.
+    </p>
+    <p>
+     She was a child of Khaos (Chaos, Air), and coupling with Erebos (Darkness) she produced Aither (Aether, Light) and Hemera (Day). Alone she spawned a brood of dark spirits including the three Fates, Sleep, Death, Strife and Pain.
+    </p>
+    <p>
+     Nyx was an ancient deity usually envisaged as the very substance of the night--a veil of dark mists drawn across the sky to obscure the light of Aither, the shining blue of the heavens.  Her opposite number was Hemera (Day) who scattered the mists of night at dawn.
+    </p>
+    <p>
+     In ancient art Nyx was depicted as a either a winged goddess or charioteer, sometimes crowned with an aureole of dark mists.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF NYX
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="Khaos.html">
+      KHAOS
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 123, Nonnus Dionysiaca 31.115)
+     </span>
+     <br/>
+     [2.1]
+     <a href="Phanes.html">
+      PHANES
+     </a>
+     <span class="family-refs">
+      (Orphic Argonautica 12, Orphic Fragment 101)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING PROTOGENOI
+    </h3>
+    <p>
+     [1.1]
+     <a href="Aither.html">
+      AITHER
+     </a>
+     ,
+     <a href="Hemera.html">
+      HEMERA
+     </a>
+     (by
+     <a href="Erebos.html">
+      Erebos
+     </a>
+     )
+     <span class="family-refs">
+      (Hesiod Theogony 124, Cicero De Natura Deum 3.17)
+     </span>
+     <br/>
+     [1.2]
+     <a href="Hemera.html">
+      HEMERA
+     </a>
+     (by
+     <a href="Khronos.html">
+      Khronos
+     </a>
+     )
+     <span class="family-refs">
+      (Bacchylides Frag 7)
+     </span>
+     <br/>
+     [1.3]
+     <a href="Eros.html">
+      EROS
+     </a>
+     ,
+     <a href="Aither.html">
+      AITHER
+     </a>
+     <span class="family-refs">
+      (Aristophanes Birds 685 &amp; 1190)
+     </span>
+     <br/>
+     [1.4]
+     <a href="Eros.html">
+      EROS
+     </a>
+     (by
+     <a href="Erebos.html">
+      Erebos
+     </a>
+     )
+     <span class="family-refs">
+      (Hyginus Preface)
+     </span>
+     <br/>
+     [1.5]
+     <a href="Aither.html">
+      AITHER
+     </a>
+     ,
+     <a href="Hemera.html">
+      HEMERA
+     </a>
+     ,
+     <a href="Eros.html">
+      EROS
+     </a>
+     (by
+     <a href="Erebos.html">
+      Erebos
+     </a>
+     )
+     <span class="family-refs">
+      (Cicero De Natura Deorum 3.17)
+     </span>
+     <br/>
+     [1.6]
+     <a href="Hemera.html">
+      EOS-HEMERA
+     </a>
+     <span class="family-refs">
+      (Quintus Smyrnaeus 2.549)
+     </span>
+     <br/>
+     [2.1]
+     <a href="Ouranos.html">
+      OURANOS
+     </a>
+     <span class="family-refs">
+      (Orphic Argonautica 12, Orphic Frag Deveni Papyrus)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Titan/AstraPlaneta.html">
+      THE ASTRA
+     </a>
+     <span class="family-refs">
+      (Orphic Hymn 7)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING DAIMONES
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Daimon/Moros.html">
+      MOROS
+     </a>
+     ,
+     <a href="../Daimon/Keres.html">
+      KER
+     </a>
+     ,
+     <a href="../Daimon/Thanatos.html">
+      THANATOS
+     </a>
+     ,
+     <a href="../Daimon/Hypnos.html">
+      HYPNOS
+     </a>
+     ,
+     <a href="../Daimon/Oneiroi.html">
+      THE ONEIROI
+     </a>
+     ,
+     <a href="../Daimon/Momos.html">
+      MOMOS
+     </a>
+     ,
+     <a href="../Daimon/Oizys.html">
+      OIZYS
+     </a>
+     ,
+     <a href="../Titan/Hesperides.html">
+      HESPERIDES
+     </a>
+     ,
+     <a href="../Daimon/Keres.html">
+      THE KERES
+     </a>
+     ,
+     <a href="../Daimon/Moirai.html">
+      THE MOIRAI
+     </a>
+     ,
+     <a href="../Daimon/Nemesis.html">
+      NEMESIS
+     </a>
+     ,
+     <a href="../Daimon/Apate.html">
+      APATE
+     </a>
+     ,
+     <a href="../Daimon/Philotes.html">
+      PHILOTES
+     </a>
+     ,
+     <a href="../Daimon/Geras.html">
+      GERAS
+     </a>
+     ,
+     <a href="../Daimon/Eris.html">
+      ERIS
+     </a>
+     (no father)
+     <span class="family-refs">
+      (Hesiod Theogony 221)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Daimon/Eris.html">
+      ERIS
+     </a>
+     <span class="family-refs">
+      (Hesiod Works &amp; Days 17)
+     </span>
+     <br/>
+     [1.3]
+     <a href="../Daimon/Hypnos.html">
+      HYPNOS
+     </a>
+     ,
+     <a href="../Daimon/Thanatos.html">
+      THANATOS
+     </a>
+     <span class="family-refs">
+      (Homer Iliad 14.231, Seneca Hercules Fur. 1068)
+     </span>
+     <br/>
+     [1.4]
+     <a href="../Daimon/Nemesis.html">
+      THE NEMESES
+     </a>
+     <span class="family-refs">
+      (Pausanias 7.5.3)
+     </span>
+     <br/>
+     [1.5]
+     <a href="../Daimon/Moros.html">
+      MOROS (FATUM)
+     </a>
+     ,
+     <a href="../Daimon/Geras.html">
+      GERAS (SENECTUS)
+     </a>
+     ,
+     <a href="../Daimon/Thanatos.html">
+      THANATOS (MORS)
+     </a>
+     ,
+     <a href="../Daimon/Keres.html">
+      KER (LETUM)
+     </a>
+     ,
+     <a href="../Daimon/Sophrosyne.html">
+      SOPHROSYNE (CONTINENTIA)
+     </a>
+     ,
+     <a href="../Daimon/Hypnos.html">
+      HYPNOS (SOMNUS)
+     </a>
+     ,
+     <a href="../Daimon/Oneiroi.html">
+      ONEIROI (SOMNIA)
+     </a>
+     ,
+     <a href="Eros.html">
+      EROS (AMOR)
+     </a>
+     ,
+     <a href="../Daimon/Epiphron.html">
+      EPIPHRON
+     </a>
+     , PORPHYRION, EPAPHOS,
+     <a href="../Daimon/Eris.html">
+      ERIS (DISCORDIA)
+     </a>
+     ,
+     <a href="../Daimon/Oizys.html">
+      OIZYS (MISERIA)
+     </a>
+     ,
+     <a href="../Daimon/Hybris.html">
+      HYBRIS (PETULANTIA)
+     </a>
+     ,
+     <a href="../Daimon/Nemesis.html">
+      NEMESIS
+     </a>
+     ,
+     <a href="../Ouranios/KharisEuphrosyne.html">
+      EUPHROSYNE
+     </a>
+     ,
+     <a href="../Daimon/Philotes.html">
+      PHILOTES (AMICITIA)
+     </a>
+     ,
+     <a href="../Daimon/Eleos.html">
+      ELEOS (MISERICORDIA)
+     </a>
+     ,
+     <a href="../Khthonios/PotamosStyx.html">
+      STYX
+     </a>
+     ,
+     <a href="../Daimon/Moirai.html">
+      MOIRAI (PARCAE)
+     </a>
+     ,
+     <a href="../Titan/Hesperides.html">
+      HESPERIDES
+     </a>
+     (by
+     <a href="Erebos.html">
+      Erebos
+     </a>
+     )
+     <span class="family-refs">
+      (Hyginus Preface)
+     </span>
+     <br/>
+     [1.6]
+     <a href="Eros.html">
+      EROS (AMOR)
+     </a>
+     ,
+     <a href="../Daimon/Dolos.html">
+      DOLOS (DOLUS)
+     </a>
+     ,
+     <a href="../Daimon/Deimos.html">
+      DEIMOS (METUS)
+     </a>
+     ,
+     <a href="../Daimon/Ponos.html">
+      PONOS (LABOR)
+     </a>
+     ,
+     <a href="../Daimon/Nemesis.html">
+      NEMESIS (INVIDENTIA)
+     </a>
+     ,
+     <a href="../Daimon/Moros.html">
+      MOROS (FATUM)
+     </a>
+     ,
+     <a href="../Daimon/Geras.html">
+      GERAS (SENECTUS)
+     </a>
+     ,
+     <a href="../Daimon/Thanatos.html">
+      THANATOS (MORS)
+     </a>
+     ,
+     <a href="../Daimon/Keres.html">
+      KERES (TENEBRAE)
+     </a>
+     ,
+     <a href="../Daimon/Oizys.html">
+      OIZYS (MISERIA)
+     </a>
+     ,
+     <a href="../Daimon/Momos.html">
+      MOMOS (QUERELLA)
+     </a>
+     ,
+     <a href="../Daimon/Philotes.html">
+      PHILOTES (GRATIA)
+     </a>
+     ,
+     <a href="../Daimon/Apate.html">
+      APATE (FRAUS)
+     </a>
+     , 
+    ? (OBSTINANCIA),
+     <a href="../Daimon/Moirai.html">
+      THE MOIRAI (PARCAE)
+     </a>
+     ,
+     <a href="../Titan/Hesperides.html">
+      THE HESPERIDES
+     </a>
+     ,
+     <a href="../Daimon/Oneiroi.html">
+      THE ONEIROI (SOMNAI)
+     </a>
+     (by
+     <a href="Erebos.html">
+      Erebos
+     </a>
+     )
+     <span class="family-refs">
+      (Cicero De Natura Deorum 3.17)
+     </span>
+     <span class="family-refs">
+      <br/>
+     </span>
+     [2.1]
+     <a href="../Khthonios/Erinyes.html">
+      THE ERINYES
+     </a>
+     ,
+     <a href="../Daimon/Moirai.html">
+      THE MOIRAI
+     </a>
+     <span class="family-refs">
+      (Aeschyluls Eumenides 321 &amp; 415 &amp; 745 &amp; 961)
+     </span>
+     <br/>
+     [2.2]
+     <a href="../Khthonios/Erinyes.html">
+      THE ERINYES
+     </a>
+     <span class="family-refs">
+      (Aeschyluls Eumenides 321, Lycophron 432, Virgil Aeneid 6.250, Ovid Metamorphoses 4.453)
+     </span>
+     <br/>
+     [2.3]
+     <a href="../Daimon/Moirai.html">
+      THE MOIRAI
+     </a>
+     (by
+     <a href="Khronos.html">
+      Khronos
+     </a>
+     )
+     <span class="family-refs">
+      (Tzetzes on Lycophron)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Khthonios/Hekate.html">
+      HEKATE
+     </a>
+     <span class="family-refs">
+      (Bacchylides Frag 1B)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     NYX (Nux), Nox or Night personified. Homer (
+     <em>
+      Il.
+     </em>
+     xiv. 259, &amp;c.) calls her the subduer of gods and men, and relates that Zeus himself stood in awe of her. In the ancient cosmogonies Night is one of the very first created beings, for she is described as the daughter of Chaos, and the sister of Erebus, by whom she became the mother of Aether and Hemera. (Hes.
+     <em>
+      Theog.
+     </em>
+     123, &amp;c.) According to the Orphics (
+     <em>
+      Argon.
+     </em>
+     14) she was the daughter of Eros. She is further said, without any husband, to have given birth to Moros, the Keres, Thanatos, Hypnos, Dreams, Momus, Oizys, the Hesperides, Moerae, Nemesis, and similar beings. (Hes.
+     <em>
+      Theog.
+     </em>
+     211, &amp;c.; Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 17.) In later poets, with whom she is merely the personification of the darkness of night, she is sometimes described as a winged goddess (Eurip.
+     <em>
+      Orest.
+     </em>
+     176), and sometimes as riding in a chariot, covered with a dark garment and accompanied by the stars in her course. (Eurip.
+     <em>
+      Ion,
+     </em>
+     1150; Theocrit. ii. in fin.; Orph.
+     <em>
+      Hymn.
+     </em>
+     2. 7; Virg.
+     <em>
+      Aen.
+     </em>
+     v. 721; Tibull. ii. 1. 87; Val. Flacc. iii. 211.) Her residence was in the darkness of Hades. (Hes.
+     <em>
+      Theog.
+     </em>
+     748; Eurip.
+     <em>
+      Orest. 175
+     </em>
+     ; Virg.
+     <em>
+      Aen.
+     </em>
+     vi. 390.) A statue of Night, the work of Rhoecus, existed at Ephesus (Paus. x. 38. § 3). On the chest of Cypselus she was represented carrying in her arms the gods of Sleep and Death, as two boys (v. 18. § 1).
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Cosmogony">
+     NYX &amp; THE BIRTH OF THE COSMOS
+    </h3>
+    <h4>
+     I. THE COSMOGONY OF HESIOD
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 115 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Verily at first Khaos (Chaos, the Gap) [Air] came to be, but next wide-bosomed Gaia (Gaea, Earth) . . . and dim Tartaros (the Pit) in the depth of the wide-pathed Earth, and Eros (Love), fairest among the deathless gods, who unnerves the limbs and overcomes the mind and wise counsels of all gods and all men within them.
+     <br/>
+     From Khaos (Chaos) [Air] came forth Erebos (Erebus, Darkness) and black Nyx (Night); but of Nyx (Night) were born (Aether, Bright Upper Air) and Hemera (Day), whom she conceived and bore from union in love with Erebos.
+     <br/>
+     And Gaia (Gaea, Earth) first bore starry Ouranos (Uranus, Heaven), equal to herself, to cover her on every side."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 7 (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Radiant daughter [Hemera the Day] of Khronos (Chronos, Time) and Nyx (Night)."
+    </p>
+    <h4>
+     II. THE ORPHIC COSMOGONY
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Birds 685 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "At the beginning there was only Khaos (the Chasm) [Air], Nyx (Night), dark Erebos (Darkness), and deep Tartaros (the Pit). Ge (Gaea, Earth), Aer (Air) [probably Aither (Aether) the upper air] and Ouranos (Uranus, Heaven) had no existence. Firstly, black-winged Nyx (Night) laid a germless egg in the bosom of the infinite deeps of Erebos (Darkness), and from this, after the revolution of long ages, sprang the graceful Eros [the primordial Eros] with his glittering golden wings."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 7 to the Astron (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Celestial Astra (Stars), dear progeny of Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphica, Argonautica 12 ff (trans. West) (Greek hymns C3rd - C2nd B.C.) :
+     </span>
+     <br/>
+     "Firstly, ancient Khaos's (Chaos') stern Ananke (Inevitability), and Khronos (Chronos, Time), who bred within his boundless coils Aither (Aether, Light) and two-sexed, two-faced, glorious Eros [Phanes], ever-born Nyx's (Night's) father, whom latter men call Phanes, for he first was manifested."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphica, Theogonies Fragment 101 - 102 (from Proclus) (trans. West) (Greek hymns C3rd - C2nd B.C.) :
+     </span>
+     <br/>
+     "[Phanes] placed his distinguished sceptre [the rulership of the universe] in the hands of goddess Nyx (Night), that she hold royalty . . . [Nyx] holding in her hands the glorious sceptre of Erikepaios (Ericepaeus) [Phanes]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphica, Theogonies Fragments (from the Deveni Papyrus) :
+     </span>
+     <br/>
+     "Zeus, when from his father the prophesied rule and strength in his hands he took and the glorious daimon . . . . the god [Phanes] who first sprang forth into the Aither (Aether, Light).
+     <br/>
+     Kronos (Cronus) who did a mighty deed to Ouranos (Uranus, Sky), son of Nyx (Night), who became king first of all; following him again Kronos (Time), and then Zeus the contriver."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 115 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The ugly form of Hypnos' (Sleep's) mother the blackgirdled goddess Nyx (Night) . . .
+     <br/>
+     [Iris disguised as Nyx addresses Hypnos :] ‘O Blackwing! Do not provoke Gaia (Earth), my [Nyx's] father's [Khaos'] agemate, from whom alone we are all sprung, we who dwell in Olympos.’"
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/T19.13.html">
+      <img alt="Nyx (Night) and Eos (Dawn) | Apulian red-figure krater C4th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T19.13Eos.jpg"/>
+     </a>
+     <figcaption>
+      Nyx (Night) and Eos (Dawn), Apulian red-figure krater C4th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h3 id="Mother">
+     NYX MOTHER OF GODS &amp; DAEMONES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 231 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "There [in Lemnos] she [Hera] encountered Hypnos (Hypnus, Sleep), the brother of Thanatos (Thanatus, Death) . . . [Hypnos addresses Hera :] ‘That time I laid to sleep the brain in Zeus of the aegis and drifted upon him still and soft, but your mind was devising evil, and you raised along the sea the blasts of the racking winds, and on these swept him away to Kos (Cos), the strong-founded, with all his friends lost, but Zeus awakened in anger and beat the gods up and down his house, looking beyond all others for me, and would have sunk me out of sight in the sea from the bright sky had not Nyx (Night) who has power over gods and men rescued me. I reached her in my flight, and Zeus let be, though he was angry, in awe of doing anything to swift Nyx' displeasure.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 211 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And Nyx bare hateful Moros (Doom of Death) and black Ker (Fate of Death) and Thanatos (Thanatus, Death), and she bare Hypnos (Hypnus, Sleep) and the tribe of Oneiroi (Dreams). And again the goddess murky Nyx, though she lay with none, bare Momos (Momus, Criticism) and painful Oizys (Misery), and the Hesperides (Evenings) . . . Also she bare the Moirai (Moirae, Fates) and the ruthless avenging Keres (Deaths) . . . Also deadly Nyx bare Nemesis to afflict mortal men, and after her, Apate (Deceit) and Philotes (Sex) and hateful Geras (Old Age) and hard-hearted Eris (Strife)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Works &amp; Days 17 ff :
+     </span>
+     <br/>
+     "Eris (Strife) . . . the elder daughter of dark Nyx."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 1b (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Torch-bearing Hekate (Hecate), . . [missing text] holy . ., daughter of great-bosomed Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 321 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The Erinyes speak :] ‘O mother Nyx (Night), hear me, mother who gave birth to me as a retribution for the blind and the seeing.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 415 ff :
+     </span>
+     <br/>
+     "[The Erinyes speak :] ‘We [the Erinyes] are the eternal children of Nyx (Night). We are called Arai (Arae, Curses) in our homes beneath the earth.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 745 ff :
+     </span>
+     <br/>
+     "[The Erinyes speak :] ‘O Nyx (Night), our dark Mother (
+     <em>
+      mêter melaina
+     </em>
+     ).’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 844 ff :
+     </span>
+     <br/>
+     "[The Erinyes speak :] ‘Hear my anger, mother Nyx (Night); for the deceptions of the gods.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 961 ff :
+     </span>
+     <br/>
+     "[The Erinyes speak :] ‘You, divine (
+     <em>
+      theai
+     </em>
+     ) Moirai (Fates), our sisters by one mother [Nyx], divinities who distribute justly.‘"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Doubtul Fragment 250 (from Plutarch, On Love 15. 758B)  :
+      <br/>
+     </span>
+     "[Hypnos speaks :] ‘For Nyx (Night) brought me not forth . . . to lull to rest men's souls.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 432 (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[The Erinyes] the maiden daughters of Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 18. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Depicted amongst the illustrations carved on the chest of Kypselos (Cypselus) at Olympia :] There is a figures of a woman holding on her right arm a white child asleep, and on her left she has a black child like one who is asleep. Each has his feet turned different ways. The inscriptions declare, as one could infer without inscriptions, that the figures are Thanatos (Death) and Hypnos (Sleep), with Nyx (Night) the nurse of both."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 7. 5. 1 :
+     </span>
+     <br/>
+     "They [the people of Smyrna] believe in two Nemeses instead of one; they say Nyx was their mother."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Chaos and Caligine [were born] : Nox (Night) [Nyx], Dies (Day) [Hemera], Erebus, Aether.
+     <br/>
+     From Nox (Night) [Nyx] and Erebus [were born]: Fatum (Fate) [Ker], Senectus (Old Age) [Geras], Mors (Death) [Thanatos], Letum (Dissolution) [Moros], Continentia (Continence), Somnus (Sleep) [Hypnos], Somnia (Dreams) [Oneiroi], Amor [Eros]--that is Lysimeles, Epiphron, Porphyrion, Epaphus, Discordia (Discord), Miseria (Wretchedness), Petulantia (Wantonness), Nemesis, Euphrosyne, Amicitia (Friendship) [Philotes], Misericordia (Compassion), Styx; the three Parcae (Fates) [Moirai], namely Clotho, Lachesis and Atropos; the Hesperides Aegle, Hesperie and Aerica."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 17 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "[If Ouranos (Uranus) is a god then] the parents of Caelus [Ouranos], Aether (Upper Air) and Dies (Day) [Hemera], must be held to be gods, and their brothers and sisters, whom the ancient genealogists name Amor (Love) [Eros], Dolus (Guile) [Apate], Metus (Fear) [Phobos], Labor (Toil) [Ponos], Invidentia (Envy) [Nemesis], Fatum (Fate) [Moros], Senectus (Old Age) [Geras], Mors (Death) [Thanatos], Tenebrae (Darkness) [Keres], Miseria (Misery) [Oizys], Querella (Criticism) [Momos], Gratia (Friendship) [Philotes], Fraus (Fraud) [Apate], Pertinacia (Obstinacy), the Parcae (Fates) [the Moirai], the Hesperides, the Somnia (Dreams) [the Oneiroi] : all of these are fabled to be the children of Erebus (Darkness) and Nox (Night) [Nyx]. Either therefore you must accept these monstrosities or you must discard the first claimants also."
+     <br/>
+     [N.B. The Greek equivalents of the Roman names have been added to the following text in square brackets. Cicero's list mostly follows Hesiod's
+     <em>
+      Theogony
+     </em>
+     , albeit with Latin translations of the word-names].
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 451 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The  Night-Born Sisters (
+     <em>
+      Sorores Genitae Nocte
+     </em>
+     ) [Erinyes], divinities implacable, doom-laden."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 250 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Aeneas sacrificed a black-fleeced lamb to Nox (Night) [Nyx], the mother of the Furiae (Furies) [Erinyes]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 12. 848 ff :
+     </span>
+     <br/>
+     "Two demon fiends there are, called by the name of Furiae (Furies) [Erinyes], whom darkest Nox (Night) [Nyx] brought forth at one and the same birth with hellish Megaera, breeding all three alike with the twining coils of serpents and giving them wings like the wind . . . the spawn of Nox (Night)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 1063 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "O Somnus (Sleep) [Hypnos], vanquisher of woes, rest of the soul, the better part of human life, thou winged son of thy mother Astraea [i.e. Nyx, Night], sluggish brother of cruel Mors (Death) [Thanatos]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 35. 276 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Hypnos (Sleep) had conspired with Hera to put Zeus to sleep so that she could drive her stepson Dionysos mad :] [Zeus] would have imprisoned Hypnos (Sleep) in the darksome pit of gloom [Tartaros] to dwell along with murky Iapetos, but for the prayers of Nyx (Night) the vanquisher of gods and men. So Zeus calmed his savage resentment with difficulty, and cried out to Hera."
+    </p>
+    <hr/>
+    <h3 id="Night">
+     NYX GODDESS OF THE NIGHT
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/N1.2.html">
+      <img alt="Nyx goddess of the night | Athenian red-figure pyxis lid fragment C4th B.C. | Ashmolean Museum, Oxford" class="img-responsive center-block" src="../image/N1.2Nyx.jpg"/>
+     </a>
+     <figcaption>
+      Nyx goddess of the night, Athenian red-figure pyxis lid fragment C4th B.C.,
+      <a href="http://www.ashmolean.org/" target="_blank">
+       Ashmolean Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8. 485 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "And now the shining light of the sun (
+     <em>
+      helios
+     </em>
+     ) was dipped in the Okeanos (Oceanus) trailing black night (
+     <em>
+      nyx
+     </em>
+     ) across the grain-giving land."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 744 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And there [at the ends of the earth, where sky meets earth], all in their order, are the sources and ends of gloomy earth and misty Tartaros (Tartarus) and the unfruitful sea and starry heaven, loathsome and dank, which even the gods abhor . . . There stands the awful home of murky Nyx (Night) wrapped in dark clouds. In front of it the son of Iapetos [Atlas] stands immovably upholding the wide heaven upon his head and unwearying hands, where Nyx (Night) and Hemera (Day) draw near and greet one another as they pass the great threshold of bronze : and while the one is about to go down into the house, the other one comes out the door. And the house never holds them both within; but always one is without the house passing over the earth, while the other stays at home and waits until the time for her journeying come; and the one hold all-seeining light for them on earth, but the other holds in her arms Hypnos (Hypnus, Sleep) the brother of Thanatos (Thanatus, Death), even evil Nyx (Night), wrapped in a vaporous cloud. 
+  And there the children of dark Nyx (Night) have their dwellings, Hypnos (Sleep) and Thanatos (Death) , awful gods. Glowing Helios (the Sun) never looks upon them with his beams, neither as he goes up into heaven nor as he comes down from heaven."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Dirges Fragment 129 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "From the other side [of Elysium] sluggish streams of darksome night belch forth a boundless gloom."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 25 (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Nyx (Night) of the blue-black headband."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragment 931 (from Oxyrhynchus Papyrus) (trans. Campbell) (Greek lyric B.C.) :
+     </span>
+     <br/>
+     "The many-eyed embroidery of blue-black Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragment 1023 (from Berlin Papyrus)  :
+     </span>
+     <br/>
+     "The choir-leaders of the Hesperides (Evenings) driving their two-horse chariot along the path of night to the new turning-point, where Nyx (Night) passes through the light-bringing radiance in the eastern air; and she brings the day's light, flying over the misty wave, a guide for sailors . . ((lacuna)) Gold-flowered Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Agamemnon 355 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The Greeks celebrate the fall of Troy, captured by night using guile :] ‘Hail, sovereign (
+     <em>
+      basileus
+     </em>
+     ) Zeus, and you kindly Night (
+     <em>
+      nyx philia
+     </em>
+     ), you who have given us great glory, you who cast your meshed snare upon the towered walls of Troy.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Libation Bearers 660 ff :
+     </span>
+     <br/>
+     "The car of Nyx (Night) is speeding on with darkness."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 23 ff :
+     </span>
+     <br/>
+     "When spangled-robed (
+     <em>
+      poikileimôn
+     </em>
+     ) night (
+     <em>
+      nyx
+     </em>
+     ) shall veil his [the sun's] brightness."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 33 Heliades (from Athenaeus, Deipnosophists 11. 39. 469F)  :
+      <br/>
+     </span>
+     "In the west, is the bowl wrought by Hephaistos (Hephaestus), the bowl of thy sire [Helios, the Sun], speeding wherein he crosseth the mighty, swelling stream that girdeth earth [i.e. Okeanos (Oceanus)], fleeing the gloom of holy Nyx (Night) of sable steeds." [N.B. At night the sun-god Helios sailed back to his rising place in the east in a golden bowl.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Ion 1150 ff (trans. Vellacott) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "And there was a design woven in the cloth--Ouranos (Uranus, Sky) marshalling the Astra (Stars) in the round sky: Helios (the Sun) in his chariot, driving down to his last blaze, drawing after him Hesperos (the Evening Star); Nyx (Night) in her black cloak driging a single pair; with the Astra (Stars) following behind, the [constellations] Pleiades in mid-course, and Orion the swordsman, while above went Arkturos (Arcturus) waving his golden tail."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Thesmophoriazusae 1075 (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "Oh! thou divine Nyx (Night)! how slowly thy chariot threads its way through the starry vault, across the sacred realms of the Aither (Aether, Upper Air) and mighty Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 1192 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "It was evening. Out in the west, beyond the farthest Aithiopian (Ethiopian) hills, Helios the Sun was sinking under the darkening world; Nyx (Night) was harnessing her team [of horses]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 742 :
+     </span>
+     <br/>
+     "Nyx (Night) threw her shadow on the world."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 627 ff :
+     </span>
+     <br/>
+     "It [the river Rhone of Northern Europe] rises at the world's end, by the gates and courts of Nyx (Night), and flows on in three streams, one of which debouches on the shores of Okeanos (Oceanus), another into the Ionian Sea."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1057 ff :
+     </span>
+     <br/>
+     "Nyx (night) with her gentle ban on man's activities descended on the company. She put the world to sleep."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1170 ff :
+     </span>
+     <br/>
+     "Eos' (Dawn's) celestial beams chased black Nyx (night) from the sky."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 405 ff (trans. Mair) (Greek astronomy C3rd B.C.) :
+     </span>
+     <br/>
+     "The [constellation] Altar even beyond aught else hath ancient Nyx (Night), weeping the woe of men, set to be a mighty sign of storm at sea. For ships in trouble pain her heart, and other signs in other quarters she kindles in sorrow for mariners, storm-buffeted at sea. Wherefore I bid thee pray, when in the open sea, that that constellation wrapt in clouds appear not amidst the others in the heavens, herself unclouded and resplendent but banked above with billowing clouds, as often it is beset when the autumn wind drives them back For often Nyx herself reveals this sign, also, for the South Wind in her kindness to toiling sailors. If they heed her favouring signs . . . Nyx kindles like signs of storm upon the gleaming Altar."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 468 ff :
+     </span>
+     <br/>
+     "On a clear night, when Nyx (Night) in the heavens shows to men all her stars in their brightness and no star is borne faintly gleaming at the mid-month moon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 752 :
+     </span>
+     <br/>
+     "All the stars wheeled aloft by Nyx (Night)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 2. 549 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Thus as she [Eos the Dawn] cried [after the death of her son Memnon], the tears ran down her face immortal, like a river brimming aye: drenched was the dark earth round the corse. Nyx (the Night) grieved in her daughter's [Eos is here identified with Hemera] anguish, and the heaven drew over all his stars a veil of mist and cloud, of love unto Erigeneia (the Lady of Light)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 656 ff :
+     </span>
+     <br/>
+     "Then plunged the sun down into Okeanos' (Oceanus') stream, and sable-vestured Nyx (Night) came floating up o'er the wide firmament, and brought her boon of sleep to sorrowing mortals."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 435 ff :
+     </span>
+     <br/>
+     "Nyx (Night) rose from broad Okeanos (Oceanus), flooding all the earth with darkness bringing men release from toil."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 12. 417 ff :
+     </span>
+     <br/>
+     "Rose Eos (the dawn), and thrust back kindly Nyx (Night) to Erebos (Netherworld Darkness)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 14. 1 ff :
+     </span>
+     <br/>
+     "Then rose from Okeanos (Oceanus) Eos (Dawn) the golden-throned up to the heavens; Nyx (Night) into Khaos (Chaos) sank."
+    </p>
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/T17.3.html">
+      <img alt="Nyx, Hemera-Heos and Helius | Athenian black-figure lekythos C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T17.3Helios.jpg"/>
+     </a>
+     <figcaption>
+      Nyx, Hemera-Heos and Helius, Athenian black-figure lekythos C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 11 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the fall of Phaethon :] In his passion for driving this son of Helios (the Sun) [Phaethon] ventured to mount his father's chariot, but because he did not keep a firm rein he came to grief and fell into the Eridanos (Eridanus) . . . Look! Nyx (Night) is driving Hemera (Day) from the noonday sky, and the sun's orb as it plunges toward the earth draws in its train the Astera (Stars). The Horai (Horae, Hours) abandon their posts at the gates and flee toward the gloom that rises to meet them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 7  :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the funeral of Memnon :] 
+  As for the deities of the sky (
+     <em>
+      daimones meteôroi
+     </em>
+     ), Eos (the Dawn) mourning over her son [Memnon] causes Helios (the Sun) to be downcast and begs Nyx (Night) to come prematurely and check the hostile army, that she may be able to steal away her son, no doubt with the consent of Zeus. And look! Memnon has been stolen away and is at the edge of the painting."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 5 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting of the infant Herakles wrestling with the serpents :] Nyx (Night) also, the time in which these events take place, is represented in human form she is shedding a light upon herself with a torch that the exploit of the child may not lack a witness."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 3 to Nyx (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Nyx (Night), Fumigation with Torches. Nyx, parent goddess, source of sweet repose from whom at first both Gods and men arose. Hear, blessed Kypris (Cypris) [Aphrodite], decked with starry light, in sleep's deep silence dwelling ebon night! Dreams (Oneiroi) and soft ease attend thy dusky train, pleased with the lengthened gloom and feastful strain, dissolving anxious care, the friend of mirth, with darkling coursers riding round the earth. Goddess of phantoms and of shadowy play, whose drowsy power divides the natural day; by fate's decree you constant send the light to deepest hell, remote from mortal sight; for dire necessity (
+     <em>
+      ananke
+     </em>
+     ), which nought withstands, invests the world with adamantine bands. Be present, Goddess, to thy suppliant's prayer, desired by all, whom all alike revere, blessed, benevolent, with friendly aid dispel the fears of twilight's dreadful shade."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 142 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Dewy Nox (Night) upon the Hesperian shore has reached her goal [departing from the sky as dawn breaks]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 11. 602 ff :
+     </span>
+     <br/>
+     "Near the Cimmerii a cavern lies deep in the hollow of a mountainside, the home and sanctuary of lazy Somnus (Sleep) [Hypnos], where Phoebus' [Helios the Sun's] beams can never reach at morn or noon or eve, but cloudy vapours rise in doubtful twilight . . . there silence dwells: only the lazy stream of Lethe (Forgetfulness) 'neath the rock with whisper low o'er pebbly shallows trickling lulls to sleep. Before the cavern's mouth lush poppies grow and countless herbs, from whose bland essences a drowsy infusion dewy Nox (Night) [Nyx] distils and sprinkles sleep across the darkening world."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 4. 661 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Nox (Night) [Nyx] approaches: a garland of poppies binds her peaceful brow, black Somnia (Dreams) [Oneiroi] trail her."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 1. 455 ff :
+     </span>
+     <br/>
+     "At night the goddess Nox (Night) [Nyx] has the crested bird [the rooster] slain for awakening the warm day with its cry."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 125 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Now [at dawn] stars shine few and faint in the sinking sky; vanquished Nox (Night) [Nyx] draws in her wandering fires as the new day is born, and Phosphorus [Eosphoros, the star Venus] brings up the rear of the shining host."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 3. 210 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Witnessing Nox (Night) [Nyx] pauses in her lagging car."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 6. 752 :
+     </span>
+     <br/>
+     "Welcome Nox (Night) brings on the star-heralding shadows."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 7. 392 ff :
+     </span>
+     <br/>
+     "The Colchian [Medea] began to move through the dark night with sound of magic spells . . . Nox (Night) herself, aghast, wheels her dense shade more slowly."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 97 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Dies (Day) [here equated with Helios the Sun] felt her presence [an Erinys summoned up from Haides], Nox (Night) interposed her pitchy cloud and startled his shining steeds."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 2. 59 :
+     </span>
+     <br/>
+     "Sopor (Sleep) [Hypnos], driving Nox's (Night's) coursers."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 2. 527 ff :
+     </span>
+     <br/>
+     "Nox (Night) had begun to shroud the sunlight in her dewy pall, and had cast over the earth her dark shadow."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 33 ff :
+     </span>
+     <br/>
+     "Beneath the western reign of Nox (Night), her course already turned, and the setting stars, so soon as mighty Tethys had driven forth tardy Hyperion [Helios the Sun] from the Eastern sea."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 406 ff :
+     </span>
+     <br/>
+     "Nox (Night) came on, and laid to rest the cares of men and the prowlings of wild beasts, and wrapped the heavens in her dusky shroud, coming to all with kindly influence."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 497 ff :
+     </span>
+     <br/>
+     "O Nox (Night) who castest thy mantle over the toiling earth and heaven, and sendest the fiery stars on their divers roaming courses, gracious refresher of the mind, till the next sun shed blithe upspringing upon faint mortality, thou, kindly Nox . . . Ever shall this house throughout the circling periods of the year hold thee high in honour and in worship; black bulls of chosen beauty shall pay thee sacrifice, O goddess! And Vulcanus' [Hephaistos'] fire shall eat the lustral entrails, where-o'er the new milk streams."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 319 ff (trans. Mair) (Greek poetry C5th - C6th A.D.) :
+     </span>
+     <br/>
+     "And Nyx (Night), respite from labour after the journey of the sun, lightened sleep and brought the beginning of wandering morn; and opened the two gates of Dreams (Oneiroi)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 163 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Phaethon [Helios the Sun] had left the rounded sky, and turned his car towards setting: silent Nyx (Night) leapt up from earth into the air like a high-stretching cone, and wrapped heaven about in a starry robe spangling the welkin."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 280 ff :
+     </span>
+     <br/>
+     "[Zeus] resolved to mount Semele's nightly couch, and turned his eye to the west, to see when sweet Hesperos would come . . . : ‘Tell me, Laggard Nyx (Night), when is envious Eos (Dawn) to set? It is time now for you to lift your torch and lead Zeus to his love--come now, foreshow the illumination of night-ranging Lyaios (Lyaeus) [Dionysos]!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 18. 160 ff :
+     </span>
+     <br/>
+     "Silent Nyx (Night) shrouded the west in her own colour, and scored the sky across with her own starry cloak."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 25. 570 :
+     </span>
+     <br/>
+     "Quiet Nyx (Night) covered all the earth in her dark shades."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/N1.1.html">
+      <img alt="Nyx, Hesperus and Selene | Athenian red-figure krater C4th B.C. | State Hermitage Museum, Saint Petersburg" class="img-responsive center-block" src="../image/N1.1Nyx.jpg"/>
+     </a>
+     <figcaption>
+      Nyx, Hesperus and Selene,  Athenian red-figure krater C4th B.C.,
+      <a href="https://www.hermitagemuseum.org/" target="_blank">
+       State Hermitage Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h3 id="Witchcraft">
+     NYX INVOKED IN WITCHCRAFT
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 192 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "When she [Luna-Selene the Moon] shone in fullest radiance . . . [the witch] Medea . . . went forth alone upon her roaming way, in the deep stillness of the midnight hour . . . Then to the stars she stretched her arms, and thrice she turned about and thrice bedewed her locks with water, thrice a wailing cry she gave, then kneeling on the stony ground, ‘O Nox (Night) [Nyx], Mother of Mysteries, and all ye golden Astra (Stars) . . . and thou, divine three-formed Hecate . . . and thou, kindly Tellus (Earth) [Gaia], who dost for magic potent herbs provide . . . and Gods of Night (
+     <em>
+      Di Omnes Noctis
+     </em>
+     ), be with me now! By your enabling power, at my behest . . . the deep earth groan and ghosts rise from their tombs. Thee too, bright Luna (Moon) [Selene], I banish, though thy throes the clanging bronze assuage; under my spells even my grandsire's [Sol-Helios the Sun's] chariot grows pale and Aurora (Dawn) [Eos] pales before my poison's power.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 403 ff :
+     </span>
+     <br/>
+     "She [the witch Kirke (Circe)] sprinkled round about her evil drugs and poisonous essences, and out of Erebos and Chaos called Nox (Night) and the Gods of Night (
+     <em>
+      Di Nocti
+     </em>
+     ) and poured a prayer with long-drawn wailing cries to Hecate. The woods (wonder of wonders!) leapt away, a groan came from the ground, the bushes blanched, the spattered sward was soaked with gouts of blood, stones brayed and bellowed, dogs began to bark, black snakes swarmed on the soil and ghostly shapes of silent spirits floated through the air."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 5. 396 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Medea] turned her steps to her native stream [the River Phasis], and begins her fruitless sacrifice to terror-bringing Nox (Night)."
+    </p>
+    <hr size="1"/>
+    <h3 id="Cult">
+     CULT OF NYX
+    </h3>
+    <h4>
+     I. MEGARA Chief City of Megaris (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 40. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "When you have ascended the citadel [of Megara], which even at the present day is called Karia (Caria) from Kar (Car), son of Phoroneus, you see a temple of Dionysos Nyktelios (Nyctelius, Nocturnal), a sanctuary built to Aphrodite Epistrophia (She who turns men to love), an oracle called that of Nyx (Night) and a temple of Zeus Konios (Cronius, Dusty) without a roof. The image of Asklepius (Asclepius) and also that of Hygeia (Health) were made by Bryaxis. Here too is what is called the Chamber of Demeter, built, they say, by Kar when he was king."
+    </p>
+    <h4>
+     II. ROME Capital City of the Empire (Central Italy)
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 421 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "May 9 Lemuria Nefastus. You ancient rite will be performed, Nox (Night) Lemuria; here will be offerings to the mute dead."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 497 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "O Nox (Night) . . . Ever shall this house throughout the circling periods of the year hold thee high in honour and in worship; black bulls of chosen beauty shall pay thee sacrifice [black animals were sacrificed to the chthonic gods], O goddess! And Vulcanus' [Hephaistos'] fire shall eat the lustral entrails, where-o'er the new milk streams."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N1.3.html">
+        <img alt="Thumbnail Chariot of Nyx" src="../image/thumbN1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N1.3 Chariot of Nyx
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T17.3.html">
+        <img alt="Thumbnail Nyx, Eos-Hemera, Helius" src="../image/thumbT17.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T17.3 Nyx, Eos-Hemera, Helius
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T19.13.html">
+        <img alt="Thumbnail Nyx &amp; Eos" src="../image/thumbT19.13B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T19.13 Nyx &amp; Eos
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N1.1.html">
+        <img alt="Thumbnail Nyx, Selene, Hesperus" src="../image/thumbN1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N1.1 Nyx, Selene, Hesperus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N1.2.html">
+        <img alt="Thumbnail Winged Nyx" src="../image/thumbN1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N1.2 Winged Nyx
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Libation Bearers
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Ion
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Birds
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Thesmophoriazusae
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/AratusPhaenomena.html">
+       Aratus, Phaenomena
+      </a>
+      <span class="sources-detail">
+       - Greek Astronomy C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Orphica, Fragments
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     NYX SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS NYX
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Chaos (no father)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Husband
+       </th>
+       <td>
+        Erebus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddess of
+       </th>
+       <td>
+        The night
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Erebus and sky
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Hypnus, Oneiroi, Astra, Hesperus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Nox
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     NYX PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Nyx
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Cosmogony">
+       Nyx &amp; the Birth of the Cosmos
+      </a>
+     </li>
+     <li>
+      <a href="#Mother">
+       Nyx Mother of Gods &amp; Daemones
+      </a>
+     </li>
+     <li>
+      <a href="#Night">
+       Nyx Goddess of the Night
+      </a>
+     </li>
+     <li>
+      <a href="#Witchcraft">
+       Nyx Invoked in Witchcraft
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Cult of Nyx
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

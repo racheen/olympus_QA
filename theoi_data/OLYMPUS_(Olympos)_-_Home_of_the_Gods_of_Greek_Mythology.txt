@@ -1,0 +1,1735 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   OLYMPUS (Olympos) - Home of the Gods of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Mount Olympus was the home of the gods who dwelt in fabulous palaces of marble and gold. Olympus is clearly described in Homer's Iliad. It was essentially an ancient acropolis--a fortified hill-top and palace complex--located just below the peaks of Mount Olympus. The golden gates of the heavenly fortress were guarded by the three Horae and it contained the palace of Zeus, lesser palaces for the other gods, and stables for the immortal horses. The buildings were built of stone with bronze foundations and were surrounded by cloistered courtyards with golden pavements." name="description"/>
+  <meta content="Olympus, Olympos, Mount Olympus, Greek mythology, mythic realm, home of the gods" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     Mythic Realms &gt;&gt; Olympus (Olympos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     OLYMPOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ολυμπος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Olympos
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Olympus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       (Mount) Olympus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/O24.9.html">
+      <img alt="Feast of the gods on Olympus | Athenian red-figure kylix C6th B.C. | National Archaeological Museum of Tarquinia" class="img-responsive center-block" src="../image/O24.9Ganymedes.jpg"/>
+     </a>
+     <figcaption>
+      Feast of the gods on Olympus, Athenian red-figure kylix C6th B.C.,
+      <a href="http://www.tarquinia-cerveteri.it/" target="_blank">
+       National Archaeological Museum of Tarquinia
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     OLYMPOS (Olympus) was the home of the gods who dwelt in fabulous palaces of marble and gold.
+    </p>
+    <p>
+     Olympos  is clearly described in Homer's
+     <em>
+      Iliad
+     </em>
+     . It was essentially an ancient
+     <em>
+      akropolis
+     </em>
+     --a  fortified hill-top and palace complex--located just below the peaks of Mount Olympos. The golden gates of the heavenly fortress were  guarded by the three
+     <a href="../Ouranios/Horai.html">
+      Horai (Horae)
+     </a>
+     and it contained the palace of Zeus,  lesser palaces for the other gods, and  stables for the
+     <a href="../Ther/Hippoi.html">
+      immortal horses
+     </a>
+     . The buildings were built of stone with bronze foundations and were surrounded by cloistered courtyards with golden pavements.
+     <br/>
+     The main structure was the palace of Zeus. It had a fairly simple layout--as was typical of ancient Greek palaces--with a central hall, private bedchambers and storage rooms. The golden-floored hall served as both a council chamber and feast-hall for the Olympian gods and provided them an expansive view of the world below allowing them to observe mankind from the heights. The golden tables and tripods of the feast were
+     <a href="../Ther/Automotones.html">
+      automatons
+     </a>
+     animated by the divine smith Hephaistos (Hephaestus), and trundled in and out of the hall as required.
+     <br/>
+     Before the palace of Zeus was a large, cloistered courtyard where the full assembly of the gods would gather--including all  of the earth-, river- and sea-deities as well as nymphs.
+     <br/>
+     The peak of Olympos functioned as the secondary seat or throne of Zeus, apart from the rest of other gods.
+     <br/>
+     The Olympian akropolis lay above the clouds and the paths of the stars, near the apex of the solid bronze-dome of the sky. It existed in the zone known as the aither--the bright upper-air of heaven or shining blue of the sky. The gods feasted on ambrosia and nectar, substances collected from the meadows of the earth-encircling river Okeanos or the smoke of sacrificial offerings wafting to heaven.
+    </p>
+    <p>
+     N.B. This page is still incomplete and under construction. The quotes from the
+     <em>
+      Iliad
+     </em>
+     are complete.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAME SPELLING
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ουλυμπος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Oulympos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Ulympus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       (Mount) Olympus
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3>
+     OLYMPUS IN THE ILIAD
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 1. 43 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "So he [the Trojan priest Khryseus (Chryseus)] spoke in prayer, and Phoibos (Phoebus) Apollon heard him, and strode down along the pinnacles of Olympos, angered in his heart, carrying across his shoulders the bow and the hooded quiver."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 1. 221 ff :
+     </span>
+     <br/>
+     "And she [Athena] went back again to Olympos to the house of Zeus of the aigis with the other divinities (
+     <em>
+      daimones
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 1. 390 ff :
+     </span>
+     <br/>
+     "[Akhilleus (Achilles) beseeches his mother Thetis :] ‘You then, if you have power to, protect your own son, going to Olympos and supplicating Zeus, if ever before now either by word you comforted Zeus' heart or by action . . . You said you only among the immortals beat aside shameful destruction from Kronos' son the dark-misted, that time when all the other Olympians sought to bind him, Hera and Poseidon and Pallas Athene. Then you, goddess, went and set him free from his shackles, summoning in speed the creature of the hundred hands [the Hekatonkheir Briareus] to tall Olympos . . . He rejoicing in the glory of it sat down by Kronion (Cronion), and the rest of the blessed gods were frightened and gave up binding him. Sit beside him and take his knees and remind him of these things now . . .’
+     <br/>
+     Thetis answered him then . . . ‘I will go to cloud-dark Olympos and ask this thing of Zeus who delights in thunder (
+     <em>
+      terpikeraunos
+     </em>
+     ) . . . Zeus went to the blameless Aithiopes (Ethiopians) at the Okeanos (Oceanus) yesterday to feast, and the rest of the gods went with him. On the twelfth day he will be coming back to Olympos, and then I will go for your sake to the house of Zeus, bronze-founded, and take him by the knees and I think I can persuade him.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 1. 493 ff :
+     </span>
+     <br/>
+     "But when the twelfth dawn after this day appeared, the gods who live forever came back to Olympos all in a body and Zeus led them; nor did Thetis forget the entreaties of her son [Akhilleus (Achilles)], but she emerged from the sea's waves early in the morning and went up to the tall sky and Olympos. She found Kronos' (Cronus') broad-browed son (
+     <em>
+      euryopa Kronides
+     </em>
+     ) apart from the others sitting upon the highest peak of rugged Olympos. She came and sat beside him with her left hand embracing his knees, but took him underneath the chin with her right hand and spoke in supplication to lord Zeus son of Kronos : ‘Father Zeus . . . Zeus of the counsels, lord of Olympos . . .’
+     <br/>
+     . . . He [Zeus] spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken.
+     <br/>
+     So these two who had made their plans separated, and Thetis leapt down again from shining Olympos into the sea's depth, but Zeus went back to his own house, and all the gods rose up from their chairs to greet the coming of their father, not one had courage to keep his place as the father advanced, but stood up to greet him. Thus he took his place on the throne; yet Hera was not ignorant, having seen how he had been plotting counsels with Thetis the silver-footed, the daughter of the sea's ancient, and at once she spoke revilingly to Zeus the son Kronos . . .
+     <br/>
+     He [Zeus] spoke [reprimanding her], and the goddess the ox-eyed lady Hera was frightened and went and sat down in silence wrenching her heart to obedience, and all the Ouranian (Heavenly) gods in the house of Zeus were troubled. Hephaistos (Hephaestus) . . . springing to his feet put a two-handled goblet into his mother's hands and spoke again to her once more : ‘. . . It is too hard to fight against the Olympian. There was a time once before now I was minded to help you, and he caught me by the foot and threw me from the magic threshold, and all day long I dropped helpless, and about sunset I landed in Lemnos, and there was not much life left in me. After that fall it was the Sintian men who took care of me.’
+     <br/>
+     He spoke, and the goddess of the white arms Hera smiled at him, and smiling she accepted the goblet out of her son's hand. Thereafter beginning fro the left he poured drinks for the other gods, dipping up from the mixing bowl the sweet nectar. But among the blessed immortals uncontrollable laughter went up as they saw Hephaistos bustling about the palace.  Thus thereafter the whole day long until the sun went under they feasted, nor was anyone's hunger denied a fair portion, nor denied the beautifully wrought lyre in the hands of Apollon nor the antiphonal sweet sound of the Mousai (Muses) singing.
+     <br/>
+     Afterwards when the light of the flaming sun went under they went away each one to sleep in his home where for each one the far-renowned strong-handed Hephaistos had built a house by means of his craftsmanship and cunning. Zeus the Olympian and lord of the lightning went to his own bed, where always he lay when sweet sleep came on him. Going up the bed he slept and Hera of the gold throne
+     <em>
+      (khrysothronos
+     </em>
+     ) beside him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 1 ff :
+     </span>
+     <br/>
+     "Now the rest of the gods, and men who were lords of chariots, slept night long, but the ease of sleep came not upon Zeus who was pondering in his heart how he might bring honour to Akhilleus (Achilles) . . . He cried out to the dream and addressed him in winged words : ‘Go forth, evil Dream . . .  no longer are the gods who live on Olympos arguing the matter, since Hera forced them all over by her supplication.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 48 ff :
+     </span>
+     <br/>
+     "Now the goddess Eos (Dawn) drew close to tall Olympos with her message of light to Zeus and the other immortals."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 166 ff :
+     </span>
+     <br/>
+     "Nor did the goddess grey-eyed Athene disobey her [Hera], but went in speed down the peaks of Olympos, and lightly she arrived beside the fast ships of the Akhaians (Achaeans)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 412 ff :
+     </span>
+     <br/>
+     "Powerful Agamemnon spoke in prayer : ‘Zeus, exalted and mightiest, sky-dwelling (
+     <em>
+      aither
+     </em>
+     ) in the dark mist (
+     <em>
+      kelainephes
+     </em>
+     ) . . .’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 447 ff :
+     </span>
+     <br/>
+     "From the magnificent bronze the gleam went dazzling all about through the upper air (
+     <em>
+      aither
+     </em>
+     ) to the heaven (
+     <em>
+      ouranos
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 484 ff :
+     </span>
+     <br/>
+     "You Mousai (Muses) who have your homes on Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 4. 1 ff :
+     </span>
+     <br/>
+     "Now the gods at the side of Zeus were sitting in council over the golden floor, and among them the goddess Hebe poured them nectar as wine, while they in the golden drinking-cups drank to each other, gazing down on the city of the Trojans. Presently the son of Kronos (Cronus) was minded to anger Hera, if he could, with words offensive, speaking to cross her . . . So he spoke; and Athene and Hera muttered, since they were sitting close to each other, devising evil for the Trojans."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 3. 407 ff :
+     </span>
+     <br/>
+     "[Helene rebukes the goddess Aphrodite :] ‘Abandon the gods'way, turn your feet back never again to the path of Olympos.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 4. 75 ff :
+     </span>
+     <br/>
+     "Speaking so he [Zeus] stirred up Athene, who was eager before this, and she went in a flash of speed down the pinnacles of Olympos. As when the son of devious-devising Kronos (Cronus) casts down a star, portent to sailors or to widespread armies of peoples glittering, and thickly the sparks of fire break from it, in such a likeness Pallas Athene swept flashing earthward and plunged between the two hosts [of Greeks and Trojans]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 355 ff :
+     </span>
+     <br/>
+     "There to the left of the fighting [at Troy] she [the wounded goddess Aphrodite] found Ares the violent sitting . . . Dropping on one knee before her beloved brother in deep supplication she asked for his gold-bridled horses : ‘Beloved brother, rescue me and give me your horses so I may come to Olympos where is the place (
+     <em>
+      hedos
+     </em>
+     ) of the immortals. I am in too much pain from the wound of a mortal's spear-stroke, Tydeus' son's, who would fight now even against Zeus father.’
+     <br/>
+     So she spoke, and Ares gave her the gold-bridled horses, and, still grieved in the inward heart, she mounted he chariot and beside her entering Iris gathered the reins up and whipped them into a run, and they winged their way unreluctant.
+     <br/>
+     Now as they came to sheer Olympos, the place of the immortals, there swift Iris the wind-footed reined in her horses and slipped them from the yoke and threw fodder immortal before them, and now bright Aphrodite fell at the knees of her mother, Dione."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 398 ff :
+     </span>
+     <br/>
+     "[Dione addresses Aphrodite :] ‘Many of us who have our homes on Olympos endure things from men, when ourselves we inflict hard pain on each other . . .  Aides (Hades) the gigantic had to endure with the rest the flying arrow when this self-same man [Herakles], the son of Zeus of the aigis, struck him among the dead men at Pylos, and gave him to agony; but he went up to the house of Zeus and to tall Olympos heavy at heart, stabbed through and through with pain, for the arrow was driven into his heavy shoulder, and his spirit was suffering. But Paiëon, scattering medicines that still pain, healed him, since he was not made to be one of the mortals. Brute, heavy-handed, who thought nothing of the bad he was doing, who with his archery hurt the gods that dwell on Olympos!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 709 ff :
+     </span>
+     <br/>
+     "Now as the goddess Hera of the white arms [seated on Olympos] perceived how the Argives were perishing in the strong encounter [with the Trojans led by the god Ares], immediately she spoke to Pallas Athene . . . [and urged they travel to Troy to aid the Greeks.]
+     <br/>
+     So she spoke, nor did the goddess grey eyed Athene disobey her. But Hera, high goddess, daughter of Kronos (Cronus) the mighty, went away to harness the gold-bridled horses. Then Hebe in speed set about the chariot the curved wheels eight-spoked and brazen, with an axle of iron both ways. Golden is the wheel's felly imperishable, and outside it is joined, a wonder to look upon, the brazen running-rim, and the silver naves revolve on either side of the chariot, whereas the car itself is lashed fast with plaiting of gold and silver, with double chariot rails that circle about it, and the pole of he chariot is silver, to whose extremity Hebe made fast the golden and splendid yoke, and fastened the harness, golden and splendid, and underneath the yoke Hera, furious for hate and battle, led the swift-running horses.
+     <br/>
+     Now in turn Athene, daughter of Zeus of the aigis, beside the threshold of her father slipped off her elaborate dress which she herself had wrought with her hands' patience, and now assuming the war tunic of Zeus who gathers the clouds . . . She set her feet in the blazing chariot and took up a spear heavy, huge, thick, wherewith she beats down the battalions of fighting men, against whom she of the mighty father is angered.
+     <br/>
+     Hera laid the lash swifty on the horses; and moving of themselves groaned the gates of he sky that the Horai (Horae, Hours) guarded, those Horai to whose charge is give the huge sky and Olympos, to open up the dense darkness or again to close it. Through the way between they held the speed of their goaded horses. They found [Zeus] the son of Kronos (Cronus) sitting apart from the other gods, upon the highest peak of rugged Olympos. There the goddess of the white arms, Hera, stopping her horses, spoke to Zeus, high son of Kronos, and asked him a question : ‘Father Zeus, are you not angry with Ares for his violent acts . . .?’
+     <br/>
+     Then in turn the father of gods and men made answer : ‘Go to it then, and set against him the spoiler Athene, who beyond all others is the one to visit harsh pains upon him.’
+     <br/>
+     So he spoke, nor did the goddess of the white arms, Hera, disobey, but lashed on the horses, and they winged their way unreluctant through the space between the earth and the starry heaven. As far as into the hazing distance a man can see with his eyes, who sits in his eyrie gazing on the wine-blue water, as far as this is the stride of the gods' proud neighing horses."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 855 ff :
+     </span>
+     <br/>
+     "Then Ares the brazen [wounded by Diomedes and the goddess Athena at Troy] bellowed with a sound as great as nine thousand men make, or ten thousand . . .  As when out of the thunderhead the air shows darkening after a day's heat when the stormy wind uprises, thus to Tydeus' son Diomedes Ares the brazen showed as he went up with the clouds into the wide heaven. Lightly he came to the gods' citadel, headlong Olympos, and sat down beside Zeus Kronion (Cronion), grieving in his spirit, and showed him the immortal blood dripping from the spear cut."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 907 ff :
+     </span>
+     <br/>
+     "Meanwhile, the two [goddesses] went back again to the house of great Zeus, Hera of Argos, with Athene who stands by her people, after they stopped the murderous work of manslaughtering Ares."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  7.17 ff :
+     </span>
+     <br/>
+     "Now as the goddess grey-eyed Athene [on Olympos] was aware of these two [the Trojan princes Hektor (Hector) and Paris] destroying the men of Argos in the strong encounter, she went down in a flash of speed from the peaks of Olympos to sacred Ilion [Troy], where Apollon stirred forth to meet her from his seat on Pergamos, where he planned that the Trojans should conquer. These two then encountered each other beside the oak tree, and speaking first the son of Zeus, lord Apollon, addressed her : ‘What can be your desire this time, o daughter of great Zeus, that you came down from Olympos at the urge of your mighty spirit? To give the Danaans victory in battle, turning it back? . . .’
+     <br/>
+     Then in answer the goddess grey-eyed Athene spoke to him : ‘Worker from afar, thus let it be. These were my thoughts also as I came down from Olympos among the Akhaians (Achaeans) and Trojans.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 7.443 ff :
+     </span>
+     <br/>
+     "The flowing-haired Akhaians (Achaeans) laboured [building a defensive fortification around their ships], and meanwhile the gods in session [on Olympos] at the side of Zeus who handles the lightning watched the huge endeavour of the bronze-armoured Akhaians; and the god Poseidon who shakes the earth (Ennosikhthon) began speaking among them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  8.1 ff :
+     </span>
+     <br/>
+     "Now Eos (Dawn) the yellow-robed scattered over all the earth. Zeus who joys in the thunder made an assembly of all the immortals upon the highest peak of rugged Olympos. There he spoke to them himself, and the other divinities listened : ‘Hear me, all you gods and all you goddesses: hear me while I speak forth what the heart within my breast urges. Now let no female divinity, nor male god either, presume to cut across the way of my word, but consent to it all of you, so that I can make an end in speed of these matters. And any one I perceive against the gods' will attempting to go among the Trojans and help them, or among the Danaans, he shall go whipped against his dignity back to Olympos; or I shall take him and dash him down to the murk of Tartaros, far below, where the uttermost depth of the pit lies under earth, where there are gates of iron and a brazen doorstone, as far beneath the house of Aides (Hades) as from earth the sky lies. Then he will see how far I am strongest of all the immortals. Come, you gods, make this endeavour, that you all may learn this. Let down out of the sky a cord of gold; lay hold of it all you who are gods and all who are goddesses, yet not even so can you drag down Zeus from the sky to the ground, not Zeus the high lord of counsel, though you try until you grow weary. Yet whenever I might strongly be minded to pull you, I could drag you up, earth and all and sea and all with you, then fetch the golden rope about the horn of Olympos and make it fast, so that all once more should dangle in mid air. So much stronger am I than the gods, and stronger than mortals.’
+     <br/>
+     So he spoke, and all of them stayed stricken to silence, stunned at his word, for indeed he had spoken to them very strongly."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8.198 ff :
+     </span>
+     <br/>
+     "So he [Hektor] spoke, boasting [that he would slay Diomedes and Nestor who were routed in battle by the lightning-bolt of Zeus], and the lady Hera was angry, and started upon her throne, and tall Olympos was shaken, and she spoke straight out to the great god Poseidon . . ."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8.341 &amp; 8.361 ff :
+     </span>
+     <br/>
+     "Hektor (Hector) followed close on the heels of the flowing-haired Akhaians (Achaeans), killing ever the last of the men . . . 
+  Now seeing them the goddess of the white arms, Hera [on Olympos], took pity and immediately she spoke to Pallas Athene her winged words . . .
+     <br/>
+     Then in turn the goddess grey-eyed Athene answered her : ‘. . . So then : do you put under their harness our single-foot horses while I go back into the house of Zeus, the lord of the aigis, and arm me in my weapons of war . . .’
+     <br/>
+     She spoke, nor failed to persuade the goddess Hera of the white arms. And she, Hera, exalted goddess, daughter of Kronos (Cronus) the mighty, went away to harness the gold-bridle horses. Now in turn Athene, daughter of Zeus of the aigis, beside the threshold of her father slipped off her elaborate dress which she herself had wrought with her hands' patience, and now assuming the war tunic of Zeus who gathers the clouds, she armed herself in her gear for the dismal fighting. She set her feet in the blazing chariot, and took up a spear, heavy, huge, thick, wherewith she beats down the battalions of fighting men, against whom she of the mighty father is angered. Hera laid the lash swiftly on the horses; and moving of themselves groaned the gates of the sky that the Horai (Horae, Hours) guarded, those Horai to whose charge is given the huge sky and Olympos to open up the dense darkness or again to close it. Through the way between they held the speed of their goaded horses."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8.409 :
+     </span>
+     <br/>
+     "He [Zeus] spoke, and Iris, storm-footed, rose with his message and took her way from the peaks of Ida to tall Olympos, and at the utmost gates of many-folded Olympos met and stayed them [Hera and Athene], and spoke the word that Zeus had given her : ‘Where so furious? Hoe can your hearts so storm within you? The son of Kronos (Cronus) will not let you stand by the Argives. Since Zeus has uttered this threat and will make it a thing accomplished: that he will lame beneath the harness your fast-running horses, and hurl yourselves from the driver's place, and smash your chariot; and not in the circle of ten returning years would you be whole of the wounds where the stroke of the lightning this you; so that you may know, grey-eyed goddess, when it is your father you fight with . . .’
+     <br/>
+     So Iris the swift-footed spoke and went away from them, and now Hera spoke a word to Pallas Athene : ‘Alas, daughter of Zeus of the aigis : I can no longer let us fight in the face of Zeus for the sake of mortals. Let one of them perish then, let another live, as their fortune wills; let him, as is his right and as his heart pleases, work out whatever decrees he will on Danaans and Trojans.’
+     <br/>
+     So she spoke, and turned back again her single-foot horses, and the Horai (Hours) set free their flowing-maned horses from the harness, and tethered them at their mangers that were piled with ambrosia and leaned the chariot against the shining inward wall. Meanwhile the goddesses themselves took their place on the golden couches among the other immortals, their hearts deep grieving within them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8.438 ff :
+     </span>
+     <br/>
+     "Now father Zeus steered back from Ida his strong-wheeled chariot and horses to Olympos, and came among the gods' sessions, while for him the famed shaker of the earth [Poseidon] set free his horses, and put the chariot on its stand, with a cloth spread over it. Then Zeus himself of the wide brows took his place on the golden throne, as underneath his feet tall Olympos was shaken. These two alone, Hera and Athene, stayed seated apart aside from Zeus, and would not speak to him, nor ask him a question; but he knew the whole matter within his heart, and spoke to them : ‘Why then are you two sorrowful, Athene and Hera? Surely in the battle where men win glory you were not wearied out, destroying those Trojans on whom you have set your grim wrath. In the whole account, such is my strength and my hand so invincible, not all the gods who are on Olympos could turn me backward, but before this the trembling took hold of your shining bodies, before you could look upon the fighting and war's work of sorrow for I will say straight out, and it would now be a thing accomplished: once hit in your car by the lightning stroke you could never have come back to Olympos, where is the place of the immortals.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  11.72 ff :
+     </span>
+     <br/>
+     "The pressure held their heads on a line [the Greek soliders], and they whirled and fought like wolves, and Eris (Hate), the Lady of Sorrow, was gladdened to watch them. She alone of all the immortals (
+     <em>
+      theoi
+     </em>
+     ) attended this action but the other immortals were not there, but sat quietly remote and apart in their palaces (
+     <em>
+      dômata
+     </em>
+     ), where for each one of them a house had been built in splendour along the folds of Olympos. All were blaming the son of Kronos, Zeus of the dark mists, because his will was to give glory to the Trojans. To these gods the father gave no attention at all, but withdrawn from them and rejoicing in the pride of his strength sat apart from the others looking out over the city of Troy and the ships of the Akhaians (Achaeans), watching the flash of bronze, and men killing and men killed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  11.218 :
+     </span>
+     <br/>
+     "You Mousai (Muses) who have your homes (
+     <em>
+      dômata
+     </em>
+     ) on Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 13.242 :
+     </span>
+     <br/>
+     "As a thunderbolt, which [Zeus] the son of Kronos (Cronus) catching up in his hand shakes from the shining edge of Olympos, flashes as a portent to men and the bright glints shine from it."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 13.521 :
+     </span>
+     <br/>
+     "[Ares] sheltered under the golden clouds on utmost Olympos, was sitting, held fast by command of Zeus, where the rest of the immortal gods were sitting still, in restraint from battle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14.153 &amp; 14.225 ff :
+     </span>
+     <br/>
+     "Now Hera, she of the golden throne (
+     <em>
+      khrysothronos
+     </em>
+     ), standing on Olympos' horn, looked out with her eyes, and saw at once how Poseidon, who was her very brother and her lord's brother, was bustling about the battle where men win glory, and her heart was happy. Then she saw Zeus, sitting along the loftiest summit on Ida of the springs, and in her eyes he was hateful. And now the lady ox-eyed Hera was divided in purpose as to who she could beguile the brain of Zeus of the aigis. And to her mind this thing appeared to the best counsel, to array herself in loveliness, and go down to Ida, and perhaps he might be taken with desire to lie in love with her next her skin, and she might be taken with desire to lie in love with her next her skin, and she might be able to drift an innocent warm sleep across his eyelids, and seal his crafty perceptions. She went into her chamber, which her beloved son Hephaistos had built for her, and closed the leaves in the door-posts snugly with a secret door-bar, and no other of the gods could open it. There entering she drew shut the leaves of the shining door, then first from her adorable body washed away all stains with ambrosia, and next anointed herself with ambrosial sweet olive oil, which stood there in its fragrance beside her, and from which, stirred in the house of Zeus by the golden pavement, a fragrance was shaken forever forth, on earth and in heaven. When with this he had anointed her delicate body and combed her hair, next with her hands she arranged her shining and lovely and ambrosial curls along her immortal head, and dressed in an ambrosial robe that Athene had made her carefully, smooth, and with many figures upon it, and pinned it across her breast with a golden brooch, and circled her waist about with a zone that floated a hundred tassels, and in the lobes of her carefully pierced ears she put rings and triple drops in mulberry clusters, radiant with beauty, and, lovely among goddesses, she veiled her head downward with a sweet fresh veil that glimmered pale like the sunlight. Underneath her shining feet she bound on the fair sandals. Now, when she had clothed her body in all this loveliness, she went out from the chamber, and called aside Aphrodite to come away from the rest of the gods, and spoke a word to her : ‘Would you do something for me, dear child, if I were to ask you? Or would you refuse it? Are you forever angered against me because I defend the Danaans, while you help the Trojans?’
+     <br/>
+     Then the daughter of Zeus, Aphrodite, answered her : ‘Hera, honoured goddess, daughter to mighty Kronos (Cronus), speak forth whatever is in your mind. My heart is urgent to do it if I can, and if it is a thing that can be accomplished.’ . . .
+     <br/>
+     So Aphrodite went back into the house, Zeus' daughter, while Hera in a flash of speed left the horn of Olympos and crossed over Pieria and Emathia the lovely and overswept the snowy hills of the Thrakian riders and their uttermost pinnacles, nor touched the ground with her feet. Then from Athos she crossed over the heaving main sea and came to Lemnos, and to the city of godlike Thoas. There she encountered Hypnos (Sleep), the brother of Thanatos (Death)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14.337 ff :
+     </span>
+     <br/>
+     "Then with false lying purpose the lady Hera answered him [Zeus] : ‘Most honoured son of Kronos (Cronus), what sort of thing have you spoken? If now your great desire is to lie in love together here on the peaks of Ida, everything can be seen. Then what would happen if some one of the gods everlasting saw us sleeping, and went and told all the other immortals of it? I would not simply rise out of bed and go back again, into your house, and such a thing would be shameful. No, if this is your heart's desire, if this is your wish, then there is my chamber, which my beloved son Hephaisto (Hephaestus) s has built for me, and closed the leaves in the door-posts snugly. We can go back there and lie down, since bed is your pleasure.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 15.4 ff :
+     </span>
+     <br/>
+     "[Zeus waking upon Mount Ida] looked scowling terribly at Hera, and spoke a word to her : ‘Hopeless one, it was your evil design, your treachery, Hera . . . perhaps for this contrivance of evil and pain you will win first reward when I lash you with whip strokes. Do you not remember that time you hung from high and on your feet I slung two anvils, and about your hands drove a golden chain, unbreakable. You among the clouds and the bright sky hung, nor could the gods about tall Olympos endure it and stood about, but could not set you free. If I caught one I would seize and throw him from the threshold, until he landed stunned on the earth, yet even so the weariless agony for Herakles the godlike would not let go my spirit . . .’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 15.78 ff :
+     </span>
+     <br/>
+     "He [Zeus on Mount Ida] spoke, and the goddess of the white arms Hera did not disobey him but went back to tall Olympos from the mountains of Ida. As the thought flashes in the mind of a man who, traversing much territory, thinks of things in the mind's awareness, ‘I wish I were this place, or this,’ and imagines many things; so rapidly in her eagerness winged Hera, a goddess. She came to sheer Olympos and entered among the assembled immortal gods in the house of Zeus, and they seeing her rose all to swarm about her and lifted their cups in greeting. But Hera passed by the others and accepted a cup from Themis of the fair cheeks, since she had first come running to greet her and had spoken to her and addressed her in winged words : ‘Hera, why have you come? You seem like one who has been terrified. I know, it was the son of Kronos (Cronus), your husband, frightened you.’
+     <br/>
+     In turn the goddess Hera of the white arms answered her : ‘Ask me nothing of this, divine Themis. You yourself know what his spirit is, how it is stubborn and arrogant. Preside still over the gods in their house, the feast's fair division. Yet so much may you hear, and with you all the other immortals, how Zeus discloses evil actions, and I do not think the heart of all will be pleasured alike, neither among mortals nor gods either, although one now still feasts at his pleasure.’
+     <br/>
+     The lady Hera spoke so and sat down, and the gods about the house of Zeus were troubled. Hera was smiling with her lips, but above the dark brows her forehead was not at peace. She spoke before them all in vexation : ‘Fools, we who try to work against Zeus, thoughtlessly. Still we are thinking in our anger to go near, and stop him by argument or force. He sits apart and cares nothing nor thinks of us, and says that among the other immortals he is pre-eminently the greatest in power and strength. Therefore each of you must take whatever evil he sends you. Since I think already a sorrow has been wrought against Ares. His son has been killed in the fighting, dearest of all men to him, Askalaphos, whom stark Ares calls his own son.’
+     <br/>
+     So she spoke. Then Ares struck against both his big things with the flats of his hands, and spoke a word of anger and sorrow : ‘Now, you who have your homes on Olympos, you must not blame me for going among the ships of the Akhaians, and avenging my son's slaughter, even though it be my fate to be struck by Zeus' thunderbolt, and sprawl in the blood and dust by the dead men.’
+     <br/>
+     So he spoke, and ordered Phobos (Fear) and Deimos (Terror) to harness his horses and himself got into his shining armour. And there might have been wrought another anger, and bitterness from Zeus, still greater, more wearisome among the immortals, had not Athene, in her fear for the sake of all gods, sprung up and out through the forecourt, left her chair where she was sitting, and taken the helmet off from his head, the shield from his shoulders, and snatched out of his heavy hand the bronze spear, and fixed it apart, and then in speech reasoned with violent Ares : ‘Madman, mazed of your wits, this is ruin! Your ears can listen still to reality, but your mind is gone and your discipline. Do you not hear what the goddess Hera of the white arms tells us, and she coming back even now from Zeus of Olympos? Do you wish, after running the course of many misfortunes yourself, still to come back to Olympos under compulsion though reluctant, and plant seed of great sorrow among the rest of us? Since he will at once leave the Akhaians (Achaeans) and the high-hearted Trojans, and come back to batter us on Olympos and will catch up as they come the guilty one and the guiltless. Therefore I ask of you to give up your anger for your son. By now some other, better of his strength and hands than your son was, has been killed, or will soon be killed; and it is a hard thing to rescue all the generation and seed of all mortals.’
+     <br/>
+     So she spoke, and seated on a chair violent Ares. But Hera called to come with her outside the house Apollon and Iris, who is messenger among the immortal gods, and spoke to them and addressed them in winged words : ‘Zeus wishes both of you to go to him with all speed, at Ida; but when you have come there and looked upon Zeus' countenance, then you must do whatever he urges you, and his orders.’
+     <br/>
+     So the lady Hera spoke, and once more returning sat on her throne. They in a flash of speed winged their way onward. They came to Ida with all her springs, the mother of wild beasts, and found the wide-browed son of Kronos on the height of Gargaron, sitting still, and fragrant cloud gathered in a circle about him. These two came into the presence of Zeus the cloud gatherer and stood, nor was his heart angry when he looked upon them, seeing they had promptly obeyed the message of his dear lady."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 15.186 ff :
+     </span>
+     <br/>
+     "Then deeply vexed [Poseidon] the famed shaker of the earth spoke to her [the messenger-goddess Iris] : ‘. . . We are three brothers born by Rhea to Kronos (Cronus), Zeus, and I, and the third is Haides, lord of the dead men. All was divided among us three ways, each given his domain. I when the lots were shaken drew the grey sea to live in forever; Haides drew the lot of the mists and the darkness, and Zeus was allotted the wide sky, in the cloud and the bright air. But earth and high Olympos are common to all three.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 18.165 ff :
+     </span>
+     <br/>
+     "And now he [Hektor (Hector)] would have dragged it [the body of Patroklos (Patroclus)] away and won glory forever had not swift wind-footed Iris come running from Olympos with a message for [Akhilleus (Achilles)] Peleus' son to arm. She came secretly from Zeus and the other gods, since it was Hera who sent her . . .
+     <br/>
+     Then in turn Akhilleus of the swift feet answered her : ‘Divine Iris, what god sent you to me with a message?’
+     <br/>
+     Then in turn swift wind-footed Iris spoke to him : ‘Hera sent me, the honoured wife of Zeus; but the son of Kronos, who sits on high, does not know this, nor any other immortal, of all those who dwell by the snows of Olympos.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 18.369 :
+     </span>
+     <br/>
+     "Thetis of the silver feet came to the house of Hephaistos (Hephaestus), imperishable, starry, and shining among the immortals, built in bronze for himself by the god of the dragging footsteps."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 19.126 ff :
+     </span>
+     <br/>
+     "He [Zeus] caught by the shining hair of her head the goddess Ate (Delusion) in the anger of his heart, and swore a great oath, that never after this might Ate, who deludes all, come back to Olympos and the starry sky. So speaking, he whirled her about in his hand and slung her out of the starry heaven, and presently she came to men's establishments."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20.4 ff :
+     </span>
+     <br/>
+     "Zeus, from the many-folded peak of Olympos, told Themis to summon all the gods into assembly. She went everywhere, and told them to make their way to Zeus' house. There was no Potamos (River) who was not there, only Okeanos (Oceanus), there was not any one of the Nymphai (Nymphs) who live in the lovely groves, and the springs of the rivers and grass of the meadows, who came not. These all assembling into the house of Zeus cloud gathering took places among the smooth-stone cloister walks which Hephaistos (Hephaestus) had built for Zeus the father by his craftsmanship and contrivance.
+     <br/>
+     So they were assembled within Zeus' house; and the shaker of the earth did not fail to hear the goddess, but came up among them from the sea, and sat in the midst of them, and asked Zeus of his counsel : ‘Why, lord of the shining bolt, have you called the gods to assembly once more? Are you deliberating Akhaians (Achaeans) and Trojans? For the onset of battle is almost broken to flame between them.’
+     <br/>
+     In turn Zeus who gathers the clouds spoke to him in answer : ‘You have seen, shaker of the earth, the counsel within me, and why I gathered you. I think of these men though they are dying. Even so, I shall stay here upon the fold of Olympos sitting still, watching, to pleasure my heart. Meanwhile all you others go down, wherever you may go among the Akhaians and Trojans and give help to either side, as your own pleasure directs you.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20.141 :
+     </span>
+     <br/>
+     "In turn Poseidon the shaker of the earth answered her [Hera] : ‘Hera, do not be angry without purpose . . . But soon, I think, when they [the gods allied with the Trojans] have fought with us they will get back to Olympos and the throng of the other gods beaten back by the overmastering strength of our hands.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  21.385 ff :
+     </span>
+     <br/>
+     "But upon the gods descended the wearisome burden of hatred [i.e. the gods allied with the Greeks against the gods allied with the Trojans], and the wind of their fury blew from division, and they collided with a grand crash, the broad earth echoing and the huge sky sounded as with trumpets. Zeus heard it from where he sat on Olympos, and was amused in his deep heart for pleasure, as he watched the gods' collision in conflict."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  21.438 ff :
+     </span>
+     <br/>
+     "But now the powerful shaker of the earth spoke to Apollon : ‘Phoibos (Phoebus), why do you and I stand yet apart. It does not suit when the others have begun, and it were too shameful if without fighting we go back to the brazen house of Zeus on Olympos (
+     <em>
+      Oulumpon de Dios poti khalkobates
+     </em>
+     ).’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  21.505 ff :
+     </span>
+     <br/>
+     "Leto picked up the curved bow and the arrows [of Artemis] which had fallen in the turn of the dust one way and another. When she had taken up the bow she went back to her daughter. But the maiden [Artemis] came to the bronze-founded house on Olympos of Zeus, and took her place kneeling at the knees of her father and the ambrosial veil trembled about her. Her father Kronides (Cronides) caught her against him, and laughed softly, and questioned her."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  21.518 :
+     </span>
+     <br/>
+     "The rest of the gods who live forever went back to Olympos, some in anger and others glorying greatly, and sat down at the side of their father the dark-misted."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 22.165 ff :
+     </span>
+     <br/>
+     "These two [Akhilleus (Achilles) and Hektor (Hector)] swept whirling about the city of Priamos in the speed of their feet, while all the gods were looking upon them [from Olympos]  . . .  Then Zeus the gatherer of the clouds spoke : ‘Tritogeneia [Athene], dear daughter, do not loose heart; for I say this not in outright anger, and my meaning toward you is kindly. Act as your purpose would have you do, and hold back no longer.’
+     <br/>
+     So he spoke, and stirred on Athene, who was eager before this, and she went in a flash of speed down the pinnacles of Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad  24.95 &amp; 120 ff :
+     </span>
+     <br/>
+     "So she [the sea-goddess Thetis] spoke, and shining among divinities took up her black veil, and there is no darker garment. She went on her way [from the bottom of the sea to Olympos], and in front of her rapid wind-footed Iris guided her, and the wave of the water opened about them. They stepped out on the dry land and swept to the sky. There they found [Zeus] the son of Kronos of the wide brows, and gathered about him sat all the rest of the gods, the blessed, who live forever. She sat down beside Zeus father, and Athene made a place for her. Hera put into her hand a beautiful golden goblet and spoke to her to comfort her, and Thetis accepting drank from it. The father of gods and men [Zeus] began the discourse among them : ‘You have come to Olympos, divine Thetis, for all your sorrow, with an unforgotten grief in your heart. I myself know this. But even so I will tell you why I summoned you hither.’ . . .
+     <br/>
+     He spoke and the goddess silver-foot Thetis did not disobey him but descended in a flash of speed from the peaks of Olympos and made her way to the shelter of her son.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24.425 :
+     </span>
+     <br/>
+     "Surely it is good to give the immortals their due gifts because my own son, if ever I had one, never forgot in his halls the gods who live on Olympos. Therefore they remembered him even in death's stage."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24.467 :
+     </span>
+     <br/>
+     "Hermes spoke, and went away to the height (
+     <em>
+      makros
+     </em>
+     ) of Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24.692 :
+     </span>
+     <br/>
+     "Hermes left them [the Trojans] and went away to the height of Olympos, and Eos (Dawn), she of the yellow robe, scattered over all earth."
+    </p>
+    <hr/>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 170 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "For thee [Artemis] the Amnisiades rub down the hinds [the golden horned deer that draw the chariot of Artemis] loosed from the yoke, and from the mead of Hera they gather and carry for them to feed on much swift-springing clover, which also the horses of Zeus eat; and golden troughs they fill with water to be for the deer a pleasant draught . . .
+     <br/>
+     But when the Nymphai encircle thee in the dance, near the springs of Aigyptian Inopos or Pitane - for Pitane too is thine - or in Limnai or where, goddess, thou camest from Skythia to dwell, in Alai . . . for the god Helios never passes by that beauteous dance, but stays his car to gaze upon the sight, and lights of day are lengthened."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 26 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting at Neapolis (Naples) :] Birth of Hermes . . . He is born on the crest of Olympos, at the very top, the abode of the gods. There, as Homer says, one feels no rain and hears no wind, nor is it ever beaten by snow, it is so high; but it is absolutely divine and free from the ills that pertain to the mountains which belong to men. There the Horai (Seasons) care for Hermes at his birth. The painter has depicted these also, each according to her time, and they wrap him in swaddling clothes, sprinkling over him the most beautiful flowers, that he may have swaddling clothes not without distinction. While they turn to [Maia] the mother of Hermes lying on her couch of travail, he slips out of his swaddling clothes and begins to walk at once and descends from Olympos. The mountain rejoices in him--for its smile is like that of a man--and you are to assume that Olympos rejoices because Hermes was born there.
+     <br/>
+     Now what of the theft? Cattle grazing on the foothills of Olympos, yonder cattle with golden horns and whiter than snow--for they are sacred to Apollon--he leads over a winding course into a cleft of the earth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 21 :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the wrestling match of Herakles and Antaios :] Do not look carelessly at the top of the mountain, but assume that gods have there a place from which to view the contest; for, observe, a golden cloud is painted, which serves, I fancy, as a canopy for them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 27 :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting at Neapolis (Naples) :] The Birth of Athena. These, wonder-struck beings are gods and goddesses, for the decree has gone forth that not even the Nymphai may leave the heavens, but that they, as well as the Potamoi (Rivers) from which they are sprung, must be at hand; and they shudder at the sight of Athena, who at this moment has just burst forth fully armed from the head of Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 34 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "That the gates of heaven (
+     <em>
+      ouranos
+     </em>
+     ) are in charge of the Horai (Seasons) we may leave to the special knowledge and prerogative of Homer, for very likely he became an intimate of the Horai when he inherited the skies."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Numerous.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     OLYMPUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      MOUNT OLYMPUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Qualities
+       </th>
+       <td>
+        Home of the gods, palace acropolis
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Location
+       </th>
+       <td>
+        Mount Olympus in Thessaly
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     MYTHIC REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="Elysion.html">
+       Elysium, Home of the Blessed Dead
+      </a>
+     </li>
+     <li>
+      <a href="Haides.html">
+       Hades I, Realm of the Dead (Archaic)
+      </a>
+     </li>
+     <li>
+      <a href="Haides2.html">
+       Hades II, Realm of the Dead (Mystic)
+      </a>
+     </li>
+     <li>
+      <a href="Okeanos.html">
+       Oceanus, Earth-Encircling River
+      </a>
+     </li>
+     <li>
+      Olympus, Home of the Gods
+     </li>
+     <li>
+      <a href="Tartaros.html">
+       Tartarus I, Pit Beneath the Earth
+      </a>
+     </li>
+     <li>
+      <a href="Tartaros2.html">
+       Tartarus II, Dungeon of the Damned
+      </a>
+     </li>
+    </ul>
+    <h2>
+     LEGENDARY REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="../Phylos/Atlantes.html">
+       Atlantis, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Erytheia.html">
+       Erytheia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Heliades.html">
+       Heliades, Land of the Far South
+      </a>
+     </li>
+     <li>
+      <a href="../Titan/Hesperides.html">
+       Hesperia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Hyperborea.html">
+       Hyperborea, Land of the Far North
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Pankhaia.html">
+       Panchaea, Land of the Far South
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

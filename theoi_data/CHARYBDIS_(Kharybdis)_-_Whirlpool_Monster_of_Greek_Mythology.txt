@@ -1,0 +1,1549 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   CHARYBDIS (Kharybdis) - Whirlpool Monster of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Charybdis was a sea-monster whose gigantic whirlpool swirled in the straits of Messina opposite the cliffs of the monster Scylla. She was probably the daimon of the tides with her thrice daily sucking and expulsion of waters--mentioned by Homer--imagined as the cause of the three high and low tides of the day." name="description"/>
+  <meta content="Charybdis, Kharybdis, Greek mythology, whirlpool monster" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sea.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt; Charybdis (Kharybdis)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     KHARYBDIS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Χαρυβδις
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Kharybdis
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Charybdis
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Swallow and Belch ? (
+       <em>
+        khaoô, bdeô
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     KHARYBDIS (Charybdis) was a sea-monster whose gigantic whirlpool swirled in the straits of Messina opposite the cliffs of the monster
+     <a href="Skylla.html">
+      Skylla (Scylla)
+     </a>
+     . She was probably the
+     <em>
+      daimon
+     </em>
+     of the tides with her thrice daily sucking and expulsion of waters--mentioned by Homer--imagined as the cause of the three high and low tides of the day.
+    </p>
+    <p>
+     The ancient Greek scholia on Homer's
+     <em>
+      Odyssey
+     </em>
+     give several different accounts of the origin of Kharybdis. In one she was a daughter of Pontos (Sea) and Gaia (Earth) who laid siege to the land with her waves. Zeus, in anger, captured and chained to the sea-bed. In another tale, she was a voracious women who stole the cattle of Herakles. For this reason Zeus cast her into the sea with the blow of a thunderbolt.
+    </p>
+    <p>
+     The Greeks had a verb
+     <em>
+      ekcha rubdizô
+     </em>
+     which meant to swallow like Kharybdis. According to Hesykhios (s.v.
+     <em>
+      anepothe
+     </em>
+     ) this verb was invented by Pherekydes to describe those who were glutonous.
+    </p>
+    <p>
+     Kharybdis was perhaps identical to
+     <a href="Keto.html">
+      Keto Trienos
+     </a>
+     "the Sea-Monster Thrice" who was the mother of Skylla and grandmother of the Sicilian giant Polyphemos.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF CHARYBDIS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Protogenos/Pontos.html">
+      PONTOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     (see Keto)
+     <br/>
+     [1.2]
+     <a href="../Olympios/Poseidon.html">
+      POSEIDON
+     </a>
+     &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Scholiast on Homer's Odyssey)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] Perhaps
+     <a href="Skylla.html">
+      SKYLLA
+     </a>
+     (by
+     <a href="Phorkys.html">
+      Phorkys
+     </a>
+     )
+     <span class="family-refs">
+      (Apollodorus E7.20)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     SCYLLA (Skulla) and CHARYBDIS, the names of two rocks between Italy and Sicily, and only a short distance from one another. In the midst of the one of these rocks which was nearest to Italy, there dwelt, according to Homer, Scylla, a daughter of Crataeis, a fearful monster, barking like a dog, with twelve feet, six long necks and mouths, each of which contained three rows of sharp teeth. The opposite rock, which was much lower, contained an immense fig-tree, under which there dwelt Charybdis, who thrice every day swallowed down the waters of the sea, and thrice threw them up again : both were formidable to the ships which had to pass between them (Hom.
+     <em>
+      Od.
+     </em>
+     xii. 73, &amp;c., 235, &amp;c.). Charybdis is described as a daughter of Poseidon and Gaea, and as a voracious woman,who stole oxen from Heracles, and was hurled by the thunderbolt of Zeus into the sea, where she retained her voracious nature. (Serv.
+     <em>
+      ad Aen.
+     </em>
+     iii. 420.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Odysseus">
+     CHARYBDIS &amp; THE VOYAGE OF ODYSSEUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 12. 84 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Kirke (Circe) advises Odysseus on the dangers he will face on his voyage :] On the other side are a pair of cliffs. One of them with its jagged peak reaches up to the spreading sky, wreathed in dark cloud that never parts. There is no clear sky above this peak even in summer or harvest-time, nor could any mortal man climb up it or get a foothold on it, not if he had twenty hands and feet; so smooth is the stone, as if it were burnished all over. Half-way up the cliff is a murky cave [the home of Skylla (Scylla)], facing north-west to Erebos  . . . You will see the other cliff [opposite Skylla] lies lower, no more than an arrow's flight away. On this there grows a great leafy fig-tree; under it, awesome Kharybdis (Charybdis) sucks the dark water down. Three times a day she belches it forth, three times in hideous fashion she swallows it down again. Pray not to be caught there when she swallows down; Poseidon himself could not save you from destruction then. No keep closer to Skylla's cliff, and row past that as quickly as may be.”
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 12. 231 ff :
+     </span>
+     <br/>
+     "So with much lamenting we [Odysseus and his men] rowed on and into the strait; this side lay Skylla (Scylla); that side, in hideous fashion, fiendish Kharybdis (Charybdis) sucked the salt water in. When she spewed it forth, she seethed and swirled through all her depths like a cauldron set on a great fire, and overhead the spray fell down on the tops of the two rocks. But when she sucked the sea-water in, one might look right down through the swirling eddy while the rock roared hideously around her and the sea-floor came to view, dark and sandy. Ashy terror seized on the crew. We had looked her way with the fear of death upon us; and at that moment Skylla snatched up form inside my ship the six of my crew who were the strongest of arm and sturdiest."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 12. 430 ff :
+     </span>
+     <br/>
+     "[After Odysseus' ship had left the island of Thrinakie (Thrinacia), Zeus sent a storm to wash it into the maw of Kharybdis (Charybdis) :] The raging west wind abated, but the south instead came at once to plague me [Odysseus], forcing me to retrace my track towards pitiless Kharybdis. All night I was carried backward thus; then at sunrise I reached Skylla's rock and murderous Kharybdis. Just then she swallowed the salt-water; I threw myself up to the lofty fig-tree and clung close against it like a bat, because there was no firm foothold there, and no chance of climbing either; the roots were far below, and the big long branches hung out of reach overhead, overshadowing Kharybdis. I held on grimly till she should vomit out mast and keel again. That time seemed long to my anxious hopes, but about the hour when a judge in court will hear no more claims from brisk young plaintiffs--when he stands up and goes home to dine--about that hour the timbers swam up again from Kharybdis. I let myself drop, hands and feet together, and fell with a crash into mid-strait just by the timbers, then clambered on to them and rowed with my hands. The father of gods and men [Zeus] would not allow Skylla to spy me, else I should never have escaped the precipice of destruction."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 23. 322 :
+     </span>
+     <br/>
+     "To grim Kharybdis (Charybdis) and to Skylla, who no man ever passed by unscathed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E7. 21 - 23 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "After them [the Seirenes (Sirens)], Odysseus came to a divided passage. On one course lay the rocks called Planktai (Planctae), and on the other were two great cliffs, in one of which was Skylla . . . On the other crag was Kharybdis (Charybdis), who three times a day sucked in the water and spat it out again. 
+  As it [his ship] fell apart, Odysseus hung on to the mast, and drifted back to Kharybdis. As Kharbydis sucked down the mast, he grabbed an overhanging wild fig and waited, and when he saw the mast bob up again, he jumped on it and was borne through the sea to the island of Ogygia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 668 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "What Kharybdis (Charybdis) shall not eat of his [Odysseus'] dead? What half-maiden Fury-hound [Skylla]?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 740 ff :
+     </span>
+     <br/>
+     "[Odysseus] clinging to the branch of a wild fig-tree so that the wave which draws spouting Kharybdis (Charybdis) to the deep may not swallow him in the surge."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 125 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Odysseus] had come to the island of Sicily to the sacred herds of Sol [Helios the Sun] . . . Borne on to Charybdis, who three times a day sucked down the water and three times belched it up, by Tiresias' warning he passed by."
+    </p>
+    <hr/>
+    <h3 id="Argonauts">
+     CHARYBDIS &amp; THE VOYAGE OF THE ARGONAUTS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 136 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The ship [Argo] then came successively to Kharybdis (Charybdis), Skylla (Scylla), and the wandering rocks called Planktai (Planctae). But Hera sent for Thetis and the Nereides, who escorted the ship through these hazards."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 786 &amp; 825 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "[Hera commands the sea-goddess Thetis assist the Argonauts in their passage between Skylla (Scylla) and Kharybdis (Charybdis) :] ‘I brought them [the Argonauts] safely through the Wandering Rocks, where fiery blasts rage and roar and the rollers break in foam on jagged reefs. But it still remains for them to pass the great cliff of Skylla and the gurgling whirlpool of Kharybdis . . . Do not let my friends [the Argonauts] be so unwary as to fall into Kharybdis, or at one gulp she will swallow them all. Nor let them go too near the hateful den of Ausonian Skylla, the wicked monster borne to Phorkys by nigh-wandering Hekate (Hecate), whom men call Kratais (Crataeis)--or she may swoop down, take her pick and destroy them in her terrible jaws. What you must do is so to guide the ship that they escape disaster, if only by a hair's breadth.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 921 ff :
+     </span>
+     <br/>
+     "The Argonauts sailed on in gloom. The Seirenes (Sirens) were behind them, but worse perils lay ahead, at a place where two seas met and shipping came to grief. On one side the sheer cliff of Skylla (Scylla) hove in sight; on the other Kharybdis (Charybdis) seethed and roared incessantly; while beyond, great seas were booming on the Wandering Rocks."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 12. 123 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Medea laments :] ‘Would [that] . . . Scylla the ravening submerged us [the Argonauts] in the deep to be devoured by her dogs--fit were it for Scylla to work woe to ingrate men! And she [Kharybdis (Charybdis)] who spews forth so many times the floods, and sucks them so many times back in again--would she had brought us, too, beneath the Trinacrian [Sicilian] wave!’"
+    </p>
+    <hr/>
+    <h3 id="Aeneas">
+     CHARYBDIS &amp; THE VOYAGE OF AENEAS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 3. 418 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "The sea rushed violently in between them, dividing Italy for Sicily, severing their coasts and washing cities and fields on either side with a narrow strait. Scylla guards the right shore, insatiable Charybdis the left. Three times a day the latter, down in the depths of a whirlpool gulps whole tons of wave into her maw, then spews them up again, flailing the heavens with spray."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 3. 555 ff :
+     </span>
+     <br/>
+     "[Aeneas recounts his voyage :] Then we made out Trinacrian Aetna (Sicilian Etna) on the horizon, and from afar we heard a thunder of waves throbbing on rocks, and inshore noises broke fitfully on our ears; the race was dancing with fury, the shoal-water boiling with sand. Anchises cried :--‘That must be the infamous Charybdis! Those are the reefs, the terrible rocks that Helenus told of! Row for your lives, my comrades! Pull together! Pull!’
+     <br/>
+     Yarely they all obeyed my father's command. Palinurus turned away first to port, the bows of his vessel creaking; then the whole convoy, with oars and sails, clawed off to port. We were tossed up high on an arching surge, then down we went in the trough as the wave fell away, down to the very Pit. Thrice roared aloud the reefs and the caverns of rock beneath us, thrice we beheld the sky through a spattering flounce of spindrift. Time passed. The wind went down with the sun. Utterly spent, not knowing where we were, we crept to the shores of the Cyclops."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 13. 729 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The fleet [of Aeneas] made land at evenfall on Zancle's shelving sand. Scylla infests the right-hand coast, the left restless Charybdis; one grasps passing ships and sucks them down to spew them up gain; the other ringed below her hell-black waist with raging dogs."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 14. 75 ff :
+     </span>
+     <br/>
+     "Past Scylla's reef and ravening Charybdis the Troianae [Trojan] galleons had won their way and almost reached the shores of Ausonia [Italy]."
+    </p>
+    <hr/>
+    <h3 id="Miscellany">
+     CHARYBDIS  MISCELLANY
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Simonides, Fragment 522 (trans. Campbell, Vol. Greek Lyric III) (Greek lyric C6th to C5th B.C.) :
+     </span>
+     <br/>
+     "For all things arrive at one single horrible Kharybdis (Charybdis), great excellences and wealth alike."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E7. 20 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Skylla (Scylla), daughter of Krataiis (Crataeis) (of the Rocks) or Trienos (Three-Times) and Phorkos (Phorcus)."
+     <br/>
+     [N.B. Trienos, the mother of Skylla, is probably Kharybdis (Charybdis). She is named Trienos (Three-Times) because her whirlpool sucks in the sea three times a day.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 6. 2. 3 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "In the ship-channel [of the Straits of Messina], only a short distance off the city [of Messene], is to be seen Kharybdis (Charybdis), a monstrous deep, into which the ships are easily drawn by the refluent currents of the strait and plunged prow-foremost along with a mighty eddying of the whirlpool; and when the ships are gulped down and broken to pieces, the wreckage is swept along to the Tauromenian shore, which, from this occurrence, is called Kopria (Copria)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 62 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "What of those strange tales of cliffs that clash in the open sea, Charybdis' whirling waves that suck and spew to sink the ships she hates, and greedy Scylla, girt with savage hounds baying beside the seas of Sicilia (Sicily)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 26c (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Believe me, even Scylla will grow kind towards us, and so will awful Charybdis, who never ceases from her ebb and flow."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 407 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "What ferocity of beasts, what Scylla, what Charybdis, sucking up the Ausonian and Sicilian waters, or what Aetna, resting heavily on panting Titan [Typhoeus], shall burn with such threats as I?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 3. 87 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "In these Straits [i.e. the Straits of Messina] is the rock of Scylla and also the whirlpool of Charybdis, both notoriously treacherous."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 2. 85 (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "Whether eddying Charybdis be heaving or the maid [Skylla (Scylla)] that ravages the Sicilian deep."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Kharybdis (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Kharybdis (Charybdis) : It sucks up the sea around Gadeira and furiously spirals around again. It is said that it all leads down to chaos and destruction. Priskos (Priscus) says about Kharybdis : ‘They sail by Sikelia (Sicily) in front of Messene and by the strait of Italy where Kharybdis [is], taking in stormy winds, and sucking those men in. Kharybdis and Skylla (Scylla), lying in a narrow place, are subject to the currents of the oceans and sink those sailing past. There Odysseus lost all his companions with the ships; he himself was carried away hanging on to a board in the currents of the sea.’"
+    </p>
+    <hr/>
+    <h2 id="Titles">
+     POETIC TITLES &amp; EPITHETS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Τριενος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Trienos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Trienus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Three Times a Day
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Simonides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th - 5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Argonautica Orphica 1254, Scholiast on Homer's Odyssey.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     CHARYBDIS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      CHARYBDIS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Poseidon and Gaea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Whirlpool
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Straits of Messina
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     CHARBYDIS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Charybdis
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Odysseus">
+       Charybdis &amp; the Voyage of Odysseus
+      </a>
+     </li>
+     <li>
+      <a href="#Argonauts">
+       Charybdis &amp; the Voyage of the Argonauts
+      </a>
+     </li>
+     <li>
+      <a href="#Aeneas">
+       Charybdis &amp; the Voyage of Aeneas
+      </a>
+     </li>
+     <li>
+      <a href="#Miscellany">
+       Charybdis Miscellany
+      </a>
+     </li>
+     <li>
+      <a href="#Titles">
+       Titles &amp; Epithets
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

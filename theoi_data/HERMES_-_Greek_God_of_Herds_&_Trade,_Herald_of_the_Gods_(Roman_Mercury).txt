@@ -1,0 +1,4151 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   HERMES - Greek God of Herds &amp; Trade, Herald of the Gods (Roman Mercury)
+  </title>
+  <meta content="Hermes was the ancient Greek god of herds and flocks, travellers and hospitality, roads and trade, thievery and cunning, heralds and diplomacy, language and writing, athletic contests and gymnasiums. He was also the herald Zeus, king of the gods. Hermes was depicted as either a handsome and athletic, beardless youth, or as an older bearded man. His attributes included the caduceus or herald's wand, winged boots, traveller's cap and cloak. His Roman name was Mercury." name="description"/>
+  <meta content="Hermes, Olympian god, Greek mythology, Greek god of herds, Greek god of flocks, Greek god of trade, Greek god of merchants, Greek god of athletes, Greek god of thieves, herald of the gods, herald of Zeus, messenger of the gods, Hermes pictures, Mercury, Mercurius" name="keywords"/>
+  <meta content="HERMES - Greek God of Herds &amp; Trade, Herald of the Gods" property="og:title">
+   <meta content="Hermes was the ancient Greek god of herds and flocks, travellers and hospitality, roads and trade, thievery and cunning, heralds and diplomacy, language and writing, athletic contests and gymnasiums. He was also the herald Zeus, king of the gods. Hermes was depicted as either a handsome and athletic, beardless youth, or as an older bearded man. His attributes included the caduceus or herald's wand, winged boots, traveller's cap and cloak. His Roman name was Mercury." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Hermes.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_hermes_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Hermes
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HERMES
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ἑρμης
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Hermês
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Hermes
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Mercurius, Mercury
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/K11.11.html">
+      <img alt="Hermes herald of the gods | Athenian red-figure lekythos C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/K11.11Hermes.jpg"/>
+     </a>
+     <figcaption>
+      Hermes, Athenian red-figure lekythos C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     HERMES was the Olympian god of herds and flocks, travellers and hospitality, roads and trade, thievery and cunning, heralds and diplomacy, language and writing, athletic contests and gymnasiums, astronomy and astrology. He was the herald and personal messenger of
+     <a href="Zeus.html">
+      Zeus
+     </a>
+     , King of the Gods, and  also the guide of the dead who led souls down into the underworld.
+    </p>
+    <p>
+     Hermes was depicted as either a handsome and athletic, beardless youth or as an older, bearded man, with winged boots and a herald's wand.
+    </p>
+    <h2>
+     HERMES MYTHS
+    </h2>
+    <p>
+     As a new-born infant Hermes snuck out of his crib, stole the cattle of the god Apollon, and crafted the first lyre from a tortoise-shell. Zeus was so amused by the young god's antics that he granted him a place as one of the twelve supreme gods of Olympos. &lt;&lt;
+     <a href="HermesMyths.html#Theft1">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Hermes transformed the tell-tale, herdsman Battos into a stone as punishment for reporting his theft of Apollon's cattle. &lt;&lt;
+     <a href="HermesWrath.html#Battos">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     He was sent by Zeus to slay the hundred-eyed giant Argos Panoptes who had been commanded by Hera to guard Zeus' paramour Io. &lt;&lt;
+     <a href="HermesMyths2.html#Argos">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     He assisted the hero Perseus in his quest to slay the Gorgon Medousa, providing guidance and gifts from the gods. &lt;&lt;
+     <a href="HermesFavour.html#Perseus">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Hermes seduced the  beautiful princess Khione (Chione) on the same night as his half-brother Apollon. &lt;&lt;
+     <a href="HermesLoves.html#Khione">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     He gave Odysseus a magical herb to protect the hero from the magic of the treacherous witch Kirke (Circe). &lt;&lt;
+     <a href="HermesFavour.html#Odysseus">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Many other myths are detailed over the following pages.
+    </p>
+    <hr/>
+    <h2 id="Attributes">
+     SYMBOLS &amp; ATTRIBUTES
+    </h2>
+    <p>
+     Hermes' most distinctive attribute was the herald's wand  (Greek
+     <em>
+      kerykeion
+     </em>
+     , Latin
+     <em>
+      caduceus
+     </em>
+     ) but he was sometimes armed instead with a short sword. The god was clothed in a knee-length robe (
+     <em>
+      chiton
+     </em>
+     ) with a short cloak (
+     <em>
+      chlamys
+     </em>
+     ), winged boots, and a brimmed, traveller's hat. The hat was often winged. &lt;&lt;
+     <a href="HermesTreasures.html#Rod">
+      More
+     </a>
+     &gt;&gt;
+     <br/>
+     Another unique symbol of the god was the
+     <em>
+      herma
+     </em>
+     , a stone road-marker which doubled as a small wayside shrine. The most primitive
+     <em>
+      hermae
+     </em>
+     were simple, upright standing-stones while the more elaborate were rectangular statuettes sculpted with the head of the god, a phallus, and his herald's wand symbol. &lt;&lt;
+     <a href="../Cult/HermesCult.html#Hermai">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Below are some examples of his attributes as depicted in ancient Greek art:-
+    </p>
+    <p>
+     1. Herald's wand; 2. Herald's wand head; 3. Short sword; 4. Herma;
+    </p>
+    <p>
+     <img alt="Caduceus of Hermes" height="115" src="../image/img_hermes_attributes_caduceus1.jpg" width="115"/>
+     <img alt="Caduceus of Hermes" height="115" src="../image/img_hermes_attributes_caduceus2.jpg" width="115"/>
+     <img alt="Sword of Hermes" height="115" src="../image/img_hermes_attributes_sword.jpg" width="115"/>
+     <img alt="Herma of Hermes" height="115" src="../image/img_hermes_attributes_herma.jpg" width="115"/>
+    </p>
+    <p>
+     5. Winged boots; 6. Winged hat; 7. Traveller's hat (worn); 8. Traveller's hat (slung over shoulder).
+    </p>
+    <p>
+     <img alt="Winged Boots of Hermes" height="115" src="../image/img_hermes_attributes_wingedboots.jpg" width="115"/>
+     <img alt="Winged Cap of Hermes" height="115" src="../image/img_hermes_attributes_wingedcap.jpg" width="115"/>
+     <img alt="Petasos of Hermes" height="115" src="../image/img_hermes_attributes_petasos1.jpg" width="115"/>
+     <img alt="Petasos of Hermes" height="115" src="../image/img_hermes_attributes_petasos2.jpg" width="115"/>
+    </p>
+    <hr/>
+    <h2>
+     SACRED ANIMALS &amp; PLANTS
+    </h2>
+    <p>
+     Hermes' sacred animals were the ram and the hare. In ancient art he rode on the back of a large ram. As the god of herds he was also closely associated with cattle, sheep and goats.
+     <br/>
+     His sacred plants were the crocus flower and the strawberry-tree. &lt;&lt;
+     <a href="HermesTreasures.html#Animals">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Below are examples of the god's animals as depicted in ancient Greek art and photos of his sacred plants:-
+    </p>
+    <p>
+     1. Ram; 2. Hare; 3. Crocus; 4. Strawberry-tree.
+    </p>
+    <p>
+     <img alt="Ram of Hermes" height="115" src="../image/img_hermes_animals_ram.jpg" width="115"/>
+     <img alt="Hare of Hermes" height="115" src="../image/img_hermes_animals_hare.jpg" width="115"/>
+     <a href="../image/flora_krokos_lg.jpg">
+      <img alt="Crocus Flower" border="0" height="115" src="../image/flora_krokos.jpg" width="115"/>
+     </a>
+     <a href="../image/flora_komaros_lg.jpg">
+      <img alt="Strawberry-Tree" border="0" height="115" src="../image/flora_komaros.jpg" width="115"/>
+     </a>
+    </p>
+    <hr/>
+    <h2>
+     HERMES PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 13 pages describing the god, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Hermes Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF HERMES
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Nymphe/NympheMaia.html">
+      MAIA
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 938 &amp; Astronomy Frag 1, Homeric Hymn 4 to Hermes, Homeric Hymn 17, Alcaeus Frag 308, Simonides Frag 555, Aeschylus Libation Bearers 683 &amp; Frag 212, Apollodorus 3.112, Philostratus Elder 1.46, Ovid Fasti 5.79)
+     </span>
+     <br/>
+     [1.2]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     <span class="family-refs">
+      (innumerable references)
+     </span>
+     <br/>
+     [2.1]
+     <a href="Dionysos.html">
+      DIONYSOS
+     </a>
+     &amp;
+     <a href="Aphrodite.html">
+      APHRODITE
+     </a>
+     <span class="family-refs">
+      (Orphic Hymn 57)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     See
+     <a href="HermesFamily.html#Genealogy">
+      Family of Hermes
+     </a>
+    </p>
+    <hr/>
+    <p>
+     Hermes was a son of Zeus and the Pleiad-nymphe Maia and a grandson of the Titans Kronos (Cronus), Rheia and Atlas and the nymphe Pleione. His half-brothers and sisters included the gods Apollon, Artemis, Athena, Ares, Persephone and Dionysos. He was the second-youngest of the twelve Olympian gods and was often depicted as a beardless youth.
+     <br/>
+     Hermes was the father of the goat-legged god Pan by the nymphe Penelopeia. He also had many mortal offspring. &lt;&lt;
+     <a href="HermesFamily.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Below are two graphics depicting Hermes' family tree, the first with names transliterated from the Greek and the second with the common English spellings:-
+    </p>
+    <img alt="Family Tree of Hermes" class="img-responsive" src="../image/family-tree-hermes-1.jpg"/>
+    <img alt="Family Tree of Hermes" class="img-responsive" src="../image/family-tree-hermes-2.jpg"/>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/S11.9.html">
+      <img alt="Hermes-Mercury | Greco-Roman marble statue C1st A.D. | State Hermitage Museum, Saint Petersburg" class="img-responsive center-block" src="../image/S11.9Hermes.jpg"/>
+     </a>
+     <figcaption>
+      Hermes-Mercury, Greco-Roman marble statue C1st A.D.,
+      <a href="http://www.hermitagemuseum.org/" target="_blank">
+       State Hermitage Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     HERMES (Hermês, Hermeias, Dor. Hermas), a son of Zeus and Maia, the daughter of Atlas, was born in a cave of Mount Cyllene in Arcadia (Hom.
+     <em>
+      Od.
+     </em>
+     viii. 335, xiv. 435, xxiv. 1;
+     <em>
+      Hymn. in Merc.
+     </em>
+     1, &amp;c.; Ov.
+     <em>
+      Met.
+     </em>
+     i. 682, xiv. 291), whence he is called Atlantiades or Cyllenius; but Philostratus (
+     <em>
+      Icon.
+     </em>
+     i. 26) places his birth in Olympus.
+    </p>
+    <p>
+     In the first hours after his birth, he escaped from his cradle, went to Pieiria, and carried off some of the oxen of Apollo. (Hom.
+     <em>
+      Hymn. in Merc.
+     </em>
+     17.) In the Iliad and Odyssey this tradition is not mentioned, though Hermes is characterised as a cunning thief. (
+     <em>
+      Il.
+     </em>
+     v. 390, xxiv. 24.) Other accounts, again, refer the theft of the oxen to a more advanced period of the life of the god. (Apollod. iii. 10. § 2; Anton. Lib. 23.) In order not to be discovered by the traces of his footsteps, Hermes put on sandals, and drove the oxen to Pylos, where he killed two, and concealed the rest in a cave. (Comp. the different stratagems by which he escaped in Horn.
+     <em>
+      Hymn. in Merc.
+     </em>
+     75, &amp;c., and Anton. Lib.
+     <em>
+      l. c.
+     </em>
+     ) The skins of the slaughtered animals were nailed to a rock, and part of their flesh was prepared and consumed, and the rest burnt; at the same time he offered scrifices to the twelve gods, whence he is probably called the inventor of divine worship and sacrifices. (Hom.
+     <em>
+      Hymn. in Merc.
+     </em>
+     125, &amp;c.; Diod. i. 16.) Hereupon he returned to Cyllene, where he found a tortoise at the entrance of his native cave. He took the animal's shell, drew strings across it, and thus invented the lyre and plectrum. The number of strings of his new invention is said by some to have been three and by others seven, and they were made of the guts either of oxen or of sheep. (Hom.
+     <em>
+      l. c.
+     </em>
+     51; Diod. i. 16, v. 75; Orph.
+     <em>
+      Argon.
+     </em>
+     381; Horat.
+     <em>
+      Carm.
+     </em>
+     i. 10. 6.) Apollo, by his prophetic power, had in the meantime discovered the thief, and went to Cyllene to charge him with it before his mother Maia. She showed to the god the child in its cradle; but Apollo took the boy before Zeus, and demanded back his oxen. Zeus commanded him to comply with the demand of Apollo, but Hermes denied that he had stolen the cattle. As, however, he saw that his assertions were not believed, he conducted Apollo to Pylos, and restored to him his oxen; but when Apollo heard the sounds of the lyre, he was so charmed that he allowed Hermes to keep the animals. Hermes now invented the syrinx, and after having disclosed his inventions to Apollo, the two gods concluded an intimate friendship with each other. (Hom.
+     <em>
+      l.c.
+     </em>
+     514, &amp;c.) Apollo presented his young friend with his own golden shepherd's staff, taught him the art of prophesying by means of dice, and Zeus made him his own herald, and also of the gods of the lower world. According to the Homeric hymn (533, &amp;c.), Apollo refused to teach Hermes the art of prophecy, and referred him for it to the three sisters dwelling on Parnassus; but he conferred upon him the office of protecting flocks and pastures (568; comp. Lucian,
+     <em>
+      Dial. Deor.
+     </em>
+     7; Ov.
+     <em>
+      Met.
+     </em>
+     ii. 683, &amp;c.).
+    </p>
+    <p>
+     The principal feature in the traditions about Hermes consists in his being the herald of the gods, and in this capacity he appears even in the Homeric poems; his original character of an ancient Pelasgian, or Arcadian divinity of nature, gradually disappeared in the legends. As the herald of the gods, he is the god of skill in the use of speech and of eloquence in general, for the heralds are the public speakers in the assemblies and on other occasions. (
+     <em>
+      Il.
+     </em>
+     i. 333, iv. 193, vii. 279, 385, viii. 517, xi. 684; comp. Orph.
+     <em>
+      Hymn.
+     </em>
+     27. 4; Aelian,
+     <em>
+      H. A.
+     </em>
+     x. 29; Hor.
+     <em>
+      Carm.
+     </em>
+     i. 10. 1.) As an adroit speaker, he was especially employed as messenger, when eloquence was required to attain the desired object. (
+     <em>
+      Od.
+     </em>
+     i. 38,
+     <em>
+      Il.
+     </em>
+     xxiv. 390; Hom.
+     <em>
+      Hymn. in Cer.
+     </em>
+     335.) Hence the tongues of sacrificial animals were offered to him. (Aristoph.
+     <em>
+      Pax,
+     </em>
+     1062; Athen. i. p. 16.) As heralds and messengers are usually men of prudence and circumspection.
+    </p>
+    <p>
+     Hermes was also the god of prudence and skill in all the relations of social intercourse. (
+     <em>
+      Il.
+     </em>
+     xx. 35, xxiv. 282,
+     <em>
+      Od.
+     </em>
+     ii. 38.) These qualities were combined with similar ones, such as cunning both in words and actions, and even fraud, perjury, and the inclination to steal; but acts of this kind were committed by Hermes always with a certain skill, dexterity, and even gracefulness. Examples occur in the Homeric hymn on Hermes (66, 260, 383; comp. Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1337; Hom.
+     <em>
+      Il.
+     </em>
+     v. 390, xxiv. 24; Apollod. i. 6. § 3).
+    </p>
+    <p>
+     Being endowed with this shrewdness and sagacity, he was regarded as the author of a variety of inventions, and, besides the lyre and syrinx, he is said to have invented the alphabet, numbers, astronomy, music, the art of fighting, gymnastics, the cultivation of the olive tree, measures, weights, and many other things. (Plut.
+     <em>
+      Sympos.
+     </em>
+     ix. 3; Diod.
+     <em>
+      l.c.
+     </em>
+     and v. 75; Hygin.
+     <em>
+      Fab.
+     </em>
+     277.) The powers which he possessed himself he conferred upon those mortals and heroes who enjoyed his favour, and all who had them were under his especial protection, or are called his sons. (
+     <em>
+      Od. x.
+     </em>
+     277, &amp;c., xv. 318, &amp;c., xix. 397; Soph.
+     <em>
+      Philoct.
+     </em>
+     133; Hes.
+     <em>
+      Op.
+     </em>
+     67; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     pp. 18, 1053.)
+    </p>
+    <p>
+     He was employed by the gods and more especially by Zeus on a variety of occasions which are recorded in ancient story. Thus he conducted Priam to Achilles to fetch the body of Hector (
+     <em>
+      Il.
+     </em>
+     xxiv. 336), tied Ixion to the wheel (Hygin.
+     <em>
+      Fab.
+     </em>
+     62), conducted Hera, Aphrodite, and Athena to Paris (Hygin.
+     <em>
+      Fab.
+     </em>
+     92; Paus. v. 19. § 1), fastened Prometheus to Mount Caucasus (Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vi. 42), rescued Dionysus after his birth from the flames, or received him from the hands of Zeus to carry him to Athamas (Apollod. iii. 4. § 3; Apollon. Rhod. iv. 1137), sold Heracles to Omphale (Apollod. ii. 6. § 3), and was ordered by Zeus to carry off Io, who was metamorphosed into a cow, and guarded by Argus; but being betrayed by Hierax, he slew Argus. (Apollod. ii. 1. § 3.) From this murder he is very commonly called Argeiphontês. (
+     <em>
+      Il.
+     </em>
+     xxiv. 182; comp. Schol.
+     <em>
+      ad Aeschyl. Prom.
+     </em>
+     563; Ov.
+     <em>
+      Met.
+     </em>
+     i. 670, &amp;c.) In the Trojan war Hermes was on the side of the Greeks. (
+     <em>
+      Il.
+     </em>
+     xx. 72, &amp;c.) His ministry to Zeus is not confined to the offices of herald and messenger, but he is also the charioteer and cupbearer. (Hom.
+     <em>
+      Od.
+     </em>
+     i. 143,
+     <em>
+      Il.
+     </em>
+     xxiv. 178, 440,
+     <em>
+      Hymn. in Cer.
+     </em>
+     380; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1205.)
+    </p>
+    <p>
+     As dreams are sent by Zeus, Hermes, the hêgêtôr oneirôn, conducts them to man, and hence he is also described as the god who had it in his power to send refreshing sleep or to take it away. (Hom.
+     <em>
+      Hymn. in Merc.
+     </em>
+     14,
+     <em>
+      Il.
+     </em>
+     ii. 26, xxiv. 343, &amp;c.)
+    </p>
+    <p>
+     Another important function of Hermes was to conduct the shades of the dead from the upper into the lower world, whence he is called psuchopompos, nekropomtos, psuchagôgos, &amp;c. (Hom.
+     <em>
+      Od.
+     </em>
+     xxiv. 1,
+     <em>
+      9, Hymn. in Cer.
+     </em>
+     379, &amp;c.; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 561; Diog. Laërt. viii. 31; Hygin.
+     <em>
+      Fab.
+     </em>
+     251.)
+    </p>
+    <p>
+     The idea of his being the herald and messenger of the gods, of his travelling from place to place and concluding treaties, necessarily implied the notion that he was the promoter of social intercourse and of commerce among men, and that he was friendly towards man. (
+     <em>
+      Od.
+     </em>
+     xix. 135,
+     <em>
+      Il.
+     </em>
+     xxiv. 333.) In this capacity he was regarded as the maintainer of peace, and as the god of roads, who protected travellers, and punished those who refused to assist travellers who had mistaken their way. (
+     <em>
+      Il.
+     </em>
+     vii. 277, &amp;c.; Theocrit. xxv. 5; Aristoph.
+     <em>
+      Plut.
+     </em>
+     1159.) Hence the Athenian generals, on setting out on an expedition, offered sacrifices to Hermas, surnamed Hegemonius, or Agetor; and numerous statues of the god were erected on roads, at doors and gates, from which circumstance he derived a variety of surnames and epithets.
+    </p>
+    <p>
+     As the god of commerce, he was called diemporos, empolaios, palinkapêlos, kerdemporos, agoraios, &amp;c. (Aristoph.
+     <em>
+      Plut.
+     </em>
+     1155; Pollux, vii. 15; Orph.
+     <em>
+      Hymn.
+     </em>
+     xxvii. 6; Paus. i. 15. § 1, ii. 9. §. 7, iii. 11. § 8, &amp;c.); and as commerce is the source of wealth, Hermes is also the god of gain and riches, especially of sudden and unexpected riches, such as are acquired by commerce. As the giver of wealth and good luck (ploutodotês), he also presided over the game of dice, and those who played it threw an olive leaf upon the dice, and first drew this leaf. (Hom.
+     <em>
+      Il.
+     </em>
+     vii. 183; Aristoph.
+     <em>
+      Pax,
+     </em>
+     365; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 675.)
+    </p>
+    <p>
+     We have already observed that Hermes was considered as the inventor of sacrifices, and hence he not only acts the part of a herald at sacrifices (Aristoph.
+     <em>
+      Pax,
+     </em>
+     433), but is also the protector of sacrificial animals, and was believed in particular to increase the fertility of sheep. (Hom.
+     <em>
+      Hymn. in Merc.
+     </em>
+     567, &amp;c.,
+     <em>
+      Il.
+     </em>
+     xiv. 490, xvi. 180, &amp;c; Hes.
+     <em>
+      Theog.
+     </em>
+     444.) For this reason he was especially worshipped by shepherds, and is mentioned in connection with Pan and the Nymphs. (Hom.
+     <em>
+      Od.
+     </em>
+     xiv. 435; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1766; Aristoph.
+     <em>
+      Thesm.
+     </em>
+     977; Paus. viii. 16. § 1; ix. 34. § 2; Schol.
+     <em>
+      ad Soph. Philoct.
+     </em>
+     14, 59.) This feature in the character of Hermes is a remnant of the ancient Arcadian religion, in which he was the fertilising god of the earth, who conferred his blessings on man; and some other traces of this character occur in the Homeric poems. (
+     <em>
+      Il.
+     </em>
+     xxiv. 360,
+     <em>
+      Od.
+     </em>
+     viii. 335, xvi. 185,
+     <em>
+      Hymn. in Merc.
+     </em>
+     27.)
+    </p>
+    <p>
+     Another important function of Hermes was his being the patron of all the gymnastic games of the Greeks. This idea seems to be of late origin, for in the Homeric poems no trace of it is found; and the appearance of the god, such as it is there described, is very different from that which we might expect in the god of the gymnastic art. But as his images were erected in so many places, and among them, at the entrance of the gymnasia, the natural result was, that he, like Heracles and the Dioscuri, was regarded as the protector of youths and gymnastic exercises and contests (Pind.
+     <em>
+      Nem.
+     </em>
+     x. 53), and that at a later time the Greek artists derived their ideal of the god from the gymnasium, and represented him as a youth whose limbs were beautifully and harmoniously developed by gymnastic exercises. Athens seems to have been the first place in which he was worshipped in this capacity. (Pind.
+     <em>
+      Pyth.
+     </em>
+     ii. 10,
+     <em>
+      Isthm.
+     </em>
+     i. 60; Aristoph.
+     <em>
+      Plut.
+     </em>
+     1161.)
+    </p>
+    <p>
+     The numerous descendants of Hermes are treated of in separate articles. It should be observed that the various functions of the god led some of the ancients to assume a plurality of gods of this name. Cicero (
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 22) distinguishes five, and Servius (
+     <em>
+      ad Aen.
+     </em>
+     i. 301, iv. 577) four; but these numbers also include foreign divinities, which were identified by the Greeks with their own Hermes.
+    </p>
+    <p>
+     The most ancient seat of his worship is Arcadia, the land of his birth, where Lycaon, the son of Pelasgus, is said to have built to him the first temple. (Hygin.
+     <em>
+      Fab.
+     </em>
+     225.) From thence his worship was carried to Athens, and ultimately spread through all Greece. The festivals celebrated in his honour were called Hermaia. (
+     <em>
+      Dict. of Ant. s, v.
+     </em>
+     ) His temples and statues (
+     <em>
+      Dict. of Ant. s.v. Hermae
+     </em>
+     ) were extremely numerous in Greece. The Romans identified him with Mercury.
+    </p>
+    <p>
+     Among the things sacred to him we may mention the palm tree, the tortoise, the number four, and several kinds of fish; and the sacrifices offered to him consisted of incense, honey, cakes, pigs, and especially lambs and young goats. (Paus. vii. 22. § 2; Aristoph.
+     <em>
+      Plut.
+     </em>
+     1121, 1144; Hom.
+     <em>
+      Od.
+     </em>
+     xiv. 435, xix. 397; Athen. i. p. 16.)
+    </p>
+    <p>
+     The principal attributes of Hermes are:--
+     <br/>
+     1. A travelling hat, with a broad brim, which in later times was adorned with two little wings; the latter, however, are sometimes seen arising from his locks, his head not being covered with the hat.
+     <br/>
+     2. The staff (rhabdos or skêptron): it is frequently mentioned in the Homeric poems as the magic staff by means of which he closes and opens the eyes of mortals, but no mention is made of the person or god from whom he received it, nor of the entwining serpents which appear in late works of art. According to the Homeric hymn and Apollodorus, he received it from Apollo; and it appears that we must distinguish two staves, which were afterwards united into one: first, the ordinary herald's staff (
+     <em>
+      Il.
+     </em>
+     vii. 277, xviii. 505), and secondly, a magic staff, such as other divinities also possessed. (Lucian,
+     <em>
+      Dial. Deor.
+     </em>
+     vii. 5; Virg.
+     <em>
+      Aen.
+     </em>
+     iv. 242, &amp;c.) The white ribbons with which the herald's staff was originally surrounded were changed by later artists into two serpents (Schol.
+     <em>
+      ad Thuc.
+     </em>
+     i. 53; Macrob.
+     <em>
+      Sat.
+     </em>
+     i. 19; comp. Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 7; Serv.
+     <em>
+      ad Aen.
+     </em>
+     iv. 242, viii. 138), though the ancients themselves accounted for them either by tracing them to some feat of the god, or by regarding them as symbolical representations of prudence, life, health, and the like. The staff, in later times, is further adorned with a pair of wings, expressing the rapidity with which the messenger of the gods moved from place to place.
+     <br/>
+     3. The sandals (pedila.) They were beautiful and golden, and carried the god across land and sea with the rapidity of wind; but Homer no where says or suggests that they were provided with wings. The plastic art, on the other hand, required some outward sign to express this quality of the god's sandals, and therefore formed wings at his ancles, whence he is called ptênopedilos, or
+     <em>
+      alipes.
+     </em>
+     (Orph.
+     <em>
+      Hymn.
+     </em>
+     xxvii. 4; Ov.
+     <em>
+      Met.
+     </em>
+     xi. 312.)
+     <br/>
+     In addition to these attributes, Hermes sometimes holds a purse in his hands. Several representations of the god at different periods of his life, as well as in the discharge of his different functions, have come down to us.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Hymns">
+     HYMNS TO HERMES
+    </h3>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/K11.6.html">
+      <img alt="Hermes the Herald | Apulian red-figure volute krater C5th B.C. | National Archaeological Museum of Taranto" class="img-responsive center-block" src="../image/K11.6Hermes.jpg"/>
+     </a>
+     <figcaption>
+      Hermes the Herald, Apulian red-figure volute krater C5th B.C.,
+      <a href="http://www.museotaranto.org/" target="_blank">
+       National Archaeological Museum of Taranto
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I. THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 4 to Hermes (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "Mousa (Muse), sing of Hermes, the son of Zeus and Maia, lord of Kyllene (Cyllene) and Arkadia (Arcadia) rich in flocks, the luck-bringing (
+     <em>
+      eriounes
+     </em>
+     ), messenger of the gods (
+     <em>
+      angelos athanaton
+     </em>
+     ) whom Maia bare, the rich-tressed Nymphe, when she was joined in love with Zeus . . .
+     <br/>
+     [Zeus] commanded that glorious Hermes should be lord over all birds of omen and grim-eyed lions, and boars with gleaming tusks, and over dogs and all flocks that the wide earth nourishes, and over all sheep; also that he only should be the appointed messenger to Hades, who, though he takes no gift, shall give him no mean prize . . .
+     <br/>
+     He consorts with all mortals and immortals: a little he profits, but continually throughout the dark night he cozens the tribes of mortal men. And so, farewell, Son of Zeus and Maia; but I will remember you and another song also."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 18 to Hermes :
+     </span>
+     <br/>
+     "I sing of Hermes Kyllenios (of Mt Kyllene), Argeiphontes (the Slayer of Argus), lord of Kyllene (Cyllene) and Arkadia rich in flocks,  luck-bringing (
+     <em>
+      eriones
+     </em>
+     )  messenger of the deathless gods (
+     <em>
+      angelos athanaton
+     </em>
+     ). He was born of Maia, the daughter of Atlas, when she had made with Zeus,--a shy goddess she. Ever she avoided the throng of the blessed gods and lived in a shadowy cave, and there Kronion (Cronion) [Zeus] used to lie with the rich-tressed Nymphe at dead of night, while white-armed Hera lay bound in sweet sleep: and neither deathless god nor mortal man knew it. 
+  And so hail to you, Son of Zeus and Maia; with you I have begun: now I will turn to another song! Hail, Hermes, giver of grace (
+     <em>
+      kharidotes
+     </em>
+     ),  guide (
+     <em>
+      diaktoros
+     </em>
+     ), and  giver of good things (
+     <em>
+      dotor eaon
+     </em>
+     )!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 29 to Hestia :
+     </span>
+     <br/>
+     "Hestia, in the high dwellings of all . . . you have gained an everlasting abode and highest honour: glorious is your portion and your right. For without you mortals hold no banquet . . . 
+  And you, Argeiphontes [Hermes], Son of Zeus and Maia, messenger of the blessed gods (a
+     <em>
+      ngelos makaron
+     </em>
+     ),  bearer of the golden rod (
+     <em>
+      khrysorrapis
+     </em>
+     ),  giver of good (
+     <em>
+      dotor eaon
+     </em>
+     ), be favourable and help us, you and Hestia, the worshipful and dear. Come and dwell in this glorious house in friendship together; for you two, well knowing the noble actions of men, aid on their wisdom and their strength. Hail, Daughter of Kronos (Cronus), and you also, Hermes Khrysorrapis! Now I will remember you and another song also."
+    </p>
+    <h4>
+     II. THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 28 to Hermes (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Hermes, Fumigation from Frankincense. Hermes, draw near, and to my prayer incline, messenger of Zeus, and Maia's son divine; prefect of contests, ruler of mankind, with heart almighty, and a prudent mind. Celestial messenger of various skill, whose powerful arts could watchful Argos kill. With winged feet 'tis thine through air to course, O friend of man, and prophet of discourse; great life-supporter, to rejoice is thine in arts gymnastic, and in fraud divine. With power endued all language to explain, of care the loosener, and the source of gain. Whose hand contains of blameless peace the rod, Korykion (Corycion), blessed, profitable God. Of various speech, whose aid in works we find, and in necessities to mortal kind. Dire weapon of the tongue, which men revere, be present, Hermes, and thy suppliant hear; assist my works, conclude my life with peace, give graceful speech, and memory's increase."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 57 to Chthonian Hermes :
+     </span>
+     <br/>
+     "To Hermes Khthonios (Chthonian, of the Underworld), Fumigation from Storax. Hermes, I call, whom fate decrees to dwell near to Kokytos, the famed stream of Haides, and in necessity's (Ananke's) dread path, whose bourn to none that reach it ever permits return. O Bakkheios (Bacchian) Hermes, progeny divine of Dionysos, parent of the vine, and of celestial Aphrodite, Paphian queen, dark-eyelashed Goddess, of a lovely mien: who constant wanderest through the sacred seats where Haides' dread empress, Persephone, retreats; to wretched souls the leader of the way, when fate decrees, to regions void of day. Thine is the wand which causes sleep to fly, or lulls to slumberous rest the weary eye; for Persephone, through Tartaros dark and wide, gave thee for ever flowing souls to guide. Come, blessed power, the sacrifice attend, and grant thy mystics' works a happy end."
+    </p>
+    <hr/>
+    <h3 id="Descriptions">
+     PHYSICAL DESCRIPTIONS OF HERMES
+    </h3>
+    <p>
+     Classical literature provides only a few, brief descriptions of the physical characteristics of the gods.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 10. 135 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "I was met by golden-wanded Hermes; he seemed a youth in the lovely spring of life, with the first down upon his lip."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 583 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "He [Hermes] fastened on his ankle-wings, grasped in his fist the wand that charms to sleep, put on his magic cap, and thus arrayed Jove's [Zeus'] son [Hermes] sprang from his father's citadel down to earth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 730 ff :
+     </span>
+     <br/>
+     "[Hermes has] such trust in his good looks! Yet though his trust was sound, he spared no pains; he smoothed his hair, arranged his robe to hang aright, to show the whole long golden hem, saw that his wand, the wand he wields to bring and banish sleep, shone with a polish, and his ankle-wings were lustrous and his sandals brushed and clean."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 10. 30 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek play portraying the Judgement of Paris:] A radiant boy appeared, naked except for a youth's cloak draped over his left shoulder; his blonde hair made him the cynosure of all eyes. Tiny wings of gold were projecting from his locks, in which they had been fastened symmetrically on both sides. The herald's staff and the wand which he carried identified him as Mercurius [Hermes]."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Hermes (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "They create [images of] him [Hermes] as the youngest of all [the gods]."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.11.html">
+        <img alt="Thumbnail Hermes the Herald" src="../image/thumbK11.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.11 Hermes the Herald
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.1.html">
+        <img alt="Thumbnail Hermes the Herald" src="../image/thumbK11.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.1 Hermes the Herald
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.6.html">
+        <img alt="Thumbnail Hermes the Herald" src="../image/thumbK11.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.6 Hermes the Herald
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.7.html">
+        <img alt="Thumbnail Hermes the Herald" src="../image/thumbK11.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.7 Hermes the Herald
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.9.html">
+        <img alt="Thumbnail Bust of the God Hermes" src="../image/thumbK11.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.9 Bust of the God Hermes
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.8.html">
+        <img alt="Thumbnail Hermes Riding Ram" src="../image/thumbK11.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.8 Hermes Riding Ram
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.19.html">
+        <img alt="Thumbnail Hermes, Dionysus, Silenus" src="../image/thumbK12.19.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.19 Hermes, Dionysus, Silenus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.2.html">
+        <img alt="Thumbnail Hermes, Infant Dionysus" src="../image/thumbK11.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.2 Hermes, Infant Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.11B.html">
+        <img alt="Thumbnail Muses, Apollo, Hermes" src="../image/thumbK20.11B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.11B Hermes, Apollo, Muses
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.11.html">
+        <img alt="Thumbnail Hermes, Birth of Athena" src="../image/thumbK8.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.11 Hermes, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.14.html">
+        <img alt="Thumbnail Hermes, Birth of Athena" src="../image/thumbK8.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.14 Hermes, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.13.html">
+        <img alt="Thumbnail Hermes &amp; Infant Heracles" src="../image/thumbK11.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.13 Hermes &amp; Infant Heracles
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T23.1.html">
+        <img alt="Thumbnail Hermes, Maia, Apollo, Zeus" src="../image/thumbT23.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T23.1 Hermes, Maia, Apollo, Zeus
+        </h3>
+        <p>
+         Caeretan Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.18.html">
+        <img alt="Thumbnail Hermes, Dionysus, Ariadne" src="../image/thumbK12.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.18 Hermes, Dionysus, Ariadne
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P21.4.html">
+        <img alt="Thumbnail Iris Nursing Hermes" src="../image/thumbP21.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P21.4 Iris Nursing Hermes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.13.html">
+        <img alt="Thumbnail Hermes, Birth of Dionysus" src="../image/thumbK12.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.13 Hermes, Birth of Dionysus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K45.2.html">
+        <img alt="Thumbnail Hermes, Apollo, Bendis" src="../image/thumbK45.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K45.2 Hermes, Apollo, Bendis
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.4.html">
+        <img alt="Thumbnail Hermes, Aphrodite, Eros" src="../image/thumbK10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.4 Hermes, Aphrodite, Eros
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.5.html">
+        <img alt="Thumbnail Hermes, Apollo, Heracles" src="../image/thumbK11.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.5 Hermes, Apollo, Heracles
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H2.7.html">
+        <img alt="Thumbnail Hermes, Heracles, Nike" src="../image/thumbH2.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H2.7 Hermes, Heracles, Nike
+        </h3>
+        <p>
+         Lucanian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.3.html">
+        <img alt="Thumbnail Hermes &amp; Giant Hippolytus" src="../image/thumbK11.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.3 Hermes &amp; Giant Hippolytus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L11.3.html">
+        <img alt="Thumbnail Hermes &amp; Argus Panoptes" src="../image/thumbL11.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L11.3 Hermes &amp; Argus Panoptes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L11.2.html">
+        <img alt="Thumbnail Hermes &amp; Argus Panoptes" src="../image/thumbL11.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L11.2 Hermes &amp; Argus Panoptes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L11.1.html">
+        <img alt="Thumbnail Hermes &amp; Argus Panoptes" src="../image/thumbL11.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L11.1 Hermes &amp; Argus Panoptes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.6.html">
+        <img alt="Thumbnail Hermes &amp; Judgement of Paris" src="../image/thumbK4.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.6 Hermes &amp; Judgement of Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.5.html">
+        <img alt="Thumbnail Hermes &amp; Judgement of Paris" src="../image/thumbK4.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.5 Hermes &amp; Judgement of Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.2.html">
+        <img alt="Thumbnail Hermes &amp; Birth of Aphrodite" src="../image/thumbK10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.2 Hermes &amp; Birth of Aphrodite
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.8.html">
+        <img alt="Thumbnail Hermes, Perseus, Medusa" src="../image/thumbP23.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.8 Hermes, Perseus, Medusa
+        </h3>
+        <p>
+         Greek Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.9.html">
+        <img alt="Thumbnail Hermes &amp; Persephone" src="../image/thumbK14.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.9 Hermes &amp; Persephone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.7.html">
+        <img alt="Thumbnail Hermes, Return of Persephone" src="../image/thumbK14.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.7 Hermes, Return of Persephone
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.2.html">
+        <img alt="Thumbnail Hermes, Heracles, Cerberus" src="../image/thumbT16.2B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.2 Hermes, Heracles, Cerberus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M12.3.html">
+        <img alt="Thumbnail Hermes, Heracles, Cerberus" src="../image/thumbM12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M12.3 Hermes, Heracles, Cerberus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N12.1.html">
+        <img alt="Thumbnail Hermes, Body of Sarpedon" src="../image/thumbN12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N12.1 Hermes, Body of Sarpedon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.10.html">
+        <img alt="Thumbnail Hermes Psychopomp" src="../image/thumbK11.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.10 Hermes Psychopomp
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N11.5.html">
+        <img alt="Thumbnail Hermes &amp; Charon" src="../image/thumbN11.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N11.5 Hermes &amp; Charon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N11.3.html">
+        <img alt="Thumbnail Hermes &amp; Charon" src="../image/thumbN11.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N11.3 Hermes &amp; Charon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.14.html">
+        <img alt="Thumbnail Hermes, Birth of Dionysus" src="../image/thumbK12.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.14 Hermes, Birth of Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.7.html">
+        <img alt="Thumbnail Hermes, Birth of Erichthonius" src="../image/thumbT1.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.7 Hermes, Birth of Erichthonius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.12.html">
+        <img alt="Thumbnail Hermes, Hera, Ares, Ixion" src="../image/thumbK4.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.12 Hermes, Hera, Ares, Ixion
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T8.2.html">
+        <img alt="Thumbnail Hermes, Zeus, Themis, Athena" src="../image/thumbT8.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T8.2 Hermes, Zeus, Themis, Athena
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M12.5.html">
+        <img alt="Thumbnail Hermes, Heracles, Cerberus" src="../image/thumbM12.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M12.5 Hermes, Heracles, Cerberus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O16.2.html">
+        <img alt="Thumbnail Hermes, Heracles, Pholus" src="../image/thumbO16.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O16.2 Hermes, Heracles, Pholus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H2.6.html">
+        <img alt="Thumbnail Hermes, Athena, Heracles" src="../image/thumbH2.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H2.6 Hermes, Athena, Heracles
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L1.1.html">
+        <img alt="Thumbnail Hermes &amp; Giant Alcyoneus" src="../image/thumbL1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L1.1 Hermes &amp; Giant Alcyoneus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T19.9.html">
+        <img alt="Thumbnail Hermes Psychostasia" src="../image/thumbT19.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T19.9 Hermes Psychostasia
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.14.html">
+        <img alt="Thumbnail Hermes Psychostasia" src="../image/thumbK11.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.14 Hermes Psychostasia
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.1.html">
+        <img alt="Thumbnail Hermes, Creation Pandora" src="../image/thumbT22.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.1 Hermes, Creation Pandora
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.4.html">
+        <img alt="Thumbnail Hermes, Satyr &amp; Deer" src="../image/thumbK11.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.4 Hermes, Satyr &amp; Deer
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.12.html">
+        <img alt="Thumbnail Herma Fertility Statue" src="../image/thumbK11.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.12 Herma Fertility Statue
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.5.html">
+        <img alt="Thumbnail Hermes, Theseus, Ariadne" src="../image/thumbN13.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.5 Hermes, Theseus, Ariadne
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.4.html">
+        <img alt="Thumbnail Hermes &amp; Aphrodite" src="../image/thumbK31.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.4 Hermes &amp; Aphrodite
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z50.1D.html">
+        <img alt="Thumbnail Hermes as Wednesday" src="../image/thumbZ50.1D.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z50.1D Hermes as Wednesday
+        </h3>
+        <p>
+         Greco-Roman Orbe Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z4.1B.html">
+        <img alt="Thumbnail Hermes &amp; Judgement of Paris" src="../image/thumbZ4.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z4.1B Hermes &amp; Judgement of Paris
+        </h3>
+        <p>
+         Greco-Roman Antioch Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F11.2.html">
+        <img alt="Thumbnail Hermes Portrait" src="../image/thumbF11.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F11.2 Hermes Portrait
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F27.1.html">
+        <img alt="Thumbnail Hermes &amp; the Infant Dionysus" src="../image/thumbF27.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F27.1 Hermes &amp; Infant Dionysus
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F11.1.html">
+        <img alt="Thumbnail Phallic Hermes" src="../image/thumbF11.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F11.1 Phallic Hermes
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.1.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.1 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.2.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.2 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.3.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.3 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.4.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.4 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.5.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.5 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.6.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.6 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Bronze Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.7.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.7 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.8.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.8 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.9.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.9 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.10.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.10 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.11.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.11 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.12.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.12 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.13.html">
+        <img alt="Thumbnail Hermes-Mercury Statue" src="../image/thumbS11.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.13 Hermes-Mercury
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL HERMES PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th-7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Great Eoiae Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="/Text/HesiodMiscellany.html">
+       Hesiod, The Aegimius Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Astronomy Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aesop, Fables
+      <span class="sources-detail">
+       - Greek Fables C6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Corinna, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Libation Bearers
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Seven Against Thebes
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Suppliant Women
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Helen
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Hipparchus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Lysis
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Parthenius.html">
+       Parthenius, Love Romances
+      </a>
+      <span class="sources-detail">
+       - Greek Mythography C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Phlegon of Tralles, Book of Marvels
+      <span class="sources-detail">
+       - Greek Paradoxography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Tryphiodorus.html">
+       Tryphiodorus, The Taking of Ilias
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Servius, Ad Virgil's Aeneid
+      <span class="sources-detail">
+       - Latin Scholiast C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Photius, Myriobiblon
+      <span class="sources-detail">
+       - Byzantine Greek Scholar C9th A.D.
+      </span>
+     </li>
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Source status of Hermes pages:-
+      <br/>
+      1. Fully quoted: Homer (Iliad &amp; Odyssey), Hesiod, Homeric Hymns, Homerica, Aesop, Apollodorus, Pausanias, Strabo, Herodotus, Orphic Hymns, Quintus Smyrnaeus, Callimachus, Parthenius, Aelian, Hyginus (Fabulae &amp; Astronomica), Ovid (Metamorphoses), Apuleius;
+      <br/>
+      2. Partially or not quoted (Greek): Pindar, Greek Lyric (Fragments), Greek Elegaic (Fragments), Apollonius Rhodius, Diodorus Siculus, Antoninus Liberalis, Euripides, Aeschylus, Sophocles, Aristophanes, Plato, Theocritus, Lycophron, Plutarch, Philostratus &amp; Callistratus, Nonnus, Oppian. Colluthus. Tryphiodorus. et. al.;
+      <br/>
+      3. Partially or not quoted (Latin): Ovid (Fasti). Cicero. Statius. Propertius. Valerius Flaccus. et. al.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     HERMES SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD HERMES
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Maia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Herds, trade, thievery, athletics, messengers
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbol
+       </th>
+       <td>
+        Caduceus (herald's wand)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Ram, hare, hawk
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Crocus, strawberry-tree
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Argeiphontes
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Mercury
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     HERMES PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Attributes">
+         Symbols &amp; Attributes
+        </a>
+       </li>
+       <li>
+        <a href="#Family">
+         Family Tree of Hermes
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Hermes
+        </a>
+       </li>
+       <li>
+        <a href="#Descriptions">
+         Physical Descriptions
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesGod.html">
+       Part 2: Hermes God of
+      </a>
+      <ul>
+       <li>
+        <a href="HermesGod.html#Herding">
+         Animal Husbandry
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Heraldry">
+         Heralds &amp; Messengers
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Trade">
+         Trade &amp; Merchants
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Thievery">
+         Thieves &amp; Trickery
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Language">
+         Language &amp; Wiles
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Travel">
+         Roads &amp; Hospitality
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Feast">
+         Feasts &amp; Banquets
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Home">
+         Protector of the Home
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Dogs">
+         Guard Dogs
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#GuideDead">
+         Guide of the Dead
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Sleep">
+         Sleep
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Birds">
+         Birds of Omen
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Dreams">
+         Dreams of Omen
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Divination">
+         Rustic Divination
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Contests">
+         Gymnasiums &amp; Games
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Bucolic">
+         Rustic Music
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Fables">
+         Animal Fables
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Astronomy">
+         Astronomy &amp; the Calendar
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Day">
+         Day of Hermes
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Star">
+         Star of Mercury
+        </a>
+       </li>
+       <li>
+        <a href="HermesGod.html#Foreign">
+         Identified with Foreign Gods
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesFamily.html">
+       Part 3: Hermes Family
+      </a>
+      <ul>
+       <li>
+        <a href="HermesFamily.html#Genealogy">
+         Genealogy
+        </a>
+       </li>
+       <li>
+        <a href="HermesFamily.html#Divine">
+         Divine Offspring
+        </a>
+       </li>
+       <li>
+        <a href="HermesFamily.html#Mortal">
+         Mortal Offspring
+        </a>
+       </li>
+       <li>
+        <a href="HermesFamily.html#Kingdom">
+         Family by Kingdom
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesMyths.html">
+       Part 4: Hermes Myths 1 General
+      </a>
+      <ul>
+       <li>
+        <a href="HermesMyths.html#Birth">
+         Birth &amp; Childhood
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths.html#Theft1">
+         Theft of Apollo's Cattle 1
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths.html#Theft2">
+         Theft of Apollo's Cattle 2
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths.html#Theft3">
+         Theft of Apollo's Cattle 3
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths.html#Lyre">
+         Invention of the Lyre
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesMyths2.html">
+       Part 4: Hermes Myths 2 General
+      </a>
+      <ul>
+       <li>
+        <a href="HermesMyths2.html#Argos">
+         Argus Panoptes
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Gigantes">
+         War of the Giants
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Typhoeus">
+         Flight from Typhoeus
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Pandora">
+         Creation of Pandora
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Language">
+         Babelisation of Tongues
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Pan">
+         Birth of Pan
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Olympic">
+         First Olympic Games
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Pythian">
+         First Pythian Games
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Celebrations">
+         Life of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Troy">
+         The Trojan War
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths2.html#Fables">
+         Hermes in Fable
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesMyths3.html">
+       Part 4: Hermes Myths 3 Herald
+      </a>
+      <ul>
+       <li>
+        <a href="HermesMyths3.html#Herald">
+         Herald &amp; Messenger
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths3.html#Enforcer">
+         Enforcer
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths3.html#Herder">
+         Cattle Herder
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths3.html#Merchant">
+         Merchant
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths3.html#Contest">
+         Contest Leader
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths3.html#Traveller">
+         Guardian of Hospitality
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths3.html#Fostering">
+         Fostering of Infants
+        </a>
+       </li>
+       <li>
+        <a href="HermesMyths3.html#Guide">
+         Guide of the Dead
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesLoves.html">
+       Part 4: Hermes Myths 4 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="HermesLoves.html#Aphrodite">
+         Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Apemosyne">
+         Apemosyne
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Daeira">
+         Brimo
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Karmentis">
+         Carmentis
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Khione">
+         Chione
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Krokos">
+         Crocus
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Daeira">
+         Daeira
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Herse">
+         Herse
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Iphthime">
+         Iphthime
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Oreiades">
+         The Oreads
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Peitho">
+         Peitho
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Penelopeia">
+         Penelope
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Persephone">
+         Persephone
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Polymele">
+         Polymele
+        </a>
+       </li>
+       <li>
+        <a href="HermesLoves.html#Tanagra">
+         Tanagra
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesWrath.html">
+       Part 4: Hermes Myths 5 Wrath
+      </a>
+      <ul>
+       <li>
+        <a href="HermesWrath.html#Agraulos">
+         Agraulus
+        </a>
+       </li>
+       <li>
+        <a href="HermesWrath.html#Agrios">
+         Agrius &amp; Oreius
+        </a>
+       </li>
+       <li>
+        <a href="HermesWrath.html#Battos">
+         Battus
+        </a>
+       </li>
+       <li>
+        <a href="HermesWrath.html#Khelone">
+         Chelone
+        </a>
+       </li>
+       <li>
+        <a href="HermesWrath.html#Eumelos">
+         Eumelos &amp; Agron
+        </a>
+       </li>
+       <li>
+        <a href="HermesWrath.html#Hierax">
+         Hierax
+        </a>
+       </li>
+       <li>
+        <a href="HermesWrath.html#Lydians">
+         The Lydians
+        </a>
+       </li>
+       <li>
+        <a href="HermesWrath.html#Pelops">
+         Pelops
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesFavour.html">
+       Part 4: Hermes Myths 6 Favour
+      </a>
+      <ul>
+       <li>
+        <a href="HermesFavour.html#Aesop">
+         Aesop
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Aithalides">
+         Aethalides
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Amphion">
+         Amphion
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Autolykos">
+         Autolycus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Kadmos">
+         Cadmus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Daphnis">
+         Daphnis
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Dioskouroi">
+         The Dioscuri
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Herakles">
+         Heracles
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Hermaphroditos">
+         Hermaphroditus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Hyrieus">
+         Hyrieus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Myrtilos">
+         Myrtilus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Nephele">
+         Nephele &amp; Phrixus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Odysseus">
+         Odysseus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Orpheus">
+         Orpheus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Perseus">
+         Perseus
+        </a>
+       </li>
+       <li>
+        <a href="HermesFavour.html#Philemon">
+         Philemon &amp; Baucis
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HermesTreasures.html">
+       Part 5: Estate &amp; Attributes
+      </a>
+      <ul>
+       <li>
+        <a href="HermesTreasures.html#Boots">
+         Winged Boots
+        </a>
+       </li>
+       <li>
+        <a href="HermesTreasures.html#Boots">
+         Cap of Invisibility
+        </a>
+       </li>
+       <li>
+        <a href="HermesTreasures.html#Rod">
+         Herald's Rod
+        </a>
+       </li>
+       <li>
+        <a href="HermesTreasures.html#Blade">
+         Golden Blade
+        </a>
+       </li>
+       <li>
+        <a href="HermesTreasures.html#Pipes">
+         Shepherd's Pipe
+        </a>
+       </li>
+       <li>
+        <a href="HermesTreasures.html#Cattle">
+         Cattle
+        </a>
+       </li>
+       <li>
+        <a href="HermesTreasures.html#Animals">
+         Sacred Animals
+        </a>
+       </li>
+       <li>
+        <a href="HermesTreasures.html#Plants">
+         Sacred Plants
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/HermesCult.html">
+       Part 6: Cult of Hermes
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/HermesCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Hermai">
+         Hermae Stones
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesCult.html#Troia">
+         Troad, Anatolia
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/HermesTitles.html">
+       Part 7: Titles &amp; Epithets
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/HermesTitles.html#Poetic">
+         Poetic Titles &amp; Epithets
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HermesTitles.html#Cult">
+         Cult Titles
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Summary/Hermes.html">
+       Summary of Hermes
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

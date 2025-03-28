@@ -1,0 +1,2331 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ATLAS - Greek Titan God, Bearer of the Heavens
+  </title>
+  <meta content="In Greek mythology Atlas was the Titan god who bore the sky aloft. He personified the quality of endurance. Atlas was a leader of the Titanes (Titans) in their war against Zeus and after their defeat he was condemned to carry the heavens upon his shoulders. According to others he was instead (or later) appointed guardian of the pillars which held the earth and sky asunder." name="description"/>
+  <meta content="Atlas, Titan, Greek mythology, bearer of the heavens, Titan Atlas pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/sky-gods.html">
+      Sky Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/titans.html">
+      Titans
+     </a>
+     &gt;&gt;  Atlas
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ATLAS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ατλας
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Atlas
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Atlas
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Endures, Dares (
+       <em>
+        atlaô
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/T20.1B.html">
+      <img alt="Titan Atlas | Laconian black-figure amphoriskos C6th B.C. | Vatican City Museums" class="img-responsive center-block" src="../image/T20.1Atlas.jpg"/>
+     </a>
+     <figcaption>
+      Titan Atlas bearing the sky, Laconian black-figure amphoriskos C6th B.C.,
+      <a href="http://mv.vatican.va/" target="_blank">
+       Vatican City Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ATLAS was the Titan god who bore the sky aloft. He personified the quality of endurance (
+     <em>
+      atlaô
+     </em>
+     ).
+    </p>
+    <p>
+     Atlas was a leader of the Titanes (Titans) in their war against
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     and after their defeat he was condemned to carry the heavens upon his shoulders. According to others he was instead (or later) appointed guardian of the pillars which held the earth and sky asunder. Atlas was also the god who instructed mankind in the art of astronomy, a tool which was used by sailors in navigation and farmers in measuring the seasons. These roles were often combined and Atlas becomes the god who turns the heaven on their axis, causing the stars to revolve.
+    </p>
+    <p>
+     Herakles (Heracles) encountered the Titan during his quest for the Golden Apples of the
+     <a href="Hesperides.html">
+      Hesperides
+     </a>
+     . He agreed to take the heavens upon his shoulders while Atlas fetched the apples. The hero also slew the
+     <a href="../Ther/DrakonHesperios.html">
+      Hesperian Drakon
+     </a>
+     (Hesperian Dragon), which in vase painting appears as the Titan's tormentor, and built two great pillars at the ends of the earth, perhaps to relieve the Titan of his labour.
+    </p>
+    <p>
+     In a late myth, Atlas was transformed into the stony Atlas mountain by Perseus using the
+     <a href="../Pontios/Gorgones.html">
+      Gorgon
+     </a>
+     's head. The Titan was also the
+     <a href="../greek-mythology/star-myths.html">
+      constellation
+     </a>
+     Kneeler.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF ATLAS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="TitanIapetos.html">
+      IAPETOS
+     </a>
+     &amp;
+     <a href="TitanisKlymene.html">
+      KLYMENE
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 507, Hyginus Pref)
+     </span>
+     <br/>
+     [1.2]
+     <a href="TitanIapetos.html">
+      IAPETOS
+     </a>
+     &amp;
+     <a href="TitanisKlymene.html">
+      ASIA
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.8)
+     </span>
+     <br/>
+     [1.3]
+     <a href="TitanIapetos.html">
+      IAPETOS
+     </a>
+     <span class="family-refs">
+      (Ovid Metamorphoses 4.627)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Nymphe/NymphaiPleiades.html">
+      THE PLEIADES
+     </a>
+     <span class="family-refs">
+      (Hesiod Works &amp; Days 383, Hesiod Astronomy Frag 1, Simonides Frag 555, Aeschylus Frag 172, Ovid Metamorphoses 6.169, Nonnus Dionysiaca 3.349)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Nymphe/NymphaiPleiades.html">
+      THE PLEIADES
+     </a>
+     (by
+     <a href="../Nymphe/NymphePleione.html">
+      Pleione
+     </a>
+     )
+     <span class="family-refs">
+      (Apollodorus 3.110, Ovid Fasti 5.79)
+     </span>
+     <br/>
+     [1.3]
+     <a href="../Nymphe/NymphaiPleiades.html">
+      THE PLEIADES
+     </a>
+     ,
+     <a href="../Nymphe/NymphaiHyades.html">
+      THE HYADES
+     </a>
+     ,
+     <a href="Hyas.html">
+      HYAS
+     </a>
+     (by
+     <a href="../Nymphe/NymphePleione.html">
+      Pleione
+     </a>
+     or
+     <a href="../Nymphe/NymphePleione.html">
+      Aethra
+     </a>
+     )
+     <span class="family-refs">
+      (Hyginus Fabulae 192, Hyginus Astronomica 2.21, Ovid Fasti 5.164)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Nymphe/NympheKalypso.html">
+      KALYPSO
+     </a>
+     <span class="family-refs">
+      (Homer Odyssey 1.52, Apollodorus E7.23)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Nymphe/NympheMaira.html">
+      MAIRA
+     </a>
+     <span class="family-refs">
+      (Pausanias 8.12.7)
+     </span>
+     <br/>
+     [4.1]
+     <a href="../Nymphe/NympheDione.html">
+      DIONE
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 83, Ovid Metamorphoses 6.172)
+     </span>
+     <br/>
+     [5.1]
+     <a href="Hesperides.html">
+      THE HESPERIDES
+     </a>
+     (by
+     <a href="Hesperides.html">
+      Hesperis
+     </a>
+     )
+     <span class="family-refs">
+      (Diodorus Sicululs 4.26.2)
+     </span>
+     <br/>
+     [5.2]
+     <a href="Hesperides.html">
+      THE HESPERIDES
+     </a>
+     <span class="family-refs">
+      (Hyginus Astronomica 2.3)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     ATLAS (Atlas), according to Hesiod (
+     <em>
+      Theog.
+     </em>
+     507, &amp;c.), a son of Japetus and Clymene, and a brother of Menoetius, Prometheus, and Epimetheus; according to Apollodorus (i. 2. § 3), his mother's name was Asia; and, according to Hyginus (
+     <em>
+      Fab. Praef.
+     </em>
+     ), he was a son of Aether and Gaea. For other accounts see Diod. iii. 60, iv. 27; Plat.
+     <em>
+      Critias,
+     </em>
+     p. 114; Serv.
+     <em>
+      ad Aen.
+     </em>
+     iv. 247. According to the description of the Homeric poems, Atlas knows the depth of all the sea, and bears the long columns which keep asunder, or carry all around (amphis echousi), earth and heaven. (
+     <em>
+      Od.
+     </em>
+     i. 52.) Hesiod only says, that he bore heaven with his head and hands. (Comp. Aeschyl.
+     <em>
+      Prom.
+     </em>
+     347, &amp;c.; Paus. v. 18. § 1, 11. § 2.) In these passages Atlas is described either as bearing heaven alone, or as bearing both heaven and earth; and several modern scholars have been engaged in investigating which of the two notions was the original one. Much depends upon the meaning of the Homeric expression amphis echousi; if the signification is "the columns which keep asunder heaven and earth," the columns (mountains) must be conceived as being somewhere in the middle of the earth's surface; but if they mean "bear or support all around," they must be regarded as forming the circumference of the earth, upon which the vault of heaven rests
+     <em>
+      apparently.
+     </em>
+     In either case, the meaning of keeping asunder is implied. In the Homeric description of Atlas, the idea of his being a superhuman or divine being, with a personal existence, seems to be blended with the idea of a mountain. The idea of heaven-bearing Atlas is, according to Letronne, a mere personification of a cosmographic notion, which arose from the views entertained by the ancients respecting the nature of heaven and its relation to the earth; and such a personification, when once established, was further developed and easily connected with other myths, such as that of the Titans. Thus Atlas is described as the leader of the Titans in their contest with Zeus, and, being conquered, he was condemned to the labour of bearing heaven on his head and hands. (Hesiod,
+     <em>
+      l c.;
+     </em>
+     Hygin.
+     <em>
+      Fab.
+     </em>
+     150.) Still later traditions distort the original idea still more, by putting rationalistic interpretations upon it, and make Atlas a man who was metamorphosed into a mountain. Thus Ovid (
+     <em>
+      Met.
+     </em>
+     iv. 630,&amp;c., comp. ii. 296) relates, that Perseus came to him and asked for shelter, which he was refused, whereupon Perseus, by means of the head of Medusa, changed him into mount Atlas, on which rested heaven with all its stars. Others go still further, and represent Atlas as a powerful king, who possessed great knowledge of the courses of the stars, and who was the first who taught men that heaven had the form of a globe. Hence the expression that heaven rested on his shoulders was regarded as a mere figurative mode of speaking. (Diod. iii. 60, iv. 27; Paus. ix. 20. § 3; Serv.
+     <em>
+      ad Aen.
+     </em>
+     i. 745; Tzetz.
+     <em>
+      ad Lycophr.
+     </em>
+     873.) At first, the story of Atlas referred to one mountain only, which was believed to exist on the extreme boundary of the earth; but, as geographical knowledge extended, the name of Atlas was transferred to other places, and thus we read of a Mauritanian, Italian, Arcadian, and even of a Caucasian, Atlas. (Apollod. iii. 10. § 1 ; Dionys. i. 61; Serv.
+     <em>
+      ad Aen.
+     </em>
+     viii. 134.) The common opinion, however, was, that the heaven-bearing Atlas was in the north-western part of Africa, and the range of mountains in that part of the world bears the name of Atlas down to this day. Atlas is said to have been the father of the Pleiades by Pleione or by Hesperis, of the Hyades and Hesperides by Aethra, and of Oenomaus and Maea by Sterope. (Apollod. iii. 10. § 1; Diod. iv. 27; Serv.
+     <em>
+      ad Aen.
+     </em>
+     viii. 130.) Dione and Calypso, and Hyas and Hesperus, are likewise called his children. (Hom.
+     <em>
+      Od.
+     </em>
+     vii. 245; Hygin.
+     <em>
+      Fab.
+     </em>
+     83.) Atlas was painted by Panaenus on the parapet surrounding the statue of the Olympian Zeus (Paus. v. 11. § 2); on the chest of Cypselus he was seen carrying heaven and holding in his hands the golden apples of the Hesperides; and on the throne of Apollo at Amyclae he was likewise represented. (Paus. v. 18. § 1, iii. 18. § 7.)
+    </p>
+    <p>
+     TE′LAMON (Telamôn). A surname of Atlas, describing him as the sufferer or bearer of heaven, from
+     <em>
+      tlaô
+     </em>
+     . (Serv.
+     <em>
+      ad Aen.
+     </em>
+     i. 741, iv. 246.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF ATLAS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T20.1.html">
+      <img alt="Titans Atlas and Prometheus | Laconian black-figure amphoriskos C6th B.C. | Vatican City Museums" class="img-responsive center-block" src="../image/T20.1Titanes_sm.jpg"/>
+     </a>
+     <figcaption>
+      Titans Atlas and Prometheus, Laconian black-figure amphora C6th B.C.,
+      <a href="http://www.museivaticani.va/" target="_blank">
+       Vatican City Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 507 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Now Iapetos (Iapetus) took to wife the neat-ankled maid Klymene (Clymene), daughter of Okeanos (Oceanus), and went up with her into one bed. And she bare him a stout-hearted son, Atlas; also she bare very glorious Menoitios (Menoetius) and clever Prometheus, full of various wiles, and scatter-brained Epimetheus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 8 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Titanes (Titans) had children . . . Atlas who holds the sky on his shoulders, Prometheus, Epimetheus, and Menoitios (Menoetius) . . . were all sons of Iapetos (Iapetus) and Asia."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Aether and Terra  [were born various abstractions] . . .
+     <br/>
+     [From Caelum (Ouranos) and Terra (Gaia) were born ?] Oceanus, Themis, Tartarus, Pontus; the Titanes : Briareus, Gyes, Steropes, Atlas, Hyperion, and Polus [Koios (Coeus)], Saturnus [Kronos (Cronus)], Ops [Rhea], Moneta [Mnemosyne], Dione."
+     <br/>
+     [N.B. Hyginus'
+     <em>
+      Preface
+     </em>
+     survives only in summary. The Titanes should be listed as children of Ouranos (Caelum) and Gaia (Terra) not Aither and Gaia, but the notation to this effect seems to have been lost in the transcription.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Iapetus and Clymene [were born] : Atlas, Epimetheus, Prometheus."
+    </p>
+    <hr/>
+    <h3 id="Titanes">
+     ATLAS &amp; THE WAR OF THE TITANS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 150 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "After Juno [Hera] saw that Epaphus, born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titanes (Titans) to drive Jove [Zeus] from the kingdom and restore it to Saturn [Kronos]. When they tried to mount to heaven, Jove with the help of Minerva [Athena], Apollo, and Diana [Artemis], cast them headlong into Tartarus. On Atlas, who had been their leader, he put the vault of the sky; even now he is said to hold up the sky on his shoulders."
+    </p>
+    <hr/>
+    <h3 id="Bearer">
+     ATLAS BEARER OF THE HEAVENS
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/S34.1.html">
+      <img alt="Farnese Atlas, Greco-Roman marble statue A.D., Naples National Archaeological Museum" class="img-responsive center-block" src="../image/S34.1Atlas.jpg"/>
+     </a>
+     <figcaption>
+      "Farnese Atlas", Greco-Roman marble statue A.D.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 1. 52 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Atlas the baleful (
+     <em>
+      oloophron
+     </em>
+     ); he knows the depths of all the seas, and he, no other, guards (or holds) the tall pillars that keep the sky and earth apart."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 507 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Atlas through hard constraint upholds the wide heaven with unwearying head and arms, standing at the borders of the earth before the clear-voiced Hesperides (Ladies of the West); for this lot wise Zeus assigned to him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 744 ff :
+     </span>
+     <br/>
+     "There [at the sources and ends of earth, sea and underworld] stands the awful home of murky Nyx (Night) wrapped in dark clouds. In front of it the son of Iapetos (Iapetus) [Atlas] stands immovably upholding the wide heaven upon his head and unwearying hands, where Nyx (Night) and Hemera (Day) draw near and greet one another as they pass the great threshold of bronze."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 4. 290 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Does not even now great Atlas struggle to bear up the weight of heaven, far from his fathers' land and his possessions? But almighty Zeus set free the Titanes (Titans) for as time passes and the breeze abates, the sails are set anew."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Simonides, Fragment 556 (from Philodemos, On Piety) (trans. Campbell, Vol. Greek Lyric II) (Greek lyric C6th to 5th B.C.) :
+     </span>
+     <br/>
+     "Simonides represents him [Atlas] as holding the sky on his shoulders."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 349 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Prometheus : I am distressed by the fate of my brother Atlas, who, towards the west, stands bearing on his shoulders the pillar of heaven and earth, a burden not easy for his arms to grasp."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 407 ff :
+     </span>
+     <br/>
+     "[Okeanos (Oceanus) addresses the chained Titan Prometheus :] Now the whole earth cries aloud in lamentation . . . lament the greatness of the glory of your time-hallowed honor, the honor that was yours and your brother's [Atlas'] . . . 
+  One other Titan god before this I have seen in distress, enthralled in torment by adamantine bonds--Atlas, pre-eminent in mighty strength, who moans as he supports the vault of heaven on his back."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 172 (from Athenaeus, Deipnosophists 11. 80. 491A)  :
+      <br/>
+     </span>
+     "And they who bear the name of Atlas' daughters seven [the Pleiades] oft bewailed their sire's supremest labour of sustaining heaven."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 877 (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The desolate dwelling place of Atlas [i.e. Libya]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 11. 415 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Olympian Zeus himself from heaven in wrath smote down the insolent bands of Gigantes (Giants) grim, and shook the boundless earth, Tethys and Okeanos (Oceanus), and the heavens, when reeled the knees of Atlas neath the rush of Zeus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 150 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "On Atlas . . . he [Zeus] put the vault of the sky; even now he is said to hold up the sky on his shoulders."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 296 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[When Phaethon driving the chariot of the sun set the earth aflame :] Even Atlas fails, his shoulders scarce sustain the flaming sky."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 172 :
+     </span>
+     <br/>
+     "That great giant, Atlas, whose shoulders bear the circling sky."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 9. 198 :
+     </span>
+     <br/>
+     "This neck [of Herakles (Heracles)] sustained the sky [in place of Atlas]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 8. 134 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Mighty Atlas who holds aloft on his shoulders the heavenly firmament . . . Atlas who props the starry sky."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 3. 22 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "You behold Atlas supporting the whole of heaven."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 2. 616 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "These lands . . . lashed by the ocean, Neptunus' [Poseidon's] trident, and the slow workings of time the enemy sundered of yore, even as they did the shores of Sicily and Libya, when Janus [whose home was Italy] and Atlas, lord of the sunset mountains [in North Africa], were struck aghast at the crash."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 5. 408 ff :
+     </span>
+     <br/>
+     "[Depicted on the walls of the palace of Aeetes :] There iron Atlas stands in Oceanus, the wave swelling and breaking on his knees; but the god himself [Helios the Sun] on high hurries his shining steeds across the old man's body, and spreads light about the curving sky; behind with smaller wheel follows his sister [Selene the Moon] and the crowded Pleiades and the fires whose tresses are wet with dripping rain [the Hyades]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 97 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Towering Atlas shuddered and shifted the weight of heaven upon his trembling shoulders."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 315 ff :
+     </span>
+     <br/>
+     "With no effort carriest thyself [Gaia, Earth] star-bearing Atlas who staggers under the weight of the celestial realm."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 259 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Typhoeus tells Zeus what he intends to do when he has seized the throne of heaven :] ‘Break the bar of Olympos (Olympus), self-turning, divine! Drag down to earth the heavenly pillar, let Atlas be shaken and flee away, let him throw down the starry vault of Olympos and fear no more its circling course--for I will not permit a son of Earth to be bowed down with chafed shoulders, while he underprops the revolving compulsion of the sky! No, let him leave his endless burden to the other gods, and battle against the Blessed Ones! Let him break off rocks, and volley with those hard shots the starry vault which he once carried! . . . Kronion (Cronion) [Zeus] also shall lift the spinning heavens of Atlas, and bear the load on weary shoulders.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 349 ff :
+     </span>
+     <br/>
+     "And away by the boundary of Libya my [the Pleiad Elektra's] father still suffers hardship, old Atlas with chafing shoulders bowed, upholding the seven-zoned vault of the sky [seven-zoned, i.e. from the sun, moon, planets and fixed stars]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 13. 333 ff :
+     </span>
+     <br/>
+     "By the Tritonian Lake [in Libya], Kadmos (Cadmus) the wanderer lay with rosycheek Harmonia [on their wedding night], and the Nymphai (Nymphs) Hesperides made a song for them . . . Her mother's father the stooping Libyan Atlas [Harmonia's stepmother was Elektra (Electra) daughter of Atlas] awoke a tune of the heavenly harp to join the revels, and with tripping foot he twirled the heavens round like a ball, while he sang a stave of harmony himself not far away."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 103 ff :
+     </span>
+     <br/>
+     "The waters of Khremetes (Chremetes) [a river of North Africa] in the west, where that afflicted ancient, Libyan Atlas, wearily bends under the whirling heavens."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Atlas (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Atlas : He of whom myth tells that he holds up earth and heaven. ‘And the iron shoulders of Atlas.’ And a proverb : ‘Atlas the heaven’; ‘you lifted up’ is omitted. [This is said] in reference to those who undertake great matters and encounter misfortune."
+    </p>
+    <p class="see-also">
+     See also
+     <a href="#Herakles">
+      Atlas &amp; the Labour of Heracles
+     </a>
+     (below)
+    </p>
+    <hr/>
+    <h3 id="Herakles">
+     <a>
+     </a>
+     ATLAS &amp; THE LABOURS OF HERACLES
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/T20.3.html">
+      <img alt="Atlas, Heracles and the golden apples | Athenian black-figure lekythos C6th B.C. | National Archaeological Museum, Athens" class="img-responsive center-block" src="../image/T20.3Atlas.jpg"/>
+     </a>
+     <figcaption>
+      Atlas, Heracles and the golden apples, Athenian black-figure lekythos C6th B.C.,
+      <a href="http://www.namuseum.gr/" target="_blank">
+       National Archaeological Museum, Athens
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Herakles (Heracles) sought the assistance of Atlas in his quest to recover the Apples of the Hesperides. He slew the Drakon which tormented the Titan and took upon himself the weight of the heavens, while Atlas recovered the apples for him. Subsequently Herakles tricked the Titan into retaking the heavens upon his shoulders, or erected the Pillars of Heaven to permanently relieve Atlas of his burden.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 114 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[The golden apples of the Hesperides.] These apples were not, as some maintain, in Libya, but rather were with Atlas among the Hyperboreans. Ge (Gaia, Earth) had given them to Zeus when he married Hera."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 119 - 120 :
+     </span>
+     <br/>
+     "Prometheus advised Herakles (Heracles) not to go after the apples himself, but rather to reelive Atlas of the celestial sphere and dispatch him. So when Herakles reached Atlas among the Hyperboreans, he remembered Prometheus' advise and took over the sphere. Atlas picked three apples from the garden of the Hesperides, then returned to Herakles. Not wanting to hold up the sphere, he told Herakles that he should carry the applies back to Eurystheus, and that Herakles could hold up the sky in his place. Herakles agreed, but by a trick gave the sphere back to Atlas. On the advise of Prometheus he asked Atlas to take the sky while he put a cushion on his head. Hearing this, Atlas set the apples down on the ground, and relieved Herakles of the sphere. Thus Herakles picked them up and left. Some say, however, that he did not take the apples from Atlas, but killed the Drakon (Dragon) that guarded them, and picked them himself. Returning with the apples he gave them to Eurystheus who made a present of them to Herakles. But Athene (Athena) retrieved them from him and took them back, for it was not permitted by diving law to locate them anywhere else."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 1390 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "They [the Argonauts] found the sacred plot where, till the day before, the serpent Ladon, a son of the Libyan soil, had kept watch over the golden apples in the Garden of Atlas."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 11. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "At Olympia [in the temple of Zeus about his statue] there are screens constructed like walls which keep people out. Of these screens . . . parts show pictures by Panainos (Panaenus). Among them is Atlas, supporting heaven and earth, by whose side stands Herakles (Heracles) ready to receive the load of Atlas, along with Theseus; Perithoos (Pirithous), Hellas, and Salamis carrying in her hand the ornament made for the top of a ship's bows . . . and [elsewhere] Prometheus still held by his chains, though Herakles has been raised up to him. For among the stories told about Herakles is one that he killed the eagle which tormented Prometheus in the Kaukasos (Caucasus) , and set free Prometheus himself from his chains. Last in the picture come  . . . two Hesperides are carrying the apples, the keeping of which, legend says, had been entrusted to them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 18. 4 :
+     </span>
+     <br/>
+     "[Among the illustrations on the chest of Kypselos (Cypselus) dedicated at Olympia :] Atlas too is supporting, just as the story has it, heaven and earth upon his shoulders; he is also carrying the apples of the Hesperides. A man holding a sword is coming towards Atlas. This everybody can see is Herakles, though he is not mentioned especially in the inscription, which reads:--Here is Atlas holding heaven, but he will let go the apples."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 19. 8 :
+     </span>
+     <br/>
+     "The third of the treasuries [of Olympia contains wooden images] . . . showing the heavens upheld by Atlas, and also Herakles (Heracles) and the apple-tree of the Hesperides, with the Drakon coiled round the apple-tree. These too are of cedar-wood, and are works of Theokles (Theocles), son of Hegylos. The inscription on the heavens says that his son helped him to make it. The Hesperides (they were removed by the Eleans) were even in my time in the Heraion (Heraeum) (Temple of Hera); the treasury was made for the Epidamnians."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 20 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting at Neapolis (Naples) :] Atlas. With Atlas also did Herakles (Heracles) contend, and that too without a command from Eurystheus, claiming that he could sustain the heavens better than Atlas. For he saw that Atlas was bowed over and crushed by the weight and that he was crouching on one knee alone and barely had strength left to stand, while as for himself, he averred that he could raise the heavens up and after setting them aloft could hold them for a long time. Of course he does not reveal this ambition at all, but merely says that he is sorry for Atlas on account of his labour and would willingly share his burden with him. And Atlas has so gladly seized upon the offer of Herakles that he implores him to venture the task.
+     <br/>
+     Atlas is represented as exhausted, to judge by all the sweat that trickles from him and to infer from his trembling arm, but Herakles earnestly desires the task. This is shown by the eager look on his face, the club thrown on the ground and the hands that beg for the task. There is no need to admire the shaded parts of Herakles' body because they are vigorously drawn--for the attitudes of recumbent figures or persons standing erect are easily shaded, and their accurate reproduction is not at all a mark of skill--but the shadows on Atlas show a high degree of skill; for the shadows on a crouching figure like his run into one another, and do not darken any of the projecting parts but they produce light on the parts that are hollow and retreating. The belly of Atlas, for instance, one can see although he is bending forward, and one can perceive that he is panting. The bodies in the heavens which he carries are painted in the ether that surrounds the stars; one can recognize a bull, that is the Bull of the heavens [i.e. Taurus], and bears, the kind that are seen here. Of the winds some are represented facing in the same direction and others as facing in the opposite direction, and while some are friendly with each other others seem to keep up their strife in the heavens.
+     <br/>
+     You will uphold these heavenly bodies for the present, Herakles; but before long you will live with them in the sky, drinking, and embracing the beautiful Hebe."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 9. 17 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The heaven that is to bear you [Herakles], yourself one bore; Hercules bent to the load of the stars when Atlas was their stay."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 68 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "He [Herakles (Heracles)] swells with pride of tested might, and has learned by bearing them that the heavens can be conquered by his strength; he set his head beneath the sky [in place of Atlas], nor did the burden of that immeasurable mass bend his shoulders, and the firmament rested better on the neck of Hercules. Unshaken, his back upbore the stars and the sky and me [the goddess Hera] down-pressing."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 425 ff :
+     </span>
+     <br/>
+     "By no weight will he [Herakles] be crushed who upbore the heavens."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 325 ff ;
+     </span>
+     <br/>
+     "On those shoulders [of Herakles], on which the royal structure of the lofty sky had rested."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/M24.1.html">
+      <img alt="Heracles, Hesperian Dragon and Atlas | Athenian red-figure krater C5th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/M24.1Ladon_sm.jpg"/>
+     </a>
+     <figcaption>
+      Heracles, Hesperian Dragon and Atlas, Athenian red-figure krater C5th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h3 id="Pillars">
+     ATLAS RELEASED &amp; THE PILLARS OF HEAVEN
+    </h3>
+    <p>
+     Herakles (Heracles) in his labour to fetch the Apples of the Hesperides is said to have set up pillars at the ends of the earth, presumably to relieve the Titan Atlas of his burden. The Titan is described as the guardian of these by Homer, and his release is mentioned by Pindar.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 1. 52 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Atlas the baleful; he knows the depths of all the seas, and he, no other, guards (or holds) the tall pillars that keep the sky and earth apart."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 4. 290 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Does not even now great [Titan] Atlas struggle to bear up the weight of heaven, far from his fathers' land and his possessions? But almighty Zeus set free the Titanes (Titans) [including Atlas], for as time passes and the breeze abates, the sails are set anew."
+    </p>
+    <hr/>
+    <h3 id="Astronomy">
+     ATLAS GOD OF ASTRONOMY
+    </h3>
+    <p>
+     Atlas is described as meditating upon heaven and hell, meaning he studied the constellations, which were believed to be mortal, setting annually in the underworld. Homer says he also meditated on the sea, indicating the role played by astronomy in navigation.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 1. 52 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Atlas the baleful; he knows the depths of all the seas, and he, no other, guards [or holds] the tall pillars that keep the sky and earth apart."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 26. 2 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Atlas had worked out the science of astrology to a degree surpassing others and had ingeniously discovered the spherical arrangement of the stars, and for that reason was generally believed to be bearing the entire firmament upon his shoulders. Similarly in the case of Herakles (Heracles), when he had brought to the Greeks the doctrine of the sphere, he gained great fame, as if he had taken over the burden of the firmament which Atlas had borne, since men intimated in this enigmatic way what had actually taken place."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 20. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "There is near Tanagra [in Boiotia (Boeotia)] . . . Mount Kerykios (Cerycius), the reputed birthplace of Hermes, and also a place called Polos. Here they say that Atlas [the grandfather of Hermes] sat and meditated deeply upon hell (
+     <em>
+      haides
+     </em>
+     ) and heaven (
+     <em>
+      ouranos
+     </em>
+     ), as Homer says of him:-- ‘Daughter of baneful Atlas, who knows the depths of every sea, while he himself holds up [or guards] the tall pillars, which keep apart earth and heaven.’"
+    </p>
+    <p>
+     <span class="quote_oth">
+      Suidas s.v. Prometheus (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "According to the Judges of the Judaeans, Prometheus . . . first discovered scholarly philosophy . . . and Epimetheus, who discovered music; and Atlas, who interpreted astronomy, on account of which they say he holds up the heavens."
+    </p>
+    <hr/>
+    <h3 id="Children">
+     ATLAS FATHER OF  NYMPHS
+    </h3>
+    <p>
+     The daughters of Atlas were the star-nymphe Pleaides and Hyades, and his son, the beautiful youth Hyas. Following his death, Hyas was placed in the heavens as the constellation Aquarius, the lion which slew him as Leo (Aquarius and Leo were seen to rise and set in opposition), and his sisters as the Pleiades and Hyades. He was probably closely connected with Herakles beloved, water-bearer Hylas.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 1. 52 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "A wave-washed island [Ogygia], a wooded island in the navel of the seas. A goddess [Kalypso (Calypso)] has made her dwelling there whose father is Atlas the baleful."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Astronomy Fragment 1 (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "The stormy Peleiades (Pleiades) . . . lovely Teygeta (Taygeta), and dark-faced Elektra (Electra), and Alkyone (Alcyone), and bright Asterope, and Kelaino (Celaeno), and Maia, and Merope, whom glorious Atlas begot."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 172 (from Athenaeus, Deipnosophists 11. 80. 491A) (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+      <br/>
+     </span>
+     "And they who bear the name of Atlas' daughters seven oft bewailed their sire's supremest labour of sustaining heaven, where as wingless Peleiades (Pleiades) they have the form of phantoms of the night [i.e. the Peleiades are stars]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 110 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "To Atlas and Okeanos' (Oceanus') daughter Pleione were born on Arkadian Kyllene (Arcadian Cyllene) seven daughters called the Pleiades, whose names are Alkyone (Alcyone), Merope, Kelaino (Celaeno), Elektra (Electra), Sterope, Taygete (Taygeta), and Maia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 18. 10 - 16 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the throne of Apollon at Amyklai (Amyclae) near Sparta :] To describe the reliefs . . . Poseidon and Zeus are carrying Taygete (Taygeta), daughter of Atlas, and her sister Alkyone (Alcyone). There are also reliefs of [their father] Atlas."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Atlas and Pleione [were born] : Maia, Calypso, Alcyone, Merope, Electra, Celaeno."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 192 :
+     </span>
+     <br/>
+     "Atlas by Pleione or an Oceanitide [Oceanid] had twelve daughters, and a son, Hyas. The son was killed by a wild boar or a lion, and the sisters, grieving for him, died of this grief. The five of them first put among the stars have their place between the horns of the bull--Phaesyla, Ambrosia, Coronis, Eudora, Polyxo--and are called, from their brother's name, Hyades . . . The rest of the sisters, later dying from grief, were made stars, and because they were many, were called Pleiades."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 248 :
+     </span>
+     <br/>
+     "Hyas, son of Atlas and Pleione, [was killed] by a boar, or by a lion."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 750 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Atlantius [i.e. Hermes], Pleione's grandson."
+     <br/>
+     [N.B. Hermes is titled Atlantios, since he is a son of Maia, the daughter of Atlas and Pleione.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 172 ff  :
+     </span>
+     <br/>
+     "My [Niobe's] mother [Dione] ranks as sister of the Pleiades. That great giant, Atlas, whose shoulders bear the circling sky, is one grandfather."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 79 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Titan Tethys was once married to Oceanus, whose translucent waters scarf the broad earth. Their child Pleione couples with sky-lifting Atlas--so the story is--and bears the Pleiades."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 164 ff :
+     </span>
+     <br/>
+     "Atlas did not shoulder the load of Olympus yet, when lovely, eye-catching Hyas was born. Oceanus' daughter, Aethra, bore him and the Nymphae (Nymphs) in timely births, but Hyas was born first . . . [Hyas while hunting] sought the lair and brood of the whelped lioness and was bloody prey to the Libyan beast. His mother sobbed for Hyas, his sad sisters sobbed and Atlas, whose neck would haul the world."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 16. 62 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Hermes] propelled on pinions swift, the grandchild of mighty Atlas and Pelione."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 8. 134 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "[Aeneas addresses King Evander of Latium :] Dardanus, the progenitor and founder of Ilium's city, born, as the Greeks maintain, of Electra, daughter of Atlas, sailed to our Teucrian land: yes, Electra's father was mighty Atlas who holds aloft on his shoulders the heavenly firmament. Now Mercurius [Hermes] is your father--Mercurius whom fair Maia conceived and bore upon the snowy peak of Cyllene. But Maia, if we believe at all the tales we have heard, was begotten by Atlas, the Atlas who props the starry sky."
+    </p>
+    <hr/>
+    <h3 id="Perseus">
+     ATLAS TURNED TO STONE BY PERSEUS
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/T20.2.html">
+      <img alt="Titan Atlas and Gaea, Apulian red-figure volute krater C4th B.C., Dallas Museum of Art, Texas" class="img-responsive center-block" src="../image/T20.2Atlas_sm.jpg"/>
+     </a>
+     <figcaption>
+      Titan Atlas and Gaea, Apulian red-figure volute krater C4th B.C.,
+      <a href="https://www.dma.org/" target="_blank">
+       Dallas Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     This was a late story invented to describe the origin of the heaven-bearing Atlas Mountains of North Africa.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Polyidus, Fragment 837 (from Etymologicum Magnum) (trans. Campbell, Vol. Greek Lyric V)  :
+     </span>
+     <br/>
+     "Atlas : a mountain in Libya. Polyidos (Polyidus) the dithyrambic poet makes Atlas a shepherd: according to him, Perseus arrived on the scene, and Atlas asked who he was and where he had come from; and when Perseus' words failed to persuade him to allow him to pass, he was compelled to show him the Gorgon's face and turned him to stone; and the mountain was called Atlas after him. So the commentary on Lykophron (Lycophron)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 29 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "The exploit of Perseus who, they say, slew in Aithiopia a Ketos (sea-monster) from the Atlantikos (sea of Atlas)."
+     <br/>
+     [N.B. The location of this myth on the Atlantic coast presupposes the Atlas story.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 627 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Now at dusk, fearing to trust the night, he [Perseus flying on winged sandals] landed on the far Hesperian shore, the realm of Atlas, seeking rest awhile . . . Atlas Iapetionides (son of Iapetos) surpassed all men in giant size. He ruled the world's last lands and that far sea that greets the panting horses of the sun and welcomed their tired wheels. A thousand herds roamed on his pastures and a thousand flocks, unchecked, untroubled by a neighbour's bounds; and there were trees whose glittering leaves of gold clothed golden apples under golden boughs. ‘Good friend,’ Perseus addressed him, ‘if renown of lineage may count, I take my line from Juppiter [Zeus], my father; or if deeds can win your admiration, mine you will admire. I ask for rest and lodging.’ But the giant recalled the oracle which Themis Parnasia had given : ‘Atlas, a time shall come when from your tree the gold shall be despoiled, and of that spoil a son of Jove shall boast.’ In fear he had walled his orchards all around with massive ramparts and for guardian set an enormous Draco; and drove off all strangers from the borders of his realm. To Perseus too ‘Away! Begone!’ he cried, ‘Or you shall find no joy in that renown your lies invent, no joy in Juppiter [Zeus]’, and added force to threats, as Perseus tried fair words at first, then bravely grappled him. But when he found his strength surpassed (for who could match the strength of Atlas?) ‘Very well!’ he taunted, ‘If you rate my thanks so low, accept a gift!’ and turned his face away and on his left held out the loathsome head, Medusa's head. Atlas, so huge, became a mountain; beard and hair were changed to forests, shoulders were cliffs, hands ridges; where his head had lately been, the soaring summit rose; his bones were turned to stone. Then each part grew beyond all measure (so the gods ordained) and on his shoulders rested the whole vault of heaven with all the innumerable stars."
+    </p>
+    <hr/>
+    <h3 id="Rationalisation">
+     RATIONALISATION OF THE ATLAS MYTH
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 26. 2 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "[The writer Diodorus Siculus presents a rationalised interpretation of the Atlas myth :] But we must not fail to mention what the myths relate about Atlas and about the race of the Hesperides. The account runs like this: In the country known as Hesperitis there were two brothers whose fame was known abroad, Hesperos (Hesperus) and Atlas. These brothers possessed flocks of sheep which excelled in beauty and were in colour of a golden yellow, this being the reason why the poets, in speaking of these sheep as
+     <em>
+      mela
+     </em>
+     , called them golden
+     <em>
+      mela
+     </em>
+     . Now Hesperos begat a daughter named Hesperis, who he gave in marriage to his brother and after whom the land was given the name Hesperitis; and Atlas begat by her seven daughters, who were named after their father Atlantides, and after their mother Hesperides. And since these Atlantides excelled in beauty and chastity, Busiris the king of the Aigyptians (Egyptians), the account says, was seized with a desire to get the maidens into his power; and consequently he dispatched pirates by sea with orders to seize the girls and deliver them into his hands . . . 
+  [Herakles (Heracles) slew Busiris.]
+     <br/>
+     Meanwhile the pirates had seized the girls while they were playing in a certain garden and carried them off, and fleeing swiftly to their ships had sailed away with them. Herakles came upon the pirates as they were taking their meal on a certain strand, and learning from the maidens what had taken place he slew the pirates to a man and brought the girls back to Atlas their father; and in return Atlas was so grateful to Herakles for his kindly deed that he not only gladly gave him such assistance as his Labour called for, but he also instructed him quite freely in the knowledge of astrology. For Atlas had worked out the science of astrology to a degree surpassing others and had ingeniously discovered the spherical arrangement of the stars, and for that reason was generally believed to be bearing the entire firmament upon his shoulders. Similarly in the case of Herakles, when he had brought to the Greeks the doctrine of the sphere, he gained great fame, as if he had taken over the burden of the firmament which Atlas had borne, since men intimated in this enigmatic way what had actually taken place."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T20.1B.html">
+        <img alt="Thumbnail Image 1" src="../image/thumbT20.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T20.1B Atlas Bearing the Sky
+        </h3>
+        <p>
+         Laconian Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T20.3.html">
+        <img alt="Thumbnail Image 1" src="../image/thumbT20.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T20.3 Atlas &amp; Heracles
+        </h3>
+        <p>
+         Athenian Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T20.2.html">
+        <img alt="Thumbnail Image 1" src="../image/thumbT20.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T20.2 King Atlas &amp; Gaea
+        </h3>
+        <p>
+         Apulian Red  Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M24.1.html">
+        <img alt="Thumbnail Image 1" src="../image/thumbM24.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M24.1 Atlas, Heracles, Dragon
+        </h3>
+        <p>
+         Athenian Red   Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S34.1.html">
+        <img alt="Thumbnail Image 1" src="../image/thumbS34.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S34.1 Atlas Bearing the Heavens
+        </h3>
+        <p>
+         Greco-Roman Naples Statue A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="/Text/HesiodMiscellany.html">
+       Hesiod, The Aegimius Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Simonides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th - 5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Diodorus Siculus 3.60, Servius on the Aeneid 1.745 &amp; 4.247 &amp; 8.134, Tzetzes on Lycophron 873.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     ATLAS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE TITAN ATLAS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Iapetus and Clymene
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Pleione
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Bearer of the heavens, astronomy
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Atlas Mountains
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Celestial sphere
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     ATLAS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Atlas
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of Atlas
+      </a>
+     </li>
+     <li>
+      <a href="#Titanes">
+       Atlas &amp; the Titan-War
+      </a>
+     </li>
+     <li>
+      <a href="#Bearer">
+       Atlas Bearer of the Heavens
+      </a>
+     </li>
+     <li>
+      <a href="#Herakles">
+       Atlas &amp; the Labours of Heracles
+      </a>
+     </li>
+     <li>
+      <a href="#Pillars">
+       Atlas Released &amp; Pillars of Heaven
+      </a>
+     </li>
+     <li>
+      <a href="#Astronomy">
+       Atlas God of Astronomy
+      </a>
+     </li>
+     <li>
+      <a href="#Children">
+       Atlas Father of Nymphs
+      </a>
+     </li>
+     <li>
+      <a href="#Perseus">
+       Atlas Turned to Stone by Perseus
+      </a>
+     </li>
+     <li>
+      <a href="#Rationalisation">
+       Rationalisation of Atlas Myth
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

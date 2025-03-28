@@ -1,0 +1,4164 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   MUSES (Mousai) - Greek Goddesses of Music, Poetry &amp; the Arts
+  </title>
+  <meta content="The Muses were the ancient Greek goddesses of music, song and dance, and the source of inspiration to poets. They were also goddesses of knowledge, who remembered all things that had come to pass. Later the Mousai were assigned specific artistic spheres: Calliope, epic poetry; Clio, history; Urania, astronomy; Thalia, comedy; Melpomene, tragedy; Polyhymnia, religious hymns; Erato, erotic poetry; Euterpe, lyric poetry; and Terpsichore, choral song and dance." name="description"/>
+  <meta content="Muses, Mousai, Musae, Greek mythology, Greek goddesses of music &amp; poetry, Muses pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Muses (Mousai)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     MOUSAI
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Μουσα Μουσαι
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Mousa, Mousai
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Musa, Musae
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Muse, Muses, Of Song
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K20.1C.html">
+      <img alt="Muse with barbiton | Paestan red-figure lekanis C4th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/K20.1CMousa.jpg"/>
+     </a>
+     <figcaption>
+      Muse with barbiton, Paestan red-figure lekanis C4th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE MOUSAI (Muses) were the goddesses of music, song and dance, and the source of inspiration to poets. They were also goddesses of knowledge, who remembered all things that had come to pass. Later the Mousai were assigned specific artistic spheres: Kalliope (Calliope), epic poetry; Kleio (Clio), history; Ourania (Urania), astronomy; Thaleia (Thalia), comedy; Melpomene, tragedy; Polymnia (Polyhymnia), religious hymns; Erato, erotic poetry; Euterpe, lyric poetry; and Terpsikhore (Terpsichore), choral song and dance.
+    </p>
+    <p>
+     In ancient Greek vase painting the Mousai were depicted as beautiful young women with a variety of musical intruments. In later art each of the nine was assigned her own distinctive attribute.
+    </p>
+    <p>
+     There were two alternative sets of Mousai--the three or four
+     <a href="../Titan/Mousai.html">
+      Mousai Titanides
+     </a>
+     and the three
+     <a href="MousaiApollonides.html">
+      Mousai Apollonides
+     </a>
+     .
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE MUSES
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Olympios/Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisMnemosyne.html">
+      MNEMOSYNE
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 1 &amp; 915, Mimnermus Frag, Alcman Frag 8, Solon Frag 13, Apollodorus 1.13, Pausanias 1.2.5, Diodorus Siculus 4.7.1, Orphic Hymns 76 &amp; 77, Antoninus Liberalis 9, Cicero De Natura Deorum 3.21, Arnobius 3.37)
+      <br/>
+     </span>
+     [1.2]
+     <a href="../Olympios/Zeus.html">
+      ZEUS
+     </a>
+     <span class="family-refs">
+      (Homer Odyssey 8.457, Homeric Hymns 32, et al)
+     </span>
+     <br/>
+     [1.3]
+     <a href="../Titan/TitanisMnemosyne.html">
+      MNEMOSYNE
+     </a>
+     <span class="family-refs">
+      (Pindar Paean 7, Terpander Frag 4, Aristotle Frag 842, Plato Theaetetus 191c)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Alcman Frag 67, Mnaseas Frag, Diodorus Siculus 4.7.1, Scholiast on Pindar, Aronobius 3.37)
+     </span>
+     <br/>
+     [2.2]
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     <span class="family-refs">
+      (Mimnermos Frag, Pausanias 9.29.1, Cicero De Natura Deorum 3.21)
+      <br/>
+     </span>
+     [2.3]
+     <a href="../Olympios/Zeus.html">
+      ZEUS
+     </a>
+     &amp; PLOUSIA
+     <span class="family-refs">
+      (Tzetzes on Hesiod 35)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Olympios/Apollon.html">
+      APOLLON
+     </a>
+     <span class="family-refs">
+      (Eumelus Frag 35, Tzetzes on Hesiod 35)
+      <br/>
+     </span>
+     [4.1] PIEROS &amp; ANTIOPE
+     <span class="family-refs">
+      (Cicero De Natura Deorum 3.21, Tzetzes on Hesiod 35)
+     </span>
+    </p>
+    <h3>
+     NAMES
+    </h3>
+    <p>
+     [1.1]
+     <a href="MousaKleio.html">
+      KLEIO
+     </a>
+     ,
+     <a href="MousaEuterpe.html">
+      EUTERPE
+     </a>
+     ,
+     <a href="MousaThaleia.html">
+      THALEIA
+     </a>
+     ,
+     <a href="MousaMelpomene.html">
+      MELPOMENE
+     </a>
+     ,
+     <a href="MousaTerpsikhore.html">
+      TERPSIKHORE
+     </a>
+     ,
+     <a href="MousaErato.html">
+      ERATO
+     </a>
+     ,
+     <a href="MousaPolyhymnia.html">
+      POLYHYMNIA
+     </a>
+     ,
+     <a href="MousaOurania.html">
+      OURANIA
+     </a>
+     ,
+     <a href="MousaKalliope.html">
+      KALLIOPE
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 75, Apollodorus 1.13, Diodorus Siculus 4.7.1, Orphic Hymn 76)
+     </span>
+     <br/>
+     [1.2]
+     <a href="MousaTerpsikhore.html">
+      TERPSIKHORE
+     </a>
+     ,
+     <a href="MousaErato.html">
+      ERATO
+     </a>
+     ,
+     <a href="MousaKalliope.html">
+      KALLIOPE
+     </a>
+     ,
+     <a href="MousaOurania.html">
+      OURANIA
+     </a>
+     <span class="family-refs">
+      (Plato Phaedrus 259)
+     </span>
+     <br/>
+     [1.3] POLYMATHEIA
+     <span class="family-refs">
+      (Plutarch Symposium 9.14)
+     </span>
+     <br/>
+     [2.1] MELETE, AOEDE, MNEME
+     <span class="family-refs">
+      (Pausanias 9.39.3)
+     </span>
+     <br/>
+     [2.2] MELETE, AODE, ARKHE, THELXINOE
+     <span class="family-refs">
+      (Cicero De Natura Deorum 3.21, Tzetzes on Hes. 23)
+      <br/>
+     </span>
+     [3.1] NETE, MESE, HYPATE
+     <span class="family-refs">
+      (Plutarch Symposium 9.14)
+     </span>
+     <br/>
+     [3.2] KEPHISO, APOLLONIS, BORYSTHENIS
+     <span class="family-refs">
+      (Eumelus Frag 35, Tzetzes)
+     </span>
+     <br/>
+     [4.1] NEILO, TRITONE, ASOPO, HEPTAPORA, AKHELOIS, TIPOPLO, RHODIA
+     <span class="family-refs">
+      (Epicharmis, Tzetzes on Hes. 23)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/K20.1B.html">
+      <img alt="Muse with box | Paestan red-figure lekanis C4th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/K20.1BMousa.jpg"/>
+     </a>
+     <figcaption>
+      Muse with box, Paestan red-figure lekanis C4th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     MUSAE (Mousai). The Muses, according to the earliest writers, were the inspiring goddesses of song, and, according to later noticus, divinities presiding over the different kinds of poetry, and over the arts and sciences. They were originally regarded as the nymphs of inspiring wells, near which they were worshipped, and bore different names in different places, until the Thraco-Boeotian worship of the
+     <em>
+      nine
+     </em>
+     Muses spread from Boeotia over other parts of Greece, and ultimately became generally established. (Respecting the Muses conceived as nymphs see Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     vii. 92; Hesych.
+     <em>
+      s. v.
+     </em>
+     Numphê; Steph. Byz.
+     <em>
+      s. v.
+     </em>
+     Torrêbos ; Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vii. 21.)
+    </p>
+    <p>
+     The genealogy of the Muses is not the same in all writers. The most common notion was, that they were the daughters of Zeus and Mnemosyne, and born in Pieria, at the foot of Mount Olympus (Hes.
+     <em>
+      Theog.
+     </em>
+     52, &amp;c., 915; Hom.
+     <em>
+      Il.
+     </em>
+     ii. 491,
+     <em>
+      Od.
+     </em>
+     i. 10; Apollod. i. 3. § 1); but some call them the daughters of Uranus and Gaea (Schol.
+     <em>
+      ad Pind. Nem.
+     </em>
+     iii. 16; Paus. ix. 29. § 2; Diod. iv. 7; Arnob.
+     <em>
+      adv.
+     </em>
+     <em>
+      Gent.
+     </em>
+     iii. 37), and others daughters of Pierus and a Pimpleian nymph, whom Cicero (
+     <em>
+      De Nat. Deor.
+     </em>
+     iii. 21) calls Antiope (Tzetz.
+     <em>
+      ad Hes. Op. et D.
+     </em>
+     p. 6; Paus.
+     <em>
+      l. c.
+     </em>
+     ), or of Apollo, or of Zeus and Plusia, or of Zeus and Moneta, probably a mere translation of Mnemosyne or Mneme, whence they are called Mnemonides (Ov.
+     <em>
+      Met.
+     </em>
+     v. 268), or of Zeus and Minerva (Isid.
+     <em>
+      Orig.
+     </em>
+     iii. 14), or lastly of Aether and Gaea. (Hygin.
+     <em>
+      Fab.
+     </em>
+     Praef.) Eupheme is called the nurse of the Muses, and at the foot of Mount Helicon her statue stood beside that of Linus. (Paus. ix. 29. § 3.)
+    </p>
+    <p>
+     With regard to the number of the Muses, we are informed that originally three were worshipped on Mount Helicon in Boeotia, namely, Melete (meditation), Mneme (memory), and Aoede (song); and their worship and names are said to have been first introduced by Ephialtes and Otus. (Paus. ix. 29. § 1, &amp;c.) Three were also recognised at Sicyon, where one of them bore the name of Polymatheia (Plut.
+     <em>
+      Sympos.
+     </em>
+     ix. 14), and at Delphi, where their names were identical with those of the lowest, middle, and highest chord of the lyre, viz. Nete, Mese, and Hypate (Plut.
+     <em>
+      l. c.
+     </em>
+     ), or Cephisso, Apollonis, and Borysthenis, which names characterise them as the daughters of Apollo. (Tzetz.
+     <em>
+      l. c. ;
+     </em>
+     Arnob. iii. 37; Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vii. 21; Diod. iv. 7.) As daughters of Zeus and Plusia we find mention of four Muses, viz. Thelxinoe (the heart delighting), Aoede (song), Arche (beginning), and Melete. (Cic., Arnob., Tzetz.
+     <em>
+      ll. cc. ;
+     </em>
+     Serv.
+     <em>
+      ad Aen.
+     </em>
+     i. 12.) Some accounts, again, in which they are called daughters of Pierus, mention seven Muses, viz. Neilo, Tritone, Asopo, Heptapora, Achelois, Tipoplo, and Rhodia (Tzetz. Arnob.
+     <em>
+      ll. cc.
+     </em>
+     ), and others, lastly, mention eight, which is also said to have been the number recognised at Athens. (Arnob.
+     <em>
+      l. c.
+     </em>
+     ; Serv.
+     <em>
+      ad Aen.
+     </em>
+     i. 12; Plat.
+     <em>
+      De Re Publ.
+     </em>
+     p. 116.) At length, however, the number nine appears to have become established in all Greece. Homer sometimes mentions Musa only in the singular, and sometimes Musae in the plural, and once only (
+     <em>
+      Od.
+     </em>
+     xxiv. 60) he speaks of nine Muses, though without mentioning any of their names. Hesiod (
+     <em>
+      Theog.
+     </em>
+     77. &amp;c.) is the first that states the names of all the nine, and these nine names henceforth became established. They are Cleio, Euterpe, Thaleia, Melpomene, Terpsichore, Erato, Polymnia, Urania, and Calliope. Plutarch (
+     <em>
+      l. c.
+     </em>
+     ) states that in some places all nine were designated by the common name Mneiae,
+     <em>
+      i. e.
+     </em>
+     Remembrances.
+    </p>
+    <p>
+     If we now inquire into the notions entertained about the nature and character of the Muses, we find that, in the Homeric poems, they are the goddesses of song and poetry, and live in Olympus. (
+     <em>
+      Il.
+     </em>
+     ii. 484.) There they sing the festive songs at the repasts of the immortals (
+     <em>
+      Il.
+     </em>
+     i. 604,
+     <em>
+      Hymn. in Apoll. Pyth.
+     </em>
+     11), and at the funeral of Patroclus they sing lamentations. (
+     <em>
+      Od.
+     </em>
+     xxiv. 60; comp. Pind.
+     <em>
+      Isthm.
+     </em>
+     viii. 126.) The power which we find most frequently assigned to them, is that of bringing before the mind of the mortal poet the events which he has to relate; and that of conferring upon him the gift of song, and of giving gracefulness to what he utters. (
+     <em>
+      Il.
+     </em>
+     ii. 484, 491, 761,
+     <em>
+      Od.
+     </em>
+     i. 1, viii. 63, &amp;c., 481, 488; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 259.) There seems to be no reason for doubting that the earliest poets in their invocation of the Muse or Muses were perfectly sincere, and that they actually believed in their being inspired by the goddesses; but in later times among the Greeks and the Romans, as well as in our own days, the invocation of the Muses is a mere formal imitation of the early poets. Thamyris, who presumed to excel the Muses, was deprived by them of the gift they had bestowed on him, and punished with blindness. (Hom.
+     <em>
+      Il.
+     </em>
+     ii. 594, &amp;c.; Apollod. i. 3. § 3.) The Seirens, who likewise ventured upon a contest with them, were deprived of the feathers of their wings, and the Muses themselves put them on as an ornament (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     P. 85); and the nine daughters of Pierus, who presumed to rival the Muses, were metamorphosed into birds. (Anton. Lib. 9; Ov.
+     <em>
+      Met.
+     </em>
+     v. 300, &amp;c.) As poets and bards derived their power from them, they are frequently called either their disciples or sons. (Hom.
+     <em>
+      Od.
+     </em>
+     viii. 481,
+     <em>
+      Hymn. in Lun.
+     </em>
+     20 ; Hes.
+     <em>
+      Theog.
+     </em>
+     22; Pind.
+     <em>
+      Nem.
+     </em>
+     iii.; Serv.
+     <em>
+      ad Virg. Georg.
+     </em>
+     ii. 476.) Thus Linus is called a son of Amphimarus and Urania (Paus. ix. 29. § 3), or of Apollo and Calliope, or Terpsichore (Apollod. i. 3. § 2); Hyacinthus a son of Pierus and Cleio (Apollod. i. 3. § 3); Orpheus a son of Calliope or Cleio, and Thamyris a son of Erato. These and a few others are the cases in which the Muses are described as mothers; but the more general idea was, that, like other nymphs, they were virgin divinities. Being goddesses of song, they are naturally connected with Apollo, the god of the lyre, who like them instructs the bards, and is mentioned along with them even by Homer. (
+     <em>
+      Il.
+     </em>
+     i. 603,
+     <em>
+      Od.
+     </em>
+     viii. 488.) In later times Apollo is placed in very close connection with the Muses, for he is described as the leader of the choir of the Muses by the surname Mousagetês. (Diod. i. 18.) A further feature in the character of the Muses is their prophetic power, which belongs to them, partly because they were regarded as inspiring nymphs, and partly because of their connection with the prophetic god of Delphi. Hence, they instructed, for example, Aristaeus in the art of prophecy. (Apollon. Rhod. ii. 512.) That dancing, too, was one of the occupations of the Muses, may be inferred from the close connection existing among the Greeks between music, poetry, and dancing. As the inspiring nymphs loved to dwell on Mount Helicon, they were naturally associated with Dionysus and dramatic poetry, and hence they are described as the companions, playmates, or nurses of Dionysus.
+    </p>
+    <p>
+     The worship of the Muses points originally to Thrace and Pieria about mount Olympus, from whence it was introduced into Boeotia, in such a manner that the names of mountains, grottoes, and wells, connected with their worship, were likewise transferred from the north to the south. Near mount Helicon, Ephialtes and Otus are said to have offered the first sacrifices to them; and in the same place there was a sanctuary with their statues, the sacred wells Aganippe and Hippocrene, and on mount Leibethrion, which is connected with Helicon, there was a sacred grotto of the Muses. (Paus. ix. 29. § 1, &amp;c., 30. § 1, 31. § 3; Strab. pp. 410, 471; Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     x. 11.) Pierus, a Macedonian, is said to have been the first who introduced the worship of the
+     <em>
+      nine
+     </em>
+     Muses, from Thrace to Thespiae, at the foot of mount Helicon. (Paus. ix. 29. § 2.) There they had a temple and statues, and the Thespians celebrated a solemn festival of the Muses on mount Helicon, called Mouseia (Paus. ix. 27. § 4, 31. § 3; Pind.
+     <em>
+      Fragm.
+     </em>
+     p. 656, ed. Boeckh; Diod. xvii. 16.) Mount Parnassus was likewise sacred to them, with the Castalian spring, near which they had a temple. (Plut.
+     <em>
+      De Pyth. Orac.
+     </em>
+     17.) From Boeotia, which thus became the focus of the worship of the nine Muses, it afterwards spread into the adjacent and more distant parts of Greece. Thus we find at Athens a temple of the Muses in the Academy (Paus. i. 30. § 2); at Sparta sacrifices were offered to them before fighting a battle (iii. 17. § 5); at Troezene, where their worship had been introduced by Ardalus, sacrifices were offered to them conjointly with Hypnos, the god of sleep (Paus. iii. 31. §4 , &amp;c.); at Corinth, Peirene, the spring of Pegasus, was sacred to them (Pers.
+     <em>
+      Sat.
+     </em>
+     Prol. 4; Stat.
+     <em>
+      Silv.
+     </em>
+     ii. 7. 1); at Rome they had an altar in common with Hercules, who was also regarded as Musagetes, and they possessed a temple at Ambracia adorned with their statues. (Plut.
+     <em>
+      Quaest. Rom.
+     </em>
+     59; Plin.
+     <em>
+      H. N.
+     </em>
+     xxxv. 36.) The sacrifices offered to them consisted of libations of water or milk, and of honey. (Schol.
+     <em>
+      ad Soph. Oed. Col.
+     </em>
+     100; Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vii. 21.) The various surnames by which they are designated by the poets are for the most part derived from the places which were sacred to them or in which they were worshipped, while some are descriptive of the sweetness of their songs.
+    </p>
+    <p>
+     In the most ancient works of art we find only three Muses, and their attributes are musical instruments, such as the flute, the lyre, or the barbiton. Later artists gave to each of the nine sisters different attributes as well as different attitudes, of which we here add a brief account. 1. Calliope, the Muse of epic poetry, appears with a tablet and stylus, and sometimes with a roll of paper; 2. Cleio, the Muse of history, appears in a sitting attitude, with an open roll of paper, or an open chest of books; 3. Euterpe, the Muse of lyric poetry, with a flute; 4. Melpomene, the Muse of tragedy, with a tragic mask, the club of Heracles, or a sword, her head is surrounded with vine leaves, and she wears the cothurnus; 5. Terpsichore, the Muse of choral dance and song, appears with the lyre and the plectrum; 6. Erato, the Muse of erotic poetry and mimic imitation, sometimes, also, has the lyre; 7. Polymnia, or Polyhymnia, the Muse of the sublime hymn, usually appears without any attribute, in a pensive or meditating attitude; 8. Urania, the Muse of astronomy, with a staff pointing to a globe; 9. Thaleia, the Muse of comedy and of merry or idyllic poetry, appears with the comic mask, a shepherd's staff, or a wreath of ivy. In some representations the Muses are seen with feathers on their heads, alluding to their contest with the Seirens.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2 id="Names">
+     <a>
+     </a>
+     ALTERNATE NAME SPELLINGS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Μουσα Μουσαι
+      </p>
+      <p class="names-greek">
+       Μοισα Μοισαι
+      </p>
+      <p class="names-greek">
+       Μωσα Μωσαι
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Mousa, Mousai
+      </p>
+      <p>
+       Moisa, Moisai
+      </p>
+      <p>
+       Môsa, Môsai
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Musa, Musae
+      </p>
+      <p>
+       Musa, Musae
+      </p>
+      <p>
+       Musa, Musae
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Muse, Muses
+      </p>
+      <p>
+       id. (Aeolic spelling)
+      </p>
+      <p>
+       id. (Doric spelling)
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     NAMES OF THE NINE MUSES
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Καλλιοπη
+      </p>
+      <p class="names-greek">
+       Κλειω
+      </p>
+      <p class="names-greek">
+       Ερατω
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Kalliopê
+      </p>
+      <p>
+       Kleiô
+      </p>
+      <p>
+       Eratô
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Calliope
+      </p>
+      <p>
+       Clio
+      </p>
+      <p>
+       Erato
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Beautiful-Voice
+      </p>
+      <p>
+       Make Famous
+      </p>
+      <p>
+       Lovely, Beloved
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ευτερπη
+      </p>
+      <p class="names-greek">
+       Μελπομενη
+      </p>
+      <p class="names-greek">
+       Ουρανιη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Euterpê
+      </p>
+      <p>
+       Melpomenê
+      </p>
+      <p>
+       Ouraniê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Euterpe
+      </p>
+      <p>
+       Melpomene
+      </p>
+      <p>
+       Urania
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Giving Delight
+      </p>
+      <p>
+       Celebrate with Song
+      </p>
+      <p>
+       Heavenly One
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Πολυμνια
+      </p>
+      <p class="names-greek">
+       Τερψιχορη
+      </p>
+      <p class="names-greek">
+       Θαλεια
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Polymnia
+      </p>
+      <p>
+       Terpsikhorê
+      </p>
+      <p>
+       Thaleia
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Polyhymnia
+      </p>
+      <p>
+       Tersichore
+      </p>
+      <p>
+       Thalia
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Many Hymns
+      </p>
+      <p>
+       Delighting in Dance
+      </p>
+      <p>
+       Rich Festivity, Blooming
+      </p>
+     </div>
+    </div>
+    <p>
+     Kalliope's name was derived from the Greek words
+     <em>
+      kalleis
+     </em>
+     "beautiful" and
+     <em>
+      ops
+     </em>
+     "voice", Kleio's from
+     <em>
+      kleô
+     </em>
+     "to make famous", Erato from
+     <em>
+      eratos
+     </em>
+     "lovely"
+  , Euterpe 
+  from
+     <em>
+      eu-
+     </em>
+     "well" and
+     <em>
+      terpô
+     </em>
+     "to delight", Melpomene from
+     <em>
+      melpô
+     </em>
+     "to celebrate with song", Ourania from
+     <em>
+      ouranos
+     </em>
+     "heaven", Polymnia from
+     <em>
+      poly-
+     </em>
+     "many" and
+     <em>
+      hymnos
+     </em>
+     "hymn", Terpsikhore from
+     <em>
+      terpsis
+     </em>
+     "to delight" and
+     <em>
+      khoros
+     </em>
+     "dance", and Thaleia from
+     <em>
+      thaleia
+     </em>
+     "rich feast" or "blooming".
+    </p>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Birth">
+     <a>
+     </a>
+     BIRTH, PARENTAGE &amp; NAMES OF THE MUSES
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K20.1A.html">
+      <img alt="Muse with cithara | Paestan red-figure lekanis C4th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/K20.1AMousa.jpg"/>
+     </a>
+     <figcaption>
+      Muse with lyre, Paestan red-figure lekanis C4th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 597 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The Mousai (Muses), daughters of Zeus who holds the aigis."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 8. 457 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The Mousa (Muse) . . .  daughter of Zeus himself."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 1 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Them [the Mousai (Muses)] in Pieria did Mnemosyne (Memory), who reigns over the hills of Eleuther, bear of union with the father [Zeus], the son of Kronos (Cronus), a forgetting of ills and a rest from sorrow. For nine nights did wise Zeus lie with her, entering her holy bed remote from the immortals. And when a year was passed and the seasons came round as the months waned, and many days were accomplished, she bare nine daughters, all of one mind, whose hearts are set upon song and their spirit free from care, a little way from the topmost peak of snowy Olympos (Olympus). There are their bright dancing-places and beautiful homes, and beside them the Kharites (Charites, Graces) and Himeros (Desire) live in delight. And they, uttering through their lips a lovely voice, sing the laws of all and the goodly ways of the immortals, uttering their lovely voice. Then went they to Olympos, delighting in their sweet voice, with heavenly song, and the dark earth resounded about them as they chanted, and a lovely sound rose up beneath their feet as they went to their father [Zeus]. And he was reigning in heaven, himself holding the lightning and glowing thunderbolt, when he had overcome by might his father Kronos; and he distributed fairly to the immortals [including the Mousai] their portions and declared their privileges . . .
+     <br/>
+     The Mousai (Muses) who dwell on Olympos, nine daughters begotten by great Zeus, Kleio (Clio) and Euterpe, Thaleia (Thalia), Melpomene and Terpsikhore (Terpsichore), and Erato and Polymnia (Polyhymnia) and Ourania (Urania) and Kalliope (Calliope), who is the chiefest of them all."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 915 ff :
+     </span>
+     <br/>
+     "And again, he [Zeus] loved Mnemosyne (Memory) with the beautiful hair: and of her the nine gold-crowned Mousai (Muses) were born who delight in feasts and the pleasures of song."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 32 to Selene (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Sweet voiced Mousai (Muses), daughters of Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Eumelus, Fragment 35 (from Tzetzes, On Hesiod's Works &amp; Days 23) (trans. West, Vol. Greek Epic Fragments) (C8th to 7th B.C.) :
+     </span>
+     <br/>
+     "But Eumelos (Eumelus) of Korinthos (Corinth) says there are three Mousai (Muses), daughters of Apollon: Kephiso (Cephiso), Apollonis, and Borysthenis."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Paean 7 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "I pray to Mnamosyna (Mnemosyne, Memory), the fair-robed child of Ouranos (Uranus, Heaven), and to her daughters [the Mousai (Muses)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 5 (from Scholia) (trans. Campbell, Vol. Greek Lyric II) (C7th B.C.) :
+     </span>
+     <br/>
+     "He [Alkman (Alcman)] made the Mousai (Muses) the daughters of Ge (Gaea, the Earth), as Mimnermos does."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 8  :
+     </span>
+     <br/>
+     "Blessed Mosai (Muses), whom Mnemosyne (Memory) bore to Zeus having lain with him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 67 (from Diodorus Siculus) :
+     </span>
+     <br/>
+     "Most of the mythographers, including those of the highest reputation say that he Mousai (Muses) are the daughters of Zeus and Mnemosyne (Memory); but one or two of the poets, Alkman (Alcman) among them, make them the daughters of Ouranos (Uranus, the Sky) and Ge (Gaea, the Earth)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Terpander, Fragment 4 (trans. Campbell, Vol. Greek Lyric II) (C7th B.C.) :
+     </span>
+     <br/>
+     "The Mousai (Muses), the daughters of Mnamas (Mnemosyne, Memory)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Praxilla of Sicyon, Fragment 3 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "Nine Mousai (Muses) were created by great Ouranos (Uranus, the Sky), nine by Gaia (Gaea, the Earth) herself to be an undying joy for mortals."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristotle, Fragment 842 (from Athenaeus, Scholars at Dinner) (trans. Campbell, Vol. Greek Lyric V) (C5th B.C.) :
+     </span>
+     <br/>
+     "The Mousai (Muses), daughters of Mnamosyna (Mnemosyne, Memory)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Mimnermus, Fragment 13 (from Oxyrhynchus papyrus) (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C7th B.C.) :
+     </span>
+     <br/>
+     "In the genealogy given by Mimnermos, the Mousai (Muses) are daughters of Ge (Gaea, the Earth)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Solon, Fragment 13 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Resplendent daughters of Mnemosyne and Zeus Olympios (Olympian), Mousai Pierides (Pierian Muses)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Theaetetus 191c (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Mnemosyne (Memory), the mother of the Mousai (Muses)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 13 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Mnemosyne [bore to Zeus] the Mousai (Muses), the eldest of whom was Kalliope (Calliope), followed by Kleio (Clio), Melpomene, Euterpe, Erato, Terpsikhore (Terpsichore), Ourania (Urania), Thaleia (Thalia), and Polymnia (Polyhymnia)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 259 (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[The Mousai (Muses) :] Terpsikhore (Terpsichore) for the dancers . . . Erato for the lovers, and of the other Mousai (Muses) for those who do them honour . . . Kalliope (Calliope) the eldest Mousa (Muse) and of Ourania (Urania) who is next to her, for the philosophers."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 7. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "As for the Mousai (Muses) . . . the majority of the writers of myths and those who enjoy the greatest reputation say that they were daughters of Zeus and Mnemosyne (Memory); but a few poets, among whose number is Alkman (Alcman) [lyric poet C7th B.C.] state that they were daughters of Ouranos (Uranus, Sky) and Ge (Gaea, Earth). Writers similarly disagree also concerning the number of the Mousai; for some say they are but thee, and others that they are nine, but the number nine has prevailed since it rests upon the authority of the most distinguished men, such as Homer and Hesiod and others like them. Homer, for instance writes : ‘The Mousai, nine in all, replying each to each with voices sweet’; and Hesiod even gives their names when he writes : ‘Kleio, Euterpe, and Thaleia, Melpomene, Terpsikhore and Erato, and Polymnia, Ourania, Kalliope too, of them all the most comely.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 39. 3 ff (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     ""The first to sacrifice on Helikon to the Mousai (Muses) and to call the mountain sacred to the Mousai were, they say, Ephialtes and Otos (Otus), who also founded Askra (Ascra). To this also Hegesinus alludes in his poem
+     <em>
+      Atthis
+     </em>
+     [Greek poet uncertain date] . . . This poem of Hegesinos (Hegesinus) I have not read, for it was no longer extant when I was born. But Kallipos (Callipus) of Korinthos (Corinth) [Greek writer C5th B.C.] in his
+     <em>
+      History of Orkhomenos
+     </em>
+     uses the verses of Hegesinos as evidence in support of his own views, and I too have done likewise, using the quotation of Kallipos himself . . . The sons of Aloeus [i.e. the Aloadai] held that the Mousai were three in number, and gave them the names of Melete (Practice), Mneme (Memory) and Aoede (Song).
+     <br/>
+     But they say that afterwards Pieros (Pierus), a Makedonian (Macedonian), after whom the mountain in Makedonia was named, came to Thespiai (Thespiae) and established nine Mousai, changing their names to the present ones. Pieros was of this opinion either because it seemed to him wiser, or because an oracle so ordered, or having so learned from one of the Thrakians (Thracians). For the Thrakians had the reputation of old of being more clever than the Makedonians, and in particular of being not so careless in religious matters.        There are some who say that Pieros himself had nine daughters [the Pierides], that their names were the same as those of the goddesses, and that those whom the Greeks called the children of the Mousai were sons of the daughters of Pieros.
+     <br/>
+     Mimnermos [Greek poet C6th B.C.], who composed elegiac verses about the battle between the Smyrnaians and the Lydians under Gyges, says in the preface that the elder Mousai (Muses) are daughters of Ouranos (Uranus, Sky), and that there are other and younger Mousai, children of Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 9 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Zeus made love to Mnemosyne in Pieria and became father of the Mousai (Muses)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 76 to the Muses (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "The Mousai (Muses) . . . daughters of Mnemosyne (Memory) and Zeus . . . sweetly speaking Nine . . . Kleio (Clio), and Erato who charms the sight, with thee, Euterpe, ministering delight : Thalia flourishing, Polymnia famed, Melpomene from skill in music named : Terpsikhore (Terpsichore), Ourania (Urania) heavenly bright."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 21 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "[Cicero sets out several traditions concerning the Muses:] Again  the first set of Musae (Muses) are four, the daughters of the second Jupiter [i.e. Ouranos, Uranus], Thelixonoe, Aode, Arche and Melete; the second set are the offspring of the third Jupiter [i.e. Zeus Olympios] and Mnemosyne, nine in number; the third set are the daughters of Pierus and Antiope, and are usually called by the poets Peirides or Peirian Maidens; they are the same in number and have the same names as the next preceding set."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 4. 25 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "The Musae (Muses) are assigned a birth-place in the grove of Helicon [in Boiotia]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Arnobius, Against the Heathen 3. 37 (Roman Christian rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "We are told by Mnaseas [Greek writer C3rd B.C.] that the Musae (Muses) are the daughters of Tellus (Earth) [Gaia] and Coelus (Heaven) [Ouranos]; others declare that they are Jove's by his wife Moneta [Mnemosyne, Memory], or Mens (Mind) [Metis?]; some relate that they were virgins, others that they were matrons. For now we wish to touch briefly on the points where you are shown, from the difference of your opinions, to make different statements about the same thing. Ephorus [historian C4th B.B.], then, says that they are three in number; Mnaseas, whom we mentioned, that they are four; Myrtilus brings forward seven; Crates [the philosopher? C4th B.C.] asserts that there are eight; finally Hesiod, enriching heaven and the stars with gods, comes forward with nine names."
+    </p>
+    <hr/>
+    <h3 id="Nursing">
+     <a>
+     </a>
+     NURSING OF THE MUSES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 29. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "As you go along the straight road to the grove [of the Mousai (Muses) on Mount Helikon (Helicon) in Boiotia] is a portrait of Eupheme (Well Spoken) carved in relief on a stone. She was, they say, the nurse of the Mousai."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 27 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Crotus, son of Eupheme, nurse of the Musae (Muses). As Sositheus, writer of tragedies [Greek C3rd B.C.], says, he had his home on Mount Helicon and took his pleasure in the company of the Musae."
+    </p>
+    <hr/>
+    <h3 id="Celebrations">
+     <a>
+     </a>
+     SINGING AT THE CELEBRATIONS OF THE GODS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K20.11A.html">
+      <img alt="Ares, Aphrodite and five Muses | Athenian black-figure dinos C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K20.11AMousai_sm.jpg"/>
+     </a>
+     <figcaption>
+      Ares, Aphrodite and five Muses, Athenian black-figure dinos C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I) FEASTS OF OLYMPUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 1. 604 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Thus thereafter the whole day long until the sun went under they [the gods on Olympos] feasted, nor was anyone's hunger denied a fair portion, nor denied the beautifully wrought lyre in the hands of Apollon (Apollo) nor the anitiphonal sweet sound of the Mousai (Muses) singing."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 36 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "The Mousai (Muses) who gladden the great spirit of their father Zeus in Olympos with their songs, telling of things that are and that shall be and that were aforetime with consenting voice. Unwearying flows the sweet sound from their lips, and the house of their father Zeus the loud-thunderer is glad at the lily-like voice of the goddesses as it spread abroad, and the peaks of snowy Olympos resound, and the homes of the immortals. And they uttering their immortal voice, celebrate in song first of all the reverend race of the gods from the beginning, those whom Gaia (Gaea, Earth) and wide Ouranos (Uranus, Heaven) begot, and the gods sprung of these, givers of good things. Then, next, the goddesses sing of Zeus, the father of gods and men, as they begin and end their strain, how much he is the most excellent among the gods and supreme in power. And again, they chant the race of men and strong Gigantes (Giants), and gladden the heart of Zeus within Olympos,--the Mousai Olympiades (Olympian Muses), daughters of Zeus the aigis-holder."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, The Shield of Heracles 201 ff :
+     </span>
+     <br/>
+     "[Among the scenes depicted on the shield of Herakles (Heracles) :] There also was the abode of the gods, pure Olympos, and their assembly, and infinite riches were spread around in the gathering, the Mousai Pierides (Pierian Muses) were beginning a song like clear-voiced singers."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 3 to Pythian Apollo 186 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "[Apollon journeys to] Olympos, to the house of Zeus, to join the gathering of the other gods :] Then straightway the undying gods think only of the lyre and song, and all the Mousai (Muses) together, voice sweetly answering voice, hymn the unending gifts the gods enjoy and the sufferings of men, all that they endure at the hands of the deathless gods, and how they live witless and helpless and cannot find healing for death or defence against old age. Meanwhile the rich-tressed Kharites (Charites, Graces) and cheerful Horai (Horae, Seasons) dance with Harmonia (Harmony) and Hebe (Youth) and Aphrodite, daughter of Zeus, holding each other by the wrist."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Eumelus, Fragment 1 (trans. Campbell, Vol. Greek Lyric II) (C8th to 7th B.C.) :
+     </span>
+     <br/>
+     "For the god of Ithome [Zeus] took pleasure in the Moisa (Muse), the pure Moisa wearing her free sandals."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anacreon, Fragment 390  (trans. Campbell, Vol. Greek Lyric II) (C6th B.C.) :
+     </span>
+     <br/>
+     "The [Mousai, Muses] fair-haired daughters of Zeus danced lightly."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 18. 4 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Among the scenes depicted on the chest of Kypselos (Cypselus) dedicated at Olympia :] There are also figures of Mousai (Muses) singing, with Apollon leading the song; these too have an inscription:--This is Leto's son, prince Apollon, far-shooting; around him are the Mousai, a graceful choir, whom he is leading."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 14 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting :] A cloud of fire encompassing Thebes breaks into the dwelling of Kadmos (Cadmus) as Zeus comes wooing Semele; and Semele apparently is destroyed . . . And the form of Semele is dimly seen as she goes to the heavens, where the Mousai (Muses) will hymn her praises."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 5. 690 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "He [Zeus] renews the banquet . . . and at last sends starry night down from Olympus. Then the choir of Musae (Muses) and Apollo, striker of the lyre, whose wont it is to tell of the Phlegraean fight, appear, and the Phrygian henchman [Ganymedes] bears round the heavy bowl. They [the gods] rise when slumber calls, and turn themselves each to his own dwelling."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 4. 2. 53 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "The monarch of the gods [Jove-Zeus], when he visits once more the bounds of Oceanus and the Aethiopian board, and, his face suffused with sacred nectar, bids the Musae (Muses) utter their mystic songs, and Phoebus praise the triumph of Pallene [the victory of the gods in battle with the Gigantes (Giants)]."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K20.11B.html">
+      <img alt="Hermes, Apollo and four Muses | Athenian black-figure dinos C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K20.11BMousai_sm.jpg"/>
+     </a>
+     <figcaption>
+      Hermes, Apollo and four Muses, Athenian black-figure dinos C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     II) WEDDING OF CADMUS &amp; HARMONIA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 3. 89 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Yet a life free from care came neither to Peleus Aiakos' (Aeacus') son, nor to Kadmos (Cadmus) that godlike king; though they of all men won, so men say, the highest bliss, who heard the Mousai (Muses) in golden diadems chanting their songs upon the mountain and within the seven gates of Thebes, when one took for his bride Harmonia, the dark-eyed maid, the other glorious Thetis, daughter of wise Nereus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theognis, Fragment 1. 15 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Mousai (Muses) and Kharites (Charites, Graces), daughters of Zeus, who came once to the wedding of Kadmos (Cadmus) [and Harmonia] and sang the lovely verse, ‘What is beautiful is loved, what is not beautiful is not loved.’ This is the verse that went through your immortal lips."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 48. 2 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "[At the wedding of Kadmos (Cadmus) and Harmonia:] Apollon played upon the lyre and the Mousai (Muses) upon their flutes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 88 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[At the wedding of Kadmos (Cadmus) and Harmonia:] The nine Mousai (Muses) too struck up a lifestirring melody: Polymnia (Polyhymnia) nursingmother of the dance waved her arms, and sketched in the air an image of a soundless voice, speaking with hands and moving eyes in a graphic picture of silence full of meaning."
+    </p>
+    <h4>
+     III) WEDDING OF PELEUS &amp; THETIS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 3. 89 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Yet a life free from care came neither to Peleus Aiakos' (Aeacus') son, nor to Kadmos (Cadmus) that godlike king; though they of all men won, so men say, the highest bliss, who heard the Mousai (Muses) in golden diadems chanting their songs upon the mountain and within the seven gates of Thebes, when one took for his bride Harmonia, the dark-eyed maid, the other glorious Thetis, daughter of wise Nereus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Nemean Ode 5. 21 ff :
+     </span>
+     <br/>
+     "Yet for these men [Peleus and Telamon] the Mousai's (Muses') peerless choir glad welcome sang on Pelion [at Peleus' marriage to Thetis], and with them Apollon's seven-stringed lyre and golden quill led many a lovely strain. To Zeus a prelude, then sang they first divine Thetis, and Peleus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 4. 128 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[At the wedding of Peleus and Thetis  was seen :] The ravishing dance twined by the Kharites' (Charites, Graces) feet . . . [and heard] the chant the Mousai (Muses) raised, and how its spell enthralled all mountains, rivers, all the forest brood; how raptured was the infinite firmament, Kheiron's (Chiron's) fair caverns, yea, the very Gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 22 ff (trans. Mair) (Greek poetry C5th to C6th A.D.) :
+     </span>
+     <br/>
+     "[Arriving to attend the wedding of Peleus and Thetis :] Out of the land of Melisseus, from fragrant Helikon (Helicon), Apollon came leading the clear-voiced choir of the Mousai (Muses)."
+    </p>
+    <h4>
+     IV) WEDDING OF EROS &amp; PSYCHE
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 6. 24 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "[At the wedding of Cupid (Eros) and Psyche (Psykhe):] Vulcanus [Hephaistos (Hephaestus)] cooked the dinner, the Horae (Seasons) brightened the scene with roses and other flowers, the Gratiae (Graces)  [Kharites] diffused balsam, and the Musae (Muses), also present, sand in harmony. Apollo sang to the lyre, and Venus [Aphrodite] took to the floor to the strains of sweet music, and danced prettily. She had organized the performance so that the Musae sang in chorus, a Satyrus played the flute, and a Paniscus [a Pan] sang to the shepherd's pipes. This was how with due ceremony Psyche was wed to Cupidos (Love [Eros]."
+    </p>
+    <hr/>
+    <h3 id="Funerals">
+     <a>
+     </a>
+     SINGING AT THE FUNERALS OF HEROES
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/Z20.4.html">
+      <img alt="Symbols of the nine Muses | Greek mosaic from Elis C1st B.C. | Archaeological Museum of Elis" class="img-responsive center-block" src="../image/Z20.4Mousai.jpg"/>
+     </a>
+     <figcaption>
+      Symbols of the nine Muses, Greek mosaic from Elis C1st B.C., Archaeological Museum of Elis
+     </figcaption>
+    </figure>
+    <h4 id="Akhilleus">
+     <a>
+     </a>
+     I) FUNERAL OF ACHILLES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 24. 60 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Description of the funeral of Akhilleus (Achilles) :] The daughters of the ancient sea-god [the Nereides daughters of Nereus] stood round about you [Akhilleus], wailing piteously, and clothed you with celestial garments; and nine Mousai (Muses) sang your dirge with sweet responsive voices. Not one Argive you have seen there who was not weeping, the clear notes went to their hearts. For seventeen days and seventeen nights we lamented for you, immortal beings and mortal men; on the eighteenth day we committed you to the flames."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Arctinus of Miletus, The Aethiopis Frag 1 (from Proclus, Cherstomathia 2) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "The Akhaians (Achaeans) then . . . lay out the body of Akhilleus (Achilles), while Thetis, arriving with the Mousai (Muses) and her sisters, bewails her son."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Isthmian Ode 8. 58 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Not even in death was he [Akhilleus (Achilles)] of songs forsaken, but the [Mousai (Muses)] maids of Helikon (
+     <em>
+      parthenoi Helikoniai
+     </em>
+     ) stood by his pyre and grave, and poured o'er him their dirge in chorus. Thus even the immortals ruled that to a brave man, though he be no more, the songs of goddesses by given."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 594 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[The funeral of Akhilleus (Achilles) at Troy :] Swiftly from Helikon (Helicon) the Mousai (Muses) came heart-burdened with undying grief, for love and honour to the Nereis (Nereid) [Thetis] starry-eyed. Then Zeus with courage filled the Argive men, that-eyes of flesh might undismayed behold that glorious gathering of Goddesses [i.e. the  Nereides and Mousai attending the funeral]. Then those Divine Ones round Akhilleus' corpse pealed forth with one voice from immortal lips a lamentation. Rang again the shores of Hellespont. As rain upon the earth their tears fell round the dead man, Aiakos' (Aeacus') son; for out of depths of sorrow rose their moan. And all the armour, yea, the tents, the ships of that great sorrowing multitude were wet with tears from ever-welling springs of grief . . . Then plunged the sun down into Okeanos' (Oceanus') stream . . . But upon Thetis sleep laid not his hand: still with the deathless Nereides by the sea she sate; on either side the Mousai spake one after other comfortable words to make that sorrowing heart forget its pain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 766 ff :
+     </span>
+     <br/>
+     "[After the funeral of Akhilleus (Achilles) :] Then returned to Helikon (Helicon) the Mousai (Muses): 'neath the sea, wailing the dear dead, Nereus' daughters [the Nereides] sank."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Epicedeion for a Professor of the University of Berytus (trans. Page, Vol. Select Papyri III, No. 138) (Greek poetry C4th A.D.) :
+     </span>
+     <br/>
+     "As once the Mousai (Muses) nine, Olympian maids (
+     <em>
+      kourai Olympiades
+     </em>
+     ) of Zeus, wailed in mourning around Thetis, daughter of Nereus, weeping for her son [Akhilleus (Achilles)], the leader of the Myrmidones."
+    </p>
+    <h4>
+     II) FUNERALS OF THEIR SONS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pindar, Dirges Fragment 139 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "But in another song did three goddesses [Mousai (Muses)] lull to rest the bodies of their sons. The first of these [Terpsikhore (Terpsichore)] sang a dirge over the clear-voiced Linos (Linus) [personification of the lamentation song]; and the second [Ourania (Urania)] lamented with her latest strains Hymenaios (Hymenaeus), who was seized by Moira (Fate), when first he lay with another in wedlock; while the third [Kalliope (Calliope)] sorrowed over Ialmenos (Ialmenus), when his strength was stayed by the onset of a raging malady. 
+  But the son of Oiagros (Oeagrus) [and Kalliope], Orpheus of the golden sword."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Folk Songs, Frag 880 (from Scholiast b on Iliad) (trans. Campbell) (B.C.) :
+     </span>
+     <br/>
+     "Oh Linos (Linus), honoured by the gods--for you were the first to whom the immortals gave a song for men to sing with clear voice; Phoibos (Phoebus) [Apollon] killed you in anger, but the Mousai (Muses) mourn for you."
+    </p>
+    <hr/>
+    <h3 id="Orpheus">
+     <a>
+     </a>
+     THE MUSES &amp; ORPHEUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Bassarae or Bassarides (lost play) (Greek tragedy C5th B.C.) :
+      <br/>
+     </span>
+     Aeschylus' lost play
+     <em>
+      Bassarae
+     </em>
+     described the death of Orpheus,  son of Kalliope (Calliope). Weir Smyth (L.C.L.) summarises evidence for the plot: "Eratosthenes,
+     <em>
+      Catasterismoi
+     </em>
+     , says of Orpheus that he paid no honour to Dionysos, but considered Helios (the Sun) to be the greatest of the gods and addressed him as Apollon; that, by making haste during the night, he reached at dawn the summit of Mt. Pangaios (Pangaeum), and waited there that he might see the rising of the sun; and that Dionysos, in his wrath, sent against him the Bassarides (as Aeschylus tells the story), who tore him to pieces and scattered his members, which were collected and buried by the Mousai (Muses) in Leibethra." Presumably the sisters appeared with Kalliope (Calliope) at the end of the play to sing the lament.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callistratus, Descriptions 7 (trans. Fairbanks) (Greek rhetorician C4th A.D.) :
+     </span>
+     <br/>
+     "On Helikon (Helicon)--the spot is a shaded precinct sacred to the Mousai (Muses)--near the torrent of the river Olmeios (Olmeius) and the violet-dark spring of Pegasos (Pegasus), there stood beside the [statues of the] Mousai a statue of Orpheus, the son of Kalliope (Calliope), a statue most beautiful to look upon . . . He was carrying the lyre, which was equipped with as many notes as the number of the Mousai."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 7 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[The Bakkhantes (Bacchantes) slay Orpheus, son of the Muse Kalliope (Calliope) :] They slew him and dismembered his body . . . The Musae (Muses) gathered the scattered limbs and gave them burial, and as the greatest favour they could confer, they put as a memorial his lyre, pictures with stars, among the constellations. Apollo and Jove [Zeus] consented, for Orpheus had praised Apollo highly, and Jupiter [Zeus] granted this favour to his daughter."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 7 :
+     </span>
+     <br/>
+     "[Aphrodite] stirred the women in Thrace by love, each to seek Orpheus [son of the Muse Kalliope (Calliope)] for herself, so that they tore him limb from limb. His head, carried down from the mountain into the sea, was cast by the waves upon the island of Lesbos. It was taken up and buried by the people of Lesbos, and in return for this kindness, they have the reputation of being exceedingly skilled in the art of music. The lyre, as we have said, was put by the Musae (Muses) among the stars."
+     <br/>
+     [Cf. An
+     <a href="../Gallery/K20.7.html">
+      Athenian vase
+     </a>
+     showing Kalliope with the head of Orpheus.]
+    </p>
+    <hr/>
+    <h3 id="Apollon">
+     <a>
+     </a>
+     MUSES COMPANIONS OF APOLLO &amp; ARTEMIS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T61.7.html">
+      <img alt="Apollo, Marsyas and the Muses | Athenian red-figure bell krater C4th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T61.7Marsyas_sm.jpg"/>
+     </a>
+     <figcaption>
+      Apollo, Marsyas and the Muses, Athenian red-figure bell krater C4th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I) THE BIRTH &amp; MENTORING OF APOLLO
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Alcman, Fragment 40 (trans. Campbell, Vol. Greek Lyric II) (C7th B.C.) :
+     </span>
+     <br/>
+     "The saffron-robed Mousai (Muses) taught these things [music &amp; song] to the far-shooting son of Zeus [Apollon]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 4 to Delos 248 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[At the birth of Apollon on Delos :] With music the swans, the gods' own minstrels, left Maionian Paktolos (Maeonian Pactolus) and circled seven times round Delos, and sang over the bed of child-birth [i.e. of Apollon], the Mousai's (Muses') birds, most musical of all birds that fly. Hence that child in after days strung the lyre with just so many strings--seven strings, since seven times the swans sang over the pangs of birth. No eight time sang they : ere that the child [Apollon] leapt forth."
+    </p>
+    <h4>
+     II) FEASTS OF THE GODS
+    </h4>
+    <p>
+     Apollon and the choir of Mousai (Muses) performed at the feasts of the gods, together with Artemis and the Kharites (Charites, Graces).
+    </p>
+    <p class="see-also">
+     See
+     <a href="#Celebrations">
+      The Muses &amp; the Feasts of the Gods
+     </a>
+     (above)
+    </p>
+    <h4>
+     III) CELEBRATIONS OF DELPHI
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 27 to Artemis 14 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "[Artemis] goes to the great house of her dear brother Phoibos Apollon (Phoebus Apollo), to the rich land of Delphoi (Delphi), there to order the lovely dance of the Mousai (Muses) and Kharites (Charites, Graces). There she hangs up her curved bow and her arrows, and heads and leads the dances, gracefuly arrayed, while all they utter their heavenly voice, singing."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Paean 2 (trans. Sandys) (Greek lyric lC5th B.C.) :
+     </span>
+     <br/>
+     "On both the lofty rocks of Parnassos (Parnassus) [shrine of Apollon], the bright-eyed maidens of Delphoi (Delphi) [the Mousai (Muses)] full often set the fleet-footed dance, and ring out a sweet strain with resonant voice."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 19 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "The Boiotian Kephisos (Boeotian Cephisus), a stream not unknown to the Mousai (Muses) . . . [on] the road which leads straight to Phokis (Phocis) and Delphoi (Delphi)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 355 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Apollo was charming with his strains the Musae's (Muses') glorious company, and, his finger placed upon the strings, was gazing down to earth from the airy summit of Parnassus."
+    </p>
+    <h4>
+     IV) CELEBRATIONS OF HELICON
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 208 (from Himerius, Orations) (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "[Apollon] the Leader of the Mousai (Muses) (
+     <em>
+      Mousagetos
+     </em>
+     ) himself as he appears when Sappho and Pindar in their songs deck him out with golden hair and lyre and send him drawn by swans to Mount Helikon (Helicon) to dance there with the Mousai (Muses) and Kharites (Charites, Graces)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Simonides, Fragment 578 (from Himerius, Orations) (trans. Campbell, Vol. Greek Lyric III) (C6th to 5th B.C.) :
+     </span>
+     <br/>
+     "I believe what Simonides sid in his songs in praise of the Mousai (Muses). His words were along these lines : the Mousai are always dancing, and the goddesses love to busy themselves with songs and strings. but when they see Apollon beginning to lead the dance, they put their heart into their singing even more than before and send down from Helikon (Helicon) an all-harmonious sound."
+    </p>
+    <h4>
+     V) JUDGES OF THE CONTEST OF APOLLO &amp; MARSYAS
+    </h4>
+    <p>
+     The Mousai (Muses) were frequently depicted in Athenian vase paintings of the C5th B.C. at the contest of Apollon and Marsyas. Presumably these scenes were based on tragedy plays produced in that era, in which a chorus of Mousai presided as judges.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 9. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[In the temple of Apollon and Leto in Mantinea in Arkadia (Arcadia) :] On the pedestal of these  [the statues of the two gods] are figures of the Mousai (Muses) together with Marsyas playing the flute."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 165 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Marsyas] challenged Apollo to play the lure in a contest with him. When Apollo came there, they took the Musae (Muses) as judges. Marsyas was departing as victor, when Apollo turned his lyre upside down, and played the same tune--a thing which Marsyas couldn't do with the pipes. And so Apollo defeated Marsyas, bound him to a tree, and turned him over to a Scythian who stripped his skin off him limb by limb."
+    </p>
+    <h4>
+     VI) NURSES OF APOLLO'S SON ARISTAEUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 512 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "He [Apollon] took his infant son [Aristaios (Aristaeus)] away to be brought up by Kheiron (Chiron) in his cave. When the child had grown up the divine Mousai (Muses) found him a bride, taught him the arts of healing and prophecy, and made him the shepherd of all their flocks that grazed on the Athamantian plain in Phthia, round Mount Othrys and in the valley of the sacred River Apidanos."
+    </p>
+    <h4>
+     VII) DEITIES ALONGSIDE APOLLO OF POETRY &amp; SONG
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homer, The Margites Fragment 2 (trans. Evelyn-White) (Greek epic C8th B.C.)
+     </span>
+     <br/>
+     "A servant [bard] of the Mousai (Muses) and of far-shooting Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 92 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "It is through the Mousai (Muses) and far-shooting Apollon that there are singers and harpers upon the earth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 4 to Hermes 449 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "And though I [Apollon] am a follower of the Mousai Olympiades (Olympian Muses) who love dances and the bright path of song--the full-toned chant and ravishing thrill of flutes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 1. 13 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "And on the immortals' hearts your shafts [poetry and song] instil a charmed spell--by grace of Leto's son [Apollon] and the low-girdled Mousai (Muses)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 1. 1 ff :
+     </span>
+     <br/>
+     "O glorious lyre, joint treasure of Apollon, and of the Mousai (Muses) violet-tressed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Terpander, Fragment 4 (trans. Campbell, Vol. Greek Lyric II) (C7th B.C.) :
+     </span>
+     <br/>
+     "Let us pour libation to the Mousai, the daughters of Mnamas (Mnemosyne, Memory), and to the leader of the Mousai (Muses), Leto's son [Apollon]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 941 (from Grammatical Extracts) :
+     </span>
+     <br/>
+     "Let us pour libation to the Mousai (Muses), daughters of Mnamas (Mnemosyne, Memory), and the leader of the Mousai, Leto's son [Apollon]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 1027f (from Dionysius of Halicarnassus, On Literary Compositions) :
+     </span>
+     <br/>
+     "To you, Phoibos (Phoebus) [Apollon] and the Mousai (Muses) who share your altar."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Iambi Fragment 14 (trans. Trypanis) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "O Mousai (Muses) fair and Apollon to whom I [the poet] make libation."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 10 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The Mousai (Muses) are goddesses, and Apollon is leader of the Mousai."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 10 :
+     </span>
+     <br/>
+     "As for the Mousai (Muses) and Apollo, the Mousai preside over the choruses, whereas Apollon presides both over these and the rites of divination."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 2. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "They call Apollon Mousegetes (Musagetes, Leader of the Mousai)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Oppian, Halieutica 2. 16 (trans. Mair) (Greek poet C3rd A.D.) :
+     </span>
+     <br/>
+     "The gods have given to men cunning arts and have put in them all wisdom. Other god is namesake of other craft, even that whereof he that got the honourable keeping . . . The gifts of the Mousai (Muses) and Apollon are songs."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p class="see-also">
+     For MORE information on this god see
+     <a href="../Olympios/Apollon.html">
+      APOLLON
+     </a>
+    </p>
+    <hr/>
+    <h3>
+     THE MUSES &amp; HERMES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 10 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "The clever device of the lyre, it is said, was invented by Hermes, who constructed it of two horns and a crossbar and a tortoise-shell; and he presented it first to Apollon and the Mousai (Muses), then to Amphion of Thebes."
+    </p>
+    <hr/>
+    <h3 id="Kharites">
+     <a>
+     </a>
+     MUSES COMPANIONS OF THE CHARITES
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T61.3.html">
+      <img alt="Apollo, Marsyas and the Muses | Athenian red-figure bell krater C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T61.3Marsyas_sm.jpg"/>
+     </a>
+     <figcaption>
+      Apollo, Marsyas and the Muses, Athenian red-figure bell krater C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     The Kharites (Charites, Graces) were the goddesses of dance, glorification and adornment, three spheres closely associated with the Mousai. The two sets of goddesses were frequently described as companions.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 60 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "A little way from the topmost peak of snowy Olympos (Olympus), there are their [the Mousai's (Muses')] bright dancing-places and beautiful homes, and beside them the Kharites (Charites, Graces) and Himeros (Desire) live in delight."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 27 to Artemis 14 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "[Artemis] goes to the great house of her dear brother Phoibos Apollon (Phoebus Apollo), to the rich land of Delphoi (Delphi), there to order the lovely dance of the Mousai (Muses) and Kharites (Charites, Graces). There she hangs up her curved bow and her arrows, and heads and leads the dances, gracefully arrayed, while all they utter their heavenly voice, singing."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Paean 3 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Hail holy Kharites (Charites, Graces), companions of the Moisai (Muses), enthroned in splendour."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 103 (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "Hither, holy Kharites (Charites, Graces) and Pierides Moisai (Peirian Muses) [come inspire a song]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 208 (from Himerius, Orations) :
+     </span>
+     <br/>
+     "[Apollon] appears when Sappho and Pindar in their songs . . . send him drawn by swans to Mount Helikon (Helicon) to dance there with the Mousai (Muses) and Kharites (Charites, Graces)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      The Anacreontea, Fragment 19 (trans. Campbell, Vol. Greek Lyric II) (C5th B.C.) :
+     </span>
+     <br/>
+     "The Mousai (Muses) tied Eros (Love) with garlands and handed him over to Kalleis (Calleis, Beauty) [i.e. one of the Kharites (Charites)]. And now Kythereia (Cytherea) [Aphrodite] brings a ransom and seeks to have him released. But if he is released, he will not leave but will stay: he has learned to be her slave."
+    </p>
+    <p>
+     <span class="quote-greek">
+      The Anacreontea, Fragment 35 :
+     </span>
+     <br/>
+     "The soft rose. It is the breath of the gods and the joy of mortals, the glory of the Kharites (Charites, Graces) in spring-time, the delight of the Erotes (Loves) with their rich garlands and of Aphrodite; it is a subject for poetry and the graceful plant of the Mousai (Muses)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 5 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "You if any motal now alive will rightly assess the sweet gift [poetry] of the violet-crowned Mousai (Muses) sent for your adornment [i.e. glorification] . . . with the help of the slim-waisted Kharites (Charites, Graces)."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p class="see-also">
+     For MORE information on these goddesses see
+     <a href="Kharites.html">
+      THE KHARITES
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Dionysos">
+     <a>
+     </a>
+     MUSES COMPANIONS OF DIONYSUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 4. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "They say also that when he [Dionysos] went abroad he was accompanied by the Mousai (Muses), who were maidens that had received an unusually excellent education, and that by their songs and dancing and other talents in which they had been instructed these maidens delighted the heart of the god."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 5. 3 :
+     </span>
+     <br/>
+     "And, in general, the Mousai (Muses) who bestowed benefits and delights through the advantages which their education gave them, and the Satyroi (Satyrs) by the use of devices [flutes, tambourines] which contribute to mirth, made the life of Dionysos happy and agreeable."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p class="see-also">
+     For MORE information on this god see
+     <a href="../Olympios/Dionysos.html">
+      DIONYSOS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Thamyris">
+     <a>
+     </a>
+     CONTEST OF THE MUSES &amp; THAMYRIS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K20.8.html">
+      <img alt="Thamyris and the Muses | Athenian red-figure vase fragment C4th B.C. | National Archaeological Museum, Athens" class="img-responsive center-block" src="../image/K20.8Mousai.jpg"/>
+     </a>
+     <figcaption>
+      Thamyris and the Muses, Athenian red-figure vase fragment C4th B.C.,
+      <a href="http://www.namuseum.gr/" target="_blank">
+       National Archaeological Museum, Athens
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 594 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Dorion [near Pylos in Messenia], where the Mousai (Muses) encountered Thamyris the Thrakian (Thracian) stopped him from singing as he came from Oikhalia (Oechalia) and Oikhalian Eurytos (Eurytus); for he boasted that he would surpass, if the very Mousai, daughters of Zeus who holds the aigis, were singing against him, and these in their anger struck him maimed, and the voice of wonder they took away, and made him a singer without memory."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 17 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Thamyris, who was a handsome person and a skilled citharist, entered a musical contest with the Mousai (Muses). If he were to win, he could sleep with all of them; otherwise they would be free to take from him whatever they wanted. The Mousai won, and deprived him of his eyes and his musical skill."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 4. 33. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Homer [
+     <em>
+      Iliad
+     </em>
+     2.594 quoted above] states that the misfortune of Thamyris took place here in Dorion [in Messenia], because he said that he would overcome the Mousai (Muses) themselves in song. But Prodikos (Prodicus) of Phokaia (Phocaea) [Greek poet C6th B.C.] , if the epic called
+     <em>
+      the Minyad
+     </em>
+     is indeed his, says that Thamyris paid the penalty in Haides for his boast against the Mousai. My view is that Thamyris lost his eyesight through disease, as happened later to Homer . . . . Thamyris forsook his art through stress of the trouble that afflicted him."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 6 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The [Constellation] Kneeler. Others call him Thamyris, blinded by the Musae (Muses), kneeling as a suppliant."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 181 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Dorion [in Messenia] that bewails the Getic bard : here Thamyris made bold to surpass in song the skilled daughters of Aonia [the Muses], but doomed to a life of silence fell on the instant mute with voice and harp alike--who may despise deities met face to face?-- for that he knew not what it was to strive with Phoebus [Apollon], nor how the hanging Satyrus [Marsyas] brought Celaenae fame."
+    </p>
+    <hr/>
+    <h3 id="Seirenes">
+     <a>
+     </a>
+     CONTEST OF THE MUSES &amp; THE SIRENS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 34. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[At Koroneia (Coronea) in Boiotia] is a sanctuary of Hera . . . in her hands she carried the Seirenes (Sirens). For the story goes that the daughters of Akheloios (Achelous) were persuaded by Hera to compete with the Mousai (Muses) in singing. The Mousai won, plucked out the Seirenes' feathers and made crowns for themselves out of them."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p class="see-also">
+     For MORE information on these bird-women see
+     <a href="../Pontios/Seirenes.html">
+      THE SEIRENES
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Pierides">
+     <a>
+     </a>
+     CONTEST OF THE MUSES &amp; THE PIERIDES
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z20.3.html">
+      <img alt="Portraits of the nine Muses | Greco-Roman mosaic from Neustrasse C3rd-4th A.D. | Rheinisches Landesmuseum Trier" class="img-responsive center-block" src="../image/Z20.3Mousai.jpg"/>
+     </a>
+     <figcaption>
+      Portraits of the nine Muses, Greco-Roman mosaic from Neustrasse C3rd-4th A.D.,
+      <a href="http://www.landesmuseum-trier.de/" target="_blank">
+       Rheinisches Landesmuseum Trier
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 9 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Zeus made love to Mnemosyne in Pieria and became father of the Mousai (Muses). Around about this time Pieros (Pierus) was king of Emathia, sprung from its very soil. He had nine daughters. They were the ones who formed a choir in opposition to the Mousai. And there was a musical contest on Helikon (Helicon). 
+  Whenever the daughters of Pieros began to sing, all creation went dark and no one would give an ear to their choral performance. But when the Mousai sang, heaven, the stars, the sea and rivers stood still, while Mount Helikon, beguiled by the pleasure of it all, swelled skyward till, by the will of Poseidon, Pegasos (Pegasus) checked it by striking the summit with his hoof. 
+  Since these mortals had taken upon themselves to strive with goddesses, the Mousai changed them into nine birds. To this day people refer to them as the grebe, the wryneck, the ortolan, the jay, the greenfinch, the goldfinch, the duck, the woodpecker, and the dracontis pigeon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 39. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The sons of Aloeus [the Aloadae, who founed the shrine of the Muses on Mount Helikon (Helicon)] held that the Mousai (Muses) were three in number . . . But they say that afterwards Pieros (Pierus), a Makedonian (Macedonian). . . came to Thespiai (Thespiae) [the town beneath Mount Helikon] and established nine Mousai, changing their names to the present ones . . .  
+  There are some who say that Pieros himself had nine daughters [the Pierides], that their names were the same as those of the goddesses, and that those whom the Greeks called the children of the Mousai were sons of the daughters of Pieros."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 39. 6 :
+     </span>
+     <br/>
+     "There are many untruths believed by the Greeks [about the poet Orpheus], one of which is that Orpheus was a son of the Mousa Kalliope (Muse Calliope), and not of the daughter of Pieros (Pierus)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 294 &amp; 662 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The Musa (Muse) was speaking [to Athena] when in the air a whirr of wings was heard, and from high boughs there came a greeting voice. Jove's [Zeus'] child looked up to see whence came the tongue that spoke so clear, thinking it was a man. It was a bird: nine of them there had perched upon the boughs, lamenting their misfortune, master-mimics, nine magpies. As Minerva [Athena] gazed in wonder, the Musae began (one goddess to another) to tell this tale. ‘Not long ago these, too, worsted in contest, swelled the tribe of birds. Their father was rich Pierus, a squire of Pellae, and Euippe Paeonis their mother. To her aid nine times she called Lucina [Eileithyia, goddess of childbirth] and nine times she bore a child. This pack of stupid sisters, puffed with pride in being nine, had travelled through the towns, so many towns of Haemonia [Thessaly] and Achaea and reached us here at last and challenged us: "Cease cheating with that spurious charm of yours the untutored rabble. If you trust your powers content with us, you Thespian Goddesses (
+     <em>
+      Deae Thespiades
+     </em>
+     ) [Mousai (Muses)]. In voice and skill we shall not yield to you; in number we are equal. If you lose, you leave Medusaeus' [Pegasos' (Pegasus')] spring [Hippokrene (Hippocrene) on Mount Helikon] and Aganippe Hyantea [spring of Thebes], or we the plain of Emathia up to Paeonia's snowy mountainsides; and let the judgement of the Nymphae decide."
+     <br/>
+     ‘Of course it was a shame to strive with them but greater shame to yield. The choice of Nymphae was made; they took the oath by their own streams, and sat on benches shaped form living stone. Then, without drawing lots, the one who claimed to challenge sang of the great war in heaven, ascribing spurious prowess to the Gigantes, belittling all the exploits of the gods : how Typhoeus, issuing from earth's lowest depths, struck terror in those heavenly hearts, and they all turned their backs and fled, until they found refuge in Aegyptus and the seven-mouthed Nilus. She told how Typhoeus Terrigena (Earthborn) even there pursued them and the gods concealed themselves in spurious shapes; "And Juppiter [Zeus] became a ram," she said, "lord of the herd, and so today great Ammon Libys' [Zeus-Ammon] shown with curling horns. Delius [Apollon] hid as a raven, Semeleia [Dionysos] as a goat, Phoebe [Artemis] a cat, Saturnia [Hera] a snow-white cow, Venus [Aphrodite] a fish and Cyllenius [Hermes] an ibis." So to her lyre she sang and made an end.
+     <br/>
+     ‘Then we the Aonides [Mousai] were called. But maybe you've no time or leisure now to listen to our song?’ ‘No, to be sure’, said Pallas [Athena], ‘sing your song, sing it right through’, and took her seat beneath the trees’ light shade. The Musa (Muse) resumed her tale. ‘We appointed one of us our champion, Calliope. She rose, her flowing hair bound in an ivy wreath, and with her thumb tuning the plaintive chords, began this song, accompanying her voice with sweeping strings . . . [she sings the tale of the abduction of Persephone.]
+     <br/>
+     ‘Such was the song Calliope our leading sister sang; she finished and the Nymphae with one accord declared the goddesses of Helicon the winners. As the losers hurled abuse, "So then it's not enough," I said, "that your challenge has earned you chastisement; you add insult to injury. Our patience has its limits; we'll proceed to punishment. Where anger calls, we'll follow." Those nine girls, the Emathides, laughed and despised my threats and, as they tried to speak and shout and scream and shake their fists, before their eyes their fingers sprouted feathers, plumage concealed their arms, and each of them saw in the face of each a heard beak form, all weird new birds to live among the woods; and as they beat their breasts their flapping arms raised them to ride the air--and there they were, magpies, the copses' saucy scolds. Now still as birds they keep their former eloquence, their endless raucous chattering, as each indulges in her passionate love of speech.’
+     <br/>
+     Tritonia [Athena] had listened to the tale she told with warm approval of the Aonides' [Mousai's (Muses')] song and of their righteous rage."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 21 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "The second set [of goddess Mousai (Muses)] are the offspring of the third Jupiter [Zeus Olympios] and Mnemosyne, nine in number; the third set are the daughters of Pierus and Antiope, and are usually called by the poets Peirides or Peirian Maidens; they are the same in number [nine] and have the same names as the next preceding set."
+    </p>
+    <hr/>
+    <h3 id="Pyreneus">
+     <a>
+     </a>
+     MUSES &amp; THE PUNISHMENT OF PYRENEUS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 274 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[The Mousai (Muses) tell a story to the goddess Athena :] Blest indeed our fortune here [on Mount Helikon (Helicon)], were we but safe. Crime is so unchecked that everything frightens our virgin hearts. Brutal Pyreneus haunts me; in truth I've not recovered yet. He brought his savage Thracian soldiery and captured Daulis and the countryside of Phocea [i.e. in the region of Helicon] and retained his ill-gained realm. One morning we were travelling towards the temple on Parnasia [i.e. Apollon's shrine of Delphoi], on the road he saw us and, pretending reverence for our divinity, ‘Wait here a while,’ he said, ‘blest Mnemonides [Muses]’ (knowing who we were) ‘Beneath my roof and shelter from the rain’ (For rain was falling) ‘and the angry sky. You must not scruple: often gods of heaven have entered humbler homes.’
+     <br/>
+     Swayed by his words and by the weather we agreed and went inside the entrance hall. The rain now ceased, the south wind yielding to the northern breeze; the dark clouds fled, the sky was clean and clear; we meant to go. Pyreneus locked the door to do us violence, which we escaped by taking wing. As if he meant to follow he climbed a battlement. ‘Whichever way you take,’ he said, ‘I'll take the same’ and leapt, the madman, from the highest pinnacle, and pitched head foremost, shattering his skull upon the ground, red with his wicked blood."
+    </p>
+    <hr/>
+    <h3 id="Krotos">
+     <a>
+     </a>
+     THE MUSES &amp; CROTUS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 27 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Constellation] Archer . . . Some say that he is Crotus, son of Eupheme, nurse of the Musae (Muses). As Sositheus, writer of tragedies [Greek C3rd B.C.], says, he had his home on Mount Helicon and took his pleasure in the company of the Musae, sometimes even following the pursuit of hunting. He attained great fame for his diligence, for he was very swift in the woods, and clever in the arts. As a reward for his zeal the Musae asked Jove [Zeus] to represent him in some star group, and Jove did so. Since he wished to display all his skills in one body, he gave him horse flanks because he rode a great deal. He added arrows, since these would show both his keenness and his swiftness, and he gave him a Satyrus' (Satyr's) tail because the Musae took no less pleasure in Crotus than Liber [Dionysos] did in the Satyri. Before his feet are a few stars arranged in a circle, which some said were a wreath, thrown off as by one at play."
+    </p>
+    <hr/>
+    <h3 id="Sphinx">
+     <a>
+     </a>
+     THE MUSES &amp; THE SPHINX
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 5 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[The Sphinx] had learned a riddle from the Mousai (Muses), and now sat on Mount Phikiom (Phicium) where she kept challenging the Thebans with it."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p class="see-also">
+     For MORE information on this monster see
+     <a href="../Ther/Sphinx.html">
+      SPHINX
+     </a>
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.1A.html">
+        <img alt="Thumbnail Muse with Lyre" src="../image/thumbK20.1A.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.1A Muse with Lyre
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.1B.html">
+        <img alt="Thumbnail Muse with Box" src="../image/thumbK20.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.1B Muse with Box
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.1C.html">
+        <img alt="Thumbnail Muse with Barbiton" src="../image/thumbK20.1C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.1C Muse with Barbiton
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.3.html">
+        <img alt="Thumbnail Apollo, Muse with Lyre" src="../image/thumbK20.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.3 Apollo, Muse with Lyre
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.11A.html">
+        <img alt="Thumbnail Muses, Ares, Aphrodite" src="../image/thumbK20.11A.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.11A Muses, Ares, Aphrodite
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.11B.html">
+        <img alt="Thumbnail Muses, Apollo, Hermes" src="../image/thumbK20.11B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.11B Muses, Apollo, Hermes
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.4.html">
+        <img alt="Thumbnail Muse on Helicon" src="../image/thumbK20.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.4 Muse on Helicon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.4B.html">
+        <img alt="Thumbnail Muse on Helicon" src="../image/thumbK20.4B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.4B Muse on Helicon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.5.html">
+        <img alt="Thumbnail Apollo, Muse with Cithara" src="../image/thumbK20.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.5 Apollo, Muse with Cithara
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.10.html">
+        <img alt="Thumbnail Thamyris &amp; the Muses" src="../image/thumbK20.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.10 Thamyris &amp; the Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.10B.html">
+        <img alt="Thumbnail Euterpe with Flute" src="../image/thumbK20.10B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.10B Euterpe with Flute
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.10C.html">
+        <img alt="Thumbnail Calliope with Lyre" src="../image/thumbK20.10C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.10C Calliope with Lyre
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.2.html">
+        <img alt="Thumbnail Muse with Lyre" src="../image/thumbK20.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.2 Muse with Lyre
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.7.html">
+        <img alt="Thumbnail Apollo, Marsyas, Muses" src="../image/thumbT61.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.7 Apollo, Marsyas, Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.3.html">
+        <img alt="Thumbnail Apollo, Marsyas, Muses" src="../image/thumbT61.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.3 Apollo, Marsyas, Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.2.html">
+        <img alt="Thumbnail Apollo, Marsyas, Muses" src="../image/thumbT61.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.2 Apollo, Marsyas, Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T24.1.html">
+        <img alt="Thumbnail Winged Muse or Nike" src="../image/thumbT24.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T24.1 Winged Muse or Nike
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T24.8.html">
+        <img alt="Thumbnail Winged Muse or Nike" src="../image/thumbT24.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T24.8 Winged Muse or Nike
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.14.html">
+        <img alt="Thumbnail Apollo &amp; the Muses" src="../image/thumbK5.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.14 Apollo &amp; the Muses
+        </h3>
+        <p>
+         Greek Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.8.html">
+        <img alt="Thumbnail Thamyris &amp; the Muses" src="../image/thumbK20.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.8 Thamyris &amp; the Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z20.1A.html">
+        <img alt="Thumbnail Muse Terpsichore" src="../image/thumbZ20.1A.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z20.1A Muse Terpsichore
+        </h3>
+        <p>
+         Greco-Roman Vichten Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z20.1B.html">
+        <img alt="Thumbnail Muse Calliope &amp; Homer" src="../image/thumbZ20.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z20.1B Muse Calliope &amp; Homer
+        </h3>
+        <p>
+         Greco-Roman Vichten Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z20.1C.html">
+        <img alt="Thumbnail Muse Polyhymnia" src="../image/thumbZ20.1C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z20.1C Muse Polyhymnia
+        </h3>
+        <p>
+         Greco-Roman Vichten Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z20.5.html">
+        <img alt="Thumbnail Melpomene, Clio, Virgil" src="../image/thumbZ20.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z20.5 Melpomene, Clio, Virgil
+        </h3>
+        <p>
+         Greco-Roman Bardo Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z20.2.html">
+        <img alt="Thumbnail Portraits of the Nine Muses" src="../image/thumbZ20.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z20.2 Portraits of the Nine Muses
+        </h3>
+        <p>
+         Greco-Roman Cos Floor Mosaic  A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z20.3.html">
+        <img alt="Thumbnail Portraits of the Nine Muses" src="../image/thumbZ20.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z20.3 Portraits of the Nine Muses
+        </h3>
+        <p>
+         Greco-Roman Trier Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z20.4.html">
+        <img alt="Thumbnail Symbols of the Nine Muses" src="../image/thumbZ20.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z20.4 Symbols of the Nine Muses
+        </h3>
+        <p>
+         Greek Elis Floor Mosaic C1st B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S20.3A.html">
+        <img alt="Thumbnail Calliope Statue" src="../image/thumbS20.3A.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S20.3A Calliope
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S20.3B.html">
+        <img alt="Thumbnail Clio Statue" src="../image/thumbS20.3B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S20.3B Clio
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S20.3C.html">
+        <img alt="Thumbnail Polyhymnia Statue" src="../image/thumbS20.3C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S20.3C Polyhymnia
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S20.3E.html">
+        <img alt="Thumbnail Thalia Statue" src="../image/thumbS20.3E.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S20.3E Thalia
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S20.3D.html">
+        <img alt="Thumbnail Terpsichore Statue" src="../image/thumbS20.3D.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S20.3D Terpsichore
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S20.2.html">
+        <img alt="Thumbnail Terpsichore Statue" src="../image/thumbS20.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S20.2 Terpsichore
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S20.1.html">
+        <img alt="Thumbnail Melpomene Statue" src="../image/thumbS20.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S20.1 Melpomene
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL MUSES PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Homerica, The Margites Fragments
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Homerica, Homer's Epigrams
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Homerica, The Origin of Homer and Hesiod
+      <span class="sources-detail">
+       - Greek Epic B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Aethiopis Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1A.html">
+       Greek Lyric I Eumelus, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1A.html">
+       Greek Lyric I Terpander, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1B.html">
+       Greek Lyric I Alcman, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreon, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Ibycus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Simonides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th - 5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Aristotle, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Mimnermus, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Solon, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Frogs
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Alcibiades
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Ion
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Phaedrus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Theaetetus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Poseidippus, Fragments
+      <span class="sources-detail">
+       - Greek Elegiac C2nd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Halieutica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Arnobius, Against the Heathen
+      <span class="sources-detail">
+       - Chrisitan Scholar C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Scholiast on Pindar's Nemean Odes 3.16, Plutarch Table-Talk 9.14, Plutarch Roman Questions 59, Diodorus Siculus 1.18, Arnobius Adversus Nationes 3.37, Plato Republic 116, Martial 7.11, Scholiast on Theocritus 7.92, Servius on Virgil's Eclogues 7.21, Servius on Aeneid 1.12.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     MUSES SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS MUSES
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Mnemosyne
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Names
+       </th>
+       <td>
+        Calliope, Clio, Erato, Euterpe, Melpomene, Polyhymnia, Thalia, Terpsichore, Urania
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddesses of
+       </th>
+       <td>
+        Music, poetry, the arts
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Lyre, cithara, flute
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Swan, magpie
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Musae
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     MUSES PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction &amp; Myths
+      <ul>
+       <li>
+        <a href="#Family">
+         Family of the Muses
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Names">
+         Names of the Muses
+        </a>
+       </li>
+       <li>
+        <a href="#Birth">
+         Parentage &amp; the Muses
+        </a>
+       </li>
+       <li>
+        <a href="#Nursing">
+         Nursing of the Muses
+        </a>
+       </li>
+       <li>
+        <a href="#Celebrations">
+         Singing at the Heavenly Feasts
+        </a>
+       </li>
+       <li>
+        <a href="#Funerals">
+         Singing at the Funerals of Heroes
+        </a>
+       </li>
+       <li>
+        <a href="#Akhilleus">
+         Singing at the Funeral of Achilles
+        </a>
+       </li>
+       <li>
+        <a href="#Orpheus">
+         Muses &amp; the Death of Orpheus
+        </a>
+       </li>
+       <li>
+        <a href="#Apollon">
+         Companions of Apollo
+        </a>
+       </li>
+       <li>
+        <a href="#Kharites">
+         Companions of the Charites
+        </a>
+       </li>
+       <li>
+        <a href="#Dionysos">
+         Companions of Dionysus
+        </a>
+       </li>
+       <li>
+        <a href="#Seirenes">
+         Wrath: Sirens
+        </a>
+       </li>
+       <li>
+        <a href="#Pierides">
+         Wrath: Peirides
+        </a>
+       </li>
+       <li>
+        <a href="#Pyreneus">
+         Wrath: Pyreneus
+        </a>
+       </li>
+       <li>
+        <a href="#Thamyris">
+         Wrath: Thamyris
+        </a>
+       </li>
+       <li>
+        <a href="#Krotos">
+         Favour: Crotus
+        </a>
+       </li>
+       <li>
+        <a href="#Sphinx">
+         Favour: Sphinx
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="Mousai2.html">
+       Part 2: Muses Goddesses of
+      </a>
+      <ul>
+       <li>
+        <a href="Mousai2.html#Music">
+         Music &amp; the Arts
+        </a>
+       </li>
+       <li>
+        <a href="Mousai2.html#Nurture">
+         The Nurture of Poets
+        </a>
+       </li>
+       <li>
+        <a href="Mousai2.html#Inspiration">
+         The Inspiration of Poets
+        </a>
+       </li>
+       <li>
+        <a href="Mousai2.html#History">
+         Remembered History
+        </a>
+       </li>
+       <li>
+        <a href="Mousai2.html#Glory">
+         Glory in Song
+        </a>
+       </li>
+       <li>
+        <a href="Mousai2.html#Hippokrene">
+         The Spring of Hippocrene
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/MousaiCult.html">
+       Part 3: Cult of the Muses
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/MousaiCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Boiotia">
+         Mount Helicon Shrine
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Makedonia">
+         Macedonia, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/MousaiCult.html#Cult">
+         Cult Titles &amp; Epithets
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

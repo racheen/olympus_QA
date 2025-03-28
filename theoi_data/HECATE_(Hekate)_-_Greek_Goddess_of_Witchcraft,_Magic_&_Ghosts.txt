@@ -1,0 +1,2509 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   HECATE (Hekate) - Greek Goddess of Witchcraft, Magic &amp; Ghosts
+  </title>
+  <meta content="Hecate was the ancient Greek goddess of magic, witchcraft, the night, moon, ghosts and necromancy. She was the only child of the Titanes Perses and Asteria from whom she received her power over heaven, earth, and sea. She was depicted as a woman holding a pair of torches. Her Roman name was Trivia." name="description"/>
+  <meta content="Hecate, Hekate, Greek goddess, Greek mythology, goddess of witchcraft, goddess of magic, Hecate pictures, Trivia" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-underworld.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/underworld-gods.html">
+      Underworld Gods
+     </a>
+     &gt;&gt; Hecate (Hekate)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HEKATE
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ἑκατη Ἑκατα
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Hekatê, Hekata
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Hecate, Hecata
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Worker from Afar
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/T16.6B.html">
+      <img alt="Hecate | Athenian red-figure bell krater C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T16.6BHekate.jpg"/>
+     </a>
+     <figcaption>
+      Hecate, Athenian red-figure bell krater C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     HEKATE (Hecate) was the goddess of magic, witchcraft, the night, moon, ghosts and necromancy. She was the only child of the Titanes Perses and Asteria from whom she received her power over heaven, earth, and sea.
+    </p>
+    <p>
+     Hekate assisted
+     <a href="../Olympios/Demeter.html">
+      Demeter
+     </a>
+     in her search for
+     <a href="Persephone.html">
+      Persephone
+     </a>
+     , guiding her through the night with flaming torches. After the mother-daughter reunion became she Persephone's minister and companion in Haides.
+    </p>
+    <p>
+     Three metamorphosis myths describe the origins of her animal familiars: the black she-dog and the polecat (a mustelid house pet kept by the ancients to hunt vermin). The dog was the Trojan Queen Hekabe (Hecuba) who leapt into the sea after the fall of Troy and was transformed by the goddess. The polecat was either the witch Gale, turned as punishment for her incontinence, or Galinthias, midwife of Alkmene (Alcmena), who was transformed by the enraged goddess
+     <a href="../Ouranios/Eileithyia.html">
+      Eileithyia
+     </a>
+     but adopted by the sympathetic Hekate.
+    </p>
+    <p>
+     Hekate was usually depicted in Greek vase painting as a woman holding twin torches. Sometimes she was dressed in a knee-length maiden's skirt and hunting boots, much like Artemis. In statuary Hekate was often depicted in triple form as a goddess of crossroads.
+    </p>
+    <p>
+     Her name means "worker from afar" from the Greek word
+     <em>
+      hekatos
+     </em>
+     . The masculine form of the name, Hekatos, was a common epithet of the god Apollon.
+    </p>
+    <p>
+     Hekate was identified with a number of other goddesses including
+     <a href="../Olympios/Artemis.html">
+      Artemis
+     </a>
+     ,
+     <a href="../Titan/Selene.html">
+      Selene
+     </a>
+     (the Moon),
+     <a href="../Georgikos/Despoine.html">
+      Despoine
+     </a>
+     , the sea-goddess
+     <a href="../Pontios/Keto.html">
+      Krataeis
+     </a>
+     (Crataeis), the goddess of the Taurian Khersonese in Skythia, the Kolkhian (Colchian) nymph
+     <a href="../Nymphe/NymphePerseis.html">
+      Perseis
+     </a>
+     , the heroine Iphigeneia, the Thracian goddesses
+     <a href="../Thrakios/Bendis.html">
+      Bendis
+     </a>
+     and
+     <a href="../Thrakios/Kotys.html">
+      Kotys
+     </a>
+     (Cotys), the Euboian nymph
+     <a href="../Nymphe/NympheMaira.html">
+      Maira
+     </a>
+     (the Dog-Star), the Eleusinian nymph
+     <a href="../Nymphe/NympheDaeira.html">
+      Daeira
+     </a>
+     and the Boiotian nymph
+     <a href="../Nymphe/NympheHerkyna.html">
+      Herkyna
+     </a>
+     (Hercyna).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF HECATE
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Titan/TitanPerses.html">
+      PERSES
+     </a>
+     &amp;
+     <a href="../Titan/TitanisAsteria.html">
+      ASTERIA
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 404, Apollodorus 1.8)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Titan/TitanPerses.html">
+      PERSES
+     </a>
+     <span class="family-refs">
+      (Homeric Hymn 2 to Demeter 24, Orphic Hymn 1, Lycophron 1174, Apollonius Rhodius 3.1036, Diodorus Siculus 4.45.1, Ovid Metamorphoses 7.74, Seneca Medea 812)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Olympios/ZeusFamily.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisAsteria.html">
+      ASTERIA
+     </a>
+     <span class="family-refs">
+      (Schol. on Apoll. Rhod. 3.467 ap Musaeus)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Protogenos/Nyx.html">
+      NYX
+     </a>
+     <span class="family-refs">
+      (Bacchylides Frag 1B, Scholiast on Apoll. Rhod. 3.467)
+      <br/>
+     </span>
+     [4.1]
+     <a href="../Georgikos/Aristaios.html">
+      ARISTAIOS
+     </a>
+     <span class="family-refs">
+      (Schol. on Apoll. Rhod. 3.467 ap Pherecydes)
+     </span>
+     <br/>
+     [5.1]
+     <a href="../Olympios/DemeterFamily.html">
+      DEMETER
+     </a>
+     <span class="family-refs">
+      (Orphic Frag, Scholiast on Apoll. Rhod. 3.467)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] NONE (she was a virgin goddess)
+     <span class="family-refs">
+      (Apollonius Rhodius 3.840, Lycophron 1174)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Pontios/Skylla.html">
+      SKYLLA
+     </a>
+     (by
+     <a href="../Pontios/Phorkys.html">
+      Phorkys
+     </a>
+     )
+     <span class="family-refs">
+      (Apollonius Rhodius 4.827)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Titan/Kirke.html">
+      KIRKE
+     </a>
+     , MEDEA, AIGIALEUS (by Aeetes)
+     <span class="family-refs">
+      (Diodorus Siculus 4.45.1)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     HE′CATE (Hekatê), a mysterious divinity, who, according to the most common tradition, was a daughter of Persaeus or Perses and Asteria, whence she is called Perseis. (Apollod. i. 2. § 4; Apollon. Rhod. iii. 478.) Others describe her as a daughter of Zeus and Demeter, and state that she was sent out by her father in search of Persephone (Schol.
+     <em>
+      ad Tleocrit.
+     </em>
+     ii. 12); others again make her a daughter of Zeus either by Pheraea or by Hera (Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     1175; Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     ii. 36) ; and others, lastly, say that she was a daughter of Leto or Tartarus. (Procl.
+     <em>
+      in Plat. Cratyl.
+     </em>
+     p. 112 ; Orph.
+     <em>
+      Argon.
+     </em>
+     975.) Homer does not mention her. According to the most genuine traditions, she appears to have been an ancient Thracian divinity, and a Titan, who, from the time of the Titans, ruled in heaven, on the earth, and in the sea, who bestowed on mortals wealth, victory, wisdom, good luck to sailors and hunters, and prosperity to youth and to the flocks of cattle; but all these blessings might at the same time be withheld by her, if mortals did not deserve them. She was the only one among the Titans who retained this power under the rule of Zeus, and she was honoured by all the immortal gods.
+    </p>
+    <p>
+     She also assisted the gods in their war with the Gigantes, and slew Clytius. (Hes.
+     <em>
+      Theog.
+     </em>
+     411-452; Apollod. i. 6. § 2.) This extensive power possessed by Hecate was probably the reason that subsequently she was confounded and identified with several other divinities, and at length became a mystic goddess, to whom mysteries were celebrated in Samothrace (Lycoph. 77; Schol.
+     <em>
+      ad Aristoph. Pac.
+     </em>
+     277) and in Aegina. (Paus. ii. 30. § 2; comp. Plut.
+     <em>
+      de Flum.
+     </em>
+     5.) For being as it were the queen of all nature, we find her identitied with Demeter, Rhea (Cybele or Brimo); being a huntress and the protector of youth, she is the same as Artemis (Curotrophos); and as a goddess of the moon, she is regarded as the mystic Persephone. (Hom.
+     <em>
+      Hymn. in Cer.
+     </em>
+     25, with the commentat.; Paus. i. 43, § 1.) She was further connected with the worship of other mystic divinities, such as the Cabeiri and Curetes (Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     ii. 12; Strab. x. p. 472), and also with Apollo and the Muses. (Athen. xiv. p. 645; Strab. x. p. 468.) The ground-work of the above-mentioned confusions and identifications, especially with Demeter and Persephone, is contained in the Homeric hymn to Demeter; for, according to this hymn, she was, besides Helios, the only divinity who, from her cave, observed the abduction of Persephone. With a torch in her hand, she accompanied Demeter in the search after Persephone; and when the latter was found, Hecate remained with her as her attendant and companion. She thus becomes a deity of the lower world; but this notion does not occur till the time of the Greek tragedians, though it is generally current among the later writers. She is described in this capacity as a mighty and formidable divinity, ruling over the souls of the departed ; she is the goddess of purifications and expiations, and is accompanied by Stygian dogs. (Orph.
+     <em>
+      Lith.
+     </em>
+     48; Schol.
+     <em>
+      ad Theocr l. c. ;
+     </em>
+     Apollon. Rhod. iii. 1211; Lycoph. 1175; Horat.
+     <em>
+      Sat.
+     </em>
+     i. 8. 35; Virg.
+     <em>
+      Aen.
+     </em>
+     vi. 257.) By Phorcos she became the mother of Scylla. (Apollon. Rhod. iv. 829 ; comp. Hom.
+     <em>
+      Od.
+     </em>
+     xii. 124.) There is another very important feature which arose out of the notion of her being an infernal divinity, namely, she was regarded as a spectral being, who at night sent from the lower world all kinds of demons and terrible phantoms, who taught sorcery and witchcraft, who dwelt at places where two roads crossed each other, on tombs, and near the blood of murdered persons. She herself too wanders about with the souls of the dead, and her approach is announced by the whining and howling of dogs. (Apollon. Rhod. iii. 529, 861, iv. 829; Theocrit.
+     <em>
+      l. c. ;
+     </em>
+     Ov.
+     <em>
+      Heroid.
+     </em>
+     xii. 168,
+     <em>
+      Met.
+     </em>
+     xiv. 405; Stat.
+     <em>
+      Theb.
+     </em>
+     iv. 428 ; Virg.
+     <em>
+      Aen.
+     </em>
+     iv. 609; Orph.
+     <em>
+      Lith.
+     </em>
+     45, 47; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1197, 1887; Diod. iv. 45.) A number of epithets given her by the poets contain allusions to these features of the popular belief, or to her form. She is described as of terrible appearance, either with three bodies or three heads, the one of a horse, the second of a dog, and the third of a lion. (Orph.
+     <em>
+      Argon.
+     </em>
+     975, &amp;c.; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     pp. 1467, 1714.) In works of art she was some-times represented as a single being, but sometimes also as a three-headed monster. (Paus. ii. 28. § 8. 30. § 2.) Besides Samothrace and Aegina, we find express mention of her worship at Argos (Paus. ii. 30. § 2.) and at Athens, where she had a sanctuary under the name of Epipurgidia, on the acropolis, not far from the temple of Nice. (Paus. ii. 30. § 2.) Small statues or symbolical representations of Hecate (hekataia) were very numerous, especially at Athens, where they stood before or in houses, and on spots where two roads crossed each other; and it would seem that people consulted such Hecataea as oracles. (Aristoph.
+     <em>
+      Vesp.
+     </em>
+     816,
+     <em>
+      Lysistr.
+     </em>
+     64; Eurip.
+     <em>
+      Med.
+     </em>
+     396; Porphyr.
+     <em>
+      de Abstin.
+     </em>
+     ii. 16; Hesych.
+     <em>
+      s. v.
+     </em>
+     Hekataia). At the close of every month dishes with food were set out for her and other averters of evil at the points where two roads crossed each other; and this food was consumed by poor people. (Aristoph.
+     <em>
+      Plot.
+     </em>
+     596 ; Plut.
+     <em>
+      Synmpos.
+     </em>
+     vii. 6.) The sacrifices offered to her consisted of dogs, honey, and black female lambs. (Plut
+     <em>
+      Quaest. Rom.
+     </em>
+     49; Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     ii. 12 ; Apollon. Rhod. iii. 1032.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     <a>
+     </a>
+     PARENTAGE OF HECATE
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T16.2.html">
+      <img alt="Heracles, Cerberus and Hecate | Apulian red-figure volute krater C4th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/T16.2Hekate.jpg"/>
+     </a>
+     <figcaption>
+      Heracles, Cerberus and Hecate, Apulian red-figure volute krater C4th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I) PERSES &amp; ASTERIA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 404 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "[The Titanis] Asteria (Starry One) of happy name, whom [the Titan] Perses (Destroyer) once led to his great house to be called his dear wife. And she conceived and bare Hekate (Hecate)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 2 to Demeter 19 (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Tender-hearted Hekate (Hecate), bright-coiffed, the daughter of Persaios (Persaeus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 8 - 9 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Titanes had children . . . Perses and Asteria of Hekate."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 1035 (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Hekate, Perses' only daughter (
+     <em>
+      mounogenes
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1174 (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The maiden daughter of Perseus, Brimo [Hekate] Trimorphos (the three-formed)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 45. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "We are told that Helios (the Sun) had two sons, Aeetes and Perses, Aeetes being the king of Kolkhis (Colchis) and the other king of the Tauric Chersonese, and that both of them were exceedingly cruel. And Perses had a daughter Hekate (Hecate), who surpassed her father in boldness and lawlessness."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 74 (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Now to the ancient shrine of Perseis [Hekate daughter of Perses] she [Medea] made her way."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 18 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "If you think Latona [Leto] a goddess, how can you not think that Hecate is one, who is the daughter of Latona's sister Asteria?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 812 (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "I see Trivia's [Hekate's] swift gliding car . . . O Perseis [Perses' daughter]."
+    </p>
+    <h4>
+     II) NYX
+    </h4>
+    <p>
+     Nyx (Night) as the mother of Hekate was probably identified with Asteria ("the Starry One").
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 1B (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Torch-bearing Hekate holy daughter of great-bosomed Nyx (Night)."
+    </p>
+    <h4>
+     III) OTHER
+    </h4>
+    <p>
+     The Scholiast on Apollonius Rhodius,
+     <em>
+      Argonautica
+     </em>
+     3. 467 says that according to the
+     <em>
+      Orphic Hymns
+     </em>
+     , Hekate was a daughter of Deo [Demeter]; that according to Bacchylides, a daughter of Nyx (Night); according to Musaeus, a daughter of Zeus and Asteria; and that according to Pherecydes, she was a daughter of Aristaios (Aristaeus).
+    </p>
+    <p>
+     N.B. Pherecydes clearly identified Aristaios with the Titan Astraios (the Starry One).
+     <br/>
+     Most poets make Hekate a daughter of night in some form, be that Asteria (Starry), Astraios (Starry) or Nyx (Night).
+    </p>
+    <hr/>
+    <h3 id="Offspring">
+     <a>
+     </a>
+     OFFSPRING OF HECATE
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/T16.3.html">
+      <img alt="Hecate and the giant Clytius | Athenian red-figure kylix C5th B.C. | Antikensammlung Berlin" class="img-responsive center-block" src="../image/T16.3Hekate.jpg"/>
+     </a>
+     <figcaption>
+      Hecate and the giant Clytius, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I) VIRGIN GODDESS.
+    </h4>
+    <p>
+     Hekate was described as a virgin goddess, similar to Artemis. In art, she was often depicted wearing a maiden's knee-length dress.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 840 (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "The only-begotten Maiden (
+     <em>
+      Koure mounogenes
+     </em>
+     ) [Hekate]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1174 (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The maiden daughter of Perseus, Brimo [Hekate] Trimorphos."
+    </p>
+    <h4>
+     II) SCYLLA (SKYLLA)
+    </h4>
+    <p>
+     Hekate was sometimes identified with Krataeis (Crataeis), the mother of the sea-monster Skylla (Scylla). She was also titled Skylakagetis (Leader of the Dogs), connecting her with the name of the monster.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 827 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "[Kirke (Circe) addresses her niece Medea :] `Nor let them [the Argonauts] go too near the hateful den of Ausonian Skylla (Scylla), that wicked monster borne to Phorkys (Phorcys) by night-wandering Hekate, whom men call Kratais (Cratais).'"
+    </p>
+    <h4>
+     III) CIRCE (KIRKE) &amp; MEDEA
+    </h4>
+    <p>
+     Diodorus Siculus identified Hekate with the Kolkhian (Colchian) nymphs Perseis and Eidyia (the mother and wife of King Aeetes), and also with the goddess of the neighbouring Tauric Khersonese (Chersonese).
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 45. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "We are told that Helios (the Sun) had two sons, Aeetes and Perses, Aeetes being the king of Kolkhis (Colchis) and the other king of the Tauric Khersonese (Chersonese), . . . Perses had a daughter Hekate . . . she married Aeetes and bore two daughters, Kirke (Circe) and Medea, and a son Aigialeus."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <hr/>
+    <h3 id="Titanes">
+     <a>
+     </a>
+     HECATE &amp; THE WAR OF THE TITANS
+    </h3>
+    <p>
+     Hekate was one of the Titan-gods who allied themselves with Zeus.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 404 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Hekate whom Zeus the son of Kronos (Cronus) honoured above all. He gave her splendid gifts, to have a share of the earth and the unfruitful sea. She received honour also in starry heaven, and is honoured exceedingly by the deathless gods . . . For as many as were born of Gaia (Gaea, Earth) and Ouranos (Uranus, Heaven) [the Titanes] amongst all these she has her due portion. The son of Kronos [Zeus] did her no wrong nor took anything away of all that was her portion among the former Titan gods: but she holds, as the division was at the first from the beginning, privilege both in earth, and in heaven, and in sea. Also, because she is an only child, the goddess receives not less honour, but much more still, for Zeus honours her."
+    </p>
+    <p class="see-also">
+     For MORE information on the Titan-War see
+     <a href="../Titan/Titanes.html">
+      THE TITANES
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Gigantes">
+     <a>
+     </a>
+     HECATE &amp; THE WAR OF THE GIGANTES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 34 - 38 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[When the Gigantes (Giants) made war on the gods of heaven] In the course of the battle . . . Hekate got [the Gigante] Klytios (Clytius) with fire-brands."
+    </p>
+    <p>
+     Hekate appears in a number of ancient vase paintings battling a giant with her twin torches.
+    </p>
+    <p class="see-also">
+     For MORE information on the Giant-War see
+     <a href="../Gigante/Gigantes.html">
+      THE GIGANTES
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Persephone">
+     <a>
+     </a>
+     HECATE &amp; THE RAPE OF PERSEPHONE
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T16.6.html">
+      <img alt="Persephone, Hermes, Hecate and Demeter | Athenian red-figure bell krater C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T16.6Hekate.jpg"/>
+     </a>
+     <figcaption>
+      Persephone, Hermes, Hecate and Demeter, Athenian red-figure bell krater C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 2 to Demeter 19 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Then she [Persephone] cried out shrilly [as she was seized by the god Haides] with her voice, calling upon her father, the Son of Kronos (Cronus) [Zeus], who is most high and excellent. But no one, either of the deathless gods or mortal men, heard her voice, nor yet the olive-trees bearing rich fruit: only tender-hearted Hekate (Hecate), bright-coiffed, the daughter of Persaios (Persaeus), heard the girl from her cave, and the lord Helios (the Sun) . . .
+     <br/>
+     Then for nine days queenly Deo [Demeter] wandered over the earth with flaming torches in her hands, so grieved that she never tasted ambrosia and the sweet draught of nectar (
+     <em>
+      nektaros
+     </em>
+     ), nor sprinkled her body with water. But when the tenth enlightening dawn had come, Hekate, with a torch in her hands, met her, and spoke to her and told her news: 
+  ‘Queenly Demeter, bringer of seasons and giver of good gifts, what god of heaven or what mortal man has rapt away Persephone and pierced with sorrow your dear heart? For I heard her voice, yet saw not with my eyes who it was. But I tell you truly and shortly all I know.’
+     <br/>
+     So, then, said Hekate. And the daughter of rich-haired Rheia answered her not, but sped swiftly with her, holding flaming torches in her hands. So they came to Helios (the Sun), who is watchman of both gods and men, and stood in front of his horses: and the bright goddess enquired of him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 2 to Demeter 436 ff :
+     </span>
+     <br/>
+     "[After Persephone was returned from the underworld to Demeter :] Then bright-coiffed Hekate came near to them, and often did she embrace the daughter of holy Demeter: and from that time the lady Hekate was minister and companion to Persephone."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 39. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     [In the following passage, Herkyna (Hercyna), the Warding Dog (
+     <em>
+      eruô, kunos
+     </em>
+     ), may be Hekate:]
+     <br/>
+     "[The city Lebadeia in Boiotia] is separated from the grove of [the chthonian oracular daimon] Trophonios by the river Herkyna (Hercyna). They say that here Herkyna, when playing with Kore (Core) [Persephone], the daughter of Demeter, held a goose (
+     <em>
+      khên
+     </em>
+     ) which against her will she let loose. The bird flew into a hollow cave and hid under a stone; Kore entered and took the bird as it lay under the stone. The water flowed, they say, from the place where Kore took up the stone, and hence the river received the name Herkyna. On the bank of the river there is a temple of Herkyna, in which is a maiden holding a goose in her arms. In the cave are the sources of the river and images standing, and serpents are coiled around their sceptres. One might conjecture the images be of Asklepios (Asclepius) and Hygeia, but they might be Trophonios and Herkyna, because they think that serpents are just as much sacred to Trophonios as Asklepios."
+    </p>
+    <p class="see-also">
+     For MORE information on Persephone's abduction see
+     <a href="HaidesPersephone1.html">
+      RAPE OF PERSEPHONE
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Hermes">
+     <a>
+     </a>
+     HECATE &amp; HERMES
+    </h3>
+    <p>
+     Hekate was probably described as the consort of Khthonian (Underworld) Hermes in the cults of Thessalian Pherai (Pherae) and Eleusis. Both gods were leaders of the ghosts of the dead, and were associated with the spring-time return of Persephone.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 38. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The hero Eleusis, after whom the city [of Eleusis] is named, some assert to be a son of Hermes and of Daeira [Hekate?], daughter of Okeanos (Oceanus)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 29c (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Brimo [Hekate], who as legend tells, by the waters of Boebeis [lake in Thessaly] laid her virgin body at Mercurius' [Hermes'] side."
+    </p>
+    <hr/>
+    <h3 id="Galinthias">
+     <a>
+     </a>
+     HECATE &amp; GALINTHIAS
+    </h3>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/T16.1.html">
+      <img alt="Hecate and the giant Clytius | Athenian red-figure amphora C4th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/T16.1Hekate.jpg"/>
+     </a>
+     <figcaption>
+      Hecate and the giant Clytius, Athenian red-figure amphora C4th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 29 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "At Thebes Proitos (Proetus) had a daughter Galinthias. This maiden was playmate and companion of Alkmene (Alcmena), daughter of Elektryon (Electryon). As the birth throes for Herakles were pressing on Alkmene, the Moirai (Fates) and Eileithyia (Birth-Goddess), as a favour to Hera, kept Alkmene in continuous birth pangs. 
+  They remained seated, each keeping their arms crossed. Galinthias, fearing that the pains of her labour would drive Alkmene mad, ran to the Moirai and Eleithyia and announced that by desire of Zeus a boy had been born to Alkmene and that their prerogatives had been abolished.
+     <br/>
+     At all this, consternation of course overcame the Moirai  and they immediately let go their arms. Alkmene's pangs ceased at once and Herakles (Heracles) was born. The Moirai were aggrieved at this and took away the womanly parts of Galinthias since, being but a mortal, she had deceived the gods. They turned her into a deceitful weasel (or polecat), making her live in crannies and gave her a grotesque way of mating. She is mounted through the ears and gives birth by bringing forth her young through the throat. 
+  Hekate felt sorry for this transformation of her appearance and appointed her a sacred servant of herself."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 12. 5 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "The inhabitants of Thebes, although Greeks, worship a marten [Galanthis], so I hear, and allege that it was the nurse of Herakles, or if it was not the nurse, yet when Alkmene (Alcmena) was in labour and unable to bring her child to birth, the marten ran by her and loosed the bonds of her womb, so that Herakles was delivered and at once began to crawl."
+    </p>
+    <hr/>
+    <h3 id="Gale">
+     <a>
+     </a>
+     HECATE &amp; THE WITCH GALE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 15. 11 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "I have heard that the land-marten (or polecat) was once a human being. It has also reached my hearing that Gale was her name then; that she was a dealer in spells and a sorceress (
+     <em>
+      pharmakis
+     </em>
+     ); that she was extremely incontinent, and that she was afflicted with abnormal sexual desires. Nor has it escaped my notice that the anger of the goddess Hekate transformed it into this evil creature. May the goddess be gracious to me : fables and their telling I leave to others."
+    </p>
+    <hr/>
+    <h3 id="Hekabe">
+     <a>
+     </a>
+     HECATE &amp; QUEEN HECUBA
+    </h3>
+    <p>
+     Odysseus received Queen Hekabe (Hecuba) as his captive following the fall of Troy. During the voyage back to Greece she murdered a Thracian king and was stoned by the locals. The gods then transformed her into a black dog, and she became the animal familiar of the goddess Hekate. 
+  In this myth the queen was clearly identified with Bendis, the Thrakian Hekate, who was offered dogs in sacrifice.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1174 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The maiden daughter of Perseus, Brimo [Hekate] Trimorphos (Three-formed), shall make thee [Queen Hekabe (Hecuba) of Troy] her attendant [after her transformed into a dog], terrifying with thy baying in the night all mortals who worship not with torches the images of Zerynthia [Hekate] queen of Strymon [in Thrake], appeasing the goddess of Pherai with sacrifice. And the island spur of Pakhynos (Pachynus) [in Sicily] shall hold thine [Hekabe's] awful cenotaph, piled by the hands of thy master [Odysseus], prompted by dreams when thou hast gotten the rites of death in front of the streams of Heloros. He [Odysseus] shall pour on the shore offerings for thee, unhappy one, fearing the anger of the three-necked goddess [Hekate], for that he shall hurl the first stone at thy [Hekabe's] stoning and begin the dark sacrifice to Haides."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 111 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Ulysses [Odysseus] was taking into servitude Hecuba, Priam's wife . . . she threw herself into the Hellespont, and is said to have been changed into a dog. the place is called Cyneus (of the Dog) from this."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 14. 430 &amp; 561 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Troy fell and Priam too. His ill-starred wife [Hekabe (Hecuba)] lost, after all besides her human shape; her weird new barking terrified the breeze on foreign shores where the long Hellespont contracts in narrows . . . There lie across the strait from Phrygia, where Ilium was, the provinces of Thrace, where Polymestor had his wealthy palace. To him in secret Praim gave in charge his young son Polydorus to be reared . . . When Troy;s fair fortune fell, that wicked king took his sharp sword and slit his charge's throat . . .
+     <br/>
+     Upon the beach cast up she [Hekabe] saw her Polydorus' corpse and the huge wounds the Thracian knives had made . . . Hecuba, rage linked with grief, oblviious of her years . . . made her way to Polymestor, author of that foul murder, and sought an audience . . . 
+  She attacked the king and dug her fingers in his eyes, his treacherous eyes, and gouged his eyeballs out  . . . Incensed to see their king's calamity, the Thracians started to attack the queen with sticks and stones, but she snaped at the stones, snarling, and when her lips were set to grame words and she tried to speak, she barked. The place remains today, named from what happened there [Kynossema (Cynossema) or Dog's Barrow]. Then still remembering her ancient ills, she howled in sorrow through the land of Thrace. That fate of hers stirred pity in the hearts of friend and foe, Trojans and Greeks alike, and all the gods as well--all: Juno [Hera] too, Jove's wife and sister, did herself declare the tragic end of Hecuba unfair."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7.362 ff :
+     </span>
+     <br/>
+     "Past the tomb of Paris [in the Troad] buried in the shallow sand; the meadowlands that Maera terrified with monstrous barks [N.B. Ovid connects Hekabe (Hecuba) or Hekate with the dog-star Seirios (Sirius) or Maira]."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.7.html">
+        <img alt="Thumbnail Hecate Holding Torches" src="../image/thumbT16.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.7 Hecate Holding Torches
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.4.html">
+        <img alt="Thumbnail Hecate Holding Torches" src="../image/thumbT16.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.4 Hecate Holding Torches
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.6B.html">
+        <img alt="Thumbnail Hecate Holding Torches" src="../image/thumbT16.6B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.6B Hecate Holding Torches
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.6.html">
+        <img alt="Thumbnail Hecate, Hermes, Persephone" src="../image/thumbT16.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.6 Hecate &amp; Persephone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.2.html">
+        <img alt="Thumbnail Hecate, Cerberus, Heracles" src="../image/thumbT16.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.2 Hecate, Cerberus, Heracles
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.3.html">
+        <img alt="Thumbnail Hecate &amp; the Giant Clytius" src="../image/thumbT16.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.3 Hecate &amp; the Giant Clytius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.1.html">
+        <img alt="Thumbnail Hecate &amp; the Giant Clytius" src="../image/thumbT16.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.1 Hecate &amp; the Giant Clytius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.7.html">
+        <img alt="Thumbnail Hecate, Hades, Persephone" src="../image/thumbK14.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.7 Hecate, Hades, Persephone
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.5.html">
+        <img alt="Thumbnail Hecate with Torches &amp; Dog" src="../image/thumbT16.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.5 Hecate with Torches &amp; Dog
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.8.html">
+        <img alt="Thumbnail Hecate &amp; Iacchus" src="../image/thumbT16.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.8 Hecate &amp; Iacchus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL HECATE PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Homerica, Homer's Epigrams
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th-4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Alcaeus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Suppliant Women
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Medea
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Plutus
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Thesmophoriazusae
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Wasps
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaOedipus.html">
+       Seneca, Oedipus
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaTroades.html">
+       Seneca, Troades
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Tzetzes on Lycophron 1175, Orphica Argonautica 975, Pseudo-Plutarch On Rivers 5, Ovid Heroides 12.168, Plutarch Roman Questions 49, Eustathius on Homer's Iliad 1197.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     HECATE SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS HECATE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Perses and Asteria
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddess of
+       </th>
+       <td>
+        Witchcraft, magic, ghosts
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Hades
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Two torches
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Black dog, polecat
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Lampades, ghosts
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Brimo
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Trivia
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     HECATE PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction &amp; Myths
+      <ul>
+       <li>
+        <a href="#Family">
+         Family Tree of Hecate
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Parentage">
+         Parentage
+        </a>
+       </li>
+       <li>
+        <a href="#Offspring">
+         Offspring
+        </a>
+       </li>
+       <li>
+        <a href="#Titanes">
+         Hecate &amp; the Titan War
+        </a>
+       </li>
+       <li>
+        <a href="#Gigantes">
+         Hecate &amp; the Giant War
+        </a>
+       </li>
+       <li>
+        <a href="#Persephone">
+         The Rape of Persephone
+        </a>
+       </li>
+       <li>
+        <a href="#Hermes">
+         Hecate &amp; Hermes
+        </a>
+       </li>
+       <li>
+        <a href="#Gale">
+         Wrath: Gale
+        </a>
+       </li>
+       <li>
+        <a href="#Galinthias">
+         Favour: Galinthias
+        </a>
+       </li>
+       <li>
+        <a href="#Hekabe">
+         Favour: Hecuba
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HekateGoddess.html">
+       Part 2: Hecate Goddess of
+      </a>
+      <ul>
+       <li>
+        <a href="HekateGoddess.html#Hymns">
+         Hymns to Hecate
+        </a>
+       </li>
+       <li>
+        <a href="HekateGoddess.html#Night">
+         The Night
+        </a>
+       </li>
+       <li>
+        <a href="HekateGoddess.html#Necromancy">
+         Necromancy
+        </a>
+       </li>
+       <li>
+        <a href="HekateGoddess.html#Witchcraft">
+         Witchcraft
+        </a>
+       </li>
+       <li>
+        <a href="HekateGoddess.html#Triad">
+         Identified with Artemis-Selene
+        </a>
+       </li>
+       <li>
+        <a href="HekateGoddess.html#Iphigeneia">
+         Identified with Iphigeneia
+        </a>
+       </li>
+       <li>
+        <a href="HekateGoddess.html#Artemis">
+         Identified with Artemis
+        </a>
+       </li>
+       <li>
+        <a href="HekateGoddess.html#Animals">
+         Sacred Animals
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/HekateCult.html">
+       Part 3: Cult of Hecate
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/HekateCult.html#General">
+         General
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Aigina">
+         Aegina, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Thessalia">
+         Thessaly, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Thrake">
+         Thrace, North of Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Samothrake">
+         Samothrace, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Delos">
+         Delos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Rhodes">
+         Rhodes, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Karia">
+         Caria, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Paphlagonia">
+         Paphlagonia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Sikelia">
+         Sicily, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Cult">
+         Cult Titles &amp; Epithets
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HekateCult.html#Poetic">
+         Poetic Epithets
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

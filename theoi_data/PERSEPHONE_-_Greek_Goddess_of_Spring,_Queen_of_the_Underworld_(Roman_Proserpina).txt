@@ -1,0 +1,3040 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PERSEPHONE - Greek Goddess of Spring, Queen of the Underworld (Roman Proserpina)
+  </title>
+  <meta content="Persephone was the ancient Greek goddess of spring and the Queen of the Underworld. She was depicted as a stately woman holding a torch. Her Roman name was Proserpina." name="description"/>
+  <meta content="Persephone, Greek mythology, Greek goddess of the underworld, Greek goddess of spring, queen of the underworld, Persephone pictures, Proserpina, Proserpine" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-underworld.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/underworld-gods.html">
+      Underworld Gods
+     </a>
+     &gt;&gt; Persephone
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     PERSEPHONE
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Περσεφονη
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Persephonê
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Proserpina
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Destroy-Slay
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/K14.9.html">
+      <img alt="Persephone | Athenian red-figure bell krater C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/K14.9BPersephone.jpg"/>
+     </a>
+     <figcaption>
+      Persephone, Athenian red-figure bell krater C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     PERSEPHONE was the goddess queen of the underworld, wife of the god
+     <a href="Haides.html">
+      Haides
+     </a>
+     (Hades). She was also the goddess of spring growth, who was worshipped alongside her mother
+     <a href="../Olympios/Demeter.html">
+      Demeter
+     </a>
+     in the Eleusinian Mysteries. This agricultural-based cult promised its initiates passage to a blessed afterlife.
+    </p>
+    <p>
+     Persephone was titled Kore (Core) (the Maiden) as the goddess of spring's bounty. Once upon a time when she was playing in a flowery meadow with her Nymph companions, Kore was seized by Haides and carried off to the underworld as his bride. Her mother Demeter despaired at her dissappearance and searched for her the throughout the world accompanied by the goddess
+     <a href="Hekate.html">
+      Hekate
+     </a>
+     (Hecate) bearing torches. When she learned that
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     had conspired in her daughter's abduction she was furious, and refused to let the earth fruit until Persephone was returned. Zeus consented, but because the girl had tasted of the food of Haides--a handful of pomegranate seeds--she was forced to forever spend a part of the year with her husband in the underworld. Her annual return to the earth in spring was marked by the flowering of the meadows and the sudden growth of the new grain. Her return to the underworld in winter, conversely, saw the dying down of plants and the halting of growth.
+    </p>
+    <p>
+     In other myths, Persephone appears exclusively as the queen of the underworld, receiving the likes of Herakles and Orpheus at her court.
+    </p>
+    <p>
+     Persephone was usually depicted as a young goddess holding sheafs of grain and a flaming torch. Sometimes she was shown in the company of her mother Demeter, and the hero
+     <a href="../Georgikos/EleusiniosTriptolemos.html">
+      Triptolemos
+     </a>
+     , the teacher of agriculture. At other times she appears enthroned beside Haides.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     PERSEPHONE FAMILY
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1]
+     <a href="../Olympios/ZeusFamily.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Olympios/DemeterFamily.html">
+      DEMETER
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 912, Homeric Hymn 2 to Demeter, Apollodorus 1.29, Pausanias, Ovid Metamorphoses 5.501, Ovid Fasti 4.575, Nonnus Dionysiaca 5.562, et al)
+     </span>
+     <br/>
+     [2]
+     <a href="../Olympios/ZeusFamily.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="PotamosStyx.html">
+      STYX
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.13)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1]
+     <a href="../Georgikos/Zagreus.html">
+      ZAGREUS
+     </a>
+     (by
+     <a href="../Olympios/ZeusFamily.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Orphic Hymn 29, Hyginus Fabulae 155, Diodorus Siculus 4.4.1, Nonnus Dionysiaca 6.155, Suidas s.v. Zagreus)
+     </span>
+     <br/>
+     [2]
+     <a href="Melinoe.html">
+      MELINOE
+     </a>
+     (by
+     <a href="../Olympios/ZeusFamily.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Orphic Hymn 71)
+     </span>
+     <br/>
+     [3]
+     <a href="Erinyes.html">
+      THE ERINYES
+     </a>
+     (by
+     <a href="Haides.html">
+      Haides
+     </a>
+     )
+     <span class="family-refs">
+      (Orphic Hymns 29 &amp; 70)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     PERSE′PHONE (Persephonê), in Latin
+     <em>
+      Proserpina,
+     </em>
+     the daughter of Zeus and Demeter. (Hom.
+     <em>
+      Il.
+     </em>
+     xiv. 326,
+     <em>
+      Od.
+     </em>
+     xi. 216; Hes.
+     <em>
+      Theog
+     </em>
+     . 912, &amp;c. ; Apollod. i. 5. § 1.) Her name is commonly derived from pherein phonon, "to bring" or "cause death," and the form Persephone occurs first in Hesiod (
+     <em>
+      Theog.
+     </em>
+     913; comp. Hom.
+     <em>
+      Hymm. in Cer.
+     </em>
+     56), the Homeric form being Persephoneia. But besides these forms of the name, we also find Persephassa, Phersephassa, Persephatta, Phersephatta. Pherrephassa, Pherephatta, and Phersephoneia, for which various etymologies have been proposed. The Latin Proserpina, which is probably only a corruption of the Greek, was erroneously derived by the Romans from
+     <em>
+      proserpere
+     </em>
+     , "to shoot forth." (Cic.
+     <em>
+      de Nat. Deor
+     </em>
+     . ii. 26.) Being the infernal goddess of death, she is also called a daughter of Zeus and Styx (Apollod. i. 3. § 1 ); in Arcadia she was worshipped under the name of Despoena, and was called a daughter of Poseidon Hippius and Demeter, and said to have been brought up by the Titan Anytus. (Paus. viii. 37. § 3, 6, 25. § 5.) Homer describes her as the wife of Hades, and the formidable, venerable, and majestic queen of the Shades, who exercises her power, and carries into effect the curses of men upon the souls of the dead, along with her husband. (Hom.
+     <em>
+      Od.
+     </em>
+     x. 494, xi. 226, 385, 634,
+     <em>
+      Il.
+     </em>
+     ix. 457, 569; comp. Apollod. i. 9. § 15.) Hence she is called by later writers
+     <em>
+      Juno Inferna, Auerna,
+     </em>
+     and
+     <em>
+      Stygia
+     </em>
+     (Virg.
+     <em>
+      Aen.
+     </em>
+     vi. 138; Ov.
+     <em>
+      Met.
+     </em>
+     xiv. 114), and the Erinnyes are said to have been daughters of her by Pluto. (Orph.
+     <em>
+      Hymn.
+     </em>
+     29. 6, 6, 70. 3.) Groves sacred to her are said by Homer to be in the western extremity of the earth, on the frontiers of the lower world, which is itself called the house of Persephone. (
+     <em>
+      Od.
+     </em>
+     x. 491, 509.)
+    </p>
+    <p>
+     The story of her being carried off by Pluto, against her will, is not mentioned by Homer, who simply describes her as his wife and queen; and her abduction is first mentioned by Hesiod (
+     <em>
+      Theog.
+     </em>
+     914). Zeus, it is said, advised Pluto, who was in love with the beautiful Persephone, to carry her off, as her mother, Demeter, was not likely to allow her daughter to go down to Hades. (Comp. Hygin.
+     <em>
+      Fab.
+     </em>
+     146.) Pluto accordingly carried her off while she was gathering flowers with Artemis and Athena. (Comp. Diod. v. 3.) Demeter, when she found her daughter had disappeared, searched for her all over the earth with torches, until at length she discovered the place of her abode. Her anger at the abduction obliged Zeus to request Pluto to send Persephone (or Cora, i. e. the maiden or daughter) back. Pluto indeed complied with the request, but first gave her a kernel of a pomegranate to eat, whereby she became doomed to the lower world, and an agreement was made that Persephone should spend one third (later writers say
+     <em>
+      one half
+     </em>
+     ) of every year in Hades with Pluto, and the remaining two thirds with the gods above. (Apollod. i. 5. 1, &amp;c,; Or.
+     <em>
+      Met.
+     </em>
+     v. 565; comp. Demeter.) The place where Persephone was said to have been carried off, is different in the various local traditions. The Sicilians, among whom her worship was probably introduced by the Corinthian and Megarian colonists, believed that Pluto found her in the meadows near Enna, and that the well Cyane arose on the spot where he descended with her into the lower world. (Diod. v. 3, &amp;c.; comp. Lydus,
+     <em>
+      De Mens.
+     </em>
+     p. 286; Ov.
+     <em>
+      Fast.
+     </em>
+     iv. 422.) The Cretans thought that their own island had been the scene of the rape (Schol.
+     <em>
+      ad Hes. Theog.
+     </em>
+     913), and the Eleusinians mentioned the Nysaean plain in Boeotia, and said that Persephone had descended with Pluto into the lower world at the entrance of the western Oceanus. Later accounts place the rape in Attica, near Athens (Schol.
+     <em>
+      ad Soph. Oed. Col.
+     </em>
+     1590) or at Erineos near Eleusis (Paus. i. 38. § 5), or in the neighbourhood of Lerna (ii. 36. § 7 ; respecting other localities see Conon,
+     <em>
+      Narr.
+     </em>
+     15 ; Orph.
+     <em>
+      Argon.
+     </em>
+     1192; Spanheim,
+     <em>
+      ad Callim. Hymn. in Cer.
+     </em>
+     9).
+    </p>
+    <p>
+     The story according to which Persephone spent one part of the year in the lower world, and another with the gods above, made her, even with the ancients, the symbol of vegetation which shoots forth in spring, and the power of which withdraws into the earth at other seasons of the year. (Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     iii. 48.) Hence Plutarch identifies her with spring, and Cicero
+     <em>
+      De Nat. Deor.
+     </em>
+     ii. 26) calls her the seed of the fruits of the field. (Comp. Lydus,
+     <em>
+      De Mes.
+     </em>
+     pp. 90, 284; Porphyr.
+     <em>
+      De Ant. Nymph.
+     </em>
+     p. 118. ed. Barnes.) In the mysteries of Eleusis, the return of Cora from the lower world was regarded as the symbol of immortality, and hence she was frequently represented on sarcophagi. In the mystical theories of the Orphics, and what are called the Platonists, Cora is described as the all-pervading goddess of nature, who both produces and destroys every thing (Orph.
+     <em>
+      Hymn.
+     </em>
+     29. 16), and she is therefore mentioned along, or identified with, other mystic divinities, such as Isis, Rhea, Ge, Hestia, Pandora, Artemis, Hecate. (Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     708, 1176; Schol. ad
+     <em>
+      Apollon. Rlod.
+     </em>
+     iii. 467; Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     ii. 12 ; Serv.
+     <em>
+      ad Aen.
+     </em>
+     iv. 609.) This mystic Persephone is further said to have become by Zeus the mother of Dionysus, Iacchus, Zagreus or Sabazius. (Hesych.
+     <em>
+      s. v.
+     </em>
+     Zagreus; Schol.
+     <em>
+      ad Eurip. Or.
+     </em>
+     952 ; Aristoph.
+     <em>
+      Ran.
+     </em>
+     326; Diod. iv. 4; Arrian.
+     <em>
+      Exped. Al.
+     </em>
+     ii. 16; Lydus
+     <em>
+      De Mens.
+     </em>
+     p. 198; Cic.
+     <em>
+      de Nat.
+     </em>
+     <em>
+      Deor.
+     </em>
+     iii. 23.) The surnames which are given to her by the poets, refer to her character as queen of the lower world and of the dead, or to her symbolic meaning which we have pointed out above. She was commonly worshipped along with Demeter, and with the same mysteries, as for example, with Demeter Cabeiria in Boeotia. (Paus. ix. 25. § 5.) Her worship further is mentioned at Thebes, which Zeus is said to have given to her as an acknowledgment for a favour she had bestowed on him (Schol.
+     <em>
+      ad Eurip. Phoen.
+     </em>
+     687): in like manner Sicily was said to have been given to her at her wedding (Pind.
+     <em>
+      Nem.
+     </em>
+     i. 17; Diod. v.2; Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     xv. 14), and two festivals were celebrated in her honour in the island, the one at the time of sowing, and the other at the time of harvest. (Diod. v. 4; Athen. iv. p. 647.) The Eleusinian mysteries belonged to Demeter and Cora in common, and to her alone were dedicated the mysteries celebrated at Athens in the month of Anthesterion. (Comp. Paus. i. 31. § 1, &amp;c.) Temples of Persephone are mentioned at Corinth, Megara, Sparta, and at Locri in the south of Italy. (Paus. iii. 13. § 2; Liv. xxix. 8, 18; Appian, iii. 12.) In works of art Persephone is seen very frequently: she bears the grave and severe character of an infernal Juno, or she appears as a mystical divinity with a sceptre and a little box, but she was mostly represented in the act of being carried off by Pluto. (Paus. viii. 37. § 2.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAME SPELLINGS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Περσεφονη
+      </p>
+      <p class="names-greek">
+       Περσεφονεια
+      </p>
+      <p class="names-greek">
+       Περσεφονειη
+      </p>
+      <p class="names-greek">
+       Περσεφασσα
+      </p>
+      <p class="names-greek">
+       Φερσεφασσα
+      </p>
+      <p class="names-greek">
+       Φερσεφαττα
+      </p>
+      <p class="names-greek">
+       Φερρεφαττα
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Persephonê
+      </p>
+      <p>
+       Persephoneia
+      </p>
+      <p>
+       Persephoneiê
+      </p>
+      <p>
+       Persephassa
+      </p>
+      <p>
+       Phersephassa
+      </p>
+      <p>
+       Phersephatta
+      </p>
+      <p>
+       Pherrephatta
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Persephone
+      </p>
+      <p>
+       Persephoneia
+      </p>
+      <p>
+       Persephoneia
+      </p>
+      <p>
+       Persephassa
+      </p>
+      <p>
+       Phersephassa
+      </p>
+      <p>
+       Phersephatta
+      </p>
+      <p>
+       Pherrephatta
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       <span class="nm-detail">
+        Destructive-Slayer?
+        <br/>
+        (
+        <em>
+         persô, phonos
+        </em>
+        )
+       </span>
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF PERSEPHONE
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/K14.1.html">
+      <img alt="Hades and Persephone in the Underworld | Apulian red-figure krater C4th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/K14.1Haides.jpg"/>
+     </a>
+     <figcaption>
+      Hades and Persephone in the Underworld, Apulian red-figure krater C4th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I. ZEUS &amp; DEMETER
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 912 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "He [Zeus] came to the bed of all-nourishing Demeter, and she bare white-armed Persephone whom Aidoneus [Haides] carried off from her mother; but wise Zeus gave her to him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 2 to Demeter 1 ff (trans. Evelyn-White) (Greek epic C7th or 6th B.C.) :
+     </span>
+     <br/>
+     "[Demeter's] trim-ankled daughter whom Aidoneus [Haides] rapt away, given to him by all-seeing Zeus the loud-thunderer."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 931L (Oxyrhynchus papyrus) (trans. Campbell) :
+     </span>
+     <br/>
+     "King Zeus' own sister [Demeter] and his daughter [Persephone] are happy, both, and dear to the blessed gods."
+    </p>
+    <p>
+     There are innumerable other sources which describe Persephone as the daughter of Zeus and Demeter.
+    </p>
+    <h4>
+     II. ZEUS &amp; STYX
+    </h4>
+    <p>
+     Apollodorus, in his list of Zeus' divine children, curiously calls Persephone a daughter of Zeus and Styx,. Elsewhere he gives the usual account where her mother is Demeter.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 13 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Styx bore him [Zeus] Persephone"
+    </p>
+    <hr/>
+    <h3 id="Mankind">
+     PERSEPHONE &amp; THE CREATION OF MANKIND
+    </h3>
+    <p>
+     In one obscure myth Persephone was accredited with creation of mankind from clay (in place of the usual Prometheus). A divine dispute ensued over which god should possess him, with the result that he was awarded to Zeus and Gaia in life, and to Persephone in death.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 220 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Cura (Core) [Persephone] was crossing a certain river, she saw some clayey mud. She took it up thoughtfully and began to fashion a man. While she was pondering on what she had done, Jove [Zeus] came up; Cura asked him to give the image life, and Jove readily grant this. When Cura wanted to give it her name, Jove forbade, and said that his name should be given it. But while they were disputing about the name, Tellus [Gaia] (Earth) arose and said that it should have her name, since she had given her own body. They took Saturnus [Kronos (Cronus)] for judge; he seems to have decided for them : Jove, since you gave him life [text missing, presumably he was given control of the fate of men] let her [Persephone] receive his body [after death]; since Cura fashioned him; let her [Gaia] posses him as long as he lives, but since there is controversy about his name, let him be called
+     <em>
+      homo
+     </em>
+     , since he seems to be made from
+     <em>
+      humus
+     </em>
+     ."
+    </p>
+    <hr/>
+    <h3 id="Offspring">
+     OFFSPRING OF PERSEPHONE
+    </h3>
+    <h4>
+     I. ZAGREUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 30 to Dionysus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Thrice begotten (
+     <em>
+      trigonon
+     </em>
+     ), Bakkheion (Bacchian) king [Dionysos] . . . Eubouleos [Dionysos-Zagreos], whom the leaves of vines adorn, of Zeus and Persephoneia occultly born in beds ineffable."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 46 to Licnitus :
+     </span>
+     <br/>
+     "[Dionysos-Zagreos] from Zeus' high counsels nursed by Persephoneia, and born the dread of all the powers divine."
+    </p>
+    <p class="see-also">
+     For the MYTH of the birth of Zagreus see
+     <a href="#Zeus">
+      Persephone seduced by Zeus
+     </a>
+     (below)
+    </p>
+    <h4>
+     II. MELINOE
+    </h4>
+    <p>
+     Melinoe was an underworld goddess identified with Hekate.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 71 to Melinoe :
+     </span>
+     <br/>
+     "Melinoe, saffron-veiled, terrene, who from Phersephone dread venerable queen, mixt with Zeus Kronion, arose, near where Kokytos' (Cocytus') mournful river flows; when, under Plouton's (Pluton's) [Haides] semblance, Zeus divine deceived with guileful arts dark Phersephone. Hence, partly black thy limbs and partly white, from Plouton dark, from Zeus ethereal bright."
+    </p>
+    <h4>
+     III. ERINYES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 70 to the Eumenides :
+     </span>
+     <br/>
+     "[Erinyes] from Zeus Khthonios (Chthonius) [Haides] born, and Phersephone, whom lovely locks adorn."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 29 to Persephone :
+     </span>
+     <br/>
+     "Praxidike (Exacter of Justice) [Persephone], subterranean queen. The Eumenides' [Erinyes'] source [mother], fair-haired, whose frame proceeds from Zeus' [Zeus Khthonios or Haides] ineffable and secret seeds."
+    </p>
+    <hr/>
+    <h3 id="Zeus">
+     SEDUCTION OF PERSEPHONE BY ZEUS
+    </h3>
+    <figure class="image-main image-main-225">
+     <a href="../Gallery/K14.1.html">
+      <img alt="Persephone | Apulian red-figure krater C4th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/K14.1Persephone.jpg"/>
+     </a>
+     <figcaption>
+      Persephone (detail), Apulian red-figure krater C4th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     In the Orphic myths, the maiden goddess Persephone was seduced by Zeus in the guise of a serpent. She bore him a son, the godling Zagreus, who, when Zeus placed him upon the throne of heaven, was attacked and dismembered by the Titanes. His heart was recovered and he was reborn through Semele as the god Dionysos. An infernal goddess named Melinoe (probably Hekate) was also said to have been born from their union.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 30 to Dionysus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Thrice begotten (
+     <em>
+      trigonon
+     </em>
+     ), Bakkheion (Bacchian) king [Dionysos] . . . Eubouleos [Dionysos-Zagreos], whom the leaves of vines adorn, of Zeus and Persephoneia occultly born in beds ineffable."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 46 to Licnitus :
+     </span>
+     <br/>
+     "[Dionysos-Zagreus] from Zeus’ high counsels nursed by Persephoneia, and born the dread of all the powers divine."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 4. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Some writers of myth, however, relate that there was a second Dionysos [Zagreus] who was much earlier in time than the one we have just mentioned. For according to them there was born of Zeus and Persephone a Dionysos who is called by some Sabazios (Sabazius) and whose birth and sacrifices and honours are celebrated at night and in secret, because of the disgraceful conduct which is a consequence of the gatherings."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 75. 4 :
+     </span>
+     <br/>
+     "This god [Dionysos-Zagreus] was born in Krete (Crete), men say, of Zeus and Persephone, and Orpheus has handed down the tradition in the initiatory rites that he was torn in pieces by the Titanes (Titans)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 155 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Sons of Jove [Zeus]. Liber [Dionysos-Zagreus] by Proserpina [Persephone], whom the Titanes (Titans) dismembered."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 167 :
+     </span>
+     <br/>
+     "Liber [Zagreus-Dionysos], son of Jove [Zeus] and Proserpina [Persephone], was dismembered by the Titanes (Titans), and Jove gave his heart, torn to bits, to Semele in a drink. When she was made pregnant by this [with the god Dionysos] . . . For this reason he is called Dionysus, and also ‘the one with two mothers.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 114 (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "As a spotted serpent [Zeus seduced] Deois [Persephone]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 562 - 6. 168 (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Semele was kept for a more brilliant union, for already Zeus ruling on high intended to make a new Dionysos grow up, a bullshaped copy of the older Dionysos [Zagreus]; since he thought with regret of the ill-fated Zagreus. This was a son born to Zeus in dragonbed by Persephoneia, the consort of the blackrobed king of the underworld [Haides]; when Zeus put on a deceiving shape of many coils, as a gentle drakon twining around her in lovely curves, and ravished the maidenhood of unwedded Persephoneia; though she was hidden when all that dwelt in Olympos were bewitched by this one girl, rivals in love for the marriageable maid, and offered their dowers for an unsmirched bridal. Hermes had not yet gone to the bed of Peitho, and he offered his rod as gift to adorn her chamber. Apollon produced his melodious harp as a marriage-gift. Ares brought spear and cuirass for the wedding, and shield as bride-gift. Lemnian Hephaistos (Hephaestus) held out a curious necklace of many colours, new made and breathing still of the furnace, poor hobbler! For he had already, though unwilling, rejected his former bride Aphrodite, when he spied her rioting with Ares . . .
+     <br/>
+     And father Zeus was much more bewitched by Persephoneia. When Zeus spied the virgin beauty of her shape, his eye ran ahead of him to guide all the Erotes (Loves), and could not have enough of Persephone; in his heart storms of unsleeping passion raged without ceasing, and gradually a greater furnace of the Paphian [Aphrodite] was kindled from a small spark; the gaze of lovemaddened Zeus was enslaved by the lovely breast of the goddess. Once she was amusing herself with a resplendent bronze plate, which reflected her face like a judge of beauty; and she confirmed the image of her shape by this free voiceless herald, testing the unreal form in the shadow of the mirror, and smiling at the mimic likeness. Thus Persephone gazed in the selfgraved portrait of her face, and beheld the self-impressed aspect of a false Persephoneia. Once in the scorching steam of thirsty heat, the girl would cease the loomtoilling labours of her shuttle at midday to shun the tread of the parching season, and wipe the running sweat from her face; she loosed the modest bodice which held her breast so tight, and moistened her skin with a refreshing bath, floating in the cool running stream, and left behind her threads fixt on the loom of Pallas [Athena]. But she could not escape the allseeing eye of Zeus. He gazed at the whole body of Persephoneia, uncovered in her bath . . .
+     <br/>
+     He--so mighty! The ruler of the universe, the charioteer of heaven, bowed his neck to desire--for all his greatness no thunderbolts, no lightnings helped him against Aphrodite in arms: he left the house of Hera, he refused the bed of Dione, he threw away the love of Deo, he fled from Themis, he deserted Leto - no charm was left for him but only union with Persephoneia.
+     <br/>
+     Not the Father alone felt desire; but all that dwelt in Olympos had the same, struck by one bolt, and wooed for a union with Deo's divine daughter. Then Deo lost the brightness of her rosy face, her swelling heart was lashed by sorrows. She untied the fruitful frontlet [a wreath of corn-ears] from her head, and shook loose the long locks of hair over her neck, trembling for her girl; the cheeks of the goddess were moistened with self-running tears, in her sorrow that so many wooers had been stung with one fiery shot for a struggle of rival wooing, by maddening Eros (Love), all contending together for their loves. From all the bounteous mother shrank, but specially she feared Hephaistos to be her daughter's lame bedfellow . . . All that dwelt in Olympos had the same, struck by one bolt [of desire], and wooed for a union with Deo's divine daughter [Persephone] . . .
+     <br/>
+     Then Deo [Demeter] lost the brightness of her rosy face, her swelling heart was lashed by sorrows . . . She hastened with quick foot to the house of Astraios (Astraeus) the god of prophecy [or more specifically astrology] . . . She laid her left hand on the knees of the kindly ancient, and with her right touched his deepflowing beard in supplication. She recounted all her daughter's wooers and craved a comfortable oracle; for divinations can steal away anxieties by means of hopes to come. Nor did old Astraios refuse. He learnt the details of the day when her only child was new born, and the exact time and veritable course of the season which gave her birth; then he bent the turning fingers of his hands and measured the moving circle of the ever-recurring number counting from hand to hand in double exchange [reckoning the number of days in the years of her life on his fingers]. He called to a servant, and Asterion lifted a round revolving sphere, the shape of the sky, the image of the universe, and laid it upon the lid of a chest. Here the ancient got to work. He turned it upon its pivot, and directed this gaze round the circle of the Zodiac, scanning in this place and that the planets and fixt stars . . . When he had noticed everything and reckoned the circuit of the stars, he put away the ever-revolving sphere in its roomy box, the sphere with its curious surface; and in answer to the goddess he mouthed out a triple oracle of prophetic sound : ‘Fond mother Demeter, when the rays of the Moon are stolen under a shady cone and her light is gone, guard against a robber-bridegroom for Perephoneia, a secret ravisher of your unsmirched girl, if the threads of the Moirai (Fates) can be persuaded. You will see before marriage a false and secret bedfellow come unforeseen, a half-monster cunning-minded: since I perceive the western point Ares the wife-stealer [the planet Mars] walking with the Paphian [the planet Venus], and I notice the Drakon (Draco) is rising beside them both . . . ’
+     <br/>
+     This said, he let the oracular voice sleep in his mouth. But when Demeter Sicklebearer heard the hope of coming fruits, and how one uninvited and unbetrothed was to ravish her beloved maiden girl, she groaned and smiled at once, and hastening by the paths of high heaven with despondent step. Then beside the drakon-manger she balanced the curved yoke over the two necks of the monsters, and fastened the untamed crawlers with the yokestrap, pressing their jaws about the crooktooth bit. So goldenbrown Deo in that grim car conveyed her girl hidden in a black veil of cloud. Boreas (the North-Wind) roared like thunder against the passage of the wagon, but she whistled him down with her monster-driving whip, guiding the light wings of the quick drakons as they sped horselike along the course of the wind, through the sky and round the back-reaching cape of the Libyan Ocean . . .
+     <br/>
+     Looking for a stony harbourage, she alighted among the Pelorian cliffs of Threepeak Sikelia (Sicily) near the Adriatic shores, where the restless briny flood is driven towards the west and bends round like a sickle, bringing the current in a curve to southwest from the north. And in the place where that River [Anapos] had often bathed the maiden Kyane (Cyane) . . . she saw a neighbouring grotto like a lofty hall crowned and concealed by a roof of stone, which nature had completed with a rocky gateway and a loom of stone [stalactites] tended by the neighbouring Nymphai (Nymphs).
+     <br/>
+     The goddess passed through the dark hall, and concealed her daughter well-secured in this hollow rock. Then she loosed the drakones (dragons) from the winged car; one she placed by the jutting rock on the right of the door, one on the left beside the stone-pointed barrier of the entry, to protect Persephoneia unseen. There also she left Kalligeneia, her own fond nurse, with her baskets, and all that cleverhand Pallas [Athena] gives to make womankind sweat over their wool-spinning. Then she left her rounded chariot for the Nymphai to watch, in their lonely home among the rocks, and cut the air with her feet.
+     <br/>
+     The girl busied herself in carding fleeces of wool under the sharp teeth of the iron comb. She packed the wool on the distaff, and twirling spindle with many a twist and jerk ran round and around in dancing step, as the threads were spun and drawn through the fingers. She fixed the first threads of the warp which begins the cloth, and gave them a turn round the beam, moving from end to end to and fro with unresting feet. She wove away, plying the rod and pulling the bobbin along through the threads, while she sang over the cloth to her cousin Athena the clever webster.
+     <br/>
+     Ah, maiden Persephoneia! You could not find how to escape your mating! No, a drakon was your mate, when Zeus changed his face and came, rolling in many a loving coil through the dark to the corner of the maiden's chamber, and shaking his hairy chaps : he lulled to sleep as he crept the eyes of those creatures of his own shape who guarded the door. He licked the girl's form gently with wooing lips. By this marriage with the heavenly drakon, the womb of Persephone swelled with living fruit, and she bore Zagreus the horned baby, who by himself climbed upon the heavenly throne of Zeus and brandished lightning in his little hand, and newly born, lifted and carried thunderbolts in his tender fingers."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 28 ff :
+     </span>
+     <br/>
+     "[Hera manipulates Persephone into sending an Erinys to plague Dionysos with madness :] ‘He [Zeus] rescued Semele's son [Dionysos] from the flaming fire, he saved Bakkhos (Bacchus) from the thunderbolt, while still a baby brat . . . But Zagreus the heavenly Dionysos [Persephone's son] he would not defend, when he was cut up with knives! What made me angrier still, was that Kronides (Cronides) gave the starry heaven to Semele for a bridegift,--and Tartaros (Tartarus) to Persephoneia! Heaven is reserved for Apollon, Hermes lives in heaven--and you have this abode full of gloom! What good was it that he put on the deceiving shape of a serpent, and ravished the girdle of your inviolate maidenhood, if after bed he was to destroy your babe?’"
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Zagreus (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Zagreus : Dionysos in poets. For Zeus, it seems, had intercourse with Persephone, and she gave birth to Dionysos Khthonios (Chthonius)."
+    </p>
+    <p class="see-also">
+     For MORE information on the god Zagreus see
+     <a href="../Georgikos/Zagreus.html">
+      ZAGREUS
+      <br/>
+     </a>
+     For a RELATED myth, see the story of the birth of Melinoe:
+     <a href="#Offspring">
+      Offspring of Persephone
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Adonis">
+     PERSEPHONE LOVES : ADONIS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K14.4.html">
+      <img alt="Hades and Persephone | Apulian red-figure amphora C4th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K14.4Haides.jpg"/>
+     </a>
+     <figcaption>
+      Hades and Persephone, Apulian red-figure amphora C4th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     The popular Phoenician myth of the love of the goddess Ashtarte for Adon was adopted by the Greeks, who identified the goddesses of the tale with Aphrodite and Persepone.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 184 - 185 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Because of his [the infant Adonis] beauty, Aphrodite secreted him away in a chest, keeping it from the gods, and left him with Persephone. But when Persephone got a glimpse of Adonis, she refused to return him. When the matter was brought to Zeus for arbitration, he divided the year into three parts and decreed that Adonis would spend one third of the year by himself, one third with Persephone, and the rest with Aphrodite. But Adonis added his own portion to Aphrodite's."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 56 to Adonis (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "[Adonis] sweet plant of Aphrodite, Eros' (Love's) delightful flower : descended from the secret bed divine of fair-haired Persephone, 'tis thine to sink in Tartaros profound, and shine again through heavens illustrious round."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 7 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Some also have said that Venus [Aphrodite] and Proserpina [Persephone] came to Jove [Zeus] for his decision, asking him to which of them he would grant Adonis. Calliope, the judge appointed by Jove, decided that each should posses him half of the year."
+    </p>
+    <p class="see-also">
+     For MORE information on Adonis see
+     <a href="../Olympios/AphroditeLoves2.html#Adonis">
+      APHRODITE LOVES: ADONIS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Minthe">
+     PERSEPHONE WRATH : MINTHE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 8. 3. 14 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Minthe, who, according to myth, became the concubine of Haides, was trampled under foot by Kore (Core) [Persephone], and was transformed into garden-mint, the plant which some call
+     <em>
+      Hedyosmos
+     </em>
+     ."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 728 (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Persephone of old was given grace to change a woman's [Minthe's] form to fragrant mint."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Oppian, Halieutica 3. 485 (trans. Mair) (Greek poet C3rd A.D.) :
+     </span>
+     <br/>
+     "Mint, men say, was once a maid beneath the earth, a Nymphe of Kokytos (Cocytus), and she lay in the bed of Aidoneus [Haides]; but when he raped the maid Persephone from the Aitnaian hill [Mount Etna in Sicily], then she complained loudly with overweening words and raved foolishly for jealousy, and Demeter in anger trampled upon her with her feet and destroyed her. For she had said that she was nobler of form and more excellent in beauty than dark-eyed Persephone and she boasted that Aidoneus would return to her and banish the other from his halls : such infatuation leapt upon her tongue. And from the earth spray the weak herb that bears her name."
+    </p>
+    <p class="see-also">
+     For MORE information on this Nymphe see
+     <a href="../Nymphe/NympheMinthe.html">
+      MINTHE
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Sisyphos">
+     PERSEPHONE FAVOUR : SISYPHUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Theognis, Fragment 1.703 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Sisyphos (Sisyphus), son of Aiolos (Aeolus), who by his wits came up even from Aides [Haides], after persuading with wily words Persephone who impairs the mind of mortals and brings them forgetfulness. No one else has ever contrived this, once Thanatos' (Death's) dark cloud has enveloped him and he has come to the shadowy place of the dead and passed the black gates which hold back the souls of the dead, for all their protestations. But even from there the hero Sisyphos returned to the light of the sun by his cleverness."
+    </p>
+    <p class="see-also">
+     In another VERSION of this myth it is Haides who releases Sisyphos from the Underworld see
+     <a href="Haides.html#Sisyphos">
+      Hades Favour: Sisyphus
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Orpheus">
+     PERSEPHONE FAVOUR : ORPHEUS
+    </h3>
+    <p>
+     When Orpheus came to the underworld seeking the return of his dead love Eurydike (Eurydice), Persephone was moved by his tears and agreed to let her return.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 25. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Because of the love he [Orpheus] held for his wife he dared the amazing deed of descending into Haides, where he entrances Persephone by his melodious song and persuaded her to assist him in his desires and to allow him to bring up his dead wife from Haides."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 8 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The new-wed bride [Eurydike (Eurydice) wife of Orpheus] . . . fell dying when a serpent struck her heel. And when at last the bard Rhodopeius [Orpheus] had mourned his fill in the wide world above, he dared descend through Taenaria's dark gate to Styx to make trial of the Umbrae (Shades); and through the thronging wraiths and grave-spent ghosts he came to pale Persephone and him, Dominus Umbrarum (Lord of the Shades) [Haides], who rules the unlovely realm, and as he struck his lyre's sad chords he said : ‘Ye deities who rule the world below, whither we mortal creatures all return, if simple truth, direct and genuine, may by your leave be told . . . for my dear wife's sake, in whom a trodden viper poured his venom and stole her budding years. My heart has sought strength to endure; the attempt I'll not deny; but love has won, a god whose fame is fair in the world above; but here I doubt, though here too, I surmise; and if that ancient tale of ravishment is true, you too were joined in love. Now by these regions filled with fear, by this huge Chaos, these vast silent realms, reweave, I implore, the fate unwound too fast of my Eurydice. To you are owed ourselves and all creation; a brief while we linger; then we hasten, late or soon to one abode; here on road leads us all; here in the end is home; over humankind your kingdom keeps the longest sovereignty. She too, when ripening years reach their due term, shall own your rule. The favour that I ask is but to enjoy her love; and, if fate will not reprieve her, my resolve is clear not to return: may two deaths give you cheer.’
+     <br/>
+     So to the music of his strings he [Orpheus] sang, and all the bloodless spirits wept to hear . . . by that sad ringing overwhelmed, the Eumenides' [Erinyes'] cheeks, it's said, were wet with tears; and the queen [Persephone] and he whose sceptre rules the underworld could not deny the prayer, and called Eurydice. She was among the recent ghosts and, limping from her wound, came slowly forth; and Rhodopeius [Orpheus] took his bride and with her this compact that, till he reach the world above and leave Valles Avernae [Valleys of Hell], he look not back or else the gift would fail. The track climbed upwards, steep and indistinct, through the hushed silence and the murky gloom; and now they neared the edge of the bright world, and, fearing lest she faint, longing to look, he turned his eyes--and straight she slipped away. He stretched his arms to hold her--to be held--and clasped, poor soul, naught but the yielding air. And she, dying again, made no complaint (for what complaint had she save she was loved?) and breathed a faint farewell, and turned again back to the land of spirits whence she came. The double death of his Eurydice stole Orpheus' wits away . . . He longed, he begged, in vain to be allowed to cross the stream of Styx a second time. The ferryman [Kharon (Charon)] repulsed him. Even so for seven days he sat upon the bank, unkempt and fasting, anguish, grief and tears his nourishment, and cursed Erebus' cruelty."
+    </p>
+    <hr/>
+    <h3 id="Alkestis">
+     PERSEPHONE FAVOUR : ALCESTIS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 106 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Apollon] obtained from the Moirai (Fates) a privilege for [King] Admetos, whereby, when it was time for him to die, he would be released from death if someone should volunteer to die in his place. When his day to die came . . . [his wife] Alkestis (Alcestis) died for him. Kore (Core) [Persephone], however sent her back, or, according to some, Herakles battled Haides and brought her back up to Admetos."
+    </p>
+    <hr/>
+    <h3 id="Peirithoos">
+     PERSEPHONE WRATH : PIRITHOUS
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/K14.8.html">
+      <img alt="Persephone, Sisyphus and Hades | Athenian black-figure neck amphora C6th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/K14.8Haides.jpg"/>
+     </a>
+     <figcaption>
+      Persephone, Sisyphus and Hades, Athenian black-figure neck amphora C6th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     King Peirithoos (Pirithous) of the Lapithai (Lapiths) sought to kidnap the goddess Persephone from the underworld for his bride. He was, however, captured by the infernal gods and subjected to eternal torment.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 391c-d (trans. Shorey) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[From Plato's critique of the portrayal of gods by the poets :] Neither, then, must we believe this or suffer it to be said, that Theseus, the son of Poseidon, and Peirithous (Pirithous), the son of Zeus, attempted such dreadful rapes [i.e. Helene and Persephone], nor that any other child of a god and hero would have brought himself to accomplish the terrible and impious deeds that they now falsely relate of him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E1. 23 - 24 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Theseus and Peirithoos (Pirithous) agreed with each other to marry daughters of Zeus, so Theseus with the other's help kidnapped twelve-year-old Helene (Helen) from Sparta, and went down to Haides' realm to court Persephone for Peirithoos . . . Theseus, arriving in Haides' realm with Peirithoos, was thoroughly deceived, for Haides on the pretense of hospitality had them sit first upon the throne of Lethe (Forgetfulness). Their bodies grew onto it, and were held down by the serpent's coils. Now Peirithoos remained fast there for all time, but Herakles led Theseus back up."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 124 :
+     </span>
+     <br/>
+     "As he [Herakles] approached the gates of Haides' realm [in his quest to fetch Kerberos (Cerberus)], he came across Theseus along with Peirithoos (Pirithous), who had courted Persephone with matrimonial intentions and for this reason was held fast as was Theseus. When they saw Herakles they stretched forth their hands as if to rise up with the help of his strength. He did in fact pull Theseus up by the hand, but when he wanted to raise Peirithoos, the earth shook and he let go."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 63. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Peirithoos (Pirithous) [after helping Theseus abduct Helene] now decided to seek the hand of Persephone in marriage, and when he asked Theseus to make the journey with him Theseus at first endeavoured to dissuade him and to turn him away from such a deed as being impious; but since Peirithoos firmly insisted upon it Theseus was bound by the oaths to join with him in the deed. And when they had at last made their way below to the regions of Haides, it came to pass that because of the impiety of their act they were both put in chains, and although Theseus was later let go by reason of the favour with which Herakles regarded him, Peirithoos because of the impiety remained in Haides, enduring everlasting punishment; but some writers of myths say that both of them never returned."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4 .26. 1 :
+     </span>
+     <br/>
+     "Herakles then, according to the myths which have come down to us, descended into the realm of Haides, and being welcomed like a brother by Persephone brought Theseus and Peirithous (Pirithous) back to the upper world after freeing them from their bonds. This he accomplished by the favour of Persephone."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Theseus 31. 2 &amp; 35. 1 (trans. Perrin) (Greek historian C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "[Plutarch as an historian rationalises the myth :] [Theseus] to return the service of Peirithoos (Pirithous), [who had helped him abduct Helene] journeyed with him to Epiros, in quest of the daughter of Aidoneus the king of the Molossians. This man called his wife Phersephone, his daughter Kora (Core), and his dog Kerberos (Cerberus), with which beast he ordered that all suitors of his daughter should fight, promising her to him that should overcome it. However, when he learned that Peirithoos and his friend were come not to woo, but to steal away his daughter, he seized them both. Peirithoos he put out of the way at once by means of the dog, but Theseus he kept in close confinement . . .
+     <br/>
+     Now while Herakles was the guest of Aidoneus the Molossian, the king incidentally spoke of the adventure of Theseus and Peirithoos, telling what they had come there to do, and what they had suffered when they were found out. Herakles was greatly distressed by the inglorious death of the one, and by the impending death of the other. As for Peirithoos, he thought it useless to complain, but he begged for the release of Theseus, and demanded that this favour be granted him. Aidoneus yielded to his prayers, Theseus was set free, and returned to Athens, where his friends were not yet altogether overwhelmed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 4. 5 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Benefits were remembered, and thanks for them given, by Theseus to Herakles. Aïdoneus king of the Molossians put Theseus in chains when he came with Pirithous to kidnap the king's wife [i.e. Persephone]. Theseus did not want to marry the woman himself but did this as a favour to Pirithous. Herakles came to the country of the Molossians and rescued Theseus, in return for which the latter set up an altar to him."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 79 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Jove [Zeus] saw that they [Theseus and Peirithoos (Pirithous)] had such audacity [kidnapping Helene] as to expose themselves to danger, he bade them in a dream both go and ask Pluto [Haides] on Pirithous' part for Proserpina [Persephone] in marriage. When they had descended to the Land of the Dead through the peninsula Taenarus, and had informed Pluto why they had come, they were stretched out and tortured for a long time by the Furiae [Erinyes]. When Hercules came to lead out the three-headed dog, they begged his promise of protection. He obtained the favor from Pluto, and brought them out unharmed."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 93 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Through the deep shades of the pool which none recrosses is he [Theseus] faring, this brave recruit of a madcap suitor [Peirithoos], that from the very throne of the infernal king [Haides] he may rob and bear away his wife [Persephone]. He hurries on, a partner in mad folly; him nor fear nor shame held back. And there in the depths of Acherontis [i.e. the underworld] he seeks adultery and an unlawful bed."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 53 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The rash ardour of Pirithous provoked me [Haides], and Theseus, sworn comrade of his daring friend [the pair attempted to abduct Persephone]."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Kore (trans. Suda On Line) (Byzantine Greek Lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "[The Suda follows Plutarch's rationalisation of the myth :] Kore (Core) (Maiden) : A virgin. From
+     <em>
+      koro
+     </em>
+     (I sweep out), I cleanse . . .  Haides who ruled the Molossians at the time of the judges of the Jews, had a daughter who was called Kore; for the Molossians called their good-looking women ‘maidens’. Peirithous (Pirithous) loved her and wished to carry her off by night. Knowing this her father tied her up by the watch dog he had, which because of its size he called Tri-Kerberos (Cerberus), and it dealt with Peirithous coming according to the arrangement; then he ravished the maiden coming out to his aid. About her they say ‘Plouton (Pluton) ravished her.’"
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Lispoi :
+     </span>
+     <br/>
+     "When Theseus went down to the House of Haides to look for Pirithous and was placed by Persephone to sit on a rock with Pirithous, the part of his buttocks attached to it was left on it when Herakles came down for Kerberos (Cerberus) and, after asking the goddess for him, snatched him off the rock."
+    </p>
+    <hr/>
+    <h3 id="Herakles">
+     PERSEPHONE FAVOUR : HERACLES
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O28.1.html">
+      <img alt="Persephone, Triptolemus and Demeter | Athenian red-figure skyphos C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O28.1Triptolemos.jpg"/>
+     </a>
+     <figcaption>
+      Persephone, Triptolemus and Demeter, Athenian red-figure skyphos C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     When Herakles came to the underworld on his quest to fetch Kerberos (Cerberus), the Hound of Haides, Persephone received him like a brother, and allowed him to carry off the dog, as well as free Theseus from his bonds.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 5 (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "[Herakles went] down to the house of slender-ankled Persephone to fetch up to the light from Haides the jagged-toothed dog [Kerberos (Cerberus)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 124 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Herakles] approached the gates of Haides' realm [in his quest to fetch Kerberos (Cerberus)] . . .
+     <br/>
+     Then, desiring to supply the souls with blood, he slaughtered one of Haides' cattle. Their keeper Menoites (Menoetes), son of Keuthonymos (Ceuthonymos), challenged Herakles to a wrestling match. Herakles hugged his torso and broke his ribs, but set him down at the request of Persephone.
+     <br/>
+     Herakles asked Plouton (Pluton) [Haides] for Kerberos (Cerberus), and was told to take the hound if he could overpower it without using any of the weapons he had brought with him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 26. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Herakles then, according to the myths which have come down to us, descended into the realm of Haides, and being welcomed like a brother by Persephone brought Theseus and Peirithous (Pirithous) back to the upper world after freeing them from their bonds. This he accomplished by the favour of Persephone, and receiving the dog Kerberos (Cerberus) in chains he carried him away to the amazement of all and exhibited him to men."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 79 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Hercules came to lead out the three-headed dog, they [Peirithoos and Theseus, trapped in the underworld] begged his promise of protection. He obtained the favor from Pluto [Haides], and brought them out unharmed."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 760 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Now tell my son's [Herakles] famous struggle. Is it [the hound Kerberos] his willing uncle's [Haides'] gift, or his spoil, he brings? . . . 
+  There appears the palace of greedy Dis [Haides]. Here the savage Stygian dog frightens the shades . . . At last the dog, vanquished [by the club of Herakles] ceases his threatenings and, spent with struggle, lowers all his heads and yields all wardship of his cavern. Both rulers [Haides and Persephone] shiver on their throne, and bid lead the dog away. Me [Theseus] also they give as boon to Alcides' [Herakles'] prayer."
+    </p>
+    <p class="see-also">
+     For MORE information on Herakles and the Hound of Haides see
+     <a href="../Ther/KuonKerberos.html">
+      KERBEROS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Koronides">
+     PERSEPHONE WRATH : THEBANS, &amp; FAVOUR : CORONIDES
+    </h3>
+    <p>
+     Haides and Persephone inflicted Thebes with a deadly plague, probably as punishment for King Kreon's (Creon's) refusal to allow the burial of the dead warriors of the army of the Seven Against Thebes. When the maiden Koronides (Coronides) sacrificed themselves to appease the gods, they were pitied and transformed into a pair of comets.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 25 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When plague seized Aonia [the land of Thebes in Boiotia] and many died, there were sent officers to consult Apollon's oracle at Gortyne. The god replied that they should make an appeal to the two gods of the underworld [Haides and Persephone]. He said that they would cease from their anger if two willing maidens were sacrificed to the two. Of course not one of the maidens in the city complied with the oracle until a servant-woman reported the answer to the daughters of Orion [the two Koronides]. They were at work at their loom and, as soon as they heard about this, they willingly accepted death on behalf of their fellow citizens before the plague epidemic had smitten them too. They cries out three times to the gods of the underworld saying that they were willing sacrifices. They thrust their bodkins into themselves at their shoulders and gashed open their throats. And they both fell down into the earth. Persephone and Hades took pity on the maidens and made their bodies disappear, sending them instead up out of the earth as heavenly bodies. When they appeared, they were borne up into the sky. And men called them comets."
+    </p>
+    <p class="see-also">
+     For MORE information on these maidens see
+     <a href="../Nymphe/NymphaiKoronides.html">
+      THE KORONIDES
+     </a>
+    </p>
+    <hr/>
+    <h3>
+     PERSEPHONE WRATH : EUPHEMEA
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 16 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Meropes of Cos] had a wife, Ethemea, of the race of Nymphae, who was stuck with the arrows of Diana [Artemis] when she ceased worshipping her. At last she was snatched away alive by Proserpina [Persephone] to the Land of the Dead."
+    </p>
+    <hr/>
+    <h3 id="Psykhe">
+     PERSEPHONE FAVOUR : PSYCHE
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/F14.1.html">
+      <img alt="The Rape of Persephone | Greek fresco from Macedonia Tomb C4th B.C. | Museum of the Royal Tombs of Aigai, Vergina" class="img-responsive center-block" src="../image/F14.1Haides.jpg"/>
+     </a>
+     <figcaption>
+      The Rape of Persephone, Greek fresco from Macedonia Tomb C4th B.C., Museum of the Royal Tombs of Aigai
+     </figcaption>
+    </figure>
+    <p>
+     Aphrodite sent Psykhe (Psyche) on a quest to the underworld to fetch the beauty-cream of Persephone, as one of her many harsh trials.
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 6. 16 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "[Aphrodite commands Psykhe (Psyche) to perform a labour :] ‘You will have to undertake one further task for me, my girl. Take this box’ (she handled it over) ‘and make straight for Hades, for the funereal dwelling of Orcus [Haides] himself. Give the box to Proserpina [Persephone], and say : "Venus [Aphrodite] asks you to send her a small supply of your beauty-preparation, enough for just one day, because she has been tending her sick son, and has used hers all up by rubbing it on him." Make your way back with it as early as you can, because I need it to doll myself up so as to attend the Deities' Theatre.’ . . .
+     <br/>
+     [A talking tower  advises Psykhe on how to reach Persephone in the Underworld :] ‘He [Kerberos (Cerberus)] keeps constant guard before the very threshold and the dark hall of Proserpina [Persephone], protecting that deserted abode of Dis [Haides]. You must disarm him by offering him a cake as his spoils. Then you can easily pass him, and gain immediate access to Proserpina herself. She will welcome you in genial and kindly fashion, and she will try to induce you to sit on a cushioned seat beside her and enjoy a rich repast. But you must settle on the ground, ask for course bread, and eat it. Then you must tell her why you have come. When you have obtained what she gives you, you must make your way back, using the remaining cake to neutralize the dog's savagery. Then you must give the greedy mariner the one coin which you have held back, and once again across the river you must retrace your earlier steps and return to the harmony of heaven's stars. Of all these injunctions I urge you particularly to observe this: do not seek to open or to pry into the box that you will carry, nor be in any way inquisitive about the treasure of divine beauty hidden within it.’ . . .
+     <br/>
+     [She followed the tower's instructions and] fed the cake to the dog to quell his fearsome rage, and gained access to the house of Proserpina [Persephone]. Psyche declined the soft cushion and the rich food offered by her hostess; she perched on the ground at her feet, and was content with plain bread. She then reported her mission from Venus [Aphrodite]. The box was at once filled and closed out of her sight, and Psyche took it. She quietened the dog's barking by disarming it with the second cake, offered her remaining coin to the ferryman, and quite animatedly hastened out of Hades. But once she was back in the light of this world and had reverently hailed it, her mind was dominated by rash curiosity, in spite of her eagerness to see the end of her service. She said : ‘How stupid I am to be carrying this beauty-lotion fit for deities, and not take a single drop of it for myself, for with this at any rate I can be pleasing to my beautiful lover.’
+     <br/>
+     The words were scarcely out of her mouth when she opened the box. But inside there was no beauty-lotion or anything other than the sleep of Hades, a truly Stygian sleep. As soon as the lid was removed and it was laid bare, it attacked her and pervaded all her limbs in a thick cloud. It laid hold of her, so that she fell prostrate on the path where she had stood. She lay there motionless, no more animate than a corpse at rest . . . [Eros found her and] carefully wiping the sleep from her, he restored it to its former lodging in the box."
+    </p>
+    <p class="see-also">
+     For MORE information on this maiden see
+     <a href="../Ouranios/Psykhe.html">
+      PSYKHE
+     </a>
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.1.html">
+        <img alt="Thumbnail Hades &amp; Persephone" src="../image/thumbK14.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.1 Hades &amp; Persephone
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.4.html">
+        <img alt="Thumbnail Hades &amp; Persephone" src="../image/thumbK14.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.4 Hades &amp; Persephone
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.3.html">
+        <img alt="Thumbnail Hades &amp; Persephone" src="../image/thumbK14.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.3 Hades &amp; Persephone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.8.html">
+        <img alt="Thumbnail Hades &amp; Sisyphus" src="../image/thumbK14.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.8 Hades &amp; Sisyphus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.9.html">
+        <img alt="Thumbnail  Persephone &amp; Hermes" src="../image/thumbK14.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.9 Persephone &amp; Hermes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T16.6.html">
+        <img alt="Thumbnail The Return of Persephone" src="../image/thumbT16.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T16.6 The Return of Persephone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.7.html">
+        <img alt="Thumbnail Hades Abducting Persephone" src="../image/thumbK14.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.7 Hades &amp; Persephone
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.5.html">
+        <img alt="Thumbnail Hades &amp; Persephone" src="../image/thumbK14.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.5 Hades &amp; Persephone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O28.5.html">
+        <img alt="Thumbnail Persephone &amp; Triptolemus" src="../image/thumbO28.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O28.5 Persephone &amp; Triptolemus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O28.2.html">
+        <img alt="Thumbnail Persephone &amp; Triptolemus" src="../image/thumbO28.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O28.2 Persephone &amp; Triptolemus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O28.1.html">
+        <img alt="Thumbnail Persephone &amp; Triptolemus" src="../image/thumbO28.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O28.1 Persephone &amp; Triptolemus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O28.6.html">
+        <img alt="Thumbnail Persephone &amp; Triptolemus" src="../image/thumbO28.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O28.6 Persephone &amp; Triptolemus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.2.html">
+        <img alt="Thumbnail Hades &amp; Persephone" src="../image/thumbK14.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.2 Hades &amp; Persephone
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K14.6.html">
+        <img alt="Thumbnail Hades Abducting Persephone" src="../image/thumbK14.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K14.6 Hades &amp; Persephone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F14.1.html">
+        <img alt="Thumbnail Hades Abducting Persephone" src="../image/thumbF14.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F14.1 Hades &amp; Persephone
+        </h3>
+        <p>
+         Greek Macedonia  Wall Fresco C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R14.1.html">
+        <img alt="Thumbnail Hades &amp; Persephone" src="../image/thumbR14.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R14.1 Hades &amp; Persephone
+        </h3>
+        <p>
+         Greco-Roman Marble Bas-Relief
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S14.1.html">
+        <img alt="Thumbnail Persephone Statue" src="../image/thumbS14.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S14.1 Statue of Persephone
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL PERSEPHONE PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th-4th B.C.
+      </span>
+     </li>
+     <li>
+      Aesop, Fables
+      <span class="sources-detail">
+       - Greek Fables C6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Lasus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Scolia, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Libation Bearers
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Meno
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Euphorion, Fragments
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Halieutica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Argonautica Orphica 1192, Lydus De Mens 90 &amp; &amp;198 &amp; 284 &amp; 286, Scholiast on Hesiod's Theogony 913, Scholiast on Sophocles Oedipus at Colonus 1590, Orphica Argonautica 1192, Scholiast on Theocritus 2.12 &amp; 3.48 &amp; 15.14, Hesychius 'Zagreus', Tzetzes on Lycophron 708 &amp; 1176, Scholiast on Apollonius Rhodius 3.467, Servius on Aeneid 4.609, Scoliast on Euripides Orestes 952, Arrian Exped. Al 2.16, Scholiast on Euripides' Phoenicians, Athenaeus 4.647, Livy 8 &amp; 18, Appian 3.12.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     PERSEPHONE SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS PERSEPHONE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Demeter
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Husband
+       </th>
+       <td>
+        Hades
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddess of
+       </th>
+       <td>
+        Spring, queen of the underworld
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Hades
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Torch
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Asphodel, wheat
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Hecate, Iacchus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Core
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Proserpina
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     PERSEPHONE PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction &amp; Myths
+      <ul>
+       <li>
+        <a href="#Family">
+         Family of Persephone
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Parentage">
+         Parentage
+        </a>
+       </li>
+       <li>
+        <a href="#Mankind">
+         Creation of Man
+        </a>
+       </li>
+       <li>
+        <a href="#Zeus">
+         Seduction by Zeus
+        </a>
+       </li>
+       <li>
+        <a href="#Adonis">
+         Loves: Adonis
+        </a>
+       </li>
+       <li>
+        <a href="#Koronides">
+         Favour: The Coronides
+        </a>
+       </li>
+       <li>
+        <a href="#Herakles">
+         Favour: Heracles
+        </a>
+       </li>
+       <li>
+        <a href="#Sisyphos">
+         Favour: Sisyphus
+        </a>
+       </li>
+       <li>
+        <a href="#Orpheus">
+         Favour: Orpheus
+        </a>
+       </li>
+       <li>
+        <a href="#Psykhe">
+         Favour: Psyche
+        </a>
+       </li>
+       <li>
+        <a href="#Minthe">
+         Wrath: Minthe
+        </a>
+       </li>
+       <li>
+        <a href="#Peirithoos">
+         Wrath: Pirithous
+        </a>
+       </li>
+       <li>
+        <a href="#Koronides">
+         Wrath: The Thebans
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HaidesPersephone1.html">
+       Part 2: Rape of Persephone (Greek)
+      </a>
+      <ul>
+      </ul>
+     </li>
+     <li>
+      <a href="HaidesPersephone2.html">
+       Part 2: Rape of Proserpina (Roman)
+      </a>
+      <ul>
+      </ul>
+     </li>
+     <li>
+      <a href="../Text/ClaudianProserpine.html">
+       Part 2: Rape of Proserpina (Claudian)
+      </a>
+      <ul>
+      </ul>
+     </li>
+     <li>
+      <a href="PersephoneGoddess.html">
+       Part 3: Persephone Goddess of
+      </a>
+      <ul>
+       <li>
+        <a href="PersephoneGoddess.html#Hymns">
+         Hymns to Persephone
+        </a>
+       </li>
+       <li>
+        <a href="PersephoneGoddess.html#Underworld">
+         Queen of the Underworld
+        </a>
+       </li>
+       <li>
+        <a href="PersephoneGoddess.html#Elysium">
+         Passage to Elysium
+        </a>
+       </li>
+       <li>
+        <a href="PersephoneGoddess.html#Necromancy">
+         Necromancy &amp; Ghosts
+        </a>
+       </li>
+       <li>
+        <a href="PersephoneGoddess.html#Curses">
+         Curses &amp; the Erinyes
+        </a>
+       </li>
+       <li>
+        <a href="PersephoneGoddess.html#Spring">
+         Spring Growth &amp; Grain
+        </a>
+       </li>
+       <li>
+        <a href="PersephoneGoddess.html#Plants">
+         Sacred Plants &amp; Animals
+        </a>
+       </li>
+       <li>
+        <a href="PersephoneGoddess.html#Titles">
+         Titles &amp; Epithets
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/DemeterCult.html">
+       Part 4: Cult of Persephone 1
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/DemeterCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/DemeterCult2.html">
+       Part 4: Cult of Persephone 2
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/DemeterCult2.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult2.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult2.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult2.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult2.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/DemeterCult3.html">
+       Part 4: Cult of Persephone 3
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Paros">
+         Paros, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Rhodos">
+         Rhodes, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Karia">
+         Caria, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Sikelia">
+         Sicily, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Bruttium">
+         Bruttium, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DemeterCult3.html#Britian">
+         Britain, Northern Europe
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/DemeterTitles.html">
+       Part 4: Cult Titles &amp; Epithets
+      </a>
+      <ul>
+      </ul>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

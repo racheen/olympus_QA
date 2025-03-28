@@ -1,0 +1,1556 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   TARTARUS - Pit Beneath the Earth of Greek Mythology
+  </title>
+  <meta content="Tartarus was the great pit beneath the earth in the oldest cosmogonies of ancient Greek mythology. The universe was envisaged as great sphere--or egg-shaped ovoid--with the solid dome of the sky forming the upper half and the inverse dome of the pit of Tartaros the lower. The flat, horizontal disc of the earth divided the interior of the cosmic sphere into two halves--the homes of men and gods above, and the gloomy, storm-wracked prison of the Titans below." name="description"/>
+  <meta content="Tartarus, Tartaros, Greek mythology, mythic realm, Tartarean pit, prison of the Titans" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-storm.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     Mythic Realms &gt;&gt; Tartarus (Tartaros)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     TARTAROS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ταρταρος Ταρταρα
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Tartaros, Tartara
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Tartarus, Tartara
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       --
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     TARTAROS (Tartarus) was the great pit beneath the earth in the oldest of the Greek cosmogonies. The universe was envisaged as great sphere--or egg-shaped ovoid--with the solid dome of the sky forming the upper half and the inverse dome of the pit of Tartaros the lower. The flat, horizontal disc of the earth divided the interior of the cosmic sphere into two halves--the homes of men and gods above, and the gloomy, storm-wracked prison of the
+     <a href="../Titan/Titanes.html">
+      Titanes
+     </a>
+     below.
+    </p>
+    <p>
+     <a href="Haides.html">
+      Haides
+     </a>
+     , was originally quite distinct from the pit of Tartaros. The land of the dead was located either at the very ends of the earth beyond the
+     <a href="Okeanos.html">
+      river Okeanos (Oceanus)
+     </a>
+     and the setting-places of the sun or else in the hollow depths of the earth's belly. Tartaros on the other hand descended as far beneath Haides--i.e. the deepest recesses of the flat earth--as the sky rose above the earth.
+    </p>
+    <p>
+     Tartaros was secured with a surrounding wall of bronze set with a pair of gates guarded by the  hundred-handed
+     <a href="../Titan/Hekatonkheires.html">
+      Hekatonkheires
+     </a>
+     .
+    </p>
+    <p>
+     The primordial deity of the Tartarean pit sired a single child by Gaia (Earth) named
+     <a href="../Gigante/Typhoeus.html">
+      Typhoeus
+     </a>
+     --a monstrous, serpentine storm-giant who attempted to seize the throne of heaven. Zeus vanquished the creature and cast it back down into the pit of Tartaros where it remained as the cosmic-source of
+     <a href="../Titan/AnemoiThuellai.html">
+      hurricanes and storm winds
+     </a>
+     . The
+     <em>
+      protogenos
+     </em>
+     (primordial deity) Tartaros scarcely figures in myth and was a purely elemental deity, i.e. the pit itself instead of an anthropomorphic god.
+    </p>
+    <p>
+     Later, classical writers  re-imagined Tartaros as a hellish prison-house for the damned conflating it with Homer's  Haidean chamber of torments. This realm is described on a separate page--
+     <a href="Tartaros2.html">
+      Tartaros, the Dungeon of the Damned
+     </a>
+     .
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3>
+     TARTARUS THE COSMIC PIT  : PRISON OF THE TITANS
+    </h3>
+    <p>
+     The oldest of the Greek poets--Homer and Hesiod--represent Tartaros as the great cosmic pit beneath the earth. It is located  "as far beneath the house of Haides as from earth the sky lies."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8. 13 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Zeus warns the gods not to defy him by intervening in the Trojan War :] ‘And any one I perceive against the gods' will attempting to go among the Trojans and help them, or among the Danaans, he shall go whipped against his dignity back to Olympos; or I shall take him and dash him down to the murk of Tartaros (Tartarus), far below, where the uttermost depth of the pit lies under earth, where there are gates of iron and a brazen doorstone, as far beneath the house of Aides as from earth the sky lies.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8. 481 ff :
+     </span>
+     <br/>
+     "[Zeus rebukes Hera :] ‘For you and your anger I care not; not if you stray apart to the undermost limits of earth and sea [i.e. Tartaros], where Iapetos (Iapetus) and Kronos (Cronus) seated have no shining of the sun god Hyperion to delight them nor winds' delight, but Tartaros stands deeply about them.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 681 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "[The war of the gods and Titanes (Titans) shakes the cosmos :] These [the  Olympian gods and Hekatonkheires], then, stood against the Titanes in grim strife, holding huge rocks in 
+  their strong hands . . . and both sides at one time showed the work of their hands and their 
+  might. The boundless sea (
+     <em>
+      pontos
+     </em>
+     ) rang terribly around, and the earth (
+     <em>
+      ge
+     </em>
+     ) crashed loudly : 
+  wide heaven (
+     <em>
+      ouranos
+     </em>
+     ) was shaken and groaned, and high Olympos reeled from its foundation 
+  under the charge of the undying gods, and a heavy quaking reached dim Tartaros 
+  and the deep sound of their feet in the fearful onset and of their hard 
+  missiles."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 715 ff :
+     </span>
+     <br/>
+     "[The Titanes were defeated by the gods and confined within the pit of Tartaros :] [The hundred-handed Hekatonkheires] overshadowed the Titanes with their missiles, and buried them beneath the wide-pathed earth, and bound them in bitter chains when they had conquered them by their strength for all their great spirit, as far beneath the earth to Tartaros (Tartarus). For a brazen anvil falling down from heaven nine nights and days would reach the earth upon the tenth: and again, a brazen anvil falling from earth nine nights and days would reach Tartaros upon the tenth. Round it runs a fence of bronze, and night spreads in triple line all about it like a neck-circlet, while above grow the roots of the earth and unfruitful sea. There by the counsel of Zeus who drives the clouds the Titan gods are hidden under misty gloom, in a dank place where are the ends of the huge earth. And they may not go out; for Poseidon fixed gates of bronze upon it, and a wall runs all round it on every side, and a wall runs all round it on every side. There [the Hekatonkheires] Gyes and Kottos (Cottus) and great-souled Obriareus live, trusty warders of Zeus who holds the aigis.
+     <br/>
+     And there, all in their order, are the sources and ends of gloomy  (
+     <em>
+      pantôn pêgai kai peirat'
+     </em>
+     ) earth (
+     <em>
+      gê
+     </em>
+     ) and misty Tartaros and the unfruitful sea (
+     <em>
+      pontos
+     </em>
+     ) and starry heaven (
+     <em>
+      ouranos
+     </em>
+     ), loathsome and dank, which even the gods abhor. It is a great gulf, and if once a man were within the gates, he would not reach the floor until a whole year had reached its end, but cruel blast upon blast would carry him this way and that. And this marvel is awful even to the deathless gods.
+     <br/>
+     There [in Tartaros] stands the awful home of murky Nyx (Night) wrapped in dark clouds. In front of it the son [Titan Atlas] of Iapetos stands immovably upholding the wide heaven upon his head and unwearying hands, where Nyx (Night) and Hemera (Day) draw near and greet one another as they pass the great threshold of bronze : and while the one is about to go down into the house, the other comes out at the door. And the house never holds them both within; but always one is without the house passing over the earth, while the other stays at home and waits until the time for her journeying come; and the one holds all-seeing light for them on earth, but the other holds in her arms Hypnos (Sleep) the brother of Thanatos (Death), even evil Nyx (Night), wrapped in a vaporous cloud.
+     <br/>
+     And there the children of dark Nyx (Night) have their dwellings, Hypnos (Sleep) and Thanatos (Death), awful gods. The glowing Sun never looks upon them with his beams, neither as he goes up into heaven, nor as he comes down from heaven. . . .
+     <br/>
+     There, in front [i.e. in the realm of Erebos before the gates of Tartaros], stand the echoing halls of the god of the lower-world, strong Haides, and of awful Persephone. . . .
+     <br/>
+     And there [at the ends of the earth] dwells the goddess loathed by the deathless gods, terrible Styx, eldest daughter of back-flowing Okeanos (Oceanus). She lives apart from the gods in her glorious house vaulted over with great rocks and propped up to heaven all round with silver pillars . . . Far under the wide-pathed earth a branch of Okeanos flows through the dark night out of the holy stream, and a tenth part of his water is allotted to her. With nine silver-swirling streams he [Okeanos] winds about the earth and the sea's wide back, and then falls into the main [the sea]; but the tenth flows out from a rock, a sore trouble to the gods . . .
+     <br/>
+     And there [in Erebos, beyond Okeanos at the ends of the earth,], all in their order, are the sources and ends of the dark earth (
+     <em>
+      ge
+     </em>
+     ) and misty Tartaros and the unfruitful sea (
+     <em>
+      pontos
+     </em>
+     ) and starry heaven (
+     <em>
+      ouranos
+     </em>
+     ), loathsome and dank, which even the gods abhor.And there are shining gates and an immoveable threshold of bronze having unending roots and it is grown of itself. And beyond, away from all the gods, live the Titanes, beyond gloomy Khaos (Chaos, Air).                  "
+     <br/>
+     [N.B. According to Hesiod the edge of the cosmos is where the flat disc of the earth  meets the descending dome of the sky and the ascending walls of the pit of Tartaros. The sky-dome and Tartarean pit surround the cosmos in an egg-shaped shell with Tartaros descending as far beneath the earth as the sky rises up above it.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 820 ff :
+     </span>
+     <br/>
+     "But when Zeus had driven the Titanes (TItans) from heaven, huge Gaia (Earth) bare her youngest child Typhoeus of the love of Tartaros, by the aid of golden Aphrodite." [N.B. This is an inverse of Gaia's mating with Ouranos (Heaven) for Tartaros is the dome below her while heaven is the dome above.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 820 ff :
+     </span>
+     <br/>
+     "[The battle of Zeus and Typhoeus shakes the foundations of the cosmos :] He [Zeus] thundered hard and mightily: and the earth (
+     <em>
+      gê
+     </em>
+     ) around resounded terribly and the wide heaven (
+     <em>
+      ouranos
+     </em>
+     ) above, and the sea (pontos) and Okeanos' (Oceanus') streams and the Tartara of the earth (
+     <em>
+      Tartara gaiês
+     </em>
+     ) . . . The whole earth (
+     <em>
+      khthon
+     </em>
+     ) seethed, and sky (
+     <em>
+      ouranos
+     </em>
+     ) and sea (
+     <em>
+      thalassa
+     </em>
+     ) : and the long waves raged along the beaches round and about, at the rush of the deathless gods : and there arose an endless shaking. Haides trembled where he rules over the dead below, and the Titanes (Titans) under Tartara who live with Kronos (Cronus), because of the unending clamour and the fearful strife."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 855 ff :
+     </span>
+     <br/>
+     "[Zeus conquers Typhoeus with his lightning bolts :] Typhoeus was hurled down, a maimed wreck, so that the huge earth groaned. And flame shot forth from the thunder- stricken lord in the dim rugged glens of the mount, when he was smitten. A great part of huge earth was scorched by the terrible vapour and melted as tin melts when heated by men's art in channelled crucibles; or as iron, which is hardest of all things, is softened by glowing fire in mountain glens and melts in the divine earth through the strength of Hephaistos (Hephaestus). Even so, then, the earth melted in the glow of the blazing fire [i.e. to form volcanoes]. And in the bitterness of his anger Zeus cast him into wide Tartaros (Tartarus).
+     <br/>
+     And from Typhoeus [i.e. out of the storm-pit of Tartaros] come boisterous winds which blow damply [i.e. hurricanes], except Notos (the South-Wind) and Boreas (the North-Wind) and clear Zephyros (the West-Wind). These are a god-sent kind, and a great blessing to men; but the others blow fitfully upon the seas. Some rush upon the misty sea and work great havoc among men with their evil, raging blasts; for varying with the season they blow, scattering ships and destroying sailors. And men who meet these upon the sea have no help against the mischief. Others again over the boundless, flowering earth spoil the fair fields of men who dwell below, filling them with dust and cruel uproar."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 3 to Pythian Apollo 300 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "Hera prayed, striking the ground flatwise with her hand, and speaking thus : ‘Hear now, I pray, Gaia (Gaea) and wide Ouranos (Uranus) above, and you Titan gods (
+     <em>
+      Titanes theoi
+     </em>
+     ) who dwell beneath the earth about great Tartaros, and from whom are sprung both gods and men! Harken you now to me, one and all.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 1. 15 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "He too, that enemy of the gods, who lies in fearsome Tartaros, Typhon the hundred-headed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Fragment 207 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "The invisible depth of Tartaros presseth thee down with iron chains of necessity."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment  254 (from Etymologicum Magnum) (trans. Campbell, Vol. Greek Lyric III) (C6th to 7th B.C.) :
+     </span>
+     <br/>
+     "Stesikhoros (Stesichorus) calls Tartaros steep, in the sense of ‘deep.’" [N.B. The same term "steep" was used to describe the rising dome of the sky.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 152 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The Titan Prometheus, chained on Mount Kaukasos (Caucasus), laments his fate :] ‘Oh if only he [Zeus] had hurled me below the earth, yes beneath Haides, the entertainer of the dead, into impassable Tartaros, and had ruthlessly fastened me in fetters no hand can loose [i.e. the fate of the other Titanes].’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 221 ff :
+     </span>
+     <br/>
+     "The cavernous gloom (
+     <em>
+      melanbathês
+     </em>
+     ) of Tartaros now hides ancient (
+     <em>
+      palaigenês
+     </em>
+     ) Kronos (Cronus) and his allies [the Titanes] within it."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 1050 ff :
+     </span>
+     <br/>
+     "[The Titan Prometheus laments :] ‘Let him [Zeus] lift me [the Titan Prometheus] on high and hurl me down to black Tartaros with the swirling floods of stern Necessity.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 1 - 3 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Ouranos (Uranus) bound these [the Kyklopes (Cyclopes) and the Hekatonkheires] and threw them into Tartaros--a place in Haides' realm as dark as Erebos (Erebus), and as far away from the earth as the earth is from the sky."  [N.B. The pit of Tartaros is used to contain both the Hekatonkheires, storm-cloud giants, and Kyklopes, lightning and thunder giants. Cf. The storm-giant Typhoeus.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 6 - 7 :
+     </span>
+     <br/>
+     "After ten years of fighting Ge (Gaea, the Earth) prophesied a victory for Zeus if he were to secure the prisoners [the Kyklopes (Cyclopes) and the Hekatonkheires] down in Tartaros as his allies. He thereupon slew their jail-keeper Kampe (Campe), and freed them from their bonds. In return the Kyklopes gave Zeus thunder, lightning, and a thunderbolt, as well as a helmet for Plouton (Pluton) [Haides] and a trident for Poseidon. Armed with these the three gods overpowered the Titanes (Titans), confined them in Tartaros, and put the Hekatonkheires in charge of guarding them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 118 - 122  :
+     </span>
+     <br/>
+     "Zeus . . . hit him [Asklepios (Asclepius) son of Apollon] with a thunderbolt. This angered Apollon, who slew the Kyklopes (Cyclopes), for they designed the thunderbolt for Zeus. Zeus was about to throw Apollon into Tartaros, but at the request of Leto he ordered him instead to be some man's servant for a year."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1191 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Him [Zeus] who is lord of Ophion's throne . . . his mother [Rhea], skilled in wrestling, having cast into Tartaros the former queen [Eurynome]." [N.B. Ophion and Eurynome were two early rulers of the cosmos who were deposed and cast into Tartaros by the Titanes Kronos (Cronus) and Rheia.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 37. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The first to introduce Titanes into poetry was Homer, representing them as gods down in what is called Tartaros; the lines are in the passage about Hera's oath."
+     <span class="quote_lat">
+     </span>
+    </p>
+    <p>
+     <span class="quote-greek">
+      Athenaeus, Deipnosophistae 3. 101e (trans. Gullick) (Greek rhetorician C2nd to C3rd A.D.) :
+     </span>
+     <br/>
+     "Down below the earth, even below the pit of Tartaros, he should go to his destruction and lie buried countless fathoms deep."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 37 to the Titans (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "O mighty Titanes . . . in Tartaros profound who dwell, deep merged beneath the solid ground . . . Avert your rage, if from the infernal seats one of your tribe should wish to visit our retreats."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ptolemy Hephaestion, New History Book 6 (summary from Photius, Myriobiblon 190) (trans. Pearse) (Greek mythographer C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "Arke (Arce) was the daughter of Thaumas and her sister was Iris (the Rainbow); both had wings, but, during the struggle of the gods against the Titanes, Arke flew out of the camp of the gods and joined the Titanes. After the victory Zeus removed her wings before throwing her into Tartaros." 
+  [N.B. Arke was a rainbow-goddess like her sister Iris.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 48 ff (trans. Mair) (Greek poetry C5th to C6th A.D.) :
+     </span>
+     <br/>
+     "[Eris (Strife) was furious at being turned away from the wedding of Peleus and Thetis :] Fain would she unbar the bolts of the darksome hollows and rouse the Titanes from the nether pit and destroy heaven the seat of Zeus, who rules on high."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 230 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Broadbeard Kronos (Cronus) sank under the thunderbolt, and Zeus sealed him deep in the dark Tartarean pit, armed in vain with the watery weapons of the storm." [N.B. the Tartarean pit was the source of hurricanes.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 50 ff :
+     </span>
+     <br/>
+     "Kronos (Cronus) himself, who banqueted on his own young children in cannibal wise, was covered up in Gaia's (Earth's) bosom [i.e., trapped in Tartaros], son of Ouranos (Uranus, Heaven) though he was."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Argonautica Orphica 977, Ovid Fasti 5.244.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS NAME
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Lorem ipsum dolor sit.
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Husband
+       </th>
+       <td>
+        Lorem ipsum dolor sit.
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Lorem ipsum dolor sit.
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     MYTHIC REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="Elysion.html">
+       Elysium, Home of the Blessed Dead
+      </a>
+     </li>
+     <li>
+      <a href="Haides.html">
+       Hades I, Realm of the Dead (Archaic)
+      </a>
+     </li>
+     <li>
+      <a href="Haides2.html">
+       Hades II, Realm of the Dead (Mystic)
+      </a>
+     </li>
+     <li>
+      <a href="Okeanos.html">
+       Oceanus, Earth-Encircling River
+      </a>
+     </li>
+     <li>
+      <a href="Olympos.html">
+       Olympus, Home of the Gods
+      </a>
+     </li>
+     <li>
+      Tartarus I, Pit Beneath the Earth
+     </li>
+     <li>
+      <a href="Tartaros2.html">
+       Tartarus II, Dungeon of the Damned
+      </a>
+     </li>
+    </ul>
+    <h2>
+     LEGENDARY REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="../Phylos/Atlantes.html">
+       Atlantis, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Erytheia.html">
+       Erytheia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Heliades.html">
+       Heliades, Land of the Far South
+      </a>
+     </li>
+     <li>
+      <a href="../Titan/Hesperides.html">
+       Hesperia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Hyperborea.html">
+       Hyperborea, Land of the Far North
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Pankhaia.html">
+       Panchaea, Land of the Far South
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

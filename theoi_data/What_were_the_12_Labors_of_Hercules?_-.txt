@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>
+   What were the 12 Labors of Hercules? -
+  </title>
+  <meta content="One of the most famous names in Greek mythology is Hercules. Hercules was born a demi-god. His father was Zeus, and his mother was the..." name="description"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
+  <link href="https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="What were the 12 Labors of Hercules? -" property="og:title"/>
+  <meta content="One of the most famous names in Greek mythology is Hercules. Hercules was born a demi-god. His father was Zeus, and his mother was the..." property="og:description"/>
+  <meta content="https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/" property="og:url"/>
+  <meta content="2019-09-13T10:33:20+00:00" property="article:published_time"/>
+  <meta content="2019-09-16T14:47:53+00:00" property="article:modified_time"/>
+  <meta content="https://www.theoi.com/articles/wp-content/uploads/2019/09/S26.1Herakles.jpg" property="og:image"/>
+  <meta content="348" property="og:image:width"/>
+  <meta content="632" property="og:image:height"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Written by" name="twitter:label1"/>
+  <meta content="Madeleine" name="twitter:data1"/>
+  <meta content="Est. reading time" name="twitter:label2"/>
+  <meta content="6 minutes" name="twitter:data2"/>
+  <script class="yoast-schema-graph" type="application/ld+json">
+   {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.theoi.com/articles/#website","url":"https://www.theoi.com/articles/","name":"","description":"Greek Mythology Articles","potentialAction":[{"@type":"SearchAction","target":"https://www.theoi.com/articles/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/#primaryimage","inLanguage":"en-US","url":"https://www.theoi.com/articles/wp-content/uploads/2019/09/S26.1Herakles.jpg","width":348,"height":632},{"@type":"WebPage","@id":"https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/#webpage","url":"https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/","name":"What were the 12 Labors of Hercules? -","isPartOf":{"@id":"https://www.theoi.com/articles/#website"},"primaryImageOfPage":{"@id":"https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/#primaryimage"},"datePublished":"2019-09-13T10:33:20+00:00","dateModified":"2019-09-16T14:47:53+00:00","author":{"@id":"https://www.theoi.com/articles/#/schema/person/67d23e6e29ec87c57c86f7812a379343"},"description":"One of the most famous names in Greek mythology is Hercules. Hercules was born a demi-god. His father was Zeus, and his mother was the...","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/"]}]},{"@type":"Person","@id":"https://www.theoi.com/articles/#/schema/person/67d23e6e29ec87c57c86f7812a379343","name":"Madeleine","image":{"@type":"ImageObject","@id":"https://www.theoi.com/articles/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/9b9f8285824c79b5e13b0cf32070da63?s=96&d=mm&r=g","caption":"Madeleine"}}]}
+  </script>
+  <!-- / Yoast SEO plugin. -->
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="https://www.theoi.com/articles/feed/" rel="alternate" title=" » Feed" type="application/rss+xml"/>
+  <link href="https://www.theoi.com/articles/comments/feed/" rel="alternate" title=" » Comments Feed" type="application/rss+xml"/>
+  <link href="https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/feed/" rel="alternate" title=" » What were the 12 Labors of Hercules? Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.theoi.com\/articles\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="https://www.theoi.com/articles/wp-content/themes/magazine-pro/style.css?ver=3.2.3" id="magazine-pro-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="magazine-pro-inline-css" type="text/css">
+   button:focus,
+		button:hover,
+		input[type="button"]:focus,
+		input[type="button"]:hover,
+		input[type="reset"]:focus,
+		input[type="reset"]:hover,
+		input[type="submit"]:focus,
+		input[type="submit"]:hover,
+		.archive-pagination li a:focus,
+		.archive-pagination li a:hover,
+		.archive-pagination li.active a,
+		.button:focus,
+		.button:hover,
+		.entry-content .button:focus,
+		.entry-content .button:hover,
+		.home-middle a.more-link:focus,
+		.home-middle a.more-link:hover,
+		.home-top a.more-link:focus,
+		.home-top a.more-link:hover,
+		.js .content .home-middle a .entry-time,
+		.js .content .home-top a .entry-time,
+		.sidebar .tagcloud a:focus,
+		.sidebar .tagcloud a:hover,
+		.widget-area .enews-widget input[type="submit"] {
+			background-color: #ffffff;
+			color: #222222;
+		}
+
+		.menu-toggle:focus,
+		.menu-toggle:hover,
+		.nav-primary .genesis-nav-menu a:focus,
+		.nav-primary .genesis-nav-menu a:hover,
+		.nav-primary .sub-menu a:focus,
+		.nav-primary .sub-menu a:hover,
+		.nav-primary .genesis-nav-menu .current-menu-item > a,
+		.nav-primary .genesis-nav-menu .sub-menu .current-menu-item > a:focus,
+		.nav-primary .genesis-nav-menu .sub-menu .current-menu-item > a:hover,
+		.nav-primary .genesis-nav-menu a:focus,
+		.nav-primary .genesis-nav-menu a:hover,
+		.nav-primary .sub-menu a:focus,
+		.nav-primary .sub-menu a:hover,
+		.nav-primary .genesis-nav-menu .current-menu-item > a,
+		.nav-primary .sub-menu-toggle:focus,
+		.nav-primary .sub-menu-toggle:hover {
+			color: #ffffff;
+		}
+
+		@media only screen and (max-width: 840px) {
+			nav.nav-primary .sub-menu-toggle:focus,
+			nav.nav-primary .sub-menu-toggle:hover,
+			nav.nav-primary.genesis-responsive-menu .genesis-nav-menu a:focus,
+			nav.nav-primary.genesis-responsive-menu .genesis-nav-menu a:hover,
+			nav.nav-primary.genesis-responsive-menu .genesis-nav-menu .sub-menu a:focus,
+			nav.nav-primary.genesis-responsive-menu .genesis-nav-menu .sub-menu a:hover,
+			#genesis-mobile-nav-primary:focus,
+			#genesis-mobile-nav-primary:hover {
+				color: #ffffff;
+			}
+		}
+
+		
+
+
+		a:focus,
+		a:hover,
+		.entry-content a,
+		.entry-title a:focus,
+		.entry-title a:hover,
+		.genesis-nav-menu a:focus,
+		.genesis-nav-menu a:hover,
+		.genesis-nav-menu .current-menu-item > a,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:focus,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:hover,
+		.menu-toggle:focus,
+		.menu-toggle:hover,
+		.sub-menu-toggle:focus,
+		.sub-menu-toggle:hover {
+			color: #4e381d;
+		}
+  </style>
+  <link href="https://www.theoi.com/articles/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.theoi.com/articles/wp-content/plugins/contextual-related-posts/css/default-style.css?ver=1.0" id="crp-style-rounded-thumbs-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="crp-style-rounded-thumbs-inline-css" type="text/css">
+   .crp_related a {
+  width: 150px;
+  height: 150px;
+  text-decoration: none;
+}
+.crp_related img {
+  max-width: 150px;
+  margin: auto;
+}
+.crp_related .crp_title {
+  width: 100%;
+}
+  </style>
+  <link href="https://www.theoi.com/articles/wp-includes/css/dashicons.min.css?ver=5.4.2" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//fonts.googleapis.com/css?family=Roboto%3A300%2C400%7CRaleway%3A400%2C500%2C900&amp;ver=3.2.3" id="google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="https://www.theoi.com/articles/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript">
+  </script>
+  <script src="https://www.theoi.com/articles/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.theoi.com/articles/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+  <script src="https://www.theoi.com/articles/wp-content/themes/magazine-pro/js/entry-date.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <link href="https://www.theoi.com/articles/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://www.theoi.com/articles/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.4.2" name="generator">
+   <link href="https://www.theoi.com/articles/?p=68" rel="shortlink"/>
+   <style type="text/css">
+    .crp_related a {
+    width: 150px;
+    height: 150px;
+    text-decoration: none;
+}
+.crp_related img {
+    width: 150px;
+	  max-width: 150px;
+    margin: auto;
+}
+.crp_related li {
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.4);
+    box-shadow: 0 0px 0px rgba(0,0,0,.4);
+}
+.crp_related li {
+    border: 0px solid #ffffff;
+}
+   </style>
+   <link href="https://www.theoi.com/articles/wp-content/themes/magazine-pro/images/favicon.ico" rel="icon"/>
+   <link href="https://www.theoi.com/articles/xmlrpc.php" rel="pingback"/>
+   <style type="text/css">
+    .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+   </style>
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+   <!-- BEGIN ExactMetrics v5.3.9 Universal Analytics - https://exactmetrics.com/ -->
+   <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-118448524-1', 'auto');
+  ga('set', 'dimension1', 'Madeleine');
+  ga('set', 'dimension2', '2019');
+  ga('set', 'dimension3', '2019-09');
+  ga('send', 'pageview');
+   </script>
+   <!-- END ExactMetrics Universal Analytics -->
+   <style id="wp-custom-css" type="text/css">
+    body {
+    background-color: #fdf1d7;
+    color: #222;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-size: 1.6rem;
+    font-weight: 300;
+    line-height: 1.625;
+}
+.genesis-nav-menu {
+    background-color: #3f2821;
+    width: 100%;
+	color: #fdf1d7;
+}
+.genesis-nav-menu a {
+    border: none;
+    color: #fdf1d7;
+    display: block;
+    padding: 25px 20px;
+    position: relative;
+}
+.nav-primary {
+    background-color: #fdf1d7;
+    color: #fdf1d7;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+.nav-primary .genesis-nav-menu .sub-menu a {
+    background-color: #3f2821;
+    border: 1px solid #fff;
+    border-top: none;
+	color: #fdf1d7;
+}
+.genesis-nav-menu .sub-menu a {
+    background-color: #3f2821;
+    border: 1px solid #ffffff;
+    border-top: none;
+    font-size: 12px;
+    font-size: 1.2rem;
+    padding: 20px;
+    position: relative;
+    text-transform: none;
+    width: 190px;
+	color: #fdf1d7;
+}
+.title-area {
+    float: left;
+    padding-top: 0px;
+    width: 0px;
+}
+.site-header .widget-area {
+    width: 0px;
+}
+.site-header .widget-area {
+    float: left;
+    text-align: right;
+}
+.site-header .wrap {
+    border-bottom: 2px solid #222;
+    padding: 0px 0;
+}
+@charset "utf-8";body{background-color:#fefaf1;font-family:Gotham,helvetica neue,Helvetica,Arial,sans-serif}#wrapper{max-width:1020px;background-color:#fef1d8;padding-left:5px;padding-right:5px}#sidebar{float:left;padding-left:10px}#directory{margin-top:0;margin-bottom:0;padding-top:8px;padding-bottom:10px}#main{float:right;background-color:#fefaf1;padding-bottom:15px}footer{clear:both}#border-header{background-image:url(https://www.theoi.com/image/palmette_top.jpg);height:30px}#border-footer{background-image:url(https://www.theoi.com/image/palmette_bottom.jpg);height:30px}.mobile-hidden{}h1{border:thin solid #aa8f84;color:#705850;background-image:url(https://www.theoi.com/image/heading_marble.jpg);text-align:center;font-family:Baskerville,palatino linotype,Palatino,century schoolbook l,times new roman,serif;font-weight:700;padding-top:5px;padding-bottom:5px;margin-top:0;font-size:42px;margin-bottom:15px}h2,h3,h4{color:#7c635a}h2{padding-top:5px;padding-bottom:5px;font-size:1em;font-weight:700}h3{font-size:1em;font-weight:700}h4{font-size:small}p{}a,a:hover,a:active,a:focus{color:#4e381d}a:hover,a:active,a:focus{background-color:#3f2821}hr{border-top:thin solid #ece3d2}#main li{margin-top:10px;margin-bottom:10px}.details{color:#7c635a}.encyc-a-z{display:block;border:thin solid #aa8f84;width:100%;padding-right:5px;padding-left:5px;padding-top:8px;padding-bottom:8px;margin-bottom:15px;font-size:1.5em;text-align:center}.sale{color:#a62d01}.search-box{margin-top:10px;margin-bottom:15px}#index{background-color:#fefaf1;color:#433732;margin-bottom:10px}#index h2{background-color:#aa8f84;color:#fff;font-size:small;text-align:left;padding-top:5px;padding-bottom:5px;padding-left:8px;border-bottom:thin solid #999;border-top:thin solid #999;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0}#index p{border-bottom:thin solid #999;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0}#index a{color:#433732;padding-top:5px;padding-bottom:5px;padding-left:8px;text-decoration:none;display:block}#index a:hover,#index a:active,#index a:focus{background-color:#fef4e2;color:#342c27;display:block}#summary{margin-bottom:10px}
+   </style>
+  </meta>
+ </head>
+ <body class="post-template-default single single-post postid-68 single-format-standard header-full-width content-sidebar" itemscope="" itemtype="https://schema.org/WebPage">
+  <div class="site-container">
+   <ul class="genesis-skip-link">
+    <li>
+     <a class="screen-reader-shortcut" href="#genesis-content">
+      Skip to content
+     </a>
+    </li>
+    <li>
+     <a class="screen-reader-shortcut" href="#genesis-nav-secondary">
+      Skip to secondary menu
+     </a>
+    </li>
+    <li>
+     <a class="screen-reader-shortcut" href="#genesis-sidebar-primary">
+      Skip to primary sidebar
+     </a>
+    </li>
+   </ul>
+   <header class="site-header" itemscope="" itemtype="https://schema.org/WPHeader">
+    <div class="wrap">
+     <div class="title-area">
+      <p class="site-title" itemprop="headline">
+       <a href="https://www.theoi.com/articles/">
+       </a>
+      </p>
+      <p class="site-description" itemprop="description">
+       Greek Mythology Articles
+      </p>
+     </div>
+     <div id="border-header">
+     </div>
+    </div>
+   </header>
+   <nav aria-label="Secondary" class="nav-secondary" id="genesis-nav-secondary" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+    <div class="wrap">
+     <ul class="menu genesis-nav-menu menu-secondary js-superfish" id="menu-main-nav">
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354" id="menu-item-354">
+       <a href="https://www.theoi.com/" itemprop="url">
+        <span itemprop="name">
+         HOME
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-374" id="menu-item-374">
+       <a href="https://www.theoi.com/greek-mythology/olympian-gods.html" itemprop="url">
+        <span itemprop="name">
+         OLYMPIANS
+        </span>
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560" id="menu-item-560">
+         <a href="https://www.theoi.com/Olympios/Apollon.html" itemprop="url">
+          <span itemprop="name">
+           Apollo
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561" id="menu-item-561">
+         <a href="https://www.theoi.com/Olympios/Ares.html" itemprop="url">
+          <span itemprop="name">
+           Ares
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562" id="menu-item-562">
+         <a href="https://www.theoi.com/Olympios/Artemis.html" itemprop="url">
+          <span itemprop="name">
+           Artemis
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563" id="menu-item-563">
+         <a href="https://www.theoi.com/Olympios/Athena.html" itemprop="url">
+          <span itemprop="name">
+           Athena
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564" id="menu-item-564">
+         <a href="https://www.theoi.com/Olympios/Demeter.html" itemprop="url">
+          <span itemprop="name">
+           Demeter
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565" id="menu-item-565">
+         <a href="https://www.theoi.com/Olympios/Dionysos.html" itemprop="url">
+          <span itemprop="name">
+           Dionysus
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-566" id="menu-item-566">
+         <a href="https://www.theoi.com/Olympios/Hephaistos.html" itemprop="url">
+          <span itemprop="name">
+           Hephaestus
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567" id="menu-item-567">
+         <a href="https://www.theoi.com/Olympios/Hera.html" itemprop="url">
+          <span itemprop="name">
+           Hera
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-568" id="menu-item-568">
+         <a href="https://www.theoi.com/Olympios/Hermes.html" itemprop="url">
+          <span itemprop="name">
+           Hermes
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-368" id="menu-item-368">
+       <a href="https://www.theoi.com/greek-mythology/greek-gods.html" itemprop="url">
+        <span itemprop="name">
+         OTHER GODS
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369" id="menu-item-369">
+       <a href="https://www.theoi.com/greek-mythology/titans.html" itemprop="url">
+        <span itemprop="name">
+         TITANS
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370" id="menu-item-370">
+       <a href="https://www.theoi.com/greek-mythology/bestiary.html" itemprop="url">
+        <span itemprop="name">
+         BESTIARY
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-371" id="menu-item-371">
+       <a href="https://www.theoi.com/greek-mythology/heroes.html" itemprop="url">
+        <span itemprop="name">
+         HEROES
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-372" id="menu-item-372">
+       <a href="#" itemprop="url">
+        <span itemprop="name">
+         MISCELLANY
+        </span>
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-595" id="menu-item-595">
+         <a href="https://www.theoi.com/greek-mythology/encyclopedia-a.html" itemprop="url">
+          <span itemprop="name">
+           Gods, Spirits &amp; Monsters
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-596" id="menu-item-596">
+         <a href="https://www.theoi.com/Tree.html" itemprop="url">
+          <span itemprop="name">
+           Family Tree of Gods
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-597" id="menu-item-597">
+         <a href="https://www.theoi.com/greek-mythology/fabulous-tribes.html" itemprop="url">
+          <span itemprop="name">
+           Legendary Tribes
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-598" id="menu-item-598">
+         <a href="https://www.theoi.com/greek-mythology/fantastic-creatures.html" itemprop="url">
+          <span itemprop="name">
+           Legendary Creatures
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-599" id="menu-item-599">
+         <a href="https://www.theoi.com/greek-mythology/star-myths.html" itemprop="url">
+          <span itemprop="name">
+           Star Myths
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-600" id="menu-item-600">
+         <a href="https://www.theoi.com/Flora1.html" itemprop="url">
+          <span itemprop="name">
+           Plant &amp; Flower Myths
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-375" id="menu-item-375">
+         <a href="http://theoi.com/articles/" itemprop="url">
+          <span itemprop="name">
+           Greek Mythology Articles
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601" id="menu-item-601">
+       <a href="https://www.theoi.com/Galleries.html" itemprop="url">
+        <span itemprop="name">
+         Gallery
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-602" id="menu-item-602">
+       <a href="https://www.theoi.com/Library.html" itemprop="url">
+        <span itemprop="name">
+         Texts
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <div class="site-inner">
+    <div class="content-sidebar-wrap">
+     <main class="content" id="genesis-content">
+      <article class="post-68 post type-post status-publish format-standard has-post-thumbnail entry" itemscope="" itemtype="https://schema.org/CreativeWork">
+       <header class="entry-header">
+        <h1 class="entry-title" itemprop="headline">
+         What were the 12 Labors of Hercules?
+        </h1>
+        <p class="entry-meta">
+         Posted on
+         <time class="entry-time" datetime="2019-09-13T10:33:20+00:00" itemprop="datePublished">
+          September 13, 2019
+         </time>
+         by
+         <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+          <span class="entry-author-name" itemprop="name">
+           Madeleine
+          </span>
+         </span>
+        </p>
+       </header>
+       <div class="entry-content" itemprop="text">
+        <p>
+         One of the most famous names in
+         <a href="https://www.theoi.com/Gallery/S26.1.html">
+          Greek mythology is Hercules
+         </a>
+         . Hercules was born a demi-god. His father was Zeus, and his mother was the mortal princess Alcmene. Zeus was married to Hera, the goddess of women, when he fathered Hercules to Alcmene. Zeus’s infidelity would enrage Hera which would ultimately lead Hercules to kill his wife and children.
+        </p>
+        <h3>
+         Hera’s Vengeance
+        </h3>
+        <p>
+         <img alt="" class="size-full wp-image-256 alignright" height="632" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/S26.1Herakles.jpg" width="348"/>
+         Alcmene gave birth to Hercules and raised him with her husband, Amphitryon. As Hercules was a demi-god, he was born with superhuman strength, which was evident within the first months of his life. Hera was vengeful and hated Hercules because he reminded Hera of her unfaithful husband, Zeus. Hera tried to kill Hercules as an infant, sending snakes into his crib to poison him. Hercules strangled the snakes that Hera had sent into his crib, but Hera’s vengeance would not stop there.
+        </p>
+        <p>
+         As Hercules grew into an adult, he married Megara and had many sons. Knowing how much
+         <a href="https://www.theoi.com/Gallery/S26.10.html">
+          Hercules
+         </a>
+         loved his wife and children, Hera sent madness upon Hercules that caused him to kill his wife and children, taking away everything that Hercules loved.
+        </p>
+        <h3>
+         Hercules Seeks Guidance
+        </h3>
+        <p>
+         When Hercules regains his sensibility, he realizes what he has done to his family, and he is overcome with grief. Hercules turned to Apollo, a god who could offer healing, knowledge, and prophecy. Apollo told Hercules that he must serve Eurystheus, king of Tiryns, to make up for his wrongdoings.
+        </p>
+        <h3>
+         The Twelve Labors
+        </h3>
+        <p>
+         Hera, still determined to eradicate Hercules from the world, suggested to Eurystheus that he order Hercules to fulfill twelve impossible labors. Hera believed that Hercules would die attempting to complete these labors which would finally eradicate him from the world.
+        </p>
+        <p>
+         <strong>
+          1. Slay the Nemean Lion.
+         </strong>
+         In the town of Nemea, there was an invincible lion that brought devastation and fear to the town. Hercules was ordered to slay the lion and bring back his skin. Hercules was able to use his brute strength and clever bravery to choke the lion to death and bring the skin to Eurystheus.
+        </p>
+        <p>
+        </p>
+        <p>
+         <strong>
+          2. Slay the Lernean Hydra.
+         </strong>
+         Living in the swamp of the town of Lerna was a nine-headed serpent that would terrify the area. The hydra was venomous with one immortal head that could not be killed. Hercules set forth for Lerna with his nephew, Iolaus. With the help of Iolaus, Hercules was able to kill the nine-headed hydra.
+        </p>
+        <p>
+         <strong>
+          3. Capture the Golden Hind.
+         </strong>
+         In Greece was the town of Ceryneia where a hind lived. This deer had golden horns and bronze hooves, and was sacred to Artemis, the goddess of hunting and animals; therefore, Hercules would not kill it. Instead, Hercules hunted the deer every day for a year. An opportunity to shoot the deer presented itself, and Hercules took it. On his way home, Hercules encountered Artemis and Apollo and had to explain his reason for apprehending the deer. Hercules told them of his servitude to Eurystheus. Artemis and Apollo agreed to let Hercules take the hind under the condition that Hercules brings the hind back unharmed.
+        </p>
+        <p>
+         4.
+         <strong>
+          Capture the Erymanthian Boar.
+         </strong>
+         Eurystheus ordered Hercules to bring him the wild boar from the mountain of Erymanthos. Hercules visited his friend and centaur, Pholos. The two ate and drank wine, which attracted other centaurs to the cave. Hercules killed the centaurs with his arrows, which would, unfortunately, be the downfall of Pholos.  Pholos picked up an arrow and questioned how it was so lethal when he inadvertently dropped the poisoned arrow on his foot and killed himself. Hercules discovered Pholos, buried him, and began hunting the boar. Hercules was able to drive the fearful boar into snow where he captured the boar in a net and brought the boar to Eurystheus.
+        </p>
+        <p>
+         <strong>
+          5. Clean the Stables of King Augeas.
+         </strong>
+         King Augeas had a stable which housed over 1,000 cattle. Hercules approached King Augeas and offered to clean the stables in one day and asked for a tenth of his cattle in return. King Augeas agreed to the terms, under the impression that Hercules would not be able to complete the task. With his quick wits and clever ingenuity, Hercules bore openings in the stables and rerouted the two main rivers, Alpheus and Peneus, to rush through the stables and flush out the waste. Learning that Hercules had been ordered to clean the stables by Eurystheus, King Augeas refused to pay Hercules with one-tenth of his cattle. Hercules took the matter to a judge where the judge determined Hercules should be rewarded for his completion. Hercules returned home where Eurystheus told him that his labor did not count as he had used the rivers to clean the stables, as well as accepted a reward for this labor.
+        </p>
+        <figure aria-describedby="caption-attachment-71" class="wp-caption alignright" id="attachment_71" style="width: 500px">
+         <img alt="Slay the Nemean Lion" class="wp-image-71" height="320" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/Slay-the-Nemean-Lion.jpg" width="500"/>
+         <figcaption class="wp-caption-text" id="caption-attachment-71">
+          Image via amazon.com
+         </figcaption>
+        </figure>
+        <p>
+         <strong>
+          6. Defeat the Stymphalian Birds.
+         </strong>
+         A huge flock of birds was gathered at the town of Stymphalos, so Eurystheus ordered Hercules to drive the birds away. The birds were fierce man-eaters, so Hercules had to determine how to safely remove the birds from the town. Athena visited Hercules and gave him a noise-making clapper to help him scare the birds away. As the birds flew, Hercules shot them with his bow and arrow, while the remainder flew away from the town.
+        </p>
+        <p>
+         <strong>
+          7. Capture the Cretan Bull.
+         </strong>
+         Hercules visited the city of Crete where King Minos granted Hercules permission to take this bull away. This bull was destroying the city and scaring the residents. Hercules was able to wrestle the bull to the ground and take him back to Eurystheus.
+        </p>
+        <p>
+         <strong>
+          8. Bring Back the Mares of Diomedes.
+         </strong>
+         King Diomedes of Thrace trained mares in his village to eat human flesh. Hercules brought help with him to seize the mares. A companion of Hercules, Abderus, was killed by one of the mares. Hercules would bury Abderus and establish the city of Abdera in his honor. Hercules would kill King Diomedes, feed the horses to calm them, and bring the horses back to Eurystheus.
+        </p>
+        <p>
+         <strong>
+          9. Obtain the Belt of Hippolyta.
+         </strong>
+         Queen Hippolyta was a leader of a tribe of warriors and had a leather belt that was given to her by Ares, god of war, as she was the best warrior among all the Amazons. Eurystheus wanted the belt as a gift for his daughter, Admete. When Hercules arrived at the land of the Amazons,
+         <a href="https://en.wikipedia.org/wiki/Hippolyta">
+          Hippolyta
+         </a>
+         came to Hercules and asked why he was there. Truthful, Hercules told Hippolyta that he needed her belt to take back to Eurystheus. Hippolyta agreed to let Hercules have the belt, but not before Hera, disguised as an Amazon warrior, told the tribe that Hercules was there to take Hippolyta. The tribe became apprehensive and dressed in armor as they confronted Hercules. Hercules saw their armor and weapons and assumed Hippolyta had sent her tribe to kill him, so Hercules killed Hippolyta and returned with her belt.
+        </p>
+        <p>
+         <strong>
+          10. Obtain the Cattle of Geryon.
+         </strong>
+         Hercules had to travel to the island of Erytheia to retrieve the cattle. Along his way, he killed many beasts in order to locate the cattle. Once he located the cattle and began the journey home, bulls within the cattle got loose. Hercules would have to abandon the herd to find the ones that had run away. Hercules finally gathered the herd and took them to Eurystheus who sacrificed the herd of cattle to Hera.
+        </p>
+        <p>
+         <strong>
+          11. Bring the Golden Apples of Hesperides.
+         </strong>
+         Eurystheus had originally given Hercules ten labors to complete, but as two of them were disqualified by Eurystheus, he gave Hercules two more labors to complete. In this labor, Hercules was to steal apples from the garden of Hesperides. Hercules traveled the world in search of the apples and, at the advice of Prometheus, was told to ask Atlas to steal the apples. Hercules held up the heavens and earth while Atlas stole the apples. Atlas requested to take the apples to Eurystheus, and Hercules agreed, to which he asked Atlas to hold the heavens and earth while he adjusted his garments. When Atlas took the heavens and earth back onto his shoulders, Hercules left and returned to Eurystheus to deliver the golden apples.
+        </p>
+        <p>
+         <strong>
+          12. Capture Cerberus.
+         </strong>
+         The twelfth and final task was to capture the beast, Cerberus. Cerberus was a three-headed dog that guarded the gates of the underworld to keep the living world from entering. Knowing that he could not enter the underworld through this entrance, Hercules traveled through a deep cave to enter the underworld. Hercules battled many beasts and monsters throughout the underworld until he reached Hades. Hercules asked Hades if he could take the Cerberus to the surface. Hades agreed, only if Hercules could restrain the beat with his bare hands and no weapons. Hercules was able to subdue the Cerberus and take him to Eurystheus, who demanded he return the Cerberus to the underworld.
+        </p>
+        <div class="crp_related">
+         <h3>
+          Related Posts:
+         </h3>
+         <ul>
+          <li>
+           <a class="post-66" href="https://www.theoi.com/articles/what-were-all-of-hermes-powers/">
+            <img alt="What were all of Hermes Powers?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/K11.11Hermes.jpg" title="What were all of Hermes Powers?" width="150"/>
+            <span class="crp_title">
+             What were all of Hermes Powers?
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-134" href="https://www.theoi.com/articles/who-were-the-lesser-known-greek-gods/">
+            <img alt="Who Were the Lesser Known Greek Gods?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/O26.2Aigina.jpg" title="Who Were the Lesser Known Greek Gods?" width="150"/>
+            <span class="crp_title">
+             Who Were the Lesser Known Greek Gods?
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-61" href="https://www.theoi.com/articles/what-was-hercules-10th-labor-in-detail/">
+            <img alt="What was Hercules 10th Labor in Detail?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/S26.10Herakles.jpg" title="What was Hercules 10th Labor in Detail?" width="150"/>
+            <span class="crp_title">
+             What was Hercules 10th Labor in Detail?
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-129" href="https://www.theoi.com/articles/who-is-hercules-brother/">
+            <img alt="Who Is Hercules Brother?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/Hercules-Brother.jpg" title="Who Is Hercules Brother?" width="150"/>
+            <span class="crp_title">
+             Who Is Hercules Brother?
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-132" href="https://www.theoi.com/articles/who-trained-hercules/">
+            <img alt="Who Trained Hercules" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/K15.1BKheiron.jpg" title="Who Trained Hercules" width="150"/>
+            <span class="crp_title">
+             Who Trained Hercules
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-204" href="https://www.theoi.com/articles/who-was-hercules-father/">
+            <img alt="Who Was Hercules Father?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/S26.10Herakles.jpg" title="Who Was Hercules Father?" width="150"/>
+            <span class="crp_title">
+             Who Was Hercules Father?
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-206" href="https://www.theoi.com/articles/who-was-hercules-mother-and-was-she-a-god/">
+            <img alt="Who Was Hercules Mother and Was She a God?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/O2.1BOkeanides.jpg" title="Who Was Hercules Mother and Was She a God?" width="150"/>
+            <span class="crp_title">
+             Who Was Hercules Mother and Was She a God?
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-666" href="https://www.theoi.com/articles/how-did-the-greek-hero-hercules-die/">
+            <img alt="How Did the Greek Hero Hercules Die?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/Hercules.jpg" title="How Did the Greek Hero Hercules Die?" width="150"/>
+            <span class="crp_title">
+             How Did the Greek Hero Hercules Die?
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="post-742" href="https://www.theoi.com/articles/who-was-hercules-wife-in-greek-mythology/">
+            <img alt="Who was Hercules Wife in Greek Mythology?" class="crp_thumb crp_featured" height="150" src="https://www.theoi.com/articles/wp-content/uploads/2019/09/Hercules-1997.jpg" title="Who was Hercules Wife in Greek Mythology?" width="150"/>
+            <span class="crp_title">
+             Who was Hercules Wife in Greek Mythology?
+            </span>
+           </a>
+          </li>
+         </ul>
+         <div class="crp_clear">
+         </div>
+        </div>
+        <!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/"
+    dc:identifier="https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/"
+    dc:title="What were the 12 Labors of Hercules?"
+    trackback:ping="https://www.theoi.com/articles/what-were-the-12-labors-of-hercules/trackback/" />
+</rdf:RDF>-->
+       </div>
+       <footer class="entry-footer">
+        <p class="entry-meta">
+         <span class="entry-categories">
+          Filed Under: Uncategorized
+         </span>
+        </p>
+       </footer>
+      </article>
+     </main>
+     <aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" id="genesis-sidebar-primary" itemscope="" itemtype="https://schema.org/WPSideBar" role="complementary">
+      <h2 class="genesis-sidebar-title screen-reader-text">
+       Primary Sidebar
+      </h2>
+      <section class="widget widget_search" id="search-3">
+       <div class="widget-wrap">
+        <form action="https://www.theoi.com/articles/" class="search-form" itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction" method="get" role="search">
+         <label class="search-form-label screen-reader-text" for="searchform-67ce4c62bbd005.04993556">
+          Search the site ...
+         </label>
+         <input class="search-form-input" id="searchform-67ce4c62bbd005.04993556" itemprop="query-input" name="s" placeholder="Search the site ..." type="search"/>
+         <input class="search-form-submit" type="submit" value="Search"/>
+         <meta content="https://www.theoi.com/articles/?s={s}" itemprop="target"/>
+        </form>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-2">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <p>
+          <!--
+
+<div style="margin: 10px 0; text-align: center;">
+
+
+<div id="waldo-tag-1790"></div>
+
+
+</div>
+
+-->
+         </p>
+         <div class="proper-ad-unit">
+          <div id="proper-ad-theoi_side_1">
+           <script>
+            propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+           </script>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <section class="widget widget_recent_entries" id="recent-posts-3">
+       <div class="widget-wrap">
+        <h3 class="widgettitle widget-title">
+         RECENT POSTS
+        </h3>
+        <ul>
+         <li>
+          <a href="https://www.theoi.com/articles/5-greek-mythology-videos-for-kids/">
+           5 Greek Mythology Videos for Kids
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/how-did-uranus-get-its-name-as-per-greek-mythology/">
+           How Did Uranus get its Name as Per Greek Mythology?
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/who-was-the-strongest-greek-god-and-why/">
+           Who was the Strongest Greek God and Why?
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/3-interesting-ares-god-of-war-facts/">
+           3 Interesting Ares God of War Facts
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/3-most-important-characters-in-greek-mythology/">
+           3 Most Important Characters in Greek Mythology
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/5-awesome-greek-mythology-fiction-books-for-kids/">
+           5 Awesome Greek Mythology Fiction Books for Kids
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/5-unbelievable-apollo-greek-god-facts/">
+           5 Unbelievable Apollo Greek God Facts
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/aphrodite-facts-awesome-facts-about-the-goddess-of-love-and-beauty/">
+           Aphrodite Facts: Awesome Facts about the Goddess of Love and Beauty
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/atlas-holding-the-world-story/">
+           Atlas Holding the World Story
+          </a>
+         </li>
+         <li>
+          <a href="https://www.theoi.com/articles/did-a-lion-headed-monster-exist-in-greek-mythology/">
+           Did a Lion-Headed Monster Exist in Greek Mythology?
+          </a>
+         </li>
+        </ul>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-3">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <p>
+          <!--
+
+
+<div style="margin: 10px 0; text-align: center;">
+
+
+<div id="waldo-tag-1791"></div>
+
+
+</div>
+
+
+-->
+         </p>
+         <div class="proper-ad-unit">
+          <div id="proper-ad-theoi_side_2">
+           <script>
+            propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+           </script>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <section class="widget_text widget widget_custom_html" id="custom_html-2">
+       <div class="widget_text widget-wrap">
+        <h3 class="widgettitle widget-title">
+         GREEK MYTHOLOGY
+        </h3>
+        <div class="textwidget custom-html-widget">
+         <p>
+          <a href="greek-mythology/encyclopedia-a.html">
+           Gods, Spirits &amp; Monsters A - Z
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/greek-gods.html">
+           Gods &amp; Goddesses
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/olympian-gods.html">
+           Olympian Gods
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/titans.html">
+           Titans &amp; Titanesses
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/personifications.html">
+           Daemones (Spirits)
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/nymphs.html">
+           Nymphs
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/heroes.html">
+           Heroes &amp; Heroines
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/bestiary.html">
+           Bestiary
+          </a>
+         </p>
+         <p>
+          <a href="greek-mythology/giants.html">
+           Giants
+          </a>
+         </p>
+        </div>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-7">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <p>
+          <!-- 300x250/300x600 -->
+          <br/>
+          <!--
+
+<div id="waldo-tag-5751"></div>
+
+-->
+         </p>
+         <div class="proper-ad-unit">
+          <div id="proper-ad-theoi_side_3">
+           <script>
+            propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+           </script>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </aside>
+    </div>
+   </div>
+   <footer class="site-footer" itemscope="" itemtype="https://schema.org/WPFooter">
+    <div class="wrap">
+     <!--<div style="margin: 20px 0; text-align: center;">
+<div id="waldo-tag-1792"></div>
+</div>
+<div id="waldo-tag-3717"></div>
+-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+     <p>
+      © Copyright 2025
+      <a href="https://www.technipages.com/">
+       Technipages
+      </a>
+      · All Rights Reserved ·
+      <a href="https://www.technipages.com/privacy">
+       Privacy
+      </a>
+     </p>
+     <br/>
+     <br/>
+     <br/>
+    </div>
+   </footer>
+  </div>
+  <script src="https://www.theoi.com/articles/wp-includes/js/comment-reply.min.js?ver=5.4.2" type="text/javascript">
+  </script>
+  <script src="https://www.theoi.com/articles/wp-includes/js/hoverIntent.min.js?ver=1.8.1" type="text/javascript">
+  </script>
+  <script src="https://www.theoi.com/articles/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5" type="text/javascript">
+  </script>
+  <script src="https://www.theoi.com/articles/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.8.1" type="text/javascript">
+  </script>
+  <script src="https://www.theoi.com/articles/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=2.8.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var genesis_responsive_menu = {"mainMenu":"Menu","subMenu":"Submenu","menuClasses":{"combine":[".nav-primary",".nav-header",".nav-secondary"]}};
+/* ]]> */
+  </script>
+  <script src="https://www.theoi.com/articles/wp-content/themes/magazine-pro/js/responsive-menus.min.js?ver=3.2.3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"sidebar","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["text-7"]}];
+/* ]]> */
+  </script>
+  <script src="https://www.theoi.com/articles/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9" type="text/javascript">
+  </script>
+  <script src="https://www.theoi.com/articles/wp-includes/js/wp-embed.min.js?ver=5.4.2" type="text/javascript">
+  </script>
+ </body>
+</html>

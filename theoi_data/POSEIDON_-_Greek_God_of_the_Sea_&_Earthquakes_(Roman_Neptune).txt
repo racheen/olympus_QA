@@ -1,0 +1,2735 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   POSEIDON - Greek God of the Sea &amp; Earthquakes (Roman Neptune)
+  </title>
+  <meta content="Poseidon was the ancient Greek god of the sea, rivers, floods and drought, earthquakes, and horses. He was depicted as a mature man with a sturdy build and dark beard holding a trident (a three-pronged fisherman's spear). His Roman name was Neptune." name="description"/>
+  <meta content="Poseidon, Olympian god, Greek mythology, Greek god of the sea, Greek king of the sea, Greek god of earthquakes, Greek god of floods, Greek god of drought, Greek god of horses, Poseidon pictures, Neptune, Neptunus" name="keywords"/>
+  <meta content="POSEIDON - Greek God of the Sea &amp; Earthquakes" property="og:title">
+   <meta content="Poseidon was the ancient Greek god of the sea, rivers, floods and drought, earthquakes, and horses. He was depicted as a mature man with a sturdy build and dark beard holding a trident (a three-pronged fisherman's spear). His Roman name was Neptune." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Poseidon.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_poseidon_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-sea.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt;  Poseidon
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     POSEIDON
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ποσειδων
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Poseidôn
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Poseidon
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Neptunus, Neptune
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z2.11.html">
+      <img alt="Chariot of Poseidon | Greco-Roman mosaic | Bardo National Museum, Tunis" class="img-responsive center-block" src="../image/Z2.11Poseidon.jpg"/>
+     </a>
+     <figcaption>
+      Chariot of Poseidon, Greco-Roman mosaic,
+      <a href="http://www.bardomuseum.tn/" target="_blank">
+       Bardo National Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     POSEIDON was the Olympian god of the sea, earthquakes, floods, drought and horses.
+     <br/>
+     He was depicted as a mature man with a sturdy build and dark beard holding a trident (a three-pronged fisherman's spear).
+    </p>
+    <h2>
+     MYTHS
+    </h2>
+    <p>
+     At birth Poseidon was swallowed whole by his father Kronos (Cronus), but Zeus later enlisted the aid of the goddess Metis who fed the Titan a magical elixir causing him to disgorge the god. &lt;&lt;
+     <a href="../Titan/TitanKronos.html#Cannibal">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     During the War of the Titanes, the Kyklopes (Cyclopes) crafted a magical trident for Poseidon, and together with his brothers Zeus and Haides he defeated the elder gods and imprisoned them in Tartaros. &lt;&lt;
+     <a href="../Titan/Titanes.html#Titanomakhia">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Poseidon and his brothers drew lots for the division of the cosmos after the fall of the Titanes, and  won the sea as his domain.
+    </p>
+    <p>
+     When the Gigantes (Giants) besieged the gods of Olympos, Poseidon crushed Polybotes beneath the island of Kos (Cos). &lt;
+     <a href="../Gigante/GigantePolybotes.html">
+      &lt;More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     He entered a contest with the goddess Athena for dominion over Athens and produced the very first horse as a gift. But the king refused him the prize and in anger Poseidon afflicted the land with drought.
+    </p>
+    <p>
+     The god assaulted his sister Demeter in the shape of a horse as she was wandering the earth in search of her daughter Persephone. &lt;&lt;
+     <a href="PoseidonLoves.html#Demeter">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Poseidon seduced many nymphs and mortal woman often in the guise of an animal or flowing water. Some of his most famous conquests were the Gorgon Medousa (Medusa), Tyro, Amymone, and Aithra mother of the hero Theseus. &lt;&lt;
+     <a href="PoseidonLoves2.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The god helped build the walls of the city of Troy, but when King Laomedon refused the payment he had promised, Poseidon sent a sea-monster to ravage the land. &lt;&lt;
+     <a href="../Ther/KetosAithiopios.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The hero Odysseus blinded the god's son Polyphemos on his return from Troy and Poseidon sent a storm to scatter and wreck the hero's fleet. &lt;&lt;
+     <a href="../Gigante/GigantePolyphemos.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Many other myths are detailed over the following pages.
+    </p>
+    <hr/>
+    <h2 id="Attributes">
+     SYMBOLS &amp; ATTRIBUTES
+    </h2>
+    <p>
+     Poseidon's most distinctive attribute was the trident, a three-pronged fishing spear. He sometimes also wielded a boulder encrusted with sea creatures (crayfish, octopi, fish, etc.). The god was either clothed in a robe (
+     <em>
+      chiton
+     </em>
+     ) and cloak (
+     <em>
+      himation
+     </em>
+     ) or depicted nude with just a cloak draped loosely about his arms and shoulders. He was often crowned with a wreath of wild celery or a simple headband.
+    </p>
+    <p>
+     Below are some examples of his attributes as depicted in ancient Greek art:-
+    </p>
+    <p>
+     1. Trident &amp; boulder; 2. Trident's head; 3. Boulder with sea creatures;
+    </p>
+    <p>
+     <img alt="Trident of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_attributes_trident1.jpg" width="115"/>
+     <img alt="Trident of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_attributes_trident2.jpg" width="115"/>
+     <img alt="Boulder of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_attributes_rock.jpg" width="115"/>
+    </p>
+    <p>
+     4. Headband; 5. Wreath of celery-leaves; 6. Billowing cloak.
+    </p>
+    <p>
+     <img alt="Headband of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_attributes_headband.jpg" width="115"/>
+     <img alt="Wreath of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_attributes_wreath.jpg" width="115"/>
+     <img alt="Cloak of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_attributes_cloak.jpg" width="115"/>
+    </p>
+    <hr/>
+    <h2>
+     SACRED ANIMALS &amp; PLANTS
+    </h2>
+    <p>
+     Poseidon's sacred animals were the bull, the horse and the dolphin. As god of the sea he was also closely associated with fish and other marine creatures. His chariot was drawn by a pair of fish-tailed horses (Greek:
+     <em>
+      hippokampoi
+     </em>
+     ). The  most famous of his sacred animals in myth was the Cretan Bull, sire of the Minotaur.
+     <br/>
+     Poseidon's sacred plants were the pine tree and wild celery which were used to crown victors at the god's Isthmian Games.
+    </p>
+    <p>
+     Below are examples of the god's animals as depicted in ancient Greek art and photos of his sacred plants:-
+    </p>
+    <p>
+     1. Hippocamp (half-horse, half-fish); 2. Dolphin; 3. Pine tree; 4. Wild celery.
+    </p>
+    <p>
+     <img alt="Hippocamp of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_animals_hippocamp.jpg" width="115"/>
+     <img alt="Dolphin of Poseidon" border="0" height="115" name="img1" src="../image/img_poseidon_animals_dolphin.jpg" width="115"/>
+     <a href="../image/flora_peuke_lg.jpg">
+      <img alt="Pine Tree" border="0" height="115" src="../image/flora_peuke.jpg" width="115"/>
+     </a>
+     <a href="../image/flora_selinon_lg.jpg">
+      <img alt="Wild Celery" border="0" height="115" src="../image/flora_selinon.jpg" width="115"/>
+     </a>
+    </p>
+    <hr/>
+    <h2>
+     POSEIDON PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 6 pages describing the god, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Poseidon Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF POSEIDON
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     <a href="../Titan/TitanKronos.html">
+      KRONOS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisRhea.html">
+      RHEA
+     </a>
+     <span class="family-refs">
+      (Homer Iliad 15.187, Hesiod Theogony 453, Apollodorus 1.4, Diodorus Siculus 5.68.1, et al)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     See
+     <a href="PoseidonFamily.html#Genealogy">
+      Family of Poseidon
+     </a>
+    </p>
+    <hr/>
+    <p>
+     Poseidon was a son of the Titans Kronos (Cronus) and Rheia and a grandson of Ouranos (the Heavens) and Gaia (the Earth). He was a brother of the gods Zeus, Haides, Hera, Demeter and Hestia.
+     <br/>
+     Poseidon married the marine-goddess Amphitrite, eldest child of Nereus, first born son of Pontos (the Sea), a marital alliance which secured his dominion over the sea. Their son was the fish-tailed god Triton.
+     <br/>
+     He also had numerous mortal offspring including giants such as Antaios and the cyclops Polyphemos, magical horses like Pegasos and Arion, and various human kings, heroes and villians including Theseus and Bellerophontes. &lt;&lt;
+     <a href="PoseidonFamily.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Below are two graphics depicting Poseidon's family tree, the first with names transliterated from the Greek and the second with the common English spellings:-
+    </p>
+    <img alt="Family Tree of Poseidon" class="img-responsive" src="../image/family-tree-poseidon-1.jpg"/>
+    <img alt="Family Tree of Poseidon" class="img-responsive" src="../image/family-tree-poseidon-2.jpg"/>
+    <figure class="image-main-wide">
+     <a href="../Gallery/K2.4.html">
+      <img alt="Poseidon riding Hippocamp | Athenian black-figure cup C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K2.4Poseidon.jpg"/>
+     </a>
+     <figcaption>
+      Poseidon riding Hippocamp, Athenian black-figure cup C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     POSEIDON (Poseidôn), the god of the Mediterranean sea. His name seems to be connected with potos, pontos and potamos, according to which he is the god of the fluid element. (Müller,
+     <em>
+      Proleg.
+     </em>
+     p. 290.)
+    </p>
+    <p>
+     He was a son of Cronos and Rhea (whence he is called Kronios and by Latin poets
+     <em>
+      Saturnius,
+     </em>
+     Pind.
+     <em>
+      Ol.
+     </em>
+     vi. 48; Virg.
+     <em>
+      Aen.
+     </em>
+     v. 799.) He was accordingly a brother of Zeus, Hades, Hera, Hestia and Demeter, and it was determined by lot that he should rule over the sea. (Hom.
+     <em>
+      Il.
+     </em>
+     xiv. 156, xv. 187, &amp;c.; Hes.
+     <em>
+      Theog,
+     </em>
+     456.) Like his brothers and sisters, he was, after his birth, swallowed by his father Cronos, but thrown up again. (Apollod. i. 1. § 5, 2. § 1.)
+    </p>
+    <p>
+     According to others, he was concealed by Rhea, after his birth, among a flock of lambs, and his mother pretended to have given birth to a young horse, which she gave to Cronos to devour. A well in the neighbourhood of Mantineia, where this is said to have happened, was believed, from this circumstance, to have derived the name of the "Lamb's Well," or Arne. (Paus. viii. 8. § 2.) According to Tzetzes (
+     <em>
+      ad Lycoph.
+     </em>
+     644) the nurse of Poseidon bore the name of Arne; when Cronos searched after his son, Arne is said to have declared that she knew not where he was, and from her the town of Arne was believed to have received its name. According to others, again, he was brought up by the Telchines at the request of Rhea. (Diod. v. 55.)
+    </p>
+    <p>
+     In the earliest poems, Poseidon is described as indeed equal to Zeus in dignity, but weaker. (Hom.
+     <em>
+      Il.
+     </em>
+     viii. 210, xv. 165, 186, 209; comp. xiii. 355,
+     <em>
+      Od.
+     </em>
+     xiii. 148.) Hence we find him angry when Zeus, by haughty words, attempts to intimidate him; nay, he even threatens his mightier brother, and once he conspired with Hera and Athena to put him into chains (Hom.
+     <em>
+      Il.
+     </em>
+     xv. 176, &amp;c., 212, &amp;c.; comp. i. 400.); but, on the other hand, we also find him yielding and submissive to Zeus (viii. 440).
+    </p>
+    <p>
+     The palace of Poseidon was in the depth of the sea near Aegae in Euboea (xiii. 21;
+     <em>
+      Od.
+     </em>
+     v. 381), where he kept his horses with brazen hoofs and golden manes. With these horses he rides in a chariot over the waves of the sea, which become smooth as he approaches, and the monsters of the deep recognise him and play around his chariot. (
+     <em>
+      Il.
+     </em>
+     xiii. 27, comp. Virg.
+     <em>
+      Aen.
+     </em>
+     v. 817, &amp;c., i. 147; Apollon. Rhod. iii. 1240, &amp;c.) Generally he himself put his horses to his chariot, but sometimes he was assisted by Amphitrite. (Apollon. Rhod. i. 1158, iv. 1325; Eurip.
+     <em>
+      Androm.
+     </em>
+     1011; Virg.
+     <em>
+      Aen.
+     </em>
+     v. 817.) But although he generally dwelt in the sea, still he also appears in Olympus in the assembly of the gods. (Hom.
+     <em>
+      II.
+     </em>
+     viii. 440, xiii. 44, 352, xv. 161, 190, xx. 13.)
+    </p>
+    <p>
+     Poseidon in conjunction with Apollo is said to have built the walls of Troy for Laomedon (vii. 452;
+     <em>
+      Eurip. Androm.
+     </em>
+     1014),whence Troy is called
+     <em>
+      Neptunia Pergama
+     </em>
+     (Neptunus and Poseidon being identified, Ov.
+     <em>
+      Fast.
+     </em>
+     i. 525,
+     <em>
+      Heroid.
+     </em>
+     iii. 151; comp. Virg.
+     <em>
+      Aen.
+     </em>
+     vi. 810.) Accordingly, although he was otherwise well disposed towards the Greeks, yet he was jealous of the wall which the Greeks built around their own ships, and he lamented the inglorious manner in which the walls erected by himself fell by the hands of the Greeks. (Hom.
+     <em>
+      Il.
+     </em>
+     xii. 17, 28, &amp;c.) When Poseidon and Apollo had built the walls of Troy, Laomedon refused to give them the reward which had been stipulated, and even dismissed them with threats (xxi. 443); but Poseidon sent a marine monster, which was on the point of devouring Laomedon's daughter, when it was killed by Heracles. ii. 5 § 9.)
+    </p>
+    <p>
+     For this reason Poseidon like Hera bore an implacable hatred against the Trojans, from which not even Aeneas was excepted (Hom.
+     <em>
+      Il.
+     </em>
+     xx. 293, &amp;c.; comp. Virg.
+     <em>
+      Aen.
+     </em>
+     v. 810;
+     <em>
+      Il.
+     </em>
+     xxi. 459, xxiv. 26, xx. 312, &amp;c.), and took an active part in the war against Troy, in which he sided with the Greeks, sometimes witnessing the contest as a spectator from the heights of Thrace, and sometimes interfering in person, assuming the appearance of a mortal hero and encouraging the Greeks, while Zeus favoured the Trojans. (
+     <em>
+      Il
+     </em>
+     . xiii. 12, &amp;c., 44, &amp;c., 209, 351, 357, 677, xiv. 136, 510.) When Zeus permitted the gods to assist whichever party they pleased, Poseidon joining the Greeks, took part in the war, and caused the earth to tremble; he was opposed by Apollo, who, however, did not like to fight against his uncle. (
+     <em>
+      Il
+     </em>
+     . xx. 23, 34, 57, 67, xxi. 436, &amp;c.) In the Odyssey, Poseidon appears hostile to Odysseus, whom he prevents from returning home in consequence of his having blinded Polyphemus, a son of Poseidon by the nymph Thoosa. (Hom.
+     <em>
+      Od.
+     </em>
+     i. 20, 68, v. 286, &amp;c., 366, &amp;c., 423, xi. 101, &amp;e., xiii. 125; Ov.
+     <em>
+      Trist.
+     </em>
+     i. 2. 9.)
+    </p>
+    <p>
+     Being the ruler of the sea (the Mediterranean), he is described as gathering clouds and calling forth storms, but at the same he has it in his power to grant a successful voyage and save those who are in danger, and all other marine divinities are subject to him. As the sea surrounds and holds the earth, he himself is described as the god who holds the earth (gaiêochos), and who has it in his power to shake the earth (enosichthôn, kinêtêr gas).
+    </p>
+    <p>
+     He was further regarded as the creator of the horse, and was accordingly believed to have taught men the art of managing horses by the bridle, and to have been the originator and protector of horse races. (Hom.
+     <em>
+      Il.
+     </em>
+     xxiii. 307, 584; Pind.
+     <em>
+      Pyth.
+     </em>
+     vi.50 ; Soph.
+     <em>
+      Oed. Col.
+     </em>
+     712, &amp;c.) Hence he was also represented on horseback, or riding in a chariot drawn by two or four horses, and is designated by the epithets hippios, hippeios, or hippios anax. (Paus. i. 30. § 4, viii. 25. § 5, vi. 20. § 8, viii. 37. § 7 ; Eurip.
+     <em>
+      Phoen.
+     </em>
+     1707; comp. Liv. i. 9, where he is called
+     <em>
+      equester.
+     </em>
+     ) In consequence of his connection with the horse, he was regarded as the friend of charioteers (Pind.
+     <em>
+      Ol.
+     </em>
+     i. 63, &amp;c.; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     156), and he even metamorphosed himself into a horse, for the purpose of deceiving Demeter.
+    </p>
+    <p>
+     The common tradition about Poseidon creating the horse is as follows:-- when Poseidon and Athena disputed as to which of them should give the name to the capital of Attica, the gods decided, that it should receive its name from him who should bestow upon man the most useful gift. Poseidon their created the horse, and Athena called forth the olive tree, for which the honour was conferred upon her. (Serv.
+     <em>
+      ad Virg. Georg.
+     </em>
+     i. 12.) According to others, however, Poseidon did not create the horse in Attica, but in Thessaly, where he also gave the famous horses to Peleus. (Lucan,
+     <em>
+      Phars.
+     </em>
+     vi. 396, &amp;c.; Hom.
+     <em>
+      Il.
+     </em>
+     xxiii. 277; Apollod. iii. 13. § 5.)
+    </p>
+    <p>
+     The symbol of Poseidon's power was the trident, or a spear with three points, with which he used to shatter rocks, to call forth or subdue storms, to shake the earth, and the like. Herodotus (ii. 50, iv. 188) states, that the name and worship of Poseidon was imported to the Greeks from Libya, but he was probably a divinity of Pelasgian origin, and originally a personification of the fertilising power of water, from which the transition to regarding him as the god of the sea was not difficult.
+    </p>
+    <p>
+     It is a remarkable circumstance that in the legends about this divinity there are many in which he is said to have disputed the possession of certain countries with other gods. Thus, in order to take possession of Attica, he thrust his trident into the ground on the acropolis, where a well of sea-water was thereby called forth; but Athena created the olive tree, and the two divinities disputed, until the gods assigned Attica to Athena. Poseidon, indignant at this, caused the country to be inundated. (Herod. viii. 55; Apollod. iii. 14. § 1 ; Paus. i. 24. § 3, &amp;c.; Hygin.
+     <em>
+      Fab.
+     </em>
+     164.) With Athena he also disputed the possession of Troezene, and at the command of Zeus he shared the place with her. (Paus. ii. 30. § 6 ) With Helios he disputed the sovereignty of Corinth, which along with the isthmus was adjudged to him, while Helios received the acropolis. (ii. 1. § 6.) With Hera he disputed the possession of Argolis, which was adjudged to the former by Inachus, Cephissus, and Asterion, in consequence of which Poseidon caused the rivers of these river-gods to be dried up. (ii. 15. § 5, 22. § 5; Apollod. ii. 1. § 4.) With Zeus, lastly, he disputed the possession of Aegina, and with Dionysus that of Naxos. (Plut.
+     <em>
+      Sympos.
+     </em>
+     ix. 6.) At one time Delphi belonged to him in common with Ge, but Apollo gave him Calauria as a compensation for it. (Paus. ii. 33. § 2, x. 5. § 3; Apollon. Rhod. iii. 1243, with the Schol.)
+    </p>
+    <p>
+     The following legends also deserve to be mentioned. In conjunction with Zeus he fought against Cronos and the Titans (Apollod. i. 2. § 1), and in the contest with the Giants he pursued Polybotes across the sea as far as Cos, and there killed him by throwing the island upon him. (Apollod. i. 6. § 2; Paus. i. 2. § 4.) He further crushed the Centaurs when they were pursued by Heracles, under a mountain in Leucosia, the island of the Seirens. (Apollod. ii. 5. § 4.) He sued together with Zeus for the hand of Thetis, but he withdrew when Themis prophesied that the son of Thetis would be greater than his father. (Apollod. iii. 13. § 5; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     178.) When Ares had been caught in the wonderful net by Hephaestus, the latter set him free at the request of Poseidon (Hom.
+     <em>
+      Od.
+     </em>
+     viii. 344, &amp;c.), but Poseidon afterwards brought a charge against Ares before the Areiopagus, for having killed his son Halirrhothius. (Apollod. iii. 14. § 2.) At the request of Minos, king of Crete, Poseidon caused a bull to rise from the sea, which the king promised to sacrifice; but when Minos treacherously concealed the animal among a herd of oxen, the god punished Minos by causing his daughter Pasiphaë to fall in love with the bull. (Apollod. iii. § 3, &amp;c.) Periclymenus, who was either a son or a grandson of Poseidon, received from him the power of assuming various forms. (i. 9. § 9, iii. 6. § 8.)
+    </p>
+    <p>
+     Poseidon was married to Amphitrite, by whom he had three children, Triton, Rhode, and Benthesicyme (Hes.
+     <em>
+      Theog.
+     </em>
+     930; Apollod. i. 4. § 6, iii. 15. § 4); but he had besides a vast number of children by other divinities and mortal women.
+    </p>
+    <p>
+     He is mentioned by a variety of surnames, either in allusion to the many legends related about him, or to his nature as the god of the sea. His worship extended over all Greece and southern Italy, but he was more especially revered in Peloponnesus (which is hence called oikêtêrion Poseidônos) and in the Ionic coast towns. The sacrifices offered to him generally consisted of black and white bulls (Hom.
+     <em>
+      Od.
+     </em>
+     iii. 6,
+     <em>
+      Il.
+     </em>
+     xx. 404; Pind.
+     <em>
+      Ol.
+     </em>
+     xiii. 98; Virg.
+     <em>
+      Aen.
+     </em>
+     v. 237); but wild boars and rams were also sacrificed to him. (Hom.
+     <em>
+      Od.
+     </em>
+     xi. 130, &amp;c., xxiii. 277; Virg.
+     <em>
+      Aen.
+     </em>
+     iii. 119.) In Argolis bridled horses were thrown into the well Deine as a sacrifice to him (Paus. viii. 7. § 2), and horse and chariot races were held in his honour on the Corinthian isthmus. (Pind.
+     <em>
+      Nem.
+     </em>
+     v. 66, &amp;c.) The Panionia, or the festival of all the Ionians near Mycale, was celebrated in honour of Poseidon. (Herod. i. 148.)
+    </p>
+    <p>
+     In works of art, Poseidon may be easily recognised by his attributes, the dolphin, the horse, or the trident (Paus. x. 36. § 4), and he was frequently represented in groups along with Amphitrite, Tritons, Nereids, dolphins, the Dioscuri, Palaemon, Pegasus, Bellerophontes, Thalassa, Ino, and Galene. (Paus. ii. 1. § 7.) His figure does not present the majestic calm which characterises his brother Zeus; but as the state of the sea is varying, so also is the god represented sometimes in violent agitation, and sometimes in a state of repose. It must be observed that the Romans identified Poseidon with their own Neptunus, and that accordingly the attributes belonging to the former are constantly transferred by the Latin poets to the latter.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <figure class="image-main-wide">
+     <a href="../Gallery/Z2.1.html">
+      <img alt="Poseidon god of the sea | Greco-Roman mosaic C3rd A.D. | Sousse Museum" class="img-responsive center-block" src="../image/Z2.1Poseidon.jpg"/>
+     </a>
+     <figcaption>
+      Poseidon-Neptune and Hippocamps, Greco-Roman mosaic C3rd A.D., Sousse Archaeological Museum
+     </figcaption>
+    </figure>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Hymns">
+     HYMNS TO POSEIDON
+    </h3>
+    <h4>
+     I) THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 22 to Poseidon (trans. Evelyn-White) (Greek epic C7th or 6th B.C.) :
+     </span>
+     <br/>
+     "I begin to sing about Poseidon, the great god, mover of the earth and fruitless sea, god of the deep who is also lord of Helikon (Helicon) and wide Aigai (Aegae). O Shaker of the Earth (
+     <em>
+      Ennosigaios
+     </em>
+     ), to be a tamer of horses and a saviour of ships! Hail Poseidon Holder of the Earth (
+     <em>
+      gaienokhos
+     </em>
+     ), dark-haired lord! O blessed one, be kindly in heart and help those who voyage in ships!"
+    </p>
+    <h4>
+     II) THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 17 to Poseidon (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Hear, Poseidon, ruler of the sea profound, whose liquid grasp begirds the solid ground; who, at the bottom of the stormy main, dark and deep-bosomed holdest they watery reign. Thy awful hand the brazen trident bears, and sea's utmost bound thy will reveres. Thee I invoke, whose steeds the foam divide, from whose dark locks the briny waters glide; shoe voice, loud sounding through the roaring deep, drives all its billows in a raging heap; when fiercely riding through the boiling sea, thy hoarse command the trembling waves obey. Earth-shaking, dark-haired God, the liquid plains, the third division, fate to thee ordains. 'Tis thine, cerulean daimon, to survey, well-pleased, the monsters of the ocean play. Confirm earth's basis, and with prosperous gales waft ships along, and swell the spacious sails; add gentle peace, and fair-haired health beside, and pour abundance in a blameless tide."
+    </p>
+    <h4>
+     III) OTHER HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 12. 45 (trans. Schofield) (Greek natural history C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Arion [the poet rescued by a dolphin] wrote a hymn of thanks to Poseidon that bears witness to the dolphin's love of music and is a kind of payment of the reward due to them also for having saved his life. This is the hymn : ‘Highest of the gods, lord of the sea, Poseidon of the golden trident, earth-shaker in the swelling brine, around thee the finny monsters (
+     <em>
+      theres
+     </em>
+     ) in a ring swim and dance, with nimble flingings of their feet leaping lightly, snub-nosed hounds with bristling neck, swift runners, music-loving dolphins, sea-nurslings of the Nereis (Nereid) maids divine, whom Amphitrite bore, even they that carried me, a wanderer on the Sikelian (Sicilian) main, to the headland of Tainarion (Taenarum) in Pelops' land, mounting me upon their humped backs as they clove the furrow of Nereus' plain, a path untrodden, when deceitful men had cast me from their sea-faring hollow ship in to the purple swell of sea.’"
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.4.html">
+        <img alt="Thumbnail Poseidon Riding Hippocamp" src="../image/thumbK2.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.4 Poseidon Riding Hippocamp
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K21.3.html">
+        <img alt="Thumbnail Poseidon, Amphitrite, Charites" src="../image/thumbK21.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K21.3 Poseidon, Amphitrite, Charites
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.13.html">
+        <img alt="Thumbnail Poseidon, Birth of Athena" src="../image/thumbK8.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.13 Poseidon, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.19.html">
+        <img alt="Thumbnail Poseidon, Medusa, Perseus" src="../image/thumbP23.19C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.19 Poseidon, Medusa, Perseus
+        </h3>
+        <p>
+         Boeotian Black Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P14.4.html">
+        <img alt="Thumbnail Poseidon, Amphitrite, Iris" src="../image/thumbP14.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P14.4 Poseidon, Amphitrite, Iris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P14.5.html">
+        <img alt="Thumbnail Poseidon, Amphitrite, Iris" src="../image/thumbP14.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P14.5 Poseidon, Amphitrite, Iris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P14.3.html">
+        <img alt="Thumbnail Poseidon &amp; Theseus" src="../image/thumbP14.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P14.3 Poseidon &amp; Theseus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.1.html">
+        <img alt="Thumbnail Poseidon &amp; Iris" src="../image/thumbK2.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.1 Poseidon &amp; Iris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.1.html">
+        <img alt="Thumbnail Poseidon, Polybotes, Gaea" src="../image/thumbT1.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.1 Poseidon, Polybotes, Gaea
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.3.html">
+        <img alt="Thumbnail Poseidon &amp; Giant Polybotes" src="../image/thumbK2.3B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.3 Poseidon &amp; Giant Polybotes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.6.html">
+        <img alt="Thumbnail Poseidon &amp; Giant Polybotes" src="../image/thumbK2.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.6 Poseidon &amp; Giant Polybotes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.7.html">
+        <img alt="Thumbnail Poseidon &amp; Giant Polybotes" src="../image/thumbK2.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.7 Poseidon &amp; Giant Polybotes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.2.html">
+        <img alt="Thumbnail Poseidon, Birth of Aphrodite" src="../image/thumbK10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.2 Poseidon, Birth of Aphrodite
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.9.html">
+        <img alt="Thumbnail Poseidon &amp; Amymone" src="../image/thumbK2.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.9 Poseidon &amp; Amymone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.5.html">
+        <img alt="Thumbnail Poseidon &amp; Amymone" src="../image/thumbK2.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.5 Poseidon &amp; Amymone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.8.html">
+        <img alt="Thumbnail Poseidon &amp; Amymone" src="../image/thumbK2.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.8 Poseidon &amp; Amymone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P10.6.html">
+        <img alt="Thumbnail Poseidon, Triton, Heracles" src="../image/thumbP10.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P10.6 Poseidon, Triton, Heracles
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K2.11.html">
+        <img alt="Thumbnail Poseidon &amp; Athena" src="../image/thumbK2.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K2.11 Poseidon &amp; Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P14.7.html">
+        <img alt="Thumbnail Poseidon &amp; Amphitrite" src="../image/thumbP14.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P14.7 Poseidon &amp; Amphitrite
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.9.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.9 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Ostia Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.10.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.10 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Ostia Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.8.html">
+        <img alt="Thumbnail Poseidon &amp; Amymone" src="../image/thumbZ2.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.8 Poseidon &amp; Amymone
+        </h3>
+        <p>
+         Greco-Roman Paphos Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.7.html">
+        <img alt="Thumbnail Poseidon &amp; Amphitrite" src="../image/thumbZ2.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.7 Poseidon &amp; Amphitrite
+        </h3>
+        <p>
+         Greco-Roman Herculaneum Mosaic C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.1.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.1 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Sousse Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.2.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.2 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.3.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.3 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Constantine Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.6.html">
+        <img alt="Thumbnail Poseidon as Sea-Panther" src="../image/thumbZ2.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.6 Poseidon as Sea-Panther
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.4.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.4 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Chebba Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.11.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.11 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Bardo Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.5.html">
+        <img alt="Thumbnail Chariot of Poseidon" src="../image/thumbZ2.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.5 Chariot of Poseidon
+        </h3>
+        <p>
+         Greco-Roman Utica Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S2.1.html">
+        <img alt="Thumbnail Poseidon Statue" src="../image/thumbS2.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S2.1 Poseidon
+        </h3>
+        <p>
+         Greco-Roman Bronze Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S2.2.html">
+        <img alt="Thumbnail Poseidon Statue" src="../image/thumbS2.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S2.2 Poseidon
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S2.3.html">
+        <img alt="Thumbnail Poseidon-Neptune Statue" src="../image/thumbS2.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S2.3 Poseidon
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL POSEIDON PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Astronomy Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Cypria Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Corinna, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Moralia
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Halieutica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Photius, Myriobiblon
+      <span class="sources-detail">
+       - Byzantine Greek Scholar C9th A.D.
+      </span>
+     </li>
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other sources not quoted here: numerous.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     POSEIDON SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD POSEIDON
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Cronus and Rhea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Amphitrite
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        King of the Sea, earthquakes, floods, horses
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        The Aegean Sea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbol
+       </th>
+       <td>
+        Trident
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Bull, horse, dolphin
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Pine tree, wild celery
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Triton, Nereids, Sea-Gods
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Cronides
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Neptune
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     POSEIDON PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Attributes">
+         Symbols &amp; Attributes
+        </a>
+       </li>
+       <li>
+        <a href="#Family">
+         Family Tree of Poseidon
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Poseidon
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="PoseidonFamily.html">
+       Part 2: Poseidon Family
+      </a>
+      <ul>
+       <li>
+        <a href="PoseidonFamily.html#Genealogy">
+         Genealogy
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonFamily.html#Divine">
+         Divine Offspring
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonFamily.html#Mortal">
+         Mortal Offspring
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonFamily.html#Kingdom">
+         Family by Kingdom
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="PoseidonLoves.html">
+       Part 3: Poseidon Myths 1 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="PoseidonLoves.html#Amphitrite">
+         Amphitrite
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves.html#Aphrodite">
+         Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves.html#Demeter">
+         Demeter
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves.html#Medousa">
+         Medusa
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves.html#Nerites">
+         Nerites
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="PoseidonLoves2.html">
+       Part 3: Poseidon Myths 2 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="PoseidonLoves2.html#Aithra">
+         Aethra
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Alope">
+         Alope
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Amymone">
+         Amymone
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Astypalaia">
+         Astypalaea
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Kanake">
+         Canace
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Koroneis">
+         Coroneis
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Eurynome">
+         Eurynome
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Hippothoe">
+         Hippothoe
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Iphimedeia">
+         Iphimedeia
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Melantho">
+         Melantho
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Molione">
+         Molione
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Theophane">
+         Theophane
+        </a>
+       </li>
+       <li>
+        <a href="PoseidonLoves2.html#Tyro">
+         Tyro
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/PoseidonCult.html">
+       Part 4: Cult of Poseidon 1
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/PoseidonCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/PoseidonCult2.html">
+       Part 4: Cult of Poseidon 2
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Euboia">
+         Euboea, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Lokris">
+         Ozolean Locris, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Tenos">
+         Tenos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Khios">
+         Chios, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Samos">
+         Samos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Kos">
+         Cos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Karia">
+         Caria, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Phrygia">
+         Phrygia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/PoseidonCult2.html#Cult">
+         Cult Titles
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

@@ -1,0 +1,1800 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   HYPERBOREA - Fabulous Northern Land of Greek Legend
+  </title>
+  <meta content="In ancient Greek myth and legend Hyperborea was a fabulous realm of eternal spring located in the far north beyond the home of the north wind. Its people were a blessed, long-lived race untouched by war, hard toil and the ravages of old age and disease. Hyperborea was usually described as a continent-bound land bordered on the north by the great, earth-encircling river Oceanus and on the south the peaks of the legendary Rhipaean Mountains. Its main river was the Eridanus whose banks were lined with amber-weeping poplar-trees and its waters home to flocks of white swans. Blessed with eternal spring, the land producing two crops of grain per year, but most of the countryside was wild and covered with beautiful forests--the so-called garden of Apollo." name="description"/>
+  <meta content="Hyperborea, Hyperboreans, Greek mythology, ancient Greek legend, legendary realm, fabulous northern land, fabulous land of the far north" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sun.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/fabulous-tribes.html">
+      Legendary Realms
+     </a>
+     &gt;&gt; Hyperborea
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HYPERBOREA
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ὑπερβορεα
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Hyperborea
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Hyperborea
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Beyond the North-Wind (
+       <em>
+        hyper, boreas
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     HYPERBOREA was a fabulous realm of eternal spring located in the far north beyond the home of the north wind. Its people were a blessed, long-lived race untouched by war, hard toil and the ravages of old age and disease.
+    </p>
+    <p>
+     Hyperborea was usually described as a continent-bound land bordered on the north by the great, earth-encircling
+     <a href="../Kosmos/Okeanos.html">
+      river Okeanos (Oceanus)
+     </a>
+     , and on the south the peaks of the legendary Rhipaion (Rhipaean) Mountains. Its main river was the
+     <a href="../Potamos/PotamosEridanos.html">
+      Eridanos
+     </a>
+     whose banks were lined with amber-weeping poplar-trees and its waters home to flocks of white swans. Blessed with eternal spring, the land producing two crops of grain per year, but most of the countryside was wild and covered with beautiful forests--the so-called "garden of Apollon."
+    </p>
+    <p>
+     The southern border of Hyperborea was guarded by the bitterly cold peaks of the impassable Rhipaion (Rhipaean) mountains--home to
+     <a href="../Titan/AnemosBoreas.html">
+      Boreas
+     </a>
+     (the North Wind) whose chill breath brought winter to  the lands of the south. Its peaks were inhabited by gold-guarding
+     <a href="../Thaumasios/Grypes.html">
+      Grypes (Griffins)
+     </a>
+     and its valleys  by the fierce, one-eyed
+     <a href="Arimaspoi.html">
+      Arimaspoi tribe
+     </a>
+     . Beneath the southern slopes lay Pterophoros--a desolate, snow-covered land cursed with eternal winter.
+    </p>
+    <p>
+     Hyperborea was a theocracy ruled by three priests of the god
+     <a href="../Olympios/Apollon.html">
+      Apollon
+     </a>
+     . These gigantic kings, known as the
+     <a href="../Gigante/GigantesHyperboreades.html">
+      Boreades
+     </a>
+     , were sons of Boreas (the North Wind). Their capital contained a circular temple dedicated to the god  where hecatombs (a hundred-head) of asses were sacrificed in his honour. The people also celebrated their god in an eternal festival of music, song and dance whose hymns were joined by the sweet song of the circling Hyperborean swans.
+    </p>
+    <p>
+     The realm plays a role  in several myths.
+     <a href="../Titan/Phaethon.html">
+      Phaethon
+     </a>
+     tried to drive the chariot of the sun but lost control and was struck down by Zeus, sending his flaming body plummeting into the Hyperborean river Eridanos. His mourning sisters, the
+     <a href="../Nymphe/NymphaiHeliades.html">
+      Heliades
+     </a>
+     ,  were afterwards transformed into amber-shedding poplar trees on its banks, and his grief-stricken friend Kyknos (Cycnus) into a swan. Elderly Hyperboreans commemorated the event by leaping  into the lake formed by Phaethon's fall to be transformed into white swans.
+     <br/>
+     <a href="../Heros/Perseus.html">
+      Perseus
+     </a>
+     later travelled to Hyperborea  and was entertained by its folk when he was searching for the
+     <a href="../Nymphe/NymphaiThemeides.html">
+      Nymphs
+     </a>
+     who guarded the treasures of the gods, or   else the
+     <a href="../Pontios/Graiai.html">
+      Graiai
+     </a>
+     --swan-bodied hags who could reveal the location of
+     <a href="../Pontios/Gorgones.html">
+      Medousa
+     </a>
+     .
+     <br/>
+     Perseus' descendant Herakles made the same journey on two separate occassions. The first time was in his quest for the
+     <a href="../Ther/ElaphosKerynitis.html">
+      golden-horned deer
+     </a>
+     of Artemis which fled north during the chase. The second time he sought
+     <a href="../Titan/TitanAtlas.html">
+      Atlas
+     </a>
+     and the golden apples of
+     <a href="../Titan/Hesperides.html">
+      Hesperides
+     </a>
+     .
+    </p>
+    <p>
+     Another body of stories describes Hyperboreans as pilgrim-founders of several important Greek shrines. The Delians told a tale of how the pregnant goddess
+     <a href="../Titan/TitanisLeto.html">
+      Leto
+     </a>
+     came to the island from Hyperborea accompanied by a pack of wolves where she gave birth to Apollon with the assistance of Eileithyia who was summoned from the northern realm to further the labour. 
+  After this event, the Hyperboreans sent pilgrims to the island--five men and several maiden-priestesses. 
+  However, after several of
+     <a href="../Nymphe/NymphaiHyperboreiai.html">
+      the maidens
+     </a>
+     were either raped or killed, the Hyperboreans ended the pilgrimage and instead delivered their offerings indirectly through neighbouring tribes and peoples.
+     <br/>
+     The next major shrine connected with the Hyperboreans was the oracle of Apollon at Delphoi. The second of the early, mythical temples of the shrine was said to have been built by Hyperborean pilgrims out of beeswax and  feathers. When the army of the Gauls tried to seize the temple in historical times, phantoms of these prophets were said to have appeared on the battlefield, routing the  army.
+     <br/>
+     Finally they appear in the myths of the founding of the Olympic Games. It was said that when Herakles--either the
+     <a href="../Georgikos/DaktylosHerakles.html">
+      Daktylos
+     </a>
+     or the son of Zeus--established the festival in honour of Zeus he made a pilgrimage to Hyperborea to obtain sacred wild olives for the shrine.
+     <br/>
+     The most famous prophet of the Hyperboreans was probably Abaris who was given a magical arrow by the god Apollon on which he flew around the world performing miracles. Some say this arrow was the one which Apollon had used to slay the
+     <a href="../Titan/Kyklopes.html">
+      Kyklopes (Cyclopes)
+     </a>
+     which had been hidden beneath a Hyperborean mountain.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE HYPERBOREANS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     Human tribe descended from
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 40A)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 40a (from Oxyrhynchus Papyri 1358 fr. 2) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "[The winged Boreades pursued the Harpyiai (Harpies) around the world :] Round about all these [the Boreades] sped in darting flight . . ((lacuna)) of the well-horsed Hyperboreans--whom Gaia (Gaea, the Earth) the all-nourishing bare far off by the tumbling streams of deep-flowing Eridanos . . ((lacuna)) of amber, feeding her wide-scattered offspring."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 7 to Dionysos 27 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "[The captain of the Tyrrhenian pirates who captured the god Dionysos speaks :] ‘As for this fellow we men will see to him: I reckon he is bound for Aigyptos (Egypt) or for Kypros (Cyprus) or to the Hyperboreans or further still.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pindar Pythian Ode 10. 27 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Of the fairest glories that mortals may attain, to him is given to sail to the furthest bound. Yet neither ship nor marching feet may find the wondrous way to the gatherings of the Hyperborean people.
+     <br/>
+     Yet was it with these that Perseus the warrior chief once feasted, entering their homes, and chanced upon their sacrifices unto the god, those famous offerings of hecatombs of asses; for in their banquets and rich praise Apollon greatly delights, and laughs to see the rampant lewdness of those brutish beasts.
+     <br/>
+     Nor is the Mousa (Muse) a stranger to their life, but on all sides the feet of maidens dancing, the full tones of the lyre and pealing flutes are all astir; with leaves of gleaming laurel bound upon their hair, they throng with happy hearts to join the revel. Illness and wasting old age visit not this hallowed race, but far from toil and battle they dwell secure from fate's remorseless vengeance.
+     <br/>
+     There with the breath of courage in his heart, unto that gathering of happy men, by guidance of Athene, came long ago the son of Danaë, Perseus, who slew the Gorgo [i.e. Medousa]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pindar, Olympian Ode 3. 12 ff :
+     </span>
+     <br/>
+     "[The Olympic Games] rites long years ago established by Herakles (Heracles), set on his brow aloft that shining glory, wreathed upon his hair, of the green olive leaf; which once from Istros' (Ister's) [i.e. the river Danube] shady streams Amphitryon's son brought hither, to be the fairest emblem of Olympia's Games.
+     <br/>
+     For the Hyperborean folk, Apollon's servants, he so persuaded with fair words, when, for the all-hospitable grove of Zeus, his loyal heart begged for the tree, to make shade for all men to share, and for brave deeds of valorous spirits, a crown. For he had seen long since his father's [Zeus'] altars sanctified, and the light of evening smiling at mid-month to the golden care of the full-orbèd moon; and of the great Games had set up the contest and sacred judgment, with the rites of the four-yearly feast, on the high banks of Alpheios' (Alpheus') holy river. But the land of Pelops, and the vales by Kronos' (Cronus') hill nourished no lovely trees, and his eyes saw a garden spread defenceless beneath the fierce rays of the sun.
+     <br/>
+     Then at length did his heart bid him be one, to journey to the land of Istria, where, long since, Leto's daughter [Artemis], lover of horsemanship, received him. For he came from Arkadia's high peaks and winding glens, by constraint of his father, to perform the bidding of Eurystheus, and bring back the Hind of the golden horns . . . And in that search he saw, too, the famed land that lay behind cold Boreas (the North Wind) of bleak and frozen breath; and standing there marvelled to see the trees. And in his heart a dear resolve was born, to set them planted there, where ends the course twelve times encircled by the racing steeds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Libation Bearers 372 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Your wish is better than gold. It surpasses great good fortune, even that of the Hyperboreans."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 4. 13. 1 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "There is also a story related in a poem by Aristeas [Greek poet C7th B.C.] son of Kaüstrobios, a man of Prokonnesos. This Aristeas, possessed by Phoibos (Phoebus) [Apollon], visited the Issedones; beyond these (he said) live the one-eyed Arimaspians, beyond whom are the Grypes (Griffins) that guard gold, and beyond these again the Hyperboreans, whose territory reaches to the sea. Except for the Hyperboreans, all these nations (and first the Arimaspians) are always at war with their neighbors; the Issedones were pushed from their lands by the Arimaspoi (Arimaspians), and the Skythians (Scythians) by the Issedones, and the Kimmeroi (Cimmerians), living by the southern sea, were hard pressed by the Skythians and left their country. Thus Aristeas' story does not agree with the Skythian account about this country."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 4. 32 - 36 :
+     </span>
+     <br/>
+     "Concerning the Hyperborean people, neither the Skythians (Scythians) nor any other inhabitants of these lands tell us anything, except perhaps the Issedones. And, I think, even they say nothing; for if they did, then the Skythians, too, would have told, just as they tell of the one-eyed men. But Hesiod speaks of Hyperboreans, and Homer too in his poem
+     <em>
+      The Epigonoi
+     </em>
+     , if that is truly the work of Homer.
+     <br/>
+     But the Delians say much more about them than any others do. They say that offerings wrapped in straw are brought from the Hyperboreans to Skythia; when these have passed Skythia, each nation in turn receives them from its neighbors until they are carried to the Adriatic sea, which is the most westerly limit of their journey; from there, they are brought on to the south, the people of Dodona being the first Greeks to receive them. From Dodona they come down to the Melian gulf, and are carried across to Euboia (Euboea), and one city sends them on to another until they come to Karystos (Carystus); after this, Andros is left out of their journey, for Karystians carry them to Tenos, and Tenians to Delos.Thus (they say) these offerings come to Delos.
+     <br/>
+     But on the first journey, the Hyperboreans sent two maidens bearing the offerings, to whom the Delians give the names Hyperokhe (Hyperoche) and Laodike (Laodice), and five men of their people with them as escort for safe conduct, those who are now called Perpherees and greatly honored at Delos. But when those whom they sent never returned, they took it amiss that they should be condemned always to be sending people and not getting them back, and so they carry the offerings, wrapped in straw, to their borders, and tell their neighbors to send them on from their own country to the next; and the offerings, it is said, come by this conveyance to Delos. I can say of my own knowledge that there is a custom like these offerings; namely, that when the Thrakian (Thracian) and Paionian (Paeonian) women sacrifice to the Royal Artemis, they have straw with them while they sacrifice.
+     <br/>
+     I know that they do this. The Delian girls and boys cut their hair in honor of these Hyperborean maidens, who died at Delos; the girls before their marriage cut off a tress and lay it on the tomb, wound around a spindle (this tomb is at the foot of an olive-tree, on the left hand of the entrance of the temple of Artemis); the Delian boys twine some of their hair around a green stalk, and lay it on the tomb likewise.
+     <br/>
+     In this way, then, these maidens are honored by the inhabitants of Delos. These same Delians relate that two virgins, Arge and Opis, came from the Hyperboreans by way of the aforesaid peoples to Delos earlier than Hyperokhe and Laodike; these latter came to bring to Eileithyia [i.e. Artemis] the tribute which they had agreed to pay for easing child-bearing; but Arge and Opis, they say, came with the gods themselves [i.e. Apollon and Artemis], and received honors of their own from the Delians. For the women collected gifts for them, calling upon their names in the hymn made for them by Olen of Lykia (Lycia0; it was from Delos that the islanders and Ionians learned to sing hymns to Opis and Arge, calling upon their names and collecting gifts (this Olen, after coming from Lycia, also made the other and ancient hymns that are sung at Delos). Furthermore, they say that when the thighbones are burnt in sacrifice on the altar, the ashes are all cast on the burial-place of Opis and Arge, behind the temple of Artemis, looking east, nearest the refectory of the people of Keos.
+     <br/>
+     I have said this much of the Hyperboreans, and let it suffice; for I do not tell the story of that Abaris, alleged to be a Hyperborean, who carried the arrow over the whole world, fasting all the while. But if there are men beyond the north wind (Boreas), then there are others beyond the south. And I laugh to see how many have before now drawn maps of the world, not one of them reasonably; for they draw the world as round as if fashioned by compasses, encircled by the Okeanos (Oceanus) river, and Asia and Europe of a like extent. For myself, I will in a few words indicate the extent of the two, and how each should be drawn."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Charmides 158c (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[If] you are sufficiently temperate, then you never had any need of the charms of Zalmoxis or of Abaris the Hyperborean, and might well be given at once the remedy for the head; but if you prove to be still lacking that virtue, we must apply the charm before the remedy."  [N.B. Abaris was a fabulous prophet from the far north, to whom oracles and charms were ascribed by the Greeks. Cf. Herodotus 4.36.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 27 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Artemis shot him [the giant Orion] as he was forcing his attention on Oupis (Opis), a 
+  virgin who had come from the Hyperboreans."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 114  :
+     </span>
+     <br/>
+     "[The golden apples of the Hesperides :] These apples were not, as some maintain, in Libya, but rather were with Atlas among the Hyperboreans. Ge (Gaea, the Earth) had given them to Zeus when he married Hera."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 119 :
+     </span>
+     <br/>
+     "Prometheus advised Herakles not to go after the apples [of the Hesperides] himself, but rather to relieve Atlas of the celestial sphere and dispatch him. So when Herakles reached Atlas among the Hyperboreans, he remembered Prometheus' advise and took over the sphere. Atlas picked three apples from the garden of the Hesperides, then returned to Herakles."  [N.B. In this passage Atlas holds the heavens aloft in Hyperborea beneath the northern axis around which the stars revolve. Usually he is located in Hesperia in the west.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 674 ff (trans. Seaton) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "And to them [Apollon] the son of Leto appeared, as he passed from Lykia (Lycia) far away to the countless folk of the Hyperboreans; and about his cheeks on both sides his golden locks flowed in clusters as he moved."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 594 ff :
+     </span>
+     <br/>
+     "[On their return voyage to Greece from Kolkhis (Colchis) on the Black Sea the Argonauts sail through the mythically interconnected  rivers of Hyperborea :] Far on sped Argo under sail, and entered deep into the stream of Eridanos (Eridanus); where once, smitten on the breast by the blazing bolt, Phaethon half-consumed fell from the chariot of Helios (the Sun) into the opening of that deep lake; and even now it belcheth up heavy steam clouds from the smouldering wound. And no bird spreading its light wings can cross that water; but in mid-course it plunges into the flame, fluttering. And all around the maidens [the Heliades], the daughters of Helios, enclosed in tall poplars, wretchedly wail a piteous plaint; and from their eyes they shed on the ground bright drops of amber. These are dried by the sun upon the sand; but whenever the waters of the dark lake flow over the strand before the blast of the wailing wind, then they roll on in a mass into Eridanos with swelling tide. But the Keltoi (Celts) have attached this story to them, that these are the tears of Leto's son, Apollon, that are borne along by the eddies, the countless tears that he shed aforetime when he came to the sacred race of the Hyperboreans and left shining heaven at the chiding of his father [Zeus], being in wrath concerning his son [Asklepios (Asclepius)] whom divine Koronis (Coronis) bare in bright Lakereia (Lacerea) at the mouth of Amyros. And such is the story told among these men. But no desire for food or drink seized the heroes nor were their thoughts turned to joy. But they were sorely afflicted all day, heavy and faint at heart, with the noisome stench, hard to endure, which the streams of Eridanos sent forth from Phaethon still burning; and at night they heard the piercing lament of the Heliades (daughters of Helios), wailing with shrill voice; and, as they lamented, their tears were borne on the water like drops of oil.
+     <br/>
+     Thence they entered the deep stream of Rhodanos [the river Rhone] which flows into Eridanos; and where they meet there is a roar of mingling waters. Now that river, rising from the ends of the earth, where are the portals and mansions of Nyx (Night), on one side bursts forth upon the beach of Okeanos (Oceanus), at another pours into the Ionian sea, and on the third through seven mouths sends its stream to the Sardinian sea and its limitless bay. And from Rhodanos they entered stormy lakes, which spread throughout the Celtic mainland of wondrous size; and there they would have met with an inglorious calamity; for a certain branch of the river was bearing them towards a gulf of Okeanos."
+     <br/>
+     [N.B. The Hyperborean river Eridanos flowed directly from the earth-encircling, fresh-water Okeanos-stream.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 4 to Delos 275 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Thou [Delos] art famed as the most holy of islands, nurse of Apollon's youth. On thee treads not Enyo nor Haides nor the horses of Ares; but every year tithes of first-fruits are sent to thee : to thee all cities lead up choirs, both those cities which have cast their lots toward the East and those toward the West and those in the South, and the Hyperboreans--peoples which have their homes above the northern shore--, a very long-lived race. These first bring thee cornstalks and holy sheaves of corn-ears, which the Pelasgians of Dodona [i.e. the famous oracle of Zeus] . . . first receive, as these offerings enter their country from afar. Next they come to the Holy town and mountains of the Malian land; and thence they sail across to the goodly Lelantian plain of the Abantes [i.e. the island of Euboia (Euboea)]; and then not long is the voyage from Euboia, since thy havens are nigh thereto. The first to bring thee these offerings from the fair-haired Arimaspoi were Oupis (Opis) and Loxo and happy Hekaerge (Hecaerge), daughters of Boreas (the North Wind), and those who then were the best of the young men. And they returned no home again, but a happy fate was theirs, and they shall never be without their glory. Verily the girls of Delos, when the sweet-sounded marriage hymn affrights the maidens' quarters, bring offerings of their maiden hair to the maidens, while the boys offer to the young men the first harvest of the down upon their cheeks."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Fragment 187 (from Clement Protrept. 25) (trans. Trypanis) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Phoibos (Phoebus) [Apollon] visits the Hyperborean sacrifices of asses."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Fragment 187 (from Scholiast on Pindar's Pythian 10. 49) :
+     </span>
+     <br/>
+     "Fat sacrifices of asses delight Phoibos (Phoebus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Fragment 215 (from Scholiast on Apollonius Rhodius 4. 284) :
+     </span>
+     <br/>
+     "They [the Hyperboreans] send [offerings to Apollon at Delos] from the Rhipaion (Rhipaean) Mountains."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 2. 47. 1 - 6 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Since we have seen fit to make mention of the regions of Asia which lie to the north, we feel that it will not be foreign to our purpose to discuss the legendary accounts of the Hyperboreans. Of those who have written about the ancient myths, Hekataios (Hecataeus) [Greek philosopher C4th B.C.] and certain others say that in the regions beyond the land of the Keltoi (Celts) there lies in Okeanos (Oceanus) an island no smaller than Sikelia (Sicily). This island, the account continues, is situated in the north and is inhabited by the Hyperboreans, who are called by that name because their home is beyond the point whence the north wind (Boreas) blows; and the island is both fertile and productive of every crop, and since it has an unusually temperate climate it produces two harvests each year.
+     <br/>
+     Moreover, the following legend is told concerning it: Leto was born on this island, and for that reason Apollon is honoured among them above all other gods; and the inhabitants are looked upon as priests of Apollon, after a manner, since daily they praise this god continuously in song and honour him exceedingly. And there is also on the island both a magnificent sacred precinct of Apollon and a notable temple which is adorned with many votive offerings and is spherical in shape. Furthermore, a city is there which is sacred to this god, and the majority of its inhabitants are players on the cithara; and these continually play on this instrument in the temple and sing hymns of praise to the god, glorifying his deeds.
+     <br/>
+     The Hyperboreans also have a language, we are informed, which is peculiar to them, and are most friendly disposed towards the Greeks, and especially towards the Athenians and the Delians, who have inherited this good-will from most ancient times. The myth also relates that certain Greeks visited the Hyperboreans and left behind them there costly votive offerings bearing inscriptions in Greek letters. And in the same way, Abaris, a Hyperborean, came to Greece in ancient times and renewed the goodwill and kinship of his people to the Delians.
+     <br/>
+     They say also that the moon, as viewed from this island appears to be but a little distance from the earth and to have upon it prominences, like those of the earth, which are visible to the eye. The account is also given that the god visits the island every nineteen years, the period in which the return of the stars to the same place in the heavens is accomplished; and for this reason the nineteen-year period is called by the Greeks the ‘year of Meton.’ At the time of this appearance of the god he both plays on the cithara and dances continuously the night through from the vernal equinox until the rising of the [constellation] Pleiades, expressing in this manner his delight in his successes. And the kings of this city are called Boreadae, since they are descendants of Boreas (the North Wind), and the succession to these positions is always kept in their family."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 3. 59. 6 :
+     </span>
+     <br/>
+     "[In Phrygian mythology] Apollon, they say, laid away both the lyre and the pipes as a votive offering in the cave of Dionysos, and becoming enamoured of Kybelê (Cybele) joined in her wanderings as far as the land of the Hyperboreans."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 51. 1 - 4 :
+     </span>
+     <br/>
+     "[Medea living with Jason in the Thessalian kingdom of Pelias disguises herself as an Hyperborean priestess of Artemis :] Medea fashioning a hollow image of Artemis secreted in it drugs of diverse natures, and as for herself, she anointed her hair with certain potent ointments and made it grey, and filled her face and body so full of wrinkles that all who looked upon her thought that she was surely an old woman. And finally, taking with her the statue of the goddess which had been so made as to strike with terror the superstitious populace and move it to fear of the gods, at daybreak she entered the city.
+     <br/>
+     She acted like one inspired, and as the multitude rushed together along the streets she summoned the whole people to receive the goddess with reverence, telling them that he goddess had come to them from the Hyperboreans to bring good luck to both the whole city and the king. And while all the inhabitants were rendering obeisance to the goddess and honouring her with sacrifices, and the whole city, in a word, was, along with Medea herself, acting like people inspired, she entered the palace . . . For she declared that Artemis, riding through the air upon a chariot drawn by Drakones (Dragon-Serpents), had flown in the air over many parts of the inhabited earth and had chosen out the realm of the most pious king in all the world for the establishment of her own worship and for honours which should be for ever and ever."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 7. 3. 1 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "It is because of men's ignorance of these regions [i.e. the land of the Thrakian Getai (Thracian Getae), now Bulgaria-Romania] that any heed has been given to those who created the mythical ‘Rhipaíon (Rhipaean) Mountains and Hyperborean,’ and also to all those false statements made by Pytheas the Massalian [Greek writer C4th B.C.] regarding the country along the Okeanos (Oceanus), wherein he uses as a screen his scientific knowledge of astronomy and mathematics. So then, those men should be disregarded; in fact, if even Sophokles [tragedian C5th B.C.], when in his role as a tragic poet he speaks of Oreithyia, tells how she was snatched up by Boreas (the North Wind) and carried ‘over the whole sea to the ends of the earth and to the sources of night and to the unfoldings of heaven and to [Hyperborea] the ancient garden of Phoibos (Phoebus) [Apollon].’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 18. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[In Athens] is built a temple of Eileithyia, who they say came from the Hyperboreans to Delos and helped Leto in her labour; and from Delos the name spread to other peoples. The Delians sacrifice to Eileithyia and sing a hymn of Olen [a legendary poet] . . . Only among the Athenians are the wooden figures of Eileithyia draped to the feet . . . the third, which is the oldest, Erysikhthon (Erysichthon) brought from Delos.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 31. 2  :
+     </span>
+     <br/>
+     "At Prasiai (Prasiae) [a village near Athens] is a temple of Apollon. Hither they say are sent the first-fruits of the Hyperboreans, and the Hyperboreans are said to hand them over to the Arimaspoi (Arimaspians), the Arimaspoi to the Issedones, from these the Skythians (Scythians) bring them to Sinope, thence they are carried by Greeks to Prasiai , and the Athenians take them to Delos. The first-fruits are hidden in wheat straw, and they are known of none. There is at Prasiai a monument to Erysikhthon, who died on the voyage home from Delos, after the sacred mission thither."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 13. 2  :
+     </span>
+     <br/>
+     "The Lakedaimonians (Lacedaemonians) [of Sparta] have a temple of the Saviour Maid [i.e. Artemis]. Some say that it was made by Orpheus the Thrakian (Thracian), others by Abaris when he had come from the Hyperboreans."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 7. 6 - 9 :
+     </span>
+     <br/>
+     "As for the Olympic games, the most learned antiquaries of Elis say that Kronos (Cronus) was the first king of heaven, and that in his honor a temple was built in Olympia by the men of that age, who were named the Golden Race. When Zeus was born, Rhea entrusted the guardianship of her son to the Daktyloi (Dactyls) of Ida . . . They came from Kretan (Cretan) Ida--Herakles, Paionaios, Epimedes, Iasios and Idas. Herakles, being the eldest, matched his brothers, as a game, in a running-race, and crowned the winner with a branch of wild olive, of which they had such a copious supply that they slept on heaps of its leaves while still green. It is said to have been introduced into Greece by Herakles from the land of the Hyperboreans, men living beyond the home of Boreas (the North Wind).
+     <br/>
+     Olen the Lykian (Lycian) [semi-legendary poet], in his hymn to Akhaeia (Achaeia), was the first to say that from these Hyperboreans Akhaeia came to Delos. When Melanopos of Kyme (Cyme) composed an ode to Oupis (Opis) and Hekaerge (Hecaerge) declaring that these, even before Akhaeia, came to Delos from the Hyperboreans.
+     <br/>
+     And Aristeas of Prokonnesos [semi-legendary poet C7th B.C.]--for he too made mention of the Hyperboreans--may perhaps have learnt even more about them from the Issedones, to whom he says in his poem that he came."
+     <br/>
+     [N.B. In Pindar the Herakles who fetches the sacred olive-tree from Hyperborea is the great hero rather than the Dakylos. The two were often confounded.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 5. 7 - 9 :
+     </span>
+     <br/>
+     "[On the founding of the Delphic Oracle :] Boeo, a native woman who composed a hymn for the Delphians, said that the oracle was established for the god [Apollon] by comers from the Hyperboreans, Olen [a semi-legendary poet] and others, and that he was the first to prophesy and the first to chant the hexameter oracles [i.e. like the Phthia]. The verses of Boeo are :--‘Here in truth a mindful oracle was built by the sons of the Hyperboreans, Pagasos and divine Agyieos.’ 
+  After enumerating others also of the Hyperboreans, at the end of the hymn she names Olen :--‘And Olen, who became the first prophet of Phoibos (Phoebus), and first fashioned a song of ancient verses.’                  Tradition, however, reports no other man as prophet, but makes mention of prophetesses only.
+     <br/>
+     They say that the most ancient temple of Apollo was made of laurel, the branches of which were brought from the laurel in Tempe. This temple must have had the form of a hut. The Delphians say that the second temple was made by bees from bees-wax and feathers, and that it was sent to the Hyperboreans by Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 4. 4 :
+     </span>
+     <br/>
+     "[The Gauls invaded Greece in 279 B.C.:] Now south of the Gates [of Thermopylai], [they] cared not at all to capture the other towns, but were very eager to sack Delphoi and the treasures of the god [Apollon]. They were opposed by the Delphians themselves and the Phokians of the cities around Parnassos; a force of Aitolians (Aetolians) also joined the defenders, for the Aitolians at this time were pre-eminent for their vigorous activity. When the forces engaged, not only were thunderbolts and rocks broken off from Parnassos hurled against the Gauls, but terrible shapes as armed warriors haunted the foreigners. They say that two of them, Hyperokhos (Hyperochus) and Amadokos (Amadocus), came from the Hyperboreans, and that the third was Pyrrhos son of Akhilleus (Achilles)."
+     <br/>
+     [N.B. In this account of an historical battle with the Gauls near Delphoi, the mythical heroes Hyperokhos, Amadokos and Pyrrhos appear on the scene as phantoms to frighten the enemy troops. Pyrrhos--better known as Neoptolemos--was a hero of the Trojan War who was buried at Delphoi--,and the Hyperboreans were presumably those reputed to have founded the shrine. Cf. Pausanias 10.5.7 above.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 20 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Apollon and Artemis had a very great affection for him [the Babylonian man Klinis (Clinis)] and he frequently attended with these gods the temple of Apollon in the land of the Hyperboreoi where he saw the consecration of the sacrifices of asses to the god. 
+  Returning to Babylon, he too wanted to worship the god as among the Hyperboreans and arranged by the altar a hecatomb of asses. Apollon appeared and threatened him with death if he did not cease from this sacrifice and did not offer up to him the usual goats, sheep and cattle. 
+  For this sacrifice of asses was a source of pleasure for the god only if carried out by the Hyperboreans."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 4. 4 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "Wolves are not easily delivered of their young, only after twelve days and twelve nights, for the people of Delos maintain that this was the length of time that it took Leto to travel from the Hyperboreans to Delos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 11. 1 :
+     </span>
+     <br/>
+     "The race of the Hyperboreans and the honours there paid to Apollon are sung of by poets and are celebrated by historians, among whom is Hekataios (Hecataeus), not of Miletos but of Abdera [Greek philosopher C4th B.C.] . . . 
+  This god [Apollon] has as priests the sons of Boreas (the North Wind) and Khione (Chione, Snow), three in number, brothers by birth, and six cubits in height. So when at the customary time they perform the established ritual of the aforesaid god there swoop down from what are called the Rhipaion (Rhipaean) mountains swans in clouds, past numbering, and after they have circled round the temple as though they were purifying it by their flight, they descend into the precinct of the temple, an area of immense size and of surpassing beauty. Now whenever the singers sing their hymns to the god and the harpers accompany the chorus with their harmonious music, thereupon the swans also with one accord join in the chant and never once do they sing a discordant note or out of tune, but as though they had been given the key by the conductor they chant in unison with the natives who are skilled in the sacred melodies. Then when the hymn is finished the aforesaid winged choristers, so to call them, after their customary service in honour of the god and after singing and celebrating his praises all through the day, depart."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 11. 10 :
+     </span>
+     <br/>
+     "I have mentioned the swans from the Rhipaion (Rhipaean) Mountains in the country of the Hyperboreans on account of their daily and assiduous service of [Apollon] the son of Zeus and Leto."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 2. 26 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Aristotle says that Pythagoras [C6th B.C.] was addressed by the citizens of Kroton (Crotus) as Apollon Hyperboreus (of the Hyperboreans)." [N.B.Probably because Pythagoras was regarded a prophet of the northern Mysteries.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 11 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "Golden are the tears of the daughters of Helios (the Sun). The story is that they are shed for Phaëthon; for in his passion for driving this son of Helios ventured to mount his father's chariot, but because he did not keep a firm rein he came to grief and fell into the [river] Eridanos (Eridanus) . . . Now the youth is thrown from the chariot and is falling headlong--for his hair is on fire and his breast smouldering with the heat; his fall will end in the river Eridanos and will furnish this stream with a mythical tale. For swans scattered about, breathing sweet notes, will hymn the youth; and flocks of swans rising aloft will sing the story to Kaÿstros (Cayster) and Istros (Ister) [rivers of Lykia and Skythia]; nor will any place fail to hear the strange story. And they will have Zephyros (the West Wind), nimble god of wayside shrines, to accompany their song, for it is said that Zephyros has made a compact with the swans to join them in the music of the dirge. This agreement is even now being carried out, for look! The wind is playing on the swans as on musical instruments."  [N.B.The swans were said to spend the summer on the Kaystros river in Lydia and the winter on the Istros amongst the Hyperboreans. Cf. Himerius 79. 17d (not quoted here).]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement, Exhortation to the Greeks  3 (trans. Butterworth) (Greek Christian rhetoric C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "These temples [those of the pagan Greeks] . . . are called by a fair-sounding name, but in reality they are tombs. But I appeal to you, even at this late hour forget daimon-worship, feeling ashamed to honour tombs . . . Why recount to you the Hyperborean women? They are called Hyperokhe (Hyperoche) and Laodike (Laodice), and they lie in the Artemision (Temple of Artemis) at Delos; this is in the temple precincts of Delian Apollon."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 15 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Eratosthenes [Greek writer C3rd B.C.] says about the Arrow, that with this Apollo killed the Cyclopes who forged the thunderbolt by which Aesculapius [Asclepius] died. Apollo had buried this arrow in the Hyperborean mountain, but when Jupiter [Zeus] pardoned his son, it was borne by the wind and brought to Apollo along with the grain which at that time was growing. Many point out that for this reason it is among the constellations."  [N.B. Presumably the "arrow in the Hyperborean mountain" is connected with the tale of Abaris--the Hyperborean, arrow-riding prophet of Apollon.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 352 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Or if some black bitumen catches fire or yellow sulphur burns with little smoke, then surely, when the ground no longer gives such food and oily nutriment for flames . . . 'Tis said that Hyperboreans of Pallene can cover all their bodies with light plumes by plunging nine times in Minerva's [Athena's] marsh [i.e. a lake of bitumen]. But I cannot believe another tale: that Scythian women get a like result by having poison sprinkled on their limbs."
+     <br/>
+     [N.B. The bitumen marsh  is presumably the mythical swamp of  the Eridanos formed when Phaethon fell into the river after he was struck from the chariot of the sun by Zeus. The swans of Hyperborea were said to rise from its waters.  In Ovid's story the Hyperborean people are transformed into swans after bathing in its waters. Cf. Ovid's myth of the metamorphosis of Kyknos (Cycnus) "the Swan," friend of Phaethon.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 195 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "When the gathered Aquilo (the North Wind) [Boreas] swoops down from Hyperborean coasts, driving on Scythia's storms and dry clouds."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 4. 88 ff (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "Along the [Black Sea] coast [of Europe], as far as the river Tanais [the Don], are the Maeotae [a Scythian tribe] . . . and last of all in the rear of the Maeotae are the Arimaspi (Arimapsians). Then come the Ripaean Mountains [probably the Carpathians] and the region called Peterophorus (‘wing-bringers’), because of the feather-like snow continually falling there; it is a part of the world that lies under the condemnation of nature and is plunged in dense darkness, and occupied only by the work of frost and the chilly lurking-places of Aquilo (the North Wind) [Boreas]. Behind these mountains and beyond Aquilo there dwells--if we can believe it--a happy race of people called the Hyperboreans, who live to extreme old age and are famous for legendary marvels. Here are believed to be the hinges on which the firmament turns and the extreme revolutions of the stars, with six months' daylight and a single day of the sun in retirement, not as the ignorant have said, from the spring equinox till autumn: for these people the sun rises once in the year, at midsummer, and sets once, at midwinter. It is a genial region, with a delightful climate and exempt from every harmful blast. The homes of the natives are the woods and groves; they worship the gods severally and in congregations; all discord and all sorrow is unknown. Death comes to them only when, owing to the satiety of life, after holding a banquet and anointing their old age with luxury, they leap from a certain rock into the sea: this mode of burial is the most blissful. Some authorities have placed these people not in Europe but on the nearest part of the coasts of Asia, because there is a race there with similar customs and a similar location, named the Attaci; others have put them midway between the two suns, the sunsets of the antipodes and our sunrise, but this is quite impossible because of the enormous expanse of sea that comes between. Those who locate them merely in a region having six months of daylight have recorded that they sow in the morning periods, reap at midday, pluck the fruit from the trees at sunset, and retire into caves for the night. Nor is it possible to doubt about this race, as so may authorities state that they regularly send the first fruits of their harvests to Delos as offerings to Apollo, whom they specially worship. These offerings used to be brought by virgins, who for many years were held in veneration and hospitably entertained by the nations on the route, until because of a violation of good faith they instituted the custom of depositing their offerings at the nearest frontiers of the neighbouring people, and these of passing them on to their neighbours, and so till they finally reached Delos. Later this practice itself also passed out of use."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 6. 34 :
+     </span>
+     <br/>
+     "From the extreme north-north-east to the northernmost point at which the sun rises in summer there are the Scythians, and outside of them and beyond the point where north-north-east begins some have placed the Hyperboreans, who are said by a majority of authorities to be in Europe. After that point the first place known is Lytharmis, a promontory of Celtica, and the river Carambucis, where the range of the Ripaean Mountains terminates and with it the rigour of the climate relaxes; here we have reports of a people called the Arimphaei, a race not unlike the Hyperboreans. They dwell in forests and live on berries; long hair is deemed to be disgraceful in the case of women and men alike; and their manners are mild. Consequently they are reported to be deemed a sacred race and to be left unmolested by the savage tribes uamong their neighbours, this immunity not being confined to themselves but extended also to people who have fled to them for refuge. Beyond them we come directly to the Scythians, Cimmerians, Cissi, Anthi, Georgi, and a race of Amazones, the last reaching to the Caspian and Hyrcanian Sea."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 930 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Traverse nations remote, unknown; though a land on the remotest confines of the world hold thee separated by Oceanus' tracts, though thou take up thy dwelling in the world opposite our feet, though thou escape to the shuddering realms of the high north and hide deep in its farthest corner, and though, placed beyond the reach of winter (Hyperborea) and his hoar snows, thou leave behind thee the threatening rage of cold Boreas (the North Wind)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 8. 209 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "No lake, no river of Scythia but mourns for her as she passes; the sight of her . . . stirred the Hyperborean snows."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 694 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The frosty wagoner of the Hyperborean Bear droops languidly, with backward slanting pole." [N.B. The constellation known as Ursa Major or the Wain circles the heavenly pole above the land of the Hyperboreans.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 5. 390 ff :
+     </span>
+     <br/>
+     "Even so does Jupiter [Zeus] lash the green fields with Hyperboreans snow; beasts of all kinds perish on the plains, and birds are overtaken and fall dead, and the harvest is blasted with untimely frost; then is there thundering on the heights, and fury in the rivers." [N.B. Hyperborea is here any land of the far north rather than the fabulous realm of eternal spring.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 12. 650 ff :
+      <br/>
+     </span>
+     "As when Jupiter [Zeus] plants his cloudy footsteps upon the Hyperborean pole and makes the stars tremble at the oncoming of winter, Aeolia [the island home of the winds] is riven, and the storm, indignant at its long idleness, takes heart, and the North whistles with the hurricane; then roar the mountains and the waves, clouds battle in the blind gloom, and thunders and crazed lightnings revel." 
+  [N.B. Winter rises in Hyperborea or rather from the mountains lying south of it.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 132 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Abaris also you have heard of, whom Phoibos (Phoebus) [Apollon] through the air perched on his winged roving arrow."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Abaris (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Abaris : Skythian (Scythiaan), son of Seuthes. He wrote the so-called
+     <em>
+      Skythinian Oracles
+     </em>
+     and
+     <em>
+      Marriage of the river Hebros
+     </em>
+     and
+     <em>
+      Purifications
+     </em>
+     and a
+     <em>
+      Theogony
+     </em>
+     in prose and
+     <em>
+      Arrival of Apollon among the Hyperboreans
+     </em>
+     in meter. He came from Skythia (Scythia) to Greece.  The legendary arrow belongs to him, the one he flew on from Greece to Hyperborean Skythia. It was given to him by Apollon.
+     <br/>
+     Gregory the Theologian [Christian writer C4th A.D.] mentioned this man in his
+     <em>
+      Epitaphios for Basil the Great
+     </em>
+     . They say that once, when there was a plague throughout the entire inhabited world, Apollon told the Greeks and barbarians who had come to consult his oracle that the Athenian people should make prayers on behalf of all of them. So, many peoples sent ambassadors to them, and Abaris, they say, came as ambassador of the Hyperboreans in the third Olympiad."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Charmides
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClementExhortation1.html">
+       Clement, Exhortation to the Greeks
+      </a>
+      <span class="sources-detail">
+       - Christian Scholar C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     HYPERBOREA SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      REALM OF HYPERBOREA
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Qualities
+       </th>
+       <td>
+        Blessed land of eternal spring
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Location
+       </th>
+       <td>
+        Northern Europe
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     MYTHIC REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="../Kosmos/Elysion.html">
+       Elysium, Home of the Blessed Dead
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Haides.html">
+       Hades I, Realm of the Dead (Archaic)
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Haides2.html">
+       Hades II, Realm of the Dead (Mystic)
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Okeanos.html">
+       Oceanus, Earth-Encircling River
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Olympos.html">
+       Olympus, Home of the Gods
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Tartaros.html">
+       Tartarus I, Pit Beneath the Earth
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Tartaros2.html">
+       Tartarus II, Dungeon of the Damned
+      </a>
+     </li>
+    </ul>
+    <h2>
+     LEGENDARY REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="Atlantes.html">
+       Atlantis, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Erytheia.html">
+       Erytheia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="Heliades.html">
+       Heliades, Land of the Far South
+      </a>
+     </li>
+     <li>
+      <a href="../Titan/Hesperides.html">
+       Hesperia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      Hyperborea, Land of the Far North
+     </li>
+     <li>
+      <a href="Pankhaia.html">
+       Panchaea, Land of the Far South
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

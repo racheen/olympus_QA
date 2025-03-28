@@ -1,0 +1,3635 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   EROS - Greek God of Love (Roman Cupid, Amor)
+  </title>
+  <meta content="Eros was the mischievous ancient Greek god of love, a minion and constant companion of the goddess Aphrodite. He lit the flame of love in the hearts of the gods and men, armed with either a bow and arrows or a flaming torch. Eros was depicted as either a handsome youth or child. His attributes were varied--from the usual bow and arrows, to the gifts of a lover such as a hare, sash, or flower. His Roman name was Cupid." name="description"/>
+  <meta content="Eros, Greek mythology, Greek god of love, Eros pictures, Cupid, Amor" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt;
+     <a href="Erotes.html">
+      Erotes
+     </a>
+     &gt;&gt; Eros
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     EROS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ερως
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Erôs
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Cupid, Amor
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Love, Sexual Desire
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/K32.1.html">
+      <img alt="Eros playing flute | Athenian red-figure lekythos C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/K32.1Eros.jpg"/>
+     </a>
+     <figcaption>
+      Eros playing flute, Athenian red-figure lekythos C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     EROS was the mischievous god of love, a minion and constant companion of the goddess
+     <a href="../Olympios/Aphrodite.html">
+      Aphrodite
+     </a>
+     .
+    </p>
+    <p>
+     The poet Hesiod first represents him as a primordial deity who emerges self-born at the beginning of time to spur procreation. (See the
+     <a href="../Protogenos/Eros.html">
+      Protogenos Eros
+     </a>
+     and
+     <a href="../Protogenos/Phanes.html">
+      Phanes
+     </a>
+     for more information.) 
+  The same poet later describes two love-gods, Eros and
+     <a href="ErosHimeros.html">
+      Himeros
+     </a>
+     (Desire), accompanying Aphrodite at the time of her birth from the sea-foam. Some classical writers interpreted this to mean the pair were born of the goddess immediately following her birth or else alongside her from the sea-foam. The scene was particular popular in ancient art where the godlings flutter about the goddess as she reclines inside a conch-shell.
+    </p>
+    <p>
+     Eventually Eros was multiplied by ancient poets and artists into a host of
+     <a href="Erotes.html">
+      Erotes
+     </a>
+     (Roman Cupides). 
+  The singular Eros, however, remained distinct in myth. It was he who lit the flame of love in the hearts of the gods and men, armed with either a bow and arrows or a flaming torch. Eros was often portrayed as the disobedient but fiercely loyal child of Aphrodite.
+    </p>
+    <p>
+     In ancient vase painting Eros is depicted as either a handsome youth or child. His attributes were varied--from the usual bow and arrows, to the gifts of a lover such as a hare, sash, or flower. Sculptors preferred the image of the bow-armed boy, whereas mosaic artists favoured the figure of a winged
+     <em>
+      putto
+     </em>
+     (plump baby).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF EROS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Olympios/Aphrodite.html">
+      APHRODITE
+     </a>
+     <span class="family-refs">
+      (Ibycus Frag 284, Anacreontea Frag 44, Apollonius Rhodius 3.82, Pausanias 9.27.1, Plato Phaedrus, Philostratus Younger 8, Oppian Halieutica 4.10, Hyginus Astronomica 2.30, Ovid Metamorphoses 1.452 &amp; 5.363, Seneca Phaedra 274, Statius Silvae 1.2.51, Apuleius 11.218, Nonnus Dionysiaca 4.238 &amp; 33.4)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Olympios/Ares.html">
+      ARES
+     </a>
+     &amp;
+     <a href="../Olympios/Aphrodite.html">
+      APHRODITE
+     </a>
+     <span class="family-refs">
+      (Ibycus Frag 575, Nonnus Dionysiaca 5.88)
+     </span>
+     <br/>
+     [1.3]
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     &amp;
+     <a href="../Olympios/Aphrodite.html">
+      APHRODITE
+     </a>
+     (she was born pregnant with Eros from the genitals of Ouranos)
+     <span class="family-refs">
+      (possibly Hesiod Theogony 176, Sappho Frag 198, Nonnus Dionysiaca 33.4 &amp; 41.128)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Sappho Frag 198)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Titan/AnemosZephyros.html">
+      ZEPHRYOS
+     </a>
+     &amp;
+     <a href="../Pontios/Iris.html">
+      IRIS
+     </a>
+     <span class="family-refs">
+      (Alcaeus Frag 327)
+     </span>
+     <br/>
+     [4.1]
+     <a href="Eileithyia.html">
+      EILEITHYIA
+     </a>
+     <span class="family-refs">
+      (Pausanias 9.27.1)
+     </span>
+     <br/>
+     [5.1]
+     <a href="../Daimon/Poros.html">
+      POROS
+     </a>
+     &amp;
+     <a href="../Daimon/Penia.html">
+      PENIA
+     </a>
+     <span class="family-refs">
+      (Plato Symposium 178)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Daimon/Hedone.html">
+      HEDONE
+     </a>
+     (by
+     <a href="Psykhe.html">
+      Psykhe
+     </a>
+     )
+     <span class="family-refs">
+      (Apuleius 6.24)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     EROS (Erôs), in Latin, AMOR or CUPI′DO, the god of love. In the sense in which he is usually conceived, Eros is the creature of the later Greek poets; and in order to understand the ancients properly we must distinguish three Erotes: viz. the Eros of the ancient cosmogonies, the Eros of the philosophers and mysteries, who bears great resemblance to the first, and the Eros whom we meet with in the epigrammatic and erotic poets, whose witty and playful descriptions of the god, however, can scarcely be considered as a part of the ancient religious belief of the Greeks. Homer does not mention Eros, and Hesiod, the earliest author that mentions him, describes him as the cosmogonic Eros. First, says Hesiod (
+     <em>
+      Theog.
+     </em>
+     120, &amp;c.), there was Chaos, then came Ge, Tartarus, and Eros, the fairest among the gods, who rules over the minds and the council of gods and men. In this account we already perceive a combination of the most ancient with later notions.
+    </p>
+    <p>
+     According to the former, Eros was one of the fundamental causes in the formation of the world, inasmuch as he was the uniting power of love, which brought order and harmony among the conflicting elements of which Chaos consisted. In the same metaphysical sense he is conceived by Aristotle (
+     <em>
+      Metaph.
+     </em>
+     i. 4); and similarly in the Orphic poetry (Orph.
+     <em>
+      Hymn.
+     </em>
+     5; comp. Aristoph.
+     <em>
+      Av.
+     </em>
+     695) he is described as the first of the gods, who sprang from the world's egg. In Plato's Symposium (p. 178,b) he is likewise called the oldest of the gods. It is quite in accordance with the notion of the cosmogonic Eros, that he is described as a son of Cronos and Ge, of Eileithyia, or as a god who had no parentage, and came into existence by himself. (Paus. ix. c. 27.) The Eros of later poets, on the other hand, who gave rise to that notion of the god which is most familiar to us, is one of the youngest of all the gods. (Paus.
+     <em>
+      l. c. ;
+     </em>
+     Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 23.) The parentage of the second Eros is very differently described, for he is called a son of Aphrodite (either Aphrodite Urania or Aphrodite Pandemos), or Polymnia, or a son of Porus and Penia, who was begotten on Aphrodite's birthday. (Plat.
+     <em>
+      l. c. ;
+     </em>
+     Sext. Emp.
+     <em>
+      adv. Math.
+     </em>
+     i. 540.) According to other genealogies, again, Eros was a son of Hermes by Artemis or Aphrodite, or of Ares by Aphrodite (Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 23), or of Zephyrus and Iris (Plut.
+     <em>
+      Amal.
+     </em>
+     20; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 555), or, lastly, a son of Zeus by his own daughter Aphrodite, so that Zeus was at once his father and grandfather. (Virg.
+     <em>
+      Cir.
+     </em>
+     134.) Eros in this stage is always conceived and was always represented as a handsome youth, and it is not till about after the time of Alexander the Great that Eros is represented by the epigrammatists and the erotic poets as a wanton boy, of whom a thousand tricks and cruel sports are related, and from whom neither gods nor men were safe. He is generally described as a son of Aphrodite; but as love finds its way into the hearts of men in a manner which no one knows, the poets sometimes describe him as of unknown origin (Theocrit. xiii. 2), or they say that he had indeed a mother, but not a father. (Meleagr.
+     <em>
+      Epigr.
+     </em>
+     50.) In this stage Eros has nothing to do with uniting the discordant elements of the universe, or the higher sympathy or love which binds human kind together; but he is purely the god of sensual love, who bears sway over the inhabitants of Olympus as well as over men and all living creatures: he tames lions and tigers, breaks the thunderbolts of Zeus, deprives Heracles of his arms, and carries on his sport with the monsters of the sea. (Orph.
+     <em>
+      Hymn.
+     </em>
+     57 ; Virg.
+     <em>
+      Eclog.
+     </em>
+     x. 29; Mosch.
+     <em>
+      Idyll.
+     </em>
+     vi. 10; Theocrit. iii. 15.) His arms, consisting of arrows, which he carries in a golden quiver, and of torches, no one can touch with impunity. (Mosch.
+     <em>
+      Idyll.
+     </em>
+     vi.; Theocrit. xxiii. 4; Ov.
+     <em>
+      Trist.
+     </em>
+     v. 1, 22.) His arrows are of different power: some are golden, and kindle love in the heart they wound; others are blunt and heavy with lead, and produce aversion to a lover. (Ov.
+     <em>
+      Met.
+     </em>
+     i. 468; Eurip.
+     <em>
+      Iphig. Aul.
+     </em>
+     548.) Eros is further represented with golden wings, and as fluttering about like a bird. (Comp. Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 987.) His eyes are sometimes covered, so that he acts blindly. (Theocrit. x. 20.) He is the usual companion of his mother Aphrodite, and poets and artists represent him, moreover, as accompanied by such allegorical beings as Pothos, Himeros, Dionysus, Tyche, Peitho, the Charites or Muses. (Pind.
+     <em>
+      Ol.
+     </em>
+     i. 41; Anacr. xxxiii. 8; Hesiod,
+     <em>
+      Theog.
+     </em>
+     201; Paus. vi. 24. § 5, vii. 26. § 3, i. 43. §6.) His statue and that of Hermes usually stood in the Greek gymnasia. (Athen. xiii. p. 551; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1596.)
+    </p>
+    <p>
+     We must especially notice the connexion of Eros with Anteros, with which persons usually connect the notion of "Love returned." But originally Anteros was a being opposed to Eros, and fighting against him. (Paus. i. 30. § 1, vi. 23. § 4.) This conflict, however, was also conceived as the rivalry existing between two lovers, and Anteros accordingly punished those who did not return the love of others; so that he is the avenging Eros, or a
+     <em>
+      deus ultor.
+     </em>
+     (Paus. i. 30. § 1;
+     <em>
+      Ov. Met.
+     </em>
+     xiii. 750, &amp;c.; Plat.
+     <em>
+      Phaedr.
+     </em>
+     p. 255, d.) The number of Erotes (Amores and Cupidines) is playfully extended ad libitum by later poets, and these Erotes are described either as sons of Aphrodite or of nymphs. Among the places distinguished for their worship of Eros, Thespiae in Boeotia stands foremost: there his worship was very ancient, and the old representation of the god was a rude stone (Paus. ix. 27. § 1), to which in later times, however, the most exquisite works of art were added. (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 266.) At Thespiae a quinquennial festival, the Erotidia or Erotia, were celebrated in honour of the god. (Paus.
+     <em>
+      l. c.;
+     </em>
+     Athen. xiii. p. 561.) Besides Sparta, Samos, and Parion on the Hellespont, he was also worshipped at Athens, where he had an altar at the entrance of the Academy. (Paus. i. 30. § 1.) At Megara his statue, together with those of Himeros and Pothos, stood in the temple of Aphrodite. (Paus. i. 43. § 6, comp. iii. 26. § 3, vi. 24. § 5, vii. 26. § 3.) Among the things sacred to Eros, and which frequently appear with him in works of art, we may mention the rose, wild beasts which are tamed by him, the hare, the cock, and the ram. Eros was a favourite subject with the ancient statuaries, but his representation seems to have been brought to perfection by Praxiteles, who conceived him as a full-grown youth of the most perfect beauty. (Lucian,
+     <em>
+      Am.
+     </em>
+     ii. 17; Plin.
+     <em>
+      H. N.
+     </em>
+     xxxvi. 4, 5.) In later times artists followed the example of poets, and represented him as a little boy.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     <a>
+     </a>
+     PARENTAGE  OF EROS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K32.12.html">
+      <img alt="Eros chasing deer | Apulian red-figure lekanis C4th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/K32.12Eros_sm.jpg"/>
+     </a>
+     <figcaption>
+      Eros chasing deer, Apulian red-figure lekanis C4th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I. ALTERNATE GENEALOGIES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Scholiast on Apollonius of Rhodes (trans. Campbell, Vol. Greek Lyric III Ibycus Frag 324) (Greek scholia) :
+     </span>
+     <br/>
+     "Apollonios (Apollonius) [Greek poet C3rd B.C.] makes Eros child of Aphrodite, Sappho [Greek poet C6th B.C.] makes him child of Ge (Gaea, Earth) and Ouranos (Uranus, Sky), Simonides [Greek poet C6th-5th B.C.] child of Aphrodite and Ares, Ibykos (Ibycus) [poet C6th B.C.] . . ((lacuna)), and Hesiod [Greek poet C8th-7th B.C.] says Eros came from Khaos (Chaos)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Scholiast on Theocritus (trans. Campbell, Vol. Greek Lyric I Sappho, Fragment 198) (Greek scholia) :
+     </span>
+     <br/>
+     "Alkaios (Alcaeus) [Greek poet C6th B.C.] said Eros was the child of Iris (Rainbow) and Zephyros (West Wind); Sappho [Greek poet C6th B.C.] made him the child of Aphrodite and Ouranos (Uranus, Heaven)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 27. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Most men consider Eros to be the youngest of the gods and the son of Aphrodite. But Olen the Lykian (Lycian) [legendary Greek poet] who composed the oldest Greek hymns, says in a hymn to Eileithyia that she was the mother of Eros. Later than Olen, both Pamphos and Orpheus [legendary Greek poets] wrote hexameter verse, and composed poems on Eros, in order that they might be among those sung by the Lykomidai (Lycomidae) to accompany the ritual. I read them after conversation with a Torchbearer. Of these things I will make no further mention. Hesiod, or he who wrote the Theogony fathered on Hesiod, writes, I know, that Khaos (Chaos) was born first, and after Khaos, Ge (Gaea, Earth), Tartaros (Tartarus) and Eros. Sappho of Lesbos wrote many poems about Eros, but they are not consistent.”
+    </p>
+    <h4>
+     II. SON OF APHRODITE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 176 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Eros (Love), and comely Himeros (Desire) followed her [Aphrodite] at her birth at the first and as she went into the assembly of the gods."
+     <br/>
+     [Hesiod may be suggesting that Eros and Aphrodite were born of Aphrodite at her birth. Indeed, according to Sappho, Ouranos (Uranus) was the father of Eros by Aphrodite, which suggests she was imagined born pregnant with the god. Nonnus says this explicitly.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment 575 (trans. Campbell, Vol. Greek Lyric III) (C5th B.C.) :
+     </span>
+     <br/>
+     "[Eros] You cruel child of guileful Aphrodite, whom she bore to Ares."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Scholiast on Apollonius of Rhodes (trans. Campbell, Vol. Greek Lyric  III Ibycus Frag 324) (Greek scholia) :
+     </span>
+     <br/>
+     "Apollonios (Apollonius) [Greek poet C3rd B.C.] makes Eros child of Aphrodite . . . Simonides [Greek poet C6th-5th B.C.] child of Aphrodite and Ares."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 198 (from Scholiast on Theocritus) (trans. Campbell, Vol. Greek Lyric I ) (Greek Lyric C6th B.C.) :
+     </span>
+     <br/>
+     "Sappho made Eros the child of Aphrodite and Ouranos (Uranus, Heaven)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 27. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Most men consider Eros to be the youngest of the gods and the son of Aphrodite."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 4. 1 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Aphrodite] gentle mother of twin Cupides (Loves) [Erotes], favour me."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 274 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Thou goddess [Aphrodite], born of the cruel sea, who art called mother of both Cupides [i.e. Eros and Anteros], that wanton, smiling boy of thine."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 786 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The child, lying in the bosom of the vernal earth and deep in herbage, now crawls forwad on his face and crushes the soft grasses, no in clamorous thrist for milk cries for his beloved nurse . . . Such was the young Mars [Ares] amid Odrysian snow, such was the winged boy [Eros] on the heights of Maenalus [after his birth]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 11. 218 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "Heavenly Venus [Aphrodite]; gave birth to Amor (Love) [Eros] when the world was first begun."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 88 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Aphrodite wishing to delight Ares in the deep shrewdness of her mind, clasped a golden necklace showing place about the girl's blushing neck [a gift to their daughter Harmonia at her marriage to Kadmos (Cadmus)], a clever work of Hephaistos (Hephaestus) set with sparkling gems in masterly refinement. This he had made for his Kyprian (Cyprian) bride, a gift for his first glimpse of Archer Eros (Love) [born to Aphrodite the wife of Hephaistos but fathered by her lover Ares]. For the heavyknee bridegroom always expected that Kythereia (Cytherea) would bear him a hobbling son, having the image of his father in his feet. But his though was mistaken; and when he beheld a whole-footed son [Eros] brilliant with wings like Maia's son Hermes, he made this magnificent necklace."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 128 ff :
+     </span>
+     <br/>
+     "[Aphrodite was born from the sea :] There, as soon as she was seen on the neighbouring harbourage [i.e. Beroe in Lebanon], she brought forth wild Eros (Love), first seed and beginning of generation, quickening guide of the system of the universe; and the quickleg boy, kicking manfully with his lively legs, hastened the hard labour of that body without a nurse, and beat on the closed womb of his unwedded mother; then a hot one even before birth, he shook his light wings and with a tumbling push opened the gates of birth. Thus quickly Eros leapt into his mother's gleaming arms, and pounced at once upon her firm breasts spreading himself over that nursing bosom. Untaught he yearned for his food; he bit with his gums the end of the teat never milked before, and greedily drank all the milk of those breasts swollen with the pressure of life-giving drops."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p class="see-also">
+     For additional references see
+     <a href="Eros2.html#Love">
+      Eros God of Love (General)
+     </a>
+     (next page)
+    </p>
+    <h4>
+     III. SON OF CHAOS OR NYX
+    </h4>
+    <p class="see-also">
+     For this genealogy see  the
+     <a href="../Protogenos/Eros.html">
+      ELDER EROS
+     </a>
+    </p>
+    <h4>
+     IV. SON OF URANUS &amp; GAEA  OR APHRODITE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 198 (from Scholiast on Apollonius of Rhodes) (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "Sappho makes Eros child of Ge (Gaea, Earth) and Ouranos (Uranus, Heaven)."
+    </p>
+    <h4>
+     V. SON OF ZEPHYRUS &amp; IRIS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Alcaeus, Fragment (trans. Campbell, Vol. Greek Lyric I Sappho, Fragment 198) (Greek Lyric C6th B.C.) :
+     </span>
+     <br/>
+     "Alkaios (Alcaeus) [Greek poet C6th B.C.] said Eros was the child of Iris (Rainbow) and Zephyros (Zephyrus, West Wind)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Alcaeus, Fragment 327 (from Plutarch, Dialogue on Love) (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "The most grim of gods [Eros], whom Iris of the fair sandals bore, having lain with golden-haired Zephyros."
+     <br/>
+     [N.B. The union of the rainbow with the west-wind symbolizes the variegated brilliance of passion.]
+    </p>
+    <h4>
+     VI. SON OF EILEITHYIA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 27. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Olen the Lykian (Lycian) who composed the oldest Greek hymns, says in a hymn to Eileithyia that she was the mother of Eros.”
+    </p>
+    <h4>
+     VII. SON OF PORUS &amp; PENIA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Plato, Symposium 178 (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "On the birthday of Aphrodite there was a feast of the gods, at which the god Poros (Porus, Expediency), who is the son of Metis (Wisdom), was one of the guests. When the feast was over, Penia (Poverty), as the manner is on such occasions, came about the doors to beg. Now Poros who was the worse for nectar (there was no wine in those days), went into the garden of Zeus and fell into a heavy sleep, and Penia considering her own straitened circumstances, plotted to have a child by him, and accordingly she lay down at his side and conceived Eros (Love), who partly because he is naturally a lover of the beautiful, and because Aphrodite is herself beautiful, and also because he was born on her birthday, is her follower and attendant."
+    </p>
+    <hr/>
+    <h3 id="Typhoeus">
+     <a>
+     </a>
+     EROS, APHRODITE &amp; THE GIANT TYPHOEUS
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/Z31.4.html">
+      <img alt="Eros-Cupid riding dolphin | Greco-Roman mosaic from Zeugma C1st-2nd A.D. | Gaziantep Museum" class="img-responsive center-block" src="../image/Z31.4Eros.jpg"/>
+     </a>
+     <figcaption>
+      Eros-Cupid riding dolphin, Greco-Roman mosaic from Zeugma C1st-2nd A.D., Gaziantep Museum
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 30 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Fishes. Diognetus Erythraeus says that once Venus [Aphrodite] and her son Cupid [Eros] came in Syria to the river Euphrates. There Typhon [Typhoeus], of whom we have already spoken, suddenly appeared. Venus [Aphrodite] and her son threw themselves into the river and there changed their forms to fishes, and by so doing this escaped danger. So afterwards the Syrians, who are adjacent to these regions, stopped eating fish, fearing to catch them lest with like reason they seem either to oppose the protection of the gods, or to entrap the gods themselves."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 2. 458 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Pisces, heaven's horses. They say that you and your brother (for your stars gleam together) ferried two gods on your backs. Once Dione [Venus-Aphrodite], in flight from terrible Typhon [Typhoeus] (when Jupiter [Zeus] armed in heaven's defence), reached the Euphrates with tiny Cupidos (Cupid) [Eros] in tow and sat by the hem of Palestine's stream. Poplars and reeds dominated the tops of the banks; willows, too, offered hope of concealment. While she hid, the wood roared with wind. She pales with fear, and believes a hostile band approaches. As she clutched son to breast, she cries : ‘To the rescue, Nymphae (Nymphs), and bring help to two divinities.' No delay; she leapt. Twin fish went underneath them; for which, you see, the present stars are named. Hence timid Syrians think it wrong to serve up this species; they defile no mouths with fish.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 223 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[When the monster Typhoeus besieged Olympos :] The bonds indissoluble of harmony are dissolved : for bold Eros has flown in panic, leaving behind his generative arrows, the adorner of brides, he the all-mastering, the unmastered!"
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p class="see-also">
+     For MORE information on this monstrous giant see
+     <a href="../Gigante/Typhoeus.html">
+      TYPHOEUS
+     </a>
+    </p>
+    <hr/>
+    <h3>
+     LOVE OF EROS &amp; PSYCHE
+    </h3>
+    <p class="see-also">
+     For this story see
+     <a href="Psykhe.html">
+      PSYKHE
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Rhodope">
+     <a>
+     </a>
+     LOVE OF EROS &amp; RHODOPE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 32. 46 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Hera deceptively addresses Zeus (her story might be a lie) :] ‘I hasten to visit the blazing court of the East near to Helios (Helius, the Sun). For Eros is on the wing beside the waters of Tethys, struck with passion for Rhodope Okeanos' (Oceanus') daughter, and he has renounced his matchmaking! So the order of the universe is out of joint, life is worthless when wedlock is gone. I have been to summon him, and here I am on my way back. For you know I am called the Lady of Wedlock, because my hands hold the accomplishment of childbirth.’"
+    </p>
+    <hr/>
+    <h3 id="Gods">
+     <a>
+     </a>
+     EROS &amp; THE LOVES OF THE GODS
+    </h3>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/K10.1.html">
+      <img alt="Aphrodite and Eros | Apulian red-figure loutrophoros C4th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/K10.1BAphrodite.jpg"/>
+     </a>
+     <figcaption>
+      Aphrodite and Eros, Apulian red-figure loutrophoros C4th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 186 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "This winged god [Cupid-Eros] rules ruthlessly throughout the earth and inflames Jove [Zeus] himself, wounded with unquenched fires. Gradivus [Mars-Ares], the warrior god, has felt those flames; that god [Vulcan-Hephaestus] has felt them who fashions the three-forked thunderbolts, yea, he who tends the hot furnaces ever raging ‘neath Aetna's (Etna's) peaks is inflamed by so mall a fire as this. Nay, Phoebus [Apollon], himself, who guides with sure aim his arrows from the bowstring, a boy of more sure aim pierces with his flying shaft, and flits about, baneful alike to heaven and to earth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 290 ff :
+     </span>
+     <br/>
+     "He [Eros] smites maids' breasts with unknown heat, and bids the very gods leave heaven and dwell on earth in borrowed forms."
+    </p>
+    <h4>
+     I. THE VIRGIN GODDESSES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 34 (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "Eros, loosener of limbs, never approaches her [Artemis]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 28 ff ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Athene (Athena), who smilingly replied : ‘Sprung as I am from Zeus, I have never felt the arrows of the Boy [i.e. Eros], and of love-charms I know nothing.’"
+     <br/>
+     [N.B. Apollonius is saying that Athena is sexless because she was sprung from the head of Zeus rather than being born in a conventional manner.]
+    </p>
+    <p>
+     N.B. In the
+     <em>
+      Homeric Hymn to Aphrodite
+     </em>
+     it is stated that the goddesses Athena, Hestia and Artemis were immune to love. However, Aphrodite, rather than Eros is there described as the source of passion.
+    </p>
+    <h4 id="Zeus">
+     <a>
+     </a>
+     II. THE LOVES OF ZEUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Corinna, Fragment 654 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "And of your [Asopos' (Asopus')] daughters Zeus has three; and Poseidon, married three; and Phoibos (Phoebus) [Apollon] two, and Hermes one. For so did the pair Eros and Kypris (Cypris)[Aphrodite] persuade them, that they should go in secret to your house and take your nine daughters."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 42 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "One of them [the planets] is the star of Jove [Zeus], Phaenon by name, a youth whom Prometheus made excelling all others in beauty, when he was making men, as Heraclides Ponticus [Greek philosopher C4th B.C.] says. When he intended to keep him back, without presenting him to Jove [Zeus] as he did the others, Cupid [Eros] reported this to Jove, whereupon Mercurius [Hermes] was sent to Phaenon and persuaded him to come to Jove and become immortal. Therefore he is placed among the stars."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 110 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Now Eros the wise, the self-taught, the manager of the ages, knocked at the gloomy gates of primeval Khaos (Chaos). He took out the divine quiver, in which were kept apart twelve firefed arrows for Zeus, when his desire turned towards one or another of mortal women for a bride. Right on the back of his quiver of lovebolts he had engraved with letters of gold a sentence in verse for each:--
+     <br/>
+     The first takes Kronion (Cronion) [Zeus] to the bend of heifer-fronted Io.
+     <br/>
+     The second shall Europa woo for the bold bull abducting.
+     <br/>
+     The third to Plouto's (Pluto's) bridal brings the lord of high Olympos.
+     <br/>
+     The fourth shall call to Danaë a golden bed-companion.
+     <br/>
+     The fifth shall offer Semele a burning fiery wedding.
+     <br/>
+     The sixth shall bring the King of heaven an eagle to Aigina (Aegina).
+     <br/>
+     The seventh joins Antiope to a pretended Satyros.
+     <br/>
+     The eighth, a swan endowed with mind shall bring to naked Leda.
+     <br/>
+     The ninth a noble stallion gives unto Perrhaibid Dia.
+     <br/>
+     The tenth three fullmoon nights of bliss gives to Alkmena's (Alcmena's) bedmate.
+     <br/>
+     The eleventh goes to carry out Laodameia's bridal.
+     <br/>
+     The twelfth draws to Olympias her thrice-encircling husband.
+     <br/>
+     When Eros had seen and handled each in turn, he put back the other fire-barbed shafts, and taking the fifth he fitted it to the shining bowstring; but first he put a sprig of ivy on the barb of the winged arrow, to be a fitting chaplet for the god of the vine, and dipt the whole shaft in a bowl of nectar, that Bakkhos (Bacchus) [Dionysos] might grow a nectarial vintage.
+     <br/>
+     While Eros was fluttering along to the house of Zeus, Semele also was out with the rosy morning."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 190 ff :
+     </span>
+     <br/>
+     "[Semele was bathing in a Theban stream :] Nor did the allseeing eye of Zeus fail to see her : from the heights he turned the infinite circle of his vision upon the girl. At this moment Eros (Love) stood before the Father, who watched her, and the inexorable archer drew in the air the bow which fosters life. The bowstring sparkled over the flower-decked shaft, and as the bow was drawn stretched back the poet-missile sounded the Bacchic strain. Zeus was the butt--for all his greatness he bowed his neck to Eros the nobody! And like a shooting star the shaft of love flew spinning into the heart of Zeus, with a bridal whistle, but swerving with a calculated twist it had just scratched his rounded thigh with its grooves--a foretaste of the birth to come [i.e. the infant Dionysos would be recovered from the dead body of Semele and implanted in the thigh of Zeus]. Then Kronion (Cronion) quickly turned the eye which was the channel of desire and the love-charm flogged him into passion for the girl. At the sight of Semele he leapt up, in wonder."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 267 ff :
+     </span>
+     <br/>
+     "Enchanted [by Semele] he [Zeus] received the sweet maddening spark in a heart which new it well. Allfather was worsted by a child : little Eros with his feeble shot set afire this Archer of Thunderbolts. Not the deluge of the flood, not the fiery lightning could help its possessor: that huge heavenly flame itself was vanquished by the small fire of unwarlike Paphia [Aphrodite]; little Eros faced the shaggy skin, his magical girdle faced the aegis; the heavy-booming din of the thunderclap was the slave of his lovebreeding quiver. The god was shaken by the heartbewitching sting of desire for Semele, in amazement: for love is near neightbour to admiration."
+    </p>
+    <h4>
+     III. THE LOVES OF ARES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      The Anacreontea, Fragment 28 (trans. Campbell, Vol. Greek Lyric II) (C5th B.C.) :
+     </span>
+     <br/>
+     "Kythere's (Cythere's) [Aphrodite's] husband [Hephaistos (Hephaestus)] was making the Erotes (Loves) weapons of iron in the forge of Lemnos; Kypris (Cypris) [Aphrodite] was dipping the points in her sweet honey and Eros was adding gall. One day Ares came in from the battlefield brandishing a strong spear and began to make fun of Eros' weapon. Eros said ‘This one is heavy: try it and you will see.’ Ares took the javelin, while Kypris smiled quietly; and with a groan he said, ‘It is heavy: take it back.’ ‘Keep it,’ said Eros."
+     <br/>
+     [N.B. This was perhaps an introduction to the story of the adultery of Ares and Aphrodite.]
+    </p>
+    <h4>
+     IV. THE LOVES OF APHRODITE
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 10. 525 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Once, when Venus' [Aphrodite's] son [Eros] was kissing her, his quiver dangling down, a jutting arrow, unbeknown, had grazed her breast. She pushed the boy away. In face the wound was deeper than it seemed, though unperceived at first. [And she became] enraptured by the beauty of a man [Adonis]."
+    </p>
+    <h4 id="Daphne">
+     <a>
+     </a>
+     V. THE LOVES OF APOLLO
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 14 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the death of Apollon's love Hyakinthos (Hyacinthus) :] The discus [lies] at his feet ((lacuna)) . . Eros (Love), is both radiant and at the same time downcast, and Zephyros (Zephyrus, the West Wind), who just shows his savage eye from his place of look-out--by all this the painter suggests the death of the youth, and as Apollon makes his cast [of the deadly discus]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 452 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Daphne daughter of Peneus was the first love of great Phoebus [Apollon], a love not lit by chance unwitting, but by Cupido's [Eros'] spiteful wrath. Delius [Apollon], proud in victory saw Cupido [Eros] draw his bow's taut arc, and said : ‘Mischievous boy, what are a brave man's arms to you? That gear becomes my shoulders best. My aim is sure; I wound my enemies, I wound wild beasts; my countless arrows slew but now the bloated Python, whose vast coils across so many acres spread their blight. You and your loves! You have your torch to light them Let that content you; never claim my fame!’
+     <br/>
+     And Venus' [Aphrodite's] son [Eros] replied : ‘Your bow, Phoebus, may vanquish all, but mine shall vanquish you. As every creature yields to power divine, so likewise shall your glory yield to mine.’
+     <br/>
+     Then winging through the air his eager way he stood upon Parnasos' shady peak, and from his quiver's laden armoury he drew two arrows of opposing power, one shaft that rouses love and one that routs it. The first gleams bright with piercing point of gold; the other, cull and blunt is tipped with lead. This one he lodged in Nympha Peneis' [Daphne's] heart; the first he shot to pierce Apollo to the marrow. At once he loves; she flies the name of love."
+    </p>
+    <h4 id="Haides">
+     <a>
+     </a>
+     VI. THE LOVE OF HADES
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 363 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Tyrannus [Haides] had left his dark domains to and fro, drawn in his chariot and sable steeds, inspected the foundations of the isle [of Sicily]. His survey done, and no point found to fail, he put his fears aside; when, as he roamed, Erycina [Venus-Aphrodite], from her mountain throne, saw him and clasped her swift-winged son, and said : ‘Cupido [Eros], my child, my warrior, my power, take those sure shafts with which you conquer all, and shoot your speedy arrows to the heart of the great god to whom the last lot fell when the three realms were draw. Your majesty subdues the gods of heaven and even Jove [Zeus], subdues the Gods of the Sea and him, even him, [Poseidon] who rules the Gods of the Sea. Why should Tartara (Hell) lag behind? Why not there too extend your mother's empire and your own? The third part of the world's at stake, while we in heaven (so long-suffering!) are despised--my power grows less, and less the power of Amor [Eros]. Do you not see how Pallas [Athena] and Diana [Artemis], queen of the chase, have both deserted me? And Ceres'[Demeter's] daughter [Persephone], if we suffer it, will stay a virgin too--her hope's the same. So for the sake of our joint sovereignty, if that can touch your pride, unite in love that goddess and her uncle [Haides].’ So she spoke. Then Cupido, guided by his mother, opened his quiver and of all his thousand arrows selected one, the sharpest and the surest, the arrow most obedient to the bow, and bent the pliant horn against his knee and shot the barbed shaft deep in Dis' [Haides'] heart."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z31.14.html">
+      <img alt="Eros picking grapes | Greco-Roman mosaic from Carthage C4th A.D. | Carthage National Museum" class="img-responsive center-block" src="../image/Z31.14Eros.jpg"/>
+     </a>
+     <figcaption>
+      Eros-Cupid picking grapes, Greco-Roman mosaic from Carthage C4th A.D., Carthage National Museum
+     </figcaption>
+    </figure>
+    <h4 id="Dionysos">
+     <a>
+     </a>
+     VII. THE LOVES OF DIONYSUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 351 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Following the death of Dionysos' beloved Ampelos (Ampelus) :] Eros came near in the horned shape of a shaggy Seilenos (Silenus), holding a thyrsus, with a dappled skin draped upon him, as he supported his frame on a fennel stalk, for a staff the old man's friend; and he spoke comfortable words to groaning Bakkhos (Bacchus) : ‘Let loose on another love the sparks of this love of yours; turn the sting upon another youth in exchange, and forget the dead. For new love is ever the physic for older love, since old time knows not how to destroy love even if he has learnt to hide all things. If you need a painhealing medicine for your trouble, court a better boy: fancy can wither fancy . . . [he then tells the tale of the lovers Kalamos (Calamus) and Karpos (Carpus)].’
+     <br/>
+     So stormy Eros comforted Dionysos with gentle friendly words, and softened the sweet pangs."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 15. 220 ff :
+     </span>
+     <br/>
+     "The deceiver Eros excited the longing herdsman [Hymnos (Hymnus)], and shook him with yet stronger passion [for the nymphe Nikaia (Nicaea)]."
+     <br/>
+     [N.B. Nikaia slew Hymnos but his death was avenged by Eros who incited a passion for her in Dionysos.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca  15.370 &amp; 392 ff :
+     </span>
+     <br/>
+     "[Nemesis the goddess of retribution :] Pointed out the newly slain corpse [of a boy callously slain by the Nymphe he loved] to the Kyprian (Cyprian) [Aphrodite], and upbraided Eros himself [at the injustice] . . . Pan and Phoibos (Phoebus) [Apollon] cried out aloud [at the injustice]: ‘A curse on the fife! Where is Nemesis? Where is Kypris (Cypris) [Aphrodite]? Eros, handle not your quiver . . .’
+     <br/>
+     And Eros, eyeing the untamed heart of the murderous girl, threw down his bow, and swore an oath by the oxherd, to bring the maiden unwilling under the yoke of Dionysos [i.e. that she would  be raped by the god]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 16. 1 ff  :
+     </span>
+     <br/>
+     "The death of the plaintive shepherd [Hymnos (Hymnus) who was slain by Nikaia (Nicaea)] was not unavenged; but valiant Eros caught up his bow and drew a shaft of desire, arming unseen himself against Dionysos as he sat by the bank of the pebbly stream. 
+  Fleet Nikaia had finished her wonted hunt for game; sweating and tired by hard work in her beloved highlands, she was bathing her bare body in a mountain cascade. Now longshot Eros made no delay. He set the endshining beard of a winged arrow to the string, and rounded his bow, and buried the whole shot in the heart of love-maddened Lyaios (Lyaeus) [Dionysos]. Then Dionysos saw the girl swimming in the water bareskin, and his mind was shaken with sweet madness by the fiery shaft."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 16. 263 ff :
+     </span>
+     <br/>
+     "Eros espied her [Nikaia (Nicaea)] sleeping, and pointed her out to Bakkhos (Bacchus), pitying Hymnos; Nemesis laughed at the sight. And sly Dionysos with shoes that made no noise crept soundless to his bridal." [N.B. Nikaia's punishment for the slaying of Hymnos was to be raped by the god Dionysos.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 399 ff :
+     </span>
+     <br/>
+     "[Aphrodite calls on Eros to cause Dionysos and Poseidon to fall in love with her daughter Beroe :] [The goddess] returned to her own house. She placed her own goldwrought throne beside the place where her son [Eros] sat, and throwing an arm round his waist, with quiet countenance opened her glad arms to receive the boy and held the dear burden on her knees; she kissed both his lips and eyes, touched his mind-bewitching bow and fingered the quiver, and spoke in feigned anger these cunning words : ‘You hope of all life! You cajoler of the Foamborn! . . . Come--for your sister's [Beroe's] beauty draw your bow and bewitch the gods, or say, shoot one shaft and hit with the same shot Poseidon and vinegod Lyaios (Lyaeus) [Dionysos], Blessed Ones both. I will give you a gift for your long shot which will be a proper wage worthy of your feat--I will give you the marriage harp of gold, which Phoibos (Phoebus) [Apollon] gave to Harmonia at the door of the bridal chamber; I will place it in your hands in memory of a city to be, that you may be not only an archer, but a harpist, just like Apollon . . .’
+     <br/>
+     He [Eros] obeyed her request; treading on Time's heels hot Eros (Love) swiftly sped, plying his feet into the wind, high in the clouds scoring the air with winged step, and carried his flaming bow; the quiver too, filled with gentle fire, hung down over his shoulder. As when a star stretches straight with a long trail of sparks . . . so went furious Eros in a swift rush, and his wings beat the air with a sharp whirring sound that whistled down from the sky. Then near the Assyrian rock he united from fiery arrows on one string, to bring two wooers into like desire for the love of a maid [Beroe], rivals for one bride, the vinegod [Dionysos] and the ruler of the sea [Poseidon] . . . 
+  One came from the deep waters of the sea-neighbouring roadstead, and one left the land of Tyre, and among the mountains of Lebanon the two met in one place . . .
+     <br/>
+     Then Eros came quickly up to the maiden hard by, and struck both divinities with two arrows. He maddened Dionysos to offer his treasures to the bride, life's merry heart and the ruddy vintage of the grape; he goaded to love the lord of the trident, that he might bring the sea-neighbouring maid a double lovegift, seafaring battle on the water and varied dishes for the table. He set Bakkhos (Bacchus) more in a flame, since wine excites the mind for desire, and wine finds unbridled youth much more obedient to the rein when it is charmed with the prick of unreason; so he shot Bakkhos and drove the whole shaft into his heart, and Bakkhos burnt, as much as he was charmed by the trickling honey of persuasion. Thus he maddened them both; and in the counterfeit shape of a bird circling his tracks in the airy road as swift as the rapid winds, he rose with paddling feet, and cried these taunting words : ‘If Dionysos confounds men with wine, I excite Bakkhos with fire!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 42. 336 ff :
+     </span>
+     <br/>
+     "He [Dionysos in love with Beroe] sorrowfully prayed to Hypnos (Hypnus, Sleep) and Eros (Love) and Aphrodite of the Evening [i.e. the star Venus], all at once, to let him see the same vision [of his love] once more, longing for the deceptive phantom of an embrace."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 43. 420 ff :
+     </span>
+     <br/>
+     "[After Dionysos loses the contest for Beroe, Eros promises him other loves :] Lyaios (Lyaeus) never smiled, and his brother Eros came to console him in his jealous mood : 
+  ‘Dionysos, why do you still bear a grudge against the cestus that makes marriages? Beroe was no proper bride for Bakkhos (Bacchus), but his marriage of the sea was quite fitting, because I joined the daughter of Aphrodite of the sea to a husband whose path is in the sea. I have kept a daintier one for your bridechamber, Ariadne, of the family of Minos and your kin. Leave Amymone to the sea, a nobody, one of the family of the sea herself. You must leave the mountains of Lebanon and the waters of Adonis and go to Phrygia, the land of lovely girls; there awaits you a bride without salt water, Aura of Titan stock. Thrake the friend of brides will receive you, with a wreath of victory ready and a bride's bower; thither Pallene also the shakespear summons you, beside whose chamber I will crown you with a wedding wreath for your prowess, when you have won Aphrodite's delectable wrestling-match.’
+     <br/>
+     So wild Eros spoke to his lovemad brother Bakkhos : then he flapt his whizzing fiery wings, and up the sham bird flew in the skies travelling until he came to the house of Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 47. 332 ff :
+     </span>
+     <br/>
+     "[Ariadne laments after being abandoned by Theseus on the island  of Naxos :] ‘Are the very images of Eros (Love) and Anteros (Love Returned) jealous of me? For I saw a deslightful vision of marriage accomplished in a deceitful dream, and lovely Theseus was gone.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 47. 456 ff :
+     </span>
+     <br/>
+     "[At the wedding of Dionysos and Ariadne :] Eros decked out the bridal chamber for Bakkhos (Bacchus) . . . Fiery Eros made a round flowergarland with red roses and plaited a wreath coloured like the stars, as prophet and herald of the heavenly Crown; and round about the Naxian bride danced a swarm of the Erotes (Loves) which attend on marriage."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 106 ff :
+     </span>
+     <br/>
+     "[Dionysos wrestled Pallene in a contest for her hand in marriage :] Kypris (Cypris) [Aphrodite] presided over the ring. In the midst was Eros naked, holding out to Bakkhos the bridal wreath. Wrestling was to win the bride : Peitho clad her delicate body in a silvery robe, foretelling victory for Lyaios's (Lyaeus') wooing . . . 
+  After the victory in this contest, with the consent of Zeus, Eros crowned his brother with the cluster that heralds a wedding; for he had accomplished a delectable wedding-bout."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 264 ff :
+     </span>
+     <br/>
+     "[The virginal Titanis Aura] saw a vision in her dreams which foretold a delectable marriage to come--how the fiery god, wild Eros, fitted shaft to burning string and shot the hares in the forest, shot the wild beasts in a row with his tiny shafts; how Kypris (Cypris) [Aphrodite] came laughing, wandering with the young son of Myrrha [Adonis] when he hunted, and Aura the maiden was there, carrying the quiver of huntsman Eros on the shoulder which was ere now used to the bow of Artemis. But Eros went on killing the beasts, until he was weary of the bowstring and hitting the grim face of a panther or the snout of a bear; then he caught a lioness alive with the allbewitching cestus, and dragged the beast away showed her fettered to his merry mother. The maiden saw in the darkness how mischievious Eros teased herself also as he leaned her arm on Kythereia (Cytherea) and Adonis, while he made his prey the proud lioness, bend a slavish knee before Aphrodite, as he cried loudly, ‘Garlanded mother of the Erotes (Loves)! I lead to you Aura, the maiden too fond of maidenhood, and she bows her neck. Now you dancers of lovestricken Orkhomenos (Orchomenus) [the Kharites (Charites)], crown this cestus, the strap that waists on marriage, because it has conquered the stubborn will of this invincible lioness!’
+     <br/>
+     Such was the prophetic oracle which Aura the mountain maiden saw. Nor was it vain for the loves, since they themselves bring a man in to the net and hunt a woman. 
+  The maiden awoke, raved against the prudent laurel, upbraided Eros and the Paphian [Aphrodite]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 470 ff :
+     </span>
+     <br/>
+     "Eros drove Dionysos mad for the girl [Aura] with the delicious wound of his arrow, then curving his wings flew lightly to Olympos. And the god roamed over the hills scourged with a greater fire. For there was not the smallest comfort for him. He had then no hope of the girl's love, no physic for his passion; but Eros burnt him more and more with the mindbewitching fire to win mad obstinate Aura at last."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 593 ff :
+     </span>
+     <br/>
+     "When fiery Eros beheld Aura stumbling heavyknee [in drunkeness], he leapt down from heaven, and smiling with peaceful countenance spoke to Dionysos [who was trying to seduce the maid] with full sympathy : ‘Are you for a hunt, Dionysos? Virgin Aura awaits you!’
+     <br/>
+     With these words, he made haste away to Olympos flapping his wings, but first he had inscribed on the spring petals--‘Bridegroom, complete your marriage while the maiden is still asleep; and let us be silent that sleep may not leave the maiden.’"
+     <span class="quote-latin">
+     </span>
+    </p>
+    <hr/>
+    <h3 id="Heroes">
+     <a>
+     </a>
+     EROS &amp; THE LOVES OF THE HEROES
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K32.10.html">
+      <img alt="Eros holding wreath | Apulian red-figure lekythos C4th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/K32.10Eros.jpg"/>
+     </a>
+     <figcaption>
+      Eros holding wreath, Apulian red-figure lekythos C4th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Theognis, Fragment 1. 1231 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Cruel Eros (Love), the Maniai (Maniae, Spirits of Madness) took you up and nursed you. Because of you Troy's acropolis was destroyed, and great Theseus, Aegeus' son, and noble Aias (Ajax), Oileus' son, through your acts of recklessness."
+     <br/>
+     [N.B. The myths referred to are the love of Paris for Helene, Theseus' abduction of Helene, and Ajax' rape of Kassandra (Cassandra).]
+    </p>
+    <h4>
+     I. THE LOVE OF PERSEUS &amp; ANDROMEDA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 29 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting at Neapolis (Naples) :] Perseus who, they say, slew in Aithiopia (Ethipia) a Ketos (Sea-Monster) . . . Now the painter glorifies this tale and shows his pity for Andromeda in that she was given over to the Ketos (Sea-Monster). The contest is already finished and the Ketos lies stretched out on the strand, weltering in streams of blood--the reason the sea is red--while Eros (Love) frees Andromeda from her bonds. Eros is painted with wings as usual, but here, as it not usual, he is a young man, panting and still showing the effects of his toil; for before the deed Perseus put up a prayer to Eros that he should come and with him swoop down upon the creature, and Eros came, for he heard the Greek's prayer."
+    </p>
+    <h4>
+     II. THE LOVE OF MEDEA &amp; JASON
+    </h4>
+    <p class="see-also">
+     See
+     <a href="#Medea">
+      Eros &amp; the Love of Medea
+     </a>
+     (below)
+    </p>
+    <h4>
+     III. THE LOVE OF HERACLES &amp; ABDERUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 25 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting at Neapolis (Naples) :] The Burial of Abderos (Abderus) . . . You must regard this present labour [i.e. the mares of Diomedes] as the more difficult, since Eros (Love) enjoins it upon Herakles in addition to many others, and since the hardship laid upon him was no slight matter. For Herakles is bearing the half-eaten body of Abderos [his beloved], which he has snatched from the [man-eating] mares . . . The tears he shed over them, the embraces he may have given them, the laments he uttered, the burden of grief on his countenance--let such marks of sorrow be assigned to another lover."
+    </p>
+    <h4>
+     IV. THE LOVE OF PELOPS &amp; HIPPODAMEIA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 9 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "He [Oinomaos (Oenomaus)] urges Myrtilos (Myrtilus) on. But Eros, sad of mien, is cutting the axle of the chariot, making clear two things : that the girl [Hippodameia] in love with her lover [Pelops] is conspiring against her father [Oinomaos]." [N.B. In the myth Myrtilos is bribed by Pelops to cut the axle of Oinomaos. Eros (Love) is symbolically the cause, since the race was for the hand of Hippodameia.]
+    </p>
+    <h4>
+     V. THE LOVE OF HERO &amp; LEANDER
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Musaeus, Hero and Leander 20 ff (Greek poetry C5th - 6th A.D.) :
+     </span>
+     <br/>
+     "And Eros (Love) upstrained his bow, shot forth a single shaft into both cities together, kindling a youth [Leandros (Leander)] and maiden [Hero]."
+    </p>
+    <h4>
+     VI. THE LOVE OF SCYLLA DAUGHTER OF NISUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 25. 150 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Minos won his war against King Nisos of Megara with the help of the gods of love who caused the king's daughter to fall in love with Minos and betray her father :] Kypris (Cypris) [Aphrodite] wore a gleaming helmet . . . the bridal swarm of unwarlike Erotes (Loves) shot their arrows in battle . . . he [Ares] saw his Phobos (Rout) and his Deimos (Terror) supporting the Erotes (Loves), when he beheld Aphrodite holding the buckler and Pothos (Desire) casting a lance, while daintyrobe Eros wrought a fairhair victory against the fighting men in arms."
+    </p>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/F10.2.html">
+      <img alt="Aphrodite, Ares and infants Eros and Phobos | Greco-Roman fresco from Pompeii C1st A.D. | Naples National Archaeological Museum" class="img-responsive center-block" src="../image/F10.2Aphrodite.jpg"/>
+     </a>
+     <figcaption>
+      Aphrodite, Ares, Eros and Phobos, Greco-Roman fresco from Pompeii C1st A.D.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     VII. THE LOVE OF MORRHEUS &amp; CHALCOMEDE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 33. 4 ff :
+     </span>
+     <br/>
+     "[During Dionysos' war with the Indians, Eros causes the Indian warrior Morrheus to fall in love with Khalkomedeia (Chalcomedea), and so assists the god.]
+     <br/>
+     [Aphrodite addresses the Kharis (Charis) Pasithea :] ‘Dear girl, what trouble has changed your looks? . . . Are you plagued by my son [Eros god of love], perhaps? Are you in love with some herdsman, among the mountains, struck with desire, like Selene (Goddess of the Moon)? Has Eros perhaps flicked you also with the cestus, like Eos (the Dawn) once before? . . .’
+     <br/>
+     When Aphrodite had said this, the Kharis weeping replied : ‘O mother of the Erotes (Loves)! O sower of life in the everlasting universe . . . I am tormented by the afflictions of Lyaios (Lyaeus) [Dionysos] my father, driven about in terror by the Erinyes (Fury). He is your brother - protect Dionysos if you can! . . .’
+     <br/>
+     Then sweetsmiling Aphrodite put off the wonted laugh from her radiant rosy face, and told her messenger Aglaia (Aglaea) [one of the Kharites (Charites)] to call Eros her son, that swift airy flyer, that guide to the fruitful increase of the human race.
+     <br/>
+     The Kharis moved her footsteps, and turned her face this way over earth and sea and sky, if somewhere she might find the restless track of Eros--for he beats his wings everywhere circling the four separate regions of the universe [perhaps earth, sea, sky and underworld].
+     <br/>
+     She found him on the golden top of Olympos, shooting the nectar-drops from a cup [playing cottabus and game in which wine was thrown out of cups at a mark]. Beside him stood Hymenaios (Hymenaeus), his fair-haired playfellow in the dainty game . . . [See Eros &amp; his Playmate Hymenaeus on the following page for this section.]
+     <br/>
+     Now Aglaia (Aglaea) stood by him [Eros], and she received the prizes from the hands of the prince of heart's delight. She beckoned the boy aside, and with silence their only witness, she whispered into his ear the artful message of her intriguing mistress : ‘Allvanquisher unvanquished, preserver of life coeval with the universe, make haste! Kythereia (Cytherea) is in distress. None of her attendants has remained with her; Kharis (Charis, Grace) has gone, Peitho (Seduction) has vanished, Pothos (Sexual Longing) the inconstant has left her; she had none to send but me. She needs your invincible quiver!’
+     <br/>
+     No sooner had she spoken, than Eros wanted to know all about it; for all young people, when they hear only the beginning of a story, are eager to hear the end. So he rattled out with that unbridled tongue of his--‘Who has hurt my dear Paphian? Let me take arms in hand and fight all the world! If my mother is in distress, let me stretch my allvanquishing bowstring against even Kronion (Cronion) [Zeus], to make him once more a mad ravishing love-bird, and eagle, or a bull swimming in the sea! Or if Pallas [Athene] has provoked her, if Crookshank [Hephaistos (Hephaestus)] has hurt her by lighting the bright torch of the Kekropian (Cecropian) light, I will fight them both, Hephaistos and Athene! Or if Archeress [Artemis] hareslayer moves her to anger, I will draw the fiery Olympian sword of Orion to prick Artemis and drive her out of the sky! Or if it is Hermes I will carry off with me Maia's son on my wings, and let him call useless Peitho [his wife] in vain to his help. Or I will leave my arrows and the fiery belt of my quiver, I will lash Phoibos (Phoebus) [Apollon] a willing victim with cords of laurel leaves, holding him bound in a belt of speaking iris. Indeed I fear not the strength of Enyalios [Ares], it will not weary me to flog Ares when he is shackled by the delightful cestus. The two luminaries I will drag down from heaven to be drudges in Paphos, and give my mother for a servant Phaethon [Helios the Sun] with Klymene (Clymene) [his wife], Selene [the Moon] with Endymion [her husband], that all may know that I vanquish all things!’
+     <br/>
+     He spoke, and straight through the air he plied his feet, and reached the dwelling of eager Aphrodite long before Aglaia with his pair of whirring wings. His mother with serene countenance took him into her embrace, and threw one happy arm round her boy, lifting him on her knees, a welcome burden. He sat there while she kissed the boy's lips and eyes; then she touched his mindcharming bow, and handled the quiver, and pretending to breathe anger, spoke these delusive words : ‘My dear child, you have forgotten Phaethon [Helios the Sun] and Kythereia (Cytherea) [Aphrodite]! Pasiphae no longer wants the Bull's love. Helios mocks at me, and arms the offspring of Astris, the warrior Deriades his own daughter's son, to destroy the Bassarides of womanmad Dionysos and to rout the love-stricken Satyroi (Satyrs) of Bromios. But it has provoked me more than all, that battlestirring Ares in mortal shape, with Enyo by his side, without regard for his old love of Aphrodite, ahs armed himself against Dionysos at Hera's bidding and supports the Indian king. Now then, on this field Ares if for Deriades--then you fight for Lyaios (Lyaeus) [Dionysos]. He has a spear, you have a stronger bow, before which bend the knee Zeus the Highest and furious Ares and Hermes the lawgiver; even that Archer Apollon fears your bow. If you will give a boon to your Foamborn, fight for the Bassarides and Dionysos. Go I pray, to the Eastern clime and let no one catch you--go to the Indian plain, where there is a handmaid of Lyaios amongst the Bakkhantes (Bacchantes), more excellent than her yearsmates, named Khalkomede (Chalcomede), who loves the maiden state--but if you should see Khalkomede and Kypris (Cypris) both together in Libanos (Lebanon), you cannot tell which was Aphrodite, my dear boy! Go to that place and help Dionysos ranging the wilds, by shooting Morrheus for the beauty of Khalkomedeia. I will give you a Worthing prize for your shooting, a wellmade Lemnian chaplet, like the rays of fiery Helios (the Sun). Shoot a sweet arrow, and you will do a grace both to Kypris and to dionysos; honour my bridesmaid bird of love [the dove] and yours, the herald of lifelong wedding and happy hearts!’
+     <br/>
+     So spoke the goddess; and Eros wildly leapt from his mother's lap and took up his bow, slung the allvanquishing quiver about his little shoulder, and sailed away on his wings through the air; round Kerne (Cerne) he turned his flight opposite the rays of morning, smiling that he had set afire that great charioteer of the heavenly car with his little darts, and the light of the loves had conquered the light of Helios (the Sun). Soon he was moving in the midst of the Indian host, and laid his bow against the neck of Khalkomedeia, aiming the shaft round her rosy cheek, and sent it into the heart of Morrheus. Then paddling his way with the double beat of his floating wings he mounted to the starry barriers of his father [i.e. Ouranos (Uranus, Sky) father of Aphrodite who emerged fully grown and pregnant with Eros from bloody foam of Ouranos' castration], leaving the Indian transfixed with the fiery shaft.
+     <br/>
+     Now Morrheus moved lovesick this way and that way, struck by the arrow of desire, wherever the maiden went; the sword he lifted was tame, his spear hung idle, his bold spirit was lashed by the cestus of love, he turned his enamoured gaze all about and moved his eyes at the bidding of Kypri (Cypris)s, uncomforted."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 33. 238 ff :
+     </span>
+     <br/>
+     "He [Morrheus] softened his voice to womanish love-prattle, as the arrow of nightly love quivered beneath his heart : 
+  ‘Bow and arrows of Ares, I have done with you; for another shaft and a better constrains me, the arrow of desire! I have done with you, quiver! The cestus-strap has conquered my shieldsling. No more I equip a fighting hand against Bassarides. The gods of my nation, Water and Earth, I will leave, and set up altars both to Kypris (Cypris) [Aphrodite] and Dionysos; I will throw away the brazen spear of Enyalios [Ares] and Athene.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 34. 34 ff :
+     </span>
+     <br/>
+     "[Morrheus in love :] Perhaps that allvanquishing braggart Himeros (Desire) has been aiming at you bridal sparks from his unresting quiver."
+    </p>
+    <hr/>
+    <h3 id="Medea">
+     <a>
+     </a>
+     EROS, APHRODITE &amp; THE LOVE OF MEDEA
+    </h3>
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/F31.2.html">
+      <img alt="Eros-Cupid riding crab | Greco-Roman fresco from Pompeii C1st A.D. | Naples National Archaeological Museum" class="img-responsive center-block" src="../image/F31.2Eros.jpg"/>
+     </a>
+     <figcaption>
+      Eros-Cupid riding crab, Greco-Roman fresco from Pompeii C1st A.D.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     After the arrival of the Argonauts in Kolkhis (Colchis), the goddess Hera conspires to have  Medea fall in love with Jason to assist the hero in his quest for the Golden Fleece. To this end she petitions Aphrodite have her son Eros strike the princess with his darts.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 25  ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "[Hera addresses Athene (Athena) :] ‘We must have a word with Aphrodite. Let us go together and ask her to persuade her boy, if that is possible, to loose an arrow at Aeetes' daughter, Medea of the many spells, and make her fall in love with Iason (Jason) . . .’
+     <br/>
+     The solution to their problem pleased Athene, who smilingly replied : ‘Sprung as I am from Zeus, I have never felt the arrows of the Boy, and of love-charms I know nothing.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 82 ff :
+     </span>
+     <br/>
+     "[Hera addresses Aphrodite :] ‘All we require of you is quietly to tell your boy to use his wizardry and make Aeetes' daughter fall in love with Iason (Jason) . . .’
+     <br/>
+     ‘But ladies,’ said Kypris (Cypris) [Aphrodite], speaking now to both of them [i.e. Hera and Athene], ‘he is far more likely to obey you than me. There is no reverence in him, but faced by you he might display some spark of decent feeling. He certainly pays no attention to me: he defies me and always does the opposite of what I say. In fact I am so worn out by his naughtiness that I have half a mind to break his bow and wicked arrows in his very sight, remembering how he threatened me with them in one of his moods. He said, "If you don't keep your hands off me while I can still control my temper, you can blame yourself for the consequences."’
+     <br/>
+     Hera and Athene smiled at this and exchanged glances. But Aphrodite was hurt. She said : ‘Other people find my troubles amusing. I really should not speak of them to all and sundry; it is enough for me to know them. However, as you have both set your hearts on it, I will try and coax my boy. He will not refuse.’
+     <br/>
+     Hera took Aphrodite's slender hand in hers and with a sweet smile replied : ‘Very well, Kytherea (Cytherea). Play your part, just as you say; but quickly, please. And do not scold or argue with your child when he annoys you. He will improve by and by.’
+     <br/>
+     With that she rose to go. Athene followed her, and the pair left for home. Kypris (Cypris) too set out, and after searching up and down Olympos for her boy, found him far away in the fruit-laden orchard of Zeus. With him was Ganymede, whose beauty had so captivated Zeus that he took him up to heaven to live with the immortals. The two lads, who had much in common, were playing with golden knuckle-bones. Eros, the greedy boy, was standing there with a whole handful of them clutched to his breast and a happy flush of mantling his cheeks. Near by sat Ganymede, hunched up, silent and disconsolate with only two left. He threw these for what they were worth in quick succession and was furious when Eros laughed. Of course he lost them both immediately--they joined the rest. So he went off in despair with empty hands and did not notice the goddess's approach.
+     <br/>
+     Aphrodite came up to her boy, took his chin in her hand and said : ‘Why this triumphant smile, you rascal? I do believe you won the game unfairly be cheating a beginner. But listen now. Will you be good and do me a favour I am going to ask of you? Then I will give you one of Zeus's lovely toys, the one that his fond nurse Adresteia (Adrastia) made for him in the Idaian cave when he was still a child and liked to play. It is a perfect ball; Hephaistos (Hephaestus) himself could not make you a better toy. It is made of golden hoops laced together all the way round with double stitching; but the seams are hidden by a winding blue band. When you throw it up, it will leave a fiery trail behind it like a meteor in the sky. That is what I'll give you, if you let fly an arrow at Aeetes' girl [Medea] and make her fall in love with Iason (Jason). But you must act at once, or I may not be so generous.’
+     <br/>
+     When he heard this, Eros was delighted. He threw down all his toys, flung his arms round his mother and hung on to her skirt with both hands, imploring her to let him have the ball at once. But she gently refused, and drawing him towards her, held him close and kissed his cheeks. Then with a smile she said, ‘By your own dear head and mine, I swear I will not disappoint you. You shall have the gift when you have shot an arrow into Medea's heart.’
+     <br/>
+     Eros gathered up his knuckle-bones, counted them all carefully, and put them in the fold of his mother's shining robe. Fetching his quiver from where it leant against a tree, he slung it on his shoulder with a golden strap, picked up his crooked bow, and made his way through the luxuriant orchard of Zeus' palace. Then he passed through the celestial gates of Olympos, where a pathway for the gods leads down, and twin poles, earth's highest points, soar in lofty pinnacles that catch the first rays of the risen sun. And as he swept on through the boundless air he saw ever-changing scene beneath him, here the life-supporting land with its peopled cities and its sacred rivers, here mountain peaks, and hear the all-encircling sea . . .
+     <br/>
+     Eros, passing through the clear air, had arrived unseen and bent on mischief, like a gladfly setting out to plague the grazing heifers, the fly that cowherds call the breese. In the porch, under the lintel of the door, the quickly strung his vow and from his quiver took a new arrow, fraught with pain. Still unobserved, he ran across the threshold glancing around him sharply. Then he crouched low at Iason's feet, fitted the notch to the middle of the string, and drawing the bow as far as his hands would stretch, shot at Medea. And her heart stood still.
+     <br/>
+     With a happy laugh Eros sped out of the high-roofed hall on his way back, leaving his shaft deep in the girl's breast, hot as fire. Time and again she darted a bright glance at Iason (Jason). All else was forgotten. Her heart, brimful of this new agony, throbbed within her and overflowed with the sweetness of the pain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 449 ff :
+     </span>
+     <br/>
+     "Medea retired, a prey to all the inquietude that Eros awakens."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 7762 ff :
+     </span>
+     <br/>
+     "Her [Medea's] whole body was possessed by agony, a searing pain which shot along her nerves and deep into the nape of her neck, that vulnerable spot where the relentless archer of Eros causes the keenest pangs."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 55 ff :
+     </span>
+     <br/>
+     "[Selene the Moon addresses Medea :] ‘The little god of mischief has given you Iason, and many a heartache with him. Well, go your way; but clever as you are, steel yourself now to face a life of sighs and misery.’ So said Selene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 446 ff :
+     </span>
+     <br/>
+     "Unconscionable Eros, bane and tormentor of mankind, parent of strife, fountain of tears, source of a thousand ills, rise mighty Power, and fall on the ons of our enemies with all the force you used upon Medea when you filled her with insensate fury [i.e. she plotted the murder of her own brother for the love of Iason (Jason)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 8 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting depicting a scene from Apollonius'
+     <em>
+      Argonautica
+     </em>
+     :] [Aphrodite, Hera and Athena approach Eros who is playing a game with Ganymedes.] . . . 
+  What do the goddesses desire and what necessity brings them together? The Argo carrying its fifty heroes has anchored in the Phasis after passing through the Bosphoros (Bosphorus) and the Clashing Rocks . . . While the sailors of the Argo are considering the situation, the goddesses have come as suppliants to be Eros that he assist them in saving the sailors by going to fetch Medeia (Medea), the daughter of Aietes (Aeetes); and as pay for this service his mother shows him a ball which she says was once a plaything of Zeus. Do you see the clever art of the painting? The ball itself is of gold; the stitching on it is such as to be assumed by the mind rather than seen by the eye, and spirals of blue encircle it; and very likely, when it is tossed in the air, the radiance emanating from it will lead us to compare it with the twinkling of stars. As for Eros, he no longer even looks at the dice, but throwing them on the ground he clings to his mother's [Aphrodite's] dress, begging her to make good her promise to him; for, he says, he will not fail in the task."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 7 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the meeting of Iason (Jason) and Medea :] Eros (Love) is claiming this situation as his own, and he stands leaning on his bow with his legs crossed, turning his torch towards the earth, inasmuch as the work of love is as yet hardly begun."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 8. 232 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Venus [Aphrodite] smiled upon the lovers [Jason and Medea in matrimony], and Cupid [Eros] with his pleadings roused Aeetes' daughter [Medea] from the gloomy thoughts that vexed her; Cytherea [Aphrodite] clothes the girl with her own robe of saffron texture, and gives her own twofold coronal and the jewels destined to burn upon another bride."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.1.html">
+        <img alt="Thumbnail Eros Playing Flute" src="../image/thumbK32.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.1 Eros Playing Flute
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.9.html">
+        <img alt="Thumbnail Eros Bearing Fawn" src="../image/thumbK32.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.9 Eros Bearing Fawn
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.2.html">
+        <img alt="Thumbnail Eros Herald of Love" src="../image/thumbK32.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.2 Eros Herald of Love
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.3.html">
+        <img alt="Thumbnail Eros Flying" src="../image/thumbK32.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.3 Eros Flying
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.10.html">
+        <img alt="Thumbnail Eros Holding Wreath" src="../image/thumbK32.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.10 Eros Holding Wreath
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.12.html">
+        <img alt="Thumbnail Eros Chasing Deer" src="../image/thumbK32.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.12 Eros Chasing Deer
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.20.html">
+        <img alt="Thumbnail Eros, Dionysus, Ariadne" src="../image/thumbK12.20.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.20 Eros, Dionysus, Ariadne
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O6.1.html">
+        <img alt="Thumbnail Eros, Peitho, Demonassa" src="../image/thumbO6.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O6.1 Eros, Peitho, Demonassa
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.1.html">
+        <img alt="Thumbnail Aphrodite, Eros, Zeus" src="../image/thumbK10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.1 Aphrodite, Eros, Zeus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K46.1.html">
+        <img alt="Thumbnail Eros, Pompe, Dionysus" src="../image/thumbK46.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K46.1 Eros, Pompe, Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K9.1.html">
+        <img alt="Thumbnail Ares, Aphrodite, Eros" src="../image/thumbK9.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K9.1 Ares, Aphrodite, Eros
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.4.html">
+        <img alt="Thumbnail Iaso, Eros, Himeros" src="../image/thumbK32.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.4 Iaso, Eros, Himeros
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.5.html">
+        <img alt="Thumbnail Aphrodite, Eros, Paris" src="../image/thumbK4.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.5 Aphrodite, Eros, Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.7.html">
+        <img alt="Thumbnail Aphrodite, Eros, Paris" src="../image/thumbK10.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.7 Aphrodite, Eros, Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.5.html">
+        <img alt="Thumbnail Phaedra, Eros, Nurse" src="../image/thumbK32.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.5 Phaedra, Eros, Nurse
+        </h3>
+        <p>
+         Optional content and buttons for Thumbnail #1
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.6.html">
+        <img alt="Thumbnail Aphrodite, Eros, Lovers" src="../image/thumbK32.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.6 Aphrodite, Eros, Lovers
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.2.html">
+        <img alt="Thumbnail Eros, Birth of Aphrodite" src="../image/thumbK10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.2 Eros, Birth of Aphrodite
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.4.html">
+        <img alt="Thumbnail Aphrodite, Eros, Hermes" src="../image/thumbK10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.4 Aphrodite, Eros, Hermes
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K18.1.html">
+        <img alt="Thumbnail Heracles, Hebe, Eros, Hymenaeus" src="../image/thumbK18.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K18.1 Heracles, Hebe, Eros
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.8.html">
+        <img alt="Thumbnail Eros &amp; Racing Atalanta" src="../image/thumbK32.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.8 Eros &amp; Racing Atalanta
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.6.html">
+        <img alt="Thumbnail Aphrodite, Erotes Chariot" src="../image/thumbK31.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.6 Aphrodite, Erotes Chariot
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.11.html">
+        <img alt="Thumbnail Aphrodite &amp; Erotes" src="../image/thumbK10.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.11 Aphrodite &amp; Erotes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.10.html">
+        <img alt="Thumbnail Aphrodite, Adonis, Eros" src="../image/thumbK10.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.10 Aphrodite, Adonis, Eros
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.1.html">
+        <img alt="Thumbnail Himeros, Eros, Pothos" src="../image/thumbK31.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.1 Himeros, Eros, Pothos
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.4.html">
+        <img alt="Thumbnail Aphrodite, Erostasia" src="../image/thumbK31.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.4 Aphrodite, Erostasia
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.7.html">
+        <img alt="Thumbnail Aphrodite, Erostasia" src="../image/thumbK31.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.7 Aphrodite, Erostasia
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.7.html">
+        <img alt="Thumbnail Eros Riding Deer" src="../image/thumbK32.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.7 Eros Riding Deer
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F31.2.html">
+        <img alt="Thumbnail Eros-Cupid Riding Crab" src="../image/thumbF31.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F31.2 Eros-Cupid Riding Crab
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F31.1.html">
+        <img alt="Thumbnail Eros-Cupid Flying" src="../image/thumbF31.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F31.1 Eros-Cupid Flying
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.4.html">
+        <img alt="Thumbnail Eros-Cupid Riding Dolphin" src="../image/thumbZ31.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.4 Eros-Cupid Riding Dolphin
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.10.html">
+        <img alt="Thumbnail Eros-Cupid Riding Dolphin" src="../image/thumbZ31.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.10 Eros-Cupid Riding Dolphin
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.8.html">
+        <img alt="Thumbnail Eros-Cupid Riding Dolphin" src="../image/thumbZ31.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.8 Eros-Cupid Riding Dolphin
+        </h3>
+        <p>
+         Greco-Roman Bulla Regia Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.7.html">
+        <img alt="Thumbnail Eros-Cupid Riding Aegipan" src="../image/thumbZ31.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.7 Eros-Cupid Riding Aegipan
+        </h3>
+        <p>
+         Greco-Roman Rome Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.6.html">
+        <img alt="Thumbnail Eros-Cupid Fishing" src="../image/thumbZ31.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.6 Eros-Cupid Fishing
+        </h3>
+        <p>
+         Greco-Roman Antioch Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.9.html">
+        <img alt="Thumbnail Eros-Cupid Riding Tiger" src="../image/thumbZ31.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.9 Eros-Cupid Riding Tiger
+        </h3>
+        <p>
+         Greco-Roman Naples Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.14.html">
+        <img alt="Thumbnail Eros-Cupid Picking Grapes" src="../image/thumbZ31.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.14 Eros-Cupid Picking Grapes
+        </h3>
+        <p>
+         Greco-Roman Carthage Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.11.html">
+        <img alt="Thumbnail Eros-Cupid &amp; Wooden Cow" src="../image/thumbZ31.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.11 Eros-Cupid &amp; Wooden Cow
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.1.html">
+        <img alt="Thumbnail Eros &amp; Birth of Aphrodite" src="../image/thumbZ10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.1 Eros &amp; Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z33.3.html">
+        <img alt="Thumbnail Aphrodite &amp; Eros" src="../image/thumbZ33.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z33.3 Aphrodite &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C3nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.1.html">
+        <img alt="Thumbnail Eros-Cupid &amp; Psyche" src="../image/thumbZ31.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.1 Eros-Cupid &amp; Psyche
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.2.html">
+        <img alt="Thumbnail Eros-Cupid &amp; Psyche" src="../image/thumbZ31.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.2 Eros-Cupid &amp; Psyche
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.3.html">
+        <img alt="Thumbnail Eros-Cupid &amp; the Psychae" src="../image/thumbZ31.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.3 Eros-Cupid &amp; the Psychae
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.1.html">
+        <img alt="Thumbnail Eros &amp; Birth of Aphrodite" src="../image/thumbF10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.1 Eros &amp; Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.2.html">
+        <img alt="Thumbnail Aphrodite, Ares, Eros" src="../image/thumbF10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.2 Aphrodite, Ares, Eros
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F9.1.html">
+        <img alt="Thumbnail Aphrodite, Ares, Eros" src="../image/thumbF9.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F9.1 Aphrodite, Ares, Eros
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.5.html">
+        <img alt="Thumbnail Aphrodite &amp; Eros" src="../image/thumbF10.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.5 Aphrodite &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.4.html">
+        <img alt="Thumbnail Aphrodite &amp; Eros" src="../image/thumbF10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.4 Aphrodite &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.2.html">
+        <img alt="Thumbnail Europa, Zeus as Bull, Eros" src="../image/thumbZ1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.2 Europa, Zeus as Bull, Eros
+        </h3>
+        <p>
+         Greco-Roman Sparta Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.22.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Eros" src="../image/thumbZ12.22.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.22 Dionysus, Ariadne, Eros
+        </h3>
+        <p>
+         Greco-Roman Phillipoplis Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.14.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Eros" src="../image/thumbZ12.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.14 Dionysus, Ariadne, Eros
+        </h3>
+        <p>
+         Greco-Roman Syria Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z2.8.html">
+        <img alt="Thumbnail Poseidon, Amymone, Eros" src="../image/thumbZ2.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z2.8 Poseidon, Amymone, Eros
+        </h3>
+        <p>
+         Greco-Roman Paphos Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.12.html">
+        <img alt="Thumbnail Eros-Cupid Fishing" src="../image/thumbZ31.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.12 Eros-Cupid Fishing
+        </h3>
+        <p>
+         Greco-Roman Antioch Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z31.13.html">
+        <img alt="Thumbnail Eros-Cupid) Fishing" src="../image/thumbZ31.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z31.13 Eros-Cupid Fishing
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S31.1.html">
+        <img alt="Thumbnail Eros-Cupid Statue" src="../image/thumbS31.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S31.1 Eros-Cupid
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S31.2.html">
+        <img alt="Thumbnail Eros-Cupid Statue" src="../image/thumbS31.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S31.2 Eros-Cupid
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S31.3.html">
+        <img alt="Thumbnail Eros-Cupid Statue" src="../image/thumbS31.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S31.3 Eros-Cupid
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S31.4.html">
+        <img alt="Thumbnail Eros-Cupid Statue" src="../image/thumbS31.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S31.4 Eros-Cupid
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S31.5.html">
+        <img alt="Thumbnail Eros-Cupid Statue" src="../image/thumbS31.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S31.5 Eros-Cupid
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S31.6.html">
+        <img alt="Thumbnail Eros-Cupid Statue" src="../image/thumbS31.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S31.6 Eros-Cupid
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S38.1.html">
+        <img alt="Thumbnail Eros Riding Centaur Statue" src="../image/thumbS38.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S38.1 Eros Riding Centaur
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.4.html">
+        <img alt="Thumbnail Aphrodite, Pan, Eros Statue" src="../image/thumbS10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.4 Aphrodite, Pan, Eros
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.14.html">
+        <img alt="Thumbnail Aphrodite &amp; Eros Statue" src="../image/thumbS10.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.14 Aphrodite &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.17.html">
+        <img alt="Thumbnail Aphrodite &amp; Eros Statue" src="../image/thumbS10.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.17 Aphrodite &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.8.html">
+        <img alt="Thumbnail Aphrodite &amp; Eros Statue" src="../image/thumbS10.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.8 Aphrodite &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL EROS PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1B.html">
+       Greek Lyric I Alcman, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Alcaeus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreon, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreontea, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Ibycus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Simonides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th - 5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Corinna, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Phaedrus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Symposium
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Halieutica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+     <li>
+      Musaeus, Hero and Leander
+      <span class="sources-detail">
+       - Greek Poetry C6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     EROS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD EROS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Aphrodite
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Psyche
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Love, sexual desire
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Bow and arrow
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Hare
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Cupid, Amor
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     EROS PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction &amp; Myths
+      <ul>
+       <li>
+        <a href="#Family">
+         Family of Eros
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Parentage">
+         Parentage  of Eros
+        </a>
+       </li>
+       <li>
+        <a href="#Typhoeus">
+         Eros, Aphrodite &amp; the Giant Typhoeus
+        </a>
+       </li>
+       <li>
+        <a href="#Rhodope">
+         Love of Eros &amp; Rhodope
+        </a>
+       </li>
+       <li>
+        <a href="#Gods">
+         Loves of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="#Zeus">
+         Loves of Zeus
+        </a>
+       </li>
+       <li>
+        <a href="#Haides">
+         Loves of Hades
+        </a>
+       </li>
+       <li>
+        <a href="#Daphne">
+         Loves of Apollo
+        </a>
+       </li>
+       <li>
+        <a href="#Dionysos">
+         Loves of Dionysus
+        </a>
+       </li>
+       <li>
+        <a href="#Heroes">
+         Loves of Heroes
+        </a>
+       </li>
+       <li>
+        <a href="#Medea">
+         Love of Jason &amp; Medea
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="Psykhe.html">
+       Part 2: Eros-Cupid &amp; Psyche
+      </a>
+      <ul>
+      </ul>
+     </li>
+     <li>
+      <a href="Eros2.html">
+       Part 3: Eros God of
+      </a>
+      <ul>
+       <li>
+        <a href="Eros2.html#Hymns">
+         Hymns to Eros
+        </a>
+       </li>
+       <li>
+        <a href="Eros2.html#Love">
+         Eros God of Love &amp; Minion of Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="Eros2.html#Ganymedes">
+         Playmate of Ganymedes
+        </a>
+       </li>
+       <li>
+        <a href="Eros2.html#Hymenaios">
+         Playmate of Hymenaeus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ErosCult.html">
+       Part 4: Cult of Eros
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ErosCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ErosCult.html#Hellespontos">
+         Hellespont, North of Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

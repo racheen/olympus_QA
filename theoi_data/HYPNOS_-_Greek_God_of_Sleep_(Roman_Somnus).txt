@@ -1,0 +1,2103 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   HYPNOS - Greek God of Sleep (Roman Somnus)
+  </title>
+  <meta content="Hypnos was the ancient Greek god or personified spirit (daimon) of sleep. He dwelt in Erebus, the land of eternal darkness beyond the gates of the rising sun, and rose into the sky each night in the train of his mother Nyx (Night). Hypnos was depicted as a young man with wings on his shoulders or brow. His attributes included either a horn of sleep-inducing opium, a poppy-stem, a branch dripping water from the river Lethe (Forgetfulness), or an inverted torch. His Roman name was Somnus." name="description"/>
+  <meta content="Hypnos, Hypnus, Greek mythology, Greek god of sleep, Hypnos pictures, Somnus, Sopor" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/personifications.html">
+      Daemones (Spirits)
+     </a>
+     &gt;&gt; Hypnos
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HYPNOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ὑπνος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Hypnos, Hypnus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Somnus, Sopor
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Sleep (
+       <em>
+        hypnos
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/N13.1.html">
+      <img alt="Hypnos god of sleep | Apulian red-figure loutrophoros C4th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/N13.1Hypnos.jpg"/>
+     </a>
+     <figcaption>
+      Hypnos god of sleep, Apulian red-figure vase C4th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     HYPNOS was the god or personified spirit (
+     <em>
+      daimon
+     </em>
+     ) of sleep. He dwelt in Erebos, the land of eternal darkness beyond the gates of the rising sun, and rose into the sky each night in the train of his mother Nyx (Night). Hypnos was often paired with his twin brother
+     <a href="Thanatos.html">
+      Thanatos
+     </a>
+     (Peaceful Death), and the
+     <a href="Oneiroi.html">
+      Oneiroi
+     </a>
+     (Dreams) were his brothers or sons.
+    </p>
+    <p>
+     Hypnos was depicted as a young man with wings on his shoulders or brow. His attributes included either a horn of sleep-inducing opium, a poppy-stem, a branch dripping water from the river Lethe (Forgetfulness), or an inverted torch.
+    </p>
+    <p>
+     His Roman equivalent was Somnus or Sopor.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF HYPNOS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Protogenos/Nyx.html">
+      NYX
+     </a>
+     (no father)
+     <span class="family-refs">
+      (Hesiod Theogony 212, Homer Iliad 14.250, Aeschylus Frag 250, Seneca Hercules Furens1068, Nonnus Dionysiaca 31.103)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Protogenos/Erebos.html">
+      EREBOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Nyx.html">
+      NYX
+     </a>
+     <span class="family-refs">
+      (Hyginus Preface, Cicero De Natura Deorum. 3.17)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="Oneiroi.html">
+      THE ONEIROI x 1000
+     </a>
+     ,
+     <a href="OneirosMorpheus.html">
+      MORPHEUS
+     </a>
+     ,
+     <a href="Oneiroi.html">
+      IKELOS
+     </a>
+     ,
+     <a href="Oneiroi.html">
+      PHANTASOS
+     </a>
+     <span class="family-refs">
+      (Ovid Metamorphoses 11.630)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     HYPNUS, 
+    the personification and god of sleep, the Latin Somnus, is described by the ancients as a brother of Death (
+     <em>
+      thanatos
+     </em>
+     ), and as a son of Night (Hes.
+     <em>
+      Theog. 211,
+     </em>
+     &amp;c.; Virg.
+     <em>
+      Aen.
+     </em>
+     vi. 277). At Sicyon there was a statue of Sleep surnamed
+     <em>
+      epidôtês
+     </em>
+     , the giver (Paus. ii. 10. § 2). In works of art Sleep and Death are represented alike as two youths sleeping or holding inverted torches in their hands.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE  OF HYPNOS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 21 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And Nyx (Night) bare hateful Moros (Doom) and black Ker (Violent Death) and Thanatos (Death), and she bare Hypnos (Sleep) and the tribe of Oneiroi (Dreams). And again the goddess murky Nyx, though she lay with none, bare Momos (Blame) and painful Oizys (Misery), and the Hesperides . . . Also she bare the Moirai (Moirae, Fates) and the ruthless avenging Keres (Death-Fates) . . . Also deadly Nyx bare Nemesis (Envy) to afflict mortal men, and after her, Apate (Deceit) and Philotes (Friendship) and hateful Geras (Old Age) and hard-hearted Eris (Strife)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Nox (Night) and Erebus [were born]: Fatum (Fate), Senectus (Old Age), Mors (Death), Letum (Dissolution), Continentia (Moderation), Somnus (Sleep) [i.e. Hypnos], Somnia (Dreams) [i.e. the Oneiroi], Amor (Love)--that is Lysimeles, Epiphron (Prudence), Porphyrion, Epaphus, Discordia (Discord), Miseria (Misery), Petulantia (Wantonness), Nemesis (Envy), Euphrosyne (Good Cheer), Amicitia (Friendship), Misericordia (Compassion), Styx (Hatred); the three Parcae (Fates), namely Clotho, Lachesis and Atropos; the Hesperides."
+     <br/>
+     [N.B. Hypnos (Sleep) is translated as Somnus in this Latin text, and Oneiroi (Dreams) as Somnia.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 17 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Their [Aether and Hemera's] brothers and sisters, whom the ancient genealogists name Amor (Love), Dolus (Guile), Metus (Fear), Labor (Toil), Invidentia (Envy), Fatum (Fate), Senectus (Old Age), Mors (Death), Tenebrae (Darkness), Miseria (Misery), Querella (Complaint), Gratia (Favour), Fraus (Fraud), Pertinacia (Obstinacy), the Parcae (Fates), the Hesperides, the Somnia (Sleep, Dreams) [i.e. Hypnos and the Oneiroi]: all of these are fabled to be the children of Erebus (Darkness) and Nox (Night)."
+    </p>
+    <hr/>
+    <h3 id="Sleep">
+     HYPNOS GOD OF SLEEP
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/N13.2.html">
+      <img alt="Hypnos and the body of Sarpedon | Athenian red-figure lekythos C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/N13.2Hypnos.jpg"/>
+     </a>
+     <figcaption>
+      Hypnos and the body of Sarpedon, Athenian red-figure lekythos C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 231 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "There [in Lemnos] she [Hera] encountered Hypnos (Sleep), the brother of Thanatos (Death). She clung fast to his hand and spoke a word and called him by name : ‘Hypnos, lord over all mortal men and all gods, if ever before now you listened to word of mine, so now also do as I ask; and all my days I shall know gratitude. Put to sleep the shining eyes of Zeus under his brows as soon as I have lain beside him in love. I will give you gifts; a lovely throne, imperishable forever, of gold. My own son, he of the strong arms, Hephaistos, shall make it with careful skill and make for your feet a footstool on which you can rest your shining feet when you take your pleasure.’
+     <br/>
+     Then Hypnos the still and soft spoke to her in answer : ‘Hera, honoured goddess and daughter of mighty Kronos (Cronus), any other one of the gods, whose race is immortal, I would lightly put to sleep, even the stream of that River Okeanos (Oceanus), whence is risen the seed of all the immortals. But I would not come too close to Zeus, the son of Kronos, nor put him to sleep, unless he himself were to tell me. Before now, it was a favour to you that taught me wisdom, on the day Herakles (Heracles), the high-hearted son of Zeus, was sailing from Ilion, when he had utterly sacked the city of the Trojans. That time I laid to sleep the brain in Zeus of the aegis and drifted upon him still and soft, but your mind was devising evil, and you raised along the sea the blasts of the racking winds, and on these swept him away to Kos, the strong-founded, with all his friends lost, but Zeus awakened in anger and beat the gods up and down his house, looking beyond all others for me, and would have sunk me out of sight in the sea from the bright sky had not Nyx (Night) who has power over gods and men rescued me. I reached her in my flight, and Zeus let be, though he was angry, in awe of doing anything to swift Nyx' displeasure. Now you ask me to do this other impossible thing for you.’
+     <br/>
+     Then in turn the lady ox-eyed Hera answered him : ‘Hypnos, why do you ponder this in your heart, and hesitate? Or do you think that Zeus of the wide brows, aiding the Trojans, will be angry as he was angry for his son, Herakles? Come now, do it, and I will give you one of the younger Kharites (Charites, Graces) for you to marry, and she shall be called you lady; Pasithea, since all your days you have loved her forever.’
+     <br/>
+     So she spoke, and Hypnos was pleased and spoke to her in answer : ‘Come then! Swear it to me on Styx' ineluctable water. With one hand take hold of the prospering earth, with the other take hold of the shining salt sea, so that all the undergods who gather about Kronos (Cronus) may be witnesses to us. Swear that you will give me one of the younger Kharites, Pasithea, the one whom all my days I have longed for.’
+     <br/>
+     He spoke, nor failed to persuade the goddess Hera of the white arms, and she swore as he commanded, and called by their names on all those gods who live beneath Tartaros (the Pit), and who are called Titanes (Titans). 
+  Then when she had sworn this, and made her oath a complete thing, the two went away from Lemnos, and the city of Imbros, and mantled themselves in mist, and made their way very lightly till they came to Ida with all her springs, the mother of wild beasts, to Lekton, where first they left the water, and went on over dry land, and with their feet the top of the forest was shaken. There Hypnos stayed, before the eyes of Zeus could light on him, and went up aloft a towering pine tree, the one that grew tallest at that time on Ida, and broke through the close air to the aither. In this he sat, covered over and hidden by the pine branches, in the likeness of a singing bird whom in the mountains the immortal gods call
+     <em>
+      khalkis
+     </em>
+     , but men call him
+     <em>
+      kymindis
+     </em>
+     ."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 352 ff :
+     </span>
+     <br/>
+     "So the father [Zeus] slept unshaken on the peak of Gargaron with his wife in his arms, when Hypnos and passion [of Hera] had stilled him; but gently Hypnos went on the run to the ships of the Akhaians (Achaeans) with a message to tell him who circles the earth and shakes it, Poseidon, and stood close to him and addressed him in winged words : ‘Poseidon, now with all your heart defend the Danaans and give them glory, though only for a little, while Zeus still sleeps; since I have mantled a soft slumber about him and Hera beguiled him into sleeping in love beside her.’
+     <br/>
+     He spoke so, and went away among the famed races of men."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 16. 453 ff :
+     </span>
+     <br/>
+     "[Hera speaks to Zeus about his son Sarpedon's fated death :] ‘But after the soul and the years of his life have left him [Sarpedon], then send Thanatos (Peaceful Death) to carry him away, and Hypnos (Sleep), who is painless, until they come with him to the countryside of broad Lykia (Lycia) where his brothers and countrymen shall give him due burial with tomb and gravestone.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 16. 681 ff :
+     </span>
+     <br/>
+     "[Sarpedon was killed at Troy and the god Apollon rescued his body from the fighting :] Then [Apollon] gave him [the body of Sarpedon] into the charge of swift messengers to carry him, of Hypnos (Sleep) and Thanatos (Death), who are twin brothers, and these two presently laid him down within the rich countryside of broad Lykia (Lycia)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 758 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "[Nyx, Night] carries Hypnos (Sleep) in her arms, and he is Thanatos' (Death's) brother . . . And there [near the house of Nyx in the underworld] the children of gloomy Nyx have their houses. These are Hypnos and Thanatos, dread divinities. Never upon them does Helios, the shining sun, cast the light of his eye-beams, neither when he goes up the sky nor comes down from it. One of these, across the earth and the wide sea-ridges, goes his way quietly back and forth, and is kind to mortals, but the heart of the other one is iron, and brazen feelings without pity are inside his breast."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Frag 20e (from Oxyrhynchus Papyrus 2081) (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "But the highest god [Zeus], mighty with his thunderbolt, sent Hypnos (Sleep) and Thanatos (Death) from snowy Olympos to the fearless fighter Sarpedon [to carry off his body for burial]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Licymnius, Fragment 771 (from Athenaeus, Scholars at Dinner) (trans. Campbell, Vol. Greek Lyric V) (Greek lyric C4th B.C.) :
+     </span>
+     <br/>
+     "[Endymion was a handsome youth loved by the moon-goddess Selene. He was granted immortality in a state of eternal slumber :] Likymnios of Khios (Licymnius of Chios) says the Hypnos (Sleep) loves Endymion and does not close they eyes of his beloved boy even while he is asleep, but lulls him to rest with eyes wide open so that he may without interruption enjoy the pleasure of gazing at them. His words are ‘And Hypnos (Sleep), rejoicing in the rays of his eyes, would lull the boy to rest with eyes wide open.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragment 929g (Rainer papyrus) (trans. Campbell) :
+     </span>
+     <br/>
+     "Soft-eyed Hypnos (Sleep) came, embracing all his limbs, as a mother on seeing her dear son after a long absence folds him with her wings to her loving breast."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Doubtul Fragment 250 (from Plutarch, On Love 15. 758B) (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+      <br/>
+     </span>
+     "[Hypnos speaks :] ‘For Nyx (Night) brought me not forth to be the lord of the lyre, nor to be seer or leech, but to lull to rest men's souls.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 146 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "But as he [the Drakon (Dragon) of Golden Fleece] writhed he saw the maiden [the witch Medea] take her stand, and heard her in her sweet voice invoking Hypnos (Sleep), the conqueror of the gods, to charm him. She also called on the night-wandering Queen of the world below [Hekate (Hecate)] to countenance her efforts . . . the giant snake, enchanted by her song, was soon relaxing . . . Medea, chanting a spell, dipped a fresh sprig of juniper in her brew and sprinkled his eyes with her most potent drug; and as the all-pervading magic scent spread round his head, sleep fell on him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 18. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Among the images carved on the chest of Kypselos (Cypselus) at Olympia :] There is a figure of a woman holding on her right arm a white child asleep, and on her left she has a black child like one who is asleep. Each has his feet turned different ways. The inscriptions declare, as one could infer without inscriptions, that the figures are Thanatos (Death) and Hypnos (Sleep), with Nyx (Night) the nurse of both."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 5. 395 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "From Okeanos (Oceanus) then uprose Eos (the Dawn) golden-reined: like a soft wind upfloated Hypnos (Sleep) to heaven, and there met Hera . . . She clasped him round, and kissed him, who had been her marriage-kin since at her prayer on Ida's erest he had lulled to sleep Kronion (Cronion) [Zeus], when his anger burned against the Argives. Straightway Hera passed to Zeus's mansion, and Hypnos (Sleep) swiftly flew to Pasithea's couch. From slumber woke all nations of the earth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 22 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+      <br/>
+     </span>
+     "[From a description of an ancient Greek painting at Neapolis (Naples) :] While Herakles (heracles) is asleep in Libya after conquering Antaios (Antaeus), the Pygmaioi (Pygmies) set upon him with the avowed intention of avenging Antaios  . . . Here they are advancing against Herakles and undertaking to kill him in his sleep; though they would not fear him even if he were awake. Meanwhile he sleeps on the soft sand, since weariness has crept over him in wrestling; and, filled with sleep, his mouth open, he draws full breaths deep in his chest, and Hypnos (Sleep) himself stands over him in visible form, making much, I think, of his own part in the fall of Herakles."
+     <br/>
+     [N.B. Hypnos often appears an agent of the goddess Hera, which was probably his role in this  story.]
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/N12.1.html">
+      <img alt="Thanatos, Hypnos, Hermes and the body of Sarpedon | Athenian red-figure calyx krater C6th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/N12.1Thanatos.jpg"/>
+     </a>
+     <figcaption>
+      Thanatos, Hypnos, Hermes and the body of Sarpedon, Athenian red-figure calyx krater C6th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 2. 34 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "At the end of his life, having reached a very great age, Gorgias of Leontini was overcome by weakness and lay gradually slipping away into sleep. When one of his friends came to see him and asked how he was, Gorgias said : ‘Hypnos (Sleep) is now beginning to hand me over to his brother [i.e. Thanatos, Death].’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 11. 585 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Juno-Hera instructs her messenger Iris to go summon a Dream-Spirit :] ‘Iris, my voice's trustiest messenger, hie quickly to the drowsy hall of Somnus (Sleep) [Hypnos], and bid him send a dream of Ceyx drowned to break the tidings to Alcyone.’
+     <br/>
+     Then Iris, in her thousand hues enrobed traced through the sky her arching bow and reached the cloud-hid palace of the drowsy king. Near the Cimmerii (Cimmerians) a cavern lies deep in the hollow of a mountainside, the home and sanctuary of lazy Somnus (Sleep), where Phoebus' [Helios the Sun's] beams can never reach at morn or noon or eve, but cloudy vapours rise in doubtful twilight; there no wakeful cock crows summons Aurora (Dawn) [Eos], no guarding hound the silence breaks, nor goose, a keener guard; no creature wild or tame is heard, no sound of human clamour and no rustling branch. There silence dwells: only the lazy stream of Lethe 'neath the rock with whisper low o'er pebbly shallows trickling lulls to sleep. Before the cavern's mouth lush poppies grow and countless herbs, from whose bland essences a drowsy infusion dewy Nox (Night) [Nyx] distils and sprinkles sleep across the darkening world. No doors are there for fear a hinge should creak, no janitor before the entrance stands, but in the midst a high-raised couch is set of ebony, sable and downy-soft, and covered with a dusky counterpane, whereon the god, relaxed in languor, lies. Around him everywhere in various guise lie empty Somnia (Dreams) [Oneiroi], countless as ears of corn at harvest time or sands cast on the shore or leaves that fall upon the forest floor.
+     <br/>
+     There Iris entered, brushing the Somnia (Dreams) aside, and the bright sudden radiance of her robe lit up the hallowed place; slowly the god his heavy eyelids raised, and sinking back time after time, his languid drooping head nodding upon his chest, at last he shook himself out of himself, and leaning up he recognized her and asked why she came, and she replied : ‘Somnus (Sleep) [Hypnos], quietest of the gods, Somnus, peace of all the world, balm of the soul, who drives care away, who gives ease to weary limbs after the hard day's toil and strength renewed to meet the morrow's tasks, bid now thy Somnia (Dreams), whose perfect mimicry matches the truth, in Ceyx's likeness formed appear in Trachis to Alcyone and feign the shipwreck and her dear love drowned. So Juno [Hera] orders.’
+     <br/>
+     Then, her task performed, Iris departed, for she could no more endure the power of Somnus (Sleep), as drowsiness stole seeping through her frame, and fled away back o'er the arching rainbow as she came. The father Somnus chose from among his sons, his thronging thousand sons, one who in skill excelled to imitate the human form; Morpheus his name, than whom none can present more cunningly the features, gait and speech of men, their wonted clothes and turn of phrase. He mirrors only men; another forms the beasts and birds and the long sliding snakes. The gods have named him Icelos; here below the tribe of mortals call him Phobetor. A third, excelling in an art diverse, is Phantasos; he wears the cheating shapes of earth, rocks, water, trees--inanimate things. To kings and chieftains these at night display their phantom features; other dreams will roam among the people, haunting common folk. All these dream-brothers the old god passed by and chose Morpheus alone to undertake Thaumantias' [Iris'] commands; then in sweet drowsiness on his high couch he sank his head to sleep."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 268 ff (trans. Fairclough) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "[Aeneas is guided by the Sibyl on a journey through the Underworld :] On they went dimly, beneath the lonely night amid the gloom, through the empty halls of Dis [Haides] and his phantom realm . . . Just before the entrance, even within the very jaws of Orcus [Haides], Luctus (Grief) [Penthos] and avenging Curae (Cares) have set their bed; there pale Morbi (Diseases) [Nosoi] dwell, sad Senectus (Old Age) [Geras], and Metus (Fear) [Phobos, and Fames (Hunger) [Limos], temptress to sin, and loathly Egestas (Want) [Aporia], shapes terrible to view; and Letum (Death) [Thanatos] and Labor (Distress) [Ponos]; next, Letum's (Death's) own brother Sopor (Sleep) [Hypnos], and Gaudia (the soul's Guilty Joys), and, on the threshold opposite, the death-dealing Bellum (War) [Polemos], and the Eumenides' [Erinyes', Furies'] iron cells, and maddening Discordia (Strife) [Eris], her snaky locks entwined with bloody ribbons. In the midst an elm, shadowy and vast, spreads her boughs and aged arms, the whome which, men say, false Somnia (Dreams) [Oneiroi] hold, clinging under every leaf."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 686 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[At the entrance to the Underworld :] The foul pool of Cocytus' sluggish stream lies here; here the vulture, there the dole-bringing owl utters its cry, and the sad omen of the gruesome screech-owl sounds. The leaves shudder, black with gloomy foliage where sluggish Sopor (Sleep) [Hypnos] clings to the overhanging yew, where sad Fames (Hunger) [Limos] lies with wasted jaws, and Pudor (Shame) [Aidos], too late, hides her guilt-burdened face. Metus (Dread) [Deimos] stalks there, gloomy Pavor (Fear) [Phobos] and gnashing Dolor (Pain) [Algos], sable Luctus (Grief) [Penthos], tottering Morbus (Disease) [Nosos] and iron-girt Bella (War) [Enyo]; and last of all slow Senectus (Old Age) [Geras] supports his steps upon a staff."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 1063 ff :
+     </span>
+     <br/>
+     "[Herakles (Heracles) is driven mad by Hera and the chorus prays for his deliverance :] O free his soul from such monstrous ills, free him, ye gods, and turn to better things his darkened spirit. And do thou, O Somnus (Sleep) [Hypnos,], vanquisher of woes, rest of the soul, the better part of human life, thou winged son of thy mother Astraea [i.e. Nyx the Night], sluggish brother of cruel Mors (Death) [Thanatos], thou who dost mingle false with true, sure yet gloomy guide to what shall be; O thou [Somnus-Hypnos], who art peace after wanderings, haven of life, day's respite and night's comrade, who comest alike to king and slave, who doest compel the human race, trembling at death, to prepare for unending night--sweetly and gently soothe his weary spirit; hold him fast bound in heavy stupor; let slumber chain his untamed limbs, and leave not his savage breast until his former mind regain its course."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 8. 67 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The Colchian [witch Medea] had stretched upward to the stars her hands that bare the wand, and pouring forth spells in barbaric rhythm was calling to thee, O father Somnus (Sleep) [Hypnos] : ‘All powerful Somnus, from all the quarters of the world do I the maid of Colchis summon thee and bid thee descend upon the Dracon [which guarded the golden fleece] alone; oft with thy horn [pouring sleep] have I subdued waves and clouds and lightning brands and all that gleams in heaven; but now, now come to my aid with mightier influence, most like thy brother Letus (Death) [Thanatos] . . .’
+     <br/>
+     He [the Dracon] brooks not to leave the Aeolian gold through weariness nor to surrender his eyes, fain though he be, to permitted slumber; and when the first wafting of drowse assailed him, he shuddered and shook off from his body the beguiling sleep. But on her side the Colchian ceases not to foam with hellish poisons and to sprinkle all the silences of Lethe's (Forgetfulness') bough : exerting her spells she constrains his reluctant eyes, exhausting all her Stygian power of hand and tongue, until sleep gains the mastery over his blazing ire. And now the high crest sinks, now the head is nodding overpowered and the huge neck has slipped from around the fleece it guarded."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 336 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "But now through the wide domains [of heaven] . . . rose the Titanian queen [Luna-Selene the Moon], borne upward through a silent world, and with her dewy chariot cooled and rarefied the air; now birds and beasts are hushed, and Somnus (Sleep) [Hypnos] steals o'er the greedy cares of men, and stoops and beckons from the sky, shrouding a toilsome life once more in sweet oblivion."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 2. 59 ff :
+     </span>
+     <br/>
+     "Sopor (Sleep) [Hypnos], driving Nox's (Night's) [Nyx'] coursers, met him [Hermes], and rose abashed to salute his godhead, turning aside from his celestial path."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 2. 145 ff :
+     </span>
+     <br/>
+     "Wearied by endurance of the storm [as if] had Somnus (Sleep) [Hypnos] poured all his horn's bounty."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/L1.4.html">
+      <img alt="Heracles, Alcyoneus and Hypnus | Athenian black-figure lekythos C6th B.C. | Toledo Museum of Art" class="img-responsive center-block" src="../image/L1.4Alkyoneus.jpg"/>
+     </a>
+     <figcaption>
+      Heracles, Alcyoneus and Hypnus, Athenian black-figure lekythos C6th B.C.,
+      <a href="http://www.toledomuseum.org/" target="_blank">
+       Toledo Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 25 ff :
+     </span>
+     <br/>
+     "Nox (Night) [Nyx] and Somnus (Sleep) [Hypnos] with empty horn [from which he poured slumber upon the earth] were fleeing from the pale goddess' [Eos the Dawn's] wakeful reins."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 5. 155 ff :
+     </span>
+     <br/>
+     "When Somnus (Sleep) [Hypnos], shrouded in the gloom of his brother Letus (Death) [Thanatosh] and dripping with Stygian dew, enfolds the doomed city [of the island of Lemnos], and from his relentless horn pours heavy drowse, and marks out the men. Wives and daughters are awake for murder . . . they fall to their horrid work [murdering their husbands in their sleep]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 10. 80 ff  :
+     </span>
+     <br/>
+     "[During the War of the Seven Against Thebes :] She [Juno-Hera] determines to make the Aonians [the Thebans], sunk in the timeless bliss of slumber, a prey to death, and bids her own Iris gird herself with her wonted circles, and commits to her all her task. Obedient to command, the bright goddess leaves the pole and wings her way down her long arc to earth. Beyond the cloud-wrapt chambers of western gloom and Aethiopia's other realm [i.e. the Ethiopians of the West towards the evening] there stands a motionless grove, impenetrable by any star; beneath it the hollow recesses of a deep and rocky cave run far into a mountain, where the slow hand of Natura (Nature) [Physis] has set the halls of lazy Somnus (Sleep) [Hypnos] and his untroubled dwelling. The threshold is guarded by shady Quies (Quiet) [Hesykhia] and dull Oblivio (Forgetfulness) [Lethe] and torpid Ignavia (Sloth) with ever drowsy countenance. Otia (Ease) and Silentia (Silence) with folded wings sit mute in the forecourt and drive the blustering winds from the roof-top, and forbid the branches to sway, and take away their warblings from the birds. No roar of the sea is here, though all the shores be sounding, nor yet of the sky; the very torrent that runs down the deep valley nigh the cave is silent among the rocks and boulders; by its side are sable herds, and sheep reclining one and all upon the ground; the fresh buds wither, and a breath from the earth makes the grasses sink and fail.
+     <br/>
+     Within, glowing Mulciber [Hephaistos] had carved a thousand likenesses of the god: here wreathed Voluptas (Pleasure) clings to his side, here Labor (Labour) [Ponos] drooping to repose bears him company, here he shares a couch with Bacchus [Dionysos], there with Amor (Love) [Eros], the child of Mars [Ares]. Further within, in the secret places of the palace he lies with Mors (Death) [Thanatos] also, but that dread image is seen by none. These are but pictures: he himself beneath humid caverns rests upon coverlets heaped with slumberous flowers, his garments reek, and the cushions are warm with his sluggish body, and above the bed a dark vapour rises from his breathing mouth. One hand holds up the locks that fall from his left temple, from the other drops his neglected horn. V
+  ague Somnia (Dreams) [Oneiroi] of countless shapes stand round about him, true mixed with false, flattering with sad, the dark brood of Nox (Night) [Nyx], and cling to beams and doorposts, or lie on the ground. The light about the chamber is weak and fitful, and languid gleams that woo to earliest slumbers vanish as the lamps flicker and dim.
+     <br/>
+     Hither from the blue sky came in balanced flight the varicoloured maid [Iris the rainbow]; the forests shine out, and the shady glens smile upon the goddess, and smitten with her zones of radiance the palace stars from its sleep; but he himself, awoken neither by the bright glow nor by the sound or voice of the goddess, lay motionless as ever, till Thaumantias [Iris] shot at him all her splendours and sank deep into his drowsy vision.
+     <br/>
+     Hither from the blue sky came in balanced flight the varicoloured maid [Iris the rainbow]; the forests shine out, and the shady glens smile upon the goddess, and smitten with her zones of radiance the palace stars from its sleep; but he himself, awoken neither by the bright glow nor by the sound or voice of the goddess, lay motionless as ever, till Thaumantias [Iris] shot at him all her splendours and sank deep into his drowsy vision. Then thus began to speak the golden fashioner of clouds : ‘Somnus (Sleep) [Hypnos], gentlest of the gods, Juno [Hera] bids thee bind fast the Sidonian [Theban] leaders and the folk of ruthless Cadmus, who now, puffed up by the issue of fight, are watching in ceaseless vigil the Achaean rampart, and refuse thy sway. Grant so solemn a request--rarely is this opportunity vouchsafed, to win the favour of Jove [Zeus] with Juno [Hera] on thy side.’
+     <br/>
+     She spoke, and with her hand beat upon his languid breast, and charged him again and yet again, lest her message be lost. He with his own nodding visage nods assent to the goddess' command; o'er-weighted with the caverns' gloom Iris goes forth, and tricks out her beams, made dim by showers of rain.
+     <br/>
+     Himself too he bestirred both swift progress and his wind-torn temples [i.e. he had wings on his temples], and filling his mantle's folds with the chill dark air is borne in silent course through heaven, and from afar swoops down in might upon the Aonian fields. The wind of his coming sets birds and beasts and cattle prostrate on the ground, and, whatsoever region of the world he passes in his flight, the waves slide languidly from the rocks, more lazily cling the clouds, the forests bow their summits, and many a star drops from the loosened vault of heaven. The plain first felt the god's presence by the sudden coming of a mist, and the countless voices and cries of men were hushed; but when he brooded with his dewy wings and entered the camp, unsubstantial as a pitchy shadow, eyes wavered and heads sank, and words were left unfinished in mid-speech. Next shining bucklers and cruel spears are dropped from their hands, their faces fall in weariness upon their breasts. And now universal silence reigns: even the horn-footed steeds refuse to stand, even the fires are quenched in sudden ashes. But slumber woos not the anxious Greeks [the Argives attacked Thebes] to same repose, and the night-wandering, persuasive deity keeps his mists from the camp hard by; on every side they stand to arms, in wrath at the hateful gloom and their foes' proud sentinels."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 10. 300 ff :
+     </span>
+     <br/>
+     "[The sleepign Theban troops were slaughtered by the Argives :] None of the slumberers lifts his head or turn his gaze, so deep the shade wherewith the winged god [Somnus-Hypnos] broods over the wretched ones, and unseals their eyes but as they die."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/L1.3.html">
+      <img alt="Heracles, Alcyoneus, Hypnos and Athena | Athenian red-figure kylix C5th B.C. | National Gallery of Victoria, Melbourne" class="img-responsive center-block" src="../image/L1.3Alkyoneus.jpg"/>
+     </a>
+     <figcaption>
+      Heracles, Alcyoneus, Hypnos and Athena, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.ngv.vic.gov.au/" target="_blank">
+       National Gallery of Victoria
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 12. 300 ff :
+     </span>
+     <br/>
+     "Sopor (Sleep) [Hypnos], too, who leaning forward plies for thee [Luna, Selene the Moon] thy humid chariot-reins."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 619 ff :
+     </span>
+     <br/>
+     "Luna (the Moon) [Selene] in her rosy chariot was climbing to the height of mid-heaven, when drowsy Somnus (Sleep) [Hypnos] glided down with full sweep of his pinions to earth and gathered a silent world to his embrace."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 1. 6. 90 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "[During the celebration of the Saturnalia in Rome :] The sky was ablaze with fire, and suffered not the reign of darkness : sluggish Quies (Quiet) [Hesykhia] fled, and lazy Somnus (Sleep) [Hypnos] betook himself to other cities at the sight."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 365 ff (trans. Mair) (Greek poetry C5th to C6th A.D.) :
+     </span>
+     <br/>
+     "[The girl Hermione was abandoned by her mother Helene :] She wailed, and leaning back her neck breathed Hypnos (Sleep) who walks with Thanatos (Death); for verily it was ordained that both should have all things in common and pursue the works of the elder brother : hence women, weighed down with sorrowing eyes, oft-times, while they weep, fall asleep. And wandering amid the deceits of Oneiroi (Dreams) she fancied that she saw her mother."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 237 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Hypnos (Sleep) beating his shady wing sent all breathing nature to rest."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 88 ff :
+     </span>
+     <br/>
+     "[At the wedding of Kadmos (Cadmus) and Harmonia :] All night long, the merry rout of untiring dancers were singing with clear voices beside the bridal chamber in happy romps; since . . ((lacuna)) [Hypnos, god of sleep, a wedding guest] anxious for a sleepless wedding night had left his familiar wand behind, because that was the rationer of sleep."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 15. 87 ff :
+     </span>
+     <br/>
+     "[During the War of Dionysos against the Indians :] While the Indians were running drunken on the hills, just then sweet Hypnos (Sleep) plying his vigorous wing, assaulted the wavering eyes of the persistent Indians, and put them to bed, tormented in mind by immoderate wine, doing grace to Pasithea's father, Dionysos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 16. 260 ff  :
+     </span>
+     <br/>
+     "[Hypnos helped Dionysos seduce the nymphe Nikaia (Nicaea) by putting her to sleep :] Slipping in the dust, she [Nikaia] was drawn unconsciously under the wing of Hypnos (Sleep) who was not far away."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 16.281 ff :
+     </span>
+     <br/>
+     "[Dionysos raped the nymph Nikaia (Nicaea) while she was sleeping :] It was a stolen bridal, like bed in a dream with Hypnos (Sleep) for helper. The maiden lost her maidenhood, slumbering still; she saw Hypnos as marshal of the Erotes (Loves), and as servant of winedecieved nuptials."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 1 ff  :
+     </span>
+     <br/>
+     "Eos (the Dawn) had just shaken off the wing of carefree sleep (Hypnos) and opened the gates of sunrise, leaving the lightbringing couch."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/L1.2.html">
+      <img alt="Alcyoneus and Hypnus | Athenian red-figure krater C5th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/L1.2Alkyoneus.jpg"/>
+     </a>
+     <figcaption>
+      Alcyoneus and Hypnus god of sleep, Athenian red-figure krater C5th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 103 ff  :
+     </span>
+     <br/>
+     "[Hera] wished to send her [Iris] swift as the wind from heaven with a message for shadowy Hypnos (Sleep). She called Iris then, and coaxed her with friendly words : ‘Iris . . . hasten with stormshod foot to the home of gloomy Hypnos in the west. Seek also about seagirt Lemnos, and if you find him tell him to charm the eyes of Zeus uncharmable for one day, that I may help the Indians. But change your shape, take the ugly form of Hypnos' mother the blackgirdled goddess Nyx (Night) ; take a false name and become darkness . . . Promise him Pasithea for his bride, and let him do my need from desire of her beauty. I need not tell you that one lovesick will do anything for hope.’
+     <br/>
+     At these words, Iris goldenwing flew away peering through the air . . . seeking the wandering track of vagrant Hypnos (Sleep). She found him on the slopes of nuptial Orkhomenos (Orchomenus) [home of the Kharites (Charites)]; for there he delayed again and trailed his distracted foot, a frequent visitor at the door of his beloved [the Kharis (Charis)] Pasithea.
+     <br/>
+     Then Iris changed her shape, and all unseen she put on the look of dark Nyx (Night) unrecognisable. She came near to Hypnos, weaving guile; and in his mother's guise uttered her deceitful speech in cajoling whispers : ‘My child . . . O Hypnos, why are you named Allvanquisher? If it be your pleasure, pray turn your eye, and you shall perceive Kronion wakeful once again through the night in sevengate Thebes . . . Let me not see Zeus yet wakeful for a fourth night . . . Pity the blackskin nation of earthborn Indians! Grant this boon . . . O Blackwing! Do not provoke Gaia (Gaea, Earth), my [Nyx's] father's [Khaos' (Chaos')] agemate, from whom alone we are all sprung, we who dwell in Olympos . . .
+     <br/>
+     Do but flap me your wings, and Zeus lies immovable on unshaken bed, so long as you command him, Hypnos! I have heard that you want one of the Kharites (Charites); then if you have in your heart an itch for her bedchamber, have a care! Do not provoke Pasithea's mother, Hera the handmaid of wedded love! And if you dwell with Tethys by the Leukadia (White) Rock, do help Deriades the son of Indian Hydaspes: be true to a neighbour, for resounding Okeanos (Oceanus) your loud-voiced neighbour was an ancestor of Deriades.’
+     <br/>
+     With this appeal, she won his consent. Then Hypnos as one obeying a mother started up, and swore to charm the eyes of unresting Zeus even until the third dawn should come; but Iris begged him to fasten Kronion (Cronion) with slumber for the course of one day only. There Hypnos remained, awaiting the happy season of marriage. 
+  Then goddess Iris returned flying at speed and hastened to deliver her welcome message to her queen."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 32. 95 ff :
+     </span>
+     <br/>
+     "[Zeus filled with desire for  Hera :] spoke, and assembling with a whirl golden clouds like a wall, he arched them eddying above like a round covering dome . . . Thus there was natural covering for the loves of Zeus and his fairarmed bride as they mated there in the open hills, and there was the shape of a couch self-formed to serve their need . . . [and after their lovemaking] Hypnos (Sleep) the servant of the Erotes (Loves) had charmed the eyes of Zeus . . . Zeus slept delicately charmed among the flowers, holding his wife in his arms on that bed unseen."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 33. 4 ff :
+     </span>
+     <br/>
+     "[Aphrodite addresses her attendant the Grace Pasithea, wife of Hypnos :] ‘Dear girl, what trouble has changed your looks? . . . Ah, I know why your cheeks are pale: shadowy Hypnos (Sleep), the vagabond, woos you as a bridegroom woos a maid! I will not compel you if you are unwilling; I will not join Hypnos the blackskin to Pasithea the lilywhite!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 35. 262 ff :
+     </span>
+     <br/>
+     "[During the Indian War of Dionysos :] Zeus awoke on the peaks of Kaukasos (Caucasus) and threw of the wing of Sleep (Hypnos) . . . He understood the beguiling trick of Hera the mischiefmaker when he saw the Seilenoi (Silens) [ in the army of Dionysos] in flight, when he saw the Bakkhante (Bacchante) women hurrying in herds from the threeways and the walls, and behind them the Indian chieftain Deriades, cutting down Satyroi (Satyrs) and mowing down women . . . Then Zeus disclosed Hera's mischievous contrivance, and reproached his deceitful consort with stinging words. And now indeed he would have imprisoned Hypnos (Sleep) in the darksome pit of gloom to dwell along with murky Iapetos, but for the prayers of Nyx (Night) the vanquisher of gods and men. So Zeus calmed his savage resentment with difficulty."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 42. 336 ff :
+     </span>
+     <br/>
+     "He [Dionysos in love] sorrowfully prayed to Hypnos (Sleep) and Eros (Love) and Aphrodite of the Evening [the star Venus], all at once, to let him see the same vision [of his love] once more, longing for the deceptive phantom of an embrace."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 47. 345 ff :
+     </span>
+     <br/>
+     "[Ariadne laments her fate after being abandoned in her sleep by Theseus on Naxos :] ‘Give me again, Hypnos (Sleep), your empty boon, so pleasant; send me another delectable dream like that, so that I may know the sweet bed of love in a deceptive dream! Only linger upon my eyes, that I may know the unreal passion of married love in a dream!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 264 ff :
+     </span>
+     <br/>
+     "The maiden [the virgin Aura] awoke . . . [and] bold Hypnos (Sleep) she reproached more than all and threatening the Oneiros (Dream) [i.e. for sending her a prophetic dream in which she loses her virginity to Dionysos]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 621 ff :
+     </span>
+     <br/>
+     "Iobakkhos (Iobacchus) [Dionysos] seeing her [Aura asleep] on the bare earth, plucking the Lethaean (Forgetful) feather of bridal Hypnos (Sleep), he crept up noiseless, unshod, on tiptoe, and approached Aura where she lay without voice or hearing. With gentle hand he put away the girl's neat quiver and hid the bow in a hole in the rock, that she might not shake off Hypnos' (Sleep's) wing and shoot him . . . On the ground that hapless girl heavy with wine, unmoving, was wedded to Dionysos; Hypnos (Sleep) embraced the body of Aura with overshadowing wings, and he was marshal of the wedding for Bakkhos (Bacchus), for he also had experience of love, he is yokefellow of Selene (the Moon), he is companion of the Erotes (Loves) in nightly caresses."
+    </p>
+    <hr/>
+    <h3 id="Hymns">
+     HYMNS &amp; PRAYERS TO HYPNOS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/N13.4.html">
+      <img alt="Theseus, Ariadne and Hypnos | Apulian red-figure stamnos C4th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/N13.4Hypnos_sm.jpg"/>
+     </a>
+     <figcaption>
+      Theseus, Ariadne and Hypnos, Apulian red-figure stamnos C4th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 85 to Hypnus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Hypnos (Sleep), Fumigation from Poppies. Hypnos, king of Gods, and men of mortal birth, sovereign of all, sustained by mother earth; for thy dominion is supreme alone, over all extended, and by all things known. 'Tis thine all bodies with benignant mind in other bands than those of brass to bind. Tamer of cares, to weary toil repose, and from whom sacred solace in affliction flows. Thy pleasing gentle chains preserve the soul, and even the dreadful cares of death control; for Thanatos (Death), and Lethe (Forgetfulness) with oblivious stream, mankind thy genuine brothers justly deem. With favouring aspect to my prayer incline, and save thy mystics in their works divine."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 4. 1 (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "[Prayer of an insomniac to Somnus the god of Sleep :] O youthful Somnus (Sleep) [Hypnos], gentlest of the gods, by what crime or error of mine have I deserved that I alone should lack thy bounty? Silent are all the cattle, and the wild beasts and the birds, and the curved mountain summits have the semblance of weary slumber, nor do the raging torrents roar as they were wont; the ruffled waves have sunk to rest, and the sea leans against earth's bosom and is still. Seven times now hath the returning moon beheld my fixed and ailing eyes; so often have the lights of Oeta and Paphos [i.e. the morning &amp; evening star] revisited me, so oft hath Tithonia [Aurora-Eos, the Dawn] passed by my groans, and pitying sprinkled me with her cool whip [the whip with which she chases away the stars]. Ah! how may I endure? Not if I had the thousand eyes of sacred Argus, which he kept but in alternate watchfulness, nor even waked in all his frame at once. But now--ah, me!--if some lover through the long hours of night is clasping a girl's entwining arms, and of his own will drives thee from him, come thence, O Somnus! Nor do I bid thee shower all the influence of thy wings upon my eyes--that be the prayer of happier folk!--touch me but with thy wand's extremest tip--'tis enough--or pass over me with lightly hovering step."
+    </p>
+    <hr/>
+    <h3 id="Cult">
+     CULT &amp; IMAGES OF HYPNOS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 10. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[In Sikyon (Sicyon) there is] a sanctuary of Asklepios (Asclepius). On passing into the enclosure you see on the left a building with two rooms. In the outer room lies a figure of Hypnos (Sleep), of which nothing remains now except the head. The inner room is given over to the Apollon Karneios (Carneus); into it none may enter except the priests. In the portico lies a huge bone of a sea-monster, and after it an image of Oneiros (Dream) and Hypnos (Sleep), surnamed Epidotes (Bountiful), lulling to sleep a lion."
+     <br/>
+     [N.B. the healing god Asklepios was believed to visit supplicants of the shrine in their dreams.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 31. 3 :
+     </span>
+     <br/>
+     "Not far from the Mousai's (Muses') hall [at Troizenos (Troezen) in Argolis] is an old altar, which also, according to report, was dedicated by Ardalos. Upon it they sacrifice to the Mousai and to Hypnos (Sleep), saying that Hypnos is the god that is dearest to the Mousai."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 31. 5 :
+     </span>
+     <br/>
+     "[At Troizenos (Troezen) in Argolis there is] an ancient altar . . . they sacrifice on it to Hypnos (Sleep) and the Mousai (Muses); who they say are particular friends."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 18. 1 :
+     </span>
+     <br/>
+     "[Beside the temple of Athena of the Bronze House in Sparta :] Near the statues of Pausanias  is an image of Aphrodite Ambologera (Postponer of Old Age), which was set up in accordance with an oracle; there are also images of Hypnos (Sleep) and of Thanatos (Death). They think them brothers, in accordance with the verses in the
+     <em>
+      Iliad
+     </em>
+     ."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.1.html">
+        <img alt="Thumbnail Hypnos w/ Wand of Sleep" src="../image/thumbN13.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.1 Hypnos w/ Wand
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/H18.1.html">
+        <img alt="Thumbnail Hypnos, Leda, Swan" src="../image/thumbH18.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         H18.1 Hypnos, Leda, Swan
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N12.1.html">
+        <img alt="Thumbnail Sarpedon, Hypnos, Thanatos" src="../image/thumbN12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N12.1 Sarpedon, Hypnos, Thanatos
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.2.html">
+        <img alt="Thumbnail Hypnos &amp; Sarpedon" src="../image/thumbN13.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.2 Hypnos, Body of Sarpedon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.4.html">
+        <img alt="Thumbnail Theseus, Ariadne, Hypnos" src="../image/thumbN13.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.4 Theseus, Ariadne, Hypnos
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.3.html">
+        <img alt="Thumbnail Theseus, Ariadne, Hypnos" src="../image/thumbN13.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.3 Theseus, Ariadne, Hypnos
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.5.html">
+        <img alt="Thumbnail Theseus, Ariadne, Hypnos" src="../image/thumbN13.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.5 Theseus, Ariadne, Hypnos
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L1.2.html">
+        <img alt="Thumbnail Hypnos &amp; Alcyoneus" src="../image/thumbL1.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L1.2 Hypnos &amp; Alcyoneus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L1.4.html">
+        <img alt="Thumbnail Hypnos &amp; Alcyoneus" src="../image/thumbL1.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L1.4 Hypnos &amp; Alcyoneus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L1.3.html">
+        <img alt="Thumbnail Hypnos &amp; Alcyoneus" src="../image/thumbL1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L1.3 Hypnos &amp; Alcyoneus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Licymnius, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C4th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     HYPNOS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE DAEMON HYPNOS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Nyx (no father)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Charis Pasithea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Sleep
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Erebus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Poppy
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Oneiroi
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Somnus, Sopor
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     HYPNOS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Hypnos
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of Hypnos
+      </a>
+     </li>
+     <li>
+      <a href="#Sleep">
+       Hypnos God of Sleep
+      </a>
+     </li>
+     <li>
+      <a href="#Hymns">
+       Hymns &amp; Prayers to Hypnos
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Cult of Hypnos
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

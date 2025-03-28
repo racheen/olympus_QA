@@ -1,0 +1,2674 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   HEPHAESTUS (Hephaistos) - Greek God of Smiths &amp; Metalworking (Roman Vulcan)
+  </title>
+  <meta content="Hephaestus was the ancient Greek god of fire, smiths, craftsmen, metalworking, stonemasonry and sculpture. He was depicted as a bearded man holding a hammer and tongs and sometimes riding a donkey. His Roman name was Vulcan." name="description"/>
+  <meta content="Hephaestus, Hephaistos, Olympian god, Greek mythology, Greek god of smiths, Greek god of craftsmen, Greek god of metalworking, Greek god of fire, Hephaestus pictures, Vulcan, Vulcanos" name="keywords"/>
+  <meta content="HEPHAESTUS - Greek God of Smiths &amp; Metalworking" property="og:title">
+   <meta content="Hephaestus was the ancient Greek god of fire, smiths, craftsmen, metalworking, stonemasonry and sculpture. He was depicted as a bearded man holding a hammer and tongs and sometimes riding a donkey. His Roman name was Vulcan." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Hephaistos.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_hephaistos_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Hephaestus (Hephaistos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HEPHAISTOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ἡφαιστος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Hêphaistos
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Hephaestus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Vulcanos, Vulcan
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/K7.1.html">
+      <img alt="Hephaestus god of smiths | Athenian red-figure skyphos C5th B.C. | Toledo Museum of Art" class="img-responsive center-block" src="../image/K7.1Hephaistos.jpg"/>
+     </a>
+     <figcaption>
+      Hephaestus riding donkey, Athenian red-figure skyphos C5th B.C.,
+      <a href="http://www.toledomuseum.org/" target="_blank">
+       Toledo Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     HEPHAISTOS (Hephaestus) was the Olympian god of fire, smiths, craftsmen, metalworking, stonemasonry and sculpture. 
+He was depicted as a bearded man holding a hammer and tongs--the tools of a smith--and  sometimes riding a donkey.
+    </p>
+    <h2>
+     MYTHS
+    </h2>
+    <p>
+     Some of the more famous myths featuring the god include:--
+    </p>
+    <p>
+     His fall from Olympos  in which he was cast away by Hera at birth. &lt;&lt;
+     <a href="HephaistosMyths.html#Birth">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The capture of Hera in a cursed throne and  his return to Olympos. &lt;&lt;
+     <a href="HephaistosMyths.html#Return">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The adultery of his wife Aphrodite who was trapped  with Ares in a golden net. &lt;&lt;
+     <a href="HephaistosFavour.html#Harmonia">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The crafting of Pandora, the first woman, at the command of Zeus. &lt;&lt;
+     <a href="HephaistosMyths.html#Pandora">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The attempted violation of Athena which resulted in the impregnation of Earth and the birth of Erikhthonios (Erichthonius). &lt;&lt;
+     <a href="HephaistosLoves.html#Athena">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The crafting of the cursed necklace of Harmonia which doomed her descendants to a cycle of tragedy. &lt;&lt;
+     <a href="HephaistosFavour.html#Harmonia">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The Trojan War in which he fought the river-god Skamandros (Scamander) with fire. &lt;&lt;
+     <a href="HephaistosMyths.html#Skamandros">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The crafting of the armour of Akhilleus (Achilles) at the request of the hero's mother Thetis. &lt;&lt;
+     <a href="HephaistosMyths.html#Akhilleus">
+      More
+     </a>
+     &gt;&gt;
+     <a href="../image/flora_peuke_lg.jpg">
+     </a>
+    </p>
+    <p>
+     Many other myths are detailed over the following pages.
+    </p>
+    <hr/>
+    <h2>
+     HEPHAESTUS PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 12 pages describing the god Hephaistos, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Hephaestus Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF HEPHAESTUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1]
+     <a href="Hera.html">
+      HERA
+     </a>
+     (no father)
+     <span class="family-refs">
+      (Hesiod Theogony 927, Homeric Hymn 3.310, Apollodorus 1.19, Pausanias 1.20.3, Hyginus Pref)
+     </span>
+     <br/>
+     [2]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="Hera.html">
+      HERA
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.19, Cicero De Natura Deorum 3.22)
+     </span>
+     <br/>
+     [3]
+     <a href="../Gigante/GiganteTalos.html">
+      TALOS
+     </a>
+     <span class="family-refs">
+      (Pausanias 8.53.5)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     See
+     <a href="HephaistosFamily.html#Genealogy">
+      Family of Hephaistos
+     </a>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/P13.3.html">
+      <img alt="Hephaestus, Thetis and the armour of Achilles | Athenian red-figure nolan amphora C5th B.C. | Museum of Fine Arts Boston" class="img-responsive center-block" src="../image/P13.3Thetis.jpg"/>
+     </a>
+     <figcaption>
+      Hephaestus, Thetis and the armour of Achilles, Athenian red-figure nolan amphora C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     HEPHAESTUS (Hêphaistos), the god of fire, was, according to the Homeric account, the son of Zeus and Hera. (
+     <em>
+      Il.
+     </em>
+     i. 578, xiv. 338, xviii. 396, xxi. 332,
+     <em>
+      Od.
+     </em>
+     viii. 312.) Later traditions state that he had no father, and that Hera gave birth to him independent of Zeus, as she was jealous of Zeus having given birth to Athena independent of her. (Apollod. i. 3. § 5; Hygin.
+     <em>
+      Fab.
+     </em>
+     Praef.) This, however, is opposed to the common story, that Hephaestus split the head of Zeus, and thus assisted him in giving birth to Athena, for Hephaestus is there represented as older than Athena. A further development of the later tradition is, that Hephaestus sprang from the thigh of Hera, and, being for a long time kept in ignorance of his parentage, he at length had recourse to a stratagem, for the purpose of finding it out. He constructed a chair, to which those who sat upon it were fastened, and having thus entrapped Hera, he refused allowing her to rise until she had told him who his parents were. (Serv.
+     <em>
+      ad Aen.
+     </em>
+     viii. 454,
+     <em>
+      Eclog.
+     </em>
+     iv. 62.) For other accounts respecting his origin, see Cicero (
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 22), Pausanias (viii. 53. § 2). and Eustathius (
+     <em>
+      ad Hom.
+     </em>
+     p. 987).
+    </p>
+    <p>
+     Hephaestus is the god of fire, especially in so far as it manifests itself as a power of physical nature in volcanic districts, and in so far as it is the indispensable means in arts and manufactures, whence fire is called the breath of Hephaestus, and the name of the god is used both by Greek and Roman poets as synonymous with fire. As a flame arises out of a little spark, so the god of fire was delicate and weakly from his birth, for which reason he was so much disliked by his mother, that she wished to get rid of him, and dropped him from Olympus. But the marine divinities, Thetis and Eurynome, received him, and he dwelt with them for nine years in a grotto, surrounded by Oceanus, making for them a variety of ornaments. (Hom.
+     <em>
+      Il.
+     </em>
+     xviii. 394, &amp;c.) It was, according to some accounts, during this period that he made the golden chair by which he punished his mother for her want of affection, and from which he would not release her, till he was prevailed upon by Dionysus. (Paus. i. 20. § 2; Hygin.
+     <em>
+      Fab.
+     </em>
+     166.)
+    </p>
+    <p>
+     Although Hephaestus afterwards remembered the cruelty of his mother, yet he was always kind and obedient towards her, nay once, while she was quarrelling with Zeus, he took her part, and thereby offended his father so much, that he seized him by the leg, and hulled him down from Olympus. Hephaestus was a whole day falling, but in the evening he came down in the island of Lemnos, where he was kindly received by the Sintians. (Hom.
+     <em>
+      Il.
+     </em>
+     i. 590, &amp;c. Val. Flacc. ii. 8.5; Apollod. i. 3. § 5, who, however, confounds the two occasions on which Hephaestus was thrown from Olympus.) Later writers describe his lameness as the consequence of his second fall, while Homer makes him lame and weak from his birth.
+    </p>
+    <p>
+     After his second fall he returned to Olympus, and subsequently acted the part of mediator between his parents. (
+     <em>
+      Il
+     </em>
+     i. 585.) On that occasion he offered a cup of nectar to his mother and the other gods, who burst out into immoderate laughter on seeing him busily hobbling through Olympus from one god to another, for he was ugly and slow, and, owing to the weakness of his legs, he was held up, when he walked, by artificial supports, skilfully made of gold. (
+     <em>
+      Il.
+     </em>
+     xviii. 410, &amp;c.,
+     <em>
+      Od.
+     </em>
+     viii. 311, 330.) His neck and chest, however, were strong and muscular. (
+     <em>
+      Il.
+     </em>
+     xviii. 415, xx. 36.)
+    </p>
+    <p>
+     In Olympus, Hephaestus had his own palace, imperishable and shining like stars: it contained his workshop, with the anvil, and twenty bellows, which worked spontaneously at his bidding. (
+     <em>
+      Il.
+     </em>
+     xviii. 370, &amp;c.) It was there that he made all his beautiful and marvellous works, utensils, and arms, both for gods and men. The ancient poets and mythographers abound in passages describing works of exquisite workmanship which had been manufactured by Hephaestus. In later accounts, the Cyclopes, Brontes, Steropes, Pyracmon, and others, are his workmen and servants, and his workshop is no longer represented as in Olympus, but in the interior of some volcanic isle. (Virg.
+     <em>
+      Aen.
+     </em>
+     viii. 416, &amp;c.)
+    </p>
+    <p>
+     The wife of Hephaestus also lived in his palace: in the Iliad she is called a Charis, in the Odyssey Aphrodite (
+     <em>
+      Il.
+     </em>
+     xviii. 382,
+     <em>
+      Od.
+     </em>
+     viii. 270), and in Hesiod's
+     <em>
+      Theogony
+     </em>
+     (945) she is named Aglaia. the youngest of the Charites. The story of Aphrodite's faithlessness to her husband, and of the manner in which he surprised her, is exquisitely described in
+     <em>
+      Od.
+     </em>
+     viii. 266-358. The Homeric poems do not mention any descendants of Hephaestus, but in later writers the number of his children is considerable. In the Trojan war he was on the side of the Greeks, but he was also worshipped by the Trojans, and on one occasion he saved a Trojan from being killed by Diomedes. (
+     <em>
+      Il.
+     </em>
+     v. 9, &amp;c.)
+    </p>
+    <p>
+     His favourite place on earth was the island of Lemnos, where he liked to dwell among the Sintians (
+     <em>
+      Od.
+     </em>
+     viii. 283, &amp;c.,
+     <em>
+      Il.
+     </em>
+     i. 593;
+     <em>
+      Ov Fast.
+     </em>
+     viii. 82); but other volcanic islands also, such as Lipara, Hiera, Imbros. and Sicily, are called his abodes or workshops. (Apollon. Rhod iii. 41; Callim.
+     <em>
+      Hymn. in Dian.
+     </em>
+     47; Serv.
+     <em>
+      ad Aen.
+     </em>
+     viii. 416; Strab. p. 275; Plin.
+     <em>
+      H. N.
+     </em>
+     iii. 9; Val. Flacc. ii. 96.)
+    </p>
+    <p>
+     Hephaestus is among the male what Athena is among the female deities, for, like her, he give skill to mortal artists, and, conjointly with her, he was believed to have taught men the arts which embellish and adorn life. (
+     <em>
+      Od.
+     </em>
+     vi. 233, xxiii. 160.
+     <em>
+      Hymn. in Vaulc.
+     </em>
+     2. &amp;c.) But he was. nevertheless, conceived as far inferior to the sublime character of Athena. At Athens they had temples and festivals in common. (See
+     <em>
+      Dict of Ant. s. v. Hêphaisteia, Chalkeia
+     </em>
+     .) Both also were believed to have great healing powers, and Lemnian earth (terra Lemnia) from the spot on which Hephaestus had fallen was believed to cure madness, the bites of snakes, and haemorrhage, and the priests of the god knew how to cure wounds inflicted by snakes. (Philostr.
+     <em>
+      Heroic.
+     </em>
+     v. 2; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 330; Dict. Cret. ii. 14.)
+    </p>
+    <p>
+     The epithets and surnames by which Hephaestus is designated by the poets generally allude to his skill in the plastic arts or to his figure and his lameness.
+    </p>
+    <p>
+     He was represented in the temple of Athena Chalcioecus at Sparta, in the act of delivering his mother (Paus. iii. 17. § 3); on the chest of Cypselus, giving to Thetis the armour for Achilles (v. 19. § 2); and at Athens there was the famous statue of Hephaestus by Alcamenes, in which his lameness was slightly indicated. (Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     i. 30; Val. Max. viii. 11. § 3.) The Greeks frequently placed small dwarf-like statues of the god near the hearth, and these dwarfish figures seem to have been the most ancient. (Herod. iii. 37; Aristoph.
+     <em>
+      Av.
+     </em>
+     436; Callim.
+     <em>
+      Hymnn. in Dian.
+     </em>
+     60.) During the best period of Grecian art, he was represented as a vigorous man with a beard, and is characterised by his hammer or some other instrument, his oval cap, and the chiton, which leaves the right shoulder and arm uncovered.
+    </p>
+    <p>
+     The Romans, when speaking of the Greek Hephaestus, call him Vulcanus, although Vulcanus was an original Italian divinity.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Hymns">
+     HYMNS TO HEPHAESTUS
+    </h3>
+    <h4>
+     I) THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 20 to Hephaestus (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "Sing, clear-voiced Mousa (Muse), of Hephaistos (Hephaestus) famed for inventions (
+     <em>
+      klytometis
+     </em>
+     ). With bright-eyed Athene he taught men glorious crafts throughout the world,--men who before used to dwell caves in the mountains like wild beasts. But now that they have learned crafts through Hephaistos the famed worker (
+     <em>
+      klytotekhnes
+     </em>
+     ), easily they live a peaceful life in their own houses the whole year round. Be gracious, Hephaistos, and grant me success and prosperity!"
+    </p>
+    <h4>
+     II) THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 66 to Hephaestus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Hephaistos (Hephaestus), Fumigation from Frankincense and Manna. Strong, mighty Hephaistos, bearing splendid light, unwearied fire, with flaming torrents bright: strong-handed, deathless, and of art divine, pure element, a portion of the world is thine: all-taming artist, all-diffusive power, 'tis thine, supreme, all substance to devour: aither, sun, moon, and stars, light pure and clear, for these thy lucid parts [of fire] to men appear. To thee all dwellings, cities, tribes belong, diffused through mortal bodies, rich and strong. Hear, blessed power, to holy rites incline, and all propitious on the incense shine: suppress the rage of fire's unwearied frame, and still preserve our nature's vital flame."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/K7.8.html">
+      <img alt="Dionysus and Hephaestus riding donkey | Caeretan black-figure hydria C6th B.C. | Kunsthistorisches Museum, Vienna" class="img-responsive center-block" src="../image/K7.8Hephaistos.jpg"/>
+     </a>
+     <figcaption>
+      Dionysus and Hephaestus riding donkey, Caeretan black-figure hydria C6th B.C.,
+      <a href="https://www.khm.at/" target="_blank">
+       Kunsthistorisches Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h3 id="Descriptions">
+     PHYSICAL DESCRIPTIONS OF HEPHAESTUS
+    </h3>
+    <p>
+     Classical literature offers only a few, brief descriptions of the physical characteristics of the gods.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20. 37 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Hephaistos (Hephaestus) went the way of these in the pride of his great strength limping, and yet his shrunken legs moved lightly beneath him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 18. 136 ff :
+     </span>
+     <br/>
+     "She found him [Hephaistos] sweating as he turned here and there to his bellows busily, since he was working on twenty tripods . . . Hephaistos took the huge blower off from the block of the anvil limping; and yet his shrunken legs moved lightly beneath him. He set the bellows away from the fire, and gathered and put away all the tools with which he worked in a silver strongbox. Then with a sponge he wiped clean his forehead, and both hands, and his massive neck and hairy chest, and put on a tunic, and took up a heavy stick in his hand, and went to the doorway limping. And in support of their master moved his attendants. These are golden, and in appearance like living young women. There is intelligence in their hearts, and there is speech in them and strength, and from the immortal gods they have learned how to do things. These stirred nimbly in support of their master."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 8. 267 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Hephaistos speaks :] ‘I am a cripple from my birth.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 1. 24 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "At Athens there is a much-praised statue of Volcanus (Vulcan) [Hephaistos] by Alcamenes, a standing figure, draped, which displays a slight lameness, though not enough to be unsightly. We shall therefore deem god to be lame, since tradition represents Volcanus so."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 88 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The heavyknee bridegroom [Hephaistos] always expected that Kythereia (Cytherea) [Aphrodite] would bear him a hobbling son, having the image of his father in his feet."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O1.1.html">
+        <img alt="Thumbnail Hephaestus, Wedding of Thetis" src="../image/thumbO1.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O1.1 Hephaestus, Wedding of Thetis
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.8.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.8 Return of Hephaestus
+        </h3>
+        <p>
+         Caeretan Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.12.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.12 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.13.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.13 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.1.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.1 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.2.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.2 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.5.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.5B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.5 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.10.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.10 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.10.html">
+        <img alt="Thumbnail Hephaestus, Birth of Athena" src="../image/thumbK8.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.10 Hephaestus, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.13.html">
+        <img alt="Thumbnail Hephaestus, Birth of Athena" src="../image/thumbK8.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.13 Hephaestus, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.14.html">
+        <img alt="Thumbnail Hephaestus, Birth of Athena" src="../image/thumbK8.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.14 Hephaestus, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.6.html">
+        <img alt="Thumbnail Hephaestus, Winged Chariot" src="../image/thumbK7.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.6 Hephaestus, Winged Chariot
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P13.3.html">
+        <img alt="Thumbnail Hephaestus &amp; Thetis" src="../image/thumbP13.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P13.3 Hephaestus &amp; Thetis
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P13.4.html">
+        <img alt="Thumbnail Hephaestus &amp; Thetis" src="../image/thumbP13.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P13.4 Hephaestus &amp; Thetis
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.1.html">
+        <img alt="Thumbnail Hephaestus, Creation of Pandora" src="../image/thumbT22.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.1 Hephaestus, Creation of Pandora
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.3.html">
+        <img alt="Thumbnail Hephaestus, Creation of Pandora" src="../image/thumbT22.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.3 Hephaestus, Creation of Pandora
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.3.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.3 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.4.html">
+        <img alt="Thumbnail Return of Hephaestus" src="../image/thumbK7.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.4 Return of Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.3.html">
+        <img alt="Thumbnail Hephaestus, Birth Erichthonius" src="../image/thumbT1.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.3 Hephaestus, Birth Erichthonius
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F7.1.html">
+        <img alt="Thumbnail Hephaestus &amp; the Cyclopes" src="../image/thumbF7.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F7.1 Hephaestus &amp; the Cyclopes
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F7.2.html">
+        <img alt="Thumbnail Hephaestus, Thetis, Cyclopes" src="../image/thumbF7.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F7.2 Hephaestus, Thetis, Cyclopes
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S7.1.html">
+        <img alt="Thumbnail Hephaestus-Vulcan Statue" src="../image/thumbS7.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S7.1 Hephaestus-Vulcan
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL HEPHAESTUS PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodShield.html">
+       Hesiod, The Shield of Heracles
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Astronomy Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Cypria Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Little Iliad Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Mimnermus, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Solon, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Birds
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Alcibiades
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Critias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Protagoras
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Euphorion, Fragments
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Photius, Myriobiblon
+      <span class="sources-detail">
+       - Byzantine Greek Scholar C9th A.D.
+      </span>
+     </li>
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Source status of Hephaistos pages:-
+      <br/>
+      1. Fully quoted: Homer (Iliad &amp; Odyssey), Hesiod, Homeric Hymns, Epic Cycle &amp; Homerica, Aesop, Apollodorus, Pausanias, Strabo, Herodotus, Orphic Hymns, Quintus Smyrnaeus, Callimachus, Antoninus Liberalis, Aelian, Hyginus (Fabulae &amp; Astronomica);, Ovid (Metamorphoses &amp; Fasti), Cicero, Apuleius, Apollonius of Tyana;
+      <br/>
+      2. Partially or not quoted (Greek): Pindar, Greek Lyric (Fragments), Greek Elegaic (Fragments), Euripides, Aeschylus, Sophocles, Aristophanes, Plato, Apollonius Rhodius, Diodorus Siculus, Theocritus, Lycophron, Plutarch, Philostratus &amp; Callistratus, Nonnus, Oppian, Colluthus, Tryphiodorus, et. al.;
+      <br/>
+      3. Partially or not quoted (Latin): Statius, Propertius, Valerius Flaccus, et. al.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     HEPHAESTUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD HEPHAESTUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Hera (no father)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Charis Aglaea, Aphrodite
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Smiths, fire, metalworking
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbol
+       </th>
+       <td>
+        Hammer &amp; tongs
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Donkey
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Cyclopes, Celedones
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Vulcan
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     HEPHAESTUS PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Family">
+         Family Tree of Hephaestus
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Hephaestus
+        </a>
+       </li>
+       <li>
+        <a href="#Descriptions">
+         Physical Descriptions
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosGod.html">
+       Part 2: Hephaestus God of
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosGod.html#Fire">
+         Fire
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosGod.html#Smiths">
+         Smiths &amp; Craftsmen
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosGod.html#Volcano">
+         Volcanoes
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosGod.html#Foreign">
+         Identified with Foreign Gods
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosFamily.html">
+       Part 3: Hephaestus Family
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosFamily.html#Genealogy">
+         Genealogy
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFamily.html#Divine">
+         Divine Offspring
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFamily.html#Mortal">
+         Mortal Offspring
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFamily.html#Kingdom">
+         Family by Kingdom
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosMyths.html">
+       Part 4: Hephaestus Myths 1 General
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosMyths.html#Birth">
+         Birth of Hephaestus
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#CastHera">
+         Fall from Heaven I
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Return">
+         Return of Hephaistos
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#CastZeus">
+         Fall from Heaven II
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Athena">
+         Birth of Athena
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Pandora">
+         Creation of Pandora
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Prometheus">
+         Chaining of Prometheus
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Gigantes">
+         War of the Giants
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Typhoeus">
+         Flight from Typhoeus
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Troy">
+         The Trojan War
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosMyths.html#Dionysos">
+         The Indian War of Dionysus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosLoves.html">
+       Part 4: Hephaestus Myths 2 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosLoves.html#Aglaia">
+         Aglaea
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosLoves.html#Aphrodite">
+         Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosLoves.html#Athena">
+         Athena &amp; Gaea
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosLoves.html#Persephone">
+         Persephone
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosFavour.html">
+       Part 4: Hephaestus Myths 3 Wrath
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosFavour.html#Harmonia">
+         Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFavour.html#Harmonia">
+         Harmonia
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFavour.html#Hera">
+         Hera
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosFavour.html">
+       Part 4: Hephaestus Myths 3 Favour
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosFavour.html#Kabeiroi">
+         Cabeiri
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFavour.html#Dares">
+         Dares
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFavour.html#Orion">
+         Orion
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosFavour.html#Pelops">
+         Pelops
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosWorks.html">
+       Part 4: Hephaestus Myths 4 Works
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosWorks.html#PalacesGods">
+         Palaces of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#PalacesKings">
+         Palaces of Kings
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#Temples">
+         Temples &amp; Cult Statues
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#Chariots">
+         Chariots of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#Automotones">
+         Automotons
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#Jewellery">
+         Jewellery
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#Bowls">
+         Bowls &amp; Cups
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#Chains">
+         Chains &amp; Bindings
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks.html#Other">
+         Other Artifacts
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosWorks2.html">
+       Part 4: Hephaestus Myths 5 Works
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosWorks2.html#WeaponsGods">
+         Weapons of Gods
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks2.html#WeaponsHeroes">
+         Weapons of Heroes
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks2.html#ArmourGods">
+         Armour of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks2.html#ArmourHeroes">
+         Armour of Heroes
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks2.html#Herakles">
+         Armour of Heracles
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks2.html#Akhilleus">
+         Armour of Achilles
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosWorks2.html#Aeneas">
+         Armour of Aeneas
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="HephaistosTreasures.html">
+       Part 5: Estate &amp; Retinue
+      </a>
+      <ul>
+       <li>
+        <a href="HephaistosTreasures.html#Olympos">
+         Forge on Olympus
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosTreasures.html#Lemnos">
+         Forge on Lemnos
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosTreasures.html#Volcanus">
+         Forge in Sicily
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosTreasures.html#Animals">
+         Sacred Animals
+        </a>
+       </li>
+       <li>
+        <a href="HephaistosTreasures.html#Attendants">
+         Attendants
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/HephaistosCult.html">
+       Part 6: Cult of Hephaestus, Titles &amp; Epithets
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/HephaistosCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HephaistosCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HephaistosCult.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HephaistosCult.html#Lemnos">
+         Lemnos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HephaistosCult.html#Sikelia">
+         Sicily, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HephaistosCult.html#Poetic">
+         Poetic Titles &amp; Epithets
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/HephaistosCult.html#Cult">
+         Cult Titles
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Summary/Hephaistos.html">
+       Summary of Hephaestus
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

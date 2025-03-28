@@ -1,0 +1,3284 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   APOLLO (Apollon) - Greek God of Music, Prophecy &amp; Healing
+  </title>
+  <meta content="Apollo was the ancient Greek god of prophecy and oracles, music, song and poetry, archery, healing, plague and disease, and the protection of the young. He was depicted as a handsome, beardless youth with long hair and attributes such as a wreath and branch of laurel, bow and quiver of arrows, raven, and lyre." name="description"/>
+  <meta content="Apollo, Apollon, Phoebus, Olympian god, Greek mythology, Greek god of music, Greek god of poetry, Greek god of song, Greek god of prophecy, Greek god of oracles, Greek god of archery, Apollo pictures" name="keywords"/>
+  <meta content="APOLLO - Greek God of Music, Prophecy &amp; Healing" property="og:title">
+   <meta content="Apollo was the ancient Greek god of prophecy and oracles, music, song and poetry, archery, healing, plague and disease, and the protection of the young. He was depicted as a handsome, beardless youth with long hair and attributes such as a wreath and branch of laurel, bow and quiver of arrows, raven, and lyre." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Apollon.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_apollon_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Apollo (Apollon)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     APOLLON
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Απολλων
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Apollôn
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Apollo
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Apollo
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/K5.16.html">
+      <img alt="Apollo | Athenian red-figure am C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K5.16Apollon.jpg"/>
+     </a>
+     <figcaption>
+      Apollo, Athenian red-figure amphora C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     APOLLON (Apollo) was the Olympian god of prophecy and oracles, music, song and poetry, archery, healing, plague and disease, and the protection of the young. He was depicted as a handsome, beardless youth with long hair and attributes such as a wreath and branch of laurel, bow and quiver of arrows, raven, and lyre.
+    </p>
+    <h2>
+     MYTHS
+    </h2>
+    <p>
+     The most famous myths of Apollon include:--
+    </p>
+    <p>
+     His birth on the island of Delos. &lt;&lt;
+     <a href="../Titan/TitanisLeto.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The slaying of the serpent Python which guarded the oracular shrine of Delphoi (Delphi). &lt;&lt;
+     <a href="../Ther/DrakainaPython.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The slaying of the giant Tityos who attempted to carry off the god's mother Leto. &lt;&lt;
+     <a href="../Gigante/GiganteTityos.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The destruction of the Niobides whose mother had offended Leto with her boasts. &lt;&lt;
+     <a href="ArtemisWrath.html#Niobe">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     His music contest with the satyr Marsyas who lost and was flayed alive. &lt;&lt;
+     <a href="../Georgikos/SatyrosMarsyas.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     His love for the youth Hyakinthos (Hyacinthus) who was killed by a discus throw and transformed into a flower. &lt;&lt;
+     <a href="ApollonLoves.html#Hyakinthos">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     His love for the nymph Daphne who fled from him and was transformed into a laurel tree. &lt;&lt;
+     <a href="../Nymphe/NympheDaphne.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     His love for Koronis (Coronis) who was slain by Artemis for her infidelity. &lt;&lt;
+     <a href="../Heroine/Koronis.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The murder of the Kyklopes (Cyclopes) who had forged the lightning bolt used to destroy his son Asklepios (Asclepius). &lt;&lt;
+     <a href="../Titan/Kyklopes.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     His service as bondsman to the mortal Admetos.
+    </p>
+    <p>
+     His struggle with Herakles (Heracles) for the Delphic tripod.
+    </p>
+    <p>
+     The Trojan War in which he brought plague to the Greeks and helped Paris slay Akhilleus (Achilles).
+    </p>
+    <hr/>
+    <h2>
+     APOLLO PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 9 pages describing the god, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Apollo Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF APOLLO
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisLeto.html">
+      LETO
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 918, Hesiod Works &amp; Days 770, Homer Iliad 1.9 &amp; 21.495, Homer Odyssey 6.100 &amp; 11.318, Homeric Hymn 27 to Artemis, Orphic Hymn 35, Pindar Nemean Ode 6 &amp; 8, Pindar Processional Song on Delos, Callimachus Hymn to Artemis &amp; Hymn to Delos, Apollodorus 1.21 &amp; 3.46, Pausanias 8.9.1 &amp; 8.53.1. Hyginus Fabulae 9 &amp; 140, et al)
+     </span>
+     <br/>
+     [1.2]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     <span class="family-refs">
+      (Innumerable other sources)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     See
+     <a href="ApollonFamily.html#Genealogy">
+      Family of Apollon
+     </a>
+    </p>
+    <hr/>
+    <p>
+     Below are two graphics depicting Apollon's family tree, the first with names transliterated from the Greek and the second with the common English spellings:-
+    </p>
+    <img alt="Family Tree of Apollon" class="img-responsive" src="../image/family-tree-apollon-1.jpg"/>
+    <img alt="Family Tree of Apollo" class="img-responsive" src="../image/family-tree-apollon-2.jpg"/>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/S5.1.html">
+      <img alt="Apollo Belvedere | Greco-Roman marble statue C2nd A.D. | Pio-Clementino Museum, Vatican Museums" class="img-responsive center-block" src="../image/S5.1Apollon.jpg"/>
+     </a>
+     <figcaption>
+      Apollo Belvedere, Greco-Roman marble statue C2nd A.D.,
+      <a href="http://mv.vatican.va/" target="_blank">
+       Pio-Clementino Museum, Vatican Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     APOLLO, one of the great divinities of the Greeks, was, according to Homer (
+     <em>
+      Il.
+     </em>
+     i. 21, 36), the son of Zeus and Leto. Hesiod (
+     <em>
+      Theog.
+     </em>
+     918) states the same, and adds, that Apollo′s sister was Artemis. Neither of the two poets suggests anything in regard to the birth-place of the god, unless we take Lukêgenês (
+     <em>
+      Il.
+     </em>
+     iv. 101) in the sense of "born in Lycia," which, however, according to others, would only mean "born of or in light." Several towns and places claimed the honour of his birth, as we see from various local traditions mentioned by late writers. Thus the Ephesians said that Apollo and Artemis were born in the grove of Ortygia near Ephesus (Tacit.
+     <em>
+      Annal.
+     </em>
+     iii. 61); the inhabitants of Tegyra in Boeotia and of Zoster in Attica claimed the same honour for themselves. (Steph. Byz.
+     <em>
+      s.v.
+     </em>
+     Tegura.) In some of these local traditions Apollo is mentioned alone, and in others together with his sister Artemis. The account of Apollo′s parentage, too, was not the same in all traditions (Cic.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 23), and the Egyptians made out that he was a son of Dionysus and Isis. (Herod. ii. 156.) But the opinion most universally received was, that Apollo, the son of Zeus and Leto, was born in the island of Delos, together with his sister Artemis; and the circumstances of his birth there are detailed in the Homeric hymn on Apollo, and in that of Callimachus on Delos. (Comp. Apollod. i. 4. § 1; Hygin.
+     <em>
+      Fab.
+     </em>
+     140.) Hera in her jealousy pursued Leto from land to land and from isle to isle, and endeavoured to prevent her finding a resting-place where to give birth. At last, however, she arrived in Delos, where she was kindly received, and after nine days′ labour she gave birth to Apollo under a palm or an olive tree at the foot of mount Cynthus. She was assisted by all the goddesses, except Hera and Eileithyia, but the latter too hastened to lend her aid, as soon as she heard what was taking place. The island of Delos, which previous to this event had been unsteady and floating on or buried under the waves of the sea, now became stationary, and was fastened to the roots of the earth. (Comp. Virg.
+     <em>
+      Aen.
+     </em>
+     iii. 75.) The day of Apollo′s birth was believed to have been the seventh of the month, whence he is called hebdomagenês. (Plut.
+     <em>
+      Sympos.
+     </em>
+     8.) According to some traditions, he was a seven months′ child (heptamênaios). The number seven was sacred to the god; on the seventh of every month sacrifices were offered to him (hebdomagetês, Aeschyl.
+     <em>
+      Sept.
+     </em>
+     802; comp. Callim.
+     <em>
+      Hymn. in Del.
+     </em>
+     250, &amp;c.), and his festivals usually fell on the seventh of a month. Immediately after his birth, Apollo was fed with ambrosia and nectar by Themis, and no sooner had he tasted the divine food, than he sprang up and demanded a lyre and a bow, and declared, that henceforth he would declare to men the will of Zeus. Delos exulted with joy, and covered herself with golden flowers. (Comp. Theognis, 5, &amp;c.; Eurip.
+     <em>
+      Hecub.
+     </em>
+     457, &amp;c.)
+    </p>
+    <p>
+     Apollo, though one of the great gods of Olympus, is yet represented in some sort of dependence on Zeus, who is regarded as the source of the powers exercised by his son. The powers ascribed to Apollo are apparently of different kinds, but all are connected with one another, and may be said to be only ramifications of one and the same, as will be seen from the following classification.
+    </p>
+    <p>
+     Apollo is -- 1.
+     <em>
+      the god who punishes and destroys
+     </em>
+     (
+     <em>
+      oulios
+     </em>
+     )
+     <em>
+      the wicked and overbearing,
+     </em>
+     and as such he is described as the god with bow and arrows, the gift of Hephaestus. (Hom.
+     <em>
+      Il.
+     </em>
+     i. 42, xxiv.605,
+     <em>
+      Od.
+     </em>
+     xi. 318, xv. 410, &amp;c.; comp. Pind.
+     <em>
+      Pyth.
+     </em>
+     iii. 15, &amp;c.) Various epithets given to him in the Homeric poems, such as
+     <em>
+      hekatos
+     </em>
+     ,
+     <em>
+      hekaergos
+     </em>
+     ,
+     <em>
+      hekêbolos
+     </em>
+     ,
+     <em>
+      ekatêbolos
+     </em>
+     ,
+     <em>
+      klutotoxos
+     </em>
+     , and
+     <em>
+      argurotoxos
+     </em>
+     , refer to him as the god who with his darts hits his object at a distance and never misses it. All sudden deaths of men, whether they were regarded as a punishment or a reward, were believed to be the effect of the arrows of Apollo; and with the same arrows he sent the plague into the camp of the Greeks. Hyginus relates, that four days after his birth, Apollo went to mount Parnassus, and there killed the dragon Python, who had pursued his mother during her wanderings, before she reached Delos. He is also said to have assisted Zeus in his contest with the giants. (Apollod, i. 6. § 2.) The circumstance of Apollo being the destroyer of the wicked was believed by some of the ancients to have given rise to his name Apollo, which they connected with apollumi, "to destroy." (Aeschyl.
+     <em>
+      Agam.
+     </em>
+     1081.) Some modern writers, on the other hand, who consider the power of averting evil to have been the original and principal feature in his character, say that Apollôn,
+     <em>
+      i. e.
+     </em>
+     Apellôn, (from the root
+     <em>
+      pello
+     </em>
+     ), signifies the god who drives away evil, and is synonymous with alexikakas, Acesius, Acestor, sôtêr, and other names and epithets applied to Apollo.
+    </p>
+    <p>
+     2.
+     <em>
+      The god who affords help and wards off evil.
+     </em>
+     As he had the power of visiting men with plagues and epidemics, so he was also able to deliver men from them, if duly propitiated, or at least by his oracles to suggest the means by which such calamities could be averted.
+    </p>
+    <p>
+     Various names and epithets which are given to Apollo, especially by later writers, such as akesios, akestôr, alexikakos, sôtêr, apotropaios, epikourios, iatromantis, and others, are descriptive of this power. (Paus. i. 3. § 3, vi. 24. § 5, viii. 41. § 5; Plut.
+     <em>
+      de
+     </em>
+     Ei
+     <em>
+      ap. Delph.
+     </em>
+     21,
+     <em>
+      de Defect. Orac.
+     </em>
+     7; Aeschyl.
+     <em>
+      Eum..
+     </em>
+     62; comp. Müller,
+     <em>
+      Dor.
+     </em>
+     ii. 6. § 3.) It seems to be the idea of his being the god who afforded help, that made him the father of Asclepius, the god of the healing art, and that, at least in later times, identified him with Pacëon, the god of the healing art in Homer.
+    </p>
+    <p>
+     3.
+     <em>
+      The god of prophecy.
+     </em>
+     Apollo exercised this power in his numerous oracles, and especially in that of Delphi. (
+     <em>
+      Dict. of Ant. s. v. Oraculum
+     </em>
+     ) The source of all his prophetic powers was Zeus himself (Apollodorus states, that Apollo received the mantikê from Pan), and Apollo is accordingly called "the prophet of his father Zeus." (Aeschyl.
+     <em>
+      Eum.
+     </em>
+     19); but he had nevertheless the power of communicating the gift of prophecy both to gods and men, and all the ancient seers and prophets are placed in some relationship to him. (Hom.
+     <em>
+      Il.
+     </em>
+     i. 72,
+     <em>
+      Hymn. in Merc.
+     </em>
+     3, 471.) The manner in which Apollo came into the possession of the oracle of Delphi (Pytho) is related differently. According to Apollodorus, the oracle had previously been in the possession of Themis, and the dragon Python guarded the mysterious chasm, and Apollo, after having slain the monster, took possession of the oracle. According to Hyginus, Python himself possessed the oracle; while Pausanias (x. 3. § 5) states, that it belonged to Gaea and Poseidon in common. (Comp. Eurip.
+     <em>
+      Iphig. Taur.
+     </em>
+     1246, &amp;c.; Atlen. xv. p. 701; Ov.
+     <em>
+      Met.
+     </em>
+     i. 439; Apollon. Rhod. ii. 706.)
+    </p>
+    <p>
+     4.
+     <em>
+      The god of song and music.
+     </em>
+     We find him in the Iliad (i. 603) delighting the immortal gods with his play on the phorminx during their repast ; and the Homeric bards derived their art of song either from Apollo or the Muses. (
+     <em>
+      Od.
+     </em>
+     viii. 488, with Eustath.) Later traditions ascribed to Apollo even the invention of the flute and lyre (Callim.
+     <em>
+      Hymn. in Del.
+     </em>
+     253; Plut.
+     <em>
+      de Mus.),
+     </em>
+     while the more common tradition was, that he received the lyre from Hermes. Ovid
+     <em>
+      Heroid.
+     </em>
+     xvi. 180) makes Apollo build the walls of Troy by playing on the lyre, as Amphion did the walls of Thebes. Respecting his musical contests, see Marsyas.
+    </p>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/K5.17.html">
+      <img alt="Apollo riding swan | Athenian red-figure bell krater C4th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K5.17Apollon.jpg"/>
+     </a>
+     <figcaption>
+      Apollo riding swan, Athenian red-figure bell krater C4th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     5.
+     <em>
+      The god who protects the flocks and cattle
+     </em>
+     (nomios Deos, from nomos or nomê, a meadow or pasture land). Homer (
+     <em>
+      Il.
+     </em>
+     ii. 766) says, that Apollo reared the swift steeds of Eumelus Pheretiades in Pieria, and according to the Homeric hymn to Hermes (22, 70, &amp;c.) the herds of the gods fed in Pieria under the care of Apollo. At the command of Zeus, Apollo guarded the cattle of Laomedon in the valleys of mount Ida. (
+     <em>
+      ll.
+     </em>
+     xxi. 488.) There are in Homer only a few allusions to this feature in the character of Apollo, but in later writers it assumes a very prominent form (Pind.
+     <em>
+      Pyth.
+     </em>
+     ix. 114; Callim.
+     <em>
+      Hymn. in Apoll.
+     </em>
+     50, &amp;c.); and in the story of Apollo tending the flocks of Admetus at Pherae in Thessaly, on the banks of the river Amphrysus, the idea reaches its height. (Apollod. i. 9. &amp;sec; 15; Eurip.
+     <em>
+      Alcest.
+     </em>
+     8; Tibull. ii. 3. 11; Virg.
+     <em>
+      Georg.
+     </em>
+     iii. 2.)
+    </p>
+    <p>
+     6.
+     <em>
+      The god who delights in the foundation of towns and the establishment of civil constilutions.
+     </em>
+     His assistance in the building of Troy was mentioned above; respecting his aid in raising the walls of Megara. Pindar (
+     <em>
+      Pyth.
+     </em>
+     v. 80) calls Apollo the archêgetês, or the leader of the Dorians in their migration to Peloponnesus; and this idea, as well as the one that he delighted in the foundation of cities. seems to be intimately connected with the circumstance, that a town or a colony was never founded by the Greeks without consulting an oracle of Apollo, so that in every case he became, as it were, their spiritual leader. The epithets ktistês and oikistês (see Böckh,
+     <em>
+      ad Pind. l.e.
+     </em>
+     ) refer to this part in the character of Apollo.
+    </p>
+    <p>
+     These characteristics of Apollo necessarily appear in a peculiar light, if we adopt the view which was almost universal among the later poets, mythographers, and philesophers, and according to which Apollo was identical with Helios, or the Sun. In Homer and for some centuries after his time Apollo and Helios are perfectiy distinet. The question which here presents itself, is, whether the idea of the identity of the two divinities was the original and primitive one, and was only revival in later times, or whether it was the result of later speeulations and of foreign, chiefly Egyptian, influence. Each of these two opinions has had its able advocates. The former, which has been maintained by Buttmann and Hermann, is supported by strong arguments. In the time of Callimachus, some persons distinguished between Apollo and Helios, for which they were censured by the poet. (
+     <em>
+      Fragm.
+     </em>
+     48, ed. Bentley.) Pausanias (vii. 23. &amp;sec; 6) states, that he met a Sidonian who declared the two gods to be identical, and Pausanias adds that this was quite in accordance with the belief of the Greeks. (Comp. Strab. xiv. p. (635; Plut.
+     <em>
+      de
+     </em>
+     Ei ap.
+     <em>
+      Delph.
+     </em>
+     4, de
+     <em>
+      Def.Orae.
+     </em>
+     7.) It has further been said, that if Apollo be regarded as the Sun, the powers and attributes which we have enumerated above are easily explained and accounted for; that the surname of Phoibos (the shining or brilliant), which is frequently applied to Apollo in the Homeric poems, points to the sun; and lastly, that the traditions concerning the Hyperboreans and their worship of Apollo bear the strongest marks of their regarding the god in the same light. (Alcaeus,
+     <em>
+      ap. Himer.
+     </em>
+     xiv. 10; Diod. ii. 47.) Still greater stress is laid on the fact that the Egyptian Horus was regarded as identical with Apollo (Herod. ii. 144, 156 ; Diod. i. 25; Plut.
+     <em>
+      de Is. et Os.
+     </em>
+     12, 61; Aelian, Hist. An. x. 14), as Horus is usually considered as the god of the burning sun. Those who adopt this view derive Apollo from the East or from Egypt, and regard the Athenian Apollôn patrôios as the god who was brought to Attica by the Egyptian colony under Cecrops. Another set of accounts derives the worship of Apollo from the very opposite quarter of the world -- from the country of the Hyperboreans, that is, a nation living beyond the point where the north wind rises, and whose country is in consequence most happy and fruitful. According to a fragment of an ancient Doric hymn in Pausanias (x. 5. § 4), the oracle of Delphi was founded by Hyperboreans and Olenus ; Leto, too, is said to have come from the Hyperboreans to Delos, and Eileithyia likewise. (Herod. iv. 33, &amp;c.; Paus. i. 18. § 4; Diod. ii. 47.) The Hyperboreans, says Diodorus, worship Apollo more zealously than any other people; they are all priests of Apollo; one town in their country is sacred to Apollo, and its inhabitants are for the most part players on the lyre. (Comp. Pind.
+     <em>
+      pyth.
+     </em>
+     x. 55, &amp;c.)
+    </p>
+    <p>
+     These opposite accounts respecting the original seat of the worship of Apollo might lead us to suppose, that they refer to two distinct divinities, which were in the course of time united into one, as indeed Cicero (
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 23) distinguishes four different Apollos. Müller has rejected most decidedly and justly the hypothesis, that Apollo was derived from Egypt; but he rejects at the same time, without very satisfactory reasons, the opinion that Apollo was connected with the worship of nature or any part of it; for, according to him, Apollo is a purely spiritual divinity, and far above all the other gods of Olympus. As regards the identity of Apollo and Helios, he justly remarks, that it would be a strange phenomenon if this identity should have fallen into oblivion for several centuries, and then have been revived. This objection is indeed strong, but not insurmountable if we recollect the tendency of the Greeks to change a peculiar attribute of a god into a separate divinity; and this process, in regard to Helios and Apollo, seems to have taken place previous to the time of Homer. Müller′s view of Apollo, which is at least very ingenious, is briefly this. The original and essential feature in the character of Apollo is that of "the averter of evil" (Apellôn); he is originally a divinity peculiar to the Doric race; and the most ancient seats of his worship are the Thessalian Tempe and Delphi. From thence it was transplanted to Crete, the inhabitants of which spread it over the coasts of Asia Minor and parts of the continent of Greece, such as Boeotia and Attica. In the latter country it was introduced during the immigration of the Ionians, whence the god became the Apollôn patrpsos of the Athenians. The conquest of Peloponnesus by the Dorians raised Apollo to the rank of the principal divinity in the peninsula. The Apollôn nomios was originally a local divinity of the shepherds of Arcadia, who was transformed into and identified with the Dorian Apollo during the process in which the latter became the national divinity of the Peloponnesians. In the same manner as in this instance the god assumed the character of a god of herds and flocks, his character was changed and modified in other parts of Greece also : with the Hyperboreans he was the god of prophecy, and with the Cretans the god with bow and darts. In Egypt he was made to form a part of their astronomical system, which was afterwards introduced into Greece, where it became the prevalent opinion of the learned.
+    </p>
+    <p>
+     But whatever we may think of this and other modes of explaining the origin and nature of Apollo, one point is certain and attested by thousands of facts, that Apollo and his worship, his festivals and oracles, had more influence upon the Greeks than any other god. It may safely be asserted, that the Greeks would never have become what they were, without the worship of Apollo : in him the brightest side of the Grecian mind is reflected. Respecting his festivals, see
+     <em>
+      Dict. of Ant. s. v.
+     </em>
+     Apollônia,
+     <em>
+      Thargelia,
+     </em>
+     and others.
+    </p>
+    <p>
+     In the religion of the early Romans there is no trace of the worship of Apollo. The Romans became acquainted with this divinity through the Creeks, and adopted all their notions and ideas about him from the latter people. There is no doubt that the Romans knew of his worship among the Greeks at a very early time, and tradition says that they consulted his oracle at Delphi even before the expulsion of the kings. But the first time that we hear of the worship of Apollo at Rome is in the year B. C. 430, when, for the purpose of averting a plague, a temple was raised to him, and soon after dedicated by the consul, C. Julius. (Liv. iv. 25, 29.) A second temple was built to him in the year B. C. 350. One of these two (it is not certain which) stood outside the porta Capena. During the second Punic war, in B. C. 212, the ludi Apollinares were instituted in honour of Apollo. (Liv. xxv. 12; Macrob.
+     <em>
+      Sat.
+     </em>
+     i. 17;
+     <em>
+      Dict. of Ant. s. v. Ludi Apollinares; comp. Ludi Sweculares.
+     </em>
+     ) The worship of this divinity, however, did not form a very prominent part in the religion of the Romans till the time of Augustus, who, after the battle of Actium, not only dedicated to him a portion of the spoils, but built or embellished his temple at Actium, and founded a new one at Rome on the Palatine, and instituted quinquennial games at Actium. (Suet.
+     <em>
+      Aug.
+     </em>
+     31, 52;
+     <em>
+      Dict. of Ant. s. v.
+     </em>
+     Aktia.)
+    </p>
+    <p>
+     Apollo, the national divinity of the Greeks, was of course represented in all the ways which the plastic arts were capable of. As the ideas of the god became gradually and more and more fully developed, so his representations in works of art rose from a rude wooden image to the perfect ideal of youthful manliness, so that he appeared to the ancients in the light of a twin brother of Aphrodite. (Plin.
+     <em>
+      H. N.
+     </em>
+     xxxvi. 4. § 10.) The most beautiful and celebrated among the extant representations of Apollo are the Apollo of Belvedere at Rome, which was discovered in 1503 at Rettuno (
+     <em>
+      Mus. Pio-Clem.
+     </em>
+     i. 14, 15), and the Apollino at Florence. In the Apollo of Belvedere, the god is represented with commanding but serene majesty; sublime intellect and physical beauty are combined in it in the most wonderful manner. The forehead is higher than in other ancient figures, and on it there is a pair of locks, while the rest of his hair flows freely down on his neck. The limbs are well proportioned and harmonious, the muscles are not worked out too strongly, and at the hips the figure is rather thin in proportion to the breast.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Hymns">
+     <a>
+     </a>
+     HYMNS TO APOLLO
+    </h3>
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/K5.4.html">
+      <img alt="Apollo | Athenian red-figure calyx krater C5th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/K5.4BApollon.jpg"/>
+     </a>
+     <figcaption>
+      Apollo, Athenian red-figure calyx krater C5th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I) THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 3 to Pythian Apollo (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "O Lord [Apollon], Lykia (Lycia) is yours and lovely Maionian (Maeonian) and Miletos (Miletus), charming city by the sea, but over wave-girt Delos you greatly reign your own self. 
+  Leto's all-glorious son goes to rocky Pytho, playing upon his hollow lure, clad in divine, perfumed garments; and at the touch of the golden key his lyre sings sweet. Thence, swift as thought, he speeds from earth to Olympos, to the house of Zeus, to join the gathering of the other gods: then straightway the undying gods think only of the lyre and song, and all the Mousai (Muses) together, voice sweetly answering voice, hymn the unending gifts the gods enjoy and the sufferings of men . . . Meanwhile the rich-tressed Kharites (Charites, Graces) and cheerful Horai (Horae, Seasons) dance with Harmonia and Hebe and Aphrodite, daughter of Zeus, holding each other by the wrist. And among them sings one . . . Artemis who delights in arrows, sister of Apollon. Among them sport Ares and the keen-eyed Argeiphontes [Hermes], while Apollon plays his lure stepping high and featly and radiance shines around him, the gleaming of his feet and close-woven vest. And they, even gold-tressed Leto and wise Zeus, rejoice in their great hearts as they watch their dear son playing among the undying gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 21 to Apollo :
+     </span>
+     <br/>
+     "Phoibos (Phoebus) [Apollon], of you even the swan sings with clear voice to the beating of his wings, as he alights upon the bank by the eddying river Peneios; and of you the sweet-tongued minstrel, holding his high-pitched lyre, always sings both first and last. And so hail to you lord! I seek your favour with my song."
+    </p>
+    <h4>
+     II) THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 34 to Apollo (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Apollon. Blest Paian (Paean), come, propitious to my prayer, illustrious power, whom Memphian tribes revere, Tityoktonos (Slayer of Tityos), and the god of Health, Lykoreus (Lycoreus), Phoibos (Phoebus), fruitful source of wealth: Pytheion (Pythian), golden-lyred, the field from thee receives its constant rich fertility. Titan, Gryneion, Smyntheus, thee I sing, Pythoktonos (Python-Slayer), hallowed, Delphion king: rural, light-bearing Daimon, and Mousagetos (Leader of the Muses), noble and lovely, armed with arrows dread: far-darting, Bakkhion (Bacchian), twofold and divine, power far diffused, and course oblique is thine. O Delion king, whose light-producing eye views all within, and all beneath the sky; whose locks are gold, whose oracles are sure, who omens good revealest, and precepts pure; hear me entreating for he human kind, hear, and be present with benignant mind; for thou surveyest this boundless aither all, and every part of this terrestrial ball abundant, blessed; and thy piercing sight extends beneath the gloomy, silent night; Beyond the darkness, starry-eyed, profound, the table roots, deep-fixed by thee, are found. The world's wide bounds, all-flourishing, are thine, thyself of all the source and end divine. 'Tis thine all nature's music to inspire with various-sounding, harmonious lyre: now the last string thou tunest to sweet accord, divinely warbling, now the highest chord; the immortal golden lyre, now touched by thee, responsive yields a Dorian melody. All nature's tribes to thee their difference owe, and changing seasons from thy music flow: hence, mixed by thee in equal parts, advance summer and winter in alternate dance; this claims the highest, that the lowest string, the Dorian measure tunes the lovely spring: hence by mankind Pan royal, two-horned named, shrill winds emitting through the syrinx famed; since to thy care the figured seal's consigned, which stamps the world with forms of every kind. Hear me, blest power, and in these rites rejoice, and save thy mystics with a suppliant voice."
+    </p>
+    <hr/>
+    <h3 id="Descriptions">
+     PHYSICAL DESCRIPTIONS OF APOLLO
+    </h3>
+    <p>
+     Classical literature provides only a few, brief descriptions of the physical characteristics of the gods.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 19 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "As for the aspect of the god [Apollon], he is represented as unshorn, my boy, and with his hair fastened up so that he may box with girt-up head; rays of light rise from about his brow and his cheek emits a smile mingled with wrath; keen is the glance of his eyes as it follows his uplifted hands."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 14 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting:] Here is the god [Apollon], painted as usual with unshorn locks; he lifts a radiant forehead above eyes that shine like rays of light."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.11.html">
+        <img alt="Thumbnail Apollo with Laurel Branch" src="../image/thumbK5.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.11 Apollo with Laurel Branch
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.16.html">
+        <img alt="Thumbnail Apollo Playing Lyre" src="../image/thumbK5.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.16 Apollo Playing Lyre
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.4.html">
+        <img alt="Thumbnail Apollo, Artemis, Niobids" src="../image/thumbK5.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.4 Apollo, Artemis, Niobids
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.3.html">
+        <img alt="Thumbnail Apollo &amp; Muse with Lyre" src="../image/thumbK20.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.3 Apollo &amp; Muse with Lyre
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.11B.html">
+        <img alt="Thumbnail Apollo, Hermes, Muses" src="../image/thumbK20.11B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.11B Apollo, Hermes, Muses
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.8.html">
+        <img alt="Thumbnail Apollo &amp; Giant Ephialtes" src="../image/thumbK5.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.8 Apollo &amp; Giant Ephialtes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.5.html">
+        <img alt="Thumbnail Apollo, Hermes, Heracles" src="../image/thumbK11.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.5 Apollo, Hermes, Heracles
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K45.2.html">
+        <img alt="Thumbnail Apollo, Bendis, Hermes" src="../image/thumbK45.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K45.2 Apollo, Bendis, Hermes
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.6.html">
+        <img alt="Thumbnail Apollo, Tityus, Leto" src="../image/thumbT14.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.6 Apollo, Tityus, Leto
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.4.html">
+        <img alt="Thumbnail Apollo, Tityus, Leto" src="../image/thumbT14.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.4 Apollo, Tityus, Leto
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.3.html">
+        <img alt="Thumbnail Apollo, Tityus, Leto" src="../image/thumbT14.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.3 Apollo, Tityus, Leto
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.5.html">
+        <img alt="Thumbnail Apollo, Tityus, Leto" src="../image/thumbT14.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.5 Apollo, Tityus, Leto
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.5.html">
+        <img alt="Thumbnail Apollo &amp; Muse with Lyre" src="../image/thumbK20.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.5 Apollo &amp; Muse with Lyre
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.7.html">
+        <img alt="Thumbnail Apollo Riding Griffon" src="../image/thumbK5.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.7 Apollo Riding Griffon
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.9.html">
+        <img alt="Thumbnail Apollo with Winged Tripod" src="../image/thumbK5.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.9 Apollo with Winged Tripod
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.2.html">
+        <img alt="Thumbnail Apollo with Lyre &amp; Raven" src="../image/thumbK5.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.2 Apollo with Lyre &amp; Raven
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.17.html">
+        <img alt="Thumbnail Apollo Riding Swan" src="../image/thumbK5.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.17 Apollo Riding Swan
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.7.html">
+        <img alt="Thumbnail Apollo, Marsyas, Muses" src="../image/thumbT61.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.7 Apollo, Marsyas, Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.3.html">
+        <img alt="Thumbnail Apollo, Marsyas, Muses" src="../image/thumbT61.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.3 Apollo, Marsyas, Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.13.html">
+        <img alt="Thumbnail Apollo &amp; Marsyas" src="../image/thumbK5.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.13 Apollo &amp; Marsyas
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.3.html">
+        <img alt="Thumbnail Apollo Fighting Heracles" src="../image/thumbK5.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.3 Apollo Fighting Heracles
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.6.html">
+        <img alt="Thumbnail Apollo Fighting Heracles" src="../image/thumbK5.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.6 Apollo Fighting Heracles
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.5.html">
+        <img alt="Thumbnail Apollo Fighting Heracles" src="../image/thumbK5.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.5 Apollo Fighting Heracles
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.10.html">
+        <img alt="Thumbnail Apollo &amp; the Trojan War" src="../image/thumbK5.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.10 Apollo &amp; the Trojan War
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T40.7.html">
+        <img alt="Thumbnail Apollo, Orestes, Erinyes" src="../image/thumbT40.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T40.7 Apollo, Orestes, Erinyes
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T40.8.html">
+        <img alt="Thumbnail Apollo, Orestes, Erinyes" src="../image/thumbT40.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T40.8 Apollo, Orestes, Erinyes
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T40.2.html">
+        <img alt="Thumbnail Apollo, Orestes, Erinyes" src="../image/thumbT40.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T40.2 Apollo, Orestes, Erinyes
+        </h3>
+        <p>
+         Lucanian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T40.6.html">
+        <img alt="Thumbnail Apollo, Orestes, Erinyes" src="../image/thumbT40.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T40.6 Apollo, Orestes, Erinyes
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.13.html">
+        <img alt="Thumbnail Apollo, Birth of Dionysus" src="../image/thumbK12.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.13 Apollo, Birth of Dionysus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T23.1.html">
+        <img alt="Thumbnail Apollo, Maia, Hermes, Zeus" src="../image/thumbT23.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T23.1 Apollo, Maia, Hermes, Zeus
+        </h3>
+        <p>
+         Caeretan Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O25.1.html">
+        <img alt="Thumbnail Apollo &amp; Marpessa" src="../image/thumbO25.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O25.1 Apollo &amp; Marpessa
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.1.html">
+        <img alt="Thumbnail Apollo Playing Lyre" src="../image/thumbK5.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.1 Apollo Playing Lyre
+        </h3>
+        <p>
+         Lucanian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.12.html">
+        <img alt="Thumbnail Apollo &amp; the Dragon Python" src="../image/thumbK5.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.12 Apollo &amp; the Dragon Python
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.7.html">
+        <img alt="Thumbnail Apollo, Artemis, Leto" src="../image/thumbT14.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.7 Apollo, Artemis, Leto
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.2.html">
+        <img alt="Thumbnail Apollo, Artemis, Leto" src="../image/thumbT14.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.2 Apollo, Artemis, Leto
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.8.html">
+        <img alt="Thumbnail Apollo &amp; Leto" src="../image/thumbT14.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.8 Apollo Seated &amp; Leto
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.14.html">
+        <img alt="Thumbnail Apollo &amp; the Muses" src="../image/thumbK5.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.14 Apollo &amp; the Muses
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.9.html">
+        <img alt="Thumbnail Apollo &amp; Muse Calliope" src="../image/thumbK20.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.9 Apollo &amp; Muse Calliope
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T61.2.html">
+        <img alt="Thumbnail Apollo, Marsyas, Muses" src="../image/thumbT61.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T61.2 Apollo, Marsyas, Muses
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F5.1.html">
+        <img alt="Thumbnail Apollo Holding Lyre" src="../image/thumbF5.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F5.1 Apollo Holding Lyre
+        </h3>
+        <p>
+         Greco-Roman Rome Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z5.3.html">
+        <img alt="Thumbnail Apollo &amp; Marsyas" src="../image/thumbZ5.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z5.3 Apollo &amp; Marsyas
+        </h3>
+        <p>
+         Greco-Roman Paphos Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z5.1.html">
+        <img alt="Thumbnail Apollo &amp; Daphne" src="../image/thumbZ5.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z5.1 Apollo &amp; Daphne
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z5.2.html">
+        <img alt="Thumbnail Apollo &amp; Daphne" src="../image/thumbZ5.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z5.2 Apollo &amp; Daphne
+        </h3>
+        <p>
+         Greco-Roman Ostia Floor Mosaic C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.1.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.1 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.2.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.2 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.3.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.3 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.4.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.4 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.6.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.6 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.7.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.7 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.8.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.8 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.13.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.13 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.5.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.5 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.9.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.9 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.10.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.10 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.11.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.11 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.14.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.14 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.15.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.15 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S5.12.html">
+        <img alt="Thumbnail Apollo Statue" src="../image/thumbS5.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S5.12 Apollo
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL APOLLO PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Great Eoiae Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Suppliant Women
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Ctesias, Persica
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Phaedo
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Parthenius.html">
+       Parthenius, Love Romances
+      </a>
+      <span class="sources-detail">
+       - Greek Mythography C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaTroades.html">
+       Seneca, Troades
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Photius, Myriobiblon
+      <span class="sources-detail">
+       - Byzantine Greek Scholar C9th A.D.
+      </span>
+     </li>
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p class="sources-not-quoted">
+     <em>
+      Other sources not quoted here: numerous.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     APOLLO SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD APOLLO
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Leto
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Music, prophecy, healing, archery
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Lyre, bow
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Swan, raven
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Laurel, larkspur, cypress
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Muses
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Phoebus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Apollo
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     APOLLO PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Family">
+         Family Tree of Apollo
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Apollo
+        </a>
+       </li>
+       <li>
+        <a href="#Descriptions">
+         Physical Descriptions
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="ApollonFamily.html">
+       Part 2: Apollo Family
+      </a>
+      <ul>
+       <li>
+        <a href="ApollonFamily.html#Genealogy">
+         Genealogy
+        </a>
+       </li>
+       <li>
+        <a href="ApollonFamily.html#Divine">
+         Divine Offspring
+        </a>
+       </li>
+       <li>
+        <a href="ApollonFamily.html#Mortal">
+         Mortal Offspring
+        </a>
+       </li>
+       <li>
+        <a href="ApollonFamily.html#Kingdoms">
+         Family by Kingdom
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      Part 3: Apollo Myths 1 General
+      <ul>
+       <li>
+        <a href="../Titan/TitanisLeto.html">
+         Birth of Apollo
+        </a>
+       </li>
+       <li>
+        <a href="../Gigante/GiganteTityos.html">
+         Giant Tityus
+        </a>
+       </li>
+       <li>
+        <a href="../Ther/DrakainaPython.html">
+         Slaying of Python
+        </a>
+       </li>
+       <li>
+        <a href="../Georgikos/SatyrosMarsyas.html">
+         Contest with Marsyas
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="ApollonLoves.html">
+       Part 3: Apollo Myths 2 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="ApollonLoves.html#Akakallis">
+         Acacallis
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Bolina">
+         Bolina
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Khione">
+         Chione
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Khrysothemis">
+         Chrysothemis
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Kyparissos">
+         Cyparissus
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Hyakinthos">
+         Hyacinthus
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Hyakinthos">
+         Hymenaeus
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Psamathe">
+         Psamathe
+        </a>
+       </li>
+       <li>
+        <a href="ApollonLoves.html#Rhoio">
+         Rhoeo
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      Part 3: Apollon Myths 3 Loves
+      <ul>
+       <li>
+        <a href="../Heroine/Kyrene.html">
+         Cyrene
+        </a>
+       </li>
+       <li>
+        <a href="../Nymphe/NympheDaphne.html">
+         Daphne
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ApollonCult.html">
+       Part 4: Cult of Apollo 1
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ApollonCult.html#Oracles">
+         Oracles of Apollon
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult.html#Aigina">
+         Aegina, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ApollonCult2.html">
+       Part 4: Cult of Apollo 2
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ApollonCult2.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult2.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult2.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult2.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ApollonCult3.html">
+       Part 4: Cult of Apollo 3
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ApollonCult3.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult3.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult3.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult3.html#Euboia">
+         Euboea, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult3.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ApollonCult4.html">
+       Part 4: Cult of Apollo 4
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Aitolia">
+         Aetolia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Akarnania">
+         Acarnania, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Leukas">
+         Leucas, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Epeiros">
+         Epirus, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Illyria">
+         Illyria, North of Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Thessalia">
+         Thessaly, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Delos">
+         Delos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Keos">
+         Ceos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Lesbos">
+         Lesbos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Khios">
+         Chios, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Samos">
+         Samos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Khalkia">
+         Chalcia, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Rhodos">
+         Rhodes, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult4.html#Thera">
+         Thera, Greek Aegean
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ApollonCult5.html">
+       Part 4: Cult of Apollo 5
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Troad">
+         Troad, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Teuthrania">
+         Teuthrania, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Karia">
+         Caria, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Lykia">
+         Lycia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Phrygia">
+         Phrygia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Kypros">
+         Cyprus, Mediterranean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Egypt">
+         Egypt, North Africa
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Campania">
+         Campania, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/ApollonCult5.html#Gaul">
+         Gaul, Southern France
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/ApollonTitles.html">
+       Part 5: Titles &amp; Epithets
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

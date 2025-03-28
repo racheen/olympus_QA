@@ -1,0 +1,3814 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   CENTAURS (Kentauroi) - Half-Horse Men of Greek Mythology
+  </title>
+  <meta content="In Greek mythology the Centaurs were a tribe of half-man, half-horse savages who inhabited the mountains and forests of Magnesia. They were a primitive race who made their homes in caves, hunted wild animals for food and armed themselves with rocks and tree branches. The Centaurs were spawned by the cloud-nymph Nephele after she was violated by the impious Lapith king Ixion. They were invited to attend the wedding of their half-brother Pirithous but became drunk at the festivities and attempted to carry off the bride and other female guests. In the battle which ensued most of the Centaurs were destroyed." name="description"/>
+  <meta content="Centaurs, Kentauroi, Centaur, Kentauros, Greek mythology, Thessalian centaurs, Magnesian centaurs, half-horse half-man, Centaurs pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt; Centaurs (Kentauroi)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     KENTAUROI
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Κενταυρος Κενταυροι
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Kentauros, Kentauroi
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Centaurus, Centauri
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Bull-Slayer? (
+       <em>
+        tauros
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z38.4B.html">
+      <img alt="Centaur | Greco-Roman mosaic from Hadrian's Palace C2nd A.D. | Altes Museum, Berlin" class="img-responsive center-block" src="../image/Z38.4BKentauros.jpg"/>
+     </a>
+     <figcaption>
+      Centaur, Greco-Roman mosaic from the Palace of Hadrian C2nd A.D.,
+      <a href="http://www.smb.museum/en/museums-institutions/altes-museum/" target="_blank">
+       Altes Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE KENTAUROI (Centaurs) were a tribe of half-man, half-horse savages who inhabited the mountains and forests of Thessalian Magnesia. They were a primitive race who made their homes in caves, hunted wild animals for food and armed themselves with rocks and tree branches. 
+                    The Kentauroi were spawned by the cloud-nymphe
+     <a href="../Nymphe/NympheNephele1.html">
+      Nephele
+     </a>
+     after she was violated by the impious Lapith king Ixion. were spawned by the cloud-nymph Nephele after she was violated by the impious Lapith king Ixion. She deposited her double-formed brood on Mount Pelion where they were nursed by the daughters of the immortal kentauros
+     <a href="KentaurosKheiron.html">
+      Kheiron (Chiron)
+     </a>
+     .
+    </p>
+    <p>
+     The Kentauroi were invited to attend the wedding of their half-brother Peirithoos (Pirithous) but became drunk at the festivities and attempted to carry off the bride and other female guests. In the battle which ensued most of the Kentauroi were destroyed.
+    </p>
+    <p>
+     Another tribe of
+     <a href="KentauroiPeloponnesioi.html">
+      Kentauroi (Centaurs)
+     </a>
+     dwelt in the western Peloponnese where they came into conflict with the hero Herakles. Another tribe of bull-horned
+     <a href="KentauroiKyprioi.html">
+      Kentauroi
+     </a>
+     were native to the island of Kypros (Cyprus). 
+  Female Kentauroi,
+     <a href="Kentaurides.html">
+      Kentaurides (Centaurides)
+     </a>
+     , were also known but only occur in late classical art and literature.
+    </p>
+    <p>
+     The Kentauros was depicted as a hybrid creature with the upper body of a man--from the head down to the waist--with the body and legs of a horse. It had the facial features of a normal man or, sometimes, the snub nose and pointed ears of a
+     <a href="Satyroi.html">
+      Satyros (Satyr)
+     </a>
+     .
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE CENTAURS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]  IXION &amp;
+     <a href="../Nymphe/NympheNephele1.html">
+      NEPHELE
+     </a>
+     <span class="family-refs">
+      (Apollodorus E1.20, Diodorus Siculus 4.69.4, Hyginus Fabulae 62, Ovid Metamorphoses 12.112, Cicero De Natura Deorum 3.20)
+     </span>
+     <br/>
+     [2.1] KENTAUROS &amp; THE MAGNESIAN MARES
+     <span class="family-refs">
+      (Pindar Pythian Ode 2, Philostratus the Elder 2.3)
+     </span>
+    </p>
+    <h3>
+     NAMES
+    </h3>
+    <p>
+     [1.1]  PETRAIOS, ASBOLOS, ARKTOS, OUREIOS, MIMAS, PEUKEUS and his sons PERIMEDES &amp; DRYALOS
+     <span class="family-refs">
+      (Hesiod Shield of Herakles 178)
+     </span>
+     <br/>
+     [1.2]
+     <a href="KentaurosEurytion1.html">
+      EURYTION
+     </a>
+     <span class="family-refs">
+      (Pausanias 5.10.8, Athenaeus 1.10e)
+     </span>
+     <br/>
+     [1.3]
+     <a href="KentaurosEurytion1.html">
+      EURYTOS
+     </a>
+     , AMYKOS, GYRNEUS, RHOITOS, ORNEIOS, LYKABAS, MEDON, THAUMAS, PISENOR, MELANEUS, PHOBAS, ABAS, ASTYLOS,
+     <a href="KentaurosNessos.html">
+      NESSOS
+     </a>
+     , LYKIDAS, AREOS, IMBREUS, EURYNOMOS, KRENAIOS, APHIDAS, LYKAS, KHROMIS, DIKTYS, HELOPS, APHAREUS, BIENOR, NEDYMNOS, LYKOPES, HIPPASOS, RIPHEUS, THEREUS, DEMELEON, PHLEGRAIOS, HYLES, IPHINOUS, KLANIS, DOYLAS, KYLLAROS,
+     <a href="KentaurisHylonome.html">
+      HYLONOME
+     </a>
+     , PHAIOKOMES, TELEBOAS, KHTHIONIOS, PYRETOS, EKHEKLOS, ERIGDOUPOS, HODITES, ANTIMAKHOS, PYRAIMON, BROMOS, ELYMOS, STYPHELOS, LATREUS, MONYKHOS
+     <span class="family-refs">
+      (Ovid Metamorphoses 12.112)
+     </span>
+     <br/>
+     [1.4]
+     <a href="KentaurosPholos.html">
+      PHOLOS
+     </a>
+     , RHOITOS, HYLAIOS
+     <span class="family-refs">
+      (Virgil Georgics 2.454)
+     </span>
+     <br/>
+     [1.5]
+     <a href="KentaurosPholos.html">
+      PHOLOS
+     </a>
+     , RHOITOS, MONYKHOS, KLANIS,
+     <a href="KentaurosNessos.html">
+      NESSOS
+     </a>
+     , HIPPASOS
+     <span class="family-refs">
+      (Valerius Flaccus 1.130)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     CENTAURI (Kentauroi), that is, the bullkillers, are according to the earliest accounts a race of men who inhabited the mountains and forests of Thessaly. They are described as leading a rude and savage life, occasionally carrying off the women of their neighbours, as covered with hair and ranging over their mountains like animals. But they were not altogether unacquainted with the useful arts, as in the case of Cheiron. (Hom.
+     <em>
+      Il.
+     </em>
+     i. 268, ii. 743, in which passages they are called
+     <em>
+      phêres
+     </em>
+     , that is,
+     <em>
+      thêres
+     </em>
+     ,
+     <em>
+      Od.
+     </em>
+     xxi. 295, &amp;c.; Hesiod.
+     <em>
+      Scut. Herc.
+     </em>
+     104, &amp;c.) Now, in these earliest accounts, the centaurs appear merely as a sort of gigantic, savage, or animal-like beings; whereas, in later writers, they are described as monsters (hippocentaurs), whose bodies were partly human and partly those of horses. This strange mixture of the human form with that of a horse is accounted for, in the later traditions, by the history of their origin. Ixion, it is said, begot by a cloud Centaurus, a being hated by gods and men, who begot the hippocentaurs on mount Pelion, by mixing with Magnesian mares. (Pind.
+     <em>
+      Pyth.
+     </em>
+     ii. 80, &amp;c.) According to Diodorus (iv. 69; comp. Hygin.
+     <em>
+      Fab.
+     </em>
+     33), the centaurs were the sons of Ixion himself by a cloud; they were brought up by the nymphs of Pelion, and begot the Hippocentaurs by mares. Others again relate, that the centaurs were the offspring of Ixion and his mares; or that Zeus, metamorphosed into a horse, begot them by Dia, the wife of Ixion. (Serv.
+     <em>
+      ad Aen.
+     </em>
+     viii. 293; Nonn.
+     <em>
+      Dionys.
+     </em>
+     xvi. 240, xiv. 193.) From these accounts it appears, that the ancient centaurs and the later hippocentaurs were two distinct classes of beings, although the name of centaurs is applied to both by ancient as well as modern writers.
+    </p>
+    <p>
+     The Centaurs are particularly celebrated in ancient story for their fight with the Lapithae, which arose at the marriage-feast of Peirithous, and the subject of which was extensively used by ancient poets and artists. This fight is sometimes put in connexion with a combat of Heracles with the centaurs. (Apollod. ii. 5. § 4; Diod. iv. 12; Eurip.
+     <em>
+      Herc. fur.
+     </em>
+     181, &amp;c.; Soph.
+     <em>
+      Trachin.
+     </em>
+     1095; Nonn.
+     <em>
+      Dionys.
+     </em>
+     xiv. 367; Ov.
+     <em>
+      Met.
+     </em>
+     xii. 210, &amp;c.; Virg.
+     <em>
+      Georg.
+     </em>
+     ii. 455.) The scene of the contest is placed by some in Thessaly, and by others in Arcadia. It ended by the centaurs being expelled from their country, and taking refuge on mount Pindus, on the frontiers of Epeirus. Cheiron is the most celebrated among the centaurs.
+    </p>
+    <p>
+     As regards the origin of the notion respecting the centaurs, we must remember, in the first place, that bull-hunting on horseback was a national custom in Thessaly (Schol.
+     <em>
+      ad Pind.
+     </em>
+     p. 31.9, ed. Boeckh), and, secondly, that the Thessalians in early times spent the greater part of their lives on horseback. It is therefore not improbable that the Thessalian mountaineers may at some early period have made upon their neighbouring tribes the same impression as the Spaniards did upon the Mexicans, namely, that horse and man were one being. The centaurs were frequently represented in ancient works of art, and it is here that the idea of then is most fully developed. There are two forms in which the centaurs were represented in works of art. In the first they appear as men down to their legs and feet, but the hind part consists of the body, tail, and hind legs of a horse (Paus. v. 19. § 2); the second form, which was probably not used before the time of Phidias and Alcamenes, represents the centaurs as men from the head to the loins, and the remainder is the body of a horse with its four feet and tail. (Paus. v. 10. § 2; Plin.
+     <em>
+      H. N.
+     </em>
+     xxxvi. 4.) It is probably owing to the resemblance between the nature of the centaurs and that of the satyrs, that the former were in later times drawn into the sphere of Dionysiac beings; but here they appear no longer as savage monsters, but as tamed by the power of the god. They either draw the chariot of the god, and play the horn or lyre, or they appear in the train of Dionysus, among the Satyrs, Fauns, Nymphs, Erotes, and Bacchantes. It is remarkable that there were also female centaurs, who are said to have been of great beauty. (Philostr.
+     <em>
+      Icon.
+     </em>
+     ii. 3.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAMES
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ἱπποκενταυρος
+      </p>
+      <p class="names-greek">
+       Ἱπποκενταυροι
+      </p>
+      <p class="names-greek">
+       Φηρες
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Hippokentauros
+      </p>
+      <p>
+       Hippokentauroi
+      </p>
+      <p>
+       Phêres
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Hippocentaurus
+      </p>
+      <p>
+       Hippocentauri
+      </p>
+      <p>
+       Pheres
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Horse-Centaur
+      </p>
+      <p>
+       Horse-Centaurs
+      </p>
+      <p>
+       Beasts
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE &amp; BIRTH OF THE CENTAURS
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/S38.1.html">
+      <img alt="Centaur and Eros | Greco-Roman marble statue from Rome C1st-2nd A.D. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/S38.1Kentauros.jpg"/>
+     </a>
+     <figcaption>
+      Centaur and Eros, Greco-Roman marble statue from Rome C1st-2nd A.D.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 2. 33 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Then, that in the profound and secret depths of her own bridal chamber, he [Ixion] assailed [Hera] the wife of Zeus. Well is it for a man to take the measure of each deed by his own stature. Unto the full deep tides of woe loves which transgress the law casts a man down, who sets foot there. For with a Cloud (Nephele) he lay, pursuing sweet falsehood, that man of folly. In semblance like [Hera] the all-high Sovereign daughter of Kronos (Cronus) son of Ouranos (Uranus, Heaven), this phantom came, this guile, proffered him by the hands of Zeus, a beauteous bane. Thus on the four-spoked wheel he gave his limbs to bondage, his own destruction. From whence is no escape, he heard the message that he must spread to all the world. 
+  Far were the Kharites (Charites, Graces) when the mother [Nephele] bore--ne'er such a mother, never such a son--her babe of monstrous breed, who had no honour amongst men nor in the laws of Heaven. She reared him up and named him Kentauros (Centaurus), and the Magnesian mares knew his as mate by Pelion's ridges; and that strange race was born [the Centaurs], like to both parents, their mother's form below, above their sire's."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E1. 20 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Ixion fell in love with Hera and tried to rape her, and when Hera told Zeus about it, Zeus wanted to determine if her report was really true. So he fashioned a cloud (
+     <em>
+      nephele
+     </em>
+     ) to look like Hera, and laid it by Ixion's side. When Ixion bragged that he had slept with Hera, Zeus punished him by tying him to a wheel, on which he was turned by winds up in the air. The cloud bore Kentauros (Centaurus) from Ixion's seed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 69. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "The myths recount, that in the end he [Ixion] was purified by Zeus [for the murder of his father-in-law], but that he became enamoured of Hera and had the temerity to make advances to her. Thereupon, men say, Zeus formed a figure of Hera out of cloud and sent it to him, and Ixion lying with the cloud
+     <em>
+      (nephele
+     </em>
+     ) begat the Kentauroi (Centaurs), as they are called, which have the shapes of men . . .
+     <br/>
+     The Kentauroi (Centaurs), according to some writers, were reared by the Nymphai (Nymphs) on Mount Pelion, and when they attained to manhood they consorted with mares and brought into being the Hippokentauroi (Hippocentaurs), as they are called, which are creatures
+     <span class="hr1">
+      of double form; but others say that it was the Kentauroi born of Ixion and Nephele who were called Hippokentauroi, because they were the first to essay the riding of horses, and that they were then made into a fictitious myth, to the effect that they were of double form."
+     </span>
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 3 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting at Neapolis (Naples) :] You used to think that the race of Kentauroi (Centaurs) sprang from trees and rocks or, by Zeus, just from mares--the mares which, men say, [Kentauros (Centaurus)] the son of Ixion covered, the man by whom the Kentauroi though single creatures came to have their double nature. But after all they had, as we see, mothers of the same stock [i.e. Kentaurides (Centaurides)] and wives next and colts as their offspring and a most delightful home; for I think you would not grow weary of Pelion and the life there and its wind-nurtured growth of ash which furnishes spear-shafts that are straight and at the same time do not break at the spearhead. And its caves are most beautiful and the springs and the Kentaurides beside them . . . Of the baby Kentauroi here some lie wrapped in swaddling clothes, some have discarded their swaddling clothes, some seem to be crying, some are happy and smile as they suck flowing breasts, some gambol beneath their mothers while others embrace them when they kneel down, and one is throwing a stone at his mother, for already he grows wanton. The bodies of the infants have not yet taken on their definite shape, seeing that abundant milk is still their nourishment, but some that already are leaping about show a little shagginess, and have sprouted mane and hoofs, though these are still tender. How beautiful the Kentaurides are, even where they are horses; for some grow out of white mares, others are attached to chestnut mares, and the coat's of others are dappled, but they glisten like those of horses that are well cared for. There is also a white female centaur that grows out of a black mare, and the very opposition of the colours helps to produce the united beauty of the whole. But after all they have, as we see, mothers of the same stock and wives next [the Kentaurides] and colts as their offspring and a most delightful home [in the vales of Mount Pelion]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 62 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Ixion, son of Leonteus, attempted to embrace Juno [Hera]. Juno, by Jove's [Zeus'] instructions, substituted a Cloud (Nube) [Nephele], which Ixion believed to be the likeness of Juno. From this the Centauri (Centaurs) were born."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 14 :
+     </span>
+     <br/>
+     "Peirithous, son of Ixion a brother of the Centauri (Centaurs)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 20 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "A Nubes (Cloud) [Nephele] is fabled to have given birth to the Centauri (Centaurs)."
+    </p>
+    <hr/>
+    <h3 id="Kentauromakhia">
+     BATTLE OF THE  CENTAURS &amp; LAPITHS (CENTAUROMACHY)
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/O12.4.html">
+      <img alt="Centaur Eurytion and Laodameia | Apulian red-figure krater C4th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O12.4BKentauroi.jpg"/>
+     </a>
+     <figcaption>
+      Centaur Eurytion and Laodameia, Apulian red-figure krater C4th B.C.,
+      <a href="http://www.britishmuseum.org/">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 21. 293 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Wine is many a man's undoing, when he gulps his draught and will never drink discreetly. Wine it was that darkened the wits of Eurytion the Kentauros (Centaur) in the palace of bold Peirithoos. The Kentauros had come to the Lapithai's (Lapiths') country, and now with wine he clouded his understanding and in his frenzy did monstrous things in the very hall of Peirithoos (Pirithous). The heroes were seized with indignation; they leapt up, they dragged the Kentauros across the courtyard and out of doors, they lopped off his ears and nose with the ruthless bronze, and the frenzied creature went his way, taking his retribution with him in his still darkened mind. From this beginning came the long feud between men and Kentauroi (Centaurs), but it was Eurytion first of all who brought chastisement on himself by his drunkenness."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 1. 261 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Never yet have I seen nor shall see again such men as these were, men like Peirithoos (Pirithous), and Dryas, shepherd of the people, Kaineus (Caeneus) and Exadios, godlike Polyphemos, or Theseus, Aigeus' son, in the likeness of the immortals. These were the strongest generation of earth-born mortals, the strongest, and they fought against the strongest, the beast-men (
+     <em>
+      pheres
+     </em>
+     ) [i.e. the Kentauroi (Centaurs)] living within the mountains, and terrible they destroyed them. I was of the company of these men, coming from Pylos, a long way from a distant land, since they had summoned me. And I fought single-handed, yet against such men no one of the mortals now alive upon earth could do battle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 742 ff :
+     </span>
+     <br/>
+     "He [Polypoites] whom glorious Hippodameia bore to Peirithoos (Pirithous) on that day when he wreaked vengeance on the hairy beast-men (
+     <em>
+      pheres
+     </em>
+     ) [i.e. the Kentauroi (Centaurs)] and drove them from Pelion and hurled them against the Aithikes (Aethices)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Shield of Heracles 178 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the shield of Herakles :] And there was the strife of the Lapithai (Lapith) spearmen gathered round the prince Kaineus (Caeneus) and Dryas and Peirithous (Pirithous), with Hopleus, Exadios, Phalereus, and Prolokhos (Prolochus), Mopsos the son of Ampykos (Ampycus) of Titaresia, a scion of Ares, and Theseus, the son of Aigeus (Aegeus), like unto the deathless gods. These were of silver, and had armour of gold upon their bodies. And the Kentauroi (Centaurs) were gathered against them on the other side with Petraios (Petraeus) and Asbolos the diviner, Arktos (Arctus), and Oureios (Ureus), and black-haired Mimas, and the two sons of Peukeus (Peuceus), Perimedes and Dryalos: these were of silver, and they had pinetrees of gold in their hands, and they were rushing together as though they were alive and striking at one another hand to hand with spears and with pines."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Fragment 166 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "And when the Pheres [Kentauroi (Centaurs)] were aware of the over-powering aroma of honey-sweet wine, anon with their hands they thrust the white milk from the tables, and, drinking, unasked, out of the silver horns, began to wander in mind. But Kaineus (Caeneus), struck by the green fir-trees, cleft the ground with his foot, where he stood, and passed beneath the earth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theognis, Fragment 541 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Lawlessness will destroy this city, just as it did the Kentauroi (Centaurs), eaters of raw flesh."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E1. 21 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Theseus fought with Peirithous (Pirithous) when he was waging his war against the Kentauroi (Centaurs). For when Peirithous was courting Hippodameia, he gave a banquet for the Kentauroi because they were related to her; but they, unused to wine, drank too much too fast and got drunk, and when the bride was ushered in they tried to rape her. So Peirthous put on full armor and with Gheseus' help started a battle, and Theseus slew many of them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E1. 22 :
+     </span>
+     <br/>
+     "Kaineus (Caeneus) was originally a woman, but after Poseidon had sex with her, she begged him to become an invulnerable man. For this reason in the battle of the Kentauroi (Centaurs), he was contemptuous of being wounded, and destroyed many of them. The remainder finally encircled him and hammered him down into the earth with fir clubs."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 38 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Polyphemos son of Eilatos [came] from his home in Larissa. In his younger days he had fought in the ranks of the mighty Lapithai (Lapiths) when they were at war with the Kentauroi (Centaurs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 58 ff :
+     </span>
+     <br/>
+     "Kaineus (Caeneus), so the bards relate was destroyed by the Kentauroi (Centaurs) yet remained alive. Unaided by his noble friends he had routed the enemy, and even when the rallied against him they could not bend his back or kill him. Unbroken and unbowed he sank below the earth, overwhelmed by the massive pines with which they beat him down."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O12.10.html">
+      <img alt="Lapith Warrior and Centaur | Athenian black-figure amphora C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/O12.10Kentauroi.jpg"/>
+     </a>
+     <figcaption>
+      Lapith Warrior and Centaur, Athenian black-figure amphora C6th B.C.,
+      <a href="http://www.britishmuseum.org/">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 69. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "The myths recount, that in the end he [Ixion] was purified by Zeus [for the murder of his father-in-law], but that he became enamoured of Hera and had the temerity to make advances to her. Thereupon, men say, Zeus formed a figure of Hera out of cloud and sent it to him, and Ixion lying with the cloud
+     <em>
+      (nephele
+     </em>
+     ) begat the Kentauroi (Centaurs), as they are called, which have the shapes of men . . .
+     <br/>
+     The Kentauroi (Centaurs), according to some writers, were reared by the Nymphai (Nymphs) on Mount Pelion, and when they attained to manhood they consorted with mares and brought into being the Hippokentauroi (Hippocentaurs), as they are called, which are creatures of double form; but others say that it was the Kentauroi born of Ixion and Nephele who were called Hippokentauroi, because they were the first to essay the riding of horses, and that they were then made into a fictitious myth, to the effect that they were of double form.
+     <br/>
+     We are also told that they demanded of Peirithoos (Pirithous), on the ground of kinship, their share of their father's kingdom, and that when Peirithoos would not yield it to them they made war on both him and the Lapithes (Lapiths). At a later time, the account goes on to say, when they had made up their differences, Peirithoos married Hippodameia, the daughter of Boutes (Butes), and invited both Theseus and the Kentauroi to the wedding. The Kentauroi, however, becoming drunken assaulted the female guests and lay with them by violence, whereupon both Theseus and the Lapithes, incensed by such a display of lawlessness, slew not a few of them and drove the rest out of the city. Because of this the Kentauroi gathered all their forces, made a campaign against the Lapithes, and slew many of them, the survivors fleeing into Mount Pholoe in Arkadia (Arcadia) and ultimately escaping from there to Cape Malea, where they made their home. And the Kentauroi, elated by these successes, made Mt Pholoe the base of their operations, plundering the Greeks who passed by, and slew many of their neighbours."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 5. 12 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The Aethikes (Aethices) [tribe] lived on Mount Pindos (Pindus) itself, amongst whom, the poet says, the Kentauroi (Centaurs) were driven by Peirithoüs (Pirithous); but history now tells us that they are extinct."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 5. 19 :
+     </span>
+     <br/>
+     "The Lapithes (Lapiths) Ixion and his son Peirithoüs, the latter of whom also took possession of Pelion, forcing out the Kentauroi (Centaurs), a wild folk, who had seized it. Now these ‘he thrust from Pelion and made them draw near to the Aethikes (Aethices),’ and he gave over the plains to the Lapithes, though the Perrhaibians kept possession of some of them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 17. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "In the sanctuary of Theseus [at Athens] is also a painting of the battle between the Kentauroi (Centaurs) and the Lapithai (Lapiths). Theseus has already killed a Kentauros (Centaur), but elsewhere the fighting is still undecided."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 10. 8 :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the pediment of the temple of Zeus at Olympia :] Carved on the pediment is the fight between the Lapithai (Lapiths) and the Kentauroi (Centaurs) at the marriage of Peirithoos. On one side of him is Eurytion, who has seized the wife of Peirithoos (Pirithous), with Kaineus (Caeneus) bringing help to Peirithoos, and on the other side is Theseus defending himself against the Kentauroi with an axe. One Kentauros (Centaur) has seized a maid, another a boy inn the prime of his youth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Theseus 30. 3 (trans. Perrin) (Greek historian C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "When Peirithoos (Pirithous) was about to marry Deidameia, he asked Theseus to come to the wedding, and see the country, and become acquainted with the Lapithai (Lapiths). Now he had invited the Kentauroi (Centaurs) also to the wedding feast. And when these were flown with insolence and wine, and laid hands upon the women, the Lapithai took vengeance upon them. Some of them they slew upon the spot, the rest they afterwards overcame in war and expelled from the country, Theseus fighting with them at the banquet and in the war. Herodoros, however, says that this was not how it happened, but that the war was already in progress when Theseus came to the aid of the Lapithai."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 11. 2 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "[On poets that were reputedly]  earlier than Homer . . . Melesandros of Miletos wrote on the battle of the Lapithai (Lapiths) and Kentauroi (Centaurs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ptolemy Hephaestion, New History Book 3 (summary from Photius, Myriobiblon 190) (trans. Pearse) (Greek mythographer C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Hephaestion] speaks of the Kentauros (Centaur) Lamios who, caught in adultery, was murdered according to some by Peirithoos (Pirithous), according to others by Theseus; such are the numerous effects of coincidence in these stories."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O12.9.html">
+      <img alt="Centaur fighting Lapith | Athenian red-figure kylix C5th B.C. | University of Pennsylvania Museum" class="img-responsive center-block" src="../image/O12.9Kentauroi.jpg"/>
+     </a>
+     <figcaption>
+      Centaur fighting Lapith, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.penn.museum/" target="_blank">
+       University of Pennsylvania Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 14 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Caeneus, son of Elatus, a Magnesian, proved that in no way could the Centauri (Centaurs) wound him with steel, but they did so with trunks of trees sharpened to point."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 33 :
+     </span>
+     <br/>
+     "At another marriage, when Pirithous was taking Hippodamia, daughter of Adrastus, Centauri(Centaurs), full of wine, attempted to carry off the wives of the Lapithae (Lapiths). The Centauri  killed many of them, but by them perished."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 12. 210 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Nestor tells the tale of the fight between the Centaurs and the Lapiths :] Ixion's son [Peirithous] had wed Hippodame and called the cloud-born beasts (
+     <em>
+      feri nubigeni
+     </em>
+     ) [i.e. Centaurs] to recline at tables ranged within a tree-clad cave. The Haemonii (lords of Thessaly) were there and I [Nestor] was there myself. The festive palace rang with the merry hubbub of the milling guests.
+     <br/>
+     And now the wedding hymn was sung, the fires smoked in the royal hall, in came the bride with wives and matrons walking at her side, supreme in beauty. Blessed indeed we called Pirithous with such a bride--and brought, nearly, thereby their wedded bliss to naught! For Eurytus, the fiercest of the fierce Centauri, was fired by wine and by the sight of that fair girl, and drink was in command, double by lust. Tables were overturned, the banquet in confusion, and the bride, held by her hair, was seized and carried off. Hippodame was seized by Eurytus; the others seized what girl each would or could. The scene was like a city sacked; the house echoed with women's screams.
+     <br/>
+     At once we all sprang to our feet and Theseus shouted first ‘What madness, Eurytus, possesses you to provoke Pirithous while I'm alive--two men, you fool, in one!’ To back his words the great-souled prince, thrusting the throng aside, rescued the ravished girl from their wild rage. No answer came; for no words could defend such deeds. The dastard charged her champion, pummelled his noble chest and punched his chin. An antique wine-bowl chanced to stand near by, jagged with high relief; huge as it was, Aegides [Theseus] still huger lifted it and hurled it crashing on his foe. He vomited great gouts of blood with brains and wine from wound and throat, and falling backwards beat his heels upon the soaking sand. His death incensed his twiformed brothers and with one accord, each vying with the rest, ‘To arms, to arms!’ They shouted. Wine gave courage. In the first fighting goblets went flying and fragile jars and bowls and dishes meant for banqueting, now turned to war and carnage.
+     <br/>
+     [The centaur] Amycus Ophion's son (
+     <em>
+      Ophionides
+     </em>
+     ) first robbed the sanctuary, daring to seize its gifts, and first again snatched a great candlestick with clustered lights and, lifting it at arm's length like a priest straining with sacrificial axe to cleave a white bull's neck, he crashed it on the brow of the Lapith Celadon and left his face smashed beyond recognition. Both his eyes leapt out, cheek bones were shattered, nose forced back and wedged inside his mouth. 
+  Then Amycus was felled by Pelates Pellaeus who'd wrenched away a maple table-leg; his chin was forced into his chest, and as he spat dark blood and teeth a second would sent him away down to the shades of the Underworld (
+     <em>
+      umbrae Tartareae
+     </em>
+     ).
+     <br/>
+     [The centaur] Gryneus next, with murder in his eyes, stood gazing at the smoking altar. ‘Why don't we use this?’ he cried, and lifted up its giant bulk, aglow with fires, and hurled it at a group of Lapithae and crushed two of them, Orios and Broteas. Orios was the son of Mycale, whose magic spells, men say, had many a time forced down the struggling Moon. ‘You'll pay for this, if I've a means to find a weapon!’ cried Exadius and found antlers, a votive gift on a tall pine. He reamed the double prongs in Gryneus' eyes and gouged his eyeballs. One stuck to the horn, one rolling down his beard hung caked in blood.
+     <br/>
+     Then [the centaur] Rhoetus, snatching up a blazing brand of plum-wood from the altar, on the right slashes Charaxus' forehead sheltered by his auburn hair. Caught by the ravening flame the tresses blaze like sun-baked corn; the blood, scorched in the wound, hissed with a ghastly sound, the sound of red-hot iron when a smith takes it in his curved tongs and plunges it into his water-tank and down it goes, hissing and sizzling, and the water's warm. Wounded, he shook away the hungry flame from his dishevelled hair, and pulling up a slab, a threshold-stone, he shouldered it, a wagon-load, whose very weight ensured it reached no foe : yes, one of his own side, Cometes, standing near, was crushed beneath the granite block Rhoetus could not contain his joy. ‘Well done! May all your camp today,’ he shouted, ‘prove your prowess in that way!’ And with the half-burnt brand he aimed again at his head-wound, until with blow on blow he crushed his cranium and the shattered skull collapsed and settled in a pool of brains.
+     <br/>
+     Victorious he [the centaur Rhoetus] turned on Corythus and Dryas and Euagrus. One of them, young Corythus (his cheeks wore their first down), dropped, and Euagrus cried ‘To fee a boy--what glory do you gain?’ Not a word more would Rhoetus let him speak, but fiercely thrust the ruddy flame into his open mouth, right down his throat; and savage Dryas too he chased, whirling the brand above his head. But not the same end this time. As he swaggered, proud of his trail of slaughter, Dryas thrust him through a charred pointed stake where neck and shoulder join. He groaned and strained to wrench the stake from the hard bone and fled away, soaked in his own red blood.
+     <br/>
+     [The centaurs] Orneus fled and Lycabas and Medon, with a gash in his right shoulder, Thaumas and Pisenor, and Memeros whose speed of foot till then surpassed them all, but now slowed by a wound; and Melaneus and Pholus and Abas, the boar-hunter, and Asbolus, the seer whose warnings failed to keep his friends from war. He'd said to Nessus too who feared a wound, ‘No need to run: you'll be kept safe to serve the bow of Hercules.’ But Lycidas, Areos, Imbreus and Eurynomus--death overtook them. Dryas' right arm felled all of them as they faced him. Facing him [the centaur] Crenaeus too was wounded though he'd turned his back in flight; for looking round he too the weighty tell between his eyes, just where nose finds its way to fore head.
+     <br/>
+     In that din [the centaur] Aphidas lay with every vein relaxed in endless sleep, unwoken, undisturbed, sprawled on a shaggy bearskin from Mount Ossa, his wine-filled cup in his unconscious hand, out of the fight--in vain! Observing him lying apart there, Phorbas fingered firm his lance's thong : ‘You'd better mix,’ he cried ‘your wine with Styx's water!’ There and then he hurled his lance and through Aphidas' neck, as he lay sprawled face-up, the iron-tipped ash drove deep. Death came unfelt. Over the couch--into the cup--blood gushed from his full throat.
+     <br/>
+     I saw [the centaur] Petraeus trying to uproot an acorn-laden oak and as his arms embraced it and he forced it to and fro, rocking its tottering trunk, Pirithous, hurling a lance that pierced Petraeus' ribs, pinned fast his writhing chest to the tough wood. The prowess of Pirithous, men say, laid [the centaur] Lycus low, laid [the centaur] Chromis low, but each gave less distinction to the victor than [the centaurs] Dictys and Helops. Helops was transfixed by a lance that struck his forehead from the right and pierced to his left ear. Dictys, in flight before the onslaught of Ixion's son [Pirithous], slipped on a mountain precipice and fell headlong; his weight broke a huge mountain-ash whose splintered spike impaled him in his groin.
+    </p>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/O12.11.html">
+      <img alt="Theseus slaying Centaur | Athenian red-figure cup C5th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/O12.11Kentauroi.jpg"/>
+     </a>
+     <figcaption>
+      Theseus slaying Centaur, Athenian red-figure cup C5th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     For vengeance [the centaur] Aphareus was there and tried to throw a rock wrenched from the mountainside. But Aegides [Theseus] caught him as he threw and smashed his giant elbow with a club of oak. Enough! No time nor wish to do to death that good-for-nothing! On [centaur] Bienor's back he leapt (a back not used to carry a soul except himself) and, knees gripping his flanks and left hand holding fast his head of hair, he swung the knotted club and smashed his mouth, screaming out threats, and broke his bony brow. That club then felled [the centaurs] Nedymnus and Lycopes, famed for his javelin, and [centaur] Hippasos whose long beard draped his chest, and Ripheus too whose stature overtopped the forest trees, and [centaur] Thereus who would capture mountain bears of Haemonia [Thessalia] and bring them home alive and snarling.
+     <br/>
+     Theseus' triumphs in the fight were too much for [centaur] Demeleon. He tried with a huge heave to uproot an ancient pine, a sturdy trunk, and, when his efforts failed, he snapped it off and threw it at his foe. But as the missile came Theseus drew back beyond its range, on Pallas's [Athene's] advice (or so he'd have us think). But still the trunk did not fall idle: from tall Crantor's neck it severed his left shoulder and his breast. Crantor, Achilles, was your father's squire; Amyntor, leader of the Dolopes, worsted in war, had sent him as a gift, to be a pledge of peace and loyalty.
+     <br/>
+     When Aeacides [Peleus], at a distance, saw the lad cleft by that hideous wound, ‘Crantor,’ he cried, ‘My favourite, at least receive from me your death-right fight!’ And with his powerful arm and all his passion's strength he hurled his spear full at [the centaur] Demeleon. It broke his ribs and hung there quivering in the box of bones. The centaur wrenched the shaft away without the point (the shaft would hardly come); the point stuck in his lung. His very agony gave him wild strength. Despite the wound he reared and pounded Peleus with his horse's hooves. On helm and ringing shield Peleus received the lashing hooves and, so defended, held his lance-point levelled and with one thrust pierced the centaur's shoulder and his two-formed chest. Already at a longer range he'd slain [the centaurs] Phlegraeos and Hyles and, hand-to-hand, Iphinous and Clanis; now to them he added [the centaur] Dorylas who wore a cap of wolf-skin on his head with, for a lance, a splendid pair of bull's horns red with blood.
+     <br/>
+     I [Nestor] shouted to him (anger gave me strength) ‘See how your horns yield to my steel!’ and threw my spear. Unable to escape, he raised his hand to shield his threatened brow, and hand was nailed to brow. A shout went up. He stood there stuck and beaten by the bitter wound, and Peleus (for he stood nearer) struck him with his sword full in his belly. Leaping fiercely forward, he trailed his guts, trampled them as they trailed, and trampling burst them, and the tangle tripped his legs and, belly empty, he collapsed.
+     <br/>
+     Nor did his beauty ransom [the centaur] Cyllarus, fighting that day, if hybrids such as he be granted beauty. His beard was just beginning, a golden beard, and golden tresses fell down on his shoulders reaching to his flanks. High-mettled grace shone in his face; his neck, chest, shoulders, hands and every manly part seemed like a sculptor's much-praised masterpiece. Unblemished too his equine shape, nor less fine than his man's. With horse's head and neck he's make fit mount for Castor, so high stood his chest-muscles, so rideable his back. Jet black he was, the whole of him, save that his tail was white and legs were milk-white too. Many a centauress would be his mate, but one had gained his heart, [the she-centaur] Hylonome. In the high woods there was none comelier of all the centaur-girls, and she alone by love and love's sweet words and winning ways held Cyllarus, yes, and the care she took to look her best (so far as that may be with limbs like that). She combed her glossy hair, and twined her curls in turn with rosemary or violets or roses, and sometimes she wore a pure white lily. Twice a day she bathed her face in the clear brook that fell from Pagasae's high forest, twice she plunged her body in its flow, nor would she wear on her left side and shoulder any skin but what became her from best-chosen beasts. Their love was equal; on the hills they roamed together, and together they would go back to their cave; and this time too they went into the Lapithae's palace side by side and side by side were fighting in the fray.
+     <br/>
+     A javelin (no knowing from whose hand) came from the left and wounded Cyllarus, landing below the place where the chest joins neck--slight wound, but when the point was pulled away, cold grew his damaged heart and cold his limbs. Hylonome embraced him as he died, caressed the wound and, putting lips to lips, she tried to stay his spirit as it fled. And when she saw him lifeless, she moaned words that in that uproar failed to reach my ears; and fell upon the spear that pierced her love, and, dying, held her husband in her arms.
+     <br/>
+     There stands as well before my eyes the one who'd laced together six great lion-hides, [the centaur] Phaeocomes, so shielding horse and man. He hurled a log which two ox-teams could scarce have moved and crushed the skull of Tectaphos son of Olenus (
+     <em>
+      Olenides
+     </em>
+     ). His skull's broad dome was shattered and through mouth, nose, eyes and ears the soft brains oozed like whey when curds are strained or juice that trickles from a weighted press, squeezes through a strainer's fine-meshed apertures. But I [Nestor], as he prepared to strip the spoils, (your father knows) I plunged my sword deep in the spoiler's groin.
+     <br/>
+     And [the centaurs] Teleboas too and Chthonius fell by my sword; the one had carried a forked pole, the other a spar. That spear gave me a wound--you see the mark--the ancient scar still shows. Yes, in those days I ought to have been sent to capture Troy; in those far days my prowess could have stayed, if not subdued, great Hector; then, of course, Hector, if he was born, was but a boy, and now my long years fail me.
+     <br/>
+     Need I tell how the half-horse [centaur] Pyraethus was outfought by Periphas or how Ampyx had thrust his lance that lacked its point into the face of four-footed [centaur] Echeclus? 
+  Macareus felled [the centaur] Erigdupus Pelethronius with a crowbar through his chest. And I recall a hunting-spear from [the centaur] Nessus' hand was buried in the groin of Cymelus. Nor would you have supposed Mopsus Ampycides had but the power of prophecy; by Mopsus' lance [centaur] Hodites, double-formed, lay vanquished and in vain he tried to speak, for tongue was pinned to chin and chin to throat.
+     <br/>
+     To Caeneus five had fallen: [the centaurs] Antimachus, axe-armed Pyracmon, Bromus, Elymus and Styphelus. I don't recall their wounds; I noted names and number. [Centaur] Latreus next, giant in limbs and frame, came flying forth, armed with the spoils of Halesus Emathius [of Emathia] whom he had slain. His years were then half-way from youth to age, with still a young man's strength and temples flecked with grey. A striking sight with shield and sword and Macedonian lance, he faced in turn both forces, clashed his arms, and riding a tight ring cried haughtily across the empty air ‘You, Caenis [i.e. the woman Caenis was transformed into a man by the god Poseidon, renamed Caeneus, and made invulnerable to weapons], there! Must I endure you? You, always a wench, always Caenis to me! Doesn't your birth remind you, don't you realize what act won your reward, what price you paid to seem a spurious man? Just think what you were born, think what you bore! Away! Back to your wheel and wool-box! Spin your thread. Leave war to men!’
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O12.6.html">
+      <img alt="Caeneus and the Centaurs | Athenian red-figure stamnos C5th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/O12.6Kentauroi.jpg"/>
+     </a>
+     <figcaption>
+      Caeneus and the Centaurs, Athenian red-figure stamnos C5th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Such were his taunts and, as he galloped by, Caeneus let fly his spear and furrowed out the centaur's flank where horse and man unite. Mad with pain, he thrust his long lance full in the youth of Phylleius' [Caeneus'] unprotected face. Away it bounced like hailstones dancing on a roof or little pebbles dropped upon a drum. He closed, and in that rock-hard side he strove to sink his sword: the sword found no way in. ‘You'll not escape! If my sword-point's so blunt, I'll slay you with the edge!’ He held the sword aslant and reached to slash him round his loins. The blow made a loud thud as if it struck marble. Against the carapace the blade broke into flying pieces. Long enough Caeneus had posed unwounded there before his wondering foe. ‘Come now,’ he cried, ‘I'll try my steel on you!’ and drove his deadly sword up to the hilt into the centaur's flank, and turned and twisted the blind blade about inside his juts to wound and wound again.
+     <br/>
+     The frenzied two-formed (
+     <em>
+      bimembres
+     </em>
+     ) now with a huge shout rush hurling, wielding all against that one their armoury. Their arms fall blunted; still unpierced by every blow, with no blood drawn, Caeneus Elateius stands firm. A miracle! They stood there stunned. ‘Disgrace!’ cried [the centaur] Monychus, ‘Disgrace! Our multitude worsted by one--hardly a man! Yet man he is and we--such feeble efforts--we are what he was! What goods our giant size, our twofold strength? That our twin characters unite in us bravest things that breathe? No goddess gave us birth for sure. We're not Ixion's sons whose stout heart hoped to win great Juno [Hera]--half a man has laid us low! Roll on him rock and trees, whole mountainsides; hurl down the woods and crush his stubborn life, woods on his windpipe--weight in place of wounds!’
+     <br/>
+     He happened on a tree blown down by wild south winds and launched it at his sturdy foe. That gave a lead; in not time Othrys' sides were stripped of trees and Pelion lost its shade, buried beneath the giant pile, Caeneus, tossing and heaving under the weight of trees, sustained on sturdy shoulders the vast mass of timber. Even so the burden towered higher than mouth and head and he could draw no air to breathe. With failing strength, at times he tried in vain to raise himself to reach the air and roll the high-piled woods away; at times he heaved, as if an earthquake shook the heights of Ida that we look at there.
+     <br/>
+     His end remains uncertain. Some declare the woods' vast weight had forced him to the void of Tartara. But Ampycides [Mopsos] disagreed. For from the middle of the mound he saw a brown-winged bird fly up to the bright air. I saw it too, the first time and the last. As Mopsus watched him wheel in easy flight above his camp and heard his wings' huge whirr, his eyes and thoughts pursued him, and he cried ‘Hail, Caeneus, glory of the Lapithae race, once a great hero, now a bird unique.’ A prophet's words! And we believed. Our grief gave us fresh rage. That one of us should fall to foes so many, rankled bitterly. Nor did our sword-blades cease to wreak our grief till half were slain, half flight and night dispersed.
+     <br/>
+     As Nestor told this tale of battles fought between Lapithae and the half-man Centauri, Tlepolemus took offence that Alcides [Heracles] had been passed by in silence and exclaimed: ‘I am surprised, my lord, that you've forgotten the feats of Hercules. Why, many a time my father used to tell me how he quelled the cloud-born (
+     <em>
+      nubigenae
+     </em>
+     ) [centaurs].’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 2. 67 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "With record of his [Theseus'] deeds. When men shall have read of . . . the rout of the two-framed (
+     <em>
+      bimembres
+     </em>
+     ) [i.e. the Centaurs]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 17. 248 ff  :
+     </span>
+     <br/>
+     "Did Hippodamia of Atrax compel Haemonia's men to declare fierce war on the Centauri (Centaurs)?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 2. 454 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "What boon of equal note have the gifts of Bacchus [Dionysos] yielded? Bacchus has even given occasion for offence. It was he who quelled in death the maddened Centaurs, Rhoetus, and Pholus, and Hylaeus, as he aimed his massive flagon at the Lapiths [i.e. they were killed as a result of their drunkenness]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 6 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Frenzy bade the Centauri (Centaurs) hurl embossed goblets against Pirithous and break them upon his head."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 29B :
+     </span>
+     <br/>
+     "Like the heroine Ischomache, the Lapith's daughter, welcome spoil of the Centauri (Centaurs) amid their carousal."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 778 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "The fierce Centaurs and the Lapithae (Lapiths) whom too much wine had inflamed to war."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 1. 130 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Argos adds paintings [to the hull of the ship Argo] of varied grace . . . On the other side is Pholoe and Rhoetus mad with much wine, and the strife that broke out over the Atracian maid [Hippodameia]. Bowls and tables are flying, altars of the gods and cups, the marvellous work of ancient craftsmen. Here may one recognise Peleus, lord of the spear, and here Aeson raging with his sword. Monychus [a centaur] is toiling beneath the weight of his conqueror Nestor, mounted on his unwilling back; Clanis [another centaur] is dealing death to Actor with a blazing oak tree; Nessus the black Centaur is fleeing, and in the midst of all Hippasus [the centaur] leaning against the coverlets is burying his heads in an empty golden goblet."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Thebaid 5. 260 ff :
+     </span>
+     <br/>
+     "No fiercer are the banquet-revellings of the Lapithae on frozen Ossa, when the cloud-born ones [the centaurs] grow hot with wine deep-drained; scarce has wrath's first pallor seized them, when overthrowing their tables they start up to the affray."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 535 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[Amongst scenes carved on the drinking bowl of Heracles :] Fierce Centauri (Centaurs) has it, cunningly wrought, and fearful shapes in gold: here amid slaughter of Lapithae are stones and torches flying, and again other bowls; everywhere the furious anger of dying men; he himself [Heracles] seizes the raging Hylaeus, and grips him by the beard and wields his cup."
+    </p>
+    <hr/>
+    <h3 id="Horses">
+     CENTAURS SIRES OF LAPITH HORSES
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/O12.3.html">
+      <img alt="Centaur | Athenian bilingual eye cup C6th B.C. | Toledo Museum of Art" class="img-responsive center-block" src="../image/O12.3Kentauroi.jpg"/>
+     </a>
+     <figcaption>
+      Centaur, Athenian bilingual eye cup C6th B.C.,
+      <a href="http://www.toledomuseum.org/" target="_blank">
+       Toledo Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     The  Lapiths, a Thessalian tribe, were reputed to have invented the bit and been the first men to ride horses. Their horses were sired by the Kentauroi (Centaurs).
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 115 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "The Thessalian Lapiths, mounting the horse's back, gave us the bit and the circling course, and taught the horseman, in full armour, to gallop over the earth and round his proud paces."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 328 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Admetus [King of Iolkos (Iolcus) in Thessalia (Thessaly)], too, the fortunate, from Thessalian shores, can scarce restrain his barren mares, of Centauri's seed, as they tell (so scornful, methinks, are they of their sex, and their natural heat turns all to body's vigour). White with dark flecks, they resemble day and night: so strongly marked was each colour, nor unfit were the to be deemed of that stock which stood spellbound at the piping of the Castalian reed, and scorned their pasture when they heard Apollo play."
+    </p>
+    <hr/>
+    <h3 id="Peleus">
+     PELEUS &amp; THE CENTAURS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 56 (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "That [Peleus] in seeking it [his knife] alone over steep Pelion, he [Peleus] might be slain forthwith by the mountain-bred Kentauroi (Centaurs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 167 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "After he [Peleus] had gone to sleep on Pelion, Akastos (Acastus) hid his dagger . . . and returned home, deserting Peleus. As he awoke and started looking for his dagger, he was taken by the Kentauroi (Centaurs), and was on the verge of perishing when he was spared by Kheiron, who also sought out and handed him back his dagger."
+    </p>
+    <hr/>
+    <h3 id="Akhilleus">
+     ACHILLES &amp; THE CENTAURS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 150 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[The centaur Kheiron (Chiron), mentor of Akhilleus (Achilles) speaks :] ‘The Centauri (Centaurs) often complain to me  of plundered homes and herds stolen before their eyes [by the young Akhilleus], and that they themselves are driven from field and river; they devise violence and fraud, and utter angry threats.’"
+    </p>
+    <hr/>
+    <h3 id="Miscellany">
+     CENTAURS POETIC MISCELLANY
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 11. 831 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Kheiron (Chiron), most righteous of the Kentauroi (Centaurs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 17. 9 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "Anybody who has seen one [i.e. an onokentauros or chimpanzee which was believed to be a cross between a man and a beast] would never have doubted that the race of Kentauroi (Centaurs) once existed, and that artificers did not falsify nature, but that time produced these creatures by blending dissimilar bodies into one. But whether in fact they came into being and visited us at one and the same period, or whether rumour, more ductile than any wax and too credulous, fashioned them and by some miraculous combination fused the halves of horse and a man while endowing them with a single soul."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callistratus, Descriptions 12 (trans. Fairbanks) (Greek rhetorician C4th A.D.) :
+     </span>
+     <br/>
+     "On the statue of a Kentauros (Centaur). On entering an awe-inspiring and ample shrine which had received into itself the most beautiful statues, I behold set up in the entrance-hall of the temple a Kentauros, not like a man, as Homer represents him, but like a ‘wooded mountain peak.’ The Kentauros was a man down as far as the flanks, then it indeed in a horse's ‘four-legged stance.’ For both the horse and the man nature had cut in two in the middle and joined into one body, omitting some members and cleverly adapting the rest to each other; since of the human form it took away everything from the waist to the feet, while of the horse's body it cut of everything down to the navel and joined the rest to the human figure, as though the horse desired the head, the neck-sinews and that part of a man's back which broadens as it descends, while the man sought the firm support of a horse from the navel to the feet. Such being the body, you could see also a spirit breathing upon the work of art, and the savage type of body, and the animal nature coming to light in the face; and you could see the stone most beautifully interpreting the hair and every element striving to express the truth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 27 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Constellation] Archer [Sagittarius]. Many have called this sign the Centaurus (Centaur); others deny the name, for the reason that no Centaurus makes use of arrows."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 2. 2 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Who [in this day and age] believes that the Hippocentaurus (Centaur) or the Chimaera (Chimera) ever existed? . . . The years obliterate the inventions of the imagination, but confirm the judgements of nature."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 7. 35 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "Claudius Caesar [Roman Emperor C1st A.D.] writes that a Hippocentaurus (Horse-Centaur) was born in Thessalia (Thessaly) and died the same day; and in his reign we actually saw one that was brought here from him from Aegyptus (Egypt) preserved in honey."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 7. 202  :
+     </span>
+     <br/>
+     "[On inventions :] Fighting on horse-back [was invented] by the Thessalians called Centauri (Centaurs), who dwelt along Mount Pelion."  [N.B. This is a rationalisation of the Centaur-myth which portrays them as the first horsemen.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 970 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[The Aloadai giants piled the Thessalian mountains, home of the Kentauroi (Centaurs), upon each other to reach heaven :] I'll snatch up ridges full of Centauri (Centaurs). Now with twin mountains I'll construct a pathway to the realms above; Chiron shall see his own [Mount] Pelion 'neath [Mount] Ossa, and Olympus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 138 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Crashing through the forests with shoulders and either breast, does twy-formed Hylaeus [one of the Centaurs] speed headlong from his mountain cave; [Mount] Ossa trembles at his going, and beasts and cattle fall in terror; yea, even his brethren are affrighted, till with a great leap he plunges into the waters of [the River] Peneus, and with thwarting bulk dams back the mighty flood."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 9. 220 ff :
+     </span>
+     <br/>
+     "The half-brute Centaurus (Centaur) leaps down in to the vale from the airy height of Ossa: at himself the lofty forests quake in fear, at the horse the plain shakes."
+    </p>
+    <hr/>
+    <h3 id="Haides">
+     SHADES OF CENTAURS - GUARDIANS OF THE UNDERWORLD
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 287 ff (trans. Fairclough) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Many monstrous forms besides of various beasts are stalled at the doors [of the Underworld], Centauri (Centaurs) and double-shaped Scyllae, and the hundredfold Briareus, and the beast of Lerna [Hydra], hissing horribly, and the Chimaera armed with flame, Gorgones and Harpyiae (Harpies), and the shape of the three-bodied shade [Geryon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 536 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Why should I tell thee of Erebus' [Haides'] monsters, of Scyllas, and the empty rage of Centauri (Centaurs), and the Gigantes' (Giants) twisted chains of solid adamant, and the diminished shade of hundredfold Aegaeon?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 3. 260 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "[A man prays that his father's soul has a peaceful journey to the underworld :] But do ye, O monarchs of the dead and thou, Ennean Juno [Persephone], if ye approve my prayer  . . let the warder of the gate [Kerberos (Cerberus)] make no fierce barking, let distant vales conceal the Centauri (Centaurs) and Hydra's multitude and Scylla's monstrous horde [and other monsters appointed guardians of Haides in death]."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/Z38.4.html">
+      <img alt="Centaur, Centauris and tigers | Greco-Roman mosaic from Hadrian's Palace C2nd A.D. | Altes Museum, Berlin" class="img-responsive center-block" src="../image/Z38.4Kentauroi_sm.jpg"/>
+     </a>
+     <figcaption>
+      Centaur, Centauris, tiger and lion, Greco-Roman mosaic from the Palace of Hadrian C2nd A.D.,
+      <a href="http://www.smb.museum/en/museums-institutions/altes-museum/" target="_blank">
+       Altes Museum
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h2 id="Names">
+     NAMES OF THESSALIAN CENTAURS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Πετραιος
+      </p>
+      <p class="names-greek">
+       Ασβολος
+      </p>
+      <p class="names-greek">
+       Αρκτος
+      </p>
+      <p class="names-greek">
+       Ουρειος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Petraios
+      </p>
+      <p>
+       Asbolos
+      </p>
+      <p>
+       Arktos
+      </p>
+      <p>
+       Oureios
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Petraeus
+      </p>
+      <p>
+       Asbolus
+      </p>
+      <p>
+       Arctus
+      </p>
+      <p>
+       Ureus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Of the Rocks (
+       <em>
+        petraios
+       </em>
+       )
+      </p>
+      <p>
+       Sooty, Dusky (
+       <em>
+        asbolos
+       </em>
+       )
+      </p>
+      <p>
+       Bear (
+       <em>
+        arktos
+       </em>
+       )
+      </p>
+      <p>
+       Of the Mountains (
+       <em>
+        oreios
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Μιμας
+      </p>
+      <p class="names-greek">
+       Πευκευς
+      </p>
+      <p class="names-greek">
+       Περιμηδης
+      </p>
+      <p class="names-greek">
+       Δρυαλος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Mimas
+      </p>
+      <p>
+       Peukeus
+      </p>
+      <p>
+       Perimêdês
+      </p>
+      <p>
+       Dryalos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Mimas
+      </p>
+      <p>
+       Peuceus
+      </p>
+      <p>
+       Perimedes
+      </p>
+      <p>
+       Dryalus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Imitator, Mime? (
+       <em>
+        mimas
+       </em>
+       )
+      </p>
+      <p>
+       Of the Pines (
+       <em>
+        peukê
+       </em>
+       )
+      </p>
+      <p>
+       Plan Around? (
+       <em>
+        peri-, medô
+       </em>
+       )
+      </p>
+      <p>
+       Of the Oaks (
+       <em>
+        drys, hylê
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ασβολος
+      </p>
+      <p class="names-greek">
+       Αμυκος
+      </p>
+      <p class="names-greek">
+       Ευρυτιων
+      </p>
+      <p class="names-greek">
+       Ευρυτος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Asbolos
+      </p>
+      <p>
+       Amykos
+      </p>
+      <p>
+       Eurytiôn
+      </p>
+      <p>
+       Eurytos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Asbolus
+      </p>
+      <p>
+       Amycus
+      </p>
+      <p>
+       Eurytion
+      </p>
+      <p>
+       Eurytus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Sooty, Dusky (
+       <em>
+        asbolos
+       </em>
+       )
+      </p>
+      <p>
+       Without Stain? (
+       <em>
+        a-, mykos
+       </em>
+       )
+      </p>
+      <p>
+       Fine Drinking-Horn (
+       <em>
+        eu-, rhytos
+       </em>
+       )
+      </p>
+      <p>
+       Fine Drinking-Horn
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Γυρνευς
+      </p>
+      <p class="names-greek">
+       Ορνειος
+      </p>
+      <p class="names-greek">
+       Λυκαβας
+      </p>
+      <p class="names-greek">
+       Ροιτος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Gyrneus
+      </p>
+      <p>
+       Orneios
+      </p>
+      <p>
+       Lykabas
+      </p>
+      <p>
+       Rhoitos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Gyrneus
+      </p>
+      <p>
+       Orneus
+      </p>
+      <p>
+       Lycabas
+      </p>
+      <p>
+       Rhoetus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Run-in-Circles? (
+       <em>
+        gyreuô
+       </em>
+       )
+      </p>
+      <p>
+       Wine-Stirrer (
+       <em>
+        ornumi
+       </em>
+       )
+      </p>
+      <p>
+       Year, Annual (
+       <em>
+        lykabas
+       </em>
+       )
+      </p>
+      <p>
+       Pomegranate-Wine? (
+       <em>
+        rhoitês
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Μεδων
+      </p>
+      <p class="names-greek">
+       Θαυμας
+      </p>
+      <p class="names-greek">
+       Πεισηνορ
+      </p>
+      <p class="names-greek">
+       Μελανευς
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Medôn
+      </p>
+      <p>
+       Thaumas
+      </p>
+      <p>
+       Peisênor
+      </p>
+      <p>
+       Melaneus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Medon
+      </p>
+      <p>
+       Thaumas
+      </p>
+      <p>
+       Pisenor
+      </p>
+      <p>
+       Melaneus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Plan, Contrive (
+       <em>
+        medô
+       </em>
+       )
+      </p>
+      <p>
+       Wondrous (
+       <em>
+        thaumas
+       </em>
+       )
+      </p>
+      <p>
+       Of the Meadows (
+       <em>
+        pisos
+       </em>
+       )
+      </p>
+      <p>
+       Black-(Coated) (
+       <em>
+        melas
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Φοβας
+      </p>
+      <p class="names-greek">
+       Αβας
+      </p>
+      <p class="names-greek">
+       Νεσσος
+      </p>
+      <p class="names-greek">
+       Αστυλος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Phobas
+      </p>
+      <p>
+       Abas
+      </p>
+      <p>
+       Nessos
+      </p>
+      <p>
+       Astylos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Phobas
+      </p>
+      <p>
+       Abas
+      </p>
+      <p>
+       Nessus
+      </p>
+      <p>
+       Astylus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Fear, Fearsome (
+       <em>
+        phobos
+       </em>
+       )
+      </p>
+      <p>
+       --?
+      </p>
+      <p>
+       Duck? (
+       <em>
+        nêssa
+       </em>
+       )
+      </p>
+      <p>
+       Without pillar, prop (
+       <em>
+        stylos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Λυκιδας
+      </p>
+      <p class="names-greek">
+       Αρειος
+      </p>
+      <p class="names-greek">
+       Ιμβρευς
+      </p>
+      <p class="names-greek">
+       Ευρυνομος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Lykidas
+      </p>
+      <p>
+       Areios
+      </p>
+      <p>
+       Imbreus
+      </p>
+      <p>
+       Eurynomos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Lycidas
+      </p>
+      <p>
+       Areus
+      </p>
+      <p>
+       Imbreus
+      </p>
+      <p>
+       Eurynomus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Wolf Cub (
+       <em>
+        lykideus
+       </em>
+       )
+      </p>
+      <p>
+       Warlike (
+       <em>
+        areios
+       </em>
+       )
+      </p>
+      <p>
+       --?
+      </p>
+      <p>
+       Broad Pasture (
+       <em>
+        eury-, nomos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Κρηναιος
+      </p>
+      <p class="names-greek">
+       Αφιδας
+      </p>
+      <p class="names-greek">
+       Λυκας
+      </p>
+      <p class="names-greek">
+       Χρομις
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Krênaios
+      </p>
+      <p>
+       Aphidas
+      </p>
+      <p>
+       Lykas
+      </p>
+      <p>
+       Khromis
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Crenaeus
+      </p>
+      <p>
+       Aphidas
+      </p>
+      <p>
+       Lycas
+      </p>
+      <p>
+       Chromis
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Of the Spring (
+       <em>
+        krênaios
+       </em>
+       )
+      </p>
+      <p>
+       Not Sparing? (
+       <em>
+        a-, phidos
+       </em>
+       )
+      </p>
+      <p>
+       Wolf-Like, Wolfish (
+       <em>
+        lykos
+       </em>
+       )
+      </p>
+      <p>
+       Neighing of Horses (
+       <em>
+        khromos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Δικτυς
+      </p>
+      <p class="names-greek">
+       Αφαρευς
+      </p>
+      <p class="names-greek">
+       Βιηνωρ
+      </p>
+      <p class="names-greek">
+       Ἑλοψ
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Diktys
+      </p>
+      <p>
+       Aphareus
+      </p>
+      <p>
+       Biênôr
+      </p>
+      <p>
+       Helops
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Dictys
+      </p>
+      <p>
+       Aphareus
+      </p>
+      <p>
+       Bienor
+      </p>
+      <p>
+       Helops
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Of Hunting Nets (
+       <em>
+        diktyon
+       </em>
+       )
+      </p>
+      <p>
+       Sudden, Quick (
+       <em>
+        aphar
+       </em>
+       )
+      </p>
+      <p>
+       Strong One (
+       <em>
+        biê
+       </em>
+       )
+      </p>
+      <p>
+       Dumb, Without Voice? (
+       <em>
+        helops
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Νηδυμνος
+      </p>
+      <p class="names-greek">
+       Ἱππασος
+      </p>
+      <p class="names-greek">
+       Ριφευς
+      </p>
+      <p class="names-greek">
+       Λυκοπης
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Nêdymnos
+      </p>
+      <p>
+       Hippasos
+      </p>
+      <p>
+       Rhipheus
+      </p>
+      <p>
+       Lykopês
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Nedymnus
+      </p>
+      <p>
+       Hippasus
+      </p>
+      <p>
+       Ripheus
+      </p>
+      <p>
+       Lycopes
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       --?
+      </p>
+      <p>
+       Horseman (
+       <em>
+        hippastês
+       </em>
+       )
+      </p>
+      <p>
+       Thrower, Caster (
+       <em>
+        rhiptô
+       </em>
+       )
+      </p>
+      <p>
+       Wolf-Eyed, -Faced (
+       <em>
+        lykos, ops
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Θηρευς
+      </p>
+      <p class="names-greek">
+       Δεμελεων
+      </p>
+      <p class="names-greek">
+       Ὑλης
+      </p>
+      <p class="names-greek">
+       Φλεγραιος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Thêreus
+      </p>
+      <p>
+       Demeleôn
+      </p>
+      <p>
+       Hylês
+      </p>
+      <p>
+       Phlegraios
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Thereus
+      </p>
+      <p>
+       Demeleon
+      </p>
+      <p>
+       Hyles
+      </p>
+      <p>
+       Phlegraeus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Bestial (
+       <em>
+        thêreios
+       </em>
+       )
+      </p>
+      <p>
+       Lion-Bodied (
+       <em>
+        leôn, demas
+       </em>
+       )
+      </p>
+      <p>
+       Of the Woods (
+       <em>
+        hylê
+       </em>
+       )
+      </p>
+      <p>
+       Scorched, Burnt (
+       <em>
+        phlegethô
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ιφινοος
+      </p>
+      <p class="names-greek">
+       Κλανις
+      </p>
+      <p class="names-greek">
+       Δολυας
+      </p>
+      <p class="names-greek">
+       Κυλλαρος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Iphinoos
+      </p>
+      <p>
+       Klanis
+      </p>
+      <p>
+       Dolyas
+      </p>
+      <p>
+       Kyllaros
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Iphinous
+      </p>
+      <p>
+       Clanis
+      </p>
+      <p>
+       Dolyas
+      </p>
+      <p>
+       Cyllarus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Quick-Thinking (
+       <em>
+        iphis, noos
+       </em>
+       )
+      </p>
+      <p>
+       Wailing? (
+       <em>
+        klannô, klaô
+       </em>
+       )
+      </p>
+      <p>
+       Crafty One? (
+       <em>
+        dolos
+       </em>
+       )
+      </p>
+      <p>
+       Crooked-, Bandy-Legged (
+       <em>
+        kyllos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Τηλεβοας
+      </p>
+      <p class="names-greek">
+       Χθονιος
+      </p>
+      <p class="names-greek">
+       Φαιοκομης
+      </p>
+      <p class="names-greek">
+       Ὑλονομη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Têleboas
+      </p>
+      <p>
+       Khthonios
+      </p>
+      <p>
+       Phaiokomês
+      </p>
+      <p>
+       Hylonomê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Teleboas
+      </p>
+      <p>
+       Chthonius
+      </p>
+      <p>
+       Phaeocomes
+      </p>
+      <p>
+       Hylonome
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Loud-Shouting (
+       <em>
+        teleboas
+       </em>
+       )
+      </p>
+      <p>
+       Of the Earth (
+       <em>
+        khthonios
+       </em>
+       )
+      </p>
+      <p>
+       Grey-Haired (
+       <em>
+        phaios, komê
+       </em>
+       )
+      </p>
+      <p>
+       Woodland Pasture (
+       <em>
+        hylê, nomos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Πυρετος
+      </p>
+      <p class="names-greek">
+       Εχεκλος
+      </p>
+      <p class="names-greek">
+       Πυραιμων
+      </p>
+      <p class="names-greek">
+       Εριγδουπος
+      </p>
+      <p class="names-greek">
+       Αντιμαχος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Pyretos
+      </p>
+      <p>
+       Ekheklos
+      </p>
+      <p>
+       Pyraimôn
+      </p>
+      <p>
+       Erigdoupos
+      </p>
+      <p>
+       Antimakhos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Pyretus
+      </p>
+      <p>
+       Echeclus
+      </p>
+      <p>
+       Pyraemon
+      </p>
+      <p>
+       Erigdupus
+      </p>
+      <p>
+       Antimachus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Burning-Heat (
+       <em>
+        pyretos
+       </em>
+       )
+      </p>
+      <p>
+       Gluttonous? (
+       <em>
+        ekekhollos
+       </em>
+       )
+      </p>
+      <p>
+       Fiery One (
+       <em>
+        pyros
+       </em>
+       )
+      </p>
+      <p>
+       Loud-Sounding
+       <em>
+        (erigdoupos
+       </em>
+       )
+      </p>
+      <p>
+       Resist with Force (
+       <em>
+        antimakheô
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ελυμος
+      </p>
+      <p class="names-greek">
+       Λατρευς
+      </p>
+      <p class="names-greek">
+       Μωνυχος
+      </p>
+      <p class="names-greek">
+       Βρομος
+      </p>
+      <p class="names-greek">
+       Στυφελος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Elymos
+      </p>
+      <p>
+       Latreus
+      </p>
+      <p>
+       Mônykhos
+      </p>
+      <p>
+       Bromos
+      </p>
+      <p>
+       Styphelos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Elymus
+      </p>
+      <p>
+       Latreus
+      </p>
+      <p>
+       Monychus
+      </p>
+      <p>
+       Bromus
+      </p>
+      <p>
+       Styphelus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Quiver (
+       <em>
+        elymos
+       </em>
+       )
+      </p>
+      <p>
+       In Servitude (
+       <em>
+        latreuô
+       </em>
+       )
+      </p>
+      <p>
+       Wild Boar (
+       <em>
+        mônukhos
+       </em>
+       )
+      </p>
+      <p>
+       Roaring, Shouting (
+       <em>
+        bromos
+       </em>
+       )
+      </p>
+      <p>
+       Rough, Cruel (
+       <em>
+        styphelos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.4.html">
+        <img alt="Thumbnail Centaur Eurytion &amp; Hippodamia" src="../image/thumbO12.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.4 Eurytion &amp; Hippodamia
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.9.html">
+        <img alt="Thumbnail Centaur &amp; Lapith" src="../image/thumbO12.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.9 Centaur &amp; Lapith
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.10.html">
+        <img alt="Thumbnail Centaur &amp; Lapith" src="../image/thumbO12.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.10 Centaur &amp; Lapith
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.3.html">
+        <img alt="Thumbnail Centaur Wielding Stone" src="../image/thumbO12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.3 Centaur Wielding Stone
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.6.html">
+        <img alt="Thumbnail Caeneus &amp; Centaurs" src="../image/thumbO12.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.6 Caeneus &amp; Centaurs
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.7.html">
+        <img alt="Thumbnail Centaurs &amp; Lapiths" src="../image/thumbO12.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.7 Centaurs &amp; Lapiths
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.12.html">
+        <img alt="Thumbnail Decorative Centaur" src="../image/thumbO12.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.12 Decorative Centaur
+        </h3>
+        <p>
+         Etruscan Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O12.11.html">
+        <img alt="Thumbnail Theseus &amp; Centaur" src="../image/thumbO12.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O12.11 Theseus &amp; Centaur
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z38.4.html">
+        <img alt="Thumbnail Family of Centaurs" src="../image/thumbZ38.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z38.4 Family of Centaurs
+        </h3>
+        <p>
+         Greco-Roman Tivoli Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z38.3.html">
+        <img alt="Thumbnail Decorative Centaur" src="../image/thumbZ38.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z38.3 Decorative Centaur
+        </h3>
+        <p>
+         Greco-Roman Tzippori Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S38.1.html">
+        <img alt="Thumbnail Centaur &amp; Eros Statue" src="../image/thumbS38.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S38.1 Statue of Centaur &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Marble Statue C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S38.2.html">
+        <img alt="Thumbnail Statue of Centaur" src="../image/thumbS38.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S38.2 Statue of Centaur
+        </h3>
+        <p>
+         Greco-Roman Marble Statue C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     CENTAURS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE CENTAURS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Ixion and Nephele
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Man's head and torso, horse's torso and legs
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Magnesia in Thessaly
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Slain by
+       </th>
+       <td>
+        The Lapiths
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Hippocentaurs
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     CENTAURS PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Thesssalian Centaurs
+      <ul>
+       <li>
+        <a href="#Family">
+         Family of the Centaurs
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Parentage">
+         Parentage &amp; Birth of the Centaurs
+        </a>
+       </li>
+       <li>
+        <a href="#Kentauromakhia">
+         Battle of the Centaurs &amp; Lapiths
+        </a>
+       </li>
+       <li>
+        <a href="#Horses">
+         Centaur Sires of Lapith Horses
+        </a>
+       </li>
+       <li>
+        <a href="#Peleus">
+         Peleus &amp; the Centaurs
+        </a>
+       </li>
+       <li>
+        <a href="#Akhilleus">
+         Achilles &amp; the Centaurs
+        </a>
+       </li>
+       <li>
+        <a href="#Miscellany">
+         Centaurs Poetic Miscellany
+        </a>
+       </li>
+       <li>
+        <a href="#Haides">
+         Centaurs Guardians of the Underworld
+        </a>
+       </li>
+       <li>
+        <a href="#Names">
+         Names of Thessalian Centaurs
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="KentauroiPeloponnesioi.html">
+       Part 2: Peloponnesian Centaurs
+      </a>
+      <ul>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Family">
+         Family of the Centaurs
+        </a>
+       </li>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Herakles">
+         Heracles &amp; the Centaurs
+        </a>
+       </li>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Atalanta">
+         Atalanta &amp; the Centaurs
+        </a>
+       </li>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Seirenes">
+         The Centaurs &amp; the Sirens
+        </a>
+       </li>
+       <li>
+        <a href="KentauroiPeloponnesioi.html#Names">
+         Names of Peloponnesian Centaurs
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="KentauroiKyprioi.html">
+       Part 3: Cyprian Centaurs
+      </a>
+     </li>
+     <li>
+      <a href="PheresLamioi.html">
+       Part 4: Centaurs of Dionysus
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

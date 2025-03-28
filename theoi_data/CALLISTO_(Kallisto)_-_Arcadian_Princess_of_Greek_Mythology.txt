@@ -1,0 +1,1659 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   CALLISTO (Kallisto) - Arcadian Princess of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Callisto was a daughter of the Arcadian King Lycaon and a hunting companion of the goddess Artemis. There were several contradictory versions of her story but ancient writers all agreed on a number of details:--that she was seduced by the god Zeus, transformed into a bear, bore a son named Arcas, and was hunted down as a beast and placed amongst the stars as the constellation Ursa Major." name="description"/>
+  <meta content="Callisto, Kallisto, Greek mythology, heroine, Arcadian princess, bear metamorphosis, Ursa Major" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Heroines
+     </a>
+     &gt;&gt; Callisto (Kallisto)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     KALLISTO
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Καλλιστω
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Kallistô
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Callisto
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Most Beautiful (
+       <em>
+        kallistê
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/O15.1.html">
+      <img alt="Callisto | Apulian red-figure vase fragment C4th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/O15.1Kentaurides.jpg"/>
+     </a>
+     <figcaption>
+      Callisto, Apulian red-figure vase fragment C4th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     KALLISTO (Callisto) was a daughter of the Arkadian King Lykaon (Lycaon) and a hunting companion of the goddess
+     <a href="../Olympios/Artemis.html">
+      Artemis
+     </a>
+     . There were several contradictory versions of her story but ancient writers all agreed on a number of details:--that she was seduced by the god Zeus, transformed into a bear, bore a son named Arkas (Arcas), and was hunted  down  as a beast and placed amongst the stars as the
+     <a href="../greek-mythology/star-myths.html">
+      constellation
+     </a>
+     Ursa Major.
+    </p>
+    <p>
+     In the first version of the story Kallisto swore to preserve her virginity for as long as she remained in the company of the goddess. But after she was seduced by the god Zeus, she kept the fact hidden. Her condition was eventually revealed during the bath and Artemis and in her fury the goddess transformed Kallisto into a bear. Hunters later caught and delivered her and her son Arkas to King Lykaon. When the boy was fully grown, Kallisto inadvertently wandered into the sanctuary of Zeus Lykaios and Arkas, not knowing the bear's identity, tried to kill her for the sacrilege but Zeus intervened by transferring the pair to the stars.
+    </p>
+    <p>
+     In a comedic version of thestory, Zeus seduced Kallisto in the guise of the goddess Artemis. When her pregnancy was revealed in the bath, Kallisto blamed the goddess for the offence. She was naturally incensed by such an accusation and turned the girl into a bear.
+    </p>
+    <p>
+     In yet a third version, when Kallisto was seduced by the god Zeus, his jealous wife
+     <a href="../Olympios/Hera.html">
+      Hera
+     </a>
+     angrily transformed her into a bear and persuaded the goddess Artemis to shoot her. Zeus sent
+     <a href="../Olympios/Hermes.html">
+      Hermes
+     </a>
+     to recover the child Arkas from her womb and delivered him into the care of the nymphe
+     <a href="../Nymphe/NympheMaia.html">
+      Maia
+     </a>
+     . Kallisto was  again placed amongst the stars.
+    </p>
+    <p>
+     In a slight variation of the last, Zeus turned Kallisto into a bear when Hera  came across them as they were consorting. The goddess was not fooled by the switch and persuaded Artemis to shoot her.
+    </p>
+    <h3>
+     CHRONOLOGY OF MYTH
+    </h3>
+    <p>
+     In the chronology of myth Kallisto lived in the time before the
+     <a href="../Heros/Deukalion.html">
+      Great Deluge
+     </a>
+     which, some say, was brought on by her father King Lykaon who had served Zeus a meal of human flesh. After the catastrophe, Arkas claimed his throne and ruled a new generation of Pelasgian tribesmen born of the oaks. His descendants ruled the kingdom right down to the time of the Trojan War.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF CALLISTO
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Heros/Lykaon.html">
+      LYKAON
+     </a>
+     <span class="family-refs">
+      (Hesiod Astronomy Frag 3, Apollodorus 3.100, Pausanias 8.3.6, Callimachus Hymn 1.40, Hyginus Fabulae 176 &amp; Astronomica 2.1, Ovid Fasti 2.155)
+      <br/>
+     </span>
+     [1.2]
+     <a href="../Heros/Lykaon.html">
+      LYKAON
+     </a>
+     &amp;
+     <a href="../Nymphe/NympheNonakris.html">
+      NONAKRIS
+     </a>
+     <span class="family-refs">
+      (Pausanias 8.3.6 &amp; 8.17.6, Ovid Metamorphoses 2.409)
+     </span>
+     <br/>
+     [2.1] KETEUS
+     <span class="family-refs">
+      (Apollodorus 3.100, Hyginus Astonomica 2.1)
+     </span>
+     <br/>
+     [2.2] KETEUS &amp; STILBE
+     <span class="family-refs">
+      (Scholiast on Euripides Orestes 1646)
+     </span>
+     <br/>
+     [3.1] NYKTEUS
+     <span class="family-refs">
+      (Apollodorus 3.100)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] ARKAS (by Zeus)
+     <span class="family-refs">
+      (Hesiod Astronomy Frag 3, Apollodorus 3.100, Pausanias 8.3.6, Hyginus Fabulae 176 &amp; Astonomica 2.1, Ovid Metamorphoses 2.409, Ovid Fasti 2.155, Nonnus 13.295)
+     </span>
+     <br/>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     CALLISTO (Kallistô), is sometimes called a daughter of Lycaon in Arcadia and sometimes of Nycteus or Ceteus, and sometimes also she is described as a nymph. (Schol.
+     <em>
+      ad Eurip. Orest.
+     </em>
+     1642; Apollod. iii. 8. § 2; comp. Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 1.) She was a huntress, and a companion of Artemis. Zeus, however, enjoyed her charms; and, in order that the deed might not become known to Hera, he metamorphosed her into a she-bear. But, notwithstanding this precaution, Callisto was slain by Artemis during the chase, through the contrivance of Hera. Arcas, the son of Callisto, was given by Zeus to Maia to be brought up, and Callisto was placed among the stars under the name of Arctos. (Apollod.
+     <em>
+      l. c.
+     </em>
+     ) According to Hyginus, Artemis herself metamorphosed Callisto, as she discovered her pregnancy in the bath. Ovid (
+     <em>
+      Met.
+     </em>
+     ii. 410, &amp;c.) makes Juno (Hera) metamorphose Callisto; and when Arcas during the chase was on the point of killing his mother, Jupiter (Zeus) placed both among the stars. The Arcadians showed the tomb of Callisto thirty stadia from the well Cruni: it was on a hill planted with trees, and on the top of the hill there was a temple of Artemis Calliste or Callisto. (Paus. viii. 35. § 7.) A statue of Callisto was dedicated at Delphi by the citizens of Tegea (x. 9. § 3), and in the Lesche of Delphi Callisto was painted by Polygnotus, wearing the skin of a bear instead of a dress. (x. 31. § 3.) While tradition throughout describes Callisto as a companion of Artemis, Müller (
+     <em>
+      Dor.
+     </em>
+     ii. 9. § 3) endeavours to show that Callisto is only another form of the name of Artemis Calliste, as he infers from the fact, that the tomb of the heroine was connected with the temple of the goddess, and from Callisto being changed into a she-bear, which was the symbol of the Arcadian Artemis. This view has indeed nothing surprising, if we recollect that in many other instances also an attribute of a god was transformed by popular belief into a distinct divinity. Her being mixed up with the Arcadian genealogies is thus explained by Müller: the daughter of Lycaon means the daughter of the Lycaean Zeus; the mother of Arcas is equivalent to the mother of the Arcadian people.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <p>
+     <span class="quote-greek">
+      Hesiod, The Astronomy Fragment 3 (from Pseudo-Eratosthenes, Catasterismi  1.2) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "The Great Bear (
+     <em>
+      Arktos Megale
+     </em>
+     )--Hesiod says she [Kallisto (Callisto)] was the daughter of Lykaon (Lycaon) and lived in Arkadia (Arcadia). She chose to occupy herself with wild-beasts in the mountains together with Artemis, and, when she was seduced by Zeus, continued some time undetected by the goddess, but afterwards, when she was already with child, was seen by her bathing and so discovered. Upon this, the goddess was enraged and changed her into a beast. Thus she became a bear and gave birth to a son called Arkas (Arcas). But while she was in the mountain, she was hunted by some goat-herds and given up with her babe to Lykaon. Some while after, she thought fit to go into the forbidden precinct of Zeus, not knowing the law, and being pursued by her own son and the Arkadians, was about to be killed because of the said law; but Zeus delivered her because of her connection with him and put her among the stars, giving her the name Arktos (Bear) because of the misfortune which had befallen her."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, The Astronomy Fragment 3 (from Commentary Supplementary on Aratus 547) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Of Bootes also called the Bear-Warden (Arktophylax). The story goes that he is Arkas (Arcas) the son of Kallisto (Callisto) and Zeus, and he lived in the country about [Mount] Lykaion (Lycaeum). After Zeus had seduced Kallisto, Lykaon (Lycaon), pretending not to know of the matter, entertained Zeus, as Hesiod says, and set before him on the table the babe [Arkas] which he had cut up."  [N.B. A similar tale was told of Pelops who like Arkas was cut up and offered to Zeus as a meal. He was afterwards restored to life.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homerica, The Contest of Homer and Hesiod 316 ff  (trans. Evelyn-White) (Greek epic B.C.) :
+     </span>
+     <br/>
+     "[Artemis] slew Kallisto (Callisto) with a shot of her silver bow."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Callisto (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     Aeschylus' lost play
+     <em>
+      Kallisto
+     </em>
+     dramatized the story of the girl.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Amphis, Callisto (lost play) (Greek comedy C4th B.C.) :
+     </span>
+     <br/>
+     The Athenian comedian Amphis was the first to introduce the farcical tale of Zeus seducing Kallisto (Callisto) in the guise of Artemis. The plot is summarized in Ps.-Hyginus'
+     <em>
+      Astronomica
+     </em>
+     2.1 below.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 100 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Eumelos (Eumelus) [Greek epic poet C8th B.C.] and certain others maintain that Lykaon (Lycaon) had a daughter named Kallisto (Callisto), although Hesiod [poet C8th-7th B.C.] says she was one of the Nymphai (Nymphs), while Asios [poet C8th-7th B.C.] identifies her father as Nykteus (Nycteus) [probably Nyktimos (Nyctimus)], and Pherekydes [mythographer C5th B.C.] as Keteus (Ceteus). She was a hunting companion of Artemis, imitating her dress and remaining under oath a virgin for the goddess. But Zeus fell in love with her and forced her into bed, taking the likeness, some say, or Artemis, others, of Apollon. Because he wanted to escape the attention of Hera, Zeus changed Kallisto into a bear. But Hera persuaded Artemis to shoot the girl with an arrow like a wild animal. There are those who maintain, however, that Artemis shot her because she did not protect her virginity. As Kallisto died, Zeus seized his baby and handed it over to Maia to rear in Arkadia, giving it the name Arkas (Arcas). Kallisto he changed into a star, which he called Arktos (the Bear)."
+     <br/>
+     [N.B. Kallisto was either the daughter or grand-daughter of Lykaon, for Keteus and Nykteus (i.e. Nyktimos) were his sons.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 1 to Zeus 40 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The stream Neda [in Arkadia] . . . its primeval water do the son's son of the Bear, Lykaon's daughter, drink."
+     <br/>
+     [N.B. "Son's son of the Bear" is Arkas, the son of Zeus (son of Kronos) and Kallisto.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theocritus, Idylls 1. 125 ff (trans. Edmonds) (Greek bucolic C3rd B.C.) :
+     </span>
+     <br/>
+     "Come away from the knoll of Helikè (Helice) and the howe lift high i ' the lea, the howe of Lykaon's (Lycaon's) child [i.e. Kallisto], the howe that gods in heav's envye."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 25. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "On the Athenian Akropolis (Acropolis) . . . Deinomenes made the two female figures which stand near [the statue of Anakreon], Io, the daughter of Inakhos, and Kallisto (Callisto), the daughter of Lykaon (Lycaon), of both of whom exactly the same story is told, to wit, love of Zeus, wrath of Hera, and metamorphosis, Io becoming a cow and Kallisto a bear."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 3. 6  :
+     </span>
+     <br/>
+     "In addition to all this male issue, Lykaon (Lycaon) had a daughter Kallisto (Callisto). This Kallisto (I repeat the current Greek legend) was loved by Zeus and mated with him. When Hera detected the intrigue she turned Kallisto into a bear, and Artemis to please Hera shot the bear. Zeus sent Hermes with orders to save the child that Kallisto bore in her womb, and Kallisto herself he turned into the constellation known as the Great Bear (Arktos Megas), which is mentioned by Homer in the return voyage of Odysseus from Kalypso :--‘Gazing at the Pleiades and late-setting Bootes, and the Bear (
+     <em>
+      Arktos
+     </em>
+     ), which they also call the Wain (
+     <em>
+      Amaxa
+     </em>
+     ).’ 
+  But it may be that the constellation is merely named in honor of Kallisto, since her grave is pointed out by the Arkadians. 
+  After the death of Nyktimos (Nyctimus) [brother of Kallisto], Arkas (Arcas) the son of Kallisto came to the throne [of Arkadia]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 17. 6 :
+     </span>
+     <br/>
+     "Of old Nonakris (Nonacris) was a town of the Arkadians that was named after the wife of Lykaon (Lycaon)." [N.B. As the wife of Lykaon, Nonakris was presumably the mother of Kallisto.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 22. 1 :
+     </span>
+     <br/>
+     "Stymphalos . . . was a grandson of Arkas (Arcas), the son of Kallisto (Callisto)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 35. 8 :
+     </span>
+     <br/>
+     "Descending from Krounoi (Cruni) [in Arkadia] for about thirty stades you come to the grave of Kallisto (Callisto), a high mound of earth, whereon grow many trees, both cultivated and also those that bear no fruit. On the top of the mound is a sanctuary of Artemis, surnamed Kalliste (Calliste). I believe it was because he had learnt it from the Arkadians that Pamphos was 
+  the first in his poems to call Artemis by the name of Kalliste."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 9. 5 - 6 :
+      <br/>
+     </span>
+     "[At the sanctuary of Delphoi :] Are offerings of the Tegeans [Arkadians] from spoils of the Lakedaimonians [Spartans] : an Apollon, a Nike (Victory), the heroes of the country, Kallisto (Callisto), daughter of Lykaon (Lycaon), Arkas (Arcas), who gave Arkadia its name, Elatos, Apheidas, and Azan, the sons of Arkas, and also Triphylos . . . They who made the images are as follows : The Apollon and Kallisto were made by Pausanias of Apollonia; the Victory and the likeness of Arkas by Daidalos of Sikyon; Triphylos and Azan by Samolas the Arkadian; Elatos, Apheidas and Erasos by Antiphanes of Argos. These offerings were sent by the Tegeans to Delphoi after they took prisoners the Lakedaimonians that attacked their city."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 31. 10 :
+     </span>
+     <br/>
+     "[Amongst the shades of heroines depicted in a painting of the underworld by Polygnotos,  C5th B.C., at Delphoi :] igher up than these is Kallisto (Callisto), daughter of Lykaon (Lycaon), Nomia, and Pero, daughter of Neleus . . . Instead of a mattress, Kallisto has a bearskin [i.e. as a symbol of her metamorphosis], and her feet are lying on Nomia's knees. I have already mentioned that the Arkadians say that Nomia is a nymphe native to their country."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement of Alexandria, Recognitions 10. 21 (trans. Smith) (Greek Christian rhetoric C2nd A.D.) :
+     </span>
+     <br/>
+     "I shall now speak of his [Zeus'] adulteries . . . Callisto, the daughter of Lycaon, of whom [was born] Orcas [i.e. Arcas]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement of Alexandria, Recognitions 10. 26  :
+     </span>
+     <br/>
+     "The poets also adorn the falsehoods of error by elegance of words, and by sweetness of speech persuade that mortals have been made immortal; yea more, they say that men are changed into stars, and trees, and animals, and flowers, and birds, and fountains, and rivers. And but that it might seem to be a waste of words, I could even enumerate almost all the stars, and trees, and fountains, and rivers, which they assert to have been made of men; yet, by way of example, I shall mention at least one of each class. They say that . . . Callisto was turned into the constellation which they call Arctos (the Bear) . . . And they assert that almost all the stars, trees, fountains, and rivers, flowers, animals, and birds, were at one time human beings."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 155 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Sons of Jove [Zeus] . . . Arcas by Callisto, daughter of Lycaon."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 176 :
+     </span>
+     <br/>
+     "Jove [Zeus] is aid to have come as guest to Lycaon, son of Pelasgus, and to have seduced his daughter Callisto. From them Arcas was born, who named the land [of Arcadia] from his own name."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 177 :
+     </span>
+     <br/>
+     "Callisto, daughter of Lycaon, is said to have been changed into a bear by the wrath of Juno [Hera], because she had lain with Jove [Zeus]. Afterwards Jove put her among the number of the stars as a constellation called Septentrio [i.e. Ursa Major], which does not move from tis place, nor does it set. For Tethys, wife of Oceanus, and foster mother of Juno [Hera], forbids its setting in the Oceanus. This, then, is the greater Septentrio, about whom it is written in Cretan verses :--‘Thou, too [Arcas], born of the transformed Lycaonian Nymph [Callisto], who, stolen from the chill Arcadian height, was forbidden by Tethys ever to dip herself in the Oceanus because once she dared to be concubine to her foster child.’
+     <br/>
+     This bear, then is called Helice by the Greeks. She has seven rather dim stars on her head, two on either ear, one on her shoulder, a bright one on her breast, one on her forefoot, a bright one at the tip of her tail; at the back on her thigh, two; at the bottom of her foot, two; on her tail, three--twenty in all."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 224 :
+     </span>
+     <br/>
+     "Mortals who were made immortal . . . Arcas, son of Jove [Zeus] and Callisto, placed among the stars . . . Callisto, daughter of Lycaon, put in the constellation Septentrio [i.e. Ursa Major]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 1 :
+     </span>
+     <br/>
+     "[Constellation] Great Bear. Hesiod [poet C8th-7th B.C.] says she is named Callisto, daughter of Lycaon, who ruled in Arcadia, Out of her zeal for hunting she joined Diana [Artemis], and was greatly loved by the goddess because of their similar temperaments. Later, when made pregnant by Jove [Zeus], she feared to tell the truth to Diana [Artemis]. But she couldn't conceal it long, for as her womb grew heavier near the time of her delivery, when she was refreshing her tired body in a stream, Diana realized she had not preserved her virginity. In keeping with her deep distrust, the goddess inflicted no light punishment. Taking away her maiden features, she changed her into the form of a bear, called
+     <em>
+      arktos
+     </em>
+     in Greek. In this form she bore Arcas.
+     <br/>
+     But as Amphis, writer of comedies [Athenian C4th B.C.], says, Jupiter [Zeus], assuming the form of Diana [Artemis], followed the girl as if to aid her in hunting, and embraced her when out of sight of the rest. Questioned by Diana as to the reason for her swollen form, she replied that it was the goddess' fault, and because of this reply, Diana changed her into the shape we mentioned above. When wandering like a wild beast in the forest, she was caught by certain Aetolians and brought into Arcadia to King Lycaon along with her son as a gift, and there, in ignorance of the law, she is said to have rushed into the temple of Jove Lycaeus [Zeus Lykaios]. Her son at once followed her, and the Arcadians in pursuit were trying to kill them [for the sacrilege], when Jupiter [Zeus], mindful of his indiscretion, rescued her and placed her and her son among the constellations. He named her Arctos (Bear), and her son Arctophylas (Bear Watcher). About him we shall speak later.
+     <br/>
+     Some, too, have said that when Callisto was embraced by Jove [Zeus], Juno [Hera] in anger turned her into a bear; then, when she met Diana [Artemis] hunting, she was killed by her, and later, on being recognised, was placed among the stars.
+     <br/>
+     But others say that when Jupiter [Zeus] was pursuing Callisto in the woods, Juno [Hera] suspecting what had happened, hurried there so that she could say she had caught him openly. But Jove [Zeus], the more easily to conceal his fault, left her changed to bear form. Juno, then, finding a bear instead of a girl in that place, pointed her out for Diana [Artemis], who was hunting, to kill. Jove [Zeus] was distressed to see this, and put in the sky the likeness of a bear represented with stars.
+     <br/>
+     The constellation, as many have stated, does not set, and those who desire some reason for this fact say that Tethys, wife of Oceanus, refuses to receive her when the other stars come there to their setting, because Tethys was the nurse of Juno, in whose bed Callisto was a concubine.
+     <br/>
+     Araethus of Tegea, however, writer of histories, says that she wasn't Callisto, but Megisto, and wasn't the daughter of Lycaon, but of Ceteus, and so granddaughter of Lycaon. He says, too, that Ceteus himself was called the [constellation] Kneeler. The other details agree with what has been said above. All this is shown to have taken place on the Arcadian mountain Nonacris."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 2 :
+     </span>
+     <br/>
+     "[Constellation] Bear-Watcher. He is said to be Arcas, the son of Jove [Zeus] and Callisto, whom Lycaon [father of Callisto] served at a banquet, cut up with other meat, when Jupiter [Zeus] came to him as a guest."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 6 :
+     </span>
+     <br/>
+     "[Constellation the Kneeler.] Araethus, as we said before, calls this figure Ceteus, son of Lycaon, and father of Megisto. He seems to be lamenting the change of his daughter to bear form, kneeling on one knee, and holding up outstretched hands to heaven, asking for the gods to restore her to him."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 409 - 531 (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "While [Jupiter-Zeus was] wandering in the world, he stopped amazed, when he beheld the lovely Nonacrina [Callisto of Nonacris] and fires of love were kindled in his breast. Calisto was not clothed in sumptuous robes, nor did she deck her hair in artful coils; but with a buckle she would gird her robe, and bind her long hair with a fillet white. She bore a slender javelin in her hand, or held the curving bow; and thus in arms as chaste Phoebe [Artemis], none of Maenalus was loved by Trivia [Artemis] more than she. But everything must change.
+     <br/>
+     When bright the sun rolled down the sky, beyond his middle course, she pierced a secret thicket, known to her, and having slipped the quiver from her arm, she loosed the bended bow, and softly down upon the velvet turf reclining, pressed her white neck on the quiver while she slept. When Juppiter [Zeus] beheld her, negligent and beautiful, he argued thus, ‘How can my consort, Juno [Hera], learn of this? And yet, if chance should give her knowledge, what care I? Let gain offset the scolding of her tongue!’
+     <br/>
+     This said, the god transformed himself and took Diana's form--assumed Diana's dress and imitating her awoke the maid, and spoke in gentle tones, ‘What mountain slope, O virgin of my train, hath been thy chase?’ Which, having heard, Callisto, rose and said, ‘Hail, goddess! greater than celestial Jove! I would declare it though he heard the words.’ Jove heard and smiled, well pleased to be preferred above himself, and kissed her many times, and strained her in his arms, while she began to tell the varied fortunes of her hunt.--But when his ardent love was known to her, she struggled to escape from his embrace: ah, how could she, a tender maid, resist almighty Jove?--Be sure, Saturnia [Hera] if thou hadst only witnessed her thy heart had shown more pity!--Juppiter on wings, transcendent, sought his glorious heights; but she, in haste departing from that grove, almost forgot her quiver and her bow.
+     <br/>
+     Behold, Dictynna [Artemis], with her virgin train, when hunting on the slopes of Maenalus, amidst the pleasures of exciting sport, espied the Nymph and called her, who, afraid that Jove apparelled in disguise deceived, drew backward for a moment, till appeared to her the lovely Nymphs that followed : thus, assured deceit was none, she ventured near. Alas, how difficult to hide disgrace! She could not raise her vision from the ground, nor as the leader of the hunting Nymphae (Nymphs), as was her wont, walk by the goddess' side. Her silence and her blushes were the signs of injured honour. Ah Diana, thou, if thou wert not a virgin, wouldst perceive and pity her unfortunate distress. The Moon's bent horns were rising from their ninth sojourn, when, fainting from her brother's flames, the goddess of the chase observed a cool umbrageous grove, from which a murmuring stream ran babbling gently over golden sands. When she approved the spot, lightly she struck her foot against the ripples of the stream, and praising it began; ‘Far from the gaze of all the curious we may bathe our limbs, and sport in this clear water.’ Quickly they undid their garments,--but Parrhasis [Callisto of Parrhasia] hid behind the others, till they knew her state.--Cynthia [Artemis] in a rage exclaimed, ‘Away! Thou must not desecrate our sacred springs!’ And she was driven thence.
+     <br/>
+     Ere this transpired, observed Tonantris (the consort of the Thunder-God) [Hera] her altered mien; but she for ripening time withheld severe resentment. Now delay was needless for distracted she [Hera] heard Callisto of the god of Heaven had borne a boy called Arcas. Full of jealous rage, her eyes and thoughts enkindled as she cried; ‘And only this was wanting to complete your wickedness, that you should bear a son and flaunt abroad the infamy of Jove! Unpunished you shall not escape, for I will spoil the beauty that has made you proud and dazzled Jupiter with wanton art.’
+     <br/>
+     So saying, by her forehead's tresses seized the goddess on her rival; and she dragged her roughly to the ground. Pleading she raised her suppliant arms and begged for mercy.--While she pled, black hair spread over her white limbs; her hands were lengthened into feet, and claws long-curving tipped them; snarling jaws deformed the mouth that Jove had kissed. And lest her prayers and piteous words might move some listening god, and give remembrance, speech was so denied, that only from her throat came angry growls, now uttered hoarse and threatening. Still remains her understanding, though her body, thus transformed, makes her appear a savage bear.--her sorrows are expressed in many a groan, repeated as she lifts her hands--if we may call them so--repeated as she lifts them towards the stars and skies, ungrateful Jove regarding; but her voice accuses not. Afraid to rest in unfrequented woods, she wandered in the fields that once were hers, around her well-known dwelling. Over crags, in terror, she was driven by the cries of hounds; and many a time she fled in fear, a huntress from the hunters, or she hid from savage animals; forgetting her transformed condition. Changed into a bear, she fled affrighted from the bears that haunt the rugged mountains; and she feared and fled the wolves,--although her father [Lycaon] was a wolf.
+     <br/>
+     When thrice five birthdays rounded out the youth of Arcas, offspring of Lycaonia (Lycaon's child), he hunted in the forest of his choice; where, hanging with his platted nets the trees of Erymanthian forest, he espied his transformed mother,--but he knew her not; no one had told him of his parentage. Knowing her child, she stood with levelled gaze, amazed and mute as he began approach; but Arcas, frightened at the sight drew back to pierce his mother's breast with wounding spear.--but not permitting it the god of Heaven averted, and removed them from that crime. He, in a mighty wind--through vacant space, upbore them to the dome of starry heaven, and fixed them, Constellations, bright amid the starry host.
+     <br/>
+     Juno [Hera] on high beheld Callisto crowned with glory--great with rage her bosom heaved. She flew across the sea, to hoary Tethys and to old Oceanus, whom all the gods revere, and thus to them in answer to their words she made address; ‘And is it wondered that the Queen of Gods comes hither from ethereal abodes? My rival sits upon the Throne of Heaven : yea, when the wing of Night has darkened let my fair word be deemed of no repute, if you behold not in the height of Heaven those new made stars, now honoured to my shame, conspicuous; fixed in the highest dome of space that circles the utmost axis of the world. Who, then, should hesitate to put affront on Juno? matchless goddess! each offense redounds in benefit! Who dreads her rage? Oh boundless powers! Oh unimagined deeds! My enemy assumes a goddess' form when my decree deprives her human shape;--and thus the guilty rue their chastisement! Now let high Jove to human shape transform this hideous beast, as once before he changed his Phoronis [i.e. Io] from a heifer.--Let him now divorce his Juno and consort with her, and lead Callisto to his couch, and take that wolf, Lycaon, for a father-in-law! Oh, if an injury to me, your child, may move your pity! drive the Seven Stars from waters crystalline and azure-tint, and your domain debar from those that shine in Heaven, rewarded for Jove's wickedness.--bathe not a concubine in waters pure.’--the Gods of Ocean granted her request."
+     <br/>
+     [N.B. I have reinserted the various titles and epithets used by Ovid into the translation from the Latin--e.g. Cynthia, Trivia, Phoebe, etc. for Diana, and Nonacrina, Parrhasis, Lycaonia, etc. for Callisto.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 2. 155 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Callisto once belonged to the sacred circle of Hamdryades and huntress Diana [Artemis]. She touched the goddess' bow : ‘This bow I touch,’ she cried, ‘Be a witness to my virginity.' Cynthia [Artemis] praised her, and said : `Keep the pledge you vowed and you will be my companions' princeps.’
+     <br/>
+     She would have kept the pledge but for her prettiness. She shunned mortals, Jupiter [Zeus] made her sin. Phoebe [Artemis] returned from hunting scores of forest beasts, as the sun occupied or passed midday. When she reached the grove (a dark grove with dense ilex, around a deep fountain of cool water), she said, ‘Let's bathe here in the wood, Tegean virgin;’ the other reddened at virgin's false ring. She had instructed the Nymphae too. The Nymphae undress; Callisto is shamed and suspiciously slow. She stripped off her dress. Her womb's obvious plumping betrays her with incriminating weight. The goddess said to her : ‘perjured Lycaonis, leave this virgin band, do not foul pure water.’
+     <br/>
+     The moon's horns had replenished its circle ten times: the supposed virgin was now a mother. Wounded Juno [Hera] rages, and changes the girl's shape. Why do this? She was Jove's [Zeus'] unwilling victim. When she sees her rival with a beast's hideous face, Juno snarls, ‘Go, sleep with that, Jupiter [Zeus]!’ A shaggy bear loped across the scrubby hillsides, who recently was loved by supreme Jove.
+     <br/>
+     The bastard boy whom she conceived was no fifteen, when the mother and son came face to face. Indeed she halted, as if she knew him, frantic, and growled. The growl was her parental speech. The ignorant lad would have bedded his honed spike in her, but both were whisked to homes above. They glitter as adjacent stars : the one called Arctos (Bear) leads; Arctophylax (Bear Watcher) seems to follow behind. Saturnia [Hera] still fumes and asks white Tethys' waters not to bathe or touch Maenalian Arctos."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 6. 235 ff (trans. Frazer)  :
+     </span>
+     <br/>
+     "On the third morn after the Nones it is said that Phoebe [the moon] chases away Lycaon, and the Bear has none behind her to fear."  [N.B. Here the constellation Arctophylax (the Bear-Watcher) is identified as Lykaon, father of Kallisto the Bear.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 18. 149 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "I guide myself neither by Helice, nor by Arctos [Ursa the Bear], the leading-star of Tyre; my love will none of the stars in common use. Let another fix his eyes on Andromeda and the bright Crown [i.e. of Ariadne], and upon the Parrhasian Bear that gleams in the frozen pole; but for me, I care not for the loves of Perseus, and of Liber [Dionysos] and Jove [Zeus], to point me on my dubious way." [N.B. Ursa was the constellation of Kallisto.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 137 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "The mariner grouped and named the stars, Pleiades and Hyades and Lycaon's daughter [Callisto], the radiant Bear."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 1. 481 (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The watchful Tiphys [navigator of the ship Argo] . . . hung his gaze upon the Arcadian constellation [i.e. Ursa Major, the Bear of Callisto], favoured mortal, that found use for the laggard stars, and giving men power to steer their path across the sea with heaven as their guide." 
+  [N.B. The ancient Greeks navigated by the constellation Ursa Major.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 293 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The Parrhasian . . . and the Nonacrian countryside, wherein the Thunderer quiverclad [i.e. Zeus disguised as Artemis] took delight, and furnished laughter for you, ye Amores (Loves)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 303 ff :
+     </span>
+     <br/>
+     "Another [Arcadian warrior] makes his head terrible with the jaws of a Lycaonian she-bear."
+     <br/>
+     [I.e. The bear Kallisto was the daughter of Lykaon. The poet uses this as a metaphor to describe an ordinary bear.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 8 ff :
+     </span>
+     <br/>
+     "The snowy constellations of the pole, where the Parrhasian [i.e. Ursa Major which is Callisto of Parrhasia,] feeds her Ocean-barred fires on storm-clouds and Heaven's own rain."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 163 ff :
+     </span>
+     <br/>
+     "[On the loves of Zeus :] Not in such mood wouldst thou [Zeus] go to Danaë's city, or the Parrhasian grove [home of Callisto], or Amyclae, Leda's home."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 263 ff :
+     </span>
+     <br/>
+     "[On cross-dressing :] If it becomes Bacchus to trail a gold-embroidered robe behind him, if Jupiter [Zeus] put on a woman's form [i.e. to seduce Callisto]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 1. 167 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The Parrhasian Bear  . . . she rested on heaven's axis." [I.e. the constellation Ursa Major, Kallisto of Parrhasia.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 122 ff :
+     </span>
+     <br/>
+     "Kronion (Cronion) won the bed of Kallisto by taking the form of Artemis!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 73 ff :
+     </span>
+     <br/>
+     "[Hera complains about the adulteries of Zeus :] ‘Goodbye Heaven--where mortals are at home! Shall I climb the pole? But Kallisto (Callisto) circles about Olympos, and there shines the ring named after the highcrested Arkadian Bear [i.e. the constellation Ursa Major].’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 13. 295 ff :
+     </span>
+     <br/>
+     "Arkadia (Arcadia), city of Arkas (Arcas) son of Kallisto (Callisto) and Zeus, whose father fixed him in the starry firmament and called him Boötes Hailbringer."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Astronomy Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Theocritus, Idylls
+      <span class="sources-detail">
+       - Greek Idyllic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClementRecognitions.html">
+       Clement, Recognitions
+      </a>
+      <span class="sources-detail">
+       - Christian Scholar C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Nonnus Dionysiaca 33.289 &amp; 41.287, Propertius 2.28.23, Eratosthenes Catasterismi 1, Libanius, Tzetzes Scholiast on Lycophron 481, Servius on Virgil's Georgics 1.138, Lactantius Placidus on Statius' Thebaid 3.685, Scholia in Caesaris Germanici Aratea 381, First Vatican Mythographer 17, Second Vatican Mythographer 58, Scholiast on Euripides Orestes  1646.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     CALLISTO SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE PRINCESS CALLISTO
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Lycaon and Nonacris
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Loved by
+       </th>
+       <td>
+        Zeus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Nonacris in Arcadia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Constellation
+       </th>
+       <td>
+        Ursa Major
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

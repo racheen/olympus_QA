@@ -1,0 +1,3037 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   CRONUS (Kronos) - Greek Titan God of Time, King of the Titans (Roman Saturn)
+  </title>
+  <meta content="In Greek mythology Cronus was the King of the Titans and the god of time, in particular time when viewed as a destructive, all-devouring force. He ruled the cosmos during the Golden Age after castrating and deposing his father Uranus. In fear of a prophecy that he would in turn be overthrown by his own son, Cronus swallowed each of his children as they were born. His Roman name was Saturn." name="description"/>
+  <meta content="Cronus, Kronos, Titan, Greek mythology, king of the Titans, god of time, Cronus pictures, Saturn" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/titans.html">
+      Titans
+     </a>
+     &gt;&gt;
+     <a href="Titanes.html">
+      Elder Titans
+     </a>
+     &gt;&gt; Cronus (Kronos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     KRONOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Κρονος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration &amp; Latin
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Kronos, Cronus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Saturnus, Saturn
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Time (
+       <em>
+        khronos
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/T6.1.html">
+      <img alt="Cronus and the Omphalos stone | Athenian red-figure pelike C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T6.1BKronos.jpg"/>
+     </a>
+     <figcaption>
+      Cronus and the Omphalos stone, Athenian red-figure pelike C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     KRONOS (Cronus) was the King of the Titanes and the god of time, in particular time when viewed as a destructive, all-devouring force.
+    </p>
+    <p>
+     He ruled the cosmos during the Golden Age after castrating and deposing his father
+     <a href="../Protogenos/Ouranos.html">
+      Ouranos
+     </a>
+     (Uranus, Sky). 
+  In fear of a prophecy that he would in turn be overthrown by his own son, Kronos swallowed each of his children as they were born.
+     <a href="TitanisRhea.html">
+      Rhea
+     </a>
+     managed to save the youngest, Zeus, by hiding him away on the island of Krete (Crete), and fed Kronos a stone wrapped in swaddling clothes. The god grew up, forced Kronos to disgorge his swallowed offspring, and led the Olympians in a ten year war against the Titanes (Titans), driving them in defeat into the pit of Tartaros (Tartarus).
+    </p>
+    <p>
+     Many human generations later, Zeus released Kronos and his brothers from their prison, and made the old Titan king of the Elysian Islands, home of the blessed dead.
+    </p>
+    <p>
+     Kronos was essentially the same as
+     <a href="../Protogenos/Khronos.html">
+      Khronos
+     </a>
+     (Chronos), the primordial  god of time in the
+     <em>
+      Orphic Theogonies
+     </em>
+     .
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF CRONUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 116, Aeschylus Prometheus 200, Simonides Frag 511, Apollodorus 1.1, Diodorus Siculus 5.65.1, Cicero De Natura Deorum 3.17)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Protogenos/Aither.html">
+      AITHER
+     </a>
+     (or
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     ) &amp;
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Hyginus Preface)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Ouranios/Hestia.html">
+      HESTIA
+     </a>
+     ,
+     <a href="../Olympios/Demeter.html">
+      DEMETER
+     </a>
+     ,
+     <a href="../Olympios/Hera.html">
+      HERA
+     </a>
+     ,
+     <a href="../Khthonios/Haides.html">
+      HAIDES
+     </a>
+     ,
+     <a href="../Olympios/Poseidon.html">
+      POSEIDON
+     </a>
+     ,
+     <a href="../Olympios/Zeus.html">
+      ZEUS
+     </a>
+     (by
+     <a href="TitanisRhea.html">
+      Rhea
+     </a>
+     )
+     <span class="family-refs">
+      (Homer Iliad 15.187, Hesiod Theogony 453, Apollodorus 1.4, Diodorus Siculus 5.68.1, et al)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Georgikos/KentaurosKheiron.html">
+      KHEIRON
+     </a>
+     (by
+     <a href="../Nymphe/NymphePhilyre.html">
+      Philyre
+     </a>
+     )
+     <span class="family-refs">
+      (Eumelus Titanomachia Frag 6, Apollodorus 1.8, Apollonius Rhodius 2.1231, Hyginus Fabulae 13, Ovid Metamorphoses 6.126 &amp; 7.352, Virgil Georgics 3.92 &amp; 3.549, Pliny Natural History 7.197)
+     </span>
+     <br/>
+     [2.2]
+     <a href="../Pontios/Ikhthyokentauroi.html">
+      APHROS
+     </a>
+     (by
+     <a href="../Nymphe/NymphePhilyre.html">
+      Philyre
+     </a>
+     )
+     <span class="family-refs">
+      (Suidas s.v. Aphroi)
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Georgikos/Kouretes.html">
+      THE KORYBANTES
+     </a>
+     <span class="family-refs">
+      (Strabo 10.3.19)
+     </span>
+     <br/>
+     [4.1] PICUS
+     <span class="family-refs">
+      (Ovid Metamorphoses 14.320, Virgil Aeneid 7.48)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     CRONUS (Kronos), a son of Uranus and Ge, and the youngest among the Titans. He was married to Rhea, by whom he became the father of Hestia, Demeter, Hera, Hades, Poseidon, and Zeus. Cheiron is also called a son of Cronus. (Hesiod.
+     <em>
+      Theog.
+     </em>
+     137, 452, &amp;c.; Apollod. i. 1. § 3, &amp;c.) At the instigation of his mother, Cronus unmanned his father for having thrown the Cyclopes, who were likewise his children by Ge, into Tartarus. Out of the blood thus shed sprang up the Erinnyes. When the Cyclopes were delivered from Tartarus, the government of the world was taken from Uranus and given to Cronus, who in his turn lost it through Zeus, as was predicted to him by Ge and Uranus. [Zeus.] The Romans identified their Saturnus with the Cronus of the Greeks.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF CRONUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 126 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "She [Gaia, Earth] lay with Ouranos (Uranus, Sky)and bare deep-swirling Okeanos (Oceanus), Koios (Coeus) and Krios (Crius) and Hyperion and Iapetos (Iapetus), Theia and Rheia, Themis and Mnemosyne and gold-crowned Phoibe (Phoebe) and lovely Tethys. After them was born Kronos (Cronus), the wily, youngest and most terrible of her children, and he hated his lusty sire."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Simonides, Fragment 511 (trans. Campbell, Vol. Greek Lyric IV) (C6th to 5th B.C.) :
+     </span>
+     <br/>
+     "Kronos (Cronus, Time) child of Ouranos (Uranus, Sky)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 1 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Ouranos (Uranus), Sky] fathered other sons on Ge (Earth), namely the Titanes (Titans) : Okeanos (Oceanus), Koios (Coeus), Hyperion, Kreios (Crius), Iapetos (Iapetus), and Kronos (Cronus) the youngest; also daughters called Titanides : Tethys, Rhea, Themis, Mnemosyne, Phoibe (Phoebe), Dione, Theia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 65. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "The Titanes (Titans) had their dwelling in the land about Knossos (Cnossus) [in Krete (Crete)], at the place where even to this day men point out foundations of a house of Rhea and a cypress grove which has been consecrated to her from ancient times. The Titanes numbered six men and five women, being born, as certain writers of myths relate, of Ouranos (Uranus, Sky) and Ge (Earth), but according to others, of one of the Kouretes (Curetes) and Titaia, from whom as their mother they derive the name they have. The males were Kronos (Cronus), Hyperion, Koios (Coeus), Iapetos (Iapetus), Krios (Crius) and Okeanos (Oceanus) . . . Each one of them was the discover of things of benefit to mankind, and because of the benefaction they conferred upon all men they were accorded honours and everlasting fame."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Aether and Terra [were born various abstractions] . . .
+     <br/>
+     [From Caelum (Ouranos, Sky) and Terra (Gaia, Earth) were born ?] Oceanus, Themis, Tartarus, Pontus; the Titanes : Briareus, Gyes, Steropes, Atlas, Hyperion, and Polus [Koios (Coeus)], Saturnus [Kronos (Cronus)], Ops [Rhea], Moneta [Mnemosyne], Dione."
+     <br/>
+     [N.B. Hyginus'
+     <em>
+      Preface
+     </em>
+     survives only in summary. The Titanes should be listed as children of Ouranos (Caelum) and Gaia (Terra) not Aither and Gaia, but the notation to this effect seems to have been lost in the transcription.]
+    </p>
+    <hr/>
+    <h3 id="Ouranos">
+     CRONUS &amp; THE CASTRATION OF URANUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 147 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "She [Gaia (Gaea), Earth] lay with Ouranos (Uranus, Sky) and bare deep-swirling Okeanos (Oceanus), Koios (Coeus) and Krios (Crius) and Hyperion and Iapetos, Theia and Rheia, Themis and Mnemosyne and gold-crowned Phoibe (Phoebe) and lovely Tethys. After them was born Kronos (Cronus) the wily, youngest and most terrible of her children, and he hated his lusty sire. And again, she bare the Kyklopes (Cyclopes), overbearing in spirit, Brontes, and Steropes and stubborn-hearted Arges.
+     <br/>
+     And again, three other sons [the Hekatonkheires (Hecatoncheires)] were born of Gaia and Ouranos, great and doughty beyond telling, Kottos (Cottus) and Briareos (Briareus) and Gyes. From their shoulders sprang a hundred arms, not to be approached, and each had fifty heads upon his shoulders on their strong limbs, and irresistible was the stubborn strength that was in their great forms. For of all the children that were born of Gaia and Ouranos, these were the most terrible, and they were hated by their own father from the first. And he used to hide them all away in a secret place of Gaia so soon as each was born, and would not suffer them to come up into the light: and Ouranos rejoiced in his evil doing.And he [Ouranos] used to hide them all [the Hekatonkheires] away in a secret place of Gaia (Earth) so soon as each was born, and would not suffer them to come up into the light : and Ouranos (Sky) rejoiced in his evil doing. 
+  But vast Gaia (Earth) groaned within, being straitened, and she made the element of grey flint and shaped a great sickle, and told her plan to her dear sons. And she spoke, cheering them, while she was vexed in her dear heart : ‘My children, gotten of a sinful father, if you will obey me, we should punish the vile outrage of your father; for he first thought of doing shameful things.’
+     <br/>
+     So she said; but fear seized them all, and none of them uttered a word. But great Kronos (Cronus) the wily took courage and answered his dear mother : ‘Mother, I will undertake to do this deed, for I reverence not our father of evil name, for he first thought of doing shameful things.’
+     <br/>
+     So he said : and vast Gaia (Earth) rejoiced greatly in spirit, and set and hid him in an ambush, and put in his hands a jagged sickle, and revealed to him the whole plot.
+     <br/>
+     And Ouranos (Sky) came, bringing on night and longing for love, and he lay about Gaia (Earth) spreading himself full upon her. Then the son from his ambush stretched forth his left hand and in his right took the great long sickle with jagged teeth, and swiftly lopped off his own father's members and cast them away to fall behind him. And not vainly did they fall from his hand; for all the bloody drops that gushed forth Gaia (Earth) received, and as the seasons moved round she bare the strong Erinyes and the great Gigantes (Giants) [perhaps the Kouretes (Curetes)] with gleaming armour, holding long spears in their hands and the Nymphai (Nymphs) whom they call Meliai (Meliae) all over the boundless earth. And so soon as he had cut off the members with flint and cast them from the land into the surging sea, they were swept away over the main a long time: and a white foam spread around them from the immortal flesh, and in it there grew a maiden [Aphrodite] . . .
+     <br/>
+     But these sons whom be begot himself great Ouranos (Sky) used to call Titanes (Titans, Strainers) in reproach, for he said that they strained and did presumptuously a fearful deed, and that vengeance for it would come afterwards."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 20 ff :
+     </span>
+     <br/>
+     "Kronos (Cronus) the crafty counsellor."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Euthyphro 5e (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Men believe that Zeus . . . put his father [Kronos (Cronus)] in bonds because he wickedly devoured his children, and he in turn had mutilated his father [Ouranos (Uranus)] for similar reasons."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 377e (trans. Shorey)  :
+     </span>
+     <br/>
+     "‘There is, first of all,’ I said, ‘the greatest lie about the things of greatest concernment, which was no pretty invention of him [Hesiod] who told how Ouranos (Uranus) did what Hesiod says he did to Kronos (Cronus), and how Kronos in turn took his revenge; and then there are the doings and sufferings of Kronos at the hands of his son [Zeus]. Even if they were true I should not think that they ought to be thus lightly told to thoughtless young persons.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 3 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Ouranos (Uranus, Sky) was the first to rule over the entire world. He married Ge (Earth) and sired first the Hekatonkheires (Hecatoncheires), who were names Briareos (Briareus), Gyes and Kottos (Cottus). They were unsurpassed in both size and power, and each had a hundred hands and fifty heads. After these he sired the Kyklopes (Cyclopes), by name Arges, Steropes, and Brontes, each of whom had one eye in his forehead. But Ouranos (Sky) bound these and threw them into Tartaros (Tartarus) (a place in Haides' realm as dark as Erebos (Erebus), and as far away from the earth as the earth is from the sky), and fathered other sons on Ge, namely the Titanes (Titans) : Okeanos (Oceanus), Koios (Coeus), Hyperion, Kreios (Crius), Iapetos (Iapetus), and Kronos (Cronus) the youngest; also daughters called Titanides : Tethys, Rhea, Themis, Mnemosyne, Phoibe (Phoebe), Dione, Theia.
+     <br/>
+     Now Ge (Earth), distressed by the loss of her children into Tartaros, persuaded the Titanes to attack their father, and she gave Kronos a sickle made of adamant. So all of them except Okeanos set upon Ouranos (Sky), and Kronos cut off his genitals, tossing them into the sea. (From the drops of the flowing blood Erinyes were born, named Alekto (Alecto), Tisiphone, Megaira (Megaera).) Thus having overthrown Ouranos' (Sky's) rule the Titanes retrieved their brothers from Tartaros and gave the power to Kronos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 982 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "In the Keraunian (Ceraunian) Sea, fronting the Ionian Straits, there is a rich and spacious island, under the soil of which is said to lie (bear with me, Mousai (Muses); it gives me little pleasure to recall the old tale) the sickle used by Kronos (Cronus) to castrate his father Ouranos (Uranus, Sky) . . . From this reaping-hook the island takes its name of Drepane, the sacred Nurse of the Phaiakians (Phaeacians), who by the same token trace their ancestry to Ouranos (Sky)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 498 ff :
+     </span>
+     <br/>
+     "He [the poet Orpheus] sang of . . . How, in the beginning, Ophion and Eurynome, daughter of Okeanos (Oceanus), governed the world from snow-clad Olympos; how they were forcibly supplanted, Ophion by Kronos (Cronus), Eurynome by Rhea; of their fall into the waters of Okeanos." [N.B. Ophion and Eurynome might be Ouranos and Gaia or Okeanos and Tethys.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Aetia Fragment 43 (trans. Trypanis) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The builders made strong wooden towers with battlements [building the city of Zankle in Sicily], and placed them around the sickle of Kronos (Cronus)--for there in a cave is hidden under the earth the sickle with which he cut off his father's genitals [the sickle was reputedly buried near where the city of Zankle (the Sickle) was founded]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 760 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The island [Drepane island of the Phaiakians (Phaeacians)] abhorred by Kronos (Cronus)--the isle of the Sickle that severed his [Ouranos' (Uranus')] privy parts."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 2. 7 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Since they [the Telkhines (Telchines)] excelled in workmanship . . . they first came from Krete (Crete) to Kypros (Cyprus), and then to Rhodes; and that they were the first to work iron and brass, and in fact fabricated the scythe for Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 7. 23. 4 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Near Bolina in Akhaia (Achaea)] a cape juts out into the sea, and of it is told a story how Kronos (Cronus) threw into the sea here the sickle with which he mutilated his father Ouranos (Uranus, Sky). For this reason they call the cape Drepanon. [N.B.
+     <em>
+      drepanon
+     </em>
+     is the Greek word for ‘sickle’.]"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 2. 406 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Lopping it [the vine] with Saturnus' [Kronos' (Cronus')] crooked knife and pruning it into shape."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 2. 24 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Another theory also, and that a scientific one, has been the source of a number of deities, who clad in human form have furnished the poets with legends and have filled man's life with superstitions of all sorts. This subject was handled by Zeno and was later explained more fully by Cleanthes and Chrysippus. For example, an ancient belief prevailed throughout Greece that Caelus [Ouranos (Uranus), Sky] was mutilated by his son Saturnus [Kronos (Cronus)] . . . Their meaning was that the highest element of celestial ether or fire [Ouranos], which by itself generates all things, is devoid of that bodily part which required union with another for the work of procreation."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 222 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[A complliment givent to a beautiful woman :] ‘Can it be that Kronos (Cronus) , after the first Kypris (Cypris) [Aphrodite born from Ouranos' castrated genitals], again cut his father's loins with unmanning sickle until the foam got a mind and made the water shape itself into a selfperfected birth, delivered of a younger Aphrodite from the sea?’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 43 ff :
+     </span>
+     <br/>
+     "[The history of the world inscribed on tablets by the primordial god Phanes :] The first tablet, old as the infinite past, containing all things in one: upon it was all that Ophion lord paramount had done, all that ancient Kronos (Cronus) accomplished: when he cut off his father's [Ouranos' (Uranus')] male plowshare, and sowed the teeming deep with seed on the unsown back of the daughterbegetting sea (Thalassa)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionsyiaca 18. 223 ff :
+     </span>
+     <br/>
+     "Kronos (Cronus) still dripping held the emasculating sickleblade, after he had cut off the manly crop of his father's [Ouranos' (Uranus')] plow and robbed him of the Mother's [Gaia's] bed to which he was hastening."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 21. 252 ff :
+     </span>
+     <br/>
+     "[The  Indian King Deriades speaks :] ‘I know nothing of Kronos (Cronus), or of Kronides (Cronides) [Zeus] who destroyed his father, nor Kronos the master-deceiver, who swallowed his own children, and shore away from Aither [Ouranos (Uranus)] the hive of begetting love.’"
+    </p>
+    <hr/>
+    <h3 id="Cannibal">
+     <a>
+     </a>
+     CRONUS &amp; THE CANNIBALISATION OF HIS CHILDREN
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/R16.1.html">
+      <img alt="Rhea, Cronus and the Omphalos stone | Greco-Roman marble bas-relief | Capitoline Museums, Rome" class="img-responsive center-block" src="../image/R16.1Kronos.jpg"/>
+     </a>
+     <figcaption>
+      Rhea, Cronus and the Omphalos stone, Greco-Roman marble bas-relief,
+      <a href="http://www.museicapitolini.org/" target="_blank">
+       Capitoline Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 15. 187 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Poseidon addresses Iris :] We are three brothers born by Rheia to Kronos (Cronus), Zeus, and I, and the third is Haides, lord of the dead men."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 453 (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "But Rhea was subject in love to Kronos (Cronus) and bare splendid children, Hestia, Demeter, and gold-shod Hera and strong Haides . . . and the loud-crashing Earth-Shaker [Poseidon], and wise Zeus . . . These great Kronos swallowed as each came forth from the womb to his mother's knees with this intent, that no other of the proud sons of Ouranos (Uranus, Heaven) should hold the kingly office amongst the deathless gods. For he learned from Gaia (Gaea, Earth) and starry Ouranos (Sky) that he was destined to be overcome by his own son, strong though he was, through the contriving of great Zeus.Therefore he kept no blind outlook, but watched and swallowed down his children : and unceasing grief seized Rhea. But when she was about to bear Zeus, the father of gods and men, then she besought her own dear parents, Gaia (Earth) and starry Ouranos (Sky), to devise some plan with her that the birth of her dear child might be concealed, and that retribution might overtake great, crafty Kronos for his own father and also for the children whom he had swallowed down. And they readily heard and obeyed their dear daughter, and told her all that was destined to happen touching Kronos the king and his stout-hearted son. So they sent her to Lyetos (Lyetus), to the rich land of Krete (Crete), when she was ready to bear great Zeus, the youngest of her children. Him did vast Gaia (Earth) receive from Rhea in wide Krete to nourish and to bring up. Thither came Gaia carrying him swiftly through the black night to Lyktos (Lyctus) first, and took him in her arms and hid him in a remote cave beneath the secret places of the holy earth on thick-wooded Mount Aigeion (Aegeion); but to [Kronos] the mightily ruling son of Ouranos (Sky), the earlier king of the gods, she gave a great stone wrapped in swaddling clothes. Then he took it in his hands and thrust it down into his belly: wretch! he knew not in his heart that in place of the stone his son was left behind, unconquered and untroubled, and that he was soon to overcome him by force and might and drive him from his honours, himself to reign over the deathless gods.
+     <br/>
+     After that, the strength and glorious limbs of the prince increased quickly, and as the years rolled on, great Kronos the wily was beguiled by the deep suggestions of Gaia (Earth), and brought up again his offspring, vanquished by the arts and might of his own son, and he vomited up first the stone which he had swallowed last. And Zeus set it fast in the wide-pathed earth at goodly Pytho under the glens of Parnassos, to be a sign thenceforth and a marvel to mortal men. And he set free from their deadly bonds the brothers of his father, sons of Ouranos [the Hekatonkheires (Hecatoncheires) and Kyklopes (Cyclopes)] whom his father in his foolishness had bound. And they remembered to be grateful to him for his kindness, and gave him thunder and the glowing thunderbolt and lightening: for before that, huge Gaia (Earth) had hidden these. In them he trusts and rules over mortals and immortals."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 617 ff :
+     </span>
+     <br/>
+     "The son of Kronos (Cronus) [Zeus] and the other deathless gods whom rich-haired Rhea bare from union with Kronos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 5 to Aphrodite 20 ff (trans. Evelyn-White) (Greek epic C7th - 4th B.C.) :
+     </span>
+     <br/>
+     "She [Hestia] was the first-born child of wily Kronos and youngest too."
+     <br/>
+     [N.B. Hestia was the first-born child of Kronos (Cronus) and so the first to be devoured and last disgorged (i.e. her rebirth). Hence the poet describes her as both the oldest and youngest child.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 5 to Aphrodite 42 ff  :
+     </span>
+     <br/>
+     "[Hera] whom wily (
+     <em>
+      agkylometes
+     </em>
+     ) Kronos (Cronus) with her mother Rheia did beget."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Corinna, Fragment 654 (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "The Koureites (Curetes) hid the holy babe of the goddess [Rhea] in a cave without the knowledge of crooked-witted (
+     <em>
+      koulomeitas
+     </em>
+     ) Kronos (Cronus), when blessed (
+     <em>
+      makera
+     </em>
+     ) Rhea stole him and won great honour from the immortals."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Euthyphro 5e (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Men believe that Zeus . . . put his father [Kronos (Cronus)] in bonds because he wickedly devoured his children."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 4 - 5 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "But Kronos (Cronus) once again [after deposing Ouranos (Uranus)] bound the Kyklopes (Cyclopes) and confined them in Tartaros (Tartarus). He then married his sister Rhea. Because both Ge (Earth) and Ouranos (Heaven) had given him prophetic warning that his rule would be overthrown by a son of his own, he took to swallowing his children at birth. He swallowed his first-born daughter Hestia, then Demeter and Hera, and after them Plouton (Pluton) [Haides] and Poseidon. Angered by this, Rhea, when she was heavy with Zeus, went off to Krete (Crete) and gave birth to him there in a cave on Mount Dikte (Dicte) . . . the armed Kouretes (Curetes) stood guard over him in the cave, banging their spears against their shields to prevent Kronos from hearing the infant's voice. Rhea meanwhile gave Kronos a stone wrapped in the swaddling-cloths to swallow in place of his newborn son. When Zeus was grown, he engaged Okeanos' (Oceanus') daughter Metis (Counsel) as a colleague. She gave Kronos a drug, by which he was forced to vomit forth first the stone and then the children he had swallowed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 498 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "He [Orpheus] sang of . . . How, in the beginning, Ophion and Eurynome, daughter of Okeanos (Oceanus), governed the world from snow-clad Olympos; how they were forcibly supplanted, Ophion by Kronos (Cronus), Eurynome by Rhea; of their fall into the waters of Okeanos; and how their successors ruled the happy Titan gods when Zeus in his Diktaian cave was still a child, with childish thoughts, before the earthborn Kyklopes had given him the bolt, the thunder and lightning that form his glorious armament today."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 1 to Zeus 50 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "And lustily round thee [the baby Zeus] danced the Kouretes (Curetes) a war-dance, beating their armour, that Kronos (Cronus) might hear with his ears the din of the shield, but not thine infant noise."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1191 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Him [Zeus] who is lord of Ophion's throne. But he [Zeus] shall bring thee to the plain of his nativity [Thebes], that land celebrated above others by the Greeks, where his mother [Rhea], skilled in wrestling, having cast into Tartaros the former queen [Eurynome, wife of Ophion], delivered her of him [Zeus] in travail of secret birth, escaping the child-devouring unholy feast of her spouse [Kronos (Cronus)]; and he fattened not his belly with food, but swallowed instead the stone, wrapped in limb-fitting swaddling clothes: savage Kentauros (Centaur) [Kronos as father of the kentauros Kheiron (Chiron)], tomb of his own offspring."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 27 ff (trans. Mair) (Greek astronomical poem C3rd B.C.) :
+     </span>
+     <br/>
+     "When in olden days he [Zeus] played as a child in fragrant Dikton (Dicte), near the hill of Ida, they [the nymphai (nymphs) Helike (Helice) and Kynosoura (Cynosura)] set him in a cave and nurtured him for the space of a year, what time the Kouretes Diktaioi (Dictaean Curetes) were deceiving Kronos (Cronus). Now the one men call by name Kynosoura and the other Helike."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 70. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Regarding the birth of Zeus and the manner in which he came to be king, there is no agreement. Some say that he succeeded to the kingship after Kronos (Cronus) passed from among men into the company of the gods, not by overcoming his father with violence, but in the manner prescribed by custom and justly, having been judged worthy of that honour. But others recount a myth, which runs as follows: There was delivered to Kronos an oracle regarding the birth of Zeus which stated that the son who would be born to him would wrest the kingship from him by force. Consequently Kronos time and again did away with the children whom he begot; but Rhea, grieved as she was, and yet lacking the power to change her husband's purpose, when she had given birth to Zeus, concealed him in Ide, as it is called, and, without the knowledge of Kronos, entrusted the rearing of him to the Kouretes (Curetes) of Mt Ide (Ida)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 68. 1 :
+     </span>
+     <br/>
+     "To Kronos (Cronus) and Rhea, we are told, were born Hestia, Demeter, and Hera, and Zeus, Poseidon, and Haides."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 79. 7 :
+     </span>
+     <br/>
+     "They [the nymphai (nymphs) Ida and Adrasteia] nurtured Zeus of old without the knowledge of his father Kronos (Cronus) . . . And Aratos (Aratus) [poet C3rd B.C.] agrees with this account when he states in his poem on the stars : ‘. . . When he [Zeus] was babe in fragrant Dikton (Dicte) near thee Idaian (Idaean) Mount, they set him in a cave and nurtured him a year, the while Kouretes Diktaioi (Dictaean Curetes) practised deceit on Kronos (Cronus).'"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 65. 1 :
+     </span>
+     <br/>
+     "The Kouretes (Curetes) also invented swords and helmets and the war-dance, by means of which they raised a great alarum and deceived Kronos (Cronus). And we are told that, when Rhea, the mother of Zeus, entrusted him to them unbeknown to Kronos his father, they took him under their care and saw to his nurture."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 11 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The mythical story of the birth of Zeus; in this they introduced Kronos (Cronus) as accustomed to swallow his children immediately after their birth, and Rhea as trying to keep her travail secret and, when the child was born, to get it out of the way and save its life by every means in her power; and to accomplish this it is said that she took as helpers the Kouretes (Curetes), who, by surrounding the goddess with tambourines and similar noisy instruments and with war-dance and uproar, were supposed to strike terror into Kronos and without his knowledge to steal his child away."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 19 :
+     </span>
+     <br/>
+     "Some call the Korybantes (Corybantes) sons of Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 4. 33. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "It is a hopeless task to enumerate all the peoples who claim that Zeus was born and brought up among them. The Messenians have their share in the story : for they too say that the god was brought up among them and that his nurses were Ithome and Neda, the river having received its name from the latter, while the former, Ithome, gave her name to the mountain. These Nymphai (Nymphs) are said to have bathed Zeus here, after he was stolen by the Kouretes (Curetes) owing to the danger that threatened from his father [Kronos (Cronus)], and it is said that it [the fountain Klepsydra (Clepsydra) on Mt Ithome in Messenia] has its name from the Kouretes' theft."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 7. 6 :
+     </span>
+     <br/>
+     "As for the Olympiakos (Olympian) Games, the most learned antiquarians of Elis say that Kronos (Cronus) was the first king of heaven, and that in his honour a temple was built in Olympia by the men of that age, who were named the Golden Race. When Zeus was born, Rhea entrusted the guardianship of her son to the Daktyloi (Dactyls) of Ida, who are the same as those called Kouretes (Curetes)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 8. 2 :
+     </span>
+     <br/>
+     "[Near the town of Nestane in Arkadia (Arcadia) there is] a well called Aren (Lamb). The following story is told by the Arkadians. When Rhea had given birth to Poseidon, she laid him in a flock for him to live there with the lambs, and the spring too received its name just because the lambs pastured around it. Rhea, it is said, declared to Kronos (Cronus) that she had given birth to a horse, and gave him a foal to swallow instead of the child, just as later she gave him in place of Zeus a stone wrapped in swaddling clothes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 36. 2 :
+     </span>
+     <br/>
+     "Mount Thamasios (Thaumasius, Wonderful) lies beyond the river Maloitas (Maeoitas) [in Arkadia (Arcadia)], and the Methydrians hold that when Rhea was pregnant with Zeus, she came to this mountain and enlisted as her allies, in case Kronos (Cronus) should attack her, Hopladamos and his few Gigantes [the Kouretes (Curetes)]. They allow that she gave birth to her son on some part of Mount Lykaios (Lycaeus), but they claim that here Kronos was deceived, and here took place the substitution of a stone for the child that is spoken of in the Greek legend. On the summit of the mountain is Rhea's Cave, into which no human beings may enter save only the women who are sacred to the goddess."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 2. 7 :
+     </span>
+     <br/>
+     "On entering [the temple of Hera at Plataia (Plataea), Boiotia (Boeotia)] you see Rhea carrying to Kronos (Cronus)the stone wrapped in swaddling clothes, as though it were the babe to which she had given birth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 41. 6 :
+     </span>
+     <br/>
+     "There is beyond the city [of Khaironeia (Chaironeia), Boiotia] a crag called Petrakhos (Petrachus). Here they hold that Kronos (Cronus) was deceived, and received from Rhea a stone instead of Zeus, and there is a small image of Zeus on the summit of the mountain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 24. 6 :
+     </span>
+     <br/>
+     "Ascending [through the oracular shrine of Delphoi (Delphi), Phokis] you come to a stone of no large size [the omphalos]. Over it every day they pour olive oil, and at each feast they place on it unworked wool. There is also an opinion about this stone, that it was given to Kronos (Cronus) instead of his child, and that Kronos vomited it up again."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 36 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Rhea, fearing Kronos (Cronus), hid Zeus in the Kretan (Cretan) cavern, a goat [Amaltheia] offered her udder and gave him nourishment. By the will of Rhea a Golden Dog  guarded the goat. 
+  After Zeus drove out the Titanes (Titans) and deprived Kronos (Cronus) of power, he changed the goat into an immortal, there is a representation of her among the stars to this day."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Oppian, Cynegetica 3. 7 ff (trans. Mair) (Greek poet C3rd A.D.) :
+     </span>
+     <br/>
+     "The Kouretes (Curetes) were the nurses of the infant Zeus, the mighty son of Kronos (Cronus), what time Rhea concealed his birth and carried away the newly-born child from Kronos, his sire implacable, and placed him in the vales of Krete. And when [Kronos] the son of Ouranos (Uranus, Sky) beheld the lusty young child he transformed the first glorious guardians of Zeus and in vengeance made the Kouretes wild beasts. And since by the devising of the god Kronos exchanged their human shape and put upon them the form of Lions, thenceforth by the boon of Zeus they greatly lord it over the wild beasts which dwell upon the hills, and under the yoke they draw the terrible swift car of Rhea who lightens the pangs of birth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Saturnus [Kronos (Cronus)] and Ops [Rhea] [were born] : Vesta [Hestia], Ceres [Demeter], Iuno [Hera], Iuppiter [Zeus], Pluto [Haides], Neptunus [Poseidon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 139 :
+     </span>
+     <br/>
+     "After Opis [Rhea] had borne Jove [Zeus] by Saturnus [Kronos (Cronus)], Juno [Hera] asked her to give him to her, since Saturnus and cast Orcus [Haides] under Tartarus, and Neptunus [Poseidon] under the sea, because he knew that his son would rob him of the kingdom. When he had asked Opis for what she had borne, in order to devour it, Opis showed him a stone wrapped up like a baby; Saturnus devoured it. When he realized what he had done, he started to hunt for Jove throughout the earth. Juno, however, took Jove to the island of Crete, and Amalthea, the child's nurse, hung him in a cradle from a tree, so that he could be found neither in heaven nor on earth nor in the sea. And lest the cries of the baby be heard, she summoned youths and gave them small brazen shields and spears, and bade them go around the tree making a noise. In Greek they are called Curetes; others call them Corybantes; these in Italy, however are called Lares."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 43 :
+     </span>
+     <br/>
+     "Milky Way . . . Others say that at the time Ops [Rhea] brought to Saturnus [Kronos (Cronus)] the stone, pretending it was a child, he bade her offer milk to it; when she pressed her breast, the milk that was caused to flow formed the circle which we mentioned above."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 9. 497 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Gods have loved their sisters; yes, indeed! Why Saturnus [Kronos (Cronus)] married Ops [Rhea], his kin by blood . . . But the gods above are laws unto themselves."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 4. 197 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Saturnus [Kronos (Cronus)] received this oracle : ‘Best of kings, you shall be knocked from power by a son.’ Jabbed by fear, he devours his offspring as each was born, and entombs them in his bowels. Rhea often complained of much pregnancy and no motherhood, and mourned her fertility. Jove [Zeus] was born (trust antiquity's testimony, do not disturb inherited belief) : a stone, concealed in cloth, settled in the god's gullet; so the father was fated to be tricked. For a long time steep Ida booms its clanging noise so the wordless infant may wail safely. Shields or empty helmets are pounded with sticks, the Curetes' or Corybantes' task. The truth hid."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 6. 285 ff :
+     </span>
+     <br/>
+     "Juno [Hera] and Ceres [Demeter], they recount, were born from Ops [Rhea] by Saturnus' [Kronos' (Cronus')] seed. Vesta [Hestia] was the third."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 110 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Hera addresses Apate, the spirit of deceit :] ‘Lend me also that girdle or many colours, which Rheia once bound about her flanks when she deceived her husband! I bring no pretrified shape for my Kronion (Cronion) [Zeus], I do not trick my husband with a wily stone.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 43 ff :
+     </span>
+     <br/>
+     "[The history of the world inscribed on tablets by the primordial god Phanes :] The first tablet, old as the infinite past, containing all things in one: upon it was all that Ophion lord paramount had done, all that ancient Kronos (Cronus) accomplished: when he cut off his father's [Ouranos' (Uranus')] male plowshare, and sowed the teeming deep with seed on the unsown back of the daughterbegetting sea (Thalassa); how he opened a gaping throat to receive a stony son, when he made a meal of the counterfeit body of a pretended Zeus; how the stone played midwife to the brood of imprisoned children, and shot out the burden of the parturient gullet [the stone was last swallowed and the first disgorged by Kronos]. But when the stormfoot Hora (Season), Phaethon's [Helios'] handmaid, had seen the fiery shining victory of Zeus at war and the hailstorm snowstorm conflict of Kronos, she looked at the next tablet in its turn."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 14. 30 ff :
+     </span>
+     <br/>
+     "[The Kouretes (Curetes)] had surrounded Zeus a newborn babe in the cavern which fostered his breeding, and danced about him shield in hand, the deceivers, raising wild songs which echoed among the rocks and maddened the air - the noise of the clanging brass resounded in the ears of Kronos (Cronus) high among the clouds, and concealed the infancy of Kronion (Cronion) with drummings."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 25. 553 ff :
+     </span>
+     <br/>
+     "Kybele (Cybele) [Rhea] also was depicted [on the shield of Dionysos], newly delivered; she seemed to hold in her arms pressed to her bosom a mock-child she had not borne, all worked by the artist's hands; aye, cunning Rheia offered to her callous consort [Kronos (Cronus)] a babe of stone, a spiky heavy dinner. There was the father swallowing the stony son, the thing shaped like humanity, in his voracious maw, and making his meal of another pretended Zeus. There he was again in heavy labour, with the stone inside him, bringing up all those children squeezed together and disgorging the burden from his pregnant throat."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 50 ff :
+     </span>
+     <br/>
+     "Kronos (Cronus) who banqueted on his own young children in cannibal wise."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 28. 252 ff :
+     </span>
+     <br/>
+     "The pyrrhic dance [of the Kouretes (Curetes)] raised a noise in the ears of Kronos (Cronus), and clanged sword on shield on Mount Ida, and rang out a valiant din to deceive the enemy, as he screened the stealthy nurture of growing Zeus . . . [The Kourete Akmon (Acmon)] holding Korybantic (Corybantic) shield, which had often held in its hollow baby Zeus asleep among the mountains: yes, a little cave once was the home of Zeus, where the sacred goat [Amaltheia] played the nurse to him with her milky udder for a makeshift, and cleverly let him suck the strange milk, when the noise of shaken shields resounded beaten on the back with tumbling steel to hide the little child with their clanging. Their help allowed Rheia to wrap up that stone of deceit, and gave it to Kronos for a meal in place of Kronides (Cronides) [Zeus]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 65 ff :
+     </span>
+     <br/>
+     "Now first appeared the golden crop of men [the Golden Race of Man] brought forth in the image of the gods, with the roots of their stock in the earth. And these dwelt in the city of Beroe, that primordial seat which Kronos (Cronus) himself builded, at the time when invited by clever Rheia he set that jagged supper before his voracious throat, and having the heavy weight of that stone within him to play the deliverer's part, he shot out the whole generation of his tormented children. Gaping wide, he sucked up the storming flood of a whole river, and swallowed it in his bubbling chest to ease his pangs, then threw of the burden of his belly; so one after another his pregnant throat pushed up and disgorged his twiceborn sons through the delivering channel of his gullet.  Zeus was then a child, still a baby methinks; not yet the lightning flashed and cleft the hot clouds with many a dancing leap, not yet bolts of Zeus were shot to help in the Titanes' war, not yet the rainy sound of thunderclaps roared heavily with bang and boom through colliding clouds."
+    </p>
+    <hr/>
+    <h3 id="Kheiron">
+     CRONUS, PHILYRA &amp; THE BIRTH OF CHIRON
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T6.1.html">
+      <img alt="Cronus, Rhea and the Omphalos stone | Athenian red-figure pelike C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T6.1Kronos_sm.jpg"/>
+     </a>
+     <figcaption>
+      Cronus, Rhea and the Omphalos stone, Athenian red-figure pelike C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Eumelus or Arctinus, Titanomachia Fragment 6 (from Scholiast on Apollonius Rhodius 1. 554) (trans. Evelyn-White) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The author of the
+     <em>
+      War of the Giants
+     </em>
+     says that Kronos (Cronus) took the shape of a horse and lay with Philyra, the daughter of Okeanos (Oceanus). Through this cause Kheiron (Chiron) was born a kentauros (centaur) : his wife was Khariklo (Chariclo)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 3. 1 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Khiron (Chiron) the son of Philyra . . . would that he might regain the life he left long since, that man of widespread power, the son of Kronos (Cronus) son of Ouranos (Uranus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 9 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Titanes (Titans) had children . . . Kheiron (Chiron), a double-formed kentauros (centaur), was born to Kronos (Cronus) and Philyra."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 1231 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "By nightfall they [the Argonauts] were passing the Isle of Philyra. This was where Kronos (Cronus) son of Ouranos (Uranus), deceiving his consort Rhea, lay with Philyra daughter of Okeanos (Oceanus) in the days when he ruled the Titanes (Titans) in Olympos and Zeus was still a child, tended in the Kretan (Cretan) cave by the Kouretes (Curetes) of Ida. But Kronos and Philyra were surprised in the very act by the goddess Rhea. Whereupon Kronos leapt out of bed and galloped off in the form of a long-maned stallion, while Philyra in her shame left the place, deserting her old haunts, and came to the long Pelasgian ridges. There she gave birth to the monstrous Kheiron (Chiron), half horse and half divine, the offspring of a lover in questionable shape."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Saturnus [Kronos (Cronus)] and Philyra [were born] : Chiron, Dolops."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 13 :
+     </span>
+     <br/>
+     "When Saturnus [Kronos (Cronus)] was hunting Jove [Zeus] throughout the earth, assuming the form of a steed he lay with Philyra, daughter of Oceanus. By him she bore Chiron the Centaur, who is said to have been the first to invent the art of healing. After Philyra saw that she had borne a strange species, she asked Jove to change her into another form, and she was transformed into the tree which is called the linden."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 126 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Saturnus [Kronos (Cronus)], as a horse begot the centaur Chiron."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 92 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Such, too [i.e. a fine stallion], was Saturnus [Kronos (Cronus)] himself, when at his wife's [Rheia's] coming he fled swiftly, flinging his horse's mane over his shoulders, and with shrill neigh filled the heights of Pelion."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 7. 197 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "Chiron the son of Saturnus [Kronos (Cronus)] and Philyra."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 336 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[The monster Typhoeus boasts to Zeus of his intentions should he conquer heaven :] And cannibal Kronos (Cronus) I will drag up once more to the light, another brother, to help me in my task, out of the underground abyss; I will break those constraining chains, and bring back the Titanes (Titans) to heaven, and settle under the same roof in the sky the Kyklopes (Cyclopes), sons of Gaia (Gaea)."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Aphroi (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Aphroi (Africans) : Name of a people; the Karthaginians (Carthaginians). [They are descended] from Aphros who was king of Libye, the son of Kronos (Cronus) out of Philyra."
+     <br/>
+     [N.B. In Greco-Roman mosaic Aphros is one of two marine centaurs who carry Aphrodite ashore following her birth.]
+    </p>
+    <hr/>
+    <h3 id="Golden">
+     CRONUS  KING OF THE GOLDEN AGE
+    </h3>
+    <p>
+     Kronos (Cronus) ruled over the first generation of mankind during the so-called Golden Age of Man, a time of prosperity, peace and general ease. When Zeus  came to power these had been replaced by the Silver, who in turn were succeeded by the Bronze, the Hero, and the Iron races. In the time of Kronos it was said  the animals spoke with a human voice.
+     <br/>
+     See also "Cronus King of Elysium" (section below).
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Works and Days 109 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "First of all the deathless gods who dwell on Olympos (Olympus) made a Golden Race of mortal men who lived in the time of Kronos (Cronus) when he was reigning in heaven. And they lived like gods without sorrow of heart, remote and free from toil and grief: miserable age rested not on them; but with legs and arms never failing they made merry with feasting beyond the reach of all evils. When they died, it was as though they were overcome with sleep, and they had all good things; for the fruitful earth unforced bare them fruit abundantly and without stint. They dwelt in ease and peace upon their lands with many good things, rich in flocks and loved by the blessed gods. But after earth had covered this generation--they are called Pure Spirits (
+     <em>
+      daimones hagnoi
+     </em>
+     ) dwelling on the earth (
+     <em>
+      epikhthonioi
+     </em>
+     ), and are kindly, delivering from harm, and guardians of mortal men; for they roam everywhere over the earth, clothed in mist and keep watch on judgements and cruel deeds, givers of wealth [i.e. agricultural bounty]; for this royal right also they received."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Timotheus, Fragment 796 (from Athenaeus, Scholars at Dinner) (trans. Campbell, Vol. Greek Lyric V) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "The young Zeus is king, and it was in ancient times that Kronos (Cronus) was ruler."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Gorgias 525a ff  (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     [Plato synchronises the stories of Kronos as king of the Golden Age and Kronos (Cronus), king of Elysium, in this passage. See the Elsyium section below.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Hipparchus 229b (trans. Lamb)  :
+     </span>
+     <br/>
+     "At all other times [i.e. except during the rule of the despots] the Athenians lived very much as in the reign of Kronos (Cronus) [i.e. in a Golden Age]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Laws 713a (trans. Bury) :
+     </span>
+     <br/>
+     "[Plato employs the myth of the Golden Age of Kronos in his description of an ideal state ruled by a philospher-elite :] Long ages before even cities existed . . . there existed in the time of Kronos, it is said, a most prosperous government and settlement . . . Well, then, tradition tells us how blissful was the life of men in that age, furnished with everything in abundance, and of spontaneous growth. And the cause thereof is said to have been this : Kronos (Cronus) was aware of the fact that no human being is capable of having irresponsible control of all human affairs without becoming filled with pride and injustice; so, pondering this fact, he then appointed as kings and rulers for our cities, not men, but beings of a race that was nobler and more divine, namely, Daimones (Spirits). He acted just as we now do in the case of sheep and herds of tame animals: we do not set oxen as rulers over oxen, or goats over goats, but we, who are of a nobler race, ourselves rule over them. In like manner the god, in his love for humanity, set over us at that time the nobler race of Daimones who, with much comfort to themselves and much to us, took charge of us and furnished peace and modesty and orderliness and justice without stint, and thus made the tribes of men free from feud and happy. And even today this tale has a truth to tell, namely, that wherever a State has a mortal, and no god, for ruler, there the people have no rest from ills and toils; and it deems that we ought by every means to imitate the life of the age of Kronos, as tradition paints it." [Cf. The Daimones of Hesiod's
+     <em>
+      Works and Days
+     </em>
+     above.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, The Statesman 269a - 274d (trans. Fowler) :
+     </span>
+     <br/>
+     "[Plato employs the myth of the Golden Age of Kronos in a philosophical discussion :]
+     <br/>
+     Stranger : We have often heard the tale of the reign of Kronos . . . And how about the story that the ancient folk were earthborn and not begotten of one another?
+     <br/>
+     Younger Sokrates (Socrates) : That is one of the old tales, too . . .
+     <br/>
+     Stranger : In the reign of Kronos (Cronus). . .  all the fruits of the earth sprang up of their own accord for men . . . god himself was their shepherd, watching over them, just as man, being an animal of different and more divine nature than the rest, now tends the lower species of animals. And under his care there were no states, nor did men possess wives or children . . . So there were no states or families, but they had fruits in plenty from the trees and other plants, which the earth furnished them of its own accord, without help from agriculture. And they lived for the most part in the open air, without clothing or bedding; for the climate was tempered for their comfort, and the abundant grass that grew up out of the earth furnished them soft couches. That, Sokrates, was the life of men in the reign of Kronos; but the life of the present age, which is said to be the age of Zeus, you know by your own experience . . . The foster children of Kronos, had all this leisure and the ability to converse not only with human beings but also with beasts . . .
+     <br/>
+     [But in the subsequent reign of Zeus,] men, deprived of the care of the deity [Kronos] who had possessed and tended us, since most of the beasts who were by nature unfriendly had grown fierce, and they themselves were feeble and unprotected, were ravaged by the beasts and were in the first ages still without resources or skill . . . and that is the reason why the gifts of the gods that are told of in the old traditions were given us with the needful information and instruction,--fire by Prometheus, the arts by Hephaistos and the goddess [Athena] who is his fellow-artisan, seeds and plants by other deities."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Iambi Fragment 1 (from Oxyrhynchus Papyri 7) (trans. Trypanis) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[Animals could speak like men] in the reign of Kronos (Cronus). But anon, they say, Zeus changed all things to the contrary and in no happy mood, Zeus, the just, dispensing injustice, he robbed four-footed things of speech and, as if we had not strength enough even to bestow on others, he changed this hapless race to human kind . . . This is the tale of Aesop of Sardis, whom, when he sang his story, the Delphinans received in no kindly wise."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Iambi Fragment 192 (from Oxyrhynchus Papyri 7) :
+     </span>
+     <br/>
+     "[In the Golden Age when Kronos (Cronus)ruled :] It was the time  when birds and creatures of the sea and four-footed animals could talk in the same way as the Promethean clay ((lacuna)) . . in the time of Kronos, and even before. Just is Zeus, yet unjust was his ruling when he deprived the animals of their speech, and--as though we were in a position to give part of our voice to others--diverted it to the race of men."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 66. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Kronos (Cronus), since he was the eldest of the Titanes (Titans), became king and caused all men who were his subjects to change from a rude way of living to civilized life, and for this reason he received great approbation and visited many regions of the inhabited earth. Among all he met he introduced justice and sincerity of the soul, and this is why the tradition has come down to later generations that he men of Kronos' time were good-hearted, altogether guileless, and blest with felicity. His kingdom was strongest in the western regions, where indeed he enjoyed his greatest honour; consequently, down even to comparatively recent times, among the Romans [called by them Saturnus] and the Carthaginians [elsewhere the author mentions elsewhere that the Carthaginians sacrificed children to the god], while their city still stood, and other neighbouring peoples, notable festivals and sacrifices were celebrated in honour of this god and many places bore his name. And because of the exceptional obedience to laws no injustice was committed by any one at nay time and all the subjects of the rule of Kronos lived a life of blessedness, in the unhindered enjoyment of every pleasure. To this the poet Hesiod also bears witness in the following words : ‘And they who were Kronos' day, what time he reigned in heaven, lived like gods, no care in heart, remote and free from ills and toils severe, from grievous sicknesses and cares; old age lay not upon their limbs, but they, equal in strength of leg and arm, enjoyed endless delight of feasting far from ills, and when death came, they sank in it as in a sleep. And many other things were theirs; grain-giving earth, unploughed, bore for them fruit abundantly and without stint; and glad of heart they dwelt upon their tilth throughout the earth, in midst of blessing manifold, rich in their flocks, loved by the blessed gods.’ This then, is what the myths have to say about Kronos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 7. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "As for the Olympic games, the most learned antiquaries of Elis say that Kronos (Cronus) was the first king of heaven, and that in his honor a temple was built in Olympia by the men of that age, who were named the Golden Race."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Aristides 24. 2 (trans. Perrin) (Greek historian C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "Men of old hymned the praises of the age of Kronos (Cronus)--the golden age."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 88 (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The Golden Age (
+     <em>
+      Aetas Aurea
+     </em>
+     ) was that first age [of mankind] which unconstrained, with heart and soul, obedient to no law, gave honour to good faith and righteousness. No punishment they knew, no fear; they read no penalties engraved on plates of bronze; no suppliant throng with dread beheld their judge; no judges had they then, but lived secure. No pine had yet, on its high mountain felled, descended to the sea to find strange lands afar; men knew no shores except their own. No battlements their cities yet embraced, no trumpets straight, no horns of sinuous brass, no sword, no helmet then--no need of arms; the world untroubled lived in leisured ease. Tellus (Earth) [Gaia] willingly, untouched, not wounded yet by hoe or plough, gave all her bounteous store; men were content with nature's food unforced, and gathered strawberries on the mountainside and cherries and the clutching bramble's fruit, and acorns fallen from Jove's [Zeus'] spreading tree. Springtime it was, always, for ever spring; the gentle zephyrs with their breathing balm caressed the flowers that sprang without a seed; anon the earth untilled brought forth her fruits, the unhallowed fields lay gold with heavy grain, and streams of milk and springs of nectar flowed and yellow honey dripped from boughs of green. When Saturnus [Kronos (Cronus)] fell to dark Tartara and Jove [Zeus] reigned upon the earth, the Silver Race (
+     <em>
+      Proles Argentea
+     </em>
+     ) replaced the Gold, inferior, yet in worth above he tawny bronze."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 2. 536 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Before the Cretan king [Zeus] held scepter, and before a godless race banqueted on slaughtered bullocks, such was the life golden Saturnus [Kronos (Cronus)] lived on earth, while yet none had heard the clarion blare, none the sword blades ring, as they were laid on the stubborn anvil."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 65 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Now first appeared the golden crop of men [the Golden Race of Mankind] brought forth in the image of the gods, with the roots of their stock in the earth. And these dwelt in the [Phoenician] city of Beroe, that primordial seat which Kronos (Cronus) himself builded."
+    </p>
+    <hr/>
+    <h3 id="Wrestling">
+     ZEUS WRESTLES CRONUS FOR THE THRONE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 7. 10 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Now some say that Zeus wrestled here [at Olympia, Elis] with Kronos (Cronus) himself for the throne, while others say that he held the games in honour of his victory over Kronos. The record of victors include Apollon, who outran Hermes and beat Ares at boxing."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 2. 2 :
+     </span>
+     <br/>
+     "The Olympic games . . . are traced back to a time earlier than the human race, the story being that Kronos (Cronus) and Zeus wrestled there, and that the Kouretes were the first to race at Olympia."
+    </p>
+    <hr/>
+    <h3 id="Titanes">
+     CRONUS &amp; THE WAR OF THE TITANS
+    </h3>
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/Z50.1G.html">
+      <img alt="Saturn-Cronus as Saturday | Greco-Roman mosaic from Orbe C3rd A.D. | Roman villa of Orbe-Boscéaz" class="img-responsive center-block" src="../image/Z50.1GKronos.jpg"/>
+     </a>
+     <figcaption>
+      Saturn-Cronus as Saturday, Greco-Roman mosaic from Orbe C3rd A.D., Roman villa of Orbe-Boscéaz
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 203 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Okeanos (Oceanus), whence the gods have risen, and Tethys our mother who brought me [Hera] up kindly in their own house, and cared for me and took me from Rheia, at that time when Zeus of the wide brows drove Kronos (Cronus) underneath the earth and the barren water."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 390 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "The Olympian Lightener [Zeus] called all the deathless gods to great Olympos (Olympus), and said that whosoever of the gods would fight with him against the Titanes (Titans), he would not cast him out from his rights, but each should have the office which he had before amongst the deathless gods; he said, too, that the god who under Kronos (Cronus) had gone without position or privilege should under him be raised to these, according to justice."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 617 ff :
+     </span>
+     <br/>
+     "[Zeus] the son of Kronos (Cronus) and the other deathless gods whom rich-haired Rhea bare from union with Kronos, brought them [the Hekatonkheires (Hecatoncheires) and Kyklopes (Cyclopes)] up again to the light at Gaia's (Earth's) advising. For she herself recounted all things to the gods fully, how that with these they would gain victory and a glorious cause to vaunt themselves. For the Titan gods and as many as sprang from Kronos had long been fighting together in stubborn war with heart-grieving toil, the lordly Titanes from high Othrys, but the gods, givers of good, whom rich-haired Rhea bare in union with Kronos, from Olympos. So they, with bitter wrath, were fighting continually with one another at that time for ten full years, and the hard strife had no close or end for either side, and the issue of the war hung evenly balanced . . . the father of men and gods spoke amongst them : ‘Hear me, bright children of Gaia and Ouranos, that I may say what my heart within me bids. A long while now have we, who are sprung from Kronos and the Titan gods, fought with each other every day to get victory and to prevail. But do you show your great might and unconquerable strength, and face the Titanes in bitter strife; for remember our friendly kindness, and from what sufferings you are come back to the light from your cruel bondage under misty gloom through our counsels.’
+     <br/>
+     So he said. And blameless Kottos answered him again : ‘. . . And so now with fixed purpose and deliberate counsel we will aid your power in dreadful strife and will fight against the Titanes in hard battle.’ So he said, and the gods, givers of good things, applauded when they heard his word, and their spirit longed for war even more than before . . . [Zeus then released the giants from Tartaros.]
+     <br/>
+     And they all, both male and female [gods], stirred up hated battle that day, the Titan gods, and all that were born of Kronos together with those dread, mighty ones of overwhelming strength whom Zeus brought up to the light from Erebos beneath the earth . . . And amongst the foremost Kottos (Cottus) and Briareos (Briareus) and Gyes insatiate for war raised fierce fighting: three hundred rocks, one upon another, they launched from their strong hands and overshadowed the Titanes with their missiles, and buried them beneath the wide-pathed earth, and bound them in bitter chains when they had conquered them by their strength for all their great spirit, as far beneath the earth to Tartaros (Tartarus) . . . There by the counsel of Zeus who drives the clouds the Titan gods are hidden under misty gloom, in a dank place where are the ends of the huge earth. And they may not go out; for Poseidon fixed gates of bronze upon it, and a wall runs all round it on every side. There Gyes and Kottos and great-souled Obriareus live, trusty warders of Zeus who holds the aegis."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 53 ff :
+     </span>
+     <br/>
+     "And he [Zeus] was reigning in heaven, himself holding the lightning and glowing thunderbolt, when he had overcome by might his father Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Agamemnon 168 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "He [Ouranos (Uranus)] who once was mighty, swelling with insolence for every fight, he shall not even be named as having ever existed; and he [Kronos (Cronus)] who arose later, he has met his overthrower [Zeus] and is past and gone."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 200 ff :
+     </span>
+     <br/>
+     "When first the heavenly powers (
+     <em>
+      daimones
+     </em>
+     ) [the Titanes (Titans) and Olympian gods] were moved to wrath, and mutual dissension was stirred up among them--some bent on casting Kronos (Cronus) from his seat so Zeus, in truth, might reign; others, eager for the contrary end, that Zeus might never win mastery over the gods--it was then that I [Prometheus], although advising them for the best, was unable to persuade the Titanes, children of Ouranos (Uranus, Heaven) and Khthon (Chthon, Earth); but they, disdaining counsels of craft, in the pride of their strength thought to gain the mastery without a struggle and by force. Often my mother Themis, or Gaia (Earth) (though one form, she had many names), had foretold to me the way in which the future was fated to come to pass. That it was not by brute strength nor through violence, but by guile that those who should gain the upper hand were destined to prevail. And though I argued all this to them, they did not pay any attention to my words. With all that before me, it seemed best that, joining with my mother, I should place myself, a welcome volunteer, on the side of Zeus; and it is by reason of my counsel that the cavernous gloom (
+     <em>
+      melanbathês
+     </em>
+     ) of Tartaros (Tartarus) now hides ancient (
+     <em>
+      palaigenês
+     </em>
+     ) Kronos and his allies within it. Thus I helped [Zeus] the tyrant of the gods . . . As soon as he had seated himself upon his father's throne, he immediately assigned to the deities their several privileges and apportioned to them their proper powers."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 955 ff :
+     </span>
+     <br/>
+     "Have I [the Titan Prometheus] not seen two sovereigns [Ouranos (Uranus) and Kronos (Cronus)] cast out from these heights [of heaven]?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 282 (from Papyri Oxyrhynchus) (trans. Lloyd-Jones) :
+      <br/>
+     </span>
+     "[Dike, the goddess of justice, speaks :] And he [Zeus] has his seat upon his father's very throne, having overcome Kronos (Cronus) by means of Justice (Dike); for Zeus can now boast, since his father began the quarrel, that he paid him back with Justice on his side. That is why Zeus has done me great honour, because after being attacked he paid him back, not unjustly. I sit in glory by the throne of Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 6 - 7 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Zeus was grown, he engaged Okeanos' (Oceanus') daughter Metis (Counsel) as a colleague. She gave Kronos (Cronus) a drug, by which he was forced to vomit forth first the stone and then the children he had swallowed. With them Zeus fought a war against Kronos and the Titanes (Titans). After ten years of fighting Ge (Earth) prophesied a victory for Zeus if he were to secure the prisoners down in Tartaros as his allies. He thereupon slew their jail-keeper Kampe (Campe), and freed them from their bonds. In return the Kyklopes (Cyclopes) gave Zeus thunder, lightning, and a thunderbolt, as well as a helmet for Plouton and a trident for Poseidon. Armed with these the three gods overpowered the Titanes, confined them in Tartaros, and put the Hekatonkheires (Hecatoncheires) in charge of guarding them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 6 Fragment 4 (from Tertullian On the Crown 13. 4) (trans. Oldfather) (Greek historian C1st B.C.)
+     </span>
+     :
+     <br/>
+     "Pherecydes [C6th or 5th B.C.] records that Saturnus [Kronos (Cronus)] was the first, before all others, to wear a crown, and Diodoros relates that, after he had defeated the Titanes, Jupiter [Zeus] was rewarded by the rest with this same distinction."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 150 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "After Juno [Hera] saw that Epaphus [or perhaps Dionysos], born of a concubine, ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titanes (Titans) to drive Jove [Zeus] from the kingdom and restore it to Saturnus [Kronos (Cronus)]. When they tried to mount tot heaven, Jove [Zeus] with the help of Minerva [Athena], Apollo, and Diana [Artemis], cast them headlong into Tartarus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 793 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Saturnus [Kronos, Cronus)] was thrust from his realm by Jove [Zeus]. In anger he stirs the mighty Titanes to arms and seeks the assistance owed by fate. There was a shocking monster born of Mother Terra (Earth) [Gaia], a bull, whose back half was a serpent . . . Whoever fed the bull's guts to consuming flames was destined to defeat the eternal gods. Briareus [here an ally of Kronos] slays it with an adamantine axe and prepares to feed the flames its innards. Jupiter commands the birds to grab them; the kite brought them to him."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 965 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[Herakles driven mad by Hera, threatens the gods of heaven :] I'll free Saturnus [Kronos (Cronus)] from his bonds, and against my unfilial father's [Zeus'] lawless sway I'll loose my grandsire. Let the Titanes (Titans) prepare war, with me to lead their rage."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 43 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[The history of the world inscribed on tablets by the primordial god Phanes :] The first tablet, old as the infinite past, containing all things in one . . . the fiery shining victory of Zeus at war and the hailstorm snowstorm conflict of Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionsyiaca 18. 223 ff :
+     </span>
+     <br/>
+     "[Zeus] in his first youth battered the earthborn Titanes (Titans) for Olympos, when he was only a boy . . . Kronos (Cronus) still dripping held the emasculating sickleblade, after he had cut off the manly crop of his father's [Ouranos'] plow and robbed him of the Mother's [Gaia's] bed to which he was hastening, and warred against your sire at the head of the Titanes. Broadbeard Kronos fanned the flame of Enyo (War) as he cast icy spears against Kronion (Cronion) [Zeus], shooting his cold watery shafts: sharp pointed arrows of hail were shot from the sky. But Zeus armed himself with more fires than Helios (the Sun) and melted the petrified water with hotter sparks."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 18. 264 ff :
+     </span>
+     <br/>
+     "[Zeus] killed that great monster [Kampe (Campe)] the snaky Enyo [War Goddess] of Kronos (Cronus)."
+     <br/>
+     [N.B. Kampe was the dragon set by Kronos to guard the the Hekatonkheires and Kyklopes locked away in Tartaros].
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 230 ff :
+     </span>
+     <br/>
+     "The singer wove his lay beside the mixing-bowl, how the older Titanes (Titans) armed themselves against Olympos. He sang the true victory of Zeus potent in the Heights, how broadbeard Kronos (Cronus) sank under the thunderbolt, and Zeus sealed him deep in the dark Tartarean pit, armed in vain with the watery weapons of the storm."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 264 ff :
+     </span>
+     <br/>
+     "Hera the Titan's daughter took strong part in the war against Kronos (Cronus) her father and helped Zeus in his fight."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 36. 110 ff :
+     </span>
+     <br/>
+     "Let there not be intestine war in heaven once gain, after that conflict with Kronos (Cronus) which threatened Olympos: let me not see another war after the affray with Iapetos (Iapetus)."
+    </p>
+    <hr/>
+    <h3 id="Curse">
+     CRONUS &amp; HIS CURSE ON ZEUS
+    </h3>
+    <p>
+     According to Aeschylus, after Kronos (Cronus) was dethroned by Zeus he cursed his son to suffer the same fate. However, Prometheus warned Zeus in a timely fashion to avoid a union with the goddess Thetis, for their child was the one destined to overthrow him.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 907 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Prometheus : Yes, truly, the day will come when Zeus, although stubborn of soul, shall be humbled, seeing that he plans a marriage [i.e. with the goddess Thetis] that shall hurl him into oblivion from his sovereignty and throne; and then immediately the curse his father Kronos (Cronus) invoked as he fell from his ancient throne, shall be fulfilled to the uttermost . . . Such an adversary is he now preparing despite himself, a prodigy [his son by Thetis] irresistible, even one who shall discover a flame mightier than the lightning and a deafening crash to outroar the thunder; a prodigy who shall shiver the trident, Poseidon's spear, that scourge of the sea and shaker of the land. Then, wrecked upon this evil, Zeus shall learn how different it is to be a sovereign and a slave."
+    </p>
+    <hr/>
+    <h3 id="Tartaros">
+     CRONUS IMPRISONED IN TARTARUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 8. 479 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The undermost limits of earth and sea, where Iapetos (Iapetus) and Kronos (Cronus) seated have no shining of the sun god Hyperion to delight them nor winds' delight, but Tartaros stands deeply about them."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 617 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "[Zeus and the gods] buried them [the Titanes] beneath the wide-pathed earth, and bound them in bitter chains when they had conquered them by their strength for all their great spirit, as far beneath the earth to Tartaros (Tartarus). For a brazen anvil falling down from heaven nine nights and days would reach the earth upon the tenth: and again, a brazen anvil falling from earth nine nights and days would reach Tartaros upon the tenth. Round it runs a fence of bronze, and night spreads in triple line all about it like a neck-circlet, while above grow the roots of the earth and unfruitful sea. There by the counsel of Zeus who drives the clouds the Titan gods are hidden under misty gloom, in a dank place where are the ends of the huge earth. And they may not go out; for Poseidon fixed gates of bronze upon it, and a wall runs all round it on every side.There Gyes and Kottos (Cottus) and great-souled Obriareus live, trusty warders of Zeus who holds the aegis."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 53 ff :
+     </span>
+     <br/>
+     "And he [Zeus] was reigning in heaven, himself holding the lightning and glowing thunderbolt, when he had overcome by might his father Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 820 ff :
+     </span>
+     <br/>
+     "The Titanes under Tartaros (Tartarus) who live with Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment 274A (from Philodemus, Piety) (trans. Campbell, Vol. Greek Lyric III) (C7th to 6th B.C.) :
+     </span>
+     <br/>
+     "According to Apollonides and Hesiod and Stesichorus in his
+     <em>
+      Oresteia
+     </em>
+     and contrary to what I said before, that Kronos (Cronus) was thrown into Tartaros (Tartarus) by him [Zeus]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 640 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Chorus : Zeus gives greater honor to a father's death, according to what you say; yet he himself bound his aged father, Kronos (Cronus). How does this not contradict what you say? . .
+     <br/>
+     Apollon : . . . Zeus could undo fetters, there is a remedy for that, and many means of release. But when the dust has drawn up the blood of a man, once he is dead, there is no return to life."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 403e (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[Has] Kronos (Cronus) . . . bound them with his famous chains?" [N.B. Kronos is used as a metaphor, his chains are inescapable.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Euthyphro 5e  (trans. Fowler) :
+     </span>
+     <br/>
+     "Men believe that Zeus . . . put his father [Kronos (Cronus)] in bonds because he wickedly devoured his children."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 377e (trans. Shorey) :
+     </span>
+     <br/>
+     "[Plato cautions that men should not use the story of Zeus' punishment of his father Kronos (Cronus) as justification for the mistreatment of their own parents :] ‘When anyone images badly in his speech the true nature of gods and heroes, like a painter whose portraits bear no resemblance to his models.’ ‘It is certainly right to condemn things like that,’ he said; ‘but just what do we mean and what particular things?’ ‘There is, first of all,’ I said, ‘the greatest lie about the things of greatest concernment, which was no pretty invention of him [Hesiod] who told . . . [of] the doings and sufferings of Kronos at the hands of his son [Zeus]. Even if they were true I should not think that they ought to be thus lightly told to thoughtless young persons. Adeimantos, in our city, nor is it to be said in the hearing of a young man, that in doing the utmost wrong he would do nothing to surprise anybody, nor again in punishing his father's wrong-doings to the limit, but would only be following the example of the first and greatest of the gods.’ ‘No, by heaven,’ said he, ‘I do not myself think that they are fit to be told.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 7 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The three gods [Zeus, Poseidon and Haides] overpowered the Titanes (Titans), confined them in Tartaros (Tartarus), and put the Hekatonkheires (Hecatoncheires) in charge of guarding them."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 41 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Mine [Haides'] is the prison-house, now broken, of the Gigantes (Giants), and of the Titanes (Titans), eager to force their way to the world above, and his own unhappy sire [Kronos (Cronus)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 230 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Broadbeard Kronos (Cronus) sank under the thunderbolt, and Zeus sealed him deep in the dark Tartarean pit, armed in vain with the watery weapons of the storm." [N.B. the Tartarean pit was the reputed source of hurricanes.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 50 ff :
+     </span>
+     <br/>
+     "Kronos (Cronus) himself, who banqueted on his own young children in cannibal wise, was covered up in Gaia's (Earth's) bosom [i.e., trapped in Tartaros], son of Ouranos (Uranus, Heaven) though he was."
+    </p>
+    <hr/>
+    <h3 id="Elysion">
+     CRONUS  KING OF THE ISLANDS OF THE BLESSED
+    </h3>
+    <p>
+     According to some, Kronos (Cronus), the former king of the Golden Age, was released by Zeus from Tartaros (Tartarus) and made king of the islands of the Blessed, where the heroes were sent to dwell in paradise after death.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Works and Days 156 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Zeus the son of Kronos (Cronus) made yet another, the fourth [race of men], upon the fruitful earth, which was nobler and more righteous, a god-like race of hero-men who are called demi-gods, the race before our own, throughout the boundless earth. Grim war and dread battle destroyed a part of them, some in the land of Kadmos (Cadmus) at seven-gated Thebe when they fought for the flocks of Oidipous (Oedipus), and some, when it had brought them in ships over the great sea gulf to Troy for rich-haired Helene's (Helen's) sake : there death's end enshrouded a part of them. But to the others father Zeus the son of Kronos gave a living and an abode apart from men, and made them dwell at the ends of earth. And they live untouched by sorrow in the islands of the blessed along the shore of deep swirling Okeanos (Oceanus), happy heroes for whom the grain-giving earth bears honey-sweet fruit flourishing thrice a year, far from the deathless gods, and Kronos rules over them; for the father of men and gods released him from his bonds. And these last equally have honour and glory."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 2. 55 ff
+     </span>
+     <span class="quote-greek">
+      (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "When they [men] die hearts that were void of mercy pay the due penalty, and of this world's sins a judge below the earth holds trial, and of dread necessity declares the word of doom. But the good, through the nights alike, and through the days unending, beneath the sun's bright ray, tax no the soil with the strength of their hands, nor the broad sea for a poor living, but enjoy a life that knows no toil; with men honoured of heaven, who kept their sworn word gladly, spending an age free from all tears. But the unjust endure pain that no eye can bear to see. But those who had good courage, three times on either side of death, to keep their hearts untarnished of all wrong, these travel along the road of Zeus to Kronos' (Cronus') tower. There round the Islands of the Blest, the winds of Okeanos (Oceanus) play, and golden blossoms burn, some nursed upon the waters, others on land on glorious trees; and woven on their hands are wreaths enchained and flowering crowns, under the just decrees of Rhadamanthys, who has his seat at the right hand of the great father, Rhea's husband [Kronos (Cronus)], goddess who holds the throne highest of all. And Peleus and Kadmos (Cadmus) are of that number, and thither, when her prayers on the heart of Zeus prevailed, his mother brought Akhilleus (Achilles), he who felled Hektor (Hector), Troy's pillar invincible, unyielding, and brought death to Kyknos (Cycnus), and [Memnon] the Aithiop (Ethiopian) son of Eos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Gorgias 525a ff (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[Plato synchronises the stories of Kronos (Cronus) as king of the Golden Age and Kronos, king of Elysium :] 
+  Sokrates (Socrates) : By Homer's account, Zeus, Poseidon, and Plouton (Pluton) [Haides] divided the sovereignty amongst them when they took it over from their father [Kronos (Cronus)]. Now in the time of Kronos there was a law concerning mankind, and it holds to this very day amongst the gods, that every man who has passed a just and holy life departs after his decease to the Isles of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ), and dwells in all happiness apart from ill; but whoever has lived unjustly and impiously goes to the dungeon of requital and penance which, you know, they call Tartaros (Tartarus). Of these men there were judges in Kronos' time, and still of late in the reign of Zeus--living men to judge the living upon the day when each was to breathe his last; and thus the cases were being decided amiss. So Plouton [Haides] and the overseers from the Isles of the Blest came before Zeus with the report that they found men passing over to either abode undeserving. Then spake Zeus : ‘Nay,’ said he, ‘I will put a stop to these proceedings . . . Now I, knowing all this before you, have appointed sons of my own to be judges; two from Asia, Minos and Rhadamanthus, and one from Europe, Aiakos (Aeacus).’"
+    </p>
+    <hr/>
+    <h3 id="Time">
+     CRONUS  GOD OF TIME
+    </h3>
+    <p>
+     Kronos (Cronus), the god who devoured his own children (Poseidon representing the sea, Demeter the earth, Hera the air, and Hestia heavenly fire) symbolised the destructive ravages of time, which consumed all. As the King of the Golden Age, and of the Islands of the Blessed, he represented the passing of the ages. The name Kronos, means simply time (
+     <em>
+      khronos
+     </em>
+     ).
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 2. 24 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Another theory also, and that a scientific one, has been the source of a number of deities, who clad in human form have furnished the poets with legends and have filled man's life with superstitions of all sorts. This subject was handled by Zeno and was later explained more fully by Cleanthes and Chrysippus. For example, an ancient belief prevailed throughout Greece that Caelus (the Sky) [Ouranos (Uranus)] was mutilated by his son Saturnus [Kronos (Cronus)], and Saturnus himself thrown into bondage by his son Jove [Zeus]: now these immoral fables enshrined a decidedly clever scientific theory. Their meaning was that the highest element of celestial ether or fire [Ouranos the Sky], which by itself generates all things, is devoid of that bodily part which required union with another for the work of procreation. By Saturnus [Kronos] again they denoted that being who maintains the course and revolution of the seasons and periods of time, the deity so designated in Greek, for Saturnus' Greek name is Kronos (Cronus), which is the same as
+     <em>
+      khronos
+     </em>
+     , a space of time. The Latin designation ‘Saturnus’ on the other hand is due to the fact that he is ‘saturated’ or ‘satiated with years’ (
+     <em>
+      anni
+     </em>
+     ); the fable is that he was in the habit of devouring his sons--meaning that Time devours the ages and gorges himself insatiably with the years that are past. Saturnus is bound by Jove [Zeus] in order that Time's courses might not be unlimited, and that Jove might fetter him by the bonds of the stars."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 6. 178 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Young like crafty Kronides (Cronides) [Zeus] shaking the aegis-cape . . . ancient like Kronos (Cronus) heavy-kneed, pouring rain."
+    </p>
+    <hr/>
+    <h3 id="Hymns">
+     HYMNS TO CRONUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 13 to Cronus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Kronos (Cronus), Fumigation from Storax. Eternal father, mighty Titan, hear, great sire of gods and men, whom all revere; endued with various counsel, pure and strong, to whom increase and decrement belong. Hence matter's flowing forms through thee that die, by thee restored, their former place supply [reincarnation]. The world immense in everlasting chains, strong and ineffable thy power contains; father of vast eternity, divine, O mighty Kronos, various speech is thine; blossom of earth and of starry skies, husband of Rhea, and Prometheus wise. Obstetric power and venerable root, from which the various forms of being shoot; no parts peculiar can thy power enclose, diffused through all, from which the world arose. O best of beings, of a subtle mind, propitious hear, to suppliant prayers inclined; the sacred rites benevolent attend, and grant a blameless life, a blessed end [passage after death to Elysion (Elysium)]."
+    </p>
+    <hr/>
+    <h3 id="Cult">
+     CULT OF CRONUS
+    </h3>
+    <h4>
+     I. ATHENS Main City of Attica (Attika) (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 18. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Within the precincts [of the sanctuary of Zeus Olympios at Athens] are antiquities: a bronze Zeus, a temple of Kronos (Cronus) and Rhea and an enclosure of Ge (Earth) surnamed Olympia."
+    </p>
+    <h4>
+     II. OLYMPIA Sanctuary in Elis (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 1. 111 (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "When I come to Kronos' (Cronus') sunlit hill [at Olympia]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 20. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Mount Kronios (Cronius), as I have already said, extends parallel to the terrace [at the sanctuary of Olympia in Elis] with the treasuries on it. On the summit of the mountain the Basilai (Kings), as they are called, sacrifice to Kronos (Cronus) at the spring equinox [the start of the new year], in the month called Elaphios (Of the Deer) among the Eleans."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 7. 6 &amp; 10 :
+     </span>
+     <br/>
+     "As for the Olympic games, the most learned antiquaries of Elis say that Kronos (Cronus) was the first king of heaven, and that in his honor a temple was built in Olympia by the men of that age, who were named the Golden Race. When Zeus was born, Rhea entrusted the guardianship of her son to the Daktyloi Idaioi (Idaean Dactyls), who are the same as those called Kouretes (Curetes) . . . Herakles, being the eldest, matched his brothers, as a game, in a running-race, and crowned the winner with a branch of wild olive . . . 
+  Now some say that Zeus wrestled here with Kronos himself for the throne, while others say that he held the games in honor of his victory over Kronos. The record of victors include Apollon, who outran Hermes and beat Ares at boxing."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 2. 2 :
+     </span>
+     <br/>
+     "The Olympic games . . . are traced back to a time earlier than the human race, the story being that Kronos (Cronus) and Zeus wrestled there, and that the Kouretes (Curetes) were the first to race at Olympia."
+    </p>
+    <h4>
+     III. LEBADEIA Town in Boeotia (Boiotia) (Central Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 39. 3 :
+     </span>
+     <br/>
+     "[At the chthonic oracle of Trophonios (Trophonius) at Lebadeia in Boiotia :] Meat he [the seeker] has in plenty from the sacrifices, for he who descends sacrifices to Trophonios himself and to the children of Trophonios, to Apollon also and Kronos (Cronus), to Zeus surnamed King, to Hera Charioteer, and to Demeter."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 39. 4 :
+     </span>
+     <br/>
+     "In a second temple [of Trophonios at Lebadeia, Boiotia] are images of Kronos (Cronus), Hera and Zeus."
+    </p>
+    <h4>
+     IV. GADES Greek Colony in Iberia (Southern Spain)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 3. 5. 3 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The city of Gades is situated on the westerly parts of the island [of Gades off the coast of southern Spain]; and next to it, at the extremity of the island and near the islet, is the temple of Kronos (Cronus); but the temple of Herakles is situated on the other side, facing towards the east."
+    </p>
+    <hr/>
+    <h3 id="Miscellany">
+     CRONUS MISCELLANY
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 396a (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[Plato constructs philosophical etymologies for the names of the gods :]
+     <br/>
+     Sokrates (Socrates) : This god [Zeus] is correctly named, through whom (
+     <em>
+      di' hon
+     </em>
+     ) all living beings have the gift of life (
+     <em>
+      zên
+     </em>
+     ) . . . And it might seem, at first hearing, highly irreverent to call him the son of Kronos (Cronus) and reasonable to say that Zeus is the offspring of some great intellect; and so he is, for
+     <em>
+      koros
+     </em>
+     signifies not child, but the purity (
+     <em>
+      katharon
+     </em>
+     ) and unblemished nature of his mind. Kronos, according to tradition, is the son of Ouranos (Uranus, Heaven); but the upward gaze is rightly called by the name heavenly (
+     <em>
+      ourania
+     </em>
+     ), looking at the things above (
+     <em>
+      horô ta anô
+     </em>
+     ), and the astronomers say, Hermogenes, that from this looking people acquire a pure mind, and Ouranos is correctly named."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 400d &amp; 401e :
+     </span>
+     <br/>
+     "[Plato constructs philosophical etymologies for the names of the gods :]
+     <br/>
+     Sokrates (Socrates) : Let us inquire what thought men had in giving them [the gods] their names . . . The first men who gave names [to the gods] were no ordinary persons, but high thinkers and great talkers . . . After Hestia it is right to consider Rhea and Kronos (Cronus). The name of Kronos, however, has already been discussed . . . I seem to have a vision of Herakleitos (Heraclitus) [philosopher C6th to 5th B.C.] saying some ancient words of wisdom as old as the reign of Kronos and Rhea, which Homer said too . . . Herakleitos says, you know, that all things move and nothing remains still, and he likens the universe to the current of a river, saying that you cannot step twice into the same stream . . . Well, don't you think he who gave to the ancestors of the other gods the names ‘Rhea’ and ‘Kronos’ had the same thought as Herakleitos? Do you think he gave both of them the names of streams merely by chance? Just so Homer, too, says--‘Okeanos (Oceanus) the origin of the gods, and their mother Tethys.’"
+     <br/>
+     [N.B. Plato associates the name of Rhea with the verb "to flow" and Kronos with "time" and connects the pair with the gods of the world-river, Okeanos and Tethys.]
+    </p>
+    <hr/>
+    <h3 id="El">
+     CRONUS IDENTIFIED WITH EL OLAM (PHOENICIAN)
+    </h3>
+    <p>
+     Kronos (Cronus) was identified by the Greeks with the Phoenician god of time El Olam (El of Eternal Time), spelt Oulomos in Greek. The child sacrifices offered this god underlined the connection in the Greek mind.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 66. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "His [Kronos' (Cronus')] kingdom was strongest in the western regions, where indeed he enjoyed his greatest honour; consequently, down even to comparatively recent times, among the Romans [called by them Saturnus] and the Carthaginians [elsewhere the author mentions the Carthaginians sacrifice of children to the god], while their city still stood, and other neighbouring peoples, notable festivals and sacrifices were celebrated in honour of this god and many places bore his name."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 655 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Now first appeared the golden crop of men [the Golden Race of Mankind] brought forth in the image of the gods, with the roots of their stock in the earth. And these dwelt in the [Phoenician] city of Beroe, that primordial seat which Kronos (Cronus) himself builded."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Sardanios gelos (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "
+     <em>
+      Sardanios gelos
+     </em>
+     . Sardonic laugh. A proverb applied to those laughing at their own death. Demon says that it was handed down because the inhabitants of Sardinia used to sacrifice to Kronos (Cronus) the finest of their captives and those over 70 years of age, who laughed to show their courage (that is, bravery). But Timaios (Timaeus) [says] that those who had lived long enough in Sardinia used to laugh when they were herded by their sons with wooden staves into the trench in which they were about to be buried . . . And Klitarkhos (Clitarchus) and others say that in Carthage, during great prayers, they place a boy in the hands of Kronos (a bronze statue is set up, with outstretched hands, and under it a baking oven) and then put fire under; the boy shrunk by the fire seems to laugh." [N.B. The "Sardinians" are probably the Carthaginian colonists of the island whose towns dotted the coast.]
+    </p>
+    <hr/>
+    <h3 id="Saturnus">
+     CRONUS  IDENTIFIED WITH SATURN (ROMAN)
+    </h3>
+    <p>
+     Kronos (Cronus) was identified with the Italian agricultural god Saturnus (Saturn), in whose honour the mid-winter Saturnalia festival was celebrated.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 66. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Kronos (Cronus) [here the Italian Saturnus], since he was the eldest of the Titanes (Titans), became king and caused all men who were his subjects to change from a rude way of living to civilized life, and for this reason he received great approbation and visited many regions of the inhabited earth. Among all he met he introduced justice and sincerity of the soul, and this is why the tradition has come down to later generations that he men of Kronos' time were good-hearted, altogether guileless, and blest with felicity. His kingdom was strongest in the western regions, where indeed he enjoyed his greatest honour; consequently, down even to comparatively recent times, among the Romans [called by them Saturnus] and the Carthaginians [elsewhere the author mentions the Carthaginian sacrifice of children to the god], while their city still stood, and other neighbouring peoples, notable festivals and sacrifices were celebrated in honour of this god and many places bore his name. And because of the exceptional obedience to laws no injustice was committed by any one at nay time and all the subjects of the rule of Kronos lived a life of blessedness, in the unhindered enjoyment of every pleasure. To this the poet Hesiod also bears witness in the following words : ‘And they who were Kronos' day, what time he reigned in heaven, lived like gods, no care in heart, remote and free from ills and toils severe, from grievous sicknesses and cares; old age lay not upon their limbs, but they, equal in strength of leg and arm, enjoyed endless delight of feasting far from ills, and when death came, they sank in it as in a sleep. And many other things were theirs; grain-giving earth, unploughed, bore for them fruit abundantly and without stint; and glad of heart they dwelt upon their tilth throughout the earth, in midst of blessing manifold, rich in their flocks, loved by the blessed gods.’ This then, is what the myths have to say about Kronos."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 14. 320 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "King Picus, son of Saturnus [Kronos (Cronus)], ruled the land of Ausonia [Latium], a king whose chief delight was chargers for battle."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 7. 48 ff (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "Faunus was son of Picus, who called Saturnus his father--yes, Saturnus [Kronos (Cronus)] originated their line."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 17 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "If these brothers [Zeus, Poseidon, Haides] are included among the gods, can we deny the divinity of their father Saturnus [Kronos (Cronus)], who is held in the highest reverence by the common people in the west [Italy]? And if he is a god, we must also admit that his father Caelus (Sky) [Ouranos (Uranus)] is a god."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T6.1.html">
+        <img alt="Thumbnail Cronus, Rhea &amp; the Omphalos Stone" src="../image/thumbT6.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T6.1 Cronus, Rhea, Omphalos Stone
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R16.1.html">
+        <img alt="Thumbnail Rhea, Cronus &amp; the Omphalos Stone" src="../image/thumbR16.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R16.1 Rhea, Cronus, Omphalos Stone
+        </h3>
+        <p>
+         Greco-Roman Marble Bas-Relief
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z50.1G.html">
+        <img alt="Thumbnail Saturn-Cronus as Saturday" src="../image/thumbZ50.1G.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z50.1G Saturn-Cronus as Saturday
+        </h3>
+        <p>
+         Greco-Roman Orbe Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, Titanomachia Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Corinna, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Timotheus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Euthyphro
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Gorgias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Hipparchus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Laws
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Statesman
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/AratusPhaenomena.html">
+       Aratus, Phaenomena
+      </a>
+      <span class="sources-detail">
+       - Greek Astronomy C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Cynegetica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesOetaeus.html">
+       Seneca, Hercules Oetaeus
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     CRONUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE TITAN CRONUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Uranus and Gaea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Rhea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Time, king of the Titans
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Tartarus, Elysium
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Sickle
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Saturn
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     CRONUS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Cronus
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of Cronus
+      </a>
+     </li>
+     <li>
+      <a href="#Ouranos">
+       Castration of Uranus
+      </a>
+     </li>
+     <li>
+      <a href="#Cannibal">
+       Devouring of his Children
+      </a>
+     </li>
+     <li>
+      <a href="#Kheiron">
+       Philyra &amp; the Birth of Chiron
+      </a>
+     </li>
+     <li>
+      <a href="#Golden">
+       Cronus King of the Golden Age
+      </a>
+     </li>
+     <li>
+      <a href="#Wrestling">
+       Wrestling Match with Zeus
+      </a>
+     </li>
+     <li>
+      <a href="#Titanes">
+       The War of the Titans
+      </a>
+     </li>
+     <li>
+      <a href="#Curse">
+       Curse Upon Zeus
+      </a>
+     </li>
+     <li>
+      <a href="#Tartaros">
+       Imprisonment in Tartarus
+      </a>
+     </li>
+     <li>
+      <a href="#Elysion">
+       Cronus King of Elysium
+      </a>
+     </li>
+     <li>
+      <a href="#Time">
+       Cronus God of Time
+      </a>
+     </li>
+     <li>
+      <a href="#Hymns">
+       Hymns to Cronus
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Cult of Cronus
+      </a>
+     </li>
+     <li>
+      <a href="#Miscellany">
+       Cronus Miscellany
+      </a>
+     </li>
+     <li>
+      <a href="#El">
+       Identified with Phoenician El Olam
+      </a>
+     </li>
+     <li>
+      <a href="#Saturnus">
+       Identified with Roman Saturn
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

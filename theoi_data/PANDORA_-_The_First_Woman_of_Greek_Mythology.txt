@@ -1,0 +1,1651 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PANDORA - The First Woman of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Pandora was the first mortal woman who was formed out of clay by the gods. The Titan Prometheus was once assigned the task of creating the race of man. He afterwards grew displeased with the mean lot imposed on them by the gods and so stole fire from heaven. Zeus was angered and commanded Hephaestus and the other gods create the first woman Pandora, endowing her with beauty and cunning. He then had her delivered to Prometheus' foolish younger brother Epimetheus as a bride. Zeus gave Pandora a storage jar (pithos) as a wedding gift which she opened, releasing the swarm of evil spirits trapped within. These would forever after plague mankind. Only Elpis (Hope) remained behind, a single blessing to ease mankind's suffering." name="description"/>
+  <meta content="Pandora, Greek mythology, heroine, the first woman, Pandora's jar, Pandora's box, Pandora pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Heroines
+     </a>
+     &gt;&gt; Pandora
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     PANDORA
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Πανδωρα
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Pandôra
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Pandora
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       All-Gifts (
+       <em>
+        pan, doros
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/T22.1.html">
+      <img alt="Epimetheus and the birth of Pandora | Athenian red-figure amphora C5th B.C. | Ashmolean Museum, Oxford" class="img-responsive center-block" src="../image/T22.1Pandora.jpg"/>
+     </a>
+     <figcaption>
+      Epimetheus and the birth of Pandora, Athenian red-figure amphora C5th B.C.,
+      <a href="http://www.ashmolean.org/" target="_blank">
+       Ashmolean Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     PANDORA was the   first mortal woman who was formed out of clay by the gods.
+    </p>
+    <p>
+     The Titan
+     <a href="../Titan/TitanPrometheus.html">
+      Prometheus
+     </a>
+     was once assigned the task of creating the race of man. He afterwards grew displeased with the mean lot imposed on them by the gods and so stole fire from heaven.
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     was angered and commanded
+     <a href="../Olympios/Hephaistos.html">
+      Hephaistos (Hephaestus)
+     </a>
+     and the other gods create the first woman Pandora, endowing her with beauty and cunning. He then had her delivered to Prometheus' foolish younger brother
+     <a href="../Titan/TitanEpimetheus.html">
+      Epimetheus
+     </a>
+     as a  bride. 
+  Zeus gave Pandora  a storage jar (
+     <em>
+      pithos
+     </em>
+     ) as a wedding gift which she opened, releasing the swarm of evil spirits trapped within. These would forever after plague mankind. Only
+     <a href="../Daimon/Elpis.html">
+      Elpis
+     </a>
+     (Hope) remained behind, a single blessing to ease mankind's suffering.
+    </p>
+    <p>
+     Pandora's daughter Pyrrha (Fire) was the first child born of a mortal mother. She and her husband
+     <a href="../Heros/Deukalion.html">
+      Deukalion (Deucalion)
+     </a>
+     were the sole survivors of the Great Deluge. To repopulate the earth they were instructed to cast stones over their shoulder which formed a new race of men and women.
+    </p>
+    <p>
+     The creation of Pandora was often depicted in ancient Greek vase painting. She appears as either a statue-like figure surrounded by gods, or as a woman rising out of the earth (called the
+     <em>
+      anodos
+     </em>
+     in Greek). Sometimes she is surrounded by dancing Satyroi (Satyrs) in a scene from a lost Satyr-play by Sophokles.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF PANDORA
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     NONE (created by the gods)
+     <span class="family-refs">
+      (Hesiod Works &amp; Days 54, Hesiod Theogony 560, Aeschylus Frag 204, Sophocles Pandora, Pausanias 1.24.7, Hyginus Fabulae 142)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Heros/Deukalion.html">
+      PYRRHA
+     </a>
+     (by
+     <a href="../Titan/TitanEpimetheus.html">
+      Epimetheus
+     </a>
+     )
+     <span class="family-refs">
+      (Apollodorus 1.46, Hyginus Fabulae 142)
+      <br/>
+     </span>
+     [1.2]
+     <a href="../Heros/Deukalion.html">
+      PYRRHA
+     </a>
+     <span class="family-refs">
+      (Strabo 9.5.23)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     PANDO′RA (Pandôra), i. e. the giver of all, or endowed with every thing, is the name of the first woman on earth. When Prometheus had stolen the fire from heaven, Zeus in revenge caused Hephaestus to make a woman out of earth, who by her charms and beauty should bring misery upon the human race (Hes.
+     <em>
+      Theog.
+     </em>
+     571, &amp;c.; Stob.
+     <em>
+      Serin.
+     </em>
+     1). Aphrodite adorned her with beauty, Hermes gave her boldness and cunning, and the gods called her Pandora, as each of the Olympians had given her some power by which she was to work the ruin of man. Hermes took her to Epimetheus, who forgot the advice of his brother Prometheus, not to accept any gift from Zeus, and from that moment all miseries came down upon men (Hes.
+     <em>
+      Op. et Dies
+     </em>
+     , 50, &amp;c.). According to some mythographers, Epimetheus became by her the father of Pyrrha and Deucalion (Hygin.
+     <em>
+      Fab.
+     </em>
+     142; Apollod. i. 7. § 2 ; Procl.
+     <em>
+      ad Hes. Op.
+     </em>
+     p. 30, ed. Heinsius; Ov.
+     <em>
+      Met.
+     </em>
+     i. 350); others make Pandora a daughter of Pyrrha and Deucalion (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 23). Later writers speak of a vessel of Pandora, containing all the blessings of the gods, which would have been preserved for the human race, had not Pandora opened the vessel, so that the winged blessings escaped irrecoverably. The birth of Pandora was represented on the pedestal of the statue of Athena, in the Parthenon at Athens (Paus. i. 24. § 7). In the Orphic poems Pandora occurs as an infernal awful divinity, and is associated with Hecate and the Erinnyes (Orph.
+     <em>
+      Argon.
+     </em>
+     974). Pandora also occurs as a surname of Gaea (Earth), as the giver of all. (Schol.
+     <em>
+      ad Aristoph.
+     </em>
+     Av. 970; Philostr.
+     <em>
+      Vit. Apoll.
+     </em>
+     vi. 39; Hesych.
+     <em>
+      s.v.
+     </em>
+     )
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/T22.3.html">
+      <img alt="The creation of Pandora | Athenian red-figure kylix C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T22.3Pandora.jpg"/>
+     </a>
+     <figcaption>
+      The creation of Pandora, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Works &amp; Days 54 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "The gods keep hidden from men the means of life [i.e. fire] . . . Zeus in the anger of his heart hid it, because Prometheus the crafty deceived him; therefore he planned sorrow and mischief against men. He hid fire; but that the noble son of Iapetos stole again for men from Zeus the counsellor in a hollow fennel-stalk, so that Zeus who delights in thunder did not see it. But afterwards Zeus who gathers the clouds said to him in anger : ‘Son of Iapetos, surpassing all in cunning, you are glad that you have outwitted me and stolen fire--a great plague to you yourself and to men that shall be. But I will give men as the price for fire an evil thing in which they may all be glad of heart while they embrace their own destruction.’
+     <br/>
+     So said the father of men and gods, and laughed aloud. And he bade famous Hephaistos (Hephaestus) make haste and mix earth with water and to put in it the voice and strength of human kind, and fashion a sweet, lovely maiden-shape, like to the immortal goddesses in face; and Athene (Athena) to teach her needlework and the weaving of the varied web; and golden Aphrodite to shed grace upon her head and cruel longing and cares that weary the limbs. And he charged Hermes the guide, the Slayer of Argos, to put in her a shameless mind and a deceitful nature. So he ordered. And they obeyed the lord Zeus the son of Kronos (Cronus). Forthwith [Hephaistos] the famous Lame God moulded clay in the likeness of a modest maid, as the son of Kronos purposed. And the goddess bright-eyed Athene girded and clothed her, and the divine Kharites (Charites, Graces) and queenly Peitho (Persuasion) put necklaces of gold upon her, and the rich-haired Horai (Horae, Seasons) crowned her head with spring flowers. And Pallas Athene bedecked her form with all manners of finery. Also [Hermes] the Guide, the Slayer of Argos, contrived within her lies and crafty words and a deceitful nature at the will of loud thundering Zeus, and the Herald of the gods put speech in her. And he called this woman Pandora (All-Gifts), because all they who dwelt on Olympos gave each a gift, a plague to men who eat bread.
+     <br/>
+     But when he had finished the sheer, hopeless snare, the Father sent glorious Argus-Slayer [Hermes], the swift messenger of the gods, to take it to Epimetheus as a gift. And Epimetheus did not think on what Prometheus had said to him, bidding him never take a gift of Olympian Zeus, but to send it back for fear it might prove to be something harmful to men. But he took the gift, and afterwards, when the evil thing was already his, he understood.  For ere this the tribes of men lived on earth remote and free from ills (
+     <em>
+      kakoi
+     </em>
+     ) and hard toil (
+     <em>
+      ponoi
+     </em>
+     ) and heavy sickness (
+     <em>
+      nosoi
+     </em>
+     ) which bring the Keres (Fates) upon men; for in misery men grow old quickly. But the woman took off the great lid of the jar (
+     <em>
+      pithos
+     </em>
+     ) with her hands and scattered all these and her thought caused sorrow and mischief to men. Only Elpis (Hope) remained there in an unbreakable home within under the rim of the great jar, and did not fly out at the door; for ere that, the lid of the jar stopped her, by the will of Aigis-holding Zeus who gathers the clouds. But the rest, countless plagues (
+     <em>
+      lugra
+     </em>
+     ), wander amongst men; for earth is full of evils and the sea is full. Of themselves diseases (
+     <em>
+      nosoi
+     </em>
+     ) come upon men continually by day and by night, bringing mischief to mortals silently; for wise Zeus took away speech from them. So is there no way to escape the will of Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 510 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Scatter-brained Epimetheus who from the first was a mischief to men who eat bread; for it was he who first took of Zeus the woman [i.e. Pandora], the maiden whom he had formed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 560 ff :
+     </span>
+     <br/>
+     "[Zeus] was always mindful of the trick [of Prometheus, who had won for mankind the meat of the sacrificial beast,], and would not give the power of unwearying fire to the Melian race of mortal men who live on the earth. But [Prometheus] the noble son of Iapetos outwitted him and stole the far-seen gleam of unwearying fire in a hollow fennel stalk. And Zeus who thunders on high was stung in spirit, and his dear heart was angered when he saw amongst men the far-seen ray of fire. Forthwith he made an evil thing for men as the price of fire; for the very famous Limping God [Hephaistos (Hephaestus)] formed of earth the likeness of a shy maiden [i.e. Pandora] as [Zeus] the son of Kronos (Cronus) willed. And the goddess bright-eyed Athene (Athena) girded and clothed her with silvery raiment, and down from her head she spread with her hands an embroidered veil, a wonder to see; and she, Pallas Athene, put about her head lovely garlands, flowers of new-grown herbs. Also she put upon her head a crown of gold which [Hephaistos] the very famous Limping God made himself and worked with his own hands as a favor to Zeus his father. On it was much curious work, wonderful to see; for of the many creatures which the land and sea rear up, he put most upon it, wonderful things, like living beings with voices : and great beauty shone out from it.
+     <br/>
+     But when he had made the beautiful evil to be the price for the blessing, he brought her out, delighting in the finery which the bright-eyed daughter of a mighty father had given her, to the place where the other gods and men were. And wonder took hold of the deathless gods and mortal men when they saw that which was sheer guile, not to be withstood by men. 
+  For from her is the race of women and female kind: of her is the deadly race and tribe of women who live amongst mortal men to their great trouble, no helpmeets in hateful poverty, but only in wealth. And as in thatched hives bees feed the drones whose nature is to do mischief--by day and throughout the day until the sun goes down the bees are busy and lay the white combs, while the drones stay at home in the covered hives and reap the toil of others into their own bellies--even so Zeus who thunders on high made women to be an evil to mortal men, with a nature to do evil. And he gave them a second evil to be the price for the good they had: whoever avoids marriage and the sorrows that women cause, and will not wed, reaches deadly old age without anyone to tend his years, and though he at least has no lack of livelihood while he lives, yet, when he is dead, his kinsfolk divide his possessions amongst them. And as for the man who chooses the lot of marriage and takes a good wife suited to his mind, evil continually contends with good; for whoever happens to have mischievous children, lives always with unceasing grief in his spirit and heart within him; and this evil cannot be healed. 
+  So it is not possible to deceive or go beyond the will of Zeus: for not even the son of Iapetos, kindly Prometheus, escaped his heavy anger, but of necessity strong bands confined him, although he knew many a wile."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/T22.2.html">
+      <img alt="The creation of Pandora | Athenian red-figure calyx krater C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T22.2Pandora.jpg"/>
+     </a>
+     <figcaption>
+      The creation of Pandora, Athenian red-figure calyx krater C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, The Iliad 24. 527 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "There are two urns (
+     <em>
+      pithoi
+     </em>
+     ) that stand on the door-sill of Zeus. They are unlike for the gifts they bestow: an urn of evils (
+     <em>
+      kakoi
+     </em>
+     ), an urn of blessings (
+     <em>
+      dôroi
+     </em>
+     ). If Zeus who delights in thunder mingles these and bestows them on man, he shifts, and moves now in evil, again in good fortune. But when Zeus bestows from the urn of sorrows, he makes a failure of man, and hte evil hunger drives him over the shining earth, and he wanders resepected neither of gods nor mortals."
+     <br/>
+     [N.B. Later writers say that Zeus gave one of these two jars to Pandora. The poets were at odds as to which jar she received--Hesiod says it was the jar of evils (
+     <em>
+      kakoi
+     </em>
+     ), but Theognis and Aesop claim it was the jar of blessings (
+     <em>
+      dôroi
+     </em>
+     ). The name
+     <em>
+      Pan-dôra
+     </em>
+     ("all-gifts") perhaps suggests the latter.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theognis, Fragment 1. 1135 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Elpis (Hope) is the only good god remaining among mankind; the others have left and gone to Olympos. Pistis (Trust), a mighty god has gone, Sophrosyne (Restraint) has gone from men, and the Kharites (Charites, Graces), my friend, have abandoned the earth. Men's judicial oaths are no longer to be trusted, nor does anyone revere the immortal gods; the race of pious men has perished and men no longer recognize the rules of conduct or acts of piety."
+     <br/>
+     [N.B. Theognis' account is the reverse of Hesiod's--the good spirits escape from Pandora's jar, abandoning mankind in their flight back to heaven.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aesop, Fables 526 (from Babrius 58) (trans. Gibbs) (Greek fable C6th B.C.) :
+     </span>
+     <br/>
+     "Zeus gathered all the useful things together in a jar and put a lid on it. He then left the jar in human hands. But man had no self-control and he wanted to know what was in that jar, so he pushed the lid aside, letting those things go back to the abode of the gods. So all the good things flew away, soaring high above the earth, and Elpis (Hope) was the only thing left. When the lid was put back on the jar, Elpis (Hope) was kept inside. That is why Elpis (Hope) alone is still found among the people, promising that she will bestow on each of us the good things that have gone away."
+     <br/>
+     [N.B. "Human hands" alludes to the story of Pandora who delivered the jar to mankind. In this version, however, it is apparently her husband who opens it.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aesop, Fables 525 (from Chambry 1) (trans. Gibbs) (Greek fable C6th B.C.) :
+     </span>
+     <br/>
+     "The Good Things were too weak to defend themselves from the Bad Things, so the Bad Things drove them off to heaven. The Good Things then asked Zeus how they could reach mankind. Zeus told them that they should not go together all at once, only one at a time. This is why people are constantly besieged by Bad Things, since they are nearby, while Good Things come more rarely, since they must descend to us from heaven one by one."
+     <br/>
+     [N.B. This fable describes the spirits which had escaped from Pandora's jar. It also refers to the two jars set beside the throne of Zeus in the
+     <em>
+      Iliad
+     </em>
+     --one containing Good Things and the other Evils.]
+    </p>
+    <figure class="image-main image-main-275">
+     <a href="../Gallery/T22.1.html">
+      <img alt="Epimetheus, Pandora and Eros | Athenian red figure amphora C5th B.C. | Ashmolean Museum, Oxford" class="img-responsive center-block" src="../image/img_pandora.jpg"/>
+     </a>
+     <figcaption>
+      Epimetheus, Pandora and Eros (detail), Athenian red-figure amphora C5th B.C.,
+      <a href="http://www.ashmolean.org/" target="_blank">
+       Ashmolean Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 250 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Prometheus : Yes, I caused mortals to cease foreseeing their doom (
+     <em>
+      moros
+     </em>
+     ).
+     <br/>
+     Chorus : Of what sort was the cure that you found for this affliction?
+     <br/>
+     Prometheus : I caused blind hopes (
+     <em>
+      elpides
+     </em>
+     ) to dwell within their breasts.
+     <br/>
+     Chorus : A great benefit was this you gave to mortals."
+     <br/>
+     [N.B. This is presumably a reference to Pandora's jar--a curse concocted by Zeus to punish mankind for the theft of fire. Prometheus seems to be saying that he was the one who stayed Hope inside the jar when all the other spirits escaped.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 204 (from Proclus, Commentary on Hesiod's Works and Days 156)  :
+      <br/>
+     </span>
+     "A mortal woman from out a seed moulded of clay [i.e Pandora]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sophocles, Pandora (lost play) (C5th B.C.) :
+     </span>
+     <br/>
+     Sophocles wrote a Satyr-play entitled
+     <em>
+      Pandora
+     </em>
+     or
+     <em>
+      Sphyrocopi
+     </em>
+     which dramatised the story of the first woman.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Protagoras 320c - 322a (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Prometheus stole the mechanical arts of Hephaistos (Hephaestus) and Athene (Athena), and fire with them (they could neither have been acquired nor used without fire), and gave them to man . . . But Prometheus is said to have been afterwards prosecuted for theft, owing to the blunder of Epimetheus [i.e. because he accepted Pandora from Zeus]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 46 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Prometheus had a son Deukalion (Deucalion), who was king of the lands round Phthia and was married to Pyrrha, the daughter of Epimetheus and Pandora, the first woman created by the gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euphorion of Chalcis, Fragments (trans. Page, Vol. Select Papyri III, No. 121 (2b)) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Pandora, donor of evil (
+     <em>
+      kakodôros
+     </em>
+     ), man's sorrow self-imposed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 5. 23 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[The region of] Thessalia (Thessaly). But speaking of it as a whole, I may say that in earlier times it was called Pyrrhaia (Pyrrhaea), after Pyrrha the wife of Deukalion (Deucalion) . . . But some writers, dividing it into two parts, say that Deukalion obtained the portion towards the south and called it Pandora after his mother [i.e. his mother-in-law], and that the other part fell to Haimon (Haemon), after whom it was called Haimonia (Haemonia), but that the former name was changed to Hellas, after Hellen the son of Deukalion, and the latter to Thessalia, after the son of Haimon."
+     <br/>
+     [N.B. Pyrrha was the daughter of Pandora and wife of Deukalion. Deukalion named various parts of Thessalia after his wife and mother-in-law.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 24. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "On the pedestal [of the statue of Athena on the Akropolis in Athens] is the birth of Pandora in relief. Hesiod and others have sung how this Pandora was the first woman; before Pandora was born there was as yet no womankind."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 142 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Prometheus, son of Iapetus, first fashioned men from clay. Later Vulcanus [Hephaistos], at Jove's [Zeus'] command, made a woman's form from clay. Minerva [Athene] gave it life, and the rest of the gods each gave come other gift. Because of this they named her Pandora. She was given in marriage to Prometheus' brother Epimetheus. Pyrrha was her daughter, and was said to be the first mortal born."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 7 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Aion (Time) addresses Zeus :] ‘But, some may say, a medicine [Hope] has been planted to make long-suffering mortals forget their troubles, to save their lives. Would that Pandora had never opened the heavenly cover of that jar--she the sweet bane of mankind!’"
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.1.html">
+        <img alt="Thumbnail Pandora, Hephaestus, Hermes" src="../image/thumbT22.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.1 Hephaestus, Pandora, Hermes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.2.html">
+        <img alt="Thumbnail Pandora, Aphrodite, Ares" src="../image/thumbT22.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.2 Pandora, Aphrodite, Ares
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.3.html">
+        <img alt="Thumbnail Pandora, Hephaestus, Ares" src="../image/thumbT22.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.3 Pandora, Hephaestus, Ares
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T1.4.html">
+        <img alt="Thumbnail Pandora &amp; Dancing Panes" src="../image/thumbT1.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T1.4 Pandora &amp; Dancing Panes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Aesop, Fables
+      <span class="sources-detail">
+       - Greek Fables C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Protagoras
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Euphorion, Fragments
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     PANDORA SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      FIRST WOMAN PANDORA
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Crafted by the gods
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Husband
+       </th>
+       <td>
+        Epimetheus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Thessaly
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Pithos-jar
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>
