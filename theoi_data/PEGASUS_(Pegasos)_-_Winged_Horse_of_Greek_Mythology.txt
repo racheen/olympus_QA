@@ -1,0 +1,2100 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PEGASUS (Pegasos) - Winged Horse of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Pegasus was an immortal, winged horse which sprang from the neck of the beheaded Gorgon Medusa. It was tamed by Bellerophon who rode it into battle against the fire-breathing monster known as the Chimera. Later the hero attempted to fly to heaven but Zeus caused the horse to buck throwing him back down to earth in disgrace. Pegasus winged his way on to Olympus where he became the thunderbolt-bearer of Zeus." name="description"/>
+  <meta content="Pegasus, Pegasos, Greek mythology, winged horse, Pegasus pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt;
+     <a href="Hippoi.html">
+      Immortal Horses
+     </a>
+     &gt;&gt;  Pegasus (Pegasos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     PEGASOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Πηγασος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Pêgasos
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Pegasus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Of the Spring (
+       <em>
+        pêgê
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/P29.2.html">
+      <img alt="Pegasus | Athenian red-figure kylix C6th B.C. | Museum of Fine Arts Boston" class="img-responsive center-block" src="../image/P29.2Pegasos.jpg"/>
+     </a>
+     <figcaption>
+      Pegasus, Athenian red-figure kylix C6th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     PEGASOS (Pegasus) was an immortal, winged horse which sprang from the neck of the beheaded Gorgon Medousa (Medusa). 
+  It was tamed by
+     <a href="../Heros/Bellerophontes.html">
+      Bellerophon
+     </a>
+     who rode it into battle against the fire-breathing monster known as the
+     <a href="Khimaira.html">
+      Khimaira (Chimera)
+     </a>
+     . Later the hero attempted to fly to heaven but Zeus caused the horse to buck throwing him back down to earth in disgrace. Pegasos winged his way on to Olympos where he became the thunderbolt-bearer of Zeus.
+    </p>
+    <p>
+     Pegasos was commemorated amongst the stars as the
+     <a href="../greek-mythology/star-myths.html">
+      constellation
+     </a>
+     of the same name. Its rising marks the arrival of spring and, in Greece, of seasonal thunderstorms.
+    </p>
+    <p>
+     Pegasos' name means either "of the spring" from the Greek word
+     <em>
+      pêgê
+     </em>
+     , or "sprung forth" from the word
+     <em>
+      pêgazô
+     </em>
+     . The first alludes to the steed's connection with various springs, and the latter to its birth from the Gorgon's neck.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF PEGASUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Olympios/PoseidonFamily.html">
+      POSEIDON
+     </a>
+     &amp;
+     <a href="../Pontios/Gorgones.html">
+      MEDOUSA
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 278, Apollodorus 2.32 &amp; 2.42, Hyginus Fabulae 151 &amp; Astronomica 2.18, Ovid Metamorphoses 4.781 &amp; 6.119)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Pontios/Gorgones.html">
+      MEDOUSA
+     </a>
+     <span class="family-refs">
+      (Pindar Olympian Ode, Nonnus Dionysiaca 24.270)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     PE′GASUS (Pêgasos). The famous winged horse, whose origin is thus related. When Perseus struck off the head of Medusa, with whom Poseidon had had intercourse in the form of a horse or a bird, there sprang forth from her Chrysaor and the horse Pegasus. The latter obtained the name Pegasus because he was believed to have made his appearance near the sources (pêgai) of Oceanus. Pegasus rose up to the seats of the immortals, and afterwards lived in the palace of Zeus, for whom he carried thunder and lightning (IIes.
+     <em>
+      Theog.
+     </em>
+     281, &amp;c.; Apollod. ii. 3. § 2, 4. § 2 ; Schol.
+     <em>
+      ad Aristoph. Pac.
+     </em>
+     722; comp. Ov.
+     <em>
+      Met.
+     </em>
+     iv. 781, &amp;c. vi. 119). According to this view, which is apparently the most ancient, Pegasus was the thundering horse of Zeus; but later writers describe him as the horse of Eos (Schol.
+     <em>
+      ad Hom. Il.
+     </em>
+     vi. 155; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     17), and place him among the stars as the heavenly horse (Arat.
+     <em>
+      Phaen.
+     </em>
+     205, &amp;c.; Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 18 Ov.
+     <em>
+      Fast.
+     </em>
+     iii. 457, &amp;c.).
+    </p>
+    <p>
+     Pegasus also acts a prominent part in the fight of Bellerophon against the Chimaera (Hes.
+     <em>
+      Theog.
+     </em>
+     325; Apollod. ii. 3. § 2). After Bellerophon had tried and suffered much to obtain possession of Pegasus for his fight against the Chimaera, he consuited the soothsayer Polyidus at Corinth. The latter advised him to spend a night in the temple of Athena, and, as Bellerophon was sleeping, the goddess appeared to him in a dream, commanding him to sacrifice to Poseidon, and gave him a golden bridle. When he awoke he found the bridle, offered the sacrifice, and caught Pegasus, who was drinking at the well Peirene (Pind.
+     <em>
+      Ol.
+     </em>
+     xiii. 90, &amp;c. with the Schol.; Strab. viii. p. 379). According to some Athena herself tamed and bridled Pegasus, and surrendered him to Bellerophon (Paus. ii. 4. § 1), or Bellerophon received Pegasus from his own father Poseidon (Schol.
+     <em>
+      ad Hom. Il.
+     </em>
+     vi. 155). After he had conquered the Chimaera (Pindar says that he also conquered the Amazons and the Solymi,
+     <em>
+      Ol.
+     </em>
+     xiii. 125), he endeavoured to rise up to heaven with his winged horse, but fell down upon the earth, either from fear or from giddiness, or being thrown off by Pegasus, who was rendered furious by a gad-fly which Zeus had sent. But Pegasus continued his flight (Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 18 ; Pind.
+     <em>
+      Isthm.
+     </em>
+     vii. 6; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     17; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 636). Whether Hesiod considered Pegasus as a winged horse, cannot be inferred with certainty from the word apoptamenose; but Pindar, Euripides, and the other later writers, expressly mention his wings.
+    </p>
+    <p>
+     Pegasus lastly was also regarded as the horse of the Muses, and in this capacity he is more celebrated in modern times than he ever was in antiquity ; for with the ancients he had no connection with the Muses, except that by his hoof he called forth the inspiring well Hippocrene. The story about this well runs as follows. When the nine Muses engaged in a contest with the nine daughters of Pierus on Mount Helicon, all became darkness when the daughters of Pierus began to sing ; whereas during the song of the Muses, heaven, the sea, and all the rivers stood still to listen, and Helicon rose heavenward with delight, until Pegasus, on the advice of Poseidon, stopped its rising by kicking it with his hoof (Anton. Lib. 9); and from this kick there arose Hippocrene, the inspiring well of the Muses, on Mount Helicon, which, for this reason, Persius (
+     <em>
+      Prol.
+     </em>
+     1) calls
+     <em>
+      fons caballinus
+     </em>
+     (Ov.
+     <em>
+      Met.
+     </em>
+     v. 256). Others again relate that Pegasus caused the well to gush forth because he was thirsty; and in other parts of Greece also similar wells were believed to have been called forth by Pegasus, such as Hippocrene, at Troezene, and Peirene, near Corinth (Paus. ii. 31. § 12; Stat.
+     <em>
+      Theb
+     </em>
+     iv. 60). Pegasus is often seen represented in ancient works of art and on coins along with Athena and Bellerophon.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Birth">
+     THE BIRTH OF PEGASUS
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/P23.8.html">
+      <img alt="Birth of Pegasus and Chrysaor, beheaded Medusa, Perseus and the Gorgons | Athenian black-figure pyxis C6th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/P23.8Gorgones.jpg"/>
+     </a>
+     <figcaption>
+      Birth of Pegasus and Chrysaor, beheaded Medusa, Perseus and the Gorgons, Athenian black-figure pyxis C6th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 280 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "But when Perseus had cut off the head of Medousa (Medusa) there sprang from her blood stout-hearted Khrysaor (Chrysaor) and the horse Pegasos so named from the  springs (
+     <em>
+      pegai
+     </em>
+     ) of Okeanos (Oceanus), where he was born."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 42 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When he [Perseus] saw Medousa (Medusa), he beheaded her. As soon as her head was severed there leaped from her body the winged horse Pegasos and Khrysaor (Chrysaor), the father of Geryon. The father of these two was Poseidon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 840 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The harvester [Perseus] who delivered of her [Medousa's (Medusa's)] pains in birth of horse [Pegasos] and man [Khrysaor (Chrysaor)] the stony-eyed weasel whose children sprang from her neck.”
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 8. 6. 20 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Pegasos, a winged horse which sprang from the neck of the Gorgon Medousa (Medusa) when her head was cut off."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 151 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Medusa, daughter of Gorgon, and Neptunus [Poseidon], were born Chrysaor and horse Pegasus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 786 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "While deep sleep held fast Medusa and her snakes, he [Perseus] severed her head clean from her neck; and from their mother's blood swift-flying Pegasus and his brother [Khrysaor (Chrysaor)] sprang . . . she [Medusa], it's said, was violated in Minerva's [Athena's] shrine by the Lord of the Sea (
+     <em>
+      Rector Pelagi
+     </em>
+     ) [Poseidon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 119 ff :
+     </span>
+     <br/>
+     "[Poseidon] as a bird [mated with] the snake-haired mother [Medousa (Medusa)] of the flying steed [Pegasos]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 449 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Men believe it [Pegasos] sprang with its blood-spattered mane from the butchered Medusa's pregnant neck. As it glided above the clouds and beneath the stars, the sky was its earth and wings were its feet."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 13 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "As Medousa (Medusa) was slain [by Perseus], the neck was delivered of its twin birth, the Horse [Pegasos] and the Boy  with the golden sword [Khrysaor (Chrysaor)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 270 ff  :
+     </span>
+     <br/>
+     "[Perseus] shore off the snaky swathe of one Medousa, while her womb was still burdened and swollen with young, still in foal of Pegasos; what good if the sickle played the part of childbirth Eileithyia, and reaped the neck of the pregnant Gorgon, firstfruits of a horsebreeding neck?"
+    </p>
+    <hr/>
+    <h3 id="Hippokrene">
+     PEGASUS &amp; THE SPRING OF HIPPOCRENE
+    </h3>
+    <p>
+     Hippokrene (Hippocrene) was the sacred spring of the Mousai (Muses) on Mount Helikon (Helicon) in Boiotia. It was said to have burst forth from the ground where struck by the hoof of the winged horse Pegasos.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 206 ff (trans. Mair) (Greek astronomical poem C3rd B.C.) :
+     </span>
+     <br/>
+     "The huge [constellation] Horse (Hippos) . . . He [Pegasos] it was, men say, that brought down from lofty Helikon (Helicon) the bright water of bounteous Hippokrene (Hippocrene). For not yet on Helikon's summit trickled the fountain's springs, but the Horse smote it and straightway the gushing water was shed abroad at the stamp of his forefoot, and herdsmen were the first to call that stream the fountain of the Horse. From the rock the water wells and never shalt thou see it far from the men of Thespiai (Thespiae); but the Horse himself circles in the heaven of Zeus and is there for thee to behold."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 8. 6. 20 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The same horse [Pegasos], it is said, caused Hippu-krene (Horse Fountain) to spring up on Helikon (Helicon) when he struck with his hoof the rock that lay below that mountain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 31. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Ascending about twenty stades from this grove [of the Mousai (Muses) on Mount Helikon in Boiotia] is what is called the Hippokrene (Hippocrene, Horse's Fountain). It was made, they say, by [Pegasos] the horse of Bellerophon striking the ground with this hoof."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 31. 9 :
+     </span>
+     <br/>
+     "Among the means of cleansing [by ritual purification] which they say they [the people of Troizenos (Troezen), Argolis] used to cleanse Orestes was water from Hippokrene (Horse's Fountain}; for the Troizenians too have a fountain called the Horse's, and the legend about it does not differ from the one which prevails in Boiotia (Boeotia). For they, too, say that the earth sent up the water when the horse Pegasos struck the ground with his hoof, and that Bellerophontes came to Troizenos to ask Pittheus to give him Aithra (Aethra) to wife."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 9 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When the Mousai (Muses) sang, heaven, the stars, the sea and rivers stood still, while Mount Helikon (Helicon), beguiled by the pleasure of it all, swelled skyward till, by the will of Poseidon, Pegasos checked it by striking the summit with his hoof."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callistratus, Descriptions 7 (trans. Fairbanks) (Greek rhetorician C4th A.D.) :
+     </span>
+     <br/>
+     "On Helikon (Helicon)--the spot is a shaded precinct sacred to the Mousai (Muses)--near the torrent of the river Olmeios and the violet-dark spring of Pegasos, there stood  the [statues of the] Mousai."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 18 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Pegasus, offspring of Neptunus [Poseidon] and the Gorgon Medusa, who on Helicon, a mountain of Boeotia, opened up a spring by striking the rock with his hoof. From him the spring is called Hippocrene."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 449 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "It [Pegasos] had only just protested its strange bridling [by Bellerophon], when its light hoof dug Aonia's spring [i.e. the Hippokrene (HIppocrene)]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 5. 254 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Helicon, the Musae's (Muses') mountain home. Alighting there she [Athena] stopped and thus addressed the learned sisters : ‘there has reached my ears a tale of a new fountain that burst forth beneath the hooves of flying Medusaeus [Pegasos, child of Medousa (Medusa)]. That is my journey's purpose, my desire to see the miracle. I saw that horse brought into being from his mother's blood.’
+     <br/>
+     Uranie replied : ‘Whatever cause may bring you to our home, you find our hearts most welcoming. The tale indeed is true; the author of the spring is Pegasus.’
+     <br/>
+     She led Pallas [Athena] to the sacred spring. The waters issuing from his hoof's hard stroke long held her wondering eyes; then she gazed round at the green bowers of the ancient woods, the caves and grottoes and the spangled lawns with all their countless flowers."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 3. 3 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "I dreamed that lying in the soft shade of Helicon, where flows the fountain of Bellerophon's horse [Pegasos], I possessed the power to proclaim my lyre's accompaniment Alba's kings and their deeds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 44. 6 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "A fountain [Hippokrene (Hippocrene)] bubbled on the spot where the horse's [Pegasos'] wet hoof scratched the surface of the ground and made a hollow for the water which took its name from him."
+    </p>
+    <hr/>
+    <h3 id="Bellerophon">
+     PEGASUS, BELLEROPHON &amp; THE CHIMERA
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/M14.1.html">
+      <img alt="Bellerophon, Pegasus and the Chimera | Laconian black-figure kylix C6th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/M14.1Khimaira_sm.jpg"/>
+     </a>
+     <figcaption>
+      Bellerophon, Pegasus and the Chimera, Laconian black-figure kylix C6th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 325 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "But Khimaira (Chimera) was killed by Pegasos and gallant Bellerophon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 7 (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And when he [Bellerophon] began to roam, his father [Poseidon] gave him Pegasos who would bear him most swiftly on his wings, and flew unwearying everywhere over the earth, for like the gales he would course along. With him Bellerophon caught and slew the fire-breathing Khimaira (Chimera)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 13. 63 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "[Bellerophon] once strove in vain beside Peirene's spring, and suffered much, seeking to yoke the snake-haired Gorgo's offspring, Pegasos. Till Pallas [Athena], goddess maid, brought him the bridle and golden headband, and behold a dream was truth. ‘Sleep not, Aiolid king,’ said she, ‘but take this charm of steeds, and offer the Horse-Tamer [Poseidon], your sire, a snow-white bull, and show to him this bridle.’ 
+  Such words, as he lay slumbering in the dark, it seemed the maiden of the shadowy aegis spoke unto him, and he leapt to his feet and seized the magic bit, that lay beside him on the ground; and went with joy to find the prophet of his country's people the son of Korianos (Corianus). And he made known to him the whole issue of this strange matter--how that he had lain the whole night through upon the goddess' altar, as the seer had foretold him, and how the child of Zeus whose sword is lightning, in her own hands brought him the golden charm that tames the savage spirit. And the prophet bade him obey at once the magic vision, and to Poseidon, the earth-holder, to sacrifice the strong-limbed bull. Then too that he should build an altar with all speed to Athene, queen of steeds. Yet the gods' power can lightly bring to pass such things as will deny both the sworn word and all the hopes of men. Thus with all zeal mighty Bellerophon seized the winged steed, setting between his jaws the soothing charm, and mounting him, in his bronze panoply played him in sport, to try his pace. And once, with him, he smote the Amazones (Amazons), from the chill bosom of the lonely air, that archered host of women-kind; and felled Khimaira (Chimera) breathing fire, and slew the Solymoi (Solymi). His fate--'twere best unspoken. But Pegasos dwells in the ancient stalls of Zeus upon Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Isthmian Ode
+     </span>
+     <span class="quote-greek">
+      7. 44 ff :
+     </span>
+     <br/>
+     "Pegasos winged high threw down to earth his lord Bellerophon, who thought to reach the abodes of heaven, and share the company of Zeus. Sweets gained unrightly await an end most bitter."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 32 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Bellerophon mounted Pegasos, his winged horse born of Medousa (Medusa) and Poseidon, and flying into the air brought down the Khimaira (Chimera) with his bow and arrows."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 8. 6. 20 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Peirene [a spring of the city of Korinthos (Corinth)] was wont to rise over the surface and flow down the sides of the mountain. And here, they say, Pegasos, a winged horse which sprang from the neck of the Gorgon Medousa (Medusa) when her head was cut off, was caught while drinking by Bellerophon. And the same horse, it is said, caused Hippu-krene (Horse Fountain) to spring up on Helikon when he struck with his hoof the rock that lay below that mountain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 1. 9 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[In the temple of Poseidon on the Isthmos of Korinthos (Corinth) :] Among the reliefs on the base of the statue of Poseidon are the sons of Tyndareus, because these too are saviours of ships and of sea-faring men. The other offerings are images of Calm and of Sea, a horse like a whale from the breast onward, Ino and Bellerophontes, and the horse Pegasos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 3. 5 :
+     </span>
+     <br/>
+     "The Korinthians (Corinthians) have baths in many parts of the city . . . The most famous of them is near the Poseidon. It was made by the Spartan Eurykles (Eurycles), who beautified it with various kinds of stone, especially the one quarried at Krokeai (Croceae) in Lakonia. On the left of the entrance stands a Poseidon, and after him Artemis hunting. Throughout the city are many wells, for the Korinthians have a copious supply of flowing water . . . but the most noteworthy is the one by the side of the image of Artemis. Over it is a Bellerophontes, and the water flows through the hoof of the horse Pegasos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 4. 1 :
+     </span>
+     <br/>
+     "Athena, they say. Was the divinity who gave most help to Bellerophontes, and she delivered to him Pegasos, having herself broken in and bridled him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 31. 9 :
+     </span>
+     <br/>
+     "They [the people of Troizenos (Troezen) in Argolis], too, say that the earth sent up the water when the horse Pegasos struck the ground with his hoof, and that Bellerophontes came to Troizen to ask Pittheus to give him Aithra (Aethra) to wife."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 57 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Iobates [king of Lykia (Lycia)] was reluctant to kill the hero [Bellerophon], but sent him to kill the Chimaera, a three-formed creature said to breathe forth fire. Likewise : forepart lion, rearpart snake, middle she-goat. This he slew, riding on Pegasus, and he is said to have fallen in the Aleian plains and to have dislocated his hip."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 18 :
+     </span>
+     <br/>
+     "[Proitos (Proetus)] knowing that he [Bellerophon] had the horse Pegasus, sent him to the father of Antia--some call her Sthenoboea--, for him to defend his daughter's chastity and send the youth against the Chimera, which at that time was laying waste with flames the country of the Lycians. 
+  Bellerophon was victor, and escaped, but after the creation of the spring, as he was attempting to fly to heaven, and had almost reached it, he became terrified looking down at the earth, and fell off and was killed. But the horse is said to have flown up and to have been put among the constellations by Jove [Zeus]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 449 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Pegasus] had only just protested its strange bridling [by Bellerophon], when its light hoof dug Aonia's spring [the Hippokrene (Hippocrene)]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 8. 16 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "I reflected that it was panic more than anything which had induced the celebrated Pegasus to take to the air, and that the tradition that he had wings was justified because he leapt upward as high as heaven in his fear of being bitten by the fire-breathing Chimaera."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Oppian, Cynegetica 1. 225 ff (trans. Mair) (Greek poet C3rd A.D.) :
+     </span>
+     <br/>
+     "To Horses beyond all mortal creatures cunning Nature has given a subtle mind and heart . . . A horse [Pegasos] carried above the clouds him [Bellerophon] that slew the Khimaira (Chimera)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 142 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Quickwing Pegasos threw Bellerophontes and sent him headlong down from the sky, although he was of the seed of Earthshaker [Poseidon] and the horse himself shared the kindred blood of Poseidon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 28. 167 ff :
+     </span>
+     <br/>
+     "Pegasos flying high in the air as swift in his course as the wandering wind, threw Bellerophontes."
+    </p>
+    <hr/>
+    <h3 id="Constellation">
+     THE CONSTELLATOIN PEGASUS
+    </h3>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/P29.1.html">
+      <img alt=" Pegasus | Apulian red-figure vase C4th B.C. | Tampa Museum of Art" class="img-responsive center-block" src="../image/P29.1Pegasos.jpg"/>
+     </a>
+     <figcaption>
+      Pegasus at the spring, Apulian red-figure vase C4th B.C.,
+      <a href="http://tampamuseum.org/" target="_blank">
+       Tampa Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 280 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Pegasos, soaring, left the earth, the mother of sheep flocks, and came to the immortals, and there he lives in the household of Zeus, and carries the thunder and lightning for Zeus of the counsels."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 13. 92 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Pegasos dwells in the ancient stalls of Zeus upon Olympos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Phaedrus 246 (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "A pair of winged horses and a charioteer. Now the winged horses and the charioteers of the gods are all of them noble and of noble descent . . . Zeus, the mighty lord, holding the reins of a winged chariot, leads the way in heaven, ordering all and taking care of all; and there follows him the array of gods and demigods, marshalled in eleven bands [the twelve Olympians]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aratus, Phaenomena 206 ff (trans. Mair) (Greek astronomical poem C3rd B.C.) :
+     </span>
+     <br/>
+     "The huge [constellation] Horse (Hippos) [is Pegasos] . . . the Horse himself circles in the heaven of Zeus and is there for thee to behold."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 18 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Constellation Horse. This sign Aratus and many others have called Pegasus, offspring of Neptunus [Poseidon] and the Gorgon Medusa . . . As he [Bellerophon] was attempting to fly to heaven, and had almost reached it, he became terrified looking down at the earth, and fell off and was killed. But the horse [Pegasos] is said to have flown up and to have been put among the constellations by Jove [Zeus]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 449 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Now when stars spangle the deep blue heavens, look up: you'll see the neck of the Gorgonian horse [the constellation Pegasos]. Men believe it sprang with its blood-spattered mane from the butchered Medusa's pregnant neck. As it glided above the clouds and beneath the stars, the sky was its earth and wings were its feet. It had only just protested its strange bridling [by Bellerophon], when its light hoof dug Aonia's spring [the Hippokrene (Hippocrene)]. Now it enjoys the sky, which it wings sought before, and gleams resplendent with five stars and ten."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 37. 265 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Pegasos flying on high quickly cut the air on his long wings."
+    </p>
+    <hr/>
+    <h3 id="Pegasoi">
+     THE PEGASI HORSES
+    </h3>
+    <p>
+     Pegasoi or winged horses (
+     <em>
+      hippoi pteretoi
+     </em>
+     ) were often depicted in ancient art drawing the chariots of the gods, especially those of the sun-god Helios and moon-goddes Selene. In myth the hero Pelops was  given a chariot drawn by winged horses by the god Poseidon. A species of winged horse is also described in Greek legend--animals  believed to be indigenous to the mysterious land of Aithiopia (Ethiopia)--see
+     <a href="../Thaumasios/PegasoiAithiopikoi.html">
+      Pegasoi Aithiopikoi
+     </a>
+     .
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Critias (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[In the temple of Poseidon on the mythical island of Atlantis :] Here was the [statue of the] god himself standing in a chariot--the charioteer of six winged horses [Pegasoi]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 17. 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the chest of Kypselos (Cypselus) dedicated at Olympia :] Oinomaos (Oenomaus) is chasing Pelops, who is holding Hippodameia. Each of them has two horses, but those of Pelops have wings."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 19. 8 :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the chest of Kypselos dedicated at Olympia :] Next come two-horse chariots with women standing in them. The horses have golden wings, and a man is giving armour to one of the women. I conjecture that this scene refers to the death of Patroklos (Patroclus); the women in the chariots, I take it, are Nereides, and Thetis is receiving the armour from Hephaistos (Hephaestus)."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.18.html">
+        <img alt="Thumbnail Perseus, Medusa, Pegasus" src="../image/thumbP23.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.18 Perseus, Medusa, Pegasus
+        </h3>
+        <p>
+         Athenian Bilingual Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.19.html">
+        <img alt="Thumbnail Poseidon, Medusa, Pegasus" src="../image/thumbP23.19.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.19 Poseidon, Medusa, Pegasus
+        </h3>
+        <p>
+         Boeotian Black  Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P23.8.html">
+        <img alt="Thumbnail Gorgons, Medusa, Pegasus" src="../image/thumbP23.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P23.8 Gorgons, Medusa, Pegasus
+        </h3>
+        <p>
+         Athenian Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P30.1.html">
+        <img alt="Thumbnail Fish-Tailed Pegasus" src="../image/thumbP30.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P30.1 Fish-Tailed Pegasus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P29.2.html">
+        <img alt="Thumbnail Decorative Pegasus" src="../image/thumbP29.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P29.2 Decorative Pegasus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P29.1.html">
+        <img alt="Thumbnail Pegasus at the Spring" src="../image/thumbP29.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P29.1 Pegasus at the Spring
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P29.4.html">
+        <img alt="Thumbnail Pegasus in Flight" src="../image/thumbP29.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P29.4 Pegasus in Flight
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M14.1.html">
+        <img alt="Thumbnail Bellerophon, Pegasus, Chimera" src="../image/thumbM14.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M14.1 Bellerophon, Pegasus, Chimera
+        </h3>
+        <p>
+         Laconian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P29.3.html">
+        <img alt="Thumbnail Bellerophon, Pegasus, Chimera" src="../image/thumbP29.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P29.3 Bellerophon, Pegasus, Chimera
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M14.4.html">
+        <img alt="Thumbnail Chimera &amp; Pegasus" src="../image/thumbM14.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M14.4 Chimera &amp; Pegasus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M14.5.html">
+        <img alt="Thumbnail Bellerophon, Pegasus, Chimera" src="../image/thumbM14.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M14.5 Bellerophon, Pegasus, Chimera
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z44.1.html">
+        <img alt="Thumbnail Bellerophon, Pegasus, Chimera" src="../image/thumbZ44.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z44.1 Bellerophon, Pegasus, Chimera
+        </h3>
+        <p>
+         Greco-Roman Palmyra Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z44.2.html">
+        <img alt="Thumbnail Bellerophon, Pegasus, Chimera" src="../image/thumbZ44.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z44.2 Bellerophon, Pegasus, Chimera
+        </h3>
+        <p>
+         Greco-Roman Nimes Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R47.1.html">
+        <img alt="Thumbnail Perseus, Medusa, Pegasus" src="../image/thumbR47.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R47.1 Perseus, Medusa, Pegasus
+        </h3>
+        <p>
+         Greek Bas-Relief B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R44.1.html">
+        <img alt="Thumbnail Bellerophon, Pegasus, Chimera" src="../image/thumbR44.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R44.1 Bellerophon, Pegasus, Chimera
+        </h3>
+        <p>
+         Greek Bas-Relief B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Critias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Phaedrus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/AratusPhaenomena.html">
+       Aratus, Phaenomena
+      </a>
+      <span class="sources-detail">
+       - Greek Astronomy C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Cynegetica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     PEGASUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE HORSE PEGASUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Poseidon and Medusa
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Winged horse
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Constellation
+       </th>
+       <td>
+        Pegasus
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     PEGASUS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Pegasus
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Birth">
+       The Birth of Pegasus
+      </a>
+     </li>
+     <li>
+      <a href="#Hippokrene">
+       Pegasus &amp; the Spring of Hippocrene
+      </a>
+     </li>
+     <li>
+      <a href="#Bellerophon">
+       Pegasus, Bellerophon &amp; the Chimera
+      </a>
+     </li>
+     <li>
+      <a href="#Constellation">
+       The Constellation Pegasus
+      </a>
+     </li>
+     <li>
+      <a href="#Pegasoi">
+       The Pegasi Horses
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

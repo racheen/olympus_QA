@@ -1,0 +1,1835 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   DEUCALION (Deukalion) - Hero of the Great Deluge of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Deucalion and Pyrrha were the first king and queen of the northern reaches of Greece. Deucalion was the son of Prometheus, creator of mankind, and Pyrrha the daughter of Pandora, the first woman. The couple lived in the time of the Bronze Race of Mankind--a third, warlike generation born after the virtuous Silver and Gold races. Zeus was angered by their impiety and destroyed them with the Great Deluge. Only Deucalion and Pyrrha survived the apocalypse--having been warned of the impending calamity by Prometheus. Mounting a chest the couple found refuge on the dry peaks of Mount Parnassus." name="description"/>
+  <meta content="Deucalion, Deukalion, Pyrrha, Greek mythology, hero, heroine, Great Deluge, Thessalian king" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-river.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Kings &amp; Heroes
+     </a>
+     &gt;&gt; Deucalion &amp; Pyrrha (Deukalion)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     DEUKALION &amp; PYRRHA
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Δευκαλιων
+      </p>
+      <p class="names-greek">
+       Πυρρα
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Deukalion
+      </p>
+      <p>
+       Pyrrha
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Deucalion
+      </p>
+      <p>
+       Pyrrha
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       --
+      </p>
+      <p>
+       Fiery (
+       <em>
+        pyrrhos
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     DEUKALION (Deucalion) and PYRRHA were the first king and queen of the northern reaches of Greece--Opountian Lokris (Opuntian Locris), Malis, Phthiotis and Thessalia (Thessaly). Deukalion was the son of Prometheus, creator of mankind, and Pyrrha   the daughter of Pandora, the first woman.
+    </p>
+    <p>
+     The couple lived in the time of the Bronze Race of Mankind--a third, warlike generation born after the virtuous Silver and Gold races. Zeus was angered by their impiety and destroyed them with the Great Deluge. Only Deukalion and Pyrrha survived the apocalypse--having been warned of the impending calamity by Prometheus. Mounting a chest the couple found refuge the dry peaks of Mount Parnassos. Other regions also claimed survivors--King Dardanos was said to have sought refuge on Mount Ida in the Troad, Kerambos was carried to the heights of Mount Othrys by the Nymphs, Megaros  fled to Mount Gerana, Arkas and Nyktimos were preserved on Mount Kyllene in Arkadia, and the tribes of Parnassos fled to the heights above Delphoi.
+     <a href="../Heroine/Io.html">
+      Io
+     </a>
+     and her son Epaphos, who lived in Egypt, were also preserved. Zeus then let the waters to recede and, in the north
+     <a href="../Olympios/Poseidon.html">
+      Poseidon
+     </a>
+     , split the  mountains at the Vale of Tempe to release the waters trapped in the Thessalian plain.
+    </p>
+    <p>
+     Deukalion and Pyrrha consulted the Delphic oracle asking how they might repopulate the now desolate earth and were told to cast the bones of their mother over their shoulders. They mulled on the riddle and realised the bones were the stones of
+     <a href="../Protogenos/Gaia.html">
+      Mother Earth
+     </a>
+     --casting these, Deuckalion producing a tribe of men and Pyrrha women.
+    </p>
+    <p>
+     Deukalion had a number of sons and daughters. The most famous of these were Hellen, the eponymous king of the Hellenes (i.e. the Greeks), and three maidens loved by the god Zeus--Pandora (who was named after her maternal grandmother), Protogeneia and Thyia. Deukalion's descendants ruled  most of the kingdoms of  Greece in the mythic age. His most famous great-grandsons included Sisyphos,
+     <a href="Salmoneus.html">
+      Salmoneus
+     </a>
+     , Athamas, Diktys and Polydektes, Ion and
+     <a href="Endymion.html">
+      Endymion
+     </a>
+     . The intervening generations consisted mostly of eponyms--that is, figures who gave their names to tribes or places and which had little or no mythology.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF DEUCALION &amp; PYRRHA
+    </h2>
+    <h3>
+     PARENTS OF DEUKALION
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Titan/TitanPrometheus.html">
+      PROMETHEUS
+     </a>
+     &amp;
+     <a href="../Nymphe/NymphePronoia.html">
+      PRONOIA
+     </a>
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 1)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Titan/TitanPrometheus.html">
+      PROMETHEUS
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.7.2, Apollonius Rhodius 3.1086, Ovid Metamorphoses 1.390)
+     </span>
+    </p>
+    <h3>
+     PARENTS OF PYRRHA
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Titan/TitanEpimetheus.html">
+      EPIMETHEUS
+     </a>
+     &amp;
+     <a href="../Heroine/Pandora.html">
+      PANDORA
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.46, Ovid Metamorphoses 1.390, Hyginus Fabulae 142)
+      <br/>
+     </span>
+     [1.2]
+     <a href="../Heroine/Pandora.html">
+      PANDORA
+     </a>
+     <span class="family-refs">
+      (Strabo 9.5.23)
+      <br/>
+     </span>
+     [1.3]
+     <a href="../Titan/TitanEpimetheus.html">
+      EPIMETHEUS
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 155)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING OF DEUKALION
+    </h3>
+    <p>
+     [1.1] HELLEN, AMPHIKTYON, PROTOGENEIA
+     <span class="family-refs">
+      (Apollodorus 1.7.2)
+     </span>
+     <br/>
+     [2.1] HELLEN (by Pyrrha)
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 1, Strabo 9.5.6, 9.5.23)
+     </span>
+     <br/>
+     [3.1] PANDORA
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 2)
+     </span>
+     <br/>
+     [3.2] PROTOGENEIA (by Pyrrha)
+     <span class="family-refs">
+      (Pindar Olympian 9.42)
+     </span>
+     <br/>
+     [3.3] PROTOGENEIA
+     <span class="family-refs">
+      (Pausanias 5.1.3, Hyginus Fabulae 155)
+     </span>
+     <br/>
+     [3.4] PROTOGENEIA, PANDORA
+     <span class="family-refs">
+      (Clement Exhortations 10.21)
+     </span>
+     <br/>
+     [4.1] THYIA
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 3)
+     </span>
+     <br/>
+     [5.1.] ORESTHEUS
+     <span class="family-refs">
+      (Pausanias 10.38.1)
+     </span>
+     <br/>
+    </p>
+    <h3>
+     OFFSPRING OF PYRRHA
+    </h3>
+    <p>
+     [1.1] See "Offspring of Deukalion" above
+     <br/>
+     [1.2] HELLEN (by
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Hyginus Fabulae 155)
+     </span>
+     <br/>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     DEUCALION (Deukaliôn), a son of Prometheus and Clymene. He was king in Phthia, and married to Pyrrha. When Zeus, after the treatment he had received from Lycaon, had resolved to destroy the degenerate race of men who inhabited the earth, Deucalion, on the advice of his father, built a ship, and carried into it stores of provisions; and when Zeus sent a flood all over Hellas, which destroyed all its inhabitants, Deucalion and Pyrrha alone were saved. After their ship had been floating about for time days, it landed, according to the common tradition, on mount Parnassus; others made it land on mount Othrys in Thessaly, on mount Athos, or even on Aetna in Sicily. (Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     ix. 64; Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vi. 41; Hygin.
+     <em>
+      Fab.
+     </em>
+     153.) These differences in the story are probably nothing but local traditions; in the same manner it was believed in several places that Deucalion and Pyhrra were not the only persons that were saved. Thus Megarus, a son of Zeus, escaped by following the screams of cranes, which led him to the summit of mount Gerania (Paus. i. 40. § 1); and the inhabitants of Delphi were said to have been saved by following the howling of wolves, which led them to the summit of Parnassus, where they founded Lycoreia. (Paus. x. 6. § 2.) When the waters had subsided, Deucalion offered up a sacrifice to Zeus Phyxius, that is, the helper of fugitives, and thereupon the god sent Hermes to him to promise that he would grant any wish which Deucalion might entertain. Deucalion prayed that Zeus might restore mankind. According to the more common tradition, Deucalion and Pyrrha went to the sanctuary of Themis, and prayed for the same thing. The goddess bade therm cover their heads and throw the bones of their mother behind them in walking from the temple. After some doubts and scruples respecting the meaning of this command, they agreed in interpreting the bones of their mother to mean the stones of the earth; and they accordingly threw stones behind them, and from those thrown by Deucalion there sprang up men, and from those of Pyrrha women. Deucalion then descended from Parnassus, and built his first abode at Opus (Pind.
+     <em>
+      Ol.
+     </em>
+     ix. 46), or at Cynus (Strab. ix. p. 425; Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     ix. 64), where in later times the tomb of Pyrrha was shown. Concerning the whole story, see Apollod. i. 7. § 2; Ov.
+     <em>
+      Met.
+     </em>
+     i. 260, &amp;c. There was also a tradition that Deucalion had lived at Athens, and the sanctuary of the Olympian Zeus there was regarded as his work, and his tomb also was shown there in the neighbourhood of the sanctuary. (Paus. i. 18. § 8.) Deucalion was by Pyrrha the father of Hellen, Amphictyon, Protogeneia, and others. Strabo (ix. p. 435) states, that near the coast of Phthiotis there were two small islands of the name of Deucalion and Pyrrha.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Descendants">
+     FAMILY &amp; DESCENDANTS OF DEUCALION
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 1 (from Scholiast on Apollonius Rhodius, Arg. 3. 1086) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "That Deukalion (Deucalion) was the son of Prometheus and Pronoia (Pronoea), Hesiod states in the first
+     <em>
+      Catalogue
+     </em>
+     , as also that Hellen was the son of Deukalion and Pyrrha."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 2 (from Ioannes Lydus, de Mens. 2. 13) :
+     </span>
+     <br/>
+     "They came to call those who followed local manners Latins, but those who followed Hellenic customs Greeks, after the brothers Latinos (Latinus) and Graikos (Graecus); as Hesiod says : ‘And in the palace Pandora the daughter of noble Deukalion (Deucalion) was joined in love with father Zeus, leader of all the gods, and bare Graikos, staunch in battle.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 3 (from Constantinus Porphyrogenitus, de Them. 2. 48B) :
+     </span>
+     <br/>
+     "The district Makedonia (Macedonia) took its name from Makedon (Macedon) the son of Zeus and Thyia, Deukalion's (Deucalion's) daughter, as Hesiod says : ‘And she conceived and bare to Zeus who delights in the thunderbolt two sons, Magnes and Makedon, rejoicing in horses, who dwell round about Pieria and Olympos.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 3 (from Scholiast on Apollonius Rhodius, Arg. 4. 266) :
+     </span>
+     <br/>
+     "Those who were descended from Deukalion (Deucalion) used to rule over Thessalia (Thessaly) as Hekataios (Hecataeus) and Hesiod say."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 9. 42 (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Let Protogeneia's city [i.e. Lokrian Opous (Locrian Opus)] play on your tongue, where by decree of Zeus . . . there came Deukalion (Deucalion) and Pyrrha, down from Parnassos' height." [N.B. Protogeneia is a daughter of Deukalion and Pyrrha.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 7. 2 - 3 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "And Prometheus had a son Deukalion (Deucalion). He reigning in the regions about Phthia, married Pyrrha, the daughter of Epimetheus and Pandora . . . Deukalion had children by Pyrrha, first Hellen, whose father some say was Zeus, and second Amphiktyon (Amphictyon), who reigned over Attika after Kranaus (Cranaus); and third a daughter Protogenia, who became the mother of Aethlios by Zeus.
+     <br/>
+     Hellen had Doros (Dorus), Xouthos (Xuthus), and Aiolos (Aeolus) by a nymph Orseis. Those who were called Greeks he named Hellenes after himself, and divided the country among his sons. Xouthos received Peloponnesos and begat Akhaios (Achaeus) and Ion by Kreousa (Creusa), daughter of Erekhtheus (Erechtheus), and from Akhaios and Ion the Akhaians (Achaeans) and Ionians derive their names. Doros received the country over against Peloponnesos and called the settlers Dorians after himself. Aiolos reigned over the regions about Thessalia (Thessaly) and named the inhabitants Aiolians (Aeolians). He married Enarete, daughter of Deimakhos (Deimachus), and begat seven sons, Kretheus (Cretheus), Sisyphos, Athamas, Salmoneus, Deion, Magnes, Perieres, and five daughters, Kanake (Canace), Alkyone (Alcyone), Peisidike (Pisidice), Kalyke (Calyce), Perimede."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 1. 56. 2 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "He [the historical King Kroisos (Croesus) of Lydia] found by inquiry that the chief peoples were the Lakedaimonians [Spartans] among those of Doric, and the Athenians among those of Ionic stock. These races, Ionian and Dorian, were the foremost in ancient time, the first a Pelasgian and the second a Hellenic people. The Pelasgian race has never yet left its home [Arkadia (Arcadia)]; the Hellenic has wandered often and far. For in the days of king Deukalion (Deucalion) it inhabited the land of Phthia, then the country called Histiaian [i.e. ‘Land of the Hearth’], under Ossa and Olympos, in the time of Doros (Dorus) son of Hellen; driven from this Histiaian country by the Kadmeans, it settled about Pindos (Pindus) in the territory called Makedonian; from there again it migrated to Dryopia [i.e. Ozolean Lokris (Locris)], and at last came from Dryopia into the Peloponnesos, where it took the name of Dorian."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 1085 ff (trans. Seaton) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "There is a land [Thessalia (Thessaly)] encircled by lofty mountains, rich in sheep and in pasture, where Prometheus, son of Iapetos, begat goodly Deukalion (Deucalion), who first founded cities and reared temples to the immortal gods, and first ruled over men. This land the neighbours who dwell around call Haimonia (Haemonia)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 263 ff :
+     </span>
+     <br/>
+     "[In the earliest days of men :] Apidanean Arkadians (Arcadians) alone existed, Arkadians who lived even before the moon, it is said, eating acorns on the hills; nor at that time was the Pelasgian land ruled by the glorious sons of Deukalion (Deucalion)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 8. 7. 1 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[On the origins of two of the main Greek tribes--the Dorians and Ionians :] In antiquity this country [Akhaia (Achaea) in the Peloponessos] was under the mastery of the Ionians, who were sprung from the Athenians; and in antiquity it was called Aegialeia, and the inhabitants Aegialeians, but later it was called Ionia after the Ionians, just as Attika also was called Ionia after Ion the son of Xouthus (Xuthus). They say that Hellen was the son of Deukalion (Deucalion), and that he was lord of the people between the Peneios (Peneus) and the Asopos in the region of Phthia and gave over his rule to the eldest of his sons, but that he sent the rest of them to different places outside, each to seek a settlement for himself. One of these sons, Doros (Dorus), united the Dorians about Parnassos into one state, and at his death left them named after himself; another, Xouthos, who had married the daughter of Erekhtheus (Erechtheus), founded the Tetrapolis of Attika."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 4. 2  :
+     </span>
+     <br/>
+     "[In the region of Opountian Lokris (Opuntian Locris) :] Kynos (Cynus) is the seaport, a cape which forms the end of the Opountian Gulf, the gulf being about forty stadia in extent. Between Opous and Kynos is a fertile plain . . . Deukalion (Deucalion) is said to have lived in Kynos; and the grave of Pyrrha is to be seen there, though that of Deukalion is to be seen at Athens. Kynos is about fifty stadia distant from Mount Knemis (Cnemis)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 5. 6  :
+     </span>
+     <br/>
+     "[On Hellas, the kingdom of Hellen, son of Deukalion (Deucalion) :] Later authorities, some, speaking of Hellas as a country, say that it stretches from Palaipharsalos to Phthiotic Thebes . . . this country too is a part of that which was subject to Akhilleus (Achilles) [i.e. in the time of the Trojan War]. As for those, however, who speak of Hellas as a city, the Pharsalians point out at a distance of sixty stadia from their own city a city in ruins which they believe to be Hellas, and also two springs near it, Messeïs and Hypereia, whereas the Melitaeans say that Hellas was situated about ten stadia distant from themselves on the other side of the Enipeus, at the time when their own city [i.e. Melite] was named Pyrrha, and that it was from Hellas, which was situated in a low-lying district, that the Hellenes migrated to their own city; and they cite as bearing witness to this the tomb of Hellen, son of Deukalion (Deucalion) and Pyrrha, situated in their marketplace. For it is related that Deukalion ruled over Phthia, and, in a word, over ThessaIia (Thessaly). The Enipeus, flowing from Othrys past Pharsalos, turns aside into the Apidanos, and the latter into the Peneios (Peneus) [i.e. the main river of the Thessalian valley]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 9. 5. 23 :
+     </span>
+     <br/>
+     "[The region of] Thessalia (Thessaly). But speaking of it as a whole, I may say that in earlier times it was called Pyrrhaia (Pyrrhaea), after Pyrrha the wife of Deukalion (Deucalion, and Haimonia (Haemonia) after Haimon (Haemon), and Thessalia after Thessalos (Thessalus) the son of Haimon. But some writers, dividing it into two parts, say that Deukalion obtained the portion towards the south and called it Pandora after his mother [i.e. his mother-in-law], and that the other part fell to Haimon, after whom it was called Haimonia, but that the former name was changed to Hellas, after Hellen the son of Deukalion, and the latter to Thessalia, after the son of Haimon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 61. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "After this, the account continues, Triopas, one of the sons of Helios and Rhodos . . . sailed to Thessalia (Thessaly) to give assistance as an ally to the sons of Deukalion (Deucalion), and with their aid he expelled from Thessalia the Pelasgians and took for his portion the plain which is called Dotion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 81. 31 :
+     </span>
+     <br/>
+     "And seven generations later, after the flood of Deukalion (Deucalion) had taken place and much of mankind had perished, it came to pass that Lesbos was also laid desolate by the deluge of waters. And after these events Makareus (Macareus) [a descendant of Deukalion] came to the island, and, recognizing the beauty of the land, he made his home in it."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 1. 3 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The Eleans we know crossed over from Kalydon (Calydon) and Aitolia (Aetolia) generally. Their earlier history I found to be as follows. The first to rule in this land, they say, was Aethlios, who was the son of Zeus and of Protogeneia, the daughter of Deukalion, and the father of Endymion." [N.B. Aethlios was probably the eponymous king of the (Ae-)Aithikes tribe of the Pindar mountain range bordering Thessalia.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 8. 1  :
+     </span>
+     <br/>
+     "Later on there came [to Olympia], they say, from Krete (Crete) Klymenos (Clymenus), the son of Kardys (Cardys), about fifty years after the flood came upon the Greeks in the time of Deukalion (Deucalion). He was descended from Herakles of Ida; he held the games at Olympia . . . And Endymion, the son of Aethlios [i.e. the grandson of Deukalion], deposed Klymenos, and set his sons a race in Olympia with the kingdom as the prize." [N.B. Herakles of Ida was one of the Daktyloi (Dactyls)--rustic demi-gods--and not the great hero of the same name.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 38. 1  :
+     </span>
+     <br/>
+     "The territory of the Lokrians (Locrians) called Ozolian adjoins Phokis (Phocis) opposite Kirrha (Cirrha). I have heard various stories about the surname of these Lokrians, all of which I will tell my readers. Orestheus, son of Deukalion (Deucalion), king of the land, had a bitch that gave birth to a stick instead of a puppy. Orestheus buried the stick, and in the spring, it is said, a vine grew from it, and from the branches (
+     <em>
+      ozoi
+     </em>
+     ) of the stick the people got their name."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement of Alexandria, Recognitions 10. 21 (trans. Smith) (Greek Christian rhetoric C2nd A.D.) :
+     </span>
+     <br/>
+     "I shall now speak of his [Zeus'] adulteries . . . Pyrrha, the daughter of Prometheus, of whom [was born] Helmetheus; Protogeneia and Pandora, daughters of Deukalion (Deucalion), of whom he begot Aethelios, and Doros, and Melera, and Pandoros."
+     <br/>
+     [N.B. This is a badly corrupted Latin translation of the work of Clement. The original Greek text is lost. The first line should actually read "Pyrrha, the daughter of Epimetheus, of whom Hellen."]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 155 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Sons of Jove [Zeus] . . . Hellen by Pyrrha, daughter of Epimetheus. Aethlius by Protogenie, daughter of Deucalion."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 15. 165 (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Phoebus [Apollon] from on high looks down on the whole wide stretch of sea [on the coast of Ambracia]--of Actium, the people call it, and Leucadian. From here Deucalion, inflamed with love for Pyrrha, cast himself down, and struck the waters with body all unharmed. Without delay, his passion was turned from him, and fled from his tenacious breast, and Deucalion was freed from the fires of love. This is the law of yonder place. Go straightway seek the high Leucadian cliff, nor from it fear to leap!"
+     <br/>
+     [N.B. According to Greek tradition, people who wished to  relieve themselves of love could do so by leaping into the sea from the Leukadian rock near Actium. It is not clear whether Ovid actually knew of a specific myth about Deukalion and Pyrrha in this context, or simply uses their names to suggest the antiquity of the tradition. The sense here is probably that Deukalion was so devoted to Pyrrha that, at her death, he needed to relieve his grief in this manner. A similar story was told of Aphrodite relieving her grief for Adonis.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 268 ff (trans. Mair) (Greek poetry C5th to C6th A.D.) :
+     </span>
+     <br/>
+     "[Helene addresses Paris :] ‘Stranger, whence art thou? declare thy fair lineage even unto us. In beauty thou art like unto a glorious king, but thy family I know not among the Argives. I know all the family of blameless Deukalion (Deucalion).’" [N.B. Most of the Greek princes  in myth were descended from Deukalion.]
+    </p>
+    <hr/>
+    <h3 id="Deluge">
+     DEUCALION, THE GREAT DELUGE &amp; THE STONE-BORN MEN
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 82 (from Strabo 7. 322) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "For Lokros (Locrus) truly was leader of the Lelegian people, whom Zeus the Son of Kronos (Cronus), whose wisdom is unfailing, gave to Deukalion (Deucalion), stones gathered out of the earth. So out of stones mortal men were made, and they were called people."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 9. 42 (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Let Protogeneia's city [Lokrian Opous (Locrian Opus)] play on your tongue, where by decree of Zeus, god of lightning's quivering flash, there came Deukalion (Deucalion) and Pyrrha, down from Parnassos' height, and first made them their home, then without wedlock founded a people of one origin, a race made out of stone; and from a stone they took their name [i.e.
+     <em>
+      laos
+     </em>
+     , 'people,' from
+     <em>
+      las
+     </em>
+     , 'stone'] . . .
+     <br/>
+     Now the tale runs that earth's dark soil was flooded by the waters, but by the arts of Zeus, their strength suddenly ebbed again. And of that race were sprung your ancestors, bearers of brazen shields, sons of the maids of the stock of Iapetos (Iapetus), and from the sublime sons of great Kronos. And ever, since those days, have they ruled, kings of this their native land." [N.B. Iapetos was the Titan grandfather of Deukalion and Pyrrha.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 7. 2 (trans. Frazer) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "And Prometheus had a son Deukalion (Deucalion). He reigning in the regions about Phthia, married Pyrrha, the daughter of Epimetheus and Pandora, the first woman fashioned by the gods. And when Zeus would destroy the men of the Bronze Age, Deukalion by the advice of Prometheus constructed a chest, and having stored it with provisions he embarked in it with Pyrrha. But Zeus by pouring heavy rain from heaven flooded the greater part of Greece, so that all men were destroyed, except a few who fled to the high mountains in the neighborhood. It was then that the mountains in Thessalia parted, and that all the world outside the Isthmos and Peloponnese was overwhelmed.
+     <br/>
+     But Deukalion, floating in the chest over the sea for nine days and as many nights, drifted to Parnassos (Parnassus), and there, when the rain ceased, he landed and sacrificed to Zeus Phyxios (God of Escape). And Zeus sent Hermes to him and allowed him to choose what he would, and he chose to get men. And at the bidding of Zeus he took up stones and threw them over his head, and the stones which Deukalion threw became men, and the stones which Pyrrha threw became women. Hence people were called metaphorically people (
+     <em>
+      laos
+     </em>
+     ) from
+     <em>
+      laas
+     </em>
+     , ‘a stone.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 8. 1 - 2 :
+     </span>
+     <br/>
+     "[King Lykaon (Lycaon) and his sons] exceeded all men in pride and impiety; and Zeus, desirous of putting their impiety to the proof, came to them in the likeness of a day-laborer. They offered him hospitality and having slaughtered a male child of the natives, they mixed his bowels with the sacrifices, and set them before him . . . But Zeus in disgust upset the table . . . and blasted Lykaon and his sons by thunderbolts, all but Nyktimos (Nyctimus), the youngest . . . When Nyktimos succeeded to the kingdom, there occurred the flood in the age of Deukalion; some said that it was occasioned by the impiety of Lykaon's sons."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 72 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "I mourn for thee, my country, and for the grave of Atlas' daughter's diver son [Dardanos of Samothrake], who of old in a stitched vessel, like an Istrian fish-creel with four legs, sheathed his body in a leathern sack and, all alone, swam like a petrel of Rheithymnia, leaving Zerynthos . . . even Saos, the strong foundation of the Kyrbantes (Corybantes), what time the plashing rain of Zeus laid waste with Deluge all the earth. And their towers were hurled to the ground, and the people set themselves to swim, seeing their final doom before their eyes. And on oat and acorn and the sweet grape browsed the whales and the dolphins and the seals that are fain of the beds of mortal men." [N.B. Like Deukalion of Thessalia, Dardanos of Samothrake escaped the Great Deluge.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 81. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "The flood of Deukalion (Deucalion) had taken place and much of mankind had perished, it came to pass that Lesbos was also laid desolate by the Deluge of waters."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 7. 7. 2  (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "He calls the Lokroi (Locrians) of today Leleges and says that they took possession of Boiotia (Boeotia) too; . . . But in particular one might believe Hesiod when he says concerning them : ‘For verily Lokros (Locrus) was chieftain of the peoples of the Leleges, whom once Zeus the son of Kronos (Cronus), who knoweth devices imperishable, gave to Deukalion (Deucalion)--peoples picked out of earth.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 18. 7 - 8 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[At the sanctuary of Zeus Olympios in Athens :]
+  Within the precincts are antiquities : . . . an enclosure of Ge (Gaea, the Earth) surnamed Olympia. Here the floor opens to the width of a cubit, and they say that along this bed flowed off the water after the Deluge that occurred in the time of Deukalion (Deucalion), and into it they cast every year wheat meal mixed with honey . . . The ancient sanctuary of Zeus Olympios the Athenians say was built by Deukalion, and they cite as evidence that Deukalion lived at Athens a grave which is not far from the present temple."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 6. 1 - 2  :
+     </span>
+     <br/>
+     "They say that the oldest city was founded here [on Mount Parnassos] by Parnassos (Parnassus), a son of Kleodora (Cleodora), a nymphe. Like the other heroes, as they are called, he had two fathers; one they say was the god Poseidon, the human father being Kleopompos (Cleopompus) . . . Now this city [Parnassos], so the story goes on, was flooded by the rains that fell in the time of Deukalion (Deucalion). Such of the inhabitants as were able to escape the storm were led by the howls of wolves to safety on the top of Parnassos, being led on their way by these beasts, and on this account they called the city that they founded Lykoreia (Lycorea) (Mountain-wolf-city)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 40. 1  :
+     </span>
+     <br/>
+     "The Megarians say that the Nymphai (Nymphs) Sithnides are native [to Megara], and that one of them mated with Zeus; that Megaros (Megarus), a son of Zeus and of this nymphe, escaped the flood in the time of Deukalion (Deucalion), and made his escape to the heights of Gerania. The mountain had not yet received this name, but was then named Gerania (Crane Hill) because cranes were flying and Megaros swam towards the cry of the birds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 8. 1  :
+     </span>
+     <br/>
+     "There came [to Olympia], they say, from Krete (Crete) Klymenos (Clymenus), the son of Kardys (Cardys), about fifty years after the flood came upon the Greeks in the time of Deukalion (Deucalion). He was descended from Herakles of Ida." [N.B. Herakles of Ida is the Daktylos (Dactyl) of that name, not the great hero.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 14. 654 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[The Greeks, caught in a storm upon their return from Troy, compare it to the Great Deluge :] For streamed the sky ceaselessly like a river, while the deep raved round them. And one cried : ‘Such floods on men fell only when Deukalion's deluge came, when earth was drowned, and all was fathomless sea!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 14 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[A description of an ancient Greek painting at Naples :] This painting suggests . . . it deals with the Thessalians . . . The Thessalians in early times were not permitted by the [river] Peneios (Peneus) to have any land at all, since mountains encompassed the level spaces, which the stream continually flooded because it had as yet no outlet. Therefore Poseidon will break through the mountains with his trident and open a gateway for the river. Indeed, this is the work which he has now undertaken, the mighty task of uncovering the plains; his hand is raised to break the mountains apart, but, before the blow has fallen, they separate a sufficient space to let the river through. In the painter's effort to make the action clear, the right side of Poseidon has been at the same time both drawn back and advanced and he threatens to strike his blow, not merely with his hand but with his whole body. He is painted, not dark blue nor yet as a god of the sea, but as a god of the mainland. Accordingly he greets the plains as he sees that they are both broad and level like stretches of the sea. The river also rejoices as one exulting . . . Thessalia [the land personified] emerges, the water already subsiding; she wears tresses of olive and grain and grasps a colt that emerges along with her. For the horse also is to be her gift from Poseidon, when the earth shall receive the seed of the god while he sleeps and shall bear a horse."
+     <br/>
+     [N.B. Thessalia was swamped by the Great Deluge and so Poseidon released the waters by splitting the mountains and forming the Vale of Tempe.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 152A (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Phaethon, son of Sol (the Sun) [Helios] and Clymene, who had secretly mounted his father's car, and had been borne too high above the earth, from fear fell into the river Eridanus. When Jupiter [Zeus] struck him with a thunderbolt, everything started to burn. In order to have a reason for destroying the whole race of mortals, Jove pretended he wanted to put out the fire; he let loose the rivers everywhere, and all the human race perished except Deucalion and Pyrrha."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 153  :
+     </span>
+     <br/>
+     "When the cataclysm which we call the flood or deluge occurred, all the human race perished except Deucalion and Pyrrha, who fled to Mount Etna, which is said to be the highest mountain in Sicily. When they could not live on account of loneliness, they begged Jove [Zeus] either to give men, or to afflict them with a similar disaster. Then Jove bade them cast stones behind them; those Deucalion threw he ordered to become men, and those Pyrrha threw, to be women. Because of this they are called
+     <em>
+      laos
+     </em>
+     , ‘people,’ for stone in Greek is called
+     <em>
+      las
+     </em>
+     ."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 29  :
+     </span>
+     <br/>
+     "[Constellation] Aquarius or Water Bearer. Many have said he is Ganymede . . . Hegesianax [Greek poet C3rd B.C.], however, says he is Deucalion, because during his reign such quantities of water poured from the sky that the great Flood resulted."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 240 - 429  (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[The Arcadian King Lycaon tried to serve Jupiter-Zeus a meal of human flesh. The god destroyed him and his sons for the impiety and then, at a council of the gods, declared that he would cleanse the earth with a Great Deluge.]
+     <br/>
+     [Jupiter-Zeus speaks :] ‘Thus fell one house, but not one house alone deserved to perish; over all the earth ferocious deeds prevail,--all men conspire in evil. Let them therefore feel the weight of dreadful penalties so justly earned, for such hath my unchanging will ordained.’
+     <br/>
+     With exclamations some [of the other gods] approved the words of Jove [Zeus] and added fuel to his wrath, while others gave assent : but all deplored and questioned the estate of earth deprived of mortals. Who could offer frankincense upon the altars? Would he suffer earth to be despoiled by hungry beasts of prey? Such idle questions of the state of man the King of Gods forbade, but granted soon to people earth with race miraculous, unlike the first.
+     <br/>
+     And now his thunder bolts would Jove [Zeus] wide scatter, but he feared the flames, unnumbered, sacred ether might ignite and burn the axle of the universe: and he remembered in the scroll of fate, there is a time appointed when the sea and earth and Heavens shall melt, and fire destroy the universe of mighty labour wrought. Such weapons by the skill of Cyclops forged, for different punishment he laid aside--for straightway he preferred to overwhelm the mortal race beneath deep waves and storms from every raining sky.
+     <br/>
+     And instantly he shut Aquilo (the North-Wind) in Aeolian caves, and every other wind that might dispel the gathering clouds. He bade Notus (the South-Wind) blow:--the Southwind flies abroad with dripping wings, concealing in the gloom his awful face: the drenching rain descends from his wet beard and hoary locks; dark clouds are on his brows and from his wings and garments drip the dews: his great hands press the overhanging clouds; loudly the thunders roll; the torrents pour; Iris, the messenger of Juno [Hera], clad in many coloured raiment, upward draws the steaming moisture to renew the clouds. The standing grain is beaten to the ground, the rustic's crops are scattered in the mire, and he bewails the long year's fruitless toil.
+     <br/>
+     The wrath of Jove was not content with powers that emanate from Heaven; he brought to aid his azure brother, lord of flowing waves, who called upon the Rivers and the Streams: and when they entered his impearled abode, Neptunus [Poseidon], their ancient ruler, thus began; ‘A long appeal is needless; pour ye forth in rage of power; open up your fountains; rush over obstacles; let every stream pour forth in boundless floods.’
+     <br/>
+     Thus he commands, and none dissenting all the River Gods return, and opening up their fountains roll tumultuous to the deep unfruitful sea. And Neptunus with his trident smote the Earth, which trembling with unwonted throes heaved up the sources of her waters bare; and through her open plains the rapid rivers rushed resistless, onward bearing the waving grain, the budding groves, the houses, sheep and men,--and holy temples, and their sacred urns. The mansions that remained, resisting vast and total ruin, deepening waves concealed and whelmed their tottering turrets in the flood and whirling gulf. And now one vast expanse, the land and sea were mingled in the waste of endless waves--a sea without a shore.
+     <br/>
+     One desperate man seized on the nearest hill; another sitting in his curved boat, plied the long oar where he was wont to plow; another sailed above his grain, above his hidden dwelling; and another hooked a fish that sported in a leafy elm. Perchance an anchor dropped in verdant fields, or curving keels were pushed through tangled vines; and where the gracile goat enjoyed the green, unsightly seals reposed. Beneath the waves were wondering Nereides, viewing cities, groves and houses. Dolphins darting mid the trees, meshed in the twisted branches, beat against the shaken oak trees. There the sheep, affrayed, swim with the frightened wolf, the surging waves float tigers and lions : availeth naught his lightning shock the wild boar, nor avails the stag's fleet footed speed. The wandering bird, seeking umbrageous groves and hidden vales, with wearied pinion droops into the sea. The waves increasing surge above the hills, and rising waters dash on mountain tops. Myriads by the waves are swept away, and those the waters spare, for lack of food, starvation slowly overcomes at last.
+     <br/>
+     A fruitful land and fair but now submerged beneath a wilderness of rising waves, 'Twixt Oeta and Aonia, Phocis lies, where through the clouds Parnassus' summits twain point upward to the stars, unmeasured height, save which the rolling billows covered all: there in a small and fragile boat, arrived, Deucalion and the consort of his couch [i.e. Pyrrha], prepared to worship the Nymphae Corycidae (Corycian Nymphs), the mountain deities (
+     <em>
+      numina montis
+     </em>
+     ), and Themis kind, who in that age revealed in oracles the voice of fate. As he no other lived so good and just, as she no other feared the Gods.
+     <br/>
+     When Jupiter [Zeus] beheld the globe in ruin covered, swept with wasting waves, and when he saw one man of myriads left, one helpless woman left of myriads lone, both innocent and worshiping the gods, he scattered all the clouds; he blew away the great storms by the cold northwind. Once more the earth appeared to heaven and the skies appeared to earth. The fury of the main abated, for the sea ruler laid his trident down and pacified the waves, and called on azure Triton.--Triton arose above the waving seas, his shoulders mailed in purple shells.--He bade the Triton blow, blow in his sounding shell, the wandering streams and rivers to recall with signal known: a hollow wreathed trumpet, tapering wide and slender stemmed, the Triton took amain and wound the pearly shell at midmost sea. Betwixt the rising and the setting suns the wildered notes resounded shore to shore, and as it touched his lips, wet with the brine beneath his dripping beard, sounded retreat: and all the waters of the land and sea obeyed. Their fountains heard and ceased to flow; their waves subsided; hidden hills uprose; emerged the shores of ocean; channels filled with flowing streams; the soil appeared; the land increased its surface as the waves decreased: and after length of days the trees put forth, with ooze on bending boughs, their naked tops.
+     <br/>
+     And all the wasted globe was now restored, but as he viewed the vast and silent world Deucalion wept and thus to Pyrrha spoke; ‘O sister! wife! alone of woman left! My kindred in descent and origin! Dearest companion of my marriage bed, doubly endeared by deepening dangers borne,--of all the dawn and eve behold of earth, but you and I are left--for the deep sea has kept the rest! And what prevents the tide from overwhelming us? Remaining clouds affright us. How could you endure your fears if you alone were rescued by this fate, and who would then console your bitter grief? Oh be assured, if you were buried in the waves, that I would follow you and be with you! Oh would that by my father's art I might restore the people, and inspire this clay to take the form of man. Alas, the Gods decreed and only we are living!’
+     <br/>
+     Thus Deucalion's plaint to Pyrrha;--and they wept. And after he had spoken, they resolved to ask the aid of sacred oracles,--and so they hastened to Cephissian waves which rolled a turbid flood in channels known. Thence when their robes and brows were sprinkled well, they turned their footsteps to the goddess' fane : its gables were befouled with reeking moss and on its altars every fire was cold. But when the twain had reached the temple steps they fell upon the earth, inspired with awe, and kissed the cold stone with their trembling lips, and said; ‘If righteous prayers appease the gods, and if the wrath of high celestial powers may thus be turned, declare, O Themis! whence and what the art may raise humanity? O gentle goddess help the dying world!’
+     <br/>
+     Moved by their supplications, she replied; ‘Depart from me and veil your brows; ungird your robes, and cast behind you as you go, the bones of your great mother.’ Long they stood in dumb amazement: Pyrrha, first of voice, refused the mandate and with trembling lips implored the goddess to forgive--she feared to violate her mother's bones and vex her sacred spirit. Often pondered they the words involved in such obscurity, repeating oft: and thus Promethides [Deucalion son of Prometheus] to Epimethis [Pyrrha daughter of Epimetheus] uttered speech of soothing import; ‘Oracles are just and urge not evil deeds, or naught avails the skill of thought. Our mother is the Earth, and I may judge the stones of earth are bones that we should cast behind us as we go.’
+     <br/>
+     And although Titania [Pyrrha the Titan's daughter] by his words was moved she hesitated to comply; and both amazed doubted the purpose of the oracle, but deemed no harm to come of trial. They, descending from the temple, veiled their heads and loosed their robes and threw some stones behind them. It is much beyond belief, were not receding ages witness, hard and rigid stones assumed a softer form, enlarging as their brittle nature changed to milder substance,--till the shape of man appeared, imperfect, faintly outlined first, as marble statue chiseled in the rough. The soft moist parts were changed to softer flesh, the hard and brittle substance into bones, the veins retained their ancient name. And now the Gods supreme ordained that every stone Deucalion threw should take the form of man, and those by Pyrrha cast should woman's form assume: so are we hardy to endure and prove by toil and deeds from what we sprung.
+     <br/>
+     And after this the Earth spontaneous produced the world of animals, when all remaining moistures of the mirey fens fermented in the sun, and fruitful seeds in soils nutritious grew to shapes ordained. So when the seven streamed Nile from oozy fields returneth duly to her ancient bed, the sun's ethereal rays impregn the slime, that haply as the peasants turn the soil they find strange animals unknown before: some in the moment of their birth, and some deprived of limbs, imperfect; often part alive and part of slime inanimate are fashioned in one body. Heat combined with moisture so conceives and life results from these two things. For though the flames may be the foes of water, everything that lives begins in humid vapour, and it seems discordant concord is the means of life. When Earth, spread over with diluvian ooze, felt heat ethereal from the glowing sun, unnumbered species to the light she gave, and gave to being many an ancient form, or monster new created."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 7. 353  :
+     </span>
+     <br/>
+     "Othrys, and the vale made famous where Cerambus met his fate. Cerambus, by the aid of Nymphae (Nymphs), from there was wafted through the air on wings, when earth was covered by the overwhelming sea--and so escaped Deucalion's flood, uncrowned."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1 . 60 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "From the first, Nature laid these laws and eternal covenants on certain lands, even from the day when Deucalion threw stones into the empty world, whence sprang men, a stony race."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 6. 41 ff  :
+     </span>
+     <br/>
+     "Then he [the poet Orpheus] sings of the stones that Pyrrha threw, of Saturnus' [Kronos' (Cronus')]  reign, of Caucasian eagles, and the theft of Prometheus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 56 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Inscribed on the prophetic tables of the primordial god Phanes :] The stormfoot Hora . . . had seen [on the first tablet] the fiery shining victory of Zeus at war and the hailstorm snowstorm conflict of Kronos (Cronus), she looked at the next tablet in its turn. There was shown how the pine was in labour of the human race [i.e. the Bronze Race of men were born from trees]--how the tree suddenly burst its tree-birth and disgorged a son unbegotten self-completed; how Raincloud Zeus brought the waters up in mountainous seas on high and flooded all cities, how [the winds] Notos and Boreas, Euros and Lips in turn lashed Deukalion's (Deucalion's) wandering hutch, lifted it castaway on waves in the air and left it harbourless near the moon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 204 ff  :
+     </span>
+     <br/>
+     "For the third time a deluge of rain had flooded the world's foundations with towering billows. Ogygos (Ogygus) [the first king of Attika] made proof of the first roaring Deluge, as he cut the air through the highclimbing waters, when all the earth was hidden under the flood, when the tops of the Thessalian rocks were covered, when the summit of the Pythian rock near the clouds on high was bathed in the snow-cooled flood. There was a second Deluge, when tempestuous waters covered the circuit of the round earth in a furious flood, when all mortal men perished, and Deukalion (Deucalion) alone with his mate Pyrrha in a hollow ark cutting the swirling flood of infinite deluge went on his eddying voyage through the air turned water. When the third time rain from Zeus flooded the solid earth and covered the hills, and even the unwetted slopes of Sithonia with Mount Athos itself, then Dardanos (Dardanus), cutting through the stream of the uplifted flood, landed on the ancient mountain of Ida his neighbour." 
+  [N.B. Usually the floods of Ogygos, Deukalion and Dardanos were regarded as one and the same.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 6. 206 ff  :
+     </span>
+     <br/>
+     "[Nonnos describes the great Deluge in astrological terms :] After the first Dionysos [i.e. Zagreus, the elder Dionysos] had been slaughtered [by the Titanes (Titans)], Father Zeus learnt the trick of the mirror with its reflected image. He attacked [Gaia the Earth] the mother of the Titanes with avenging brand, and shut up the murderers of horned Dionysos within the gate of Tartaros: the trees blazed, the hair of suffering Gaia (Earth) was scorched with heat. He kindled the East : the dawnlands of Baktria (Bactria) blazed under blazing bolts, the Assyrian waves set afire the neighbouring Kaspian (Caspian) Sea and the Indian mountains, the Red Sea rolled billows of flame and warmed Arabian Nereus. The opposite West also fiery Zeus blasted with his thunderbolt in love for his child; and under the foot of Zephyros the western brine half-burnt spat out a shining stream; the Northern ridges-- even the surface of the frozen Northern Sea bubbled and burned : under the clime of snowy Aigokeros (Aegocerus) [i.e. the constellation Capricorn] the Southern corner boiled with hotter sparks.
+     <br/>
+     Now Okeanos (Oceanus) poured rivers of tears from his watery eyes, a libation of suppliant prayer. Then Zeus calmed his wrath at the sight of the scorched earth; he pitied her, and wished to wash with water the ashes of ruin and the fiery wounds of the land. The Rainy Zeus covered the whole sky with clouds and flooded all the earth. Zeus's heavenly trumpet bellowed with its thunderclaps, while all the stars moved in their appointed houses :  when Helios (the Sun) in his four-horse chariot drove shining over the Lion's [Leo's] back, his own house; the Moon of threefold form rolled in her onrunning car over the eightfoot Crab [Cancer]; Kypris (Cypris) [i.e. the planet Venus] in her equinoctial course under the dewy region had left the Ram's [Aries] horn behind, and held her spring-time house in the heavenly Bull [Taurus] which knows no winter; the Sun's neighbour Ares [i.e. the planet Mars] possessed the Scorpion, harbinger of the Plow, encircled by the blazing Bull, and ogled Aphrodite [star Venus] opposite with a sidelong glance; Zeus of nightfall [i.e. the planet Jupiter], the twelvemonth traveller who completes the lichtgang, was treading on the starry Fishes [Pisces], having on his right he round-faced Moon in trine; Kronos (Cronus) [i.e. the planet Saturn] passed through the showery back of Aigokeros (Aegocerus) [Capricorn] drenched in the frosty light; round the bright Maiden [Virgo], Hermes [i.e. the planet Mercury] was poised on his pinions, because as a dispenser of justice he had Justice for his house.
+     <br/>
+     Now the barriers of the sevenzoned watery sky were opened, when Zeus poured down his showers. The mountain-torrents roared with fuller fountains of the loudsplashing gulf. The lakes, liquid daughters cut off from Okeanos, raised their surface. The fountains shot spouts of the lower water of Okeanos into the air. The cliffs were besprinkled, the dry thirsty hills were drenched as with rivers streaming over the heights: the sea rose until Nereïdes became Oreades on the hills over the woodland. O poor thing! Maid Ekho (Echo) had to swim with unpractised hands, and felt a new fear for that old maiden zone--Pan she had escaped, but she might be cause by Poseidon! Sea-lions now leaped with dripping limbs in the land-lions' cave among rocks they knew not, and in the depths of a mountain-torrent a stray boar met with a dolphin of the sea. Wild beasts and fishes navigated in common stormy floods that poured from the mountains. The many-footed squid dragged his many coils into the hills, and pounced on the hare. The dripping Tritones at the edge of a secret wood wagged their green forked tails against their flanks, and hid in the mountain vaults where Pan had his habitation, leaving their familiar speckled conchs to sail about with the winds. Nereus on his travels met rock-loving Pan on a submerged hill, the rock-dweller left his sea and changed it for the hill, leaving the waterlogged pan's-pipes that floated; while he took to the watery cave where Ekho had sheltered.
+     <br/>
+     Then the bodies of poor fellows swollen in their watery death were buried in the waters. Heaps of corpses were floating one upon another carried along by the rolling currents; there fell the lion, there fell the boar into the roaring torrent, with open throat gulping draughts of the cascades that poured from rocks and mountains. With mingling streams, lakes and rivers, torrents of rain, waters of the sea were all combined together, and the four winds united their blasts in one, to flog the universal inundation.
+     <br/>
+     Earthshaker [Poseidon] saw from the deep the earth all flooded, while Zeus alone with stronger push made it quake under his threatening torrents: he threw away his prongs, wondering in his anger what earth now he could heave with a trident! Nereïdes in battalions swam over the flooding waves; Thetis travelled over the water riding on the green hip of a Triton with broad beard; Agauë on a fish's back drove her pilotfish in the open air, and an exile dolphin with the water swirling round his neck lifted Doris and carried her along. A whale of the deep sea leaped about the hills and sought the cave of the earthbedded lioness . . .
+     <br/>
+     As the irresistible torrent swelled on and on, every city, every nation was a flood; not one corner was undrenched, not one hill was then bare--not the peak of Ossa, not the top of Pelion. Under the three peaks roared the Tyrrhenian Sea; the Adriatic rocks rebounded with Sicilian waters in showers of foam from the flogging sea. The sparkling rays of Phaëthon [Helios the sun] in his airy course became soft and womanish in the torrents. Selene (the Moon) in her seventh zone over the low rim of the earth cooled her light in the mounting waves, and checked her cattle with drenched and soaking necks. The rainwater mixed with the starry battalions, and made the Milky Way whiter with foam.
+     <br/>
+     The Neilos (Nile), pouring his lifegiving stream through his seven mouths, went astray and met love-sick Alpheios (Alpheus) . . . ‘The earth quakes, the sky attacks us, the sea compels us, the unnavigable upper air itself swells in a foaming flood! I care not for the wild deluge. See what a great miracle! The blazing earth, the flaming sea, the rivers--all have been swept clean by the downpour of Zeus . . .’
+     <br/>
+     Then also Deukalion passed over the mounting flood, to navigate far out of reach on a sky-traversing voyage; and the course of his ark selfguided selfmoving, without sheet and without harbour, scored the stormy waters.
+     <br/>
+     Then the whole frame of the universe would have been unframed, then all-breeding Time would have dissolved the whole structure of the unsown generations of mankind: but by the divine ordination of Zeus, Poseidon Seabluehair with earthsplitting trident split the midmost peak of the Thessalian mountain, and dug a cleft through it by which the water ran sparkling down. Earth shook off the stormy flood which travelled so high, and showed herself risen again; the streams were driven into the deep hollows and the cliffs were laid bare. The sun poured his thirsty rays on the wet face of earth, and dried it; the water grew thick under the hotter beams, and he mud was dried again as before. Cities were fashioned by men with better skill and established upon stone foundations, palaces were built, and the streets of the new-founded cities were made strong for later generations of men. Nature laughed once more; the air once more was paddled by the wings of birds that flew in the winds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 22 ff :
+     </span>
+     <br/>
+     "Aion (Time) the maniform, holding the key of generation, spread his white shock of hair over the knees of Zeus, let fall the flowing mass of his beard in supplication . . . : ‘Lord Zeus! behold yourself the sorrows of a despairing world! . . . We can yet see traces of that Deluge which you brought upon all nations, when the streams of airy floods billowed in the air and boiled against the neighbouring Moon.’"
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     DEUCALION SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE KING DEUCALION
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Prometheus and Pronoea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Pyrrha
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Phthia in Thessaly or Opus in Locris
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Constellation
+       </th>
+       <td>
+        Aquarius
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     DEUCALION PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Deucalion
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Descendants">
+       Family &amp; Descendants of Deucalion
+      </a>
+     </li>
+     <li>
+      <a href="#Deluge">
+       Deucalion, the Great Deluge &amp; the Stone-Born Men
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

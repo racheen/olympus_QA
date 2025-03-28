@@ -1,0 +1,1478 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Main_Gallery.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   Galleries | Theoi Greek Mythology
+  </title>
+  <meta content="Gallery of the gods and scenes of myth in ancient Greek and Roman art." name="description"/>
+  <meta content="Gallery, Greek mythology, Greek gods, Greek vase paintings, Greek mosaics, Roman mosaics, Roman frescoes, Roman reliefs, Greek statues, Roman statues" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.css" rel="stylesheet"/>
+  <link href="css/galleries.css" rel="stylesheet" type="text/css"/>
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+  <script type="text/javascript">
+   window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+  </script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+  </script>
+  <!-- End Cookie Consent plugin -->
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script>
+   var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+  </script>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISC
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          GALLERY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Galleries.html">
+            Gallery Overview
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-1.html">
+            Greek Vase Paintings 1
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-2.html">
+            Greek Vase Paintings 2
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-3.html">
+            Greek Vase Paintings 3
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-4.html">
+            Greek Vase Paintings 4
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-5.html">
+            Greek Vase Paintings 5
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-6.html">
+            Greek Vase Paintings 6
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-7.html">
+            Greek Vase Paintings 7
+           </a>
+          </li>
+          <li>
+           <a href="gallery-vase-paintings-8.html">
+            Greek Vase Paintings 8
+           </a>
+          </li>
+          <li>
+           <a href="gallery-mosaics-1.html">
+            Greco-Roman Mosaics 1
+           </a>
+          </li>
+          <li>
+           <a href="gallery-mosaics-2.html">
+            Greco-Roman Mosaics 2
+           </a>
+          </li>
+          <li>
+           <a href="gallery-mosaics-3.html">
+            Greco-Roman Mosaics 3
+           </a>
+          </li>
+          <li>
+           <a href="gallery-frescoes-1.html">
+            Greco-Roman Frescoes
+           </a>
+          </li>
+          <li>
+           <a href="gallery-statues-1.html">
+            Greco-Roman Statues 1
+           </a>
+          </li>
+          <li>
+           <a href="gallery-statues-2.html">
+            Greco-Roman Statues 2
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="/">
+      Greek Mythology
+     </a>
+     &gt;&gt; Galleries
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     GALLERIES
+     <!-- InstanceEndEditable -->
+    </h1>
+    <!-- InstanceBeginEditable name="Gallery" -->
+    <p>
+     The Theoi Project galleries contain more than 1,200 images of ancient Greek and Roman art.
+    </p>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 1 (86 IMAGES)
+    </h2>
+    <p>
+     K Series: Olympian gods in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Zeus, Poseidon, Demeter, Hera, Apollo, Artemis, Hephaestus, Athena)
+    </p>
+    <a href="gallery-vase-paintings-1.html">
+     <img alt="Greek Vase Paintings Gallery 1" class="img-responsive" src="image/gallery-vases-1.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 2 (75 IMAGES)
+    </h2>
+    <p>
+     K Series: Olympian gods and kin in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Ares, Aphrodite, Hermes, Dionysus, Hestia, Hades, Persephone)
+    </p>
+    <a href="gallery-vase-paintings-2.html">
+     <img alt="Greek Vase Paintings Gallery 2" class="img-responsive" src="image/gallery-vases-2.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 3 (63 IMAGES)
+    </h2>
+    <p>
+     K Series: Olympian gods and kin in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Chiron, Triton, Horae, Hebe, Muses, Charites, Pan, Hygeia, Plutus, Eros, Erotes, Bendis)
+    </p>
+    <a href="gallery-vase-paintings-3.html">
+     <img alt="Greek Vase Paintings Gallery 3" class="img-responsive" src="image/gallery-vases-3.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 4 (100 IMAGES)
+    </h2>
+    <p>
+     L Series: Giants in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Alcyoneus, Antaeus, Geryon, Talos, Polyphemus, Argus Panoptes)
+    </p>
+    <p>
+     M Series: Monsters and beasts of myth in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Typhoeus, Cerberus, Hydra, Chimera, Griffins, Calydonian Boar, Sphinx, Nemean Lion, Colchian Dragon, Stymphalian Birds, Cretan Bull, Ismenian Dragon, Golden Ram)
+    </p>
+    <a href="gallery-vase-paintings-4.html">
+     <img alt="Greek Vase Paintings Gallery 4" class="img-responsive" src="image/gallery-vases-4.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 5 (91 IMAGES)
+    </h2>
+    <p>
+     N Series: Daemones in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Nyx, Poena, Charon, Thanatos, Hypnus, Hesperides, Eris, Nemesis, Lyssa, Geras)
+    </p>
+    <p>
+     O Series: River-gods, Naiad-nymphs and kin in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Oceanus, Oceanids, Peitho, Clymene, Centaurs, River Gods, Naiads, Achelous, Sirens, Ganymedes, Daphne, Aegina, Triptolemus)
+     <br/>
+    </p>
+    <a href="gallery-vase-paintings-5.html">
+     <img alt="Greek Vase Paintings Gallery 5" class="img-responsive" src="image/gallery-vases-5.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 6 (91 IMAGES)
+    </h2>
+    <p>
+     P Series: Sea-gods and kin in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Triton, Nereus, Nereids, Thetis, Amphitrite, Harpies, Iris, Gorgons, Medusa, Graeae, Scylla,  Cetea, Pegasus, Hippalectryon)
+    </p>
+    <a href="gallery-vase-paintings-6.html">
+     <img alt="Greek Vase Paintings Gallery 6" class="img-responsive" src="image/gallery-vases-6.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 7 (82 IMAGES)
+    </h2>
+    <p>
+     T Series: Titan gods and kin in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Gaea, Themis, Leto, Hecate, Helius, Selene, Eos, Atlas, Prometheus, Pandora, Nike, Boreas, Zephyrus, Astra)
+    </p>
+    <a href="gallery-vase-paintings-7.html">
+     <img alt="Greek Vase Paintings Gallery 7" class="img-responsive" src="image/gallery-vases-7.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GREEK VASE PAINTINGS GALLERY 8 (83 IMAGES)
+    </h2>
+    <p>
+     T Series: Titan gods and kin in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Pasiphae, Minotaur, Circe, Erinyes, Sileni, Satyrs, Marsyas, Maenads, Pygmies)
+    </p>
+    <p>
+     H Series: Heroes in ancient Greek vase painting C6th - 4th B.C.
+     <br/>
+     (Perseus, Heracles, Dioscuri)
+    </p>
+    <a href="gallery-vase-paintings-8.html">
+     <img alt="Greek Vase Paintings Gallery 8" class="img-responsive" src="image/gallery-vases-8.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GRECO-ROMAN MOSAICS GALLERY 1 (79 IMAGES)
+    </h2>
+    <p>
+     Z Series: Gods in Greek and Roman mosaics.
+     <br/>
+     (Zeus, Poseidon, Apollo, Dionysus, Aeon, Gaea, Helius, Selene, Muses, Charites)
+    </p>
+    <a href="gallery-mosaics-1.html">
+     <img alt="Greco-Roman Mosaics Gallery 1" class="img-responsive" src="image/gallery-mosaics-1.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GRECO-ROMAN MOSAICS GALLERY 2 (77 IMAGES)
+    </h2>
+    <p>
+     Z Series: Gods and demigods in Greek and Roman mosaics.
+     <br/>
+     (Pan, Asclepius, Heracles, Silenus, Eros, Erotes, Ganymedes, Nereids, Triton, Sea-Gods, Oceanus, Tethys)
+    </p>
+    <a href="gallery-mosaics-2.html">
+     <img alt="Greco-Roman Mosaics Gallery 2" class="img-responsive" src="image/gallery-mosaics-2.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GRECO-ROMAN MOSAICS GALLERY 3 (71 IMAGES)
+    </h2>
+    <p>
+     Z Series: Rivers, nymphs, demigods, heroes and monsters in Greek and Roman mosaics.
+     <br/>
+     (River-Gods, Naiads, Centaurs, Satyrs, Sirens, Polyphemus, Gigantes, Chimera, Minotaur, Griffin, Medusa, Perseus, Orpheus, Days, Seasons)
+    </p>
+    <a href="gallery-mosaics-3.html">
+     <img alt="Greco-Roman Mosaics Gallery 3" class="img-responsive" src="image/gallery-mosaics-3.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GRECO-ROMAN FRESCOES &amp; RELIEFS GALLERY (56 IMAGES)
+    </h2>
+    <p>
+     F Series: Gods and scenes of myth in Greek and Roman frescoes.
+     <br/>
+     R Series: Gods and scenes of myth in Greek and Roman reliefs.
+    </p>
+    <a href="gallery-frescoes-1.html">
+     <img alt="Greco-Roman Frescoes &amp; Reliefs Gallery 1" class="img-responsive" src="image/gallery-frescoes-1.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GRECO-ROMAN STATUES GALLERY 1 (89 IMAGES)
+    </h2>
+    <p>
+     S Series: Greek and Roman statues of the Olympian gods.
+     <br/>
+     (Zeus, Poseidon, Demeter, Hera, Apollo, Artemis, Athena, Ares, Aphrodite)
+    </p>
+    <a href="gallery-statues-1.html">
+     <img alt="Greco-Roman Statues Gallery 1" class="img-responsive" src="image/gallery-statues-1.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     GRECO-ROMAN STATUES GALLERY 2 (100 IMAGES)
+    </h2>
+    <p>
+     S Series: Greek and Roman statues of the Olympian gods, minor gods, demigods and creatures.
+     <br/>
+     (Hermes, Dionysus, Hestia, Cybele, Tyche, Muses, Pan, Asclepius, Hygeia, Heracles, Silenus, Nike, Eros, Ganymedes, Dioscuri, Atlas, River Gods, Centaurs, Satyrs, Sphinx)
+    </p>
+    <a href="gallery-statues-2.html">
+     <img alt="Greco-Roman Statues Gallery 2" class="img-responsive" src="image/gallery-statues-2.jpg"/>
+    </a>
+    <hr/>
+    <h2>
+     NOTE ON IMAGES
+    </h2>
+    <p>
+     Most of the images on this site have been custom formatted for display on Theoi.com. In the case of some of the vase paintings this includes the creation of photo montages or distortions to display scenes from a three dimensional vase in two-dimensions. Colours, contrasts and saturations have also been altered to emphasize the figures. The vase painting images are therefore not photo accurate representations of the art works in question.
+    </p>
+    <hr/>
+    <h2>
+     IMAGE USAGE
+    </h2>
+    <p>
+     Please do not upload images to other sites without permission.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <div class="ad-banner">
+    </div>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="index">
+     <h2>
+      SEARCH THEOI
+     </h2>
+     <div class="search-box">
+      <form action="https://www.google.com" id="cse-search-box">
+       <div>
+        <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+        <input name="ie" type="hidden" value="UTF-8"/>
+        <input name="q" size="30" type="text"/>
+        <input name="sa" type="submit" value="Search Theoi.com"/>
+       </div>
+      </form>
+      <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+      </script>
+     </div>
+     <h2>
+      GREEK MYTHOLOGY
+     </h2>
+     <p>
+      <a href="greek-mythology/encyclopedia-a.html">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/greek-gods.html">
+       Gods &amp; Goddesses
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/olympian-gods.html">
+       Olympian Gods
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/titans.html">
+       Titans &amp; Titanesses
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/personifications.html">
+       Daemones (Spirits)
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/nymphs.html">
+       Nymphs
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/heroes.html">
+       Heroes &amp; Heroines
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/bestiary.html">
+       Bestiary
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/giants.html">
+       Giants
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/fantastic-creatures.html">
+       Legendary Creatures
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/fabulous-tribes.html">
+       Legendary Tribes
+      </a>
+     </p>
+     <p>
+      <a href="Tree.html">
+       Family Tree of the Gods
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/greek-gods-cult.html">
+       Cult of the Gods
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/star-myths.html">
+       Star Myths
+      </a>
+     </p>
+     <p>
+      <a href="Flora1.html">
+       Plant &amp; Flower Myths
+      </a>
+     </p>
+     <p>
+      <a href="greek-mythology/kingdoms.html">
+       Kingdoms of Myth
+      </a>
+     </p>
+     <h2>
+      GALLERIES
+     </h2>
+     <p>
+      <a href="Galleries.html">
+       Gallery Overview
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-1.html">
+       Greek Vase Paintings 1
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-2.html">
+       Greek Vase Paintings 2
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-3.html">
+       Greek Vase Paintings 3
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-4.html">
+       Greek Vase Paintings 4
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-5.html">
+       Greek Vase Paintings 5
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-6.html">
+       Greek Vase Paintings 6
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-7.html">
+       Greek Vase Paintings 7
+      </a>
+     </p>
+     <p>
+      <a href="gallery-vase-paintings-8.html">
+       Greek Vase Paintings 8
+      </a>
+     </p>
+     <p>
+      <a href="gallery-mosaics-1.html">
+       Greco-Roman Mosaics 1
+      </a>
+     </p>
+     <p>
+      <a href="gallery-mosaics-2.html">
+       Greco-Roman Mosaics 2
+      </a>
+     </p>
+     <p>
+      <a href="gallery-mosaics-3.html">
+       Greco-Roman Mosaics 3
+      </a>
+     </p>
+     <p>
+      <a href="gallery-frescoes-1.html">
+       Greco-Roman Frescoes
+      </a>
+     </p>
+     <p>
+      <a href="gallery-statues-1.html">
+       Greco-Roman Statues 1
+      </a>
+     </p>
+     <p>
+      <a href="gallery-statues-2.html">
+       Greco-Roman Statues 2
+      </a>
+     </p>
+     <h2>
+      LIBRARY
+     </h2>
+     <p>
+      <a href="Library.html">
+       Classical Texts
+      </a>
+     </p>
+     <h2>
+      FAQ
+     </h2>
+     <p>
+      <a href="Bibliography.html">
+       Bibliography
+      </a>
+     </p>
+    </div>
+    <div id="summary">
+     <h2>
+      ENCYCLOPEDIA
+     </h2>
+     <p class="a-z">
+      <a href="greek-mythology/encyclopedia-a.html">
+       A
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-c.html">
+       B
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-c.html#C">
+       C
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-d.html">
+       D
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-d.html#E">
+       E
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-d.html#F">
+       F
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-d.html#G">
+       G
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-h.html">
+       H
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-h.html#I">
+       I
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-h.html#J">
+       J
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-h.html#K">
+       K
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-l.html">
+       L
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-l.html#M">
+       M
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-l.html#N">
+       N
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-l.html#O">
+       O
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-p.html">
+       P
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-r.html">
+       R
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-r.html#S">
+       S
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-r.html#T">
+       T
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-r.html#U">
+       U
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-r.html#X">
+       X
+      </a>
+      |
+      <a href="greek-mythology/encyclopedia-r.html#Z">
+       Z
+      </a>
+     </p>
+     <hr/>
+     <!-- InstanceBeginEditable name="Summary" -->
+     <!-- InstanceEndEditable -->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

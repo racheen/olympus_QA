@@ -1,0 +1,1582 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   GRIFFIN (Gryps) - Eagle-Headed &amp; Winged Lion of Greek Mythology
+  </title>
+  <meta content="In ancient Greek myth and legend the Griffin was a beast with the head and wings of an eagle and the body of a lion. A tribe of the creatures guarded rich deposits of gold in the mountains of Scythia in north-eastern Europe. Their one-eyed neighbours, the Arimaspians, battled them for these riches." name="description"/>
+  <meta content="Griffin, Griffins, Gryps, Grypes, Gryphon, Greek mythology, eagle-headed lion, half-eagle half-lion, Griffin pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-monster.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/fantastic-creatures.html">
+      Legendary Creatures
+     </a>
+     &gt;&gt; Griffin (Gryps)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     GRYPS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Γρυψ Γρυπες Γρυφοι
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Gryps, Grypes, Gryphoi
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Gryps, Gryphis, Gryphi
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Griffin, Griffins
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K5.7.html">
+      <img alt="Apollo riding Griffin | Athenian red-figure kylix C4th B.C. | Kunsthistorisches Museum, Vienna" class="img-responsive center-block" src="../image/K5.7Apollon.jpg"/>
+     </a>
+     <figcaption>
+      Apollo riding Griffin, Athenian red-figure kylix C4th B.C.,
+      <a href="https://www.khm.at/" target="_blank">
+       Kunsthistorisches Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE GRYPS (Griffin) was a beast with the head and wings of an eagle and the body of a lion.
+    </p>
+    <p>
+     A tribe of the creatures guarded rich deposits of gold in the mountains of Skythia (Scythia) in north-eastern Europe. Their one-eyed neighbours, the
+     <a href="../Phylos/Arimaspoi.html">
+      Arimaspians
+     </a>
+     , battled them for these riches.
+    </p>
+    <p>
+     Decorative griffins were popular in ancient Greek art and  later in medieval bestiaries and heraldry.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     GRYPS or GRYPHUS (Grups), a griffin, a fabulous, bird-like species of animals, dwelling in the Rhipaean mountains, between the Hyperboreans and the one-eyed Arimaspians, and guarding the gold of the north. The Arismaspians mounted on horseback, and attempted to steal the gold, and hence arose the hostility between the horse and the griffin. The body of the griffin was that of a lion, while the head and wings were those of an eagle. This monstrous conception suggests that the origin of the belief in griffins must be looked for in the east, where it seems to have been very ancient. (Herod. iii. 116, iv. 13, 27; Paus. i. 24. § 6. viii. 2, § 3; Aelian,
+     <em>
+      H. A.
+     </em>
+     iv. 27; Plin.
+     <em>
+      H. N.
+     </em>
+     vii. 2, x. 70.) Hesiod seems to be the first writer that mentioned them, and in the poem "
+     <em>
+      Arimaspae
+     </em>
+     " of Aristeas they must have played a prominent part. (Schol.
+     <em>
+      ad Aeschyl. Prom.
+     </em>
+     793.) At a later period they are mentioned among the fabulous animals which guarded the gold of India. (Philostr.
+     <em>
+      Vit. Apollon.
+     </em>
+     iii. 48.) The figures of griffins were frequently employed as ornaments in works of art ; the earliest instance of which we have any record is the bronze patera, which the Samians ordered to be made about B. C. 640. (Herod. iv. 152; comp. 79.) They were also represented on the helmet of the statue of Athena by Phidias. (Paus.
+     <em>
+      l. c.
+     </em>
+     )
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/M16.4.html">
+      <img alt="Griffin and Arimaspian | Athenian red-figure kylix C4th B.C. | Museum of Fine Arts Boston" class="img-responsive center-block" src="../image/M16.4Grypes_sm.jpg"/>
+     </a>
+     <figcaption>
+      Griffin and Arimaspian, Athenian red-figure kylix C4th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 802 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Prometheus warns the wandering  Io :] ‘But now listen to another and a fearsome spectacle. Beware of the sharp-beaked hounds of Zeus that do not bark, the Grypes (Griffins), and the one-eyed (
+     <em>
+      monôpoi
+     </em>
+     ) Arimaspoi (Arimaspians), mounted on horses, who dwell about the flood of Plouton's (Pluton's) stream that flows with gold. Do not approach them.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Frogs 929 825 (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "Euripides : 'Twas all Skamandros (Scamander), moated camps, and Grypaietoi (Griffin-Eagles) flashing in burnished copper on the shields."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 3. 116. 1 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "But in the north of Europe there is by far the most gold. In this matter again I cannot say with assurance how the gold is produced, but it is said that one-eyed men called Arimaspoi (Arimaspians) steal it from Grypes (Griffins). The most outlying lands, though, as they enclose and wholly surround all the rest of the world, are likely to have those things which we think the finest and the rarest."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 4. 13. 1 :
+     </span>
+     <br/>
+     "There is also a story related in a poem by Aristeas son of Kaüstrobios, a man of Prokonnesos (Proconnesus). This Aristeas, possessed by Phoibos (Phoebus) [Apollon], visited the Issedones; beyond these (he said) live the one-eyed Arimaspoi (Arimaspians), beyond whom are the Grypes (Griffins) that guard gold, and beyond these again the Hyperboreoi (Hyperboreans), whose territory reaches to the sea. Except for the Hyperboreoi, all these nations (and first the Arimaspoi) are always at war with their neighbors; the Issedones were pushed from their lands by the Arimaspoi, and the Skythians (Scythians) by the Issedones."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 4. 27. 1 :
+     </span>
+     <br/>
+     "Of these too, then, we have knowledge; but as for what is north of them, it is from the Issedones that the tale comes of the one-eyed men [Arimaspoi (Arimaspians)] and the Grypes (Griffins) that guard gold; this is told by the Skythians (Scythians), who have heard it from them; and we have taken it as true from the Skythians, and call these people by the Skythian name, Arimaspoi; for in the Skythian tongue
+     <em>
+      arima
+     </em>
+     is ‘one’, and
+     <em>
+      spou
+     </em>
+     is the ‘eye’."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 4. 79. 1 :
+     </span>
+     <br/>
+     "He had in the city of the Borysthenites [in Asia Minor] a spacious house, grand and costly (the same house I just mentioned), all surrounded by Sphinxes and Grypes (Griffins) worked in white marble."
+    </p>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/M16.2.html">
+      <img alt="Griffin fighting Arimaspian | Athenian red-figure calyx krater C5th B.C. |  British Museum, London" class="img-responsive center-block" src="../image/M16.2Gryps_sm.jpg"/>
+     </a>
+     <figcaption>
+      Griffin fighting Arimaspian, Athenian red-figure calyx krater C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 4. 152. 4 :
+     </span>
+     <br/>
+     "The Samians took six talents, a tenth of their profit, and made a bronze vessel with it, like an Argolic cauldron, with Grypes' (Griffins') heads projecting from the rim all around; they set this up in their temple of Hera, supporting it with three colossal kneeling figures of bronze, each twelve feet high."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ctesias, Indica (summary from Photius, Myriobiblon 72) (trans. Freese) (Greek historian C4th B.C.) :
+     </span>
+     <br/>
+     "There is also gold [in India], not found in rivers and washed, as in the river Paktolos (Pactolus) [in Lydia], but in many large mountains which are inhabited by Grypes (Griffins). These are four-footed birds as large as a wolf, their legs and claws resembling those of a lion; their breast feathers are red, those of the rest of the body black. Although there is abundance of gold in the mountains, it is difficult to get it because of these birds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 8. 3. 12 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Near the outlet of the river [the River Alpheios in Elis] is the sacred precinct of Artemis Alpheionia . . . In the temple of Artemis Alpheionia are very famous paintings . . . by Aregon the ‘Artemis Borne Aloft on a Gryps (Griffin).’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 24. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Grypas (Griffins), Aristeas of Prokonnesos says in his poem, fight for the gold with the Arimaspoi (Arimaspians) beyond the Issedones. The gold which the Grypas guard, he says, comes out of the earth; the Arimaspoi are men all born with one eye; Grypas are beasts like lions, but with the beak and wings of an eagle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Guide to Greece 8. 2. 7 :
+     </span>
+     <br/>
+     "I have also heard that Gryphoi (Griffins) have spots like the leopard."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Guide to Greece 1. 31. 2 :
+     </span>
+     <br/>
+     "At Prasiai (Prasiae) [in Attika] is a temple of Apollon. Hither they say are sent the first-fruits of the Hyperboreoi (Hyperboreans), and the Hyperboreoi are said to hand them over to the Arimaspoi (Arimaspians), the Arimaspoi to the Issedones, from these the Skythians (Scythians) bring them to Sinope, thence they are carried by Greeks to Prasiai, and the Athenians take them to Delos."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z46.4.html">
+      <img alt="Griffin guarding chest | Greco-Roman mosaic C4th A.D. | Villa Romana del Casale, Piazza Amerina" class="img-responsive center-block" src="../image/Z46.4Grypes.jpg"/>
+     </a>
+     <figcaption>
+      Griffin guarding chest, Greco-Roman mosaic C4th A.D.,
+      <a href="http://www.villaromanadelcasale.it/" target="_blank">
+       Villa Romana del Casale
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 4. 27 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "I have heard that the Indian animal the Grupa (Gryphon, Griffin) is a quadraped like a lion; that it has claws of enormous strength and that they resemble those of a lion. Men commonly report that it is winged and that the feathers along its back are black, and those on its front are red, while the actual wings are neither but are white. And Ktesias (Ctesias) records that its neck is variegated with feathers of a dark blue; that it has a beak like an eagle's, and a head too, just as artists portray it in pictures and sculpture. Its eyes, he says, are like fire. It builds its lair among the mountains, and although it is not possible to capture the full-grown animal, they do take the young ones. And the people of Baktria (Bactria), who are neighbours of the Indians, say that the Grypes (Gryphons) guard the gold in those parts; that they dig it up and build their nests with it, and that the Indians carry off any that falls from them. The Indians however deny that they guard the aforesaid gold, for the Grypes have no need for it--and if that is what they say, then I at any rate think that they speak the truth--, but that they themselves come to collect the gold, while the Grypes fearing for their young ones fight with the invaders. They engage too with other beasts and overcome them without difficulty, but they will not face the lion or the elephant. Accordingly the natives, dreading the strength of these animals, do not set out in quest of the gold by day, but arrive by night, for at that season they are less likely to be detected.
+     <br/>
+     Now the region where the Grypes live and where the gold is mined is a dreary wilderness. And the seekers after the aforesaid substance arrive, a thousand or two strong, armed and bringing spades and sacks; and watching for a moonless night they begin to dig. Now if they contrive to elude the Grypes they reap a double advantage, for they not only escape with their lives but they also take home their freight, and when those who have acquired a special skill in the smelting of gold have refined it, they possess immense wealth to requite them for the dangers described above. And they return home, I am told, after an interval of three or four years."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 3. 48 (trans. Conybeare) (Greek biography C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "As to the gold which the Grypes (Griffins) dig up, there are rocks which are spotted with drops of gold as with sparks, which this creature can quarry because of the strength of its beak.
+     <br/>
+     ‘For these animals do exist in India,’ he [the Indian sage Iarkhas (Iarchas), C1st A.D.] said, ‘and are held in veneration as being sacred to Helios the Sun; and the Indian artists, when they represent Helios, yoke four of them abreast to draw the images; and in size and strength they resemble lions but having this advantage over them that they have wings, they will attack them, and they get the better of elephants and of Drakones (Dragon-Serpents). But they have no great power of flying, not more than have birds of short flight; for they are not winged as is proper with birds, but the palms of their feet are webbed with red membranes, such that they are able to revolve them, and make a flight and fight in the air; and the tiger alone is beyond their powers of attack, because in swiftness it rivals the winds.’"
+    </p>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/M16.1.html">
+      <img alt="Decorative Griffin | Athenian red-figure kylix C6th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/M16.1Gryps.jpg"/>
+     </a>
+     <figcaption>
+      Decorative Griffin, Athenian red-figure kylix C6th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 6. 1 :
+     </span>
+     <br/>
+     "And the Grypes (Griffins) of the Indoi (Indians) and the Ants of the Aithiopes (Ethiopians), though they are dissimilar in form, yet, from what we hear, play similar parts; for in each country they are, according to the tales of poets, the guardians of gold, and devoted to the gold reefs of the two countries."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 7. 10 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "Also a tribe is reported next to these [i.e. the tribes of Skythia (Scythia)], towards the North, not far from the actual quarter where Aquilo (the North Wind) [Boreas] rises and the cave that bears its name, the place called the Earth's Door-Bolt (
+     <em>
+      Ges Clithron
+     </em>
+     )--the Arimaspi (Arimaspians) whom we have spoke of already, people remarkable for having one yes in the centre of their forehead. Many authorities, the most distinguished being Herodotus [Greek historian C5th B.C.] and Aristeas of Proconnesus [Greek poet C7th B.C.], write that these people wage continual war with the Grypes (Griffins), a kind of wild beast with wings, as commonly reported, that digs gold out of mines, which the creatures guard and the Arimaspi try to take from them, both with remarkable covetousness."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 11. 235 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "Hyperborei Grypes (Hyperborean Griffins) which look like winged birds and are produced in another world."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 395 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Round her [Nemesis the goddess of retribution's] throne flew a bird of vengeance, a Gryps (Griffin) flying with wings, or balancing himself on four feet, to go unbidden before the flying goddess and show that she herself traverses the four separate quarters of the world."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 449 ff :
+     </span>
+     <br/>
+     "She [Nemesis] had harnessed racing Grypes (Griffins) under her bridle; quick through the air she coursed in the swift car, until she tightened the curving bits of her fourfooted birds, and drew up on the peak of Sipylos in front of the face of Tantalos' daughter [Niobe] with eyeballs of stone."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K5.7.html">
+        <img alt="Thumbnail Apollo Riding Griffin" src="../image/thumbK5.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K5.7 Apollo Riding Griffin
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M16.4.html">
+        <img alt="Thumbnail Griffin &amp; Arimaspian" src="../image/thumbM16.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M16.4 Griffin &amp; Arimaspian
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M16.1.html">
+        <img alt="Thumbnail Decorative Griffin" src="../image/thumbM16.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M16.1 Decorative Griffin
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.8.html">
+        <img alt="Thumbnail Dionysus, Griffin, Bull, Panther" src="../image/thumbK12.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.8 Dionysus, Griffin, Bull
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M16.5.html">
+        <img alt="Thumbnail Griffins &amp; Arimaspians" src="../image/thumbM16.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M16.5 Griffins &amp; Arimaspians
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M16.2.html">
+        <img alt="Thumbnail Griffin &amp; Arimaspian" src="../image/thumbM16.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M16.2 Griffin &amp; Arimaspian
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/M16.3.html">
+        <img alt="Thumbnail Griffins &amp; Arimaspians" src="../image/thumbM16.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         M16.3 Griffins &amp; Arimaspians
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z46.4.html">
+        <img alt="Thumbnail Griffin &amp; Treasure Chest" src="../image/thumbZ46.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z46.4 Griffin &amp; Treasure Chest
+        </h3>
+        <p>
+         Greco-Roman Villa Romana Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z49.2.html">
+        <img alt="Thumbnail Orpheus, Griffin, Beasts" src="../image/thumbZ49.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z49.2 Orpheus, Griffin, Beasts
+        </h3>
+        <p>
+         Greco-Roman Philippopolis Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z46.2.html">
+        <img alt="Thumbnail Griffin Attacking Horse" src="../image/thumbZ46.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z46.2 Griffin Attacking Horse
+        </h3>
+        <p>
+         Greek Corinth Floor Mosaic C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z46.1.html">
+        <img alt="Thumbnail Oriental-Style Griffin" src="../image/thumbZ46.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z46.1 Oriental-Style Griffin
+        </h3>
+        <p>
+         Greco-Roman Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Frogs
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Ctesias, Indica
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Photius, Myriobiblon
+      <span class="sources-detail">
+       - Byzantine Greek Scholar C9th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     GRIFFIN SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GRIFFIN
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Lion's body, eagle's head and wings
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mountains of Scythia
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

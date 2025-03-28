@@ -1,0 +1,2132 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   IO - Argive Princess &amp; Nymph of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Io was an Argive princess and Naiad-nymph who was loved by the god Zeus. When Hera suddenly interrupted their tryst, Zeus transformed the maiden into a white heifer. However the goddess was not so easily fooled and requested the animal as a gift. She then appointed the hundred-eyed giant Argos Panoptes as its guard. Zeus sent Hermes to slay the warden but Hera soon retaliated by inflicing the heifer-shaped Io with a gadfly. The stinging insect drove the cow-girl mad forcing her to wander miles across the expanses of Europe and Asia to eventually reach Egypt. Once there Zeus restored her form with a touch of the hand and she gave birth to their son Epaphus." name="description"/>
+  <meta content="Io, Greek mythology, heroine, Argive princess, Argive nymph, Io pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Heroines
+     </a>
+     &gt;&gt; Io
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     IO
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ιω
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Iô
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Io
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Moon (
+       <em>
+        iô
+       </em>
+       Argive dialect)
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/F41.1.html">
+      <img alt="Io received in Egypt by Isis and the river-god Nile | Greco-Roman fresco from Pompeii C1st B.C. | Naples National Archaeological Museum" class="img-responsive center-block" src="../image/F41.1Io.jpg"/>
+     </a>
+     <figcaption>
+      Io received in Egypt by Isis and the river-god Nile, Greco-Roman fresco from Pompeii C1st B.C.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     IO was an Argive princess and
+     <a href="/Nymphe/Naiades.html">
+      Naiad
+     </a>
+     -nymph who was loved by the god Zeus. When
+     <a href="../Olympios/Hera.html">
+      Hera
+     </a>
+     suddenly interrupted their tryst, Zeus transformed the maiden into a white heifer. However the goddess was not so easily fooled and requested the animal as a gift. She then appointed the hundred-eyed giant
+     <a href="../Gigante/GiganteArgosPanoptes.html">
+      Argos Panoptes
+     </a>
+     as its guard. Zeus sent
+     <a href="../Olympios/Hermes.html">
+      Hermes
+     </a>
+     to slay the warden but Hera soon retaliated by inflicing the heifer-shaped Io with a gadfly. The stinging insect drove the cow-girl mad forcing her to wander miles across the expanses of Europe and Asia to eventually reach Aigyptos (Egypt). Once there Zeus restored her form with a touch of the hand and she gave birth to their son Epaphos.
+    </p>
+    <p>
+     Io's  descendants ruled Aigyptos and the East for many generations but later returned to Greece--Kadmos (Cadmus) founding the royal house of Thebes and Danaos (Danaus) that of Argos.
+    </p>
+    <p>
+     Io was sometimes identified with the Egyptian goddess Isis and her son Epaphos with the sacred bull Apis.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF IO
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Potamos/PotamosInakhos.html">
+      INAKHOS
+     </a>
+     <span class="family-refs">
+      (Aeschylus Prometheus Bound 589, Apollodorus 2.5, Callimachus Hymns 3.24, Nicaenetus Lyrcus Frag, Apollonius Rhodius Caunus Frag, Parthenius Love Romances 1, Pausanias 1.25.1, Herodotus 1.1.2, Diodorus Siculus 5.60.4, Aelian On Animals 11.10, Virgil Aeneid 7.791, Ovid Metamorphoses 1.590, Ovid Heroides 14.105, Propertius Elegies 1.3 &amp; 2.33A, Valerius Flaccus 4.345, Nonnus Dionysiaca 3.257 &amp; 32.65, Suidas "Io")
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Potamos/PotamosInakhos.html">
+      INAKHOS
+     </a>
+     &amp;
+     <a href="../Nymphe/NympheMelia1.html">
+      ARGIA
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 145)
+     </span>
+     <br/>
+     [2.1] IASOS
+     <span class="family-refs">
+      (Apollodorus 2.5, Pausanias 2.16.1)
+     </span>
+     <br/>
+     [3.1] PEIREN
+     <span class="family-refs">
+      (Apollodorus 2.5)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] EPAPHOS (by
+     <a href="../Olympios/ZeusFamily.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Aeschylus Prometheus Bound 589, Aeschylus Suppliant Women 40 &amp; 312, Apollodorus 2.5, Strabo 10.1.3, Aelian On Animals 11.10, Hyginus Fabulae 145, Ovid Metamorphoses 1.750, Nonnus Dionysiaca 3.257 &amp; 32.65)
+     </span>
+     <br/>
+     [2.1] KEROESSA (by
+     <a href="../Olympios/ZeusFamily.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Stephanus of Byzantium "Byzantion")
+     </span>
+     <br/>
+     [3.1]
+     <a href="../Daimon/Harpokrates.html">
+      HARPOKRATES
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 277)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     IO (Iô). The traditions about this heroine are so manifold, that it is impossible to give any general view of them without some classification we shall therefore give first the principal local traditions, next the wanderings of Io, as they are described by later writers, and lastly mention the various attempts to explain the stories about her.
+    </p>
+    <p>
+     1.
+     <em>
+      Local traditions.
+     </em>
+     -- The place to which the legends of lo belong, and where she was closely connected with the worship of Zeus and Hera, is Argos. The chronological tables of the priestesses of Hera at Argos placed Io at the head of the list of priestesses, under the name of Callirhoë, or Callithyia. (Preller,
+     <em>
+      de Hellan. Lesb.
+     </em>
+     p. 40.) She is commonly described as a daughter of Inachus, the founder of the worship of Hera at Argos, and by others as a daughter of Iasus or Peiren. Zeus loved Io, but on account of Hera's jealousy, he metamorphosed her into a white cow. Hera thereupon asked and obtained the cow from Zeus, and placed her under the care of Argus Panoptes, who tied her to an olive tree in the grove of Hera at Mycenae. But Hermes was commissioned by Zeus to deliver Io, and carry her off. Hermes being guided by a bird (hierax, pikon), who was Zeus himself (Suid.
+     <em>
+      s. v.
+     </em>
+     Iô), slew Argus with a stone. Hera then sent a gad-fly. which tormented Io, and persecuted her through the whole earth, until at length she found rest on the banks of the Nile. (Apollod. ii. 1. § 2; Hygin.
+     <em>
+      Fab.
+     </em>
+     145; comp. Virg.
+     <em>
+      Georg.
+     </em>
+     iii. 148, &amp;c.) This is the common story, which appears to be very ancient, since Homer constantly applies the epithet of Argeiphontes (the slayer of Argus) to Hermes. But there are some slight modifications of the story in the different writers. Some, for example, place the scene of the murder of Argus at Nemea (Lucian,
+     <em>
+      Dial. Deor.
+     </em>
+     3; Etymol. Mag.
+     <em>
+      s. v.
+     </em>
+     Aphesios). Ovid (
+     <em>
+      Met.
+     </em>
+     i. 722) relates that Hermes first sent Argus to sleep by the sweetness of his music on the flute, and that he then cut off the head of Argus, whose eyes Hera transferred to the tail of the peacock, her favourite bird. (Comp. Moschus,
+     <em>
+      Idyll.
+     </em>
+     ii. 59.) A peculiar mournfill festival was celebrated in honour of Io at Argos, and although we have no distinct statement that she was worshipped in the historical ages of Greece, still it is not improbable that she was. (Suid.
+     <em>
+      l.
+     </em>
+     c.; Palaephat. p. 43; Strab. xiv. p. 673.) There are indeed other places, besides Argos, where we meet with the legends of Io, but they must be regarded as importations from Argos, either through colonies sent by the latter city, or they were transplanted with the worship of Hera, the Argive goddess. We may mention Euboea, which probably derived its name from the cow Io, and where the spot was shown on which Io was believed to have been killed, as well as the cave in which she had given birth to Epaphus. (Strab vii. p. 320; Steph. Byz.
+     <em>
+      l. s.
+     </em>
+     Argoura; Etymol. Mag.
+     <em>
+      s. v.
+     </em>
+     Euboia.) Another place is Byzantium, in the foundation of which Argive colonists had taken part, and where the Bosporus derived its name, from the cow Io having swam across it. From the Thracian Bosporus the story then spread to the Cimmerian Bosporus and Panticapaeum. Tarsus and Antioch likewise had monuments to prove that Io had been in their neighbourhood, and that they were colonies of Argos. Io was further said to have been at Joppa and in Aethiopia, together with Perseus and Medusa (Tzetz.
+     <em>
+      ad Lycoph.
+     </em>
+     835, &amp;c.); but it was more especially the Greeks residing in Egypt, who maintained that Io had been in Egypt, where she was said to have given birth to Epaphus, and to have introduced the worship of Isis, while Epaphus became the founder of a family from which sprang Danaus, who subsequently returned to Argos. This part of the story seems to have arisen from certain resemblances of religious notions, which subsequently even gave rise to the identification of Io and Isis. Herodotus (i. l, &amp;c., ii. 41) tells us that Isis was represented like the Greek Io, in the form of a woman, with cows' horns.
+    </p>
+    <p>
+     2.
+     <em>
+      The wanderings of Io.
+     </em>
+     --The idea of Io having wandered about after her metamorphosis appears to have been as ancient as the mythus respecting her, but those wanderings were extended and poetically embellished in proportion as geographical knowledge increased. The most important passage is in the
+     <em>
+      Prometheus
+     </em>
+     of Aeschylus, 705, &amp;c., although it is almost impossible to reconcile the poet's description with ancient geography, so far as we know it. From Argos Io first went to Molossis and the neighbourhood of Dodona, and from thence to the sea, which derived from her the name of the Ionian. After many wanderings through the unknown regions of the north, she arrived in the place where Prometheus was fastened to a rock. As the Titan prescribes to her the course she has yet to take, it is of importance to ascertain the spot at which he begins to describe her course; but the expressions of Aeschylus are so vague, that it is a hopeless attempt to determine that spot. According to the extant play, it is somewhere in European Scythia, perhaps to the north of the river Istrus; but in the last play of the Trilogy, as well as in other accounts, the Caucasus is mentioned as the place where the Titan endured his tortures, and it remains again uncertain in what part of the Caucasus we have to conceive the suffering Titan. It seems to be the most probable supposition, that Aeschylus himself did not form a clear and distinct notion of the wanderings he describes, for how lïttle he cared about geographical accuracy is evident from the fact, that in the
+     <em>
+      Supplices
+     </em>
+     (548, &amp;c.) he describes the wanderings of Io in a very diffent manner from that adopted in the
+     <em>
+      Prometheus.
+     </em>
+     If, however, we place Prometheus somewhere in the north of Europe, the course he prescribes may be conceived in the following manner. Io has first to wander towards the east, through unknown countries, to the Scythian nomades (north of Olbia), whom, however, she is to avoid, by travelling through their country along the sea-coast; she is then to have on her left the Chalybes, against whom she must likewise be on her guard. These Chalybes are probably the Cimmerians, who formerly inhabited the Crimea and the adjacent part of Scythia, and afterwards the country about Sinope. From thence she is to arrive on the river Hybristes (the Don or Cuban), which she is to follow up to its sources, in the highest parts of Mount Caucasus, in order there to cross it. Thence she is to proceed southward, where she is to meet the Amazons (who at that time are conceived to live in Colchis, afterwards in Themiscyra, on the river Thermodon), who are to conduct her to the place where the Salmydessian rock endangers all navigation. This latter point is so clear an allusion to the coast north of the mouth of the Bosporus, that we must suppose that Aeschylus meant to describe Io as crossing the Thracian Bosporus from Asia into Europe. From thence he leads her to the Cimmerian Bos porus, which is to receive its name from her, and across the palus Maeotis. In this manner she would in part touch upon the same countries which she had traversed before. After this she is to leave Europe and go to Asia, according to which the poet must here make the Maeotis the boundary between Europe and Asia, whereas elsewhere he makes the Phasis the boundary. The description of the wanderings of Io is taken up again at verse 788. She is told that after crossing the water separating the two continents, she is to arrive in the hot countries situated under the rising sun. At this point in the description there is a gap, and the last passage probably described her further progress through Asia. Io then has again to cross a sea,after which she is to come to the Gorgonaean plains of Cisthenes (which, according to the scholiast, is a town of Aethiopia or Libya), and to meet the Graeae and Gorgones. The sea here mentioned is probably the so-called Indian Bosporus (Steph. Byz.
+     <em>
+      s. v.
+     </em>
+     Bosporos; Eustath.
+     <em>
+      ad Dionys. Perieg.
+     </em>
+     143), where the extremities of Asia and Libya, India and Aethiopia, were conceived to be close to each other, and where some writers place the Gorgones. (Schol.
+     <em>
+      ad Pind. Pyth.
+     </em>
+     x. 72.) The mention, in the verses following, of the griffins and Arimaspae, who are generally assigned to northern regions, creates some difficulty, though the poet may have mentioned them without meaning to place them in the south, but only for the purpose of connecting the misfortunes of Io with the best-known monsters. From the Indian Bosporus, Io is to arrive in the country of the black people, dwelling around the well of the sun, on the river Aethiops, that is, the upper part of the Nile or the Niger. She is to follow the course of that river, until she comes to the cataracts of the Nile, which river she is again to follow down to the Delta, where delivery awaits her. (Comp. Eurip.
+     <em>
+      Iphig. Taur.
+     </em>
+     382, &amp;c.; Apollod. ii. 1. § 3; Hygin.
+     <em>
+      Fab.
+     </em>
+     145.)
+    </p>
+    <p>
+     The mythus of Io is one of the most ancient, and at the same time one of the most difficult to explain. The ancients believed Io to be the moon, and there is a distinct tradition that the Argives called the moon Io. (Eustath.
+     <em>
+      ad Dionys. Perieg.
+     </em>
+     92; Suid. and Hesych.
+     <em>
+      s. v.
+     </em>
+     Iô.) That Io is identical with the moon cannot be doubted (comp. Eurip.
+     <em>
+      Phoen,
+     </em>
+     1123; Macrob.
+     <em>
+      Sat.
+     </em>
+     i. 19), and the various things related of her refer to the phases and phenomena of the moon, and are intimately connected with the worship of Zeus and Hera at Argos. Her connection with Egypt seems to be an invention of later times, and was probably suggested by the resemblance which was found to exist between the Argive Io and the Egyptian Isis.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAMES
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Καλλιθυια
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Kallithyia
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Callithyia
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Fine Offerings (
+       <em>
+        kalli-, thuon
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/L11.2.html">
+      <img alt="Hermes, Argus Panoptes and the heifer Io | Athenian red-figure stamnos C5th B.C. | Kunsthistorisches Museum, Vienna" class="img-responsive center-block" src="../image/L11.2ArgosPanoptes.jpg"/>
+     </a>
+     <figcaption>
+      Hermes, Argus Panoptes and the heifer Io, Athenian red-figure vase C5th B.C.,
+      <a href="https://www.khm.at/" target="_blank">
+       Kunsthistorisches Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod,  The Aegimius Frag 4 (from Herodian in Stephanus of Byzantium) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Zeus changed Io in the fair island Abantis, which the gods, who are eternally, used to call Abantis aforetime, but Zeus then called it Euboia (Island of Fine Cattle) after the cow."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod,  The Aegimius Frag 5 (from Scholiast on Euripides, Phoenicians 1116) :
+     </span>
+     <br/>
+     "And [Hera] set a watcher upon her [Io], great and strong Argos (Argus), who with four eyes looks every way. And the goddess stirred in him unwearying strength : sleep never fell upon his eyes; but he kept sure watch always."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 561 - 609  (trans. Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[The wandering cow-maiden Io arrives in the Kaukasos (Caucasus) Mountains where the Titan Prometheus is chained to a crag.]
+     <br/>
+     Io : What land is this? What people? By what name am I to call the one I see exposed to the tempest in bonds of rock? What offence have you committed that as punishment you are doomed to destruction? Tell me to what region of the earth I have wandered in my wretchedness? Oh, oh! Aah! Aah! A gad-fly (
+     <em>
+      oistros
+     </em>
+     ), phantom (
+     <em>
+      eidôlon
+     </em>
+     ) of earth-born (
+     <em>
+      gêgenês
+     </em>
+     ) Argos (Argus) is stinging me again! Keep him away, O Earth! I am fearful when I behold that myriad-eyed herdsman. He travels onward with his crafty gaze upon me; not even in death does the earth conceal him, but passing from the shades he hounds me, the forlorn one, and drives me famished along the sands of the seashore. The waxen pipe drones forth in accompaniment a clear-sounding slumberous strain. Alas, alas! Where is my far-roaming wandering course taking me? In what, O [Zeus] son of Kronos (Cronus), in what have you found offence so that you have bound me to this yoke of misery--aah! are you harassing a wretched maiden to frenzy by this terror of the pursuing gadfly? Consume me with fire, or hide me in the earth, or give me to the monsters of the deep to devour; but do not grudge, O Lord, the favor that I pray for. My far-roaming wanderings have taught me enough, and I cannot discern how to escape my sufferings. Do you hear the voice of the horned virgin?
+     <br/>
+     Prometheus : How can I fail to hear the maiden frenzied by the gadfly, the daughter of Inakhos (Inachus)? It is she who fires the heart of Zeus with passion, and now, through Hera's hate, is disciplined by force with interminable wandering.
+     <br/>
+     Io : Why do you call my father's name? Tell me, the unfortunate maid, who you are, unhappy wretch, that you thus correctly address the miserable maiden, and have named the heaven-sent plague that wastes and stings me with its maddening goad. Ah me! In frenzied bounds I come, driven by torturing hunger, victim of Hera's vengeful purpose. Who of the company of the unfortunate endures--aah! aah!--sufferings such as mine? Oh make it clear to me what misery I am fated to suffer, what remedy is there, what cure, for my affliction. Reveal it, if you have the knowledge. Oh speak, declare it to the unfortunate, wandering virgin."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 631 - 695 :
+     </span>
+     <br/>
+     "Chorus [of Okeanides (Oceanids)] : Let us first inquire the story of her [Io's] affliction and let her with her own lips relate the events that brought horrid calamity upon her. Then let her be instructed by you as to the toils still to come.
+     <br/>
+     Prometheus : It is for you, Io, to grant them this favor, especially since they [the Okeanides] are your father's [Inakhos' (Inachus')] sisters. For it is worthwhile to indulge in weeping and in wailing over evil fortunes when one is likely to win the tribute of a tear from the listener.
+     <br/>
+     Io : I do not know how to refuse you. You shall learn in truthful speech all that you would like to know. Yet I am ashamed to tell about the storm of calamity sent by Heaven, of the marring of my form, and of the source from which it swooped upon me, wretched that I am.
+     <br/>
+     Io : For visions of the night, always haunting my maiden chamber, sought to beguile me with seductive words, saying : ‘O damsel greatly blessed of fortune, why linger in your maidenhood so long when it is within your power to win a union of the highest? Zeus is inflamed by passion's dart for you and is eager to unite with you in love. Do not, my child, spurn the bed of Zeus, but go forth to Lerna's meadow land of pastures deep and to your father's flocks and where his cattle feed, so that the eye of Zeus may find respite from its longing.’
+     <br/>
+     Io : By such dreams was I, to my distress, beset night after night, until at last I gained courage to tell my father [Inakhos] of the dreams that haunted me. And he sent many a messenger to Pytho and Dodona so that he might discover what deed or word of his would find favor with the gods. But they returned with report of oracles, riddling, obscure, and darkly worded. Then at last there came an unmistakable utterance to Inakhos, charging and commanding him clearly that he must thrust me forth from home and native land to roam at large to the remotest confines of the earth; and, if he would not, a fiery thunderbolt would come from Zeus that would utterly destroy his whole race.
+     <br/>
+     Io : Yielding obedience to such prophetic utterances of Loxias [Apollon], he drove me away and barred me from his house, against his will and mine; but the constraint of Zeus forced him to act by necessity. Immediately my form and mind were distorted, and with horns, as you see, upon my forehead, stung by a sharp-fanged gadfly I rushed with frantic bounds to Kerkhnea's (Cerchnea's) sweet stream and Lerna's spring. But Argos (Argus), the earth-born (
+     <em>
+      gêgenês
+     </em>
+     ) herdsman, untempered in his rage, pursued me, peering with his many eyes upon my steps. A sudden death robbed him of life unexpectedly; while I, still tormented by the gadfly, am driven on from land to land before the heaven-sent plague.
+     <br/>
+     Io : That is what happened; and if you can declare what toils still remain, reveal them. Do not, from pity, seek to soothe me with untrue words; for I consider false words to be the foulest sickness.
+     <br/>
+     Chorus : Oh, ah, go away, alas! Never, oh never, did I dream that words so strange would greet my ears; or that sufferings so grievous to look upon, yes, and so grievous to endure, a tale of outrage, would strike my soul as if with double-pronged goad. Alas, O Fate (
+     <em>
+      moira
+     </em>
+     ), O Fate (
+     <em>
+      moira
+     </em>
+     ), I shudder to behold the plight that has befallen Io."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 700 - 736 &amp; 788 - 818 :
+     </span>
+     <br/>
+     "Prometheus : You [the Okeanides (Oceanids)] gained your former request easily from me; for you first desired the story of her ordeal from her own lips. Hear now the sequel, the sufferings this maid is fated to endure at Hera's hand. And may you, daughter of Inakhos (Inachus), lay to heart my words so that you may learn the end of your wanderings.
+     <br/>
+     Prometheus : First, from this spot, turn yourself toward the rising sun and make your way over untilled plains; and you shall reach the Skythian (Scythian) nomads, who dwell in thatched houses, perched aloft on strong-wheeled wagons and are equipped with far-darting bows. Do not approach them, but keeping your feet near the rugged shore, where the sea breaks with a roar, pass on beyond their land. On the left hand dwell the workers in iron, the Khalybes (Chalybes), and you must beware of them, since they are savage and are not to be approached by strangers. Then you shall reach the river Hybristes (the Violent), which does not belie its name. Do not cross this, for it is hard to cross, until you come to Kaukasos (Caucasus) itself, loftiest of mountains, where from its very brows the river pours out its might in fury. You must pass over its crests, which neighbor the stars, and enter upon a southward course, where you shall reach the host of the Amazones, who loathe all men. They shall in time to come inhabit Themiskyra (Themiscyra) on the Thermodon, where, fronting the sea, is Salmydessos' rugged jaw, evil host of mariners, step-mother of ships. The Amazones will gladly guide you on your way. Next, just at the narrow portals of the harbor, you shall reach the Kimmerian (Cimmerian) isthmus. This you must leave with stout heart and pass through the channel of Maiotis (Maeotis); and ever after among mankind there shall be great mention of your passing, and it shall be called after you the Bosporos (Cow Ford). Then, leaving the soil of Europe, you shall come to the Asian continent.
+     <br/>
+     Prometheus : Does it not seem to you that [Zeus] the tyrant of the gods is violent in all his ways? For this god, desirous of union with this mortal maid, has imposed upon her these wanderings. Maiden, you have gained a cruel suitor for your hand. As to the tale you now have heard--understand that it has not even passed the introduction.
+     <br/>
+     Io : Ah me, ah me, alas!
+     <br/>
+     Prometheus : What! You are crying and groaning again? What will you do, I wonder, when you have learned the sufferings still in store for you?
+     <br/>
+     Chorus [of Okeanides] : What! Can it be that you have sufferings still left to recount to her?
+     <br/>
+     Prometheus : Yes, a tempestuous sea of calamitous distress.
+     <br/>
+     Io : What gain have I then in life? Why did I not hurl myself straightaway from this rugged rock, so that I was dashed to earth and freed from all my sufferings? It is better to die once and for all than linger out all my days in misery . . .
+     <br/>
+     Prometheus : To you, Io, will I declare your much-vexed wandering, and may you engrave it on the recording tablets of your mind. When you have crossed the stream that bounds the two continents, toward the flaming east, where the sun walks . . ((lacuna)) crossing the surging sea until you reach the Gorgonean plains of Kisthene (Cisthene), where the Phorkides (Phorcides) [Graiai] dwell, ancient maids, three in number, shaped like swans, possessing one eye amongst them and a single tooth; neither does the sun with his beams look down upon them, nor ever the nightly moon. And near them are their three winged sisters, the snake-haired Gorgones, loathed of mankind, whom no one of mortal kind shall look upon and still draw breath. Such is the peril that I bid you to guard against. But now listen to another and a fearsome spectacle. Beware of the sharp-beaked hounds of Zeus that do not bark, the Grypes (Griffins), and the one-eyed Arimaspoi (Arimaspians), mounted on horses, who dwell about the flood of Plouton's (Pluton's) stream that flows with gold. Do not approach them. Then you shall come to a far-off country of a dark race that dwells by the waters of the sun, where the river Aithiops (Ethiops) is. Follow along its banks until you reach the cataract, where, from the Bybline mountains, Neilos (Nile) sends forth his hallowed and sweet stream. He will conduct you on your way to the three-angled land of Neilotis, where, at last, it is ordained for you, O Io, and for your children to found your far-off colony. If anything of this is confusing to you and hard to understand, may you question me yet again, and gain a clear account; for I have more leisure than I crave."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 823 ff :
+     </span>
+     <br/>
+     "Prometheus : She [Io] has now heard the full end of her travels; yet so she may know that she has heard no vain tale from me, I will describe the toils she has endured before she came here, giving this as a sure proof of my account. Most of the weary tale I shall leave out and come to the very close of your wanderings. For when you reached the Molossian plains and the sheer ridge that encircles Dodona, where lies the prophetic seat of Zeus Thesprotios and that marvel, passing all belief, the talking oaks, by which you clearly, and in no riddling terms, were saluted as the renowned bride-to-be of Zeus (is any of this pleasing to you?), then, stung by the gadfly, you rushed along the pathway by the shore to the great gulf of Rhea, from where you are tossed in backward-wandering course; and for all time to come a recess of the sea, be well assured, shall bear the name Ionian, as a memorial of your crossing for all mankind. These, then, are the tokens to you of my understanding, to show that it discerns more than has been made manifest."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 844 ff :
+     </span>
+     <br/>
+     "Prometheus : The rest I shall declare both to you and her [the Okeanides (Oceanids) and Io], returning to the track of my former tale. There is a city, Kanobos (Canobus), on the extremity of the land at the very mouth and silt-bar of the Neilos (Nile). There at last Zeus restores you [Io] to your senses by the mere stroke and touch of his unterrifying hand. And you shall bring forth dark Epaphos (Touch-born), thus named from the manner of Zeus' engendering; and he shall gather the fruit of all the land watered by the broad-flowing Neilos (Nile). Fifth in descent from him, fifty maidens [the Danaides] shall return to Argos, not of their own free choice, but fleeing marriage with their cousin kin ... She [the Danaid Hypermestra] it is who shall give birth in Argos to a royal line--a long story is necessary to explain this clearly; of her seed, however, shall be born a man of daring [Herakles], renowned with the bow, who shall deliver me [Prometheus] from these toils."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 877 ff :
+     </span>
+     <br/>
+     "Io : Oh! Oh! Alas! Once again convulsive pain and frenzy, striking my brain, inflame me. I am stung by the gadfly's barb, unforged by fire. My heart knocks at my ribs in terror; my eyeballs roll wildly round and round. I am carried out of my course by a fierce blast of madness; I've lost all mastery over my tongue, and a stream of turbid words beats recklessly against the billows of dark destruction. [She departs from the company of Prometheus.]
+     <br/>
+     Chorus [of Okeanides] : ... Never, oh never, immortal Moirai (Fates), may you see me the partner of the bed of Zeus, and may I be wedded to no bridegroom who descends to me from heaven. For I shudder when I behold the loveless maidenhood of Io, cruelly crushed like this by her toilsome wanderings sent by Hera."
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/L11.3.html">
+      <img alt="Io as heifer, Argus Panoptes and Hermes | Athenian red-figure hydria C5th B.C. | Museum of Fine Arts Boston" class="img-responsive center-block" src="../image/L11.3ArgosPanoptes.jpg"/>
+     </a>
+     <figcaption>
+      Zeus, Hera, Io as heifer, Argus Panoptes and Hermes, Athenian red-figure hydria C5th B.C.,
+      <a href="http://www.mfa.org/">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Suppliant Women 17 ff (trans. Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Danaus and the Danaides flee Aigyptos (Egypt) :] We [flee with all speed over the waves of the sea and find a haven on Argos' shore. For from there descends our race, sprung from the caress and breath of Zeus on the gnat-tormented heifer [Io]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Suppliant Women 40 ff :
+     </span>
+     <br/>
+     "[The Danaides invoke their ancestor Epaphos upon arriving in Argos, the land of their forefathers :] Our champion from beyond the sea, the calf [Epaphos] born of Zeus, the offspring of the flower-grazing cow [Io], our ancestress, the caress of Zeus' breath. The appointed period confirmed itself in a name suited to the event--Epaphos, to whom she gave birth. To him I cry for help. And now in the region wherein our first mother [Io] pastured, by recounting the story of her distress of long ago, I shall now set forth reliable proofs to the inhabitants of the land; and other evidence, though unexpected, will yet appear."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Suppliant Women 163 ff :
+     </span>
+     <br/>
+     "[The Danaides lament : ] Ah Zeus! On account of the poisonous hate of Io vengeance from the gods pursues us. I know your consort's [Hera's] sky-conquering spite; for a stormy sea follows a harsh wind. And Zeus shall then be liable to the charge of injustice that he hates the child of the heifer [Epaphos], the child whom he himself begat long ago, his very own, and now he holds his face averted from our prayers. May he from above hear our call! Ah Zeus! On account of the poisonous hate of Io vengeance from the gods pursues us. I know your consort's sky-conquering spite; for a stormy sea follows a harsh wind."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Suppliant Women 247 ff :
+     </span>
+     <br/>
+     "Our tale is brief and clear. Argives we [the Danaides] claim to be by birth, offspring of a cow [Io] blest in its children."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Suppliant Women 292 ff :
+     </span>
+     <br/>
+     "Chorus [of Danaides] : Is there a report that once in this land of Argos Io was ward of Hera's house?
+     <br/>
+     King : Certainly she was; the tradition prevails far and wide.
+     <br/>
+     Chorus : And is there some story, too, that Zeus was joined in love with a mortal?
+     <br/>
+     King : This entanglement was not secret from Hera.
+     <br/>
+     Chorus : What then was the result of this royal strife?
+     <br/>
+     King : The goddess of Argos transformed the woman [Io] into a cow.
+     <br/>
+     Chorus : And while she was a horned cow, did not Zeus approach her?
+     <br/>
+     King : So they say, making his form that of a bull lusting for a mate.
+     <br/>
+     Chorus : What answer then did Zeus' stubborn consort give?
+     <br/>
+     King : She placed the all-seeing one (
+     <em>
+      panoptês
+     </em>
+     ) to stand watch over the cow.
+     <br/>
+     Chorus : What manner of all-seeing herdsman with a single duty do you mean?
+     <br/>
+     King : Argos (Argus), a son of Ge (Gaea, the Earth), whom Hermes slew.
+     <br/>
+     Chorus : What else did she contrive against the unfortunate cow?
+     <br/>
+     King : A sting, torment of cattle, constantly driving her on.
+     <br/>
+     Chorus : They call it a gadfly, those who dwell by the Nile.
+     <br/>
+     King : Well then, it drove her by a long course out of the land.
+     <br/>
+     Chorus : Your account agrees with mine in all respects.
+     <br/>
+     King : So she came to Kanobos (Canobus) and to Memphis.
+     <br/>
+     Chorus : And Zeus begot a son by the touching of his hand.
+     <br/>
+     King : Who is it then that claims to be the cow's Zeus-begotten calf?
+     <br/>
+     Chorus : Epaphos (Epaphus), and truly named from ‘laying on of hands.’
+     <br/>
+     King : [And who was begotten of Epaphos?]
+     <br/>
+     Chorus : Libya, who reaps the fruit of the largest portion of the earth.
+     <br/>
+     King : [What offspring, then, did Libya have?]
+     <br/>
+     Chorus : [Agenor was her first child born.]
+     <br/>
+     King : And who was his offspring?
+     <br/>
+     Chorus : Belos (Belus), who had two sons and was father of my father [Danaus] here."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Suppliant Women 531 ff :
+     </span>
+     <br/>
+     "[The Danaides pray to Zeus :] Look benignly upon the women's cause, look upon our race ancient in story, and recall the happy tale of our ancestress [Io], the woman of your love. Show that you remember all, you who laid your hand upon Io. It is from Zeus that we claim descent, and it is from this, our homeland, that we went forth. I have come here to the prints of ancient feet, my mother's, even to the region where she was watched while she browsed among the flowers--into that pasture, from which Io, tormented by the gad-fly's sting, fled in frenzy, traversing many tribes of men, and according to fate, cut in two the surging strait, marking off the land upon the farther shore. And through the land of Asia she gallops, straight through sheep-pasturing Phrygia, and she passes the city of Teuthras among the Mysians, and the hollow vales of Lydia, across the mountains of the Kilikians (Cilicians) and the Pamphylians, speeding over ever-flowing rivers and earth deep and rich, and the land of Aphrodite [Syria] that teems with wheat. Harassed by the sting of the winged herdsman she gains at last the fertile groves sacred to Zeus, that snow-fed pasture assailed by Typho's fury, and the water of the Neilos (Nile) that no disease may touch--maddened by her ignominious toils and frenzied with the pain of Hera's torturing goad. And mortals, who in those days dwelled in the land, shook with pallid terror at the terrible sight as they beheld a being fearsome, half-human, part cow and part of woman; and they were astonished at the monstrous thing. And then, at last, who was it who calmed the far-wandering, the wretched, the sting-tormented Io? Zeus, it was, through endless time, the lord, . . ((lacuna)) and by the unharming might of his hand, and by his divine breath, she gained rest, and let fall the sorrowing shame of tears. And, taking Zeus as her support, according to a true story, she bore a blameless son--Throughout long ages blessed. All the earth cries aloud, ‘This is in very truth the offspring of life-giving Zeus; for who else could have endured the suffering plotted by Hera?’ Call this the work of Zeus and this his race sprung from Epaphos (Epaphus) and you will hit the truth. Which of the gods has accomplished deeds which, with good reason, warrant more justly my appeal to him? Father himself and lord, he planted us with his own hand; he is the mighty fashioner of our race, ancient in wisdom, who devises everything, whose breath makes all things prosper, Zeus himself."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Suppliant Women 1062 ff :
+     </span>
+     <br/>
+     "Zeus who mercifully freed Io from pain, restoring her with healing hand by kindly force."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 5 - 2. 9 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Argos (Argus) [the first eponymous king of Argos] and [the river-god] Asopos' daughter Ismene had a son Iasos (Iasus), who is alleged to be the father of Io, although the chronicler Kastor (Castor) and many of the tragic poets hold that Io is Inakhos' (Inachus') daughter, while Hesiod and Akousilaos (Acusilaus) say that her father is Peiren.
+     <br/>
+     Zeus seduced Io while she was a priestess of Hera. When Hera discovered them, Zeus touched the girl, changed her into a white cow, and swore that he had not had sex with her. For this reason, says Hesiod, oaths made in love do not incite divine anger.
+     <br/>
+     Hera demanded the cow from Zeus, and assigned Argos Panoptes as its guard . . . Argos tied the cow to an olive tree in the grove of the Mykenaians (Myceneans). Zeus instructed Hermes to steal her, and Hermes, unable to sneak her out because Hierax had told on him, killed Argos with a stone . . . Hera then inflicted the cow with gadfly, and she made her way first to what was named after her the Ionian gulf. Next she travelled through Illyris (Illyria), past Haimos (Haemus), and crossed the waterway known then as the Thrakian narrows and now, because of her, the Bosporos. Leaving it behind, she went on to Skythia (Scythia) and the Kimmeria (the Cimmerid Land), wandering over much countryside and swimming through much sea in both Europe and Asia, until she finally reached Aigyptos (Egypt), where she regained her earlier shape and gave birth beside the Neilos (Nile) River to a son Epaphos (Epaphus).
+     <br/>
+     Hera asked the Kouretes (Curetes) to kidnap the child, which they did. When Zeus found this out, he slew the Kouretes, while Io set out to find their baby. She wandered over all of Syria, and when she found Epaphos she returned to Aigyptos and married Telegonos, who at that time was king of the Aigyptians. She dedicated an image to Demeter, called Isis by the Aigyptians, as also they called Io herself."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 24 (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "The Straits of the Cow [the Bosporos], [Io] daughter of Inakhos (Inachus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Epigrams 58 (trans. Trypanis) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "In the temple of Isis, daughter of Inakhos (Inachus)." [N.B. The Egyptian goddess Isis is here identified with Io.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Parthenius, Love Romances 1 (trans. Gaselee) (Greek poet C1st B.C.) :
+     </span>
+     <br/>
+     "From the
+     <em>
+      Lyrkos
+     </em>
+     of Nikainetos (Nicaenetus) and the
+     <em>
+      Kaunos
+     </em>
+     of Apollonios Rhodios [two Alexandrian Greek poets C3rd BC]: When Io, daughter of King Inakhos (Inachus) of Argos, had been captured by brigands, her father Inakhos sent several men to search for her and attempt to find her. One of these was Lyrkos (Lyrcus) the son of Phoroneus, who covered a vast deal of land and sea without finding the girl, and finally renounced the toilsome quest : but he was too much afraid of Inakhos to return to Argos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 1. 1. 2 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "The Phoinikians (Phoenicians) came to Argos, and set out their cargo. On the fifth or sixth day after their arrival, when their wares were almost all sold, many women came to the shore and among them especially the daughter of the king, whose name was Io (according to Persians and Greeks alike), the daughter of Inakhos (Inachus). As these stood about the stern of the ship bargaining for the wares they liked, the Phoinikians incited one another to set upon them. Most of the women escaped: Io and others were seized and thrown into the ship, which then sailed away for Aigyptos (Egypt). In this way, the Persians say (and not as the Greeks), was how Io came to Aigyptos, and this, according to them, was the first wrong that was done." [N.B. This is a rationalisation of the Io myth.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 1. 5. 2 :
+     </span>
+     <br/>
+     "But the Phoinikians (Phoenicians) do not tell the same story about Io as the Persians. They say that they did not carry her off to Aigyptos (Egypt) by force. She had intercourse in Argos with the captain of the ship. Then, finding herself pregnant, she was ashamed to have her parents know it, and so, lest they discover her condition, she sailed away with the Phoinikians of her own accord."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 2. 41. 1 :
+     </span>
+     <br/>
+     "All Aigyptians (Egyptians) sacrifice unblemished bulls and bull-calves; they may not sacrifice cows: these are sacred to Isis. For the images of Isis are in woman's form, horned like a cow, exactly as the Greeks picture Io, and cows are held by far the most sacred of all beasts of the herd by all Aigyptians alike." [N.B, Io was identified with the Egyptian goddess Isis.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 1. 3 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "It may be, just as a certain cave on the coast which fronts the Aigaiaon (Aegean Sea), where Io is said to have given birth to Epaphos (Epaphus), is called Böos Aule, that the island got the name Euboia (Land of Good Cattle) from the same cause."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 5. 12 :
+     </span>
+     <br/>
+     "As for Tarsos [in Asia Minor], it lies in a plain; and it was founded by the Argives who wandered with Triptolemos in quest of Io."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 25. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "On the Athenian Akropolis (Acropolis) . . . Deinomenes made the two female figures which stand near [the statue of Anakreon], Io, the daughter of Inakhos (Inachus), and Kallisto (Callisto), the daughter of Lykaon, of both of whom exactly the same story is told, to wit, love of Zeus, wrath of Hera, and metamorphosis, Io becoming a cow and Kallisto a bear."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Guide to Greece 2. 16. 1 :
+     </span>
+     <br/>
+     "Io, the daughter of Iasos (Iasus), went to Aigyptos (Egypt)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Guide to Greece 3. 18. 16 :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the throne of Apollon at Amyklai (Amyclae), Lakedaimonia :] Hera is gazing at Io, the daughter of Inakhos (Inachus), who is already a cow."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 60. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Not long after this Inakhos (Inachus), the king of the Argives, since his daughter Io had disappeared, sent forth Kyrnos (Cyrnus), one of his men in high command, fitting him out with a considerable fleet, and ordered him to hunt for Io in every region and not to return unless he had got possession of her. And Kyrnos, after having wandered over many of the inhabited parts of the world without being able to find her, put ashore in Karia (Caria) on the Kherronesos (Chersonese) [and settled there]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 11. 10 (trans. Schofield) (Greek natural history C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Among the Aigyptians (Egyptians) Apis is believed to be the god whose presence is most manifest. He is born of a cow on which a flash of light from heaven has fallen and caused his engendering. The Greeks call him Epaphos (Epaphus) and trace his descent from his mother the Argive Io, daughter of Inakhos (Inachus). The Aigyptians however reject the story as false, and appeal to time as their witness, for they maintain that Epaphos was born late down the ages, whereas the first Apis visited mankind many, many thousands of years earlier."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 1. 19 (trans. Conybeare) (Greek biography C1st to 2nd A.D.) :
+     </span>
+     <br/>
+     "He [the C1st AD philosopher Apollonios of Tyana] reached the ancient city of Ninon [Nineveh in Babylonia], where he found an idol set up of barbarous aspect, and it is, they say, Io, the daughter of Inakhos (Inachus), and horns short and, as it were, budding project from her temple."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 145 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Inachus and Argia [was born] Io. Jupiter [Zeus] loved and embraced Io, and changed her to heifer form so that Juno [Hera] would not recognize her. When Juno [Hera] found out, she sent Argus, who had gleaming eyes all around to guard her. Mercurius [Hermes], at Jove's [Zeus'] command, killed him. But Juno [Hera] sent a fearful shape to plague her, and out of terror of it she was driven wildly and compelled to cast herself into the sea, which is called Ionian. Thence she swam to Scythia, and the Bosporus is named from that; thence she went to Egypt where she bore Epaphus. When Jove realized that for his sake she had borne such suffering, he restored her to her own form, and made her a goddess of the Egyptians, called Isis."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 150 :
+     </span>
+     <br/>
+     "After Juno [Hera] saw that Epaphus, born of a concubine [Io], ruled such a great kingdom, she saw to it that he should be killed while hunting, and encouraged the Titanes to drive Jove [Zeus] from the kingdom and restore it to Saturnus [Kronos (Cronus)]. When they tried to mount to heaven, Jove [Zeus] with the help of Minerva [Athena], Apollo, and Diana [Artemis], cast them headlong into Tartarus. On Atlas, who had been their leader, he put the vault of the sky; even now he is said to hold up the sky on his shoulders."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 155 :
+     </span>
+     <br/>
+     "Sons of Jove [Zeus] . . . Epaphus by Io, daughter of Inachus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 583 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "One is absent [from a gathering of the Greek river-gods] Inachus, withdrawn deep in his cave and weeping tears that swell his current, as he mourns in bitter grief Io, his daughter [Io] lost. He cannot tell whether she lives or dwells among the shades, and finding her nowhere thinks she must be nowhere and fear feeds fear when knowledge fails. Io returning from her father's stream had caught Juppiter's [Zeus'] eye. ‘You charming girl,’ he said, ‘Well worthy of Jove's [Zeus'] love, happy is he, whoe'er he be, that wins you for his bed. Go to the deep wood's shade’--he pointed to the shady wood--‘the hour is hot; the sun shines in his zenith. If you fear alone to risk the wild beasts' lairs, a god will guard you and in the deepest forest keep you safe--no common god! The sceptre of the sky is mine to hold in my almighty hand; I wield at will the roaming thunderbolts--no, do not run!’
+     <br/>
+     For now the girl had run; through Lerna's meadows and the forest lands of high Lyrceus she sped until the god drew down a veil of darkness to conceal the world and stayed her flight and ravished her. Juno [Hera] meanwhile observed the land of Argos and wondered that the floating clouds had wrought in the bright day the darkness of night. These were no river mists! No clouds like these the humid earth exhaled! She looked around to find her husband; well she knew his tricks, so often had caught him in his escapades; and searched the sky in vain. ‘If I'm not wrong,’ she thought, ‘I'm being wronged’; and gliding down from heaven's height she lighted on the earth and bade the clouds disperse. Juppiter [Zeus] had fore-sensed his spouse's visit and transformed poor Inachis [Io] into a sleek white heifer (lovely still although a cow). Saturnia [Hera], against her will, admired the creature and asked whose she was, and whence she came and to what herd belonged, pretending not to know the truth. He lied--‘The earth had brought her forth’--so to deflect questions about her birth. Then Saturnia [Hera] begged the heifer as a gift. What should he do? Too cruel to give his darling! Not to give--suspicious; shame persuades but love dissuades. Love would have won; but then--if he refused his wife (his sister too) so slight a gift, a cow, it well might seem no cow at all!
+     <br/>
+     The goddess won her rival, but distrust lingered and still she feared her husband's tricks, till, for safe-keeping, she had given the cow to Arestorides (Son of Arestor)--Argus of the hundred eyes, all watching and on duty round his head, save two which took in turn their sleep and rest. Whichever way he stood he looked at Io, Io before his eyes behind his back! By day he let her graze, but when the sun sank down beneath the earth he stabled her and tied--for shame!--a halter round her neck. She browsed on leaves of trees and bitter weeds, and for her bed, poor thing, lay on the ground, not always grassy, and drank the muddy streams; and when, to plead with Argus, she would try to stretch her arms, she had no arms to stretch. Would she complain, a moo came from her throat, a startling sound--her own voice frightened her. She reached her father's river and the banks where often she had played and, in the water, mirrored she saw her muzzle and her horns, and fled in terror from the self she saw. The Naides did not know--not even her father knew who she was, but she, disconsolate, followed her sisters, followed her father, let them stroke her, offered herself to be admired. Old Inachus picked grass and held it out; she licked her father's hand, cow-kissed his palms; her tears rolled down; if only words would come, she'd speak her name, tell all, implore their aid. For words her hoof traced letters in the dust--I, O--sad tidings of her body's change. ‘Alas, alack!’ her father cried, and clasped the moaning heifer's horns and snow-white neck. ‘Alas, alack!’ he groaned: ‘Are you the child I sought through all the world? Oh, lighter grief you were unfound than found. You give no answer; silent, but from your heart so deep a sigh! A moo - all you can say - is your reply! I, knowing naught, made ready for your marriage, hoped for a son-in-law and grandchildren. But now the herd must find your husband, find your child. For me death cannot end my owes. Sad bane to be a god! The gates of death are shut; my grief endures for evermore.’ As they thus grieved, Argus, star-eyed, drove off daughter from father, hurrying her away to distant pastures.
+     <br/>
+     Then himself, afar, high on a mountain top sat sentinel to keep his scrutiny on every side. But now heaven's master [Zeus] could no more endure Phoronis' [Io's] distress, and summoned his son [Hermes], whom the bright shining Pleias [Maia] bore, and charged him to accomplish Argus' death. Promptly he fastened on his ankle-wings, grasped in his fist the wand that charms to sleep, put on his magic cap, and thus arrayed Jove's [Zeus'] son [Hermes] sprang from his father's citadel down to earth. There he removed his cap, laid by his wings; only his wand he kept. A herdsman now, he drove a flock of goats through the green byways, gathered as he went, and played his pipes of reed. The strange sweet skill charmed Juno's [Hera's] guardian. ‘My friend,’ he called, ‘whoever you are, well might you sit with me here on this rock, and see how cool the shade extends congenial for a shepherd's seat.’ So Atlantiades [Hermes] joined him, and with many a tale he stayed the passing hours and on his reeds played soft refrains to lull the watching eyes. But Argus fought to keep at bay the charms of slumber and, though many of his eyes were closed in sleep, still many kept their guard. He asked too by what means this new design (for new it was), the pipe of reeds, was found. Then the god told this story [of Pan and his pursuit of the nymphe Syrinx] . . . The tale remained untold; for Cyllenius [Hermes] saw all Argus' eyelids closed and every eye vanquished in sleep. He stopped and with his wand, his magic wand, soothed the tired resting eyes and sealed their slumber; quick then with his sword he struck off the nodding head and from the rock threw it all bloody, spattering the cliff with gore.
+     <br/>
+     Argus lay dead; so many eyes, so bright quenched, and all hundred shrouded in one night. Saturnia [Hera] retrieved those eyes to set in place among the feathers of her bird [the peacock] and filled his tail with starry jewels. At once her wrath flared up and soon her anger was fulfilled. Before her rival's eyes and in her mind she set a frightful Erinys (Fury) and deep down plunged blinding goads of fear; and Io fled a cowering fugitive through all the world. Her boundless travails found their end at last beside the Nile; there, falling on her knees, her head thrown back, she raised towards the stars all she could raise, her face; her groans and tears, her wild grief-laden lowings seemed to send a prayer to Jove [Zeus] to end her sufferings. And Jove [Zeus] pleaded with Juno [Hera], throwing his arms around her neck, to end the punishment at last. ‘Lay fear aside; never again,’ he swore, ‘shall Io give you cause to grieve,’ and charged the pools of Stygia (Styx) to attest his oath. The goddess was appeased. Io regained her shape, became once more what once she was. The hair falls from her hide, her horns are gone, her great wide eyes contract, her gaping mouth shrinks small again, her arms and hands return, her cloven hoofs resume their fivefold form; the heifer vanished, save her fair white grace. The Nympha, content to use two legs again, now walked erect, yet still afraid to speak lest, cow-like, she might moo, and timorously assayed the syllables so long disused.
+     <br/>
+     She is a goddess now [Egyptian Isis], famous divine, and linen-robed adorers throng her shrine. To her a son was born, young Epaphus, sprung, it was thought, at last from Jove's [Zeus'] begetting, and in each town he shred his mother's shrines."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 522 :
+     </span>
+     <br/>
+     "Let him [Zeus] unbeast the beast, her shape restore, as Phoronides Argolica's [Io's] was, his other paramour!"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 14. 85 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Clear it is that Juno's [Hera's] wrath endures from the time the mortal maid [Io] became a heifer, and the heifer became a goddess. Yet it is punishment enough that the tender maid was a lowing beast, and, but now so fair, could not retain Jove's [Zeus'] love. On the banks of her sire's [Inachus'] stream the new-created heifer stood, and in the parental waters beheld the horns that were not her own; with mouth that tried to complain, she gave forth only lowings; she felt terror at her form, and terror at her voice. Why rage, unhappy one? Why gaze at thyself in the water's shadow? Why count the feet thou hast for thy new-created frame? Thou art the mistress of great Jove, that rival to be dreaded by his sister--and must quiet thy fierce hunger with the leafy branch and grassy turf, drink at the spring, and gaze astonied on thine image there, and fear lest the arms thou bearest may wound thyself! Thou, who but now wert rich, so rich as to seem worthy even of Jove, liest naked upon the naked ground. Over seas, and lands, and kindred streams dost thou course; the sea opens a way for thee, and the rivers, and the land. What is the cause of thy flight? Why doest thou wander over the long seas? Thou wilt not be able to fly from thine own features. Child of Inachus, whither doest thou haste? Thou followest and fliest--the same; thou art thyself guide to thy companion, thou art companion to thy guide! 
+  The Nile, let flow to the sea through seven mouths, strips from the maddened heifer the features loved of Jove."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 7. 791 (trans. Day-Lewis) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "On his [the Italian king Turnus'] shield was blazoned in gold the image of Io, now changed to a heifer, with horns uplifted, and fought-haired - a potent symbol; also her guardian, Argus, and Inachus her father, pouring out his stream from a graven pitcher."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 146 (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Round the groves of Silarus and the green holm oaks of Alburnus swarms a fly, whose Roman name is
+     <em>
+      asilus
+     </em>
+     , but the Greeks have called it in their speech
+     <em>
+      oestrus
+     </em>
+     [the gadfly]. Fierce it is, and sharp of note; before it whole herds scatter in terror through the woods: with their bellowings the air is stunned and maddened, the groves, too, and the banks of parched Tanager. With this monster Juno [Hera] once wreaked her awful wrath, when she devised a pest for the heifer maid [Io] of Inachus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 1. 3 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "I remained rooted with eyes intent upon her, like those of Argus upon the strange horns of Inachus' child [Io]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 28 :
+     </span>
+     <br/>
+     "Io in her early years lowed, her head transformed : now she who as a cow drank the Nile's waters is a goddess."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 33A :
+     </span>
+     <br/>
+     "Once again to my sorrow the dismal rites have returned: now for ten nights is Cynthia engaged in worship. Down with the rites which the daughter of Inachus [Io-Isis] has sent from the warm Nile to the matrons of Italy!
+     <br/>
+     The goddess that has so often sundered ardent lovers, whoever she was, was always harsh. In your secret love of Jove [Zeus], Io, you certainly discovered what it means to travel on many paths. When Juno [Hera] bade you, a human girl, put on horns and drown your speech in the hoarse lowing of a cow, ah, how often did you chafe your mouth with oak leaves and chew in your stall the arbute you had fed on! Is it because Jupiter [Zeus] has taken that wild shape from your features that you have become such a haughty goddess? Are the swarthy daughters of Aegyptus (Egypt) too few for your worship? What profit is it to you that girls should sleep alone? Take it from me, either you will have horns again or else, cruel creature, we will banish you from our city: the Nile has never found favour with the Tiber."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 4. 345 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The Bosporus . . . these very waves Io, not yet a goddess, to thy folk, O Nile, and crossed, whence the straight had its name . . . [Orpheus then tells his fellow Argonauts the] story, of Inachus' daughter [Io] and her wandering, and how the heifer ranged the sea in exile : eagerly do they hearken to his song.
+     <br/>
+     Oft did our fathers see Jupiter [Zeus] come down to earth and the Pelasgians' Argive realm, aflame for the coy Iasian maid. Juno [Hera], aware of his deceit and aglow with bridal fears, leapt down from heaven; the Lyrceian land and its bowers, their guilty secret known, trembled before the queen. Then did the frightened paramour with the god's will take on the features of an Inachian heifer; Juno [Hera] caresses her and soothes her breast, stifling her own sighs beneath a smiling countenance. Then she accosts Jove thus : ‘Give me the untamed heifer that feeds on Argos' fertile plains and is just showing the horns of the infant moon; give her as a gift to thy dear bride. Myself now will I choose fit pastures and choicest fountains for my pet.&amp;esquo What ruse could Jove [Zeus] find to say her nay? What trickery, once found, could he have maintained?
+     <br/>
+     She, possessed of the gift, straightway sets Argus on guard; Argus as guardian pleases her, for everywhere on his head are sleepless eyes, as though a Lydian bride should bedeck her web with flecks of purple. At Argus' bidding must she go on paths unknown, over rocks, through monster-haunted wilds, tarrying oft, alas! And struggling with prayers and words fast locked within her breast. Then departing gave she last kisses to her father's banks; wailed [her sister Naiades] Amymone, wailed Messeis' waters, wailed Hyperia with arms outstretched to call her back. But she, when her limbs trembled aweary of her wandering or when now chilly evening sped down from heaven's height--ah! How often laid she her body on a stone, or when long thirst made her faint, what pools did her lips drink, what pastures graze, how oft did her white shoulders quail before the lash! Nay, too, as daring death she planned to leap from some lofty height, swift did Argus drive her down to the vale beneath, and cruelly saved her at his queen's behest: when on a sudden a hollow flute pipes out a measure of Arcady, and the winged Cyllenian [Hermes], hastening to obey his sire, draws nigh, and tuning his oft reed to melody cries, ‘Wither away? Where roamest thou? Ho there! Give heed to my music!’ Following Argus close he notes that all his eyes are already languishing and seeking after sweet slumber, and in the midst of his song out he flashes his swift blade.
+     <br/>
+     And now, her former shape gradually restored by Jove [Zeus], Io is walking the fields victorious over Juno [Hera], when lo! she sees Tisiphone [one of the Erinyes] with brands of fire and coiling snakes and fiendish yells; at the first sight she stops and passes once again into the shape of a hapless heifer, nor bethinks her in what vale or on what height to stay her steps. Wandering she comes even to the waters of Inachus, how faring and how changed from that first heifer that she was! Nor do her father or the frightened Nymphae try to draw nigh her. Therefore once more she seeks the woods, once more the pathless wilds, fleeing from that dear head as from hateful Styx; and thence is she hurried through Grecian towns and steep-banked rivers, until the deep waters meet her path, and hesitating awhile she plunges in: the waves dispart and the clam ocean foreknowing the future yields her a path; with high horns she gleams afar, and upholds her dewlaps on the summit of the wave. But the maid of Erebus [Tisiphone] flies through the air to rich Memphis to be beforehand and repel the new-comer from the Pharian land. But Nile withstands Tisiphone and driving her with all his eddying flood plunges her to the depths of his sandy bed, calling for help to Dis [Haides] and all the powers of that cruel realm; here and there are seen her brands and whips far scattered, and the serpents shaken from her dishevelled hair. Nor meanwhile is Jove's [Zeus'] hand idle; the Father arising thunders from high heaven and makes his anger known, and Juno [Hera] herself quails before his word.
+     <br/>
+     All this from Pharos' height afar Io beholds, now added to the gods, with snake-girt hair and loud triumphant sistrum [i.e. as the Egyptian goddess Isis]. Hence was it that men of old spread abroad the story of Bosphorus [Greek for cow-ford], so called from the wandering goddess; may she herself now help our toils, and sending winds to aid us urge our vessel [the Argo] through her own straight."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 7. 111 :
+     </span>
+     <br/>
+     "Wandering Io fled the sandy verge and ventured and shrank again, yet by compulsion of the Erinnyes (Furies) must she go upon the swelling sea."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 6. 275 (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Next in order [of the images at Nemea] is seen father Inachus reclining leftward on the mound of a reedy bank and letting the streming urn flow free. Io, already prone [transformed into a cow] and sorrow of her sire, sees behind her back Argus starred with eyes that no setting. But kindlier Jupiter [Zeus] had raised her erect in the Pharian fields [Egypt], and already was Aurora (the Dawn) [Eos] giving her gracious welcome."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 3. 257 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Kadmos (Cadmus) addresses the Pleaid Elektra (Electra) :] ‘There is a city of Argos, famous for horses, and Hera's habitation, the midnipple of the island of Tantalides. There a man begat a daughter, and a beautiful daughter,-- Inakhos (Inachus), famed burgher of the land Inakhian. A templeman he was, and brooded over the awful rites that spoke the voice of the divine cityholder, he chief and eldest in practice of her mysteries: aye, he refused to wed his daughter to Zeus lord of the gods, leader of the stars, all for reverence of Hera . . ((lacuna)) at the time when Io changed her face and became a cattleshaped heifer; when she was driven to pasture along with the herd of kine; when Hera made sleepless Argos (Argus) herdsman to that calf--spotted Argos, covered with unwavering eeys. He was to watch the horned bride of Zeus, Zeus whom eye may not see. To pasture went the girl Io, trembling at the eyes of her busy-peeping drover: then pierced by limb-gnawing gadfly, she scored the gulf of the Ionian sea with travelling hoof. She came as far as Aigyptos (Egypt), my own river, which my people have called Neilos by name, because year by year that water consort covers earth with new slime by its muddy flood [
+     <em>
+      Nea Ilus
+     </em>
+     meanung New Slime]--she came as far as Aigyptos, where after her cow's form, after putting off the horned image ordained by heaven, she became a goddess of fruitful crops; when the fruit starts up, the fruit of Aigypian Demeter my stronghorned Io [i.e. Io as the Egyptian goddess Isis], scented vapour is carried around by the fragrant breezes. There she brought forth Epaphos (Epaphus) the Toucher to Zeus, so called because the divine bed-fellow with love-mad hands touched the inviolate breasts of the heifer child of Inakhos. Epaphos the god-beggoten was father of Libya."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 20. 35 :
+     </span>
+     <br/>
+     "You are not like a son of Zeus ... you did not kill that unhappy lover bold Orion, nor Hera's guardian Argos (Argus), the cowkeeper, a son of the earth so fertile in evil, the spy on Zeus in his weddings with horned cattle [Io]!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 31. 36 :
+     </span>
+     <br/>
+     "Beside the Nile with his harvests they hold a festival for another [Isis the immortalised Io], instead of sheafbearing mother Demeter; they tell of a spurious bountiful Deo, bullbred, horned, Inakhos's daughter Io [i.e. the Egyptian goddess Isis]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 32. 65 :
+     </span>
+     <br/>
+     "I [Zeus] loved Inakhos' (Inachus') daughter Io, the wandering heifer, from whom beside the Neilos (Nile) came the line begun by Epaphos and primeval Keroessa (Ceroessa)."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Io (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Io : A name. Inakhos (Inachus), a king of Argos, founded a city which he named for the moon, Io, for that is what Argives call the moon. He also had a daughter Io; Pekos (Pecus) who is also Zeus abducted her and fathered a daughter, Libya, by her. And Io, lamenting her ruin, fled to the Silpion Mountain and there died. Her father and her brothers, when they learned this, built a shrine to her and called the place Iopolis and remained there until the end. And they performed a ritual in her memory, banging on each other's doors every year and saying ‘io, io!’"
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Isis :
+     </span>
+     <br/>
+     "Isis : She is called Io. She was snatched by Zeus from Argos and he, fearing Hera, changed her first into a white cow, then into a black one, and then into a one that was violet-coloured. After wandering around with her, he came into Egypt. The Egyptians, then, honour Isis, and for this reason they carve the horns of a cow on the head of her statue, alluding to the change from maiden to cow."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L11.2.html">
+        <img alt="Thumbnail Hermes, Argus &amp; Heifer Io" src="../image/thumbL11.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L11.2 Hermes, Argus &amp; Heifer Io
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L11.1.html">
+        <img alt="Thumbnail Hermes, Argus &amp; Heifer Io" src="../image/thumbL11.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L11.1 Hermes, Argus &amp; Heifer Io
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/L11.3.html">
+        <img alt="Thumbnail Hermes, Argus &amp; Heifer Io" src="../image/thumbL11.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         L11.3 Hermes, Argus &amp; Heifer Io
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F41.1.html">
+        <img alt="Thumbnail Io, River-God Nile, Isis" src="../image/thumbF41.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F41.1 Io, River-God Nile, Isis
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="/Text/HesiodMiscellany.html">
+       Hesiod, The Aegimius Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Suppliant Women
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Parthenius.html">
+       Parthenius, Love Romances
+      </a>
+      <span class="sources-detail">
+       - Greek Mythography C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     IO SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE PRINCESS NYMPH IO
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Inachus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Loved by
+       </th>
+       <td>
+        Zeus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Argos in Argolis and Canobus and Memphis in Egypt
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Cow
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Callithyia
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

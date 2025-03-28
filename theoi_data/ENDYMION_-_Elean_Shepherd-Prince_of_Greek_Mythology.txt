@@ -1,0 +1,1942 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ENDYMION - Elean Shepherd-Prince of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Endymion was a handsome shepherd-prince loved by the moon-goddess Selene. When Zeus offered him his choice of destinies, Endymion chose immortality and youth in eternal slumber. He was laid out in a cave on Mount Latmus in Caria where his lunar lover would visit him each night. In another myth--which contradicts the first--Endymion was a king of Elis in the Greek Peloponesse who founded the kingdom with a group of Aeolian colonists from Thessaly." name="description"/>
+  <meta content="Endymion, Greek mythology, hero, king of Elis, Endymion pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-night.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Kings &amp; Heroes
+     </a>
+     &gt;&gt; Endymion
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ENDYMION
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ενδυμιων
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Endymiôn
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Endymion
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       --
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/Z18.2.html">
+      <img alt="Selene and the sleeping Endymion | Greco-Roman mosaic | Bardo National Museum, Tunis" class="img-responsive center-block" src="../image/Z18.2Selene.jpg"/>
+     </a>
+     <figcaption>
+      Selene and the sleeping Endymion, Greco-Roman mosaic,
+      <a href="http://www.bardomuseum.tn/" target="_blank">
+       Bardo National Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ENDYMION was a handsome shepherd-prince loved by the moon-goddess
+     <a href="../Titan/Selene.html">
+      Selene
+     </a>
+     . When
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     offered him his choice of destinies, Endymion chose  immortality and youth in eternal slumber. He was laid out in a cave on Mount Latmus in Karia (Caria) where his lunar lover would visit him each night.
+    </p>
+    <p>
+     In another myth--which contradicts the first--Endymion was a king of Elis in the Greek Peloponesse who founded the kingdom with a group of Aiolian (Aeolian) colonists from Thessalia (Thessaly). Zeus granted him foreknowledge of his own death and, when his time had come, he set up a racecourse at Olympia and commanded his  sons compete for the throne.  Endymion was  afterwards entombed beside the starting gate.
+    </p>
+    <p>
+     The Eleian myths about King Endymion belong  to the Greek tradition. The stories of the sleeping prince of Mount Latmos  in Anatolia, on the other hand, were apparently a Greek translation of  stories concerning the indigenous Karian moon-god Men--the Karians were a non-Greek people native to that region of Asia Minor. As the Greek moon-deity was female, the story was amended somewhat.
+    </p>
+    <h3>
+     THE HEIRS OF THE ELEIAN ENDYMION
+    </h3>
+    <p>
+     Of the three Eleian sons of Endymion, Epeios (Epeus) won the race for the throne and was crowned king of Elis. The second son Paion (Paeon) departed with colonists and settled the region of Paionia, north of Mount Olympos. The third son Aitolos (Aetolus) was exiled for the murder of Apis and established the kingdom of Aitolia  (Aetolia) on the opposite side of the Gulf of Korinthos.
+     <br/>
+     During the reign of King Epeios, the Lydian immigrant Pelops seized control of Pisa and came to dominate most of the Peloponessos. Epeios passed away childless and left the throne to his adoptive son and nephew Eleios (Eleus)--son of Endymion's daughter Eurykyda (Eurycyda) by the god Poseidon. This man in turn fathered Augeias (Augeas), the famous Eleian king who cheated Herakles out of his reward for cleaning the stables. Two of Augeias'  grandchildren  eventually went on to lead troops from Elis and the neighbouring island of Doulichion (now Zacynthus) to the Trojan War.
+    </p>
+    <h3>
+     CHRONOLOGY OF MYTH
+    </h3>
+    <p>
+     In the chronology of myth, Endymion was a contemporary of
+     <a href="Salmoneus.html">
+      Salmoneus
+     </a>
+     , Sisyphos and the other sons of Aiolos (Aeolus)--who were, in fact, his uncles. When the family colonised the Peloponessos, Endymion settled the lands north of the river Alpheios, and Salmoneus the lands south.
+     <br/>
+     Endymion was a great-grandson of
+     <a href="Deukalion.html">
+      Deukalion (Deucalion)
+     </a>
+     , survivor of the Great Deluge. His father was Aithlios, probably the eponymous king of the Thessalian Aithikes, a tribe of the Pindar mountain range.
+     <br/>
+     His grandson
+     <a href="Augeas.html">
+      Augeias
+     </a>
+     ruled Elis in the time of Herakles, while his descendants--mostly great-great grandchildren--led the troops of Elis, Doulikhion, Aitolia, and Argos in the Trojan War. The most famous of these was Diomedes, a direct patrilineal descendant.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF ENDYMION
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1] AETHLIOS &amp; KALYKE
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 8, Apollodorus 1.56)
+     </span>
+     <br/>
+     [1.2] AETHLIOS
+     <span class="family-refs">
+      (Pausanias 5.1.3)
+     </span>
+     <br/>
+     [1.2] AITOLOS
+     <span class="family-refs">
+      (Hyginus Fabulae 271)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Olympios/Zeus.html">
+      ZEUS
+     </a>
+     &amp; KALYKE
+     <span class="family-refs">
+      (Apollodorus 1.56)
+      <br/>
+     </span>
+     [2.1]
+     <a href="../Olympios/Zeus.html">
+      ZEUS
+     </a>
+     &amp; PHOINISSA
+     <span class="family-refs">
+      (Clement Recognitions 10.21)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] AITOLOS (by a Naias or Iphianassa)
+     <span class="family-refs">
+      (Apollodorus 1.56, Strabo 10.3.2)
+     </span>
+     <br/>
+     [1.2] AITOLOS, PAION,
+     <a href="Epeios.html">
+      EPEIOS
+     </a>
+     , EURYKYDA (by Asterodeia, Khromia or Hyperippe)
+     <span class="family-refs">
+      (Pausanias 5.1.4)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Titan/Menai.html">
+      THE MENAI
+     </a>
+     (by
+     <a href="../Titan/Selene.html">
+      Selene
+     </a>
+     )
+     <span class="family-refs">
+      (Pausanias 5.1.4)
+      <br/>
+     </span>
+     [3.1]
+     <a href="Narkissos.html">
+      NARKISSOS
+     </a>
+     (by
+     <a href="../Titan/Selene.html">
+      Selene
+     </a>
+     )
+     <span class="family-refs">
+      (Nonnus Dionysiaca 48.582)
+     </span>
+     <br/>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     ENDYMION (Endumiôn), a youth distinguished for his beauty, and renowned in ancient story by the perpetual sleep in which he spent his life. Some traditions about Endymion refer us to Elis, and others to Caria, and others again are a combination of the two. According to the first set of legends, he was a son of Aëthlius and Calyce, or of Zeus and Calyce, and succeeded Aëthlius in the kingdom of Elis. (Paus. v. 1. § 2.) Others again say that he expelled Clymenus from the kingdom of Elis, and introduced into the country Aeolian settlers from Thessaly. (Apollod. i. 7. § 5, &amp;c. ; Paus. v. 8. § 1.) Conon (
+     <em>
+      Narrat
+     </em>
+     14) calls him a son of Zeus and Protogeneia, and Hyginus (
+     <em>
+      Fab.
+     </em>
+     271) a son of Aetolus. He is said to have been married to Asterodia, Chromia, Hyperippe, Neïs, or Iphianassa; and Aetolus, Paeon, Epeius. Eurydice, and Naxus are called his children. He was, however, especially beloved by Selene, by whom he had fifty daughters. (Paus. v. 1. § 2.) He caused his sons to engage in the race-course at Olympia, and promised to the victor the succession in his kingdom, and Epeius conquered his brothers, and succeeded Endymion as king of Elis. He was believed to be buried at Olympia, which also contained a statue of his in the treasury of the Metapontians. (Paus. vi. 19. § 8, 20. § 6.) According to a tradition, believed at Heracleia in Caria, Endymion had come from Elis to mount Latmus in Caria, whence he is called the Latmian (
+     <em>
+      Latmius
+     </em>
+     ; Paus. v. 1. § 4; Ov.
+     <em>
+      Ars Am.
+     </em>
+     iii. 83,
+     <em>
+      Trist.
+     </em>
+     ii. 299). He is described by the poets either as a king, a shepherd, or a hunter (Theocrit. iii. 49, xx. 37 with the Scholiast), and while he was slumbering in a cave of mount Latmus, Selene came down to him, kissed, and lay by his side. (Comp. Apollon. Rhod. iv. 57.) There also he had, in later times, a sanctuary, and his tomb was shown in a cave of mount Latmus. (Paus. v. 1. § 4 ; Strab. xiv. p. 636.) His eternal sleep on Latmus is assigned to different causes in ancient story. Some said that Zeus had granted him a request, and that Endymion begged for immortality, eternal sleep, and everlasting youth (Apollod. i. 7. § 5.); others relate that he was received among the gods of Olympus, but as he there fell in love with Hera, Zeus, in his anger, punished him by throwing him into eternal sleep on mount Latmus. (Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     iii. 49.) Others, lastly, state that Selene, charmed with his surpassing beauty, sent him to sleep, that she might be able to kiss him without being observed by him. (Cic.
+     <em>
+      Tuscal.
+     </em>
+     i. 38.) The stories of the fair sleeper, Endymion, the darling of Selene, are unquestionably poetical fictions, in which sleep is personified. His name and all his attributes confirm this opinion : Endymion signifies a being that gently comes over one ; he is called a king, because he has power over all living creatures; a shepherd, because he slumbered in the cool caves of mount Latmus, that is, "the mount of oblivion." Nothing can be more beautiful, lastly, than the notion, that he is kissed by the soft rays of the moon. (Comp. Plat.
+     <em>
+      Phaed.
+     </em>
+     p. 72. b; Ov.
+     <em>
+      Am.
+     </em>
+     i. 13. 43.) There is a beautiful statue of a sleeping Endymion in the British Museum.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/T18.4.html">
+      <img alt="Selene and Endymion | Apulian red-figure volute krater C4th B.C. | Dallas Museum of Art, Texas" class="img-responsive center-block" src="../image/T18.4Selene.jpg"/>
+     </a>
+     <figcaption>
+      Selene and Endymion, Apulian red-figure volute krater C4th B.C.,
+      <a href="https://www.dma.org/" target="_blank">
+       Dallas Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 8 (from Scholiast on Apollonius Rhodes, Arg. 4. 57) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Hesiod says that Endymion was the son of Aethlios (Aethlius), the son of Zeus, and Kalyke (Calyce), and received the gift from Zeus : ‘(To be) keeper of death for his own self when he was ready to die.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Great Eoiae Fragment 11 (from Scholiast on Apollonius Rhodius, Arg. 4. 57) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "In the
+     <em>
+      Great Eoiae
+     </em>
+     it is said that Endymion was transported by Zeus into heaven, but when he fell in love with Hera, was befooled with a shape of cloud, and was cast out and went down into Haides." [N.B. This myth is usually told of Ixion.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 199 (from Scholiast on Apollonius of Rhodes) (trans. Campbell, Vol. Greek Lyric IV) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "The story goes that Selene comes down to this cave [on Mount Latmos in Karia (Caria)] to meet Endymion. Sappho and Nikandros (Nicander) [poet C2nd B.C.] . . . tell the story of the love of Selene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 49 - 56 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[The ancestry of Endymion.] The children of Deukalion (Deucalion) and Pyrrha were, first, Hellen . . . a daughter Protogeneia, by whom Zeus had Aethlios (Aethlius).
+     <br/>
+     Hellen and a nymphe named Orseis had Doros (Dorus), Xouthos (Xuthus), and Aiolos (Aeolus) . . .
+     <br/>
+     Aiolos ruled the land of Thessalia (Thessaly) , calling the inhabitants Aiolians. He married Enarte . . . and had five daughters, Kanake (Canace), Alkyone (Alcyone), Peisidike, Kalyke (Calyce), and Perimede . . .
+     <br/>
+     Endymion was the son of Kalyke and Aethlios (though some say his father was Zeus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 56  :
+     </span>
+     <br/>
+     "Endymion was the son of Kalyke (Calyce) and Aethlios (though some say his father was Zeus). He led Aiolians (Aeolians) forth from Thessalia (Thessaly) and founded Elis. A man of unrivaled  beauty, he was loved by Selene (the Moon). When he was given a wish of his choice by Zeus, he chose to remain immortal and unaging in eternal sleep.
+     <br/>
+     Endymion and a Naias nymphe (or, according to some, Iphianassa) were parents of Aitolos (Aetolus), who killed Apis, the son of Phoroneus, and escaped to the land of the Kouretes (Curetes). There he killed the men who had welcomed him, Doros (Dorus), Laodokos (Laodocus), and Polypoites (Polypoetes), sons of Phthia and Apollon; and called the land of Aitolia (Aetolia) after himself.
+     <br/>
+     To Aitolos and Pronoe, daughter of Phorbas, were born two sons, Pleuron and Kalydon (Calydon), after whom the cities in Aitolia were named."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 55 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "Rising from the distant east, the Lady Selene (Moon), Titanian goddess, saw the girl [Medea the witch] wandering distraught [for love of Jason], and in wicked glee said to herself : ‘So I am not the only one to go astray for love, I that burn for beautiful Endymion and seek him in the Latmian cave. How many times, when I was bent on love, have you disorbed me with your incantations, making the night moonless so that you might practise your beloved witchcraft undisturbed! And now you are as lovesick as myself.’" [N.B. Witches were believed to draw the Moon down from the sky.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theocritus, Idyll 3. 44 ff (trans. Edmonds) (Greek bucolic C3rd B.C.) :
+     </span>
+     <br/>
+     "[A rustic sings of mortals loved by goddesses :] When Adonis o'er the sheep in the hills his watch did keep, Aphrodite (the love-dame) proved so wild a wooers, e'en in death she clips him to her. O would I were Endymion [loved by Selene] that sleeps the unchanging slumber on, or, Lady [Demeter], knew thy Iasion's glee which prófane eyes may never see!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theocritus, Idyll 20. 34 ff  :
+     </span>
+     <br/>
+     "[A rustic sings of shepherds and herdsmen loved by goddesses :] Wist she not Kypris (Cypris) [Aphrodite] ran mad after a neatherd [Ankhises] and tended cattle i' the Phrybian hills? And the same Kypris, loved she not Adonis in the woods and in the woods bewailed him? And what of Endymion? Was it not a neatherd the Lady Selene (Moon) loved when he was at his labour, and came down from Olympos into Latmos (Latmus) vale to bow herself over him of her choice?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 1. 8 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[On the coast of Karia (Caria) is] the Gulf of Latmos (Latmus), on which is situated Herakleia (Heraclea) under Latmos, as it is called, a small town [a Greek colony] with a shelter for vessels. It formerly had the same name as the mountain above, which Hekataios (Hecataeus) thinks was the same as that called by the poet [Homer] the mountain of the Phtheiri, for he says that the mountain of the Phtheiri was situated below Latmos . . . This mountain  lies above Herakleia, and at a high elevation. At a slight distance away from it, after one has crossed a little river near Latmos, there is to be seen the sepulchre of Endymion, in a cave." 
+  [N.B. The indigenous Karians worshipped a moon-god named Men. Greek colonists who settled in the region apparently identified him with the Eleian Endymion.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 2 :
+     </span>
+     <br/>
+     "Ephoros [Greek historian], after saying that the Aitolians (Aetolians) were a race which had never become subject to any other people, but throughout all time of which there is any record had remained undevastated, both because of the ruggedness of their country and because of their training in warfare, says at the outset that the Kouretes (Curetes) held possession of the whole country, but when Aitolos (Aetolus), the son of Endymion, arrived from Elis and overpowered them in war, the Kouretes withdrew to what is now called Akarnania (Acarnania), whereas the Aitolians came back with Epeians and founded the earliest of the cities of Aitolia, and in the tenth generation after that Elis was settled by Oxylos the son of Haimon (Haemon), who had crossed over from Aitolia. And he cites as evidence of all this two inscriptions, the one at Therma in Aitolia (where it is their ancestral custom to hold their elections of magistrates), engraved on the base of the statue of Aitolos :--‘Founder of the country, once reared beside the eddies of the Alpheios (Alpheus), neighbor of the race-courses of Olympia, son of Endymion, this Aitolos has been set up by the Aitolians as a memorial of his valor to behold.’ . . . When Aitolos arrived from Elis and overpowered the Kouretes in war, they withdrew into Akarnania . . . And this is evidenced also by the inscription among the Eleians, for Aitolos, it says, ‘through many a toil with the spear took possession of the land of Kouretis.’" [N.B. The Kouretes were an AItolian tribe, not to be confused with the protectors of the infant Zeus.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 1. 3 - 9 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The Eleians we know crossed over from Kalydon (Calydon) and Aitolia (Aetolia) generally. Their earlier history I found to be as follows. The first to rule in this land, they say, was Aethlios (Aethlius), who was the son of Zeus and of Protogeneia, the daughter of Deukalion (Deucalion), and the father of Endymion.
+     <br/>
+     Selene (the Moon), they say, fell in love with this Endymion and bore him fifty daughters. Others with greater probability say that Endymion took a wife Asterodia--others say she was Khromia (Chromia), the daughter of Itonos (Itonus), the son of Amphiktyon; others again, Hyperippe, the daughter of Arkas (Arcas)--but all agree that Endymion begat Paion (Paeon), Epeios (Epeus), Aitolos (Aetolus), and also a daughter Eurykyda (Eurycyda). Endymion set his sons to run a race at Olympia for the throne; Epeios won, and obtained the kingdom, and his subjects were then named Epeians for the first time.
+     <br/>
+     Of his brothers they say that Aitolos remained at home, while Paion, vexed at his defeat, went into the farthest exile possible, and that the region beyond the river Axios was named after him Paionia (Paeonia). As to the death of Endymion, the people of Herakleia (Heraclea) near Miletos do not agree with the Eleians for while the Eleians show a tomb of Endymion, the folk of Herakleia say that he retired to Mount Latmos (Latmus) and give him honor, there being a shrine of Endymion on Latmos.
+     <br/>
+     Epeios married Anaxiroe, the daughter of Koronos (Coronus), and begat a daughter Hyrmina, but no male issue. In the reign of Epeios the following events also occurred. Oinomaos (Oenomaus) was the son of Alxion  . . . but while lord of the land of Pisa he was put down by Pelops the Lydian, who crossed over from Asia. On the death of Oinomaos, Pelops took possession of the land of Pisa and its bordering country Olympia, separating it from the land of Epeios . . .
+     <br/>
+     Aitolos, who came to the throne after Epeios, was made to flee from Peloponnesos, because the children of Apis tried and convicted him of unintentional homicide. For Apis, the son of Jason, from Pallantion in Arkadia, was run over and killed by the chariot of Aitolos at the games held in honor of Azan. Aitolos, son of Endymion, gave to the dwellers around the Akheloios (Achelous) their name, when he fled to this part of the mainland.
+     <br/>
+     But the kingdom of the Epeians fell to Eleios, the son of Eurykyda, daughter of Endymion and, believe the tale who will, of Poseidon. It was Eleios who gave the inhabitants their present name of Eleians in place of Epeians. 
+  Eleios had a son Augeas. Those who exaggerate his glory give a turn to the name Eleios and make Helios (the Sun) to be the father of Augeas."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 8. 2 :
+     </span>
+     <br/>
+     "And about a generation later than Endymion, Pelops held the games in honor of Zeus Olympios (Olympian) in a more splendid manner than any of his predecessors. When the sons of Pelops were scattered from Elis over all the rest of Peloponnesos, Amythaon, the son of Kretheus (Cretheus), and cousin of Endymion on his father's side--for they say that Aethlios too was the son of Aiolos (Aeolus), though supposed to be a son of Zeus--, held the Olympian games."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 19. 11  :
+     </span>
+     <br/>
+     "[Amongst the offerings dedicated at  Olympia :] In the treasury of the Metapontines, which adjoins that of the Selinountians, stands an Endymion; it too is of ivory except the drapery."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 6. 20. 9  :
+     </span>
+     <br/>
+     "[At Oympia site of the Olympic Games :] At the end of the stadium, where is the starting-place for the runners, there is, the Eleans say, the tomb of Endymion."
+     <br/>
+     [Cf. Apollodorus, for the story of how the sons of Endymion raced at Olympia for throne of Elis.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 127 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "That haunted cave [on Mount Latmos] of fair-haired Nymphai (Nymphs) where, as Endymion slept beside his kine, divine Selene (the Moon) watched him from on high, and slid from heaven to earth; for passionate love drew down the immortal stainless queen of night. And a memorial of her couch abides still 'neath the oaks; for mid the copses round was poured out milk of kine; and still do men marvelling behold its whiteness. Thou wouldst say far off that this was milk indeed, which is a well-spring of white water : if thou draw a little nigher, lo, the stream is fringed as though with ice, for white stone rims it round."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 411 ff :
+     </span>
+     <br/>
+     "White Selene (the Moon) . . . remembered her own love, princely Endymion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Dialogues of the Gods 19 (trans. Fowler) (Greek satire C2nd A.D.) :
+     </span>
+     <br/>
+     "Aphrodite : What is this I hear about you, Selene? When your car is over Karia (Caria), you stop it to gaze at Endymion sleeping hunter-fashion in the open; sometimes, they tell me, you actually get out and go down to him.
+     <br/>
+     Selene : Ah, Aphrodite, ask that son of yours [i.e. Eros (Love)]; it is he must answer for it all.
+     <br/>
+     Aphrodite : Well now, what a naughty boy! . . . But tell me, is Endymion handsome? That is always a comfort in our humiliation.
+     <br/>
+     Selene : Most handsome, I think, my dear; you should see him when he has spread out his cloak on the rock and is asleep; his javelins in his left hand, just slipping from his grasp, the right arm bent upwards, making a bright frame to the face, and he breathing softly in helpless slumber. Then I come noiselessly down, treading on tiptoe not to wake and startle him--but there, you know all about it; why tell you the rest? I am dying of love, that is all."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement, Exhortations 2 (trans. Butterworth) (Greek Christian rhetoric C2nd A.D.) :
+     </span>
+     <br/>
+     "Yet these [the pagan goddesses] are more passionately given to licentiousness, being fast bound in adultery; as, for instance, Eos with Tithonos, Selene with Endymion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement, Recognitions 10. 21 (trans. Smith) :
+     </span>
+     <br/>
+     "I shall now speak of his [Zeus'] adulteries. He defiled . . . Phoenissa, the daughter of Alphion, of whom [was born] Endymion."
+     <br/>
+     [N.B. According to Pausanias, above, Alphion or Alxion was the father of Oinomaos king of Pisa in southern Elis. Oinomaos' son-in-law Pelops seized his throne and seceded from Elis which was then ruled by Endymion's son Epeios.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 271 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Youths who were most handsome. Adonis, son of Cinyras and Smyrna, whom Venus [Aphrodite] loved. Endymion, son of Aetolus, whom Luna [Selene] loved. Ganymede, son of Erichthonius, whom Jove [Zeus] loved. Hyacinthus, son of Oebalus, whom Apollo loved. Narcissus, son of the river Cephisus, who loved himself."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 18. 59 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Leandros (Leander) swimming the Hellespont by night prays to the Moon :] The Moon for the most shed me a tremulous light as I swam, like a duteous attendant watchful over my path. Lifting to her my eyes, ‘Be gracious to me, shining deity,’ I said, ‘and let the rocks of Latmos (Latmus) rise in thy mind! Endymion will not have thee austere of heart. Bend, O I pray, thy face to aid my secret loves. Thou, a goddess, didst glide from the skies and seek a mortal love; ah, may it be allowed me to say the truth!--she I seek is a goddess too.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 390 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "‘Twas with gift of such snowy wool, if we may trust the tale, that Pan, Arcadia's god, charmed and beguiled you, O Luna (the Moon) [Selene], calling you to the depths of the woods; nor did you scorn his call."
+     <br/>
+     [N.B. Virgil is probably alluding to the story of Selene's seduction by the shepherd Endymion. The name Pan is  likely employed metaphorically, i.e.  the god of the flocks was the symbolic source of the fine fleece Endymion used to entice the goddess. A vase painting depicts Endymion waving such a fleece before her chariot.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 15 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "It was naked that Endymion enraptured Phoebus's sister [Luna-Selene] and naked, they say, lay with the goddess."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 309 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "The radiant goddess [Luna-Selene the Moon] of the darksome sky burned with love [for Endymion] and, forsaking the night, gave her gleaming chariot to her brother [Helios the sun] to guide in fashion other than his own. He learned to drive the team of night and to wheel in narrower circuit, while the axle groaned beneath the car's heavier weight; nor did the nights keep their accustomed length, and with belated dawning came the day."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 422 ff :
+     </span>
+     <br/>
+     "May no shepherd [i.e. Endymion] make boast o'er thee [Luna-Selene the Moon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 786 ff :
+     </span>
+     <br/>
+     "Looking down on thee from the starry heavens, the orb [Luna-Selene the Moon] that was born after the old Arcadians will lose control of her white-shining car [for the love of a rustic like Endymion]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 8. 28 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The Latmian hunter [Endymion], while his comrades are yet scattered in troops about the glens, rests in the summer shade, fit lover for a goddess, and soon Luna (the Moon) [Selene] comes with veiled horns."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 325 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Selene, Endymion's bed-fellow."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 4. 192 ff  :
+     </span>
+     <br/>
+     "[The goddess Harmonia laments her betrothal to a mortal man :] ‘I will proclaim how Orion loved Eos (the Dawn), and I will recall the match of Kephalos (Cephalus); if I go to the misty sunset, my comfort is Selene (the Moon) herself who felt the same for Endymion upon Latmos.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 4. 213 ff :
+     </span>
+     <br/>
+     "When Mene (the Moon) [Selene] saw the girl [Harmonia daughter of Aphrodite] following a stranger [her bridegroom Kadmos (Cadmus)] along the shore above the sea, and boiling under fiery constraint, she reproached Kypris (Cypris) [Aphrodite] in mocking words : ‘So you make war even upon your children, Kypris! Not even the fruit of your womb is spared by the goad of love! Don't you pity the girl you bore, hardheart? What other girl can you pity then, when you drag your own child into passion?--Then you must go wandering too, my darling. Say to your mother, Paphian's child, "Phaethon mocks you, and Selene puts me to shame." Harmonia, love-tormented exile, leave to Mene her bridegroom Endymion, and care for your vagrant Kadmos. Be ready to endure as much trouble as I have, and when you are weary with lovebegetting anxiety, remember lovewounded Selene.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 5. 516 ff :
+     </span>
+     <br/>
+     "Shining Eos carried off Orion for a bridegroom, and Selene Endymion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 222 ff :
+     </span>
+     <br/>
+     "[A Naiad compares the maiden Semele to Selene :] I  spy a silverfooted maiden stretched under the streams of my river! I believe Selene bathes in the Aonian [Theban] waves on her way to Endymion's bed on Latmos, the bed of a sleepless shepherd; but if she has prinked herself out for her sweet shepherd, what's the use of Asopos after the Okeanos (Ocean) stream?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 13. 553 ff :
+     </span>
+     <br/>
+     "He [Kaunos (Caunus) of Karia (Caria)] composed that tricking lovesong . . . the song about the Latmian cowshed of the neversleeping herdsman, while he  praised Endymion, the bride-groom of love-smitten Selene, as happy in love's care on a neighbouring rock [i.e. Mount Latmos in Karia]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 41. 339 ff :
+     </span>
+     <br/>
+     "Wise Endymion with changing bends of his fingers will calculate the three varying phases of Selene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 42. 266 ff :
+     </span>
+     <br/>
+     "Sing Selene madly in love with Endymion."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 582 ff :
+     </span>
+     <br/>
+     "There were the clustering blooms which have the name Narkissos (Narcissus) the fair youth, whom horned Selene's bridegroom Endymion begat on leafy Latmos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Fulgentius, Mythologies 2. 16 (trans. Whitbread) (Late Roman writer C5th or 6th A.D.) :
+     </span>
+     <br/>
+     "[Fulgentius, a writer of the Christian-era, uses the Greek myths as allegories.]
+     <br/>
+     She [the Moon] is said to have fallen in love with the shepherd Endymion for one of two reasons, either that Endymion was the first man to discover the tracks of the moon, whereby having studied nothing in his life but this discovery he is said to have slept for thirty years (as Mnaseas [Greek historian C3rd B.C.] has related in the first book of his work on
+     <em>
+      Europa
+     </em>
+     ), or that she is said to have fallen in love with the shepherd Endymion because the moisture of the night dew, which the exhalations of the stars and the life-giving moon soak into the sap of the grass, serves well for success with sheep."
+    </p>
+    <hr/>
+    <h2>
+     CHRONOLOGY OF THE ELEAN KINGS
+    </h2>
+    <table border="1" summary="Mythic Kings of the North-Western Peloponnese" width="100%">
+     <caption>
+      CHRONOLOGY OF THE MYTHIC KINGS OF THE NORTH-WESTERN PELOPONNESE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="col" width="20%">
+        ELIS
+       </th>
+       <th scope="col" width="20%">
+        PISA
+       </th>
+       <th scope="col" width="20%">
+        BOUPRASION
+       </th>
+       <th scope="col" width="20%">
+        DOULIKHION
+       </th>
+       <th scope="col" width="20%">
+        OLENOS
+       </th>
+      </tr>
+      <tr>
+       <td width="20%">
+        1. Aethlios
+       </td>
+       <td width="20%">
+        1. Alxion
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        1. Olenos
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        2.
+        <a href="Endymion.html">
+         Endymion
+        </a>
+       </td>
+       <td width="20%">
+        2. Oinomaos
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        3.
+        <a href="Epeios.html">
+         Epeios
+        </a>
+        <br/>
+        4. Aitolos
+       </td>
+       <td width="20%">
+        3.
+        <a href="Pelops.html">
+         Pelops
+        </a>
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        5. (Polyxeinos)
+        <br/>
+        6. Eleios *
+       </td>
+       <td width="20%">
+        4. Polyxeinos
+        <br/>
+        5. Heleios *
+       </td>
+       <td width="20%">
+        1.
+        <a href="PhorbasLapithios.html">
+         Phorbas
+        </a>
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        2. Alektor
+       </td>
+      </tr>
+      <tr>
+       <td width="20%">
+        7.
+        <a href="Augeas.html">
+         Augeias
+        </a>
+        **
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        2. Aktor
+       </td>
+       <td width="20%">
+       </td>
+       <td width="20%">
+        3.
+        <a href="Dexamenos.html">
+         Dexamenos
+        </a>
+        <br/>
+        4.
+        <a href="Hipponoos.html">
+         Hipponoos
+        </a>
+        ****
+       </td>
+      </tr>
+      <tr>
+       <td>
+        8. Agasthenes
+       </td>
+       <td>
+        1. Amarynkeus ***
+       </td>
+       <td>
+        3.
+        <a href="Molionidai.html">
+         Kteatos &amp; Eurytos
+        </a>
+       </td>
+       <td>
+        1. Phyleus
+       </td>
+       <td>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        9.
+        <a href="Polyxeinos.html">
+         Polyxeinos
+        </a>
+       </td>
+       <td>
+        2. Diores
+       </td>
+       <td>
+        4. Thalpios &amp; Antimakhos
+       </td>
+       <td>
+        2.
+        <a href="Meges.html">
+         Meges
+        </a>
+       </td>
+       <td>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <p>
+     KINGDOMS
+     <br/>
+     1. Pisa (southern Elis); 2. Elis (central Elis); 3. Bouprasion (northern Elis); 4. Doulikhion (island west of Elis); 5. Olenos (northern Elis &amp; western Akhaia).
+     <br/>
+     NOTES
+     <br/>
+     * Eleios-Heleios is the same figure. One tradition represents him as a son of Perseus and the heir of King Pelops, another makes him a grandson of King Endymion. He was sometimes confounded with the sun-god Helios.
+     <br/>
+     ** Augeias ruled the whole of Elis including the regions of Elis, Pisa, Bouprasion and Doulikhion. After his death the kingdom was divided into four autonomous parts.
+     <br/>
+     *** Amarynkeus received a quarter of the kingdom of Augeias. One assumes his portion was Pisatis.
+     <br/>
+     **** In the reign of Hipponoos, Olenos was annexed by King Oineus of Aitolia. It is listed as an Aitolian dominion in Homer's
+     <em>
+      Catalogue of Ships
+     </em>
+     .
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T18.4.html">
+        <img alt="Thumbnail Selene &amp; Endymion" src="../image/thumbT18.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T18.4 Selene &amp; Endymion
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z18.2.html">
+        <img alt="Thumbnail Selene &amp; Endymion" src="../image/thumbZ18.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z18.2 Selene &amp; Endymion
+        </h3>
+        <p>
+         Greco-Roman Bardo Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Fulgentius, Mythologies
+      <span class="sources-detail">
+       - Roman Fable C5th-6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other sources not currently quoted here: Scholiast on Apollonius Rhodius Argon. 4.57, Plato Phaedo 72c, Macarius Cent. 3.89, Diogenianus Cent. 4.40, Cicero De finibus 5.20.55, Cicero Tusc. Disp. 1.38.92.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     ENDYMION SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE PRINCE ENDYMION
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Aethlius and Calyce
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        King of
+       </th>
+       <td>
+        Elis
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Loved by
+       </th>
+       <td>
+        Selene
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Elis in Elis or Mount Latmus in Caria
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

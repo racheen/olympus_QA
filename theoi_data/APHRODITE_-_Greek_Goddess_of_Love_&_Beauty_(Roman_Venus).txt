@@ -1,0 +1,4219 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   APHRODITE - Greek Goddess of Love &amp; Beauty (Roman Venus)
+  </title>
+  <meta content="Aphrodite was the ancient Greek goddess of love, beauty, pleasure and procreation. She was depicted as a beautiful woman often accompanied by the winged godling Eros. Her attributes included a dove, apple, scallop shell and mirror. Her Roman name was Venus." name="description"/>
+  <meta content="Aphrodite, Olympian goddess, Greek mythology, Greek goddess of love, Greek goddess of beauty, Greek goddess of pleasure, Aphrodite pictures, Venus" name="keywords"/>
+  <meta content="APHRODITE - Greek Goddess of Love &amp; Beauty" property="og:title">
+   <meta content="Aphrodite was the ancient Greek goddess of love, beauty, pleasure and procreation. She was depicted as a beautiful woman often accompanied by the winged godling Eros. Her attributes included a dove, apple, scallop shell and mirror. Her Roman name was Venus." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Aphrodite.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_aphrodite_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Aphrodite
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     APHRODITE
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Αφροδιτη
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Aphroditê
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Aphrodite
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Venus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K10.3.html">
+      <img alt="Aphrodite riding goose | Athenian red-figure kylix C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/K10.3BAphrodite.jpg"/>
+     </a>
+     <figcaption>
+      Aphrodite riding goose, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     APHRODITE was the Olympian goddess of love, beauty, pleasure and procreation. 
+  She was depicted as a beautiful woman often accompanied by the winged godling
+     <a href="../Ouranios/Eros.html">
+      Eros
+     </a>
+     (Love). Her attributes included a dove, apple, scallop shell and mirror. In classical sculpture and fresco she was usually depicted nude.
+    </p>
+    <h3>
+     MYTHS
+    </h3>
+    <p>
+     Some of the more famous myths featuring the goddess include:--
+    </p>
+    <p>
+     Her birth from the sea foam. &lt;&lt;
+     <a href="AphroditeMyths.html#Birth">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Her adulterous affair with the god Ares. &lt;&lt;
+     <a href="AphroditeLoves.html#Ares">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Her love for Adonis, a handsome Cypriot youth who was tragically killed by a boar. &lt;&lt;
+     <a href="AphroditeLoves2.html#Adonis">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Her love for Ankhises (Anchises), a shepherd-prince. &lt;&lt;
+     <a href="AphroditeLoves2.html#Ankhises">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The judgement of Paris in which the goddess was awarded the prize of the golden apple in return for promising Paris Helene in marriage. &lt;&lt;
+     <a href="JudgementParis.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The Trojan War in which she supported her favourites Paris and Aeneas and was wounded in the fighting. &lt;&lt;
+     <a href="AphroditeMyths2.html#Troy">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The race of Hippomenes for Atalanta, which was won with the help of the goddess and her golden apples. &lt;&lt;
+     <a href="AphroditeFavour.html#Hippomenes">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The death of Hippolytos, who was destroyed by the goddess for scorning her worship. &lt;&lt;
+     <a href="AphroditeWrath.html#Hippolytos">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The statue of Pygmalion which was brought to life by Aphrodite in answer to his prayers. &lt;&lt;
+     <a href="AphroditeFavour.html#Pygmalion">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The persecution of Psykhe (Psyche), the maiden loved by the goddess' son Eros. &lt;&lt;
+     <a href="../Ouranios/Psykhe.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Many other myths are detailed over the following pages.
+    </p>
+    <hr/>
+    <h2>
+     APHRODITE PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 18 pages describing the goddess Aphrodite, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Aphrodite Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF APHRODITE
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1] Born from the castrated genitals of
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     in the sea's foam
+     <span class="family-refs">
+      (Hesiod Theogony 188, Cicero De Natura Deorum 3.21, Apuleius 6.6, Nonnus Dionysiaca 1.86, et al)
+     </span>
+     <br/>
+     [2]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisDione.html">
+      DIONE
+     </a>
+     <span class="family-refs">
+      (Homer Iliad 5.370; Euripides Helen 1098; Apollodorus 1.13, Cicero De Natura Deorum 3.21, et al)
+     </span>
+     <br/>
+     [3]
+     <a href="../Protogenos/Ouranos.html">
+      OURANOS
+     </a>
+     &amp;
+     <a href="../Protogenos/Hemera.html">
+      HEMERA
+     </a>
+     <span class="family-refs">
+      (Cicero De Natura Deorum 3.21)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     See
+     <a href="AphroditeFamily.html#Genealogy">
+      Family of Aphrodite
+     </a>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/S10.2.html">
+      <img alt="Aphrodite - Venus de Milo | Greek marble statue C2nd B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/S10.2Aphrodite.jpg"/>
+     </a>
+     <figcaption>
+      Aphrodite "Venus de Milo", Greek marble statue C2nd B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     APHRODI′TE (Aphroditê), one of the great Olympian divinities, was, according to the popular and poetical notions of the Greeks, the goddess of love and beauty. Some traditions stated that she had sprung from the foam (aphros) of the sea, which had gathered around the mutilated parts of Uranus, that had been thrown into the sea by Kronos after he had unmanned his father. (Hesiod.
+     <em>
+      Theog.
+     </em>
+     190; compare Anadyomene.) With the exception of the Homeric hymn on Aphrodite there is no trace of this legend in Homer, and according to him Aphrodite is the daughter of Zeus and Dione. (
+     <em>
+      Il.
+     </em>
+     v. 370, &amp;c., xx. 105.) Later traditions call her a daughter of Kronos and Euonyme, or of Uranus and Hemera. (Cic.
+     <em>
+      De Nat. Deor.
+     </em>
+     iii. 23; Natal. Com. iv. 13.)
+    </p>
+    <p>
+     According to Hesiod and the Homeric hymn on Aphrodite, the goddess after rising from the foam first approached the island of Cythera, and thence went to Cyprus, and as she was walking on the sea-coast flowers sprang up under her feet, and Eros and Himeros accompanied her to the assembly of the other great gods, all of whom were struck with admiration and love when she appeared, and her surpassing beauty made every one desire to have her for his wife.
+    </p>
+    <p>
+     According to the cosmogonic views of the nature of Aphrodite, she was the personification of the generative powers of nature, and the mother of all living beings. A trace of this notion seems to be contained in the tradition that in the contest of Typhon with the gods, Aphrodite metamorphosed herself into a fish, which animal was considered to possess the greatest generative powers. (Ov.
+     <em>
+      Met.
+     </em>
+     v. 318, &amp;c.; comp. Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     30.) But according to the popular belief of the Greeks and their poetical descriptions, she was the goddess of love, who excited this passion in the hearts of gods and men, and by this power ruled over all the living creation. (Hom.
+     <em>
+      Hymn. in Ven.
+     </em>
+     ; Lucret. 15, &amp;c.)
+    </p>
+    <p>
+     Ancient mythology furnishes numerous instances in which Aphrodite punished those who neglected her worship or despised her power, as well as others in which she favoured and protected those who did homage to her and recognized her sway. Love and beauty are ideas essentially connected, and Aphrodite was therefore also the goddess of beauty and gracefulness. In these points she surpassed all other goddesses, and she received the prize of beauty from Paris; she had further the power of granting beauty and invincible charms to others. Youth is the herald, and Peitho, the Horae, and Charites, the attendants and companions of Aphrodite. (Pind.
+     <em>
+      New.
+     </em>
+     viii. 1, &amp;c.) Marriages are called by Zeus her work and the things about which she ought to busy herself. (Hom.
+     <em>
+      Il.
+     </em>
+     v. 429; comp.
+     <em>
+      Od.
+     </em>
+     xx. 74; Pind.
+     <em>
+      Pyth.
+     </em>
+     ix. 16, &amp;c.) As she herself had sprung from the sea, she is represented by later writers as having some influence upon the sea (Virg.
+     <em>
+      Aen.
+     </em>
+     viii. 800; Ov.
+     <em>
+      Heroid.
+     </em>
+     xv. 213; comp. Paus. ii. 34. § 11.)
+    </p>
+    <p>
+     During the Trojan war, Aphrodite, the mother of Aeneas, who had been declared the most beautiful of all the goddesses by a Trojan prince, naturally sided with the Trojans. She saved Paris from his contest with Menelaus (
+     <em>
+      Il.
+     </em>
+     iii. 380), but when she endeavoured to rescue her darling Aeneas from the fight, she was pursued by Diomedes, who wounded her in her hand. In her fright she abandoned her son, and was carried by Iris in the chariot of Ares to Olympus, where she complained of her misfortune to her mother Dione, but was laughed at by Hera and Athena. (
+     <em>
+      Il.
+     </em>
+     v. 311, &amp;c.) She also protected the body of Hector, and anointed it with ambrosia. (
+     <em>
+      Il.
+     </em>
+     xxiii. 185.)
+    </p>
+    <p>
+     According to the most common accounts of the ancients, Aphrodite was married to Hephaestus (
+     <em>
+      Odyss.
+     </em>
+     viii. 270), who, however, is said in the Iliad (viii. 383) to have married Charis. Her faithlessness to Hephaestus in her amour with Ares, and the manner in which she was caught by the ingenuity of her husband, are beautifully described in the Odyssey. (viii. 266, &amp;c.) By Ares she became the mother of Phobos, Deimos, Harmonia, and, according to later traditions, of Eros and Anteros also. (Hesiod.
+     <em>
+      Theog.
+     </em>
+     934, &amp;c.,
+     <em>
+      Scut. Herc.
+     </em>
+     195; Hom.
+     <em>
+      Il.
+     </em>
+     xiii. 299, iv. 440; Schol.
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     iii. 26; Cic.
+     <em>
+      De Nat. Deor.
+     </em>
+     iii. 23.)
+    </p>
+    <p>
+     But Ares was not the only god whom Aphrodite favoured; Dionysus, Hermes, and Poseidon likewise enjoyed her charms. By the first she was, according to some traditions, the mother of Priapus (Schol.
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     i. 933) and Bacchus (Hesych.
+     <em>
+      s. v. Bakchou Diônês
+     </em>
+     ), by the second of Hermaphroditus (Ov.
+     <em>
+      Met.
+     </em>
+     iv. 289, &amp;c.; Diod. iv. 6; Lucian,
+     <em>
+      Dial. Deor.
+     </em>
+     xv. 2), and by Poseidon she had two children, Rhodos and Herophilus. (Schol.
+     <em>
+      ad Pind. Pyth.
+     </em>
+     viii. 24.)
+    </p>
+    <p>
+     As Aphrodite so often kindled in the hearts of the gods a love for mortals, Zeus at last resolved to make her pay for her wanton sport by inspiring her too with love for a mortal man. This was accomplished, and Aphrodite conceived an invincible passion for Anchises, by whom she became the mother of Aeneas and Lyrus.
+    </p>
+    <p>
+     Respecting her connexions with other mortals see Adonis and Butes. The ancient story ran thus : Smyrna had neglected the worship of Aphrodite, and was punished by the goddess with an unnatural love for her father. With the assistance of her nurse she contrived to share her father's bed without being known to him. When he discovered the crime he wished to kill her; but she fled, and on being nearly overtaken, prayed to the gods to make her invisible. They were moved to pity and changed her into a tree called smurna. After the lapse of nine months the tree burst, and Adonis was born. Aphrodite was so much charmed with the beauty of the infant, that she concealed it in a chest which she entrusted to Persephone; but when the latter discovered the treasure she had in her keeping, she refused to give it up. The case was brought before Zeus, who decided the dispute by declaring that during four months of every year Adonis should be left to himself, during four months he should belong to Persephone, and during the remaining four to Aphrodite. Adonis however preferring to live with Aphrodite, also spent with her the four months over which he had controul. Afterwards Adonis died of a wound which he received from a boar during the chase. Thus far the story of Adonis was related by Panyasis.
+    </p>
+    <p>
+     Later writers furnish various alterations and additions to it. According to Hyginus (
+     <em>
+      Fab.
+     </em>
+     58, 164, 251, 271), Smyrna was punished with the love for her father, because her mother Cenchreis had provoked the anger of Aphrodite by extolling the beauty of her daughter above that of the goddess. Smyrna after the discovery of her crime fled into a forest, where she was changed into a tree from which Adonis came forth, when her father split it with his sword. The dispute between Aphrodite and Persephone was according to some accounts settled by Calliope, whom Zeus appointed as mediator between them. (Hygin.
+     <em>
+      Poet. Astron.
+     </em>
+     ii. 7.) Ovid (
+     <em>
+      Met.
+     </em>
+     x. 300, &amp;c.) adds the following features: Myrrha's love of her father was excited by the furies; Lucina assisted her when she gave birth to Adonis, and the Naiads anointed him with the tears of his mother,
+     <em>
+      i. e.
+     </em>
+     with the fluid which trickled from the tree. Adonis grew up a most beautiful youth, and Venus loved him and shared with him the pleasures of the chase, though she always cautioned him against the wild beasts. At last he wounded a boar which killed him in its fury.
+    </p>
+    <p>
+     According to some traditions Ares (Mars), or, according to others, Apollo assumed the form of a boar and thus killed Adonis. (Serv.
+     <em>
+      ad Virg. Ecl.
+     </em>
+     x. 18; Ptolem. Hephaest. i. p. 306, ed. Gale.) A third story related that Dionysus carried off Adonis. (Phanocles
+     <em>
+      ap. Plut. Sumpos.
+     </em>
+     iv. 5.) When Aphrodite was informed of her beloved being wounded, she hastened to the spot and sprinkled nectar into his blood, from which immediately flowers sprang up. Various other modifications of the story may be read in Hyginus (
+     <em>
+      Poet. Astron.
+     </em>
+     ii. 7), Theocritus (
+     <em>
+      Idyll.
+     </em>
+     xv.), Bion (
+     <em>
+      Idyll.
+     </em>
+     i.), and in the scholiast on Lycophron. (839, &amp;c.) From the double marriage of Aphrodite with Ares and Adonis sprang Priapus. (Schol.
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     i. 9, 32.) Besides him Golgos and Beroe are likewise called children. of Adonis and Aphrodite. (Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     xv. 100; Nonn.
+     <em>
+      Dionys.
+     </em>
+     xli 155.) On his death Adonis was obliged to descend into the lower world, but he was allowed to spend six months out of every year with his beloved Aphrodite in the upper world. (
+     <em>
+      Orph. hymn.
+     </em>
+     55. 10.)
+    </p>
+    <p>
+     Aphrodite possessed a magic girdle which had the power of inspiring love and desire for those who wore it; hence it was borrowed by Hera when she wished to stimulate the love of Zeus. (Hom.
+     <em>
+      Il.
+     </em>
+     xiv. 214, &amp;c.) The arrow is also sometimes mentioned as one of her attributes. (Plnd.
+     <em>
+      Pyth.
+     </em>
+     iv. 380; Theocrit. xi. 16.) In the vegetable kingdom the myrtle, rose, apple, poppy, and others, were sacred to her. (Ov.
+     <em>
+      Fast.
+     </em>
+     iv. 15. 143; Bion,
+     <em>
+      Idyll.
+     </em>
+     i. 64; Schol.
+     <em>
+      ad Aristoph. Nub.
+     </em>
+     993; Paus. ii. 10. § 4; Phornut. 23.)
+    </p>
+    <p>
+     The animals sacred to her, which are often mentioned as drawing her chariot or serving as her messengers, are the sparrow, the dove, the swan, the swallow, and a bird called iynx. (Sappho,
+     <em>
+      in Ven.
+     </em>
+     10; Athen. ix. p. 395; Horat.
+     <em>
+      Carm.
+     </em>
+     iv. 1. 10; Aelian,
+     <em>
+      Hist. An.
+     </em>
+     x. 34; Pind.
+     <em>
+      Pyth. l. c.
+     </em>
+     ) As Aphrodite Urania the tortoise, the symbol of domestic modesty and chastity, and as Aphrodite Pandemos the ram was sacred to her. [Urania; Pandemos.] When she was represented as the victorious goddess, she had the attributes of Ares, a helmet, a shield, a sword : or a lance, and an image of Victory in one hand. The planet Venus and the spring-month of April were likewise sacred to her. (Cie.
+     <em>
+      de Nat. Deor.
+     </em>
+     iii. 20; Ov.
+     <em>
+      Fast.
+     </em>
+     iv. 90.)
+    </p>
+    <p>
+     All the surnames and epithets given to Aphrodite are derived from places of her worship, from events connected with the legends about her, or have reference to her character and her influence upon man, or are descriptive of her extraordinary beauty and charms. All her surnames are explained in separate articles.
+    </p>
+    <p>
+     The principal places of her worship in Greece were the islands of Cyprus and Cythera. At Cnidus in Caria she had three temples, one of which contained her renowned statue by Praxiteles. Mount Ida in Troas was an ancient place of her worship, and among the other places we may mention particularly the island of Cos, the towns of Abydos, Athens, Thespiae, Megara, Sparta, Sicyon, Corinth, and Eryx in Sicily. The sacrifices offered to her consisted mostly of incense and garlands of flowers (Virg.
+     <em>
+      Aen.
+     </em>
+     i. 416; Tacit.
+     <em>
+      Hist.
+     </em>
+     ii. 3), but in some places animals, such as pigs, goats, young cows, hares, and others, were sacrificed to her. In some places, as at Corinth, great numbers of females belonged to her, who prostituted themselves in her service, and bore the name of hierodouloi. (
+     <em>
+      Dict.of Ant. s. v. Hetairai
+     </em>
+     .) Respecting the festivals of Aphrodite see
+     <em>
+      Dict. of Ant. s.v. Adônia, Anagôgia, Aphrodisia, Katagôgia
+     </em>
+     .
+    </p>
+    <p>
+     The worship of Aphrodite was undoubtedly of eastern origin, and probably introduced from Syria to the islands of Cyprus, Cythera, and others, from whence it spread all over Greece. It is said to have been brought into Syria from Assyria. (Paus. i. 14. § 6.) Aphrodite appears to have been originally identical with Astarte, called by the Hebrews Ashtoreth, and her connexion with Adonis clearly points to Syria. But with the exception of Corinth, where the worship of Aphrodite had eminently an Asiatic character, the whole worship of this goddess and all the ideas concerning her nature and character are so entirely Greek, that its introduction into Greece must be assigned to the very earliest periods. The elements were derived from the East, but the peculiar development of it belongs to Greece. The Roman goddess Venus was identified with the Greek Aphrodite.
+    </p>
+    <p>
+     Aphrodite, the ideal of female graec and beauty, frequently engaged the talents and genius of the ancient artists. The most celebrated representations of her were those of Cos and Cnidus. Those which are still extant are divided by archaeologists into several classes, accordingly as the goddess is represented in a standing position and naked, as the Medicean Venus, or bathing, or half naked, or dressed in a tunic, or as the victorious goddess in arms, as she was represented in the temples of Cythera, Sparta, and Corinth. (Paus. iii. 23. § 1, ii. 5. § 1, iii. 15. § 10.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/F10.1.html">
+      <img alt="Birth of Aphrodite-Venus | Greco-Roman fresco from Pompeii C1st A.D. | Naples National Archaeological Museum" class="img-responsive center-block" src="../image/F10.1Aphrodite.jpg"/>
+     </a>
+     <figcaption>
+      Birth of Aphrodite, Greco-Roman fresco from Pompeii C1st A.D.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Hymns">
+     HYMNS TO APHRODITE
+    </h3>
+    <h4>
+     I) THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 5 to Aphrodite (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "Moisa (Muse), tell me the deeds of golden Aphrodite Kypria (Cyprian), who stirs up sweet passion in the gods and subdues the tribes of mortal men and birds that fly in air and all the many creatures that the dry land rears, and all the sea: all these love the deeds of rich-crowned Kythereia. [The story of the love of Aphrodite and Ankhises follows.] . . .
+     <br/>
+     Hail, goddess, queen of well-builded Kypros (Cyprus)! With you have I begun; now I will turn me to another hymn."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 6 to Aphrodite :
+     </span>
+     <br/>
+     "I will sing of stately Aphrodite, gold-crowned and beautiful, whose dominion is the walled cities of all sea-set Kypros (Cyprus). There the moist breath of Zephyros the western wind wafted her over the waves of the loud-moaning sea in soft foam, ad there the gold-filleted Horai (Horae, Seasons) welcomed her joyously. [The story of the birth of Aphrodite follows.] . . .
+     <br/>
+     Hail, sweetly-winning, coy-eyed goddess! Grant that I may gain the victory in this contest, and order you my song. And now I will remember you and another song also."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 10 to Aphrodite  :
+     </span>
+     <br/>
+     "Of Kythereia (Cytherea) [Aphrodite], born in Kypros (Cyprus), I will sing. She gives kindly gifts to men: smiles are ever on her lovely face, and lovely is the brightness that plays over it. Hail, goddess, queen of well-built Salamis and sea-girt Kypros; grant me a cheerful song. And now I will remember you and another song also."
+    </p>
+    <h4>
+     II) THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 55 to Aphrodite (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Aphrodite. Ourania (Urania) (Heavenly), illustrious, laughter-loving (
+     <em>
+      philommeideia
+     </em>
+     ) queen, sea-born (
+     <em>
+      pontogenes
+     </em>
+     ), night-loving (
+     <em>
+      philopannyx
+     </em>
+     ), of awful mien; crafty, from whom Ananke (Necessity) first came, producing, nightly, all-connecting dame. 'Tis thine the world with harmony to join, for all things spring from thee, O power divine. The triple Moirai (Fates) are ruled by thy decree, and all productions yield alike to thee: whatever the heavens, encircling all, contain, earth fruit-producing, and the stormy main, thy sway confesses, and obeys thy nod, awful attendant of Bakkhos [Dionysos] God. Goddess of marriage, charming to the sight, mother of the Erotes (Loves), whom banquetings delight; source of Peitho (Persuasion), secret, favouring queen, illustrious born, apparent and unseen; spousal Lukaina, and to men inclined, prolific, most-desired, life-giving, kind. Great sceptre-bearer of the Gods, 'tis thine mortals in necessary bands to join; and every tribe of savage monsters dire in magic chains to bind through mad desire. Come, Kyprogenes (Cyprus-Born), and to my prayer incline, whether exalted in the heavens you shine, or pleased in odorous Syria to preside, or over the Aigyptian (Egyptian) plains they care to guide, fashioned of gold; and near its sacred flood, fertile and famed, to fix they blest abode; or if rejoicing in the azure shores, near where the sea with foaming billows roars, the circling choirs of mortals thy delight, or beauteous Nymphai (Nymphs) with eyes cerulean bright, pleased by the sandy banks renowned of old, to drive thy rapid two-yoked car of gold; or if in Kypros (Cyprus) thy famed mother fair, where Nymphai unmarried praise thee every year, the loveliest Nymphai, who in the chorus join, Adonis pure to sing, and thee divine. Come, all-attractive, to my prayer inclined, for thee I call, with holy, reverent mind."
+    </p>
+    <hr/>
+    <h3 id="Descriptions">
+     PHYSICAL DESCRIPTIONS OF APHRODITE
+    </h3>
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/K10.5.html">
+      <img alt="Aphrodite with dove | Apulian red-figure volute krater C4th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/K10.5Aphrodite.jpg"/>
+     </a>
+     <figcaption>
+      Aphrodite, Apulian red-figure volute krater C4th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Classical  literature offers only a few, brief descriptions of the physical characteristics of the gods.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 3. 396 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "She [Helene of Troy] recognized the round, sweet throat of the goddess [Aphrodite] and her desirable breasts and her eyes that were full of shining."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stasinus of Cyprus or Hegesias of Aegina, Cypria Fragment 6 (from Athenaeus 15. 682) (trans. Evelyn-White) (Greek epic C7th or 6th B.C.) :
+     </span>
+     <br/>
+     "She [Aphrodite] clothed herself with garments which the Kharites (Charites, Graces) and Horai (Hours) had made for her and dyed in flowers of spring--such flowers as the Horai (Horae, Seasons) wear--in crocus and hyacinth and flourishing violet and the rose's lovely bloom, so sweet and delicious, and heavenly buds, the flowers of the narcissus and lily. In such perfumed garments is Aphrodite clothed at all seasons."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 5 to Aphrodite 78 ff (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "Aphrodite, the daughter of Zeus stood before him [Ankhises (Anchises)], being like a pure maiden in height and mien, that he should not be frightened when he took heed of her with his eyes. Now when Ankhises saw her, he marked her well and wondered at her mien and height and shining garments. For she was clad in a robe out-shining the brightness of fire, a splendid robe of gold, enriched with all manner of needlework, which shimmered like the moon over her tender breasts, a marvel to see. Also she wore twisted brooches and shining earrings in the form of flowers; and round her soft throat were lovely necklaces . . .
+     <br/>
+     [later she revealed her true divine height and mien] and her head reached to the well-hewn roof-tree; from her cheeks shone unearthly beauty such as belongs to rich-crowned Kythereia (Cytherea). . . [and] when he [Ankhises] saw the neck and lovely eyes of Aphrodite, he was afraid and turned his eyes aside another way, hiding his comely face with his cloak."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 6 to Aphrodite 6 ff :
+     </span>
+     <br/>
+     "The Horai (Horae, Seasons) clothed her [Aphrodite] with heavenly garments: on her head they put a fine, well-wrought crown of gold, and in her pierced ears they hung ornaments of orichalc and precious gold, and adorned her with golden necklaces over her soft neck and snow-white breasts, jewels which the gold-filleted Horai wear themselves."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 8 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of a Greek painting:] Three goddesses standing near them--they need no interpreter to tell who they are . . . the second one [Aphrodite] even in the painting shows the 'laughter-loving' (
+     <em>
+      philomeides
+     </em>
+     ) disposition caused by the magic of her girdle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 57 to Chthonian Hermes (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Celestial Aphrodite, Paphian queen, dark-eyelashed Goddess, of a lovely mien."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 10. 30 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek play portraying the Judgement of Paris:] After them a third girl entered, her beauty visibly unsurpassed. Her charming, ambrosia-like complexion intimated that she represented the earlier Venus [Aphrodite] when that goddess was still a maiden. She vaunted her unblemished beauty by appearing naked and unclothed except for a thin silken garment veiling her entrancing lower parts. An inquisitive gust of air would at one moment with quite lubricous affection blow this garment aside, so that when wafted away it revealed her virgin bloom; at another moment it would wantonly breathe directly upon it, clinging tightly and vividly outlining the pleasurable prospect of her lower limbs. The goddess's appearance offered contrasting colours to the eye, for her body was dazzling white, intimating her descent from heaven and her robe was dark blue, denoting her emergence from the sea . . .
+     <br/>
+     Each maiden representing a goddess was accompanied by her own escort . . .  Venus [Aphrodite] was surrounded by a throng of the happiest children; you would have sworn that those little boys whose skins were smooth and milk-white were genuine Cupides [Erotes] who had just flown in from sky or sea. They looked just he part with their tiny wings, miniature arrows, and the rest of their get-up, as with gleaming torches they lit the way for their mistress as though she were en route to a wedding-banquet. Next floated in charming children, unmarried girls, representing on one side the Gratiae [Charites, Graces] at their most graceful, and on the other the Horae [Horai] in all their beauty. They were appeasing the goddess by strewing wreaths and single blossoms before her, and they formed a most elegant chorus-line as they sought to please the Mistress of pleasures with the foliage of spring. The flutes with their many stops were now rendering in sweet harmony melodies in the Lydian mode. As they affectingly softened the hearts of onlookers, Venus [Aphrodite] still more affectingly began to gently stir herself; with gradual, lingering steps, restrained swaying of the hips, and slow inclination of the head she began to advance, her refined movements matching the soft wounds of the flutes. Occasionally her eyes alone would dance, as at one moment she gently lowered her lids, and at another imperiously signalled with threatening glances."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 2. 8 ff :
+     </span>
+     <br/>
+     "Venus [Aphrodite] . . . wearing that belt of hers around her waist, diffusing the scent of cinnamon and bedewing the air with balsam."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Colluthus, Rape of Helen 82 ff (trans. Mair) (Greek poetry C5th to 6th A.D.) :
+     </span>
+     <br/>
+     "Kypris (Cypris) [Aphrodite] of crafty counsels unfolded her snood and undid the fragrant clasp of her hair and wreathed with gold her locks, with gold her flowing tresses."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.3.html">
+        <img alt="Thumbnail Aphrodite Riding Goose" src="../image/thumbK10.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.3 Aphrodite Riding Goose
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.5.html">
+        <img alt="Thumbnail Aphrodite with Dove" src="../image/thumbK10.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.5 Aphrodite with Dove
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.16.html">
+        <img alt="Thumbnail Aphrodite Holding Mirror" src="../image/thumbK10.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.16 Aphrodite Holding Mirror
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.6.html">
+        <img alt="Thumbnail Aphrodite &amp; Adonis" src="../image/thumbK10.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.6 Aphrodite &amp; Adonis
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.2.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbK10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.2 Birth of Aphrodite
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.1.html">
+        <img alt="Thumbnail Aphrodite, Eros, Zeus" src="../image/thumbK10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.1 Aphrodite, Eros, Zeus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K9.1.html">
+        <img alt="Thumbnail Aphrodite, Ares, Eros" src="../image/thumbK9.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K9.1 Aphrodite, Ares, Eros
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K9.3.html">
+        <img alt="Thumbnail Aphrodite &amp; Ares Seated" src="../image/thumbK9.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K9.3 Aphrodite &amp; Ares Seated
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K20.11A.html">
+        <img alt="Thumbnail Ares, Aphrodite, Muses" src="../image/thumbK20.11A.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K20.11A Ares, Aphrodite, Muses
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.13.html">
+        <img alt="Thumbnail Aphrodite, Birth of Athena" src="../image/thumbK8.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.13 Aphrodite, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.13.html">
+        <img alt="Thumbnail Aphrodite, Birth of Dionysus" src="../image/thumbK12.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.13 Aphrodite, Birth of Dionysus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T22.2.html">
+        <img alt="Thumbnail Aphrodite, Creation Pandora" src="../image/thumbT22.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T22.2 Aphrodite, Creation Pandora
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.6.html">
+        <img alt="Thumbnail Judgement of Paris" src="../image/thumbK4.6B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.6 Judgement of Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.3.html">
+        <img alt="Thumbnail Aphrodite &amp; Erotes" src="../image/thumbK31.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.3 Aphrodite &amp; Erotes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.5.html">
+        <img alt="Thumbnail Judgement of Paris" src="../image/thumbK4.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.5 Judgement of Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.9.html">
+        <img alt="Thumbnail Aphrodite, Paris, Menelaus" src="../image/thumbK10.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.9 Aphrodite, Paris, Menelaus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.14.html">
+        <img alt="Thumbnail Aphrodite &amp; Peitho" src="../image/thumbK10.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.14 Aphrodite &amp; Peitho
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.8.html">
+        <img alt="Thumbnail Aphrodite &amp; Helen of Troy" src="../image/thumbK10.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.8 Aphrodite &amp; Helen of Troy
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K4.11.html">
+        <img alt="Thumbnail Aphrodite, Hera, Heracles" src="../image/thumbK4.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K4.11 Aphrodite, Hera, Heracles
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.7.html">
+        <img alt="Thumbnail Aphrodite, Aeneas, Paris" src="../image/thumbK10.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.7 Aphrodite, Aeneas, Paris
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.4.html">
+        <img alt="Thumbnail Aphrodite, Eros, Hermes" src="../image/thumbK10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.4 Aphrodite, Eros, Hermes
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/O6.3.html">
+        <img alt="Thumbnail Aphrodite, Peitho, Dioscuri" src="../image/thumbO6.3C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         O6.3 Aphrodite, Peitho, Dioscuri
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K32.6.html">
+        <img alt="Thumbnail Aphrodite, Eros, Two Lovers" src="../image/thumbK32.6B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K32.6 Aphrodite, Eros, Two Lovers
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.2.html">
+        <img alt="Thumbnail Aphrodite &amp; Erotes" src="../image/thumbK31.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.2 Aphrodite &amp; Erotes
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.7.html">
+        <img alt="Thumbnail Aphrodite, Erostasia" src="../image/thumbK31.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.7 Aphrodite, Erostasia
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.4.html">
+        <img alt="Thumbnail Aphrodite, Erostasia" src="../image/thumbK31.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.4 Aphrodite, Erostasia
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.13.html">
+        <img alt="Thumbnail Aphrodite &amp; Giant Mimon" src="../image/thumbK10.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.13 Aphrodite &amp; Giant Mimon
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.18.html">
+        <img alt="Thumbnail Aphrodite, Aeneas, Diomedes" src="../image/thumbK10.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.18 Aphrodite, Aeneas, Diomedes
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.11.html">
+        <img alt="Thumbnail Aphrodite Riding Swan" src="../image/thumbK10.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.11 Aphrodite Riding Swan
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.6.html">
+        <img alt="Thumbnail Aphrodite, Erotes Chariot" src="../image/thumbK31.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.6 Aphrodite, Erotes Chariot
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K31.5.html">
+        <img alt="Thumbnail Aphrodite, Erotes Chariot" src="../image/thumbK31.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K31.5 Aphrodite, Erotes Chariot
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K10.10.html">
+        <img alt="Thumbnail Aphrodite, Eros, Adonis" src="../image/thumbK10.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K10.10 Aphrodite, Eros, Adonis
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.1.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbF10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.1 Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.2.html">
+        <img alt="Thumbnail Aphrodite, Ares, Erotes" src="../image/thumbF10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.2 Aphrodite, Ares, Erotes
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F9.1.html">
+        <img alt="Thumbnail Aphrodite, Ares, Eros" src="../image/thumbF9.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F9.1 Aphrodite, Ares, Eros
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.4.html">
+        <img alt="Thumbnail Aphrodite &amp; Eros" src="../image/thumbF10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.4 Aphrodite &amp; Eros
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.5.html">
+        <img alt="Thumbnail Aphrodite, Eros, Erotes" src="../image/thumbF10.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.5 Aphrodite, Eros, Erotes
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F10.3.html">
+        <img alt="Thumbnail Aphrodite &amp; Aeneas" src="../image/thumbF10.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F10.3 Aphrodite &amp; Aeneas
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z21.2.html">
+        <img alt="Thumbnail Aphrodite, Adonis, Charites" src="../image/thumbZ21.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z21.2 Aphrodite, Adonis, Charites
+        </h3>
+        <p>
+         Greco-Roman Madaba Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.1.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbZ10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.1 Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.2.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbZ10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.2 Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Bulla Regia Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.5.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbZ10.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.5 Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Phillipopolis Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.4.html">
+        <img alt="Thumbnail Aphrodite, Ares, Erotes" src="../image/thumbZ10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.4 Aphrodite, Ares, Erotes
+        </h3>
+        <p>
+         Greco-Roman Phillipopolis Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.9.html">
+        <img alt="Thumbnail Aphrodite, Erotes Chariot" src="../image/thumbZ10.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.9 Aphrodite, Erotes Chariot
+        </h3>
+        <p>
+         Greco-Roman Le Fahs Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.6.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbZ10.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.6 Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Bardo Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.7.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbZ10.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.7 Birth of Aphrodite
+        </h3>
+        <p>
+         Greco-Roman Bardo Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.3.html">
+        <img alt="Thumbnail Aphrodite &amp; Erotes" src="../image/thumbZ10.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.3 Aphrodite &amp; Erotes
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z10.8.html">
+        <img alt="Thumbnail Adonis, Ares as Boar" src="../image/thumbZ10.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z10.8 Adonis, Ares as Boar
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z4.1.html">
+        <img alt="Thumbnail Aphrodite, Hera, Athena" src="../image/thumbZ4.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z4.1 Aphrodite, Hera, Athena
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z4.1B.html">
+        <img alt="Thumbnail Judgement of Paris" src="../image/thumbZ4.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z4.1B Judgement of Paris
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z50.1F.html">
+        <img alt="Thumbnail Aphrodite as Friday" src="../image/thumbZ50.1F.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z50.1F Aphrodite as Friday
+        </h3>
+        <p>
+         Greco-Roman Orbe Floor Mosaic C3th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R10.1.html">
+        <img alt="Thumbnail Birth of Aphrodite" src="../image/thumbR10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R10.1 Birth of Aphrodite
+        </h3>
+        <p>
+         Greek Bas-Relief Ludovisi Throne C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.1.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.1 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.7.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.7 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.2.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.2 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.3.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.3 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.4.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.4 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.5.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.5 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.6.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.6 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.8.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.8 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.9.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.9 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.10.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.10 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.11.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.11 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.12.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.12 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.13.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.13 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.14.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.14 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.15.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.15 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.16.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.16 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.17.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.17 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.18.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.18 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.19.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.19.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.19 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S10.20.html">
+        <img alt="Thumbnail Aphrodite-Venus Statue" src="../image/thumbS10.20.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S10.20 Aphrodite-Venus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL APHRODITE PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodShield.html">
+       Hesiod, The Shield of Heracles
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Cypria Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Aesop, Fables
+      <span class="sources-detail">
+       - Greek Fables C6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1B.html">
+       Greek Lyric I Alcman, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreon, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreontea, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Ibycus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Simonides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th - 5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Corinna, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Folk Songs, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Mimnermus, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Seven Against Thebes
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Suppliant Women
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Bacchae
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Helen
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Letters
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Phaedo
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Phaedrus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Philebus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Symposium
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Parthenius.html">
+       Parthenius, Love Romances
+      </a>
+      <span class="sources-detail">
+       - Greek Mythography C1st B.C.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Poseidippus, Fragments
+      <span class="sources-detail">
+       - Greek Elegiac C2nd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Moralia
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Halieutica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaTroades.html">
+       Seneca, Troades
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Photius, Myriobiblon
+      <span class="sources-detail">
+       - Byzantine Greek Scholar C9th A.D.
+      </span>
+     </li>
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Source status of Aphrodite pages:-
+      <br/>
+      1. Fully quoted: Homer (Iliad &amp; Odyssey), Hesiod, Homeric Hymns, Epic Cycle &amp; Homerica, Apollodorus, Pausanias, Herodotus, Strabo, Orphic Hymns, Quintus Smyrnaeus, Callimachus, Aesop, Aelian, Ovid (Metamorphoses), Hyginus (Fabulae &amp; Astronomica), Apuleius;
+      <br/>
+      2. Partially or not quoted (Greek): Pindar, Greek Lyric (Fragments), Greek Elegaic (Fragments), Apollonius Rhodius, Diodorus Siculus, Antoninus Liberalis, Euripides, Aeschylus, Sophocles, Aristophanes, Plato, Theocritus, Lycophron, Plutarch, Philostratus &amp; Callistratus, Oppian, Colluthus, Tryphiodorus, et. al.;
+      <br/>
+      3. Partially or not quoted (Latin): Ovid (Fasti), Cicero, Statius, Propertius, Valerius Flaccus, et. al.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     APHRODITE SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GODDESS APHRODITE
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Dione
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Parents (alt)
+       </th>
+       <td>
+        Uranus (no mother)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddess of
+       </th>
+       <td>
+        Love, beauty, procreation
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Eros (winged godling), conch-shell
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Dove, goose
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Myrtle, rose
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Eros, Erotes, Charites, Peitho
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Cypris, Cytherea
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Venus
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     APHRODITE PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Family">
+         Family Tree of Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="#Descriptions">
+         Physical Descriptions
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeGoddess.html">
+       Part 2: Aphrodite Goddess of
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeGoddess.html#Sex">
+         Love &amp; Procreation
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeGoddess.html#Beauty">
+         Beauty &amp; Grace
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeGoddess.html#Pleasure">
+         Pleasure &amp; Merriment
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeGoddess.html#Poetry">
+         Love Poetry
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeGoddess.html#Star">
+         Star of Venus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeGoddess.html#Foreign">
+         Identified with Foreign Goddesses
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeFamily.html">
+       Part 3: Aphrodite Family
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeFamily.html#Genealogy">
+         Genealogy
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFamily.html#Divine">
+         Divine Offspring
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFamily.html#Mortal">
+         Mortal Offspring
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFamily.html#Kingdom">
+         Family by Kingdom
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeMyths.html">
+       Part 4: Aphrodite Myths 1 General
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeMyths.html#Birth">
+         Birth of Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths.html#Gigantes">
+         War of the Giants
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths.html#Typhoeus">
+         Flight from Typhoeus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths.html#Pandora">
+         Creation of Pandora
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths.html#Feasts">
+         Feast of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths.html#Priapos">
+         Birth of Priapus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths.html#Pythia">
+         Pythian Music Contest
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths.html#Weaving">
+         Weaving Contest with Athena
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeMyths2.html">
+       Part 4: Aphrodite Myths 2 General
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeMyths2.html#Troy">
+         The Trojan War
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeMyths3.html">
+       Part 4: Aphrodite Myths 3 General
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeMyths3.html#Eros">
+         Aphrodite &amp; Eros
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths3.html#Gods">
+         Loves of the Gods
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths3.html#Men">
+         Loves of Men
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths3.html#Aesop">
+         Aphrodite in Fable
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      Part 4: Aphrodite Myths 4 General
+      <ul>
+       <li>
+        <a href="JudgementParis.html">
+         The Judgement of Paris
+        </a>
+       </li>
+       <li>
+        <a href="../Ouranios/Harmonia.html">
+         Aphrodite &amp; Harmonia
+        </a>
+       </li>
+       <li>
+        <a href="../Nymphe/NympheBeroe.html">
+         Aphrodite &amp; Beroe
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeLoves.html">
+       Part 4: Aphrodite Myths 5 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeLoves.html#Ares">
+         Ares
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves.html#Dionysos">
+         Dionysos
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves.html#Hephaistos">
+         Hephaestus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves.html#Hermes">
+         Hermes
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves.html#Nerites">
+         Nerites
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves.html#Poseidon">
+         Poseidon
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves.html#Zeus">
+         Zeus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeLoves2.html">
+       Part 4: Aphrodite Myths 6 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeLoves2.html#Adonis">
+         Adonis
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves2.html#Ankhises">
+         Anchises
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves2.html#Boutes">
+         Butes
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves2.html#Phaon">
+         Phaon
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeLoves2.html#Phaethon">
+         Phaethon
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeWrath.html">
+       Part 4: Aphrodite Myths 7 Wrath
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeWrath.html#Kerastai">
+         Cerastae
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Kinyras">
+         Daughters of Cinyras
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Halia">
+         Brothers of Halia
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Hippolytos">
+         Hippolytus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Hippomenes">
+         Hippomenes
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Lemnides">
+         Lemnian Women
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Menelaos">
+         Menelaus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Nisos">
+         Nisus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Pasiphae">
+         Pasiphae
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Propoitides">
+         Propoetides
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath.html#Tyndareus">
+         Tyndareus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeWrath2.html">
+       Part 4: Aphrodite Myths 8 Wrath
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeWrath2.html#Pan">
+         Acheilus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Diomedes">
+         Acmon
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Anaxarete">
+         Anaxarete
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Kalliope">
+         Calliope
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Kleio">
+         Clio
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Diomedes">
+         Diomedes
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Eos">
+         Eos
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Erymanthos">
+         Erymanthus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Glaukos">
+         Glaucus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Helios">
+         Helius
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Herakles">
+         Heracles
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Myrrha">
+         Myrrha-Smyrna
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Narkissos">
+         Narcissus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Nerites">
+         Nerites
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Kalliope">
+         Orpheus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Pan">
+         Pan
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeWrath2.html#Polyphonte">
+         Polyphonte
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      Part 4: Aphrodite Myths 9 Wrath
+      <ul>
+       <li>
+        <a href="../Ouranios/Psykhe.html">
+         Psyche
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeFavour.html">
+       Part 4: Aphrodite Myths 10 Favour
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeFavour.html#Aeneas">
+         Aeneas
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths2.html#Andromakhe">
+         Andromache
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Ariadne">
+         Ariadne &amp; Dionysus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Boutes">
+         Butes
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths2.html#Hektor">
+         Hector
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Helene">
+         Helen
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Hermaphroditos">
+         Hermaphroditus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Hippomenes">
+         Hippomenes
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Ino">
+         Ino
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Pandareus">
+         Daughters of Pandareus
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Paris">
+         Paris
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeMyths2.html#Penthesileia">
+         Penthesileia
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Pygmalion">
+         Pygmalion
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Rome">
+         City of Rome
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeFavour.html#Skylla">
+         Scylla
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeTreasures.html">
+       Part 5: Estate &amp; Attributes
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeTreasures.html#Chariot">
+         Sky Chariot
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeTreasures.html#SeaChariot">
+         Sea Chariot
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeTreasures.html#Jewellery">
+         Clothing &amp; Jewellery
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeTreasures.html#Girdle">
+         Magical Girdle
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeTreasures.html#Palace">
+         Palace
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeTreasures.html#Animals">
+         Sacred Animals
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeTreasures.html#Plants">
+         Sacred Plants &amp; Flowers
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeTreasures.html#Stones">
+         Sacred Gems
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="AphroditeAttendants.html">
+       Part 6: Retinue of Aphrodite
+      </a>
+      <ul>
+       <li>
+        <a href="AphroditeAttendants.html#Erotes">
+         Erotes
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeAttendants.html#Horai">
+         Horae
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeAttendants.html#Kharites">
+         Charites
+        </a>
+       </li>
+       <li>
+        <a href="AphroditeAttendants.html#Peitho">
+         Peitho
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AphroditeCult.html">
+       Part 7: Cult of Aphrodite 1
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AphroditeCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Salamis">
+         Salamis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Aigina">
+         Aegina, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AphroditeCult2.html">
+       Part 7: Cult of Aphrodite 2
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Lokris">
+         Ozolean Locris, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Thessalia">
+         Thessaly, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Delos">
+         Delos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Kos">
+         Cos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Illyria">
+         Illyria, North of Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Thrake">
+         Thrace, North of Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Kypros">
+         Cyprus, Mediterranean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Teuthrania">
+         Teuthrania, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Karia">
+         Caria, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Mysia">
+         Mysia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Pamphylia">
+         Pamphylia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Aigyptos">
+         Egypt, North Africa
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Kyrene">
+         Libya, North Africa
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Sikelia">
+         Sicily, Southern Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Rome">
+         Rome &amp; Latium, Central Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeCult2.html#Gaul">
+         Gaul, Southern France
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AphroditeTitles.html">
+       Part 8: Titles &amp; Epithets
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AphroditeTitles.html#Poetic">
+         Poetic Titles &amp; Epithets
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AphroditeTitles.html#Cult">
+         Cult Titles
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Summary/Aphrodite.html">
+       Summary of Aphrodite
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

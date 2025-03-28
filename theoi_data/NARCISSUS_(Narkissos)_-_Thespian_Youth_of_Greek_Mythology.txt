@@ -1,0 +1,1441 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   NARCISSUS (Narkissos) - Thespian Youth of Greek Mythology
+  </title>
+  <meta content="In Greek mythology Narcissus was a youth of the town of Thespiae in Boeotia, a son of the river-god Cephisus and the fountain-nymph Liriope. He was celebrated for his beauty and attracted many admirers but, in his arrogance, spurned them all. The suffering of two of these, Echo and Ameinias, would bring down a curse upon him. The goddess Nemesis caused Narcissus to fall in love with his own reflection in a pool. Gazing endlessly at the image, he slowly pined away and was transformed by the nymphs into a narcissus flower." name="description"/>
+  <meta content="Narcissus, Narkissos, Greek mythology, hero, Thespian youth, daffodil metamorphosis, Narcissus pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-spring.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Villians
+     </a>
+     &gt;&gt; Narcissus (Narkissos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     NARKISSOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ναρκισσος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Narkissos
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Narcissus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Narcissus, Daffodil
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-325">
+     <a href="../Gallery/F43.1.html">
+      <img alt="Narcissus | Greco-Roman fresco from Pompeii C1st B.C. | Naples National Archaeological Museum" class="img-responsive center-block" src="../image/F43.1Narkissos.jpg"/>
+     </a>
+     <figcaption>
+      Narcissus, Greco-Roman fresco from Pompeii C1st B.C.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     NARKISSOS (Narcissus) was a youth of the town of Thespiai (Thespiae) in Boiotia, a son of the river-god Kephisos (Cephisus) and the fountain-nymph Liriope. He was celebrated for his beauty and attracted many admirers but, in his arrogance,  spurned them all. The suffering of two of these, however, would bring down a curse upon him.
+    </p>
+    <p>
+     The nymphe
+     <a href="../Nymphe/NympheEkho.html">
+      Ekho (Echo)
+     </a>
+     --a girl cursed by Hera to repeat only the last words of what was said before--was rejected by the boy and fading away in despair left behind nothing but an echoing voice.
+    </p>
+    <p>
+     The other admirer was the youth Ameinias who became  distraught when Narkissos cruelly spurned him. He killed himself before his beloved's door,  calling on the goddess
+     <a href="../Daimon/Nemesis.html">
+      Nemesis
+     </a>
+     to avenge him. His prayer was answered when Narkissos fell in love with his own reflection in a pool. Gazing endlessly at the image, he slowly pined away  and was transformed by the nymphs into a narcissus flower. Others say he was  instead filled with remorse and  killed himself beside the pool--and from his dying life's blood the flower was born.
+    </p>
+    <p>
+     Narkissos' name was the ancient Greek word for the narcissus or daffodil flower. The boy's mother Leiriope was named after another species of daffodil--the
+     <em>
+      leirion
+     </em>
+     --and his spurned love Ameinias   for the
+     <em>
+      ameinasis
+     </em>
+     . According to Hesychius
+     <em>
+      s.v.
+     </em>
+     ,
+     <em>
+      ameinasis
+     </em>
+     was another name for the sweet-smelling herb
+     <em>
+      duosmon
+     </em>
+     --either dill, anise or cummin. Presumably these two were also transformed into their namesake plants. Such a group of sympathetic metamorphoses is not uncommon in Greek myth.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF NARCISSUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Potamos/PotamosKephisos1.html">
+      KEPHISOS
+     </a>
+     &amp;
+     <a href="../Nymphe/NympheLiriope.html">
+      LIRIOPE
+     </a>
+     <span class="family-refs">
+      (Ovid Metamorphoses 3.340)
+      <br/>
+     </span>
+     [1.2]
+     <a href="../Potamos/PotamosKephisos1.html">
+      KEPHISOS
+     </a>
+     <span class="family-refs">
+      (Hyginus Fabulae 271, Statius Thebaid 7.340, Claudian Proserpine 2.130)
+      <br/>
+     </span>
+     [2.1]
+     <a href="Endymion.html">
+      ENDYMION
+     </a>
+     &amp;
+     <a href="../Titan/Selene.html">
+      SELENE
+     </a>
+     <span class="family-refs">
+      (Nonnus Dionysiaca 48.582)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     NARCISSUS (Narkissos), a son of Cephissus and the nymph Liriope of Thespiae. He was a very handsome youth, but wholly inaccessible to the feeling of love. The nymph Echo, who loved him, but in vain, died away with grief. One of his rejected lovers, however, prayed to Nemesis to punish him for his unfeeling heart. Nemesis accordingly caused Narcissus to see his own face reflected in a well, and to fall in love with his own image. As this shadow was unapproachable Narcissus gradually perished with love, and his corpse was metamorphosed into the flower called after him narcissus. This beautiful story is related at length by Ovid (
+     <em>
+      Met.
+     </em>
+     iii. 341, &amp;c.). According to some traditions, Narcissus sent a sword to one of his lovers, Ameinias, who killed himself with it at the very door of Narcissus' house, and called upon the gods to avenge his death. Narcissus, tormented by love of himself and by repentance, put an end to his life, and from his blood there sprang up the flower narcissus (Conon,
+     <em>
+      Narrat.
+     </em>
+     24). Other accounts again state that Narcissus melted away into the well in which he had beheld his own image (Paus. ix. 31. § 6); or that he had a beloved twin sister perfectly like him, who died, whereupon he looked at his own image reflected in a well, to satify his longing after his sister. Eustathius (
+     <em>
+      ad Hom.
+     </em>
+     p. 266) says that Narcissus was drowned in the well.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <figure class="image-main image-main-62pct">
+     <a href="../Gallery/Z51.1.html">
+      <img alt="Echo, Narcissus and Anteros | Greco-Roman mosaic from Daphne C3rd A.D. | Hatay Archaeology Museum, Antakya" class="img-responsive center-block" src="../image/Z51.1Narkissos.jpg"/>
+     </a>
+     <figcaption>
+      Echo, Narcissus and Anteros, Greco-Roman mosaic from Daphne C3rd A.D.,
+      <a href="http://www.hatayarkeolojimuzesi.gov.tr/" target="_blank">
+       Hatay Archaeology Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 31. 7 - 9 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "In the territory of the Thespians is a place called Donakon (Donacon, Reed-Bed). Here is the spring of Narkissos (Narcissus). They say that Narkissos looked into this water, and not understanding that he saw his own reflection, unconsciously fell in love with himself, and died of love at the spring. But it is utter stupidity to imagine that a man old enough to fall in love was incapable of distinguishing a man from a man's reflection.
+     <br/>
+     There is another story about Narkissos, less popular indeed than the other, but not without some support. It is said that Narkissos had a twin sister; they were exactly alike in appearance, their hair was the same, they wore similar clothes, and went hunting together. The story goes on that Narkissos fell in love with his sister, and when the girl died, would go to the spring, knowing that it was his reflection that he saw, but in spite of this knowledge finding some relief for his love in imagining that he saw, not his own reflection, but the likeness of his sister.
+     <br/>
+     The flower narcissus grew, in my opinion, before this, if we are to judge by the verses of Pamphos [i.e. the
+     <em>
+      Homeric Hymn to Demeter
+     </em>
+     ]. This poet was born many years before Narkissos the Thespian, and he says that Kore (Core, the Maid) [Persephone], the daughter of Demeter, was carried off when she was playing and gathering flowers, and that the flowers by which she was deceived into being carried off were not violets, but the narcissus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Conon, Narrations 24 (trans. Atsma) (Greek mythographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Ameinias was a very determined but fragile youth. When he was cruelly spurned by Narkissos (Narcissus), he took his sword and killed himself by the door, calling on the goddess Nemesis to avenge him. As a result when Narkissos saw the beauty of his form reflected in a stream he fell deeply in love with himself. In despair and believing  that he had rightly earned this curse for the humiliation of Ameinias, he slew himself. From his blood sprang the flower."
+     <br/>
+     [N.B. A similar story is found on a C1st B.C.
+     <a href="http://www.papyrology.ox.ac.uk/POxy/news/narcissus.html">
+      Greek papyrus fragment from Oxyrrhynchus
+     </a>
+     .]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lucian, Dialogues of the Dead 8 (trans. Fowler) (Greek satire C2nd A.D.) :
+     </span>
+     <br/>
+     "[Menippos, arriving in the underworld, asks the god Hermes to show him the great beauties of myth.]
+     <br/>
+     Menippos : Where are all the beauties, Hermes? Show me round; I am a new-comer.
+     <br/>
+     Hermes : I am busy, Menippos. But look over there to your right, and you will see Hyakinthos (Hyacinthus), Narkissos (Narcissus), Nireus, Akhilleus (Achilles), Tyro, Helene, Leda,--all the beauties of old."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 23 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting at Neapolis (Naples) :] Narkissos (Narcissus). The pool paints Narkissos, and the painting represents both the pool and the whole story of Narkissos. A youth just returned from the hunt stands over a pool, drawing from within himself a kind of yearning and falling in love with his own beauty; and, as you see, he sheds a radiance into the water. The cave is sacred to Akheloüs (Achelous) and the Nymphai (Nymphs), and the scene is painted realistically. For the statues are of a crude art and made from a local stone; some of them are worn away by time, others have been mutilated by children of cowherds or shepherds while still young and unaware of the presence of the god. Nor is the pool without some connection with the Bakkhic rites of Dionysos, since he had made it known to the Nymphai of the wine-press; at any rate it is roofed over with vine and ivy and beautiful creeping plants, and it abounds in clusters of grapes and the trees that furnish the thyrsoi, and tuneful birds disport themselves above it, each with its own note, and white flowers grow about the pool, not yet in blossom but just springing up in honour of the youth. The painting has such regard for realism that it even shows drops of dew dripping from the flowers and a bee settling on the flowers--whether a real bee has been deceived by the painted flowers of whether we are to be deceived into thinking that a painted bee is real, I do not know. But let that pass. As for you, however, Narkissos, it is no painting that has deceived you, nor are you engrossed in a thing of pigments or wax; but you do not realize that the water represents you exactly as you are when you gaze upon it, nor do you see through the artifice of the pool, though to do so you have only to nod your head or change your expression or slightly move your hand, instead of standing in the same attitude; but acting as though you had met a companion, you wait for some move on his part. Do you then expect the pool to enter into conversation with you? Nay, this youth does not hear anything we say, but he is immersed eyes and ears alike, in the water and we must interpret the painting for ourselves.
+     <br/>
+     The youth, standing erect, is at rest; he has his legs crossed and supports one hand on the spear which is planted on his left, while his right hand is pressed against his hip so as to support his body and to produce the type of figure in which the buttocks are pushed out because of the inward bend on the left side. The arm shows an open space at the point where the elbow bends, a wrinkle where the wrist is twisted, and it casts a shadow as it ends in the palm of the hand, and he lines of the shadow are slanting because the fingers are bent in. Whether the panting of his breast remains from his hunting or is already the painting of love I do not know. The eye, surely, is that of a man deeply in love, for its natural brightness and intensity are softened by a longing that settles upon it, and he perhaps thinks that he is loved in return, since the reflection gazes at him in just he way that he looks at it. There would be much to say about he hair if we found him while hunting. For there are innumerable tossings of the hair in running, especially when it is blown by a wind; but even as it is the subject should not be passed over in silence. For it is very abundant and of a golden hue; and some it clings to the neck, some is parted by the ears, some tumbles over the forehead, and some falls in ripples to the beard. Both the Narcissi are exactly alike in form and each repeats the traits of the other, except that one stands out in the open air while the other is immersed in the pool. For the youth stands over the youth who stands in the water, or rather who gazes intently at him and seems to be athirst for his beauty."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callistratus, Descriptions 5 (trans. Fairbanks) (Greek rhetorician C3rd to 4th A.D.) :
+     </span>
+     <br/>
+     "[A description of an ancient Greek statue :] On the statue of Narkissos (Narcissus). There was a grove, and in it an exceedingly beautiful spring of very pure clear water, and by this stood a Narkissos made of marble. He was a boy, or rather a youth, of the same age as the Erotes (Loves); and he gave out as it were a radiance of lightning from the very beauty of his body. The appearance of the statue was as follows:--It was shining with gilded hair, of which the locks encircled the forehead in a curve and hung free down the neck to the back; and its glance did not express unmixed exultation nor yet pure joy, for in the nature of the eyes art had put an indication of grief, that the image might represent not only both Narkissos but also his fate. He was clothed like the Erotes, and he resembled them also in that he was in the prime of his youth. The garb which adorned him was as follows: a white mantle, of the same colour as the marble of which he was made, encircled him; it was held by a clasp on the right shoulder and reached down nearly to the knees, where it ended, leaving free, from the clasp down, only the hand. Moreover, it was so delicate and imitated a mantle so closely that the colour of the body shone through, the whiteness of the drapery permitting the gleam of the limbs to come out. He stood using the spring as a mirror and pouring into it the beauty of his face, and the spring, receiving the lineaments which came from him, reproduced so perfectly the same image that he two other beings seemed to emulate each other. For whereas the marble was in every part trying to change the real boy so as to match the one in the water, the spring was struggling to match the skilful efforts of art in the marble, reproducing in an incorporeal medium the likeness of the corporeal model and enveloping the reflection which came from the statue with the substance of water as though it were the substance of flesh. And indeed the form in the water was so instinct with life and breath that it seemed to be Narkissos himself, who, as the story goes, came to the spring, and when his form was seen by him in the water he died among the water-nymphs, because he desired to embrace his own image, and now he appears as a flower in the meadows in the spring-time. You could have seen how the marble, uniform though it was in colour, adapted itself to the expression of his eyes, preserved the record of his character, showed the perception of his senses, indicated his emotions and conformed itself to the abundance of his hair as it relaxed to make the curls of his locks. Indeed, words cannot describe how the marble softened into suppleness and provided a body at variance with its own essence; for though its own nature is very hard, it yielded a sensation of softness, being dissolved into a sort of porous matter. The image was holding a syrinx, the instrument with which Narkissos was wont to offer music to the gods of the flock, and he would make the desert echo with his songs whenever he desired to hold converse with stringed musical instruments. In admiration of this Narkissos, O youths, I have fashioned an image of him and brought it before you also in the halls of the Mousai (Muses). And the description is such as to agree wit the statue."
+     <br/>
+     [N.B. There is an extant statue of Narkissos in the Vatican by Phaidimos which agrees in almost all respects with this description.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 271 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Youths who were most handsome. Adonis, son of Cinyras and Smyrna, whom Venus [Aphrodite] loved. Endymion, son of Aetolus, whom Luna [Selene] loved. Ganymede, son of Erichthonius, whom Jove [Zeus] loved. Hyacinthus, son of Oebalus, whom Apollo loved. Narcissus, son of the river Cephisus, who loved himself. Atlantius, son of Mercury [Hermes] and Venus, who is called Hermaphroditus . . ."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 3. 339 - 509 (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Tiresias' [of Thebes'] fame of prophecy was spread through all the cities of Aonia [Boeotia], for his unerring answers unto all who listened to his words. And first of those that harkened to his fateful prophecies, a lovely Nympha, named Liriope, came with her dear son, who then fifteen, might seem a man or boy--he who was born to her upon the green merge of Cephissus' stream--that mighty River-God whom she declared the father of her boy.--She questioned him, imploring him to tell her if her son, unequalled for his beauty, whom she called Narcissus, might attain a ripe old age. To which the blind seer answered in these words, ‘If he but fail to recognize himself, a long life he may have, beneath the sun,’--so, frivolous the prophet's words appeared; and yet the event, the manner of his death, the strange delusion of his frenzied love, confirmed it. Three times five years so were passed [i.e. he was fifteen yeard old]. Another five-years, and the lad might seem a young man or a boy. And many a youth, and many a damsel sought to gain his love; but such his mood and spirit and his pride, none gained his favour.
+     <br/>
+     Once a noisy Nympha, (who never held her tongue when others spoke, who never spoke till others had begun) mocking Echo, spied him as he drove, in his delusive nets, some timid stags.--For Echo was a Nympha, in olden time,--and, more than vapid sound,--possessed a form : and she was then deprived the use of speech, except to babble and repeat the words, once spoken, over and over. Juno [Hera] confused her silly tongue . . . and, ever since, she only mocks the sounds of others' voices, or, perchance, returns their final words.
+     <br/>
+     One day, when she observed Narcissus wandering in the pathless woods, she loved him and she followed him, with soft and stealthy tread.--The more she followed him the hotter did she burn, as when the flame flares upward from the sulphur on the torch. Oh, how she longed to make her passion known! To plead in soft entreaty! to implore his love! But now, till others have begun, a mute of Nature she must be. She cannot choose but wait the moment when his voice may give to her an answer. Presently the youth, by chance divided from his trusted friends, cries loudly, ‘Who is here?’ and Echo, ‘Here!’ Replies. Amazed, he casts his eyes around, and calls with louder voice, ‘Come here!’ ‘Come here!’ She calls the youth who calls.--He turns to see who calls him and, beholding naught exclaims, ‘Avoid me not!’ ‘Avoid me not!’ returns. He tries again, again, and is deceived by this alternate voice, and calls aloud; ‘Oh let us come together!’ Echo cries, ‘Oh let us come together!’ Never sound seemed sweeter to the Nympha, and from the woods she hastens in accordance with her words, and strives to wind her arms around his neck. He flies from her and as he leaves her says, ‘Take off your hands! you shall not fold your arms around me. Better death than such a one should ever caress me!’ Naught she answers save, ‘Caress me!’ Thus rejected she lies hid in the deep woods, hiding her blushing face with the green leaves; and ever after lives concealed in lonely caverns in the hills. But her great love increases with neglect; her miserable body wastes away, wakeful with sorrows; leanness shrivels up her skin, and all her lovely features melt, as if dissolved upon the wafting winds--nothing remains except her bones and voice--her voice continues, in the wilderness; her bones have turned to stone. She lies concealed in the wild woods, nor is she ever seen on lonely mountain range; for, though we hear her calling in the hills, 'tis but a voice, a voice that lives, that lives among the hills.
+     <br/>
+     Thus he deceived the Nympha and many more, sprung from the mountains or the sparkling waves; and thus he slighted many an amorous youth.--and therefore, some one whom he once despised [probably the youth Ameinias], lifting his hands to Heaven, implored the gods, ‘If he should love deny him what he loves!’ and as the prayer was uttered it was heard by Nemesis, who granted her assent.
+     <br/>
+     There was a fountain silver-clear and bright, which neither shepherds nor the wild she-goats, that range the hills, nor any cattle's mouth had touched--its waters were unsullied--birds disturbed it not; nor animals, nor boughs that fall so often from the trees. Around sweet grasses nourished by the stream grew; trees that shaded from the sun let balmy airs temper its waters. Here Narcissus, tired of hunting and the heated noon, lay down, attracted by the peaceful solitudes and by the glassy spring. There as he stooped to quench his thirst another thirst increased. While he is drinking he beholds himself reflected in the mirrored pool--and loves; loves an imagined body which contains no substance, for he deems the mirrored shade a thing of life to love. He cannot move, for so he marvels at himself, and lies with countenance unchanged, as if indeed a statue carved of Parian marble. Long, supine upon the bank, his gaze is fixed on his own eyes, twin stars; his fingers shaped as Bacchus might desire, his flowing hair as glorious as Apollo's, and his cheeks youthful and smooth; his ivory neck, his mouth dreaming in sweetness, his complexion fair and blushing as the rose in snow-drift white. All that is lovely in himself he loves, and in his witless way he wants himself:--he who approves is equally approved; he seeks, is sought, he burns and he is burnt. And how he kisses the deceitful fount; and how he thrusts his arms to catch the neck that's pictured in the middle of the stream! Yet never may he wreathe his arms around that image of himself. He knows not what he there beholds, but what he sees inflames his longing, and the error that deceives allures his eyes. But why, O foolish boy, so vainly catching at this flitting form? The cheat that you are seeking has no place. Avert your gaze and you will lose your love, for this that holds your eyes is nothing save the image of yourself reflected back to you. It comes and waits with you; it has no life; it will depart if you will only go.
+     <br/>
+     Nor food nor rest can draw him thence--outstretched upon the overshadowed green, his eyes fixed on the mirrored image never may know their longings satisfied, and by their sight he is himself undone. Raising himself a moment, he extends his arms around, and, beckoning to the murmuring forest; ‘Oh, ye aisled wood was ever man in love more fatally than I? Your silent paths have sheltered many a one whose love was told, and ye have heard their voices. Ages vast have rolled away since your forgotten birth, but who is he through all those weary years that ever pined away as I? Alas, this fatal image wins my love, as I behold it. But I cannot press my arms around the form I see, the form that gives me joy. What strange mistake has intervened betwixt us and our love? It grieves me more that neither lands nor seas nor mountains, no, nor walls with closed gates deny our loves, but only a little water keeps us far asunder. Surely he desires my love and my embraces, for as oft I strive to kiss him, bending to the limpid stream my lips, so often does he hold his face fondly to me, and vainly struggles up. It seems that I could touch him. 'Tis a strange delusion that is keeping us apart. Whoever thou art, Come up! Deceive me not! Oh, whither when I fain pursue art thou? Ah, surely I am young and fair, the Nymphs have loved me; and when I behold thy smiles I cannot tell thee what sweet hopes arise. When I extend my loving arms to thee thine also are extended me--thy smiles return my own. When I was weeping, I have seen thy tears, and every sign I make thou cost return; and often thy sweet lips have seemed to move, that, peradventure words, which I have never heard, thou hast returned. No more my shade deceives me, I perceive 'Tis I in thee--I love myself--the flame arises in my breast and burns my heart--what shall I do? Shall I at once implore? Or should I linger till my love is sought? What is it I implore? The thing that I desire is mine--abundance makes me poor. Oh, I am tortured by a strange desire unknown to me before, for I would fain put off this mortal form; which only means I wish the object of my love away. Grief saps my strength, the sands of life are run, and in my early youth am I cut off; but death is not my bane--it ends my woe.--I would not death for this that is my love, as two united in a single soul would die as one.’
+     <br/>
+     He spoke; and crazed with love, returned to view the same face in the pool; and as he grieved his tears disturbed the stream, and ripples on the surface, glassy clear, defaced his mirrored form. And thus the youth, when he beheld that lovely shadow go; ‘Ah whither cost thou fly? Oh, I entreat thee leave me not. Alas, thou cruel boy thus to forsake thy lover. Stay with me that I may see thy lovely form, for though I may not touch thee I shall feed my eyes and soothe my wretched pains.’
+     <br/>
+     And while he spoke he rent his garment from the upper edge, and beating on his naked breast, all white as marble, every stroke produced a tint as lovely as the apple streaked with red, or as the glowing grape when purple bloom touches the ripening clusters. When as glass again the rippling waters smoothed, and when such beauty in the stream the youth observed, no more could he endure. As in the flame the yellow wax, or as the hoar-frost melts in early morning 'neath the genial sun; so did he pine away, by love consumed, and slowly wasted by a hidden flame. No vermeil bloom now mingled in the white of his complexion fair; no strength has he, no vigor, nor the comeliness that wrought for love so long: alas, that handsome form by Echo fondly loved may please no more.
+     <br/>
+     But when she saw him in his hapless plight, though angry at his scorn, she only grieved. As often as the love-lore boy complained, ‘Alas!’ ‘Alas!’ her echoing voice returned; and as he struck his hands against his arms, she ever answered with her echoing sounds. And as he gazed upon the mirrored pool he said at last, ‘Ah, youth beloved in vain!’ ‘In vain, in vain!’ the spot returned his words; and when he breathed a sad ‘farewell!’ ‘Farewell!’ sighed Echo too. He laid his wearied head, and rested on the verdant grass; and those bright eyes, which had so loved to gaze, entranced, on their own master's beauty, sad Night closed. And now although among the nether shades his sad sprite roams, he ever loves to gaze on his reflection in the Stygian wave. His Naiad sisters mourned, and having clipped their shining tresses laid them on his corpse : and all the Dryades mourned : and Echo made lament anew. And these would have upraised his funeral pyre, and waved the flaming torch, and made his bier; but as they turned their eyes where he had been, alas he was not there! And in his body's place a sweet flower grew, golden and white, the white around the gold.
+     <br/>
+     Narcissus' fate, when known throughout the land and cities of Achaea, added fame deserved, to blind Tiresias,--mighty seer."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 222 ff (trans. Frazer) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Chloris, goddess of flowers, speaks of the metamorphosis of handsome youths into flowers :] I  was the first to make a flower out of Therapnaean blood [i.e. Hyacinthus of Therapne], and on its petals the lament remains inscribed. Thou, too, Narcissus, hast a name in the trim gardens, unhappy thou in that thou hadst not a double of thyself. What need to tell of Crocus, and Attis, and [Adonis] the son of Cinyras, from whose wounds by my art doth beauty spring?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 7. 340 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[The Boiotians gather for the War of the Seven Against Thebes :] Thou too, Cephisus, wouldst have sent Narcissus, pre-eminent in beauty, but already, stubborn-hearted boy, he is a pale flower in a Thespian field : thou, O father [the  river-god Kephisos (Cephisus)], dost lave it with thy childless waves . . . [O spring of] Lilaea that sends forth the ice-cold springs of Cephisus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Claudian, Rape of Proserpine 2. 130 ff (trans. Platnauer) (Roman poetry C4th A.D.) :
+     </span>
+     <br/>
+     "[Persephone and her nymphs gather flowers :] Thee also, Hyacinthus, they gather, thy flower inscribed with woe, and Narcissus too--once lovely boys, now the pride of flowering spring. Thou, Hyacinthus, wert born at Amyclae, Narcissus was Helicon's child; thee the errant discus slew; him love of his stream-reflected face beguiled; for thee weeps Delos' god with sorrow-weighted brow; for him Cephisus with his broken reeds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 322 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Leave your mourning; the Naiades may sigh by that fountain of death, but Narkissos (Narcissus) hears not."
+     <br/>
+     [N.B. The "fountain of death" is the pool in which Narkissos became enamoured of his reflection.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 582 ff :
+     </span>
+     <br/>
+     "There were the clustering blooms which have the name Narkissos (Narcissus) the fair youth, whom horned Selene's bridegroom Endymion begat on leafy Latmos."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F43.1.html">
+        <img alt="Thumbnail Narcissus" src="../image/thumbF43.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F43.1 Narcissus &amp; Reflection
+        </h3>
+        <p>
+         Greco-Roman Pompeii Fresco C1st B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z51.1.html">
+        <img alt="Thumbnail Echo &amp; Narcissus" src="../image/thumbZ51.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z51.1 Echo &amp; Narcissus
+        </h3>
+        <p>
+         Greco-Roman Daphne Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Conon, Narrations
+      <span class="sources-detail">
+       - Greek Mythographer C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Lucian, Dialogues of the Gods
+      <span class="sources-detail">
+       - Greek Satire C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClaudianProserpine.html">
+       Claudian, Rape of Proserpine
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     NARCISSUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE YOUTH NARCISSUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Cephisus and Liriope
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Thespiae in Boeotia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Daffodil
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

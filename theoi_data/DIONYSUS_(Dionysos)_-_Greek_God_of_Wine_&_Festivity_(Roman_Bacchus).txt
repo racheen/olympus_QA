@@ -1,0 +1,4840 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Olympian.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   DIONYSUS (Dionysos) - Greek God of Wine &amp; Festivity (Roman Bacchus)
+  </title>
+  <meta content="Dionysus was the ancient Greek god of wine, vegetation, pleasure, festivity, madness and wild frenzy. He was depicted as either an older, bearded god or an effeminate, long-haired youth. His attributes included the thyrsos (a pine-cone tipped staff), a drinking cup and a crown of ivy. His Roman name was Bacchus." name="description"/>
+  <meta content="Dionysus, Dionysos, Bacchus, Olympian god, Greek mythology, Greek god of wine, Greek god of festivity, Greek god of pleasure, Greek god of frenzy, Greek god of madness, Greek god of vegetation, Dionysus pictures, Liber" name="keywords"/>
+  <meta content="DIONYSUS - Greek God of Wine &amp; Festivity" property="og:title">
+   <meta content="Dionysus was the ancient Greek god of wine, vegetation, pleasure, festivity, madness and wild frenzy. He was depicted as either an older, bearded god or an effeminate, long-haired youth. His attributes included the thyrsos (a pine-cone tipped staff), a drinking cup and a crown of ivy. His Roman name was Bacchus." property="og:description">
+    <meta content="article" property="og:type">
+     <meta content="https://www.theoi.com/Olympios/Dionysos.html" property="og:url">
+      <meta content="https://www.theoi.com/image/img_dionysos_og.jpg" property="og:image">
+       <meta content="Theoi Greek Mythology" property="og:site_name"/>
+       <!-- InstanceEndEditable -->
+       <meta content="nopin" name="pinterest"/>
+       <!-- Bootstrap -->
+       <link href="../css/bootstrap.css" rel="stylesheet"/>
+       <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceBeginEditable name="stylesheet" -->
+       <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+       <!-- InstanceEndEditable -->
+       <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+       <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+       <script type="text/javascript">
+        window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+       </script>
+       <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+       </script>
+       <!-- End Cookie Consent plugin -->
+       <!-- InstanceBeginEditable name="head" -->
+       <!-- InstanceEndEditable -->
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+       <!-- Sekindo video DFP start -->
+       <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+       </script>
+       <script>
+        var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+       </script>
+       <script>
+        googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+       </script>
+       <!-- Sekindo video DFP end -->
+       <!-- Google Tag Manager -->
+       <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+       </script>
+       <!-- End Google Tag Manager -->
+       <script>
+        var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+       </script>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt; Dionysus (Dionysos)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     DIONYSOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Διονυσος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Dionysos
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Dionysus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Liber, Bacchus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z12.1.html">
+      <img alt="Dionysus riding panther | Greek mosaic from Pella C4th B.C. | Pella Archaeological Museum" class="img-responsive center-block" src="../image/Z12.1Dionysos.jpg"/>
+     </a>
+     <figcaption>
+      Dionysus riding panther, Greek mosaic from Pella C4th B.C., Pella Archaeological Museum
+     </figcaption>
+    </figure>
+    <p>
+     DIONYSOS (Dionysus) was the Olympian god of wine, vegetation, pleasure, festivity, madness and wild frenzy. He was depicted as either an older, bearded god or an effeminate, long-haired youth. His attributes included the
+     <em>
+      thyrsos
+     </em>
+     (a pine-cone tipped staff), a drinking cup and a crown of ivy. He was usually accompanied by a troop of Satyrs and Mainades (wild female devotees).
+    </p>
+    <h2>
+     MYTHS
+    </h2>
+    <p>
+     Dionysos was a son of Zeus and the princess Semele of Thebes. During the course of her pregnancy, the god's jealous wife Hera tricked Semele into asking Zeus to appear before her in his full glory. Bound by oath, the god was forced to comply and she was consumed by the heat of his lightning-bolts. Zeus recovered their unborn child from her body, sewed him up in his own thigh, and carried him to term. &lt;&lt;
+     <a href="DionysosMyths.html#Birth">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     After his birth  from the thigh of Zeus, Dionysos was first entrusted to the care of Seilenos (Silenus) and the nymphs of Mount Nysa, and later to his aunt Ino, Semele's sister, and her husband Athamas. Hera was enraged when she learned of the boy's location and drove the couple mad, causing them to kill both their children and themselves. &lt;&lt;
+     <a href="DionysosMyths.html#Birth">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The Thrakian king Lykourgos (Lycurgus) attacked Dionysos and his companions as they were travelling through his land and drove them into the sea. As punishment, the god inflicted him with madness causing him to murder his wife and son and mutilate himself with an axe. &lt;&lt;
+     <a href="DionysosWrath.html#Lykourgos">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     King Pentheus of Thebes refused to accept the god's divinity and tried to apprehend him. The god retaliated by driving the king's daughters into a crazed frenzy and they tore him apart limb from limb. &lt;&lt;
+     <a href="DionysosWrath2.html#Pentheus">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Dionysos instructed the hero Ikarios (Icarius) of Athens in the art of winemaking. However, some shepherds, upon drinking the wine, thought they had been poisoned and killed him. The sorrowful god then set him amongst the stars as the constellation Bootes. &lt;&lt;
+     <a href="DionysosFavour.html#Ikarios">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     As Dionysos was travelling through the islands of the Aegean Sea he was captured by a band of Tyrrhenian pirates who thought to sell him into slavery. The god infested their ship with phantoms of creeping vines and wild beasts, and in terror the men leapt overboard and were transformed into dolphins. &lt;&lt;
+     <a href="DionysosWrath.html#Tyrrhenian">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Dionysos married princess Ariadne of Krete (Crete) whom he discovered abandoned by Theseus on the island of Naxos. &lt;&lt;
+     <a href="../Georgikos/Ariadne.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     The god launched a campaign against the Indian nation in the farthest reaches of Asia, leading an army composed of Satyrs, Mainades, and demigods. &lt;&lt;
+     <a href="DionysosMyths3.html#India">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Dionysos journeyed to the underworld to recover his mother Semele and brought her to Olympos where Zeus transformed into the goddess Thyone. &lt;&lt;
+     <a href="DionysosMyths2.html#Underworld">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Many other myths are detailed over the following pages.
+    </p>
+    <hr/>
+    <h2 id="Attributes">
+     SYMBOLS &amp; ATTRIBUTES
+    </h2>
+    <p>
+     Dionysos' most distinctive attribute was the
+     <em>
+      thyrsos
+     </em>
+     , a pine-cone tipped staff. His other attributes included a drinking-cup (
+     <em>
+      kantharos
+     </em>
+     ), fruiting grapevines and a panther.
+     <br/>
+     The god was usually clothed in a long robe (
+     <em>
+      chiton
+     </em>
+     ) and cloak (
+     <em>
+      himation
+     </em>
+     ) and crowned with a wreath of ivy-leaves.
+    </p>
+    <p>
+     Below are some examples of his attributes as depicted in ancient Greek art:-
+    </p>
+    <p>
+     1. Pine-cone staff (
+     <em>
+      thyrsos
+     </em>
+     ); 2. Thyrsos-staff head; 3. Grapevines; 4. Drinking-cup; 5. Wreath of ivy-leaves.
+    </p>
+    <p>
+     <img alt="Thyrsos of Dionysos" border="0" height="115" name="img1" src="../image/img_dionysos_attributes_thyrsos1.jpg" width="115"/>
+     <img alt="Thyrsos of Dionysos" border="0" height="115" name="img1" src="../image/img_dionysos_attributes_thyrsos2.jpg" width="115"/>
+     <img alt="Grapevine of Dionysos" border="0" height="115" name="img1" src="../image/img_dionysos_attributes_grapevine.jpg" width="115"/>
+     <img alt="Drinking-Cup of Dionysos" border="0" height="115" name="img1" src="../image/img_dionysos_attributes_cup.jpg" width="115"/>
+     <img alt="Ivy-Wreath of Dionysos" border="0" height="115" name="img1" src="../image/img_dionysos_attributes_wreath.jpg" width="115"/>
+    </p>
+    <hr/>
+    <h2>
+     SACRED ANIMALS &amp; PLANTS
+    </h2>
+    <p>
+     Dionysos' sacred animals were the panther (leopard), tiger, bull and serpent. The god rode on the back of a panther or drove a chariot drawn by a pair of the beasts.
+     <br/>
+     His sacred plants were the grapevine, ivy, bindweed (prickly ivy) and pine tree. Devotees of the god wore wreaths of ivy and carried pine-cone tipped staffs.
+    </p>
+    <p>
+     Below are examples of the god's animals as depicted in ancient Greek art and photos of his sacred plants:-
+    </p>
+    <p>
+     1. Panther; 2. Grapevine; 3. Ivy; 4. Bindweed; 5. Pine tree.
+    </p>
+    <p>
+     <img alt="Panther of Dionysos" border="0" height="115" name="img1" src="../image/img_dionysos_animals_panther.jpg" width="115"/>
+     <a href="../image/flora_ampelos_lg.jpg">
+      <img alt="Grapevine" border="0" height="115" src="../image/flora_ampelos.jpg" width="115"/>
+     </a>
+     <a href="../image/flora_kissos_lg.jpg">
+      <img alt="Ivy" border="0" height="115" src="../image/flora_kissos.jpg" width="115"/>
+     </a>
+     <a href="../image/flora_smilax_lg.jpg">
+      <img alt="Bindweed" border="0" height="115" src="../image/flora_smilax.jpg" width="115"/>
+     </a>
+     <a href="../image/flora_peuke_lg.jpg">
+      <img alt="Pine Tree" border="0" height="115" src="../image/flora_peuke.jpg" width="115"/>
+     </a>
+    </p>
+    <hr/>
+    <h2>
+     DIONYSUS PAGES ON THEOI.COM
+    </h2>
+    <p>
+     This site contains a total of 14 pages describing the god, including general descriptions, mythology, and cult. The content is outlined in the
+     <a href="#Index">
+      Index of Dionysus Pages
+     </a>
+     (left column or below).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF DIONYSUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Georgikos/Thyone.html">
+      SEMELE
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 940, Homeric Hymn 1 &amp; 7 &amp; 26, Pindar Odes Pythian 3, Bacchylides Frag 19, Apollodorus 3.26, Pausanias 3.24.4, Diodorus Siculus 4.2.1, Hyginus Fabulae 179, Nonnus Dionysiaca, et al)
+     </span>
+     <br/>
+     [2]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/TitanisDione.html">
+      DIONE
+     </a>
+     <span class="family-refs">
+      (Scholiast on Pindar's Pythian 3.177; Hesychius)
+     </span>
+     <br/>
+     [3]
+     <a href="Zeus.html">
+      ZEUS
+     </a>
+     &amp;
+     <a href="../Titan/Selene.html">
+      SELENE
+     </a>
+     (
+     <a href="../Thrakios/Bendis.html">
+      BENDIS
+     </a>
+     ?)
+     <span class="family-refs">
+      (Cicero De Natura Deorum 3.21-23)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     See
+     <a href="DionysosFamily.html#Genealogy">
+      Family of Dionysos
+     </a>
+    </p>
+    <hr/>
+    <p>
+     Dionysos was a son of Zeus, King of the Gods, and Semele, a mortal princess of Thebes. The god was known as the "twice-born" for his mother was slain by the lightning-bolts of Zeus during the course of her pregancy, but rescued by his father who carried him to term sown up inside his thigh.
+     <br/>
+     Dionysos' grandparents were the Titans Kronos (Cronus) and Rheia, King Kadmos (Cadmus) of Thebes and the goddess Harmonia. He was a great-grandson of Ares and Aphrodite (Harmonia's parents) and also a distant descendant of the god Poseidon.
+     <br/>
+     The god's half-brothers and sisters included Hermes, Ares, Aphrodite, Athena, Persephone, Apollon and Artemis.
+     <br/>
+     He married Ariadne, daughter of King Minos of Krete (Crete), and their sons became kings and princes of the best wine-producing regions in ancient Greece. &lt;&lt;
+     <a href="DionysosFamily.html">
+      More
+     </a>
+     &gt;&gt;
+    </p>
+    <p>
+     Below are two graphics depicting Dionysos' family tree, the first with names transliterated from the Greek and the second with the common English spellings:--
+    </p>
+    <img alt="Family Tree of Dionysos" class="img-responsive" src="../image/family-tree-dionysos-1.jpg"/>
+    <img alt="Family Tree of Dionysus" class="img-responsive" src="../image/family-tree-dionysos-2.jpg"/>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/S12.1.html">
+      <img alt="Dionysus-Bacchus | Greco-Roman marble statue C2nd A.D. | State Hermitage Museum, Saint Petersburg" class="img-responsive center-block" src="../image/S12.1Dionysos.jpg"/>
+     </a>
+     <figcaption>
+      Dionysus-Bacchus, Greco-Roman marble statue C2nd A.D.,
+      <a href="http://www.hermitagemuseum.org/" target="_blank">
+       State Hermitage Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     DIONYSOS, the youthful, beautiful, but effeminate god of wine. He is also called both by Greeks and Romans Bacchus (Bakchos), that is, the noisy or riotous god, which was originally a mere epithet or surname of Dionysus, but does not occur till after the time of Herodotus.
+    </p>
+    <p>
+     According to the common tradition, Dionysus was the son of Zeus and Semele, the daughter of Cadmus of Thebes (Hom.
+     <em>
+      Hymn.
+     </em>
+     vi. 56; Eurip.
+     <em>
+      Bacch.
+     </em>
+     init.; Apollod. iii. 4. § 3); whereas others describe him as a son of Zeus by Demeter, Io, Dione, or Arge. (Diod. iii. 62, 74; Schol.
+     <em>
+      ad Pind. Pyth.
+     </em>
+     iii. 177; Plut.
+     <em>
+      de Flum.
+     </em>
+     16.) Diodorus (iii. 67) further mentions a tradition, according to which he was a son of Ammon and Amaltheia, and that Ammon, from fear of Rhea, carried the child to a cave in the neighbourhood of mount Nysa, in a lonely island formed by the river Triton. Ammon there entrusted the child to Nysa, the daughter of Aristaeus, and Athena likewise undertook to protect the boy. Others again represent him as a son of Zeus by Persephone or Iris, or describe him simply as a son of Lethe, or of Indus. (Diod. iv. 4; Plut.
+     <em>
+      Sympos.
+     </em>
+     vii. 5; Philostr.
+     <em>
+      Vit. Apollon.
+     </em>
+     ii. 9.)
+    </p>
+    <p>
+     The same diversity of opinions prevails in regard to the native place of the god, which in the common tradition is Thebes, while in others we find India, Libya, Crete, Dracanum in Samos, Naxos, Elis, Eleutherae, or Teos, mentioned as his birthplace. (Hom.
+     <em>
+      Hymn.
+     </em>
+     xxv. 8; Diod. iii. 65, v. 75; Nonnus,
+     <em>
+      Dionys.
+     </em>
+     ix. 6; Theocrit. xxvi. 33.) It is owing to this diversity in the traditions that ancient writers were driven to the supposition that there were originally several divinities which were afterwards identified under the one name of Dionysus. Cicero (
+     <em>
+      de Nat. Deor. iii
+     </em>
+     23) distinguishes five Dionysi, and Diodorus (iii. 63, &amp;c.) three.
+    </p>
+    <p>
+     The common story, which makes Dionysus a son of Semele by Zeus, runs as follows: Hera, jealous of Semele, visited her in the disguise of a friend, or an old woman, and persuaded her to request Zeus to appear to her in the same glory and majesty in which he was accustomed to approach his own wife Hera. When all entreaties to desist from this request were fruitless, Zeus at length complied, and appeared to her in thunder and lightning. Semele was terrified and overpowered by the sight, and being seized by the fire, she gave premature birth to a child. Zeus, or according to others, Hermes (Apollon. Rhod. iv. 1137) saved the child from the flames: it was sewed up in the thigh of Zeus, and thus came to maturity. Various epithets which are given to the god refer to that occurrence, such as purigenês, mêrorraphês, mêrotraphês and
+     <em>
+      ianigena.
+     </em>
+     (Strab. xiii. p. 628; Diod. iv. 5; Eurip.
+     <em>
+      Bacch.
+     </em>
+     295; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 310; Ov.
+     <em>
+      Met.
+     </em>
+     iv. 11.)
+    </p>
+    <p>
+     After the birth of Dionysus, Zeus entrusted him to Hermes, or, according to others, to Persephone or Rhea (Orph.
+     <em>
+      Hymn.
+     </em>
+     xlv. 6; Steph. Byz. s. v. Mastaura), who took the child to Ino and Athamas at Orchomenos, and persuaded them to bring him up as a girl. Hera was now urged on by her jealousy to throw Ino and Athamas into a state of madness, and Zeus, in order to save his child, changed him into a ram, and carried him to the nymphs of mount Nysa, who brought him up in a cave, and were afterwards rewarded for it by Zeus, by being placed as Hyades among the stars. (Hygin.
+     <em>
+      Fab.
+     </em>
+     182; Theon,
+     <em>
+      ad Arat. Phaen.
+     </em>
+     177; comp. Hyades.)
+    </p>
+    <p>
+     The inhabitants of Brasiae, in Laconia, according to Pausanias (iii. 24. § 3), told a different story about the birth of Dionysus, When Cadmus heard, they said, that Semele was mother of a son by Zeus, he put her and her child into a chest, and threw it into the sea. The chest was carried by the wind and waves to the coast of Brasiae. Semele was found dead, and was solemnly buried, but Dionysus was brought up by Ino, who happened at the time to be at Brasiae. The plain of Brasiae was, for this reason, afterwards called the garden of Dionysus.
+    </p>
+    <p>
+     The traditions about the education of Dionysus, as well as about the personages who undertook it, differ as much as those about his parentage and birthplace. Besides the nymphs of mount Nysa in Thrace, the muses, Lydae, Bassarae, Macetae, Mimallones (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     pp. 982, 1816), the nymph Nysa (Diod. iii. 69), and the nymphs Philia, Coronis, and Cleis, in Naxos, whither the child Dionysus was said to have been carried by Zeus (Diod. iv. 52), are named as the beings to whom the care of his infancy was entrusted. Mystis, moreover, is said to have instructed him in the mysteries (Nonn.
+     <em>
+      Dionys.
+     </em>
+     xiii. 140), and Hippa, on mount Tmolus, nursed him (Orph.
+     <em>
+      Hymn.
+     </em>
+     xlvii. 4); Macris, the daughter of Aristaeus, received him from the hands of Hermes, and fed him with honey. (Apollon. Rhod. iv. 1131.) On mount Nysa, Bromie and Bacche too are called his nurses. (Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vi. 15.)
+    </p>
+    <p>
+     Mount Nysa, from which the god was believed to have derived his name, was not only in Thrace and Libya, but mountains of the same name are found in different parts of the ancient world where he was worshipped, and where he was believed to have introduced the cultivation of the vine. Hermes, however, is mixed up with most of the stories about the infancy of Dionysus, and he was often represented in works of art, in connexion with the infant god. (Comp. Paus. iii. 18. § 7.)
+    </p>
+    <p>
+     When Dionysus had grown up, Hera threw him also into a state of madness, in which he wandered about through many countries of the earth. A tradition in Hyginus (
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 23) makes him go first to the oracle of Dodona, but on his way thither he came to a lake, which prevented his proceeding any further. One of two asses he met there carried him across the water, and the grateful god placed both animals among the stars, and asses henceforth remained sacred to Dionysus.
+    </p>
+    <p>
+     According to the common tradition, Dionysus first wandered through Egypt, where he was hospitably received by king Proteus. He thence proceeded through Syria, where he flayed Damascus alive, for opposing the introduction of the vine, which Dionysus was believed to have discovered (euretês ampelou). He now traversed all Asia. (Strab. xv. p. 687; Eurip.
+     <em>
+      Bacch.
+     </em>
+     13.) When he arrived at the Euphrates, he built a bridge to cross the river, but a tiger sent to him by Zeus carried him across the river Tigris. (Paus. x. 29; Plut.
+     <em>
+      de Flum.
+     </em>
+     24.)
+    </p>
+    <p>
+     The most famous part of his wanderings in Asia is his expedition to India, which is said to have lasted three, or, according to some, even 52 years. (Diod. iii. 63, iv. 3.) He did not in those distant regions meet with a kindly reception everywhere, for Myrrhanus and Deriades, with his three chiefs Blemys, Orontes, and Oruandes, fought against him. (Steph. Byz.
+     <em>
+      s.v.
+     </em>
+     Blemues, Gazos, Gêreia, Dardai, Eares, Zabioi, Malloi, Pandai, Sibai.) But Dionysus and the host of Pans, Satyrs, and Bacchic women, by whom he was accompanied, conquered his enemies, taught the Indians the cultivation of the vine and of various fruits, and the worship of the gods; he also founded towns among them, gave them laws, and left behind him pillars and monuments in the happy land which he had thus conquered and civilized, and the inhabitants worshipped him as a god. (Comp. Strab. xi. p. 505; Arrian,
+     <em>
+      Ind.
+     </em>
+     5; Diod. ii. 38; Philostr.
+     <em>
+      Vit. Apollon.
+     </em>
+     ii. 9; Virg.
+     <em>
+      Aen.
+     </em>
+     vi. 805.)
+    </p>
+    <p>
+     Dionysus also visited Phrygia and the goddess Cybele or Rhea, who purified him and taught him the mysteries, which according to Apollodorus (iii. 5. § 1.) took place before he went to India. With the assistance of his companions, he drove the Amazons from Ephesus to Samos, and there killed a great number of them on a spot which was, from that occurrence, called Panaema. (Plut.
+     <em>
+      Quaest. Gr.
+     </em>
+     56.) According to another legend, he united with the Amazons to fight against Cronus and the Titans, who had expelled Ammon from his dominions. (Diod. iii. 70, &amp;c.) He is even said to have gone to Iberia, which, on leaving, he entrusted to the government of Pan. (Plut.
+     <em>
+      de Flum.
+     </em>
+     16.)
+    </p>
+    <p>
+     On his passage through Thrace he was ill received by Lycurgus, king of the Edones, and leaped into the sea to seek refuge with Thetis, whom he afterwards rewarded for her kind reception with a golden urn, a present of Hephaestus. (Hom.
+     <em>
+      Il.
+     </em>
+     vi. 135, &amp;c.,
+     <em>
+      Od.
+     </em>
+     xxiv. 74; Schol.
+     <em>
+      ad Hom. Il.
+     </em>
+     xiii. 91. Comp. Diod. iii. 65.) All the host of Bacchantic women and Satyrs, who had accompanied him, were taken prisoners by Lycurgus, but the women were soon set free again. The country of the Edones thereupon ceased to bear fruit, and Lycurgus became mad and killed his own son, whom he mistook for a vine, or, according to others (Serv.
+     <em>
+      ad Aen.
+     </em>
+     iii. 14) he cut off his own legs in the belief that he was cutting down some vines. When this was done, his madness ceased, but the country still remained barren, and Dionysus declared that it would remain so till Lycurgus died. The Edones, in despair, took their king and put him in chains, and Dionysus had him torn to pieces by horses.
+    </p>
+    <p>
+     After then proceeding through Thrace without meeting with any further resistance, he returned to Thebes, where he compelled the women to quit their houses, and to celebrate Bacchic festivals on mount Cithaeron, or Parnassus. Pentheus, who then ruled at Thebes, endeavoured to check the riotous proceedings, and went out to the mountains to seek the Bacchic women; but his own mother, Agave, in her Bacchic fury, mistook him for an animal, and tore him to pieces. (Theocrit.
+     <em>
+      Id.
+     </em>
+     xxvi.; Eurip.
+     <em>
+      Bacch.
+     </em>
+     1142; Ov.
+     <em>
+      Met.
+     </em>
+     iii. 714, &amp;c.)
+    </p>
+    <p>
+     After Dionysus had thus proved to the Thebans that he was a god, he went to Argos. As the people there also refused to acknowledge him, he made the women mad to such a degree, that they killed their own babes and devoured their flesh. (Apollod. iii. 5. § 2.) According to another statement, Dionysus with a host of women came from the islands of the Aegean to Argos, but was conquered by Perseus, who slew many of the women. (Paus. ii. 20. § 3, 22. § 1.) Afterwards, however, Dionysus and Perseus became reconciled, and the Argives adopted the worship of the god, and built temples to him. One of these was called the temple of Dionysus Cresius, because the god was believed to have buried on that spot Ariadne, his beloved, who was a Cretan. (Paus. ii. 23. § 7.)
+    </p>
+    <p>
+     The last feat of Dionysus was performed on a voyage from Icaria to Naxos. He hired a ship which belonged to Tyrrhenian pirates; but the men, instead of landing at Naxos, passed by and steered towards Asia to sell him there. The god, however, on perceiving this, changed the mast and oars into serpents, and himself into a lion; he filled the vessel with ivy and the sound of flutes, so that the sailors, who were seized with madness, leaped into the sea, where they were metamorphosed into dolphins. (Apollod. iii. 5. § 3; Hom.
+     <em>
+      Hymn.
+     </em>
+     vi. 44; Ov.
+     <em>
+      Met.
+     </em>
+     iii. 582, &amp;c.) In all his wanderings and travels the god had rewarded those who had received him kindly and adopted his worship : he gave them vines and wine.
+    </p>
+    <p>
+     After he had thus gradually established his divine nature throughout the world, he led his mother out of Hades, called her Thyone, and rose with her into Olympus. (Apollod.
+     <em>
+      l. c.
+     </em>
+     ) The place, where he had come forth with Semele from Hades, was shown by the Troezenians in the temple of Artemis Soteira (Paus. ii. 31. § 2); the Argives, on the other hand, said, that he had emerged with his mother from the Alcyonian lake. (Paus. ii. 37. § 5; Clem. Alex.
+     <em>
+      Adm. ad Gr.
+     </em>
+     p. 22.) There is also a mystical story, that the body of Dionysus was cut up and thrown into a cauldron by the Titans, and that he was restored and cured by Rhea or Demeter. (Paus. viii. 37. § 3; Diod. iii. 62; Phurnut.
+     <em>
+      N. D.
+     </em>
+     28.)
+    </p>
+    <p>
+     Various mythological beings are described as the offspring of Dionysus; but among the women, both mortal and immortal, who won his love, none is more famous in ancient history than Ariadne. The extraordinary mixture of traditions which we have here had occasion to notice, and which might still be considerably increased, seems evidently to be made up out of the traditions of different times and countries, referring to analogous divinities, and transferred to the Greek Dionysus.
+    </p>
+    <p>
+     We may, however, remark at once, that all traditions which have reference to a mystic worship of Dionysus, are of a comparatively late origin, that is, they belong to the period subsequent to that in which the Homeric poems were composed; for in those poems Dionysus does not appear as one of the great divinities, and the story of his birth by Zeus and the Bacchic orgies are not alluded to in any way : Dionysus is there simply described as the god who teaches man the preparation of wine, whence he is called the "drunken god " (mainomenos), and the sober king Lycurgus will not, for this reason, tolerate him in his kingdom. (Hom.
+     <em>
+      Il.
+     </em>
+     vi. 132, &amp;c.,
+     <em>
+      Od.
+     </em>
+     xviii. 406, comp. xi. 325.) As the cultivation of the vine spread in Greece, the worship of Dionysus likewise spread further; the mystic worship was developed by the Orphici, though it probably originated in the transfer of Phrygian and Lydian modes of worship to that of Dionysus. After the time of Alexander's expedition to India, the celebration of the Bacchic festivals assumed more and more their wild and dissolute character.
+    </p>
+    <p>
+     As far as the nature and origin of the god Dionysus is concerned, he appears in all traditions as the representative of some power of nature, whereas Apollo is mainly an ethical deity. Dionysus is the productive, overflowing and intoxicating power of nature, which carries man away from his usual quiet and sober mode of living. Wine is the most natural and appropriate symbol of that power, and it is therefore called "the fruit of Dionysus." (Dionusou karpos; Pind.
+     <em>
+      Fragm.
+     </em>
+     89, ed. Böckh.) Dionysus is, therefore, the god of wine, the inventor and teacher of its cultivation, the giver of joy, and the disperser of grief and sorrow. (Bacchyl.
+     <em>
+      ap. Athen.
+     </em>
+     ii. p. 40; Pind.
+     <em>
+      Fragm.
+     </em>
+     5; Eurip.
+     <em>
+      Bacch.
+     </em>
+     772.)
+    </p>
+    <p>
+     As the god of wine, he is also both an inspired and an inspiring god, that is, a god who has the power of revealing the future to man by oracles. Thus, it is said, that he had as great a share in the Delphic oracle as Apollo (Eurip.
+     <em>
+      Bacch.
+     </em>
+     300), and he himself had an oracle in Thrace. (Paus. ix. 30. § 5.) Now, as prophetic power is always combined with the healing art, Dionysus is, like Apollo, called iatpos, or hugiatês (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1624), and at his oracle of Amphicleia, in Phocis, he cured diseases by revealing the remedies to the sufferers in their dreams. (Paus. x. 33. § 5.) Hence he is invoked as a theos sôtêr against raging diseases. (Soph.
+     <em>
+      Oed. Tyr.
+     </em>
+     210; Lycoph. 206.)
+    </p>
+    <p>
+     The notion of his being the cultivator and protector of the vine was easily extended to that of his being the protector of trees in general, which is alluded to in various epithets and surnames given him by the poets of antiquity (Paus. i. 31. § 2, vii. 21. § 2), and he thus comes into close connexion with Demeter. (Paus. vii. 20. § 1; Pind.
+     <em>
+      Isthm.
+     </em>
+     vii. 3; Theocrit. xx. 33; Diod. iii. 64; Ov.
+     <em>
+      Fast.
+     </em>
+     iii. 736; Plut.
+     <em>
+      Quaest. Gr.
+     </em>
+     36.)
+    </p>
+    <p>
+     This character is still further developed in the notion of his being the promoter of civilization, a law-giver, and a lover of peace. (Eurip.
+     <em>
+      Bacch.
+     </em>
+     420; Strab. x. p. 468; Diod. iv. 4.) As the Greek drama had grown out of the dithyrambic choruses at the festivals of Dionysus, he was also regarded as the god of tragic art, and as the protector of theatres. In later times, he was worshipped also as a theos chthonios, which may have arisen from his resemblance to Demeter, or have been the result of an amalgamation of Phrygian and Lydian forms of worship with those of the ancient Greeks. (Paus. viii. 37, § 3; Arnob.
+     <em>
+      adv. Gent.
+     </em>
+     v. 19.)
+    </p>
+    <p>
+     The orgiastic worship of Dionysus seems to have been first established in Thrace, and to have thence spread southward to mounts Helicon and Parnassus, to Thebes, Naxos, and throughout Greece, Sicily, and Italy, though some writers derived it from Egypt. (Paus. i. 2. § 4; Diod. i. 97.) Respecting his festivals and the mode of their celebration, and especially the introduction and suppression of his worship at Rome, see
+     <em>
+      Dict. of Ant. s. vv.
+     </em>
+     Agriônia, Anthestêria, Halôa, Aiôra, and
+     <em>
+      Dionysia.
+     </em>
+    </p>
+    <p>
+     In the earliest times the Graces, or Charites, were the companions of Dionysus (Pind.
+     <em>
+      Ol.
+     </em>
+     xiii. 20; Plut.
+     <em>
+      Quaest. Gr.
+     </em>
+     36; Apollon. Rhod. iv. 424), and at Olympia he and the Charites had an altar in common. (Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     v. 10 ; Paus. v. 14 in fin.) This circumstance is of great interest, and points out the great change which took place in the course of time in the mode of his worship, for afterwards we find him accompanied in his expeditions and travels by Bacchantic women. called Lenae, Maenades, Thyiades, Mimallones, Clodones, Bassarae or Bassarides, all of whom are represented in works of art as raging with madness or enthusiasm, in vehement motions, their heads thrown backwards, with dishevelled hair, and carrying in their hands thyrsus-staffs (entwined with ivy, and headed with pine-cones), cymbals, swords, or serpents. Sileni, Pans, satyrs, centaurs, and other beings of a like kind, are also the constant companions of the god. (Strab. x. p. 468; Diod. iv. 4. &amp;c.; Catull. 64. 258 ; Athen i. p. 33; Paus. i. 2. § 7.)
+    </p>
+    <p>
+     The temples and statues of Dionysus were very numerous in the ancient world. Among the sacrifices which were offered to him in the earliest times, human sacrifices are also mentioned. (Paus. vii. 21. § 1; Porphyr.
+     <em>
+      de Abstin.
+     </em>
+     ii. 55.) Subsequently, however, this barbarous custom was softened down into a symbolic scourging, or animals were substituted for men, as at Potniae. (Paus. viii. 23. § 1, ix. 8. § 1.)
+    </p>
+    <p>
+     The animal most commonly sacrificed to Dionysus was a ram. (Virg.
+     <em>
+      Georg.
+     </em>
+     ii. 380, 395; Ov.
+     <em>
+      Fast.
+     </em>
+     i. 357.) Among the things sacred to him, we may notice the vine, ivy, laurel, and asphodel; the dolphin, serpent, tiger, lynx, panther, and ass; but he hated the sight of an owl. (Paus. viii. 39. § 4; Theocrit. xxvi. 4; Plut.
+     <em>
+      Sympos.
+     </em>
+     iii. 5; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 87; Virg.
+     <em>
+      Eclog.
+     </em>
+     v. 30; Hygin.
+     <em>
+      Poët. Astr.
+     </em>
+     ii. 23; Philostr.
+     <em>
+      Imag.
+     </em>
+     ii. 17;
+     <em>
+      Vit. Apollon.
+     </em>
+     iii. 40.)
+    </p>
+    <p>
+     The earliest images of the god were mere Hermae with the phallus (Paus. ix. 12. § 3), or his head only was represented. (Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1964.) In later works of art he appears in four different forms:--
+     <br/>
+     1. As an infant handed over by Hermes to his nurses, or fondled and played with by satyrs and Bacchae.
+     <br/>
+     2. As a manly god with a beard, commonly called the Indian Bacchus. He there appears in the character of a wise and dignified oriental monarch; his features are expressive of sublime tranquillity and mildness; his beard is long and soft, and his Lydian robes (bassara) are long and richly folded. His hair sometimes floats down in locks, and is sometimes neatly wound around the head, and a diadem often adorns his forehead.
+     <br/>
+     3. The youthful or so-called Theban Bacchus, was carried to ideal beauty by Praxiteles. The form of his body is manly and with strong outlines, but still approaches to the female form by its softness and roundness. The expression of the countenance is languid, and shews a kind of dreamy longing; the head, with a diadem, or a wreath of vine or ivy, leans somewhat on one side; his attitude is never sublime, but easy, like that of a man who is absorbed in sweet thoughts, or slightly intoxicated. He is often seen leaning on his companions, or riding on a panther, ass, tiger, or lion. The finest statue of this kind is in the villa Ludovisi.
+     <br/>
+     4. Bacchus with horns, either those of a ram or of a bull. This representation occurs chiefly on coins, but never in statues.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Overview">
+     DIONYSUS MYTHS  SUMMARY I APOLLODORUS
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/K12.3.html">
+      <img alt="Satyr and Dionysus | Athenian red-figure kylix C5th B.C. | Antikensammlung Berlin" class="img-responsive center-block" src="../image/K12.3Dionysos.jpg"/>
+     </a>
+     <figcaption>
+      Satyr and Dionysus, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Several ancient poets and writers attempted to arrange the mythology of Dionysos into a tidy chronological narrative. However, these were  artificial constructs--the stories were, for the most part, a loose collection of  highly localised, unrelated cult myths.
+     <br/>
+     The mythographer Apollodorus provides us with the neatest of these narratives. Related myths not mentioned by this author are noted in the link boxes following each sub-section.
+    </p>
+    <h4>
+     I. THE BIRTH OF DIONYSUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 26 - 28 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Zeus fell in love with Semele and slept with her, promising her anything she wanted, and keeping it all from Hera. But Semele was deceived by Hera into asking Zeus to come to her as he came to Hera during their courtship. So Zeus, unable to refuse, arrived in her bridal chamber in a chariot with lightning flashes and thunder, and sent a thunderbolt at her. Semele died of fright, and Zeus grabbed from the fire her six-month aborted baby, which he sewed into his thigh. After Semele's death the remaining daughters of Kadmos (Cadmus) circulated the story that she had slept with a mortal, thereafter accusing Zeus, and because of this had been killed by a thunderbolt. At the proper time Zeus loosened the stitches and gave birth to Dionysos, whom he entrusted to Hermes."
+    </p>
+    <p class="see-also">
+     For MYTHS of the birth  of Dionysos see:
+     <br/>
+     (1)
+     <a href="../Georgikos/Zagreus.html">
+      Birth &amp; Death of Dionysus-ZAGREUS
+     </a>
+     (Orphic myth)
+     <br/>
+     (2)
+     <a href="DionysosMyths.html#Birth">
+      Birth &amp; Nursing of Dionysus
+     </a>
+    </p>
+    <h4>
+     II. NURSED BY INO &amp; THE NYSIADES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 29 - 30 :
+     </span>
+     <br/>
+     "Zeus loosened the stitches and gave birth to Dionysos, whom he entrusted to Hermes. Hermes took him to Ino and Athamas, and persuaded them to bring him up as a girl. Incensed, Hera inflicted madness on them. As for Zeus, he escaped Hera's anger by changing Dionysos into a baby goat. Hermes took him to the Nymphai of Asian Nysa, whom Zeus in later times places among the stars and named the Hyades."
+    </p>
+    <p class="see-also">
+     For MYTHS of the birth and nursing of Dionysos see:
+     <br/>
+     (1)
+     <a href="DionysosMyths.html#Birth">
+      Birth &amp; Nursing of Dionysus
+     </a>
+     <br/>
+     (2)
+     <a href="DionysosMyths.html#Nysa">
+      Mt Nysa Birthplace of Dionysus
+     </a>
+     <br/>
+     (3)
+     <a href="DionysosWrath.html#Lykourgos">
+      Dionysos Wrath: Lycurgus
+     </a>
+     (
+     <em>
+      Iliad
+     </em>
+     version)
+    </p>
+    <h4>
+     III. DISCOVERS THE GRAPE VINE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 31 :
+     </span>
+     <br/>
+     "Dionysos was the discoverer of the grapevine."
+    </p>
+    <p>
+     In later antiquity the story was developed into a love match between Dionysos and the youth Ampelos "grape-vine."
+    </p>
+    <p class="see-also">
+     For the MYTH of Dionysos discovery of the vine see:
+     <br/>
+     (1)
+     <a href="DionysosLoves.html#Ampelos">
+      Dionysus Loves: Ampelus
+     </a>
+     (boy transformed into the first grape-vine)
+     <br/>
+     (2)
+     <a href="DionysosMyths2.html#Discovery">
+      Dionysus &amp; the Discovery of Wine
+     </a>
+    </p>
+    <h4>
+     V.  DRIVEN MAD BY HERA, WANDERS EGYPT &amp; SYRIA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 32 :
+     </span>
+     <br/>
+     "After Hera inflicted madness upon him, he wandered over Aigyptos (Egypt) and Syria. The Aigyptian king Proteus first welcomed him."
+    </p>
+    <p>
+     This story was probably invented to explain his connection between Dionysos, the Egyptian Osiris and the Phoenician god of wine.
+    </p>
+    <p class="see-also">
+     For MYTHS of Dionysos in Egypt and Syria see:
+     <br/>
+     (1)
+     <a href="DionysosMyths3.html#Egypt">
+      Wanderings of Dionysus in Egypt and Syria
+     </a>
+     <br/>
+     (2)
+     <a href="DionysosLoves.html#Beroe">
+      Dionysus Loves: Beroe
+     </a>
+     (Wooing the goddess of Beruit)
+     <br/>
+     (3)
+     <a href="DionysosMyths3.html#East">
+      Dionysus in the East (Summary)
+     </a>
+    </p>
+    <h4>
+     V. TAUGHT THE ORGIES BY  RHEA-CYBELE IN PHRYGIA
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 33 :
+     </span>
+     <br/>
+     "After that he went to Kybela [Cybele, Rhea] in Phrygia. There he was purified by Rhea and taught the mystic rites of initiation, after which he received from her his gear and set out eagerly through Thrake (Thrace)."
+    </p>
+    <p>
+     This story was no doubt invented to explain his connection between the orgiastic cult of Dionysos in Greece and those of the Phrygian gods Kybele and Sabazios in Anatolia.
+    </p>
+    <p class="see-also">
+     For THE MYTH of Rhea-Kybele mentoring Dionysos in the orgiastic rites see:
+     <br/>
+     (1)
+     <a href="DionysosMyths3.html#Kybele">
+      Mentoring of Dionysus by Rhea-Cybele
+     </a>
+     <br/>
+     (2)
+     <a href="DionysosMyths3.html#East">
+      Dionysus in the East (Summary)
+     </a>
+    </p>
+    <h4>
+     VI. TRAVELS ASIA &amp; INDIA TEACHING VITICULTURE AND WINEMAKING
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 34 :
+     </span>
+     <br/>
+     "Having traversed Thrake (Thrace) and the whole of India and set up pillars there."
+    </p>
+    <p>
+     These story were later expanded to include war-campaigns against the Indian and Amazon nations. The story of Dionysos and King Midas of Phrygia also falls within this part of the cycle.
+    </p>
+    <p class="see-also">
+     For MYTHS of Dionysos in Anatolia and India see:
+     <br/>
+     (1)
+     <a href="DionysosFavour.html#Midas">
+      Dionysus Favour: Midas
+     </a>
+     (king with the golden touch)
+     <br/>
+     (2)
+     <a href="DionysosMyths3.html#Pillars">
+      Dionysus &amp; the Pillars of India
+     </a>
+     <br/>
+     (3)
+     <a href="DionysosMyths3.html#India">
+      The Indian War of Dionysus
+     </a>
+     <br/>
+     (4)
+     <a href="DionysosMyths3.html#Amazones">
+      The Amazon War of Dionysus
+     </a>
+    </p>
+    <h4>
+     VII. TRAVELS THROUGH THRACE &amp; DRIVEN INTO THE SEA BY LYCURGUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 34 :
+     </span>
+     <br/>
+     "Now Lykourgos (Lycurgus), son of Dryas and king of the Edonians, who lived beside the Strymon River, was the first to show his hybris to Dionysos by expelling him Dionysos fled to the sea and took shelter with Nereus' daughter Thetis, but his Bakkhai (Bacchae) were taken captive along with the congregation of Satyroi (Satyrs) that accompanied him . . . the Edonians took Lykourgos to Mount Pangaion (Pangaeum) and bound him, and there in accordance with the will of Dionysos, he was destroyed by his horses and died."
+    </p>
+    <p>
+     This story was connected with the orgiastic Thrakian cult of Sabazios. In Homer, the story is set during Dionysos' childhood, elsewhere he is an adult god travelling from land to land.
+    </p>
+    <p class="see-also">
+     For the MYTH of Dionysos &amp; Lykourgos:
+     <br/>
+     (1)
+     <a href="DionysosWrath.html#Lykourgos">
+      Dionysus Wrath: Lycurgus
+     </a>
+     <br/>
+     (2)
+     <a href="DionysosMyths2.html#Thetis">
+      Refuge of Dionysus with Thetis
+     </a>
+     <br/>
+     (3) The Bacchanalia of Thrake
+     <br/>
+     (4)
+     <a href="DionysosGod.html#Foreign">
+      Dionysus identified with Foreign Gods
+     </a>
+     (Sabazios)
+    </p>
+    <h4>
+     VIII. TRAVELS TO THEBES &amp; PUNISHES THE IMPIOUS PENTHEUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 35 :
+     </span>
+     <br/>
+     "Dionysos crossed Thrake (Thrace) and came to Thebes, where he compelled the women to leave their homes and cavort in a frenzy on Kithairon (Cithaeron). Now Pentheus, Ekhion's (Echion's) son by Aguae (Agave) and current lord of the land after Kadmos (Cadmus), tried to prevent these goings-on. He went up on Kithairon to spy on the Bakkhai, but was torn to pieces by his mother Agaue, for in her madness she thought he was a wild animal."
+    </p>
+    <p>
+     This story was connected with the establishment of the god's orgies on Mount Kithairon in Boiotia.
+    </p>
+    <p class="see-also">
+     For the MYTH of Dionysos &amp; Pentheus see:
+     <br/>
+     (1)
+     <a href="DionysosMyths2.html#Kithairon">
+      Dionysos &amp; the Recapture of Mt Cithaeron
+     </a>
+     <br/>
+     (2) Bacchanalia of Mt Cithairon
+     <br/>
+     (3)
+     <a href="DionysosWrath2.html#Pentheus">
+      Dionysus Wrath: Pentheus
+     </a>
+     <br/>
+     (4)
+     <a href="DionysosWrath2.html#Kadmeides">
+      Dionysus Wrath: Daughters of Cadmus
+     </a>
+     <br/>
+     (5)
+     <a href="DionysosFavour.html#Bakkhantes">
+      Dionysus Favour: Boeotian Bacchantes
+     </a>
+     (transformed into leopards)
+    </p>
+    <h4>
+     IX. TRAVELS TO ATHENS &amp; TEACHES ICARIUS WINEMAKING
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 191 :
+     </span>
+     <br/>
+     "Dionysos came to Attika (Attica) . . . Ikarios (Icarius) received Dionysos, who gave him a vine-cutting and taught him the art of making wine. Ikarios was eager to share the god's kindness with mankind, so he went to some shepherds, who, when they had tasted the drink and then delightedly and recklessly gulped it down undiluted, thought they had been poisoned and slew Ikarios. But in the daylight they regained their senses and buried him. As his daughter was looking for him, a dog named Maira (Maera), who had been Ikarios' faithful companion, unearthed the corpse; and Erigone, in the act of mourning her father, hanged herself."
+    </p>
+    <p class="see-also">
+     For MYTHS of Dionysos, Ikarios and Erigone see:
+     <br/>
+     (1)
+     <a href="DionysosFavour.html#Ikarios">
+      Dionysus Favour: Icarius &amp; Erigone
+     </a>
+     <br/>
+     (2)
+     <a href="DionysosLoves.html#Erigone">
+      Dionysus Loves: Erigone
+     </a>
+    </p>
+    <h4>
+     X. TRAVELS THE AEGEAN &amp; PUNISHES THE TYRRHENIAN PIRATES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 36 :
+     </span>
+     <br/>
+     "When he [Dionysos] wanted passage across from Ikaria (Icaria) to Naxos he hired a trireme of Tyrrhenian pirates. But when they had him on board, they sailed past Naxos and headed for Asia where they planned to sell him. He thereupon changed the mast and the oars into snakes, and filled the boat with ivy and the sound of flutes. The men went mad and dove into the sea, where they became dolphins."
+    </p>
+    <p>
+     Apollodorus places the story of Dionysos' Aegean wanderings after Argos (section 12). However, in the usual tradition, Dionysos arrives in Argos from the islands with Ariadne and an army of island women.
+    </p>
+    <p class="see-also">
+     For the MYTH of Dionysos &amp; the pirates see:
+     <br/>
+     (1)
+     <a href="DionysosWrath.html#Tyrrhenian">
+      Dionysus Wrath: Tyrrhenian Pirates
+     </a>
+    </p>
+    <h4>
+     XI. ARRIVES ON NAXOS &amp; MARRIES ARIADNE
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E1. 9 :
+     </span>
+     <br/>
+     "Dionysos fell in love with Ariadne, and kidnapped her [from Naxos], taking her off to Lemnos where he had sex with her, and begat Thoas, Staphylos, Oinopion (Oenopion), and Peparethos [who became kings of the various islands of the Aegean]."
+    </p>
+    <p>
+     Apollodorus describes the wedding of Dionysos and Ariadne in the Theseus section of his book. The story, however, belongs here in the chronology of the Dionysos saga. It seems unlikely she was originally connected with Theseus, since her story and children otherwise belong to an earlier generation of myth.
+    </p>
+    <p class="see-also">
+     For MYTHS of Dionysos on Naxos see:
+     <br/>
+     (1)
+     <a href="../Georgikos/Ariadne.html">
+      Dionysus Loves: Ariadne
+     </a>
+     <br/>
+     (2)
+     <a href="DionysosFavour.html#Hyades">
+      Dionysus Favour: the Hyades
+     </a>
+    </p>
+    <h4>
+     XII. TRAVELS TO ARGOS &amp; PUNISHES THE IMPIOUS ARGIVES
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 28. 37 :
+     </span>
+     <br/>
+     "After Dionysos had demonstrated to the Thebans that he was a god, he went to Argos where again he drove the women mad when the people did not pay him honour, and up in the mountains the women fed on the flesh of the babies suckling at their breasts."
+    </p>
+    <p>
+     In other versions of this story, the Argives were punished for the impiety of their king--Proitos, Akrisios or Perseus. In the local Argive legend Perseus warred with Dionysos and his troop of island women and Ariadne was killed in the fighting.
+    </p>
+    <p class="see-also">
+     For MYTHS of Dionysos in Argos see:
+     <br/>
+     (1)
+     <a href="DionysosWrath.html#Proitides">
+      Dionysus Wrath: Proetius &amp; the Proetides
+     </a>
+     <br/>
+     (2)
+     <a href="DionysosMyths2.html#Perseus">
+      War of Dionysus against Perseus &amp; the Argives
+     </a>
+    </p>
+    <h4>
+     XIII. RECOGNISED AS A GOD
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 37 :
+     </span>
+     <br/>
+     "With events like these, men learned that Dionysos was a god, and they began to honour him."
+    </p>
+    <p>
+     The recognition of the divinity of Dionysos is applicable to all the previous stories of his wanderings.
+    </p>
+    <h4>
+     IV. RECOVERS HIS MOTHER FROM HADES &amp; ENTERS OLYMPUS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 37 :
+     </span>
+     <br/>
+     "He [Dionysos] retrieved his mother from Haides' realm, gave her the name Thyone, and escorted her up to the sky."
+    </p>
+    <p>
+     This myth had a place in Argive cult, where Dionysos is said to have descended to Haides through the Alkyonean Lake. His quest to the underworld perhaps also included the recovery of his wife Ariadne, who had been slain by Perseus in the Argive war, in addition to recovering his mother Semele. Death and reincarnation was an important part of the Dionysian cult.
+     <br/>
+     The story of the binding of Hera, in which Dionysos led Hephaistos back to Olympos to release the goddess and was offered a seat amongst the twelve Olympians, is curiously absent from Apollodorus. The myth was extremely popular in Athenian vase painting.
+    </p>
+    <p class="see-also">
+     For MYTHS of Dionysos' journey to the Underwold and his apotheosis:
+     <br/>
+     (1)
+     <a href="DionysosMyths2.html#Divinity">
+      Divinity-Apotheosis of Dionysus
+     </a>
+     (receives full honours as a god on earth)
+     <br/>
+     (2)
+     <a href="DionysosMyths2.html#Underworld">
+      Journey of Dionysus to the Underworld
+     </a>
+     (restores Semele from Hades)
+     <br/>
+     (3)
+     <a href="DionysosMyths2.html#Olympos">
+      Ascension of Dionysus &amp; Hephaestus to Olympus
+     </a>
+    </p>
+    <h4>
+     OTHER MISCELLANEOUS ADVENTURES
+    </h4>
+    <p>
+     Several other stories are absent from Apollodorus' account.
+    </p>
+    <p class="see-also">
+     For other MYTHS of Dionysos' wanderings see:
+     <br/>
+     (1)
+     <a href="DionysosFavour.html#Oineus">
+      Dionysus Favour: Oeneus
+     </a>
+    </p>
+    <hr/>
+    <h3>
+     DIONYSUS MYTHS SUMMARY II AESCHYLUS
+    </h3>
+    <p>
+     The Theban legends of Dionysos were the subject of no less than five of the lost plays of Aeschylus:
+     <em>
+      Semelê ê Hudrophoroi, Dionusos trophoi
+     </em>
+     (or
+     <em>
+      Trophoi
+     </em>
+     ),
+     <em>
+      Bakchai, Xantriai, Pentheus
+     </em>
+     . In addition, at least four others described the god's Thracian encounters:
+     <em>
+      Edonoi
+     </em>
+     ,
+     <em>
+      Lykourgos
+     </em>
+     ,
+     <em>
+      Neaniskoi
+     </em>
+     and the
+     <em>
+      Bassarae
+     </em>
+     .
+    </p>
+    <hr/>
+    <h3>
+     DIONYSUS MYTHS SUMMARY III SENECA
+    </h3>
+    <p class="see-also">
+     Seneca's Hymn to Dionysos in the play
+     <em>
+      Oedipus
+     </em>
+     summarizes the god's story from birth to heavenly ascension. See
+     <a href="#Seneca">
+      Seneca Pseudo-Hymn to Dionysus
+     </a>
+    </p>
+    <hr/>
+    <h3>
+     DIONYSUS MYTHS SUMMARY IV NONNUS
+    </h3>
+    <p>
+     The late Roman-era Greek poet Nonnus wrote an epic poem describing the birth and adventures of Dionysos, centred on his War against the Indians. His account of the wanderings of Dionysos varies from that of Apollodorus, with its focus on stories of the East.   I will provide an overview of this contents of this epic at a later stage (which due to its size is not possible to quote here in depth). The first fourteen books of the epic can be found
+     <a href="../Text/NonnusDionysiaca1.html">
+      here
+     </a>
+     .
+    </p>
+    <hr/>
+    <h3 id="Hymns">
+     HYMNS TO DIONYSUS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/K12.2.html">
+      <img alt="Silenus, Dionysus riding panther and Bacchante | Paestan red-figure vase C4th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/K12.2BDionysos.jpg"/>
+     </a>
+     <figcaption>
+      Silenus, Dionysus and Bacchante, Paestan red-figure vase C4th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <h4>
+     I. THE HOMERIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 1 to Dionysus 17 ff (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "[The hymn begins with the story of the nursing of the god on Mount Nysa.] . . . Be favourable, O Insewn (
+     <em>
+      eiraphiot),
+     </em>
+     Inspirer of frenzied women (
+     <em>
+      gynaimanes
+     </em>
+     )! we singers sing of you as we begin and as we end a strain, and none forgetting you may call holy song to mind. And so, farewell, Dionysos Insewn (
+     <em>
+      eiraphiota
+     </em>
+     ) with your mother Semele whom men call Thyone."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 7 to Dionysus :
+     </span>
+     <br/>
+     "I sing of Dionysos, the son of glorious Semele. [The story of his birth follows.] . . . Hail, child of fair-faced Semele! He who forgets you can in no wise order sweet song."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 26 to Dionysus :
+     </span>
+     <br/>
+     "I begin to sing of Dionysos ivy-crowned (
+     <em>
+      kissokomes
+     </em>
+     ) the loud-crying (
+     <em>
+      eribromos
+     </em>
+     ), splendid son of Zeus and glorious Semele. The rich-haired Nymphai (Nymphs) received him in their bosoms from the lord his father and fostered and nurtured him carefully in the dells of Nysa, where by the will of his father he grew up in a sweet-smelling cave, being reckoned among the immortals. But when the goddesses had brought him up, a god oft hymned, then began he to wander continually through the woody coombes, thickly wreathed with ivy and laurel. And the Nymphai followed in his train with him for their leader; and the boundless forest was filled with their outcry. 
+  And so hail to you, Dionysos god of abundant clusters (
+     <em>
+      polystaphylos
+     </em>
+     )! Grant that we may come again rejoicing to this season, and from that season onwards for many a year."
+    </p>
+    <h4>
+     II. THE ORPHIC HYMNS
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 45 to Dionysus (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "Come, blessed Dionysos, various-named, bull-faced, begot from thunder, Bakkhos (Bacchus) famed. Bassaros God, of universal might, whom swords and blood and sacred rage delight: in heaven rejoicing, mad, loud-sounding God, furious inspirer, bearer of the rod: by Gods revered, who dwellest with humankind, propitious come, with much rejoicing mind."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 30 to Dionysus :
+     </span>
+     <br/>
+     "Dionysos I call loud-sounding and divine, inspiring God, a twofold shape is thine: thy various names and attributes I sing, O firstborn (
+     <em>
+      protogonos
+     </em>
+     ), thrice begotten (
+     <em>
+      trigonos
+     </em>
+     ), Bakkheion (Bacchian) king. Rural, ineffable, two-formed, obscure, two-horned, with ivy crowned, and Euion pure: bull-faced and martial, bearer of the vine, endued with counsel prudent and divine: Eubouleos (Eubuleus), whom the leaves of vines adorn, of Zeus and Persephoneia occultly born in beds ineffable; all-blessed power, whom with triennial offerings men adore. Immortal Daimon, hear my suppliant voice, give me in blameless plenty to rejoice; and listen gracious to my mystic prayer surrounded with thy choir of nurses fair."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 46 to Licnitus :
+     </span>
+     <br/>
+     "Liknitos (Lictinus) Dionysos, bearer of the vine, thee I invoke to bless these rites divine: florid and gay, of Nymphai (NYmphs) the blossom bright, and of fair Aphrodite, Goddess of delight. 'Tis thine mad footsteps with mad Nymphai to beat, dancing through groves with lightly leaping feet: from Zeus' high counsels nursed by Persephoneia, and born the dread of all the powers divine. Come, blessed God, regard thy suppliant's voice, propitious come, and in these rites rejoice."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 47 to Pericionius :
+     </span>
+     <br/>
+     "Bakkhos Perikionios (Bacchus Pericionius), hear my prayer, who madest the house of Kadmos (Cadmus) once thy care, with matchless force his pillars twining round, when burning thunders shook the solid ground, in flaming, sounding torrents borne along, propped by thy grasp indissolubly strong. Come, mighty Bakkhos, to these rites inclined, and bless thy suppliants with rejoicing mind."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 50 to Lysius Lenaeus :
+     </span>
+     <br/>
+     "Hear me, Zeus' son, blest Bakkhos (Bacchus), God of wine, born of two mothers, honoured and divine; Lysios Euios (Lysius Evius) Bakkhos, various-named, of gods the offspring, secret, holy, famed. Fertile and nourishing, whose liberal care augments the fruit that banishes despair. Sounding, magnanimous, Lenaios power, of various-formed, medicinal, holy flower: mortals in thee repose from labour find, delightful charm, desired by all mankind. Fair-haired Euion, Bromios, joyful God, Lysios, insanely raging with the leafy rod. To these our rites, benignant power, incline, when favouring men, or when on Gods you shine; be present to thy mystics' suppliant prayer, rejoicing come, and fruits abundant bear."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 52 to Trietericus :
+     </span>
+     <br/>
+     "Bakkhos (Bacchus) phrenetic, much named, blessed, divine, bull-horned, Lernaion, bearer of the vine; from fire descended, ranging, Nysion king, from whom initial ceremonies spring. Liknitos (Licnitus), pure and fiery bright, prudent, Eubouleos (Eubuleus) crown-bearer, wandering in the night; nursed in Mount Mero, all-mysterious power, triple, ineffable, Zeus' secret flower; Erikepaios (Ericepaeus), first-begotten named, of Gods the father and the offspring famed. Bearing a sceptre, leader of the choir, whose dancing feet phrenetic furies fire, when the triennial band thou dost inspire, Omadion, captor, of a fiery light, born of two mothers, Amphietos birght; love, mountain-wandering, clothed with skins of deer, Paian golden-rayed, whom all revere. Great annual god of grapes, the ivy crowned, Bassaros, lovely, virginlike, renowned. Come, blessed power, regard thy mystic's voice, propitious come, and in these rites rejoice."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 53 to Amphietus :
+     </span>
+     <br/>
+     "Khthonion (Chthonian) Dionysos, hear my prayer, rise vigilant with Nymphai of lovely hair : great Bakkhos (Bacchus) Amphietos, annual God, who laid asleep in Persephone's abode, her sacred seat, didst lull to drowsy rest the rites triennial and the sacred feast; which roused again by thee, in graceful ring, thy nurses round thee mystic anthems sing; when briskly dancing with rejoicing powers, thou movest in concert with the circling hours. Come blessed, fruitful, horned, and divine, and on this sacred consecration propitious shine; accept the pious incense and the prayer, and make prolific the holy fruits thy care."
+    </p>
+    <h4>
+     III. OVID PSEUDO-HYMN
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 14 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[The Boiotian Bacchantes] called on Bacchus [Dionysos] by his many noble names: Lyaeus, Bromius; child of flaming fire; alone twice mothered and alone twice born; great lord and planter of the genial grape; Nyseus too, and Lenaeus and Thyoneus, whose locks are never shorn; Nyctelius, Iacchus, Euhan, father Eleleus; and all the countless titles that are yours, Liber [Dionysos], throughout the lands of Greece."
+    </p>
+    <h4>
+     IV. SENECA PSEUDO-HYMN
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Seneca, Oedipus 401 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "Let the people's hymn sound with the praise of Bacchus [Dionysos]. 
+  Bind your streaming locks with the nodding ivy, and in your soft hands grasp the Nysaean thyrsus! Bright glory of the sky, come hither to the prayers which thine own illustrious Thebes, O Bacchus, offers to thee with suppliant hands. Hither turn with favour thy virginal face; with thy star-bright countenance drive away the clouds, the grim threats of Erebus, and greedy fate. Thee it becomes to circle thy locks with flowers of the springtime, thee to cover thy head with Tyrian turban, or thy smooth brow to wreathe with the ivy's clustering berries; now to fling loose thy lawless-streaming locks, again to bind them in a knot close-drawn; in such guise as when, fearing thy stepdame's [Hera's] wrath, thou didst grow to manhood with false-seeming limbs, a pretended maiden with golden ringlets, with saffron girdle binding thy garments. So thereafter this soft vesture has pleased thee, folds loose hanging and the long-trailing mantle. Seated in thy golden chariot, thy lions with long trappings covered, all the vast coast of the Orient saw thee, both he who drinks of the Ganges and whoever breaks the ice of snowy Araxes.
+     <br/>
+     On an unseemly ass old Silenus attends thee, his swollen temples bound with ivy garlands; while thy wanton initiates lead the mystic revels. Along with thee a troop of Bassarids in Edonian dance beat the ground, now on Mount Pangaeus' peak, now on the top of Thracian Pindus; now midst Cadmean dames has come a maenad [Agaue], the impious comrade of Ogygian Bacchus, with sacred fawn-skins girt about her loins, her hand a light thyrsus brandishing. Their hearts maddened by thee, the matrons have set their hair a-flowing; and at length, after the rending of Pentheus' limbs, the Bacchanals, their bodies now freed from the frenzy, looked on their infamous deed as though they knew it not.
+     <br/>
+     Cadmean Ino, foster-mother of shining Bacchus, holds the realms of the deep, encircled by bands of Nereids dancing; over the waves of the mighty deep a boy holds sway, new come, the kinsman of Bacchus, no common god, Palaemon.
+     <br/>
+     Thee, O boy, a Tyrrhenian band [of pirates] once captured and Nereus allayed the swollen sea; the dark blue waters he changed to meadows. Thence flourish the plane-tree with vernal foliage and the laurel-grove dear to Phoebus; the chatter of birds sounds loud through the branches. Fast-growing ivy clings to the oars, and grape-vines twine at the mast-head. On the prow an Idaean lion roars; at the stern crouches a tiger of Ganges. Then the frightened pirates swim in the sea, and plunged in the water their bodies assume new forms: the robbers' arms first fall away; their breasts smite their bellies and are joined in one; a tiny hand comes down at the side; with curving back they dive into the waves, and with crescent-shaped tail they cleave the sea; and now as curved dolphins they follow the fleeing sails.
+     <br/>
+     On its rich stream has Lydian Pactolus borne thee, leading along its burning banks the golden waters; the Massgetan who mingles blood with milk in his goblets has unstrung his vanquished bow and given up his Getan arrows; the realms of axe-wielding Lycurgus have felt the dominion of Bacchus; the fierce lands of the Zalaces have felt it, and those wandering tribes whom neighbouring Boreas smites, and the nations which Maeotis' cold water washes, and they [i.e. the Skythians] on whom the Arcadian constellation looks down from the zenith and the wagons twain. He has subdued the scattered Gelonians; he has wrested their arms form the warrior maidens [i.e. the Amazones]; with downcast face they fell to earth, those Thermodontian hordes, gave up at length their light arrows, and became maenads. Sacred Cithaeron has flowed with the blood of Ophionian slaughter [i.e. of Pentheus]; the Proetides fled to the woods, and Argos, in his stepdame's [Hera's] very presence, paid homage to Bacchus.
+     <br/>
+     Naxos, girt by the Aegean sea, gave him in marriage a deserted maiden [Ariadne], compensating her loss with a better husband. Out of the dry rock there gushed Nyctelian liquor [wine]; babbling rivulets divided the grassy meadows; deep the earth drank in the sweet juices, white fountains of snowy milk and Lesbian wine mingled with fragrant thyme. The new-made bride is led to the lofty heavens; Phoebus [Apollon] a stately anthem sings, with his locks flowing down his shoulders, and twin Cupides [Erotes] brandish their torches. Jupiter [Zeus] lays aside his fiery weapons and, when Bacchus comes, abhors his thunderbolt.
+     <br/>
+     While the bright stars of the ancient heavens shall run in their courses; while Oceanus shall encircle the imprisoned earth with its waters; while full Luna [Selene the moon] gather again her lost radiance; while Lucifer [Eosphoros, the day sar] shall herald the dawn of the morning and while the lofty Bears [constellations Ursae] shall know naught of caerulean Nereus; so long shall we worship the shining face of beauteous Lyaeus [Dionysos]."
+    </p>
+    <hr/>
+    <h3 id="Descriptions">
+     PHYSICAL DESCRIPTIONS OF DIONYSUS
+    </h3>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/Z12.21.html">
+      <img alt="Dionysus-Bacchus | Greco-Roman mosaic from Daphne C4th A.D. | Rhode Island School of Design Museum, New York" class="img-responsive center-block" src="../image/Z12.21Dionysos.jpg"/>
+     </a>
+     <figcaption>
+      Dionysus-Bacchus, Greco-Roman mosaic from Daphne C4th A.D.,
+      <a href="http://risdmuseum.org/" target="_blank">
+       Rhode Island School of Design Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Classical literature offers only a few, brief descriptions of the physical characteristics of the gods.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 7 to Dionysus 1 ff (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "He [Dionysos] appeared on a jutting headland by the shore of the fruitless sea, seeming like a stripling in the first flush of manhood: his rich, dark hair was waving about him, and on his strong shoulders he wore a purple robe."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Bacchae 90 ff  (trans. Buckley) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Dionysos] the bull-horned god (
+     <em>
+      theos taurokeros
+     </em>
+     ), and he [Zeus] crowned him with crowns of snakes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Bacchae 135 ff :
+     </span>
+     <br/>
+     "In the mountains . . . the leader of the dance is Bromios, euhoi! The plain flows with milk, it flows with wine, it flows with the nectar of bees. Bakkheus (Bacchus), raising the flaming torch of pine on his thyrsos, like the smoke of Syrian incense, darts about, arousing the wanderers with his racing and dancing, agitating them with his shouts, casting his rich locks into the air. And among the Mainades (Maenads) cries his voice rings deep."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Bacchae 230 ff :
+     </span>
+     <br/>
+     "Some stranger [Dionysos] has come . . . fragrant in hair with golden curls, having in his eyes the wine-dark graces of Aphrodite."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Bacchae 350 ff :
+     </span>
+     <br/>
+     "[Pentheus speaks:] ‘This effeminate stranger [Dionysos].’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Bacchae 455 ff :
+     </span>
+     <br/>
+     "[Pentheus addresses Dionysos :] ‘Your body is not ill-formed, stranger, for women's purposes . . . For your hair is long, not through wrestling, scattered over your cheeks, full of desire; and you have a white skin from careful preparation, hunting after Aphrodite by your beauty not exposed to strokes of the sun, but beneath the shade.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 19. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the chest of Kypselos dedicated at Olympia :] Dionysos is lying down in a cave, a bearded figure holding a golden cup, and clad in a tunic reaching to the feet. Around him are vines, apple-trees and pomegranate-trees."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 15 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "There are countless characteristics of Dionysos for those who wish to represent him in painting or sculpture, by depicting which even approximately the artist has captured the god. For instance, the ivy clusters forming a crown are the clear mark of Dionysos, even if the workmanship is poor; and a horn just springing from the temples reveals Dionysos, and a leopard, though but just visible, is a symbol of the god."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callistratus, Descriptions 6 (trans. Fairbanks) (Greek rhetorician C3rd to 4th A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek statue of Kairos (Caerus) :] He  resembled Dionysos; for his forehead glistened with graces and his cheeks, reddening to youthful bloom, were radiantly beautiful, conveying to the beholder's eye a delicate blush."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callistratus, Descriptions 8 :
+     </span>
+     <br/>
+     "[Description of an ancient Greek statue of Dionysos by Praxiteles :] On the statue of Dionysos . . . The hands of Praxiteles wrought works of art that were altogether alive. There was a grove, and in it stood Dionysos in the form of a young man, so delicate that the bronze was transformed into flesh, with a body so supple and relaxed that it seemed to consist of some different material instead of bronze : for though it was really bronze, it nevertheless blushed, and though it had no part in life, it sought to show the appearance of life and would yield to the very finger-tip if you touched it, for though it was really compact bronze, it was so softened into flesh by art that it shrank from the contact of the hand. It had the bloom of youth, it was full of daintiness, it melted with desire, as indeed Euripides represented him when he fashioned his image in the
+     <em>
+      Bakkhai
+     </em>
+     . A wreath of ivy encircled his head--since the bronze was in truth ivy, bent as it was into sprays and holding up the curly locks which fell in profusion from his forehead. And it was full of laughter, nay, it wholly passed the bounds of wonder in that the material gave out evidence of joy and the bronze feigned to represent the emotions. A fawn-skin clothed the statue, not such as Dionysos was accustomed to wear, but the bronze was transformed to imitate the pelt; and he stood resting his left hand on a thyrsos, and the thyrsos deceived the beholder's vision; for while it was wrought of bronze it seemed to glisten with the greenness of young growth, as though it were actually transformed into the plant itself. The eye was gleaming with fire, in appearance the eye of a man in a frenzy; for the bronze exhibited the Bakkhic madness and seemed to be divinely inspired, just as, I think, Praxiteles had the power to infuse into the statue also the Bakkhic ecstasy."
+     <br/>
+     [N.B. Extant statues of this type include the "Bacchus de Versailles" in the Louvre and the Dionysus in Madrid.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 3. 550 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Dionysos,] an unarmed boy . . . [who] in his service not the arts of war, weapons and cavalry, but tender garlands, myrrh-scented tresses and embroidered robes of gold and purple."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 3. 664 ff :
+     </span>
+     <br/>
+     "[The Tyrrhenian pirates] discovered on this lonely spot, a boy [Dionysos], as pretty as a girl. He seemed to reel, half-dazed with wine and sleep, and almost failed to follow along. I gazed at his attire, his face, his bearing; everything I saw seemed more than mortal. I felt sure of it . . .
+     <br/>
+     [Later on the ship:] Ivy creeping, winding, clinging, bound the oars and decked the sails in heavy clusters. Bacchus [Dionysos] himself, grape-bunches garlanding his brow, brandished a spear that vine-leaves twined, and at his feet fierce spotted panthers lay, tigers and lynxes too, in phantom forms."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 18 ff :
+     </span>
+     <br/>
+     "You [Dionysos] have youth unfading; you're a boy for ever; you shine the fairest in the firmament. When you lay by your horns, your countenance is like a lovely girl's."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 472 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "But dainty Bacchus does not blush to sprinkle with perfume his flowing locks, nor in his soft hand to brandish the slender thrysus, when with mincing gait he trails his robe gay with barbaric gold."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Oedipus 413 ff :
+     </span>
+     <br/>
+     "[Dionysos] bind your streaming locks with the nodding ivy, and in your soft hands grasp the Nysaean thyrsus! . . . Thee it becomes to circle thy locks with flowers of the springtime, thee to cover thy head with Tyrian turban, or thy smooth brow to wreathe with the ivy's clustering berries; now to fling loose thy lawless-streaming locks, again to bind them in a knot close-drawn; in such guise as when, fearing thy stepdame's wrath, thou didst grow to manhood with false-seeming limbs, a pretended maiden with golden ringlets, with saffron girdle binding thy garments. So thereafter this soft vesture has pleased thee, folds loose hanging and the long-trailing mantle. Seated in thy golden chariot, thy lions with long trappings covered, all the vast coast of the Orient saw thee."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Phaedra 753 ff :
+     </span>
+     <br/>
+     "Bacchus [Dionysos], from thyrsus-bearing India, with unshorn locks, perpetually young, thou who frightenest tigers with thy vine-clad spear, and with a turban bindest thy hornèd head."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.13.html">
+        <img alt="Thumbnail Birth of Dionysus" src="../image/thumbK12.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.13 Birth of Dionysus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.14.html">
+        <img alt="Thumbnail Birth of Dionysus" src="../image/thumbK12.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.14 Birth of Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.27.html">
+        <img alt="Thumbnail Birth of Dionysus" src="../image/thumbK12.27.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.27 Birth of Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.4.html">
+        <img alt="Thumbnail Dionysus, Satyr, Maenad" src="../image/thumbK12.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.4 Dionysus, Satyr, Maenad
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T50.3.html">
+        <img alt="Thumbnail Dionysus, Maenad, Silenus" src="../image/thumbT50.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T50.3 Dionysus, Maenad, Silenus
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T50.4.html">
+        <img alt="Thumbnail Dionysus &amp; Comic Silenus" src="../image/thumbT50.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T50.4 Dionysus &amp; Comic Silenus
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.2.html">
+        <img alt="Thumbnail Dionysus, Silenus, Maenads" src="../image/thumbK12.2B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.2 Dionysus, Silenus, Maenads
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P21.8.html">
+        <img alt="Thumbnail Dionysus, Hebe, Demeter, Iris" src="../image/thumbP21.8B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P21.8 Dionysus, Hebe, Demeter, Iris
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.19.html">
+        <img alt="Thumbnail Fostering of Dionysus" src="../image/thumbK12.19.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.19 Fostering of Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.2.html">
+        <img alt="Thumbnail Fostering of Dionysus" src="../image/thumbK11.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.2 Fostering of Dionysus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.1.html">
+        <img alt="Thumbnail Dionysus Holding Thyrsus" src="../image/thumbK12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.1 Dionysus Holding Thyrsus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.14.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbT60.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.14 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.3.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbK12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.3 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.6.html">
+        <img alt="Thumbnail Dionysus &amp; Satyriscus" src="../image/thumbK12.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.6 Dionysus &amp; Satyriscus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.7.html">
+        <img alt="Thumbnail Dionysus &amp; Satyrs" src="../image/thumbK12.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.7 Dionysus &amp; Satyrs
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.28.html">
+        <img alt="Thumbnail Dionysus &amp; Maenads" src="../image/thumbK12.28.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.28 Dionysus &amp; Maenads
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K46.1.html">
+        <img alt="Thumbnail Dionysus, Pompe, Eros" src="../image/thumbK46.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K46.1 Dionysus, Pompe, Eros
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.8.html">
+        <img alt="Thumbnail Dionysus Driving Chariot" src="../image/thumbK12.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.8 Dionysus Driving Chariot
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.9.html">
+        <img alt="Thumbnail Dionysus &amp; Giant Eurytus" src="../image/thumbK12.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.9 Dionysus &amp; Giant Eurytus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.5.html">
+        <img alt="Thumbnail Dionysus, Satyr, Maenad" src="../image/thumbK12.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.5 Dionysus, Satyr, Maenad
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.20.html">
+        <img alt="Thumbnail Dionysus &amp; Ariadne" src="../image/thumbK12.20.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.20 Dionysus &amp; Ariadne
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.11.html">
+        <img alt="Thumbnail Dionysus &amp; Ariadne" src="../image/thumbK12.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.11 Dionysus &amp; Ariadne
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.10.html">
+        <img alt="Thumbnail Dionysus &amp; Ariadne" src="../image/thumbK12.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.10 Dionysus &amp; Ariadne
+        </h3>
+        <p>
+         Lucanian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.18.html">
+        <img alt="Thumbnail Dionysus &amp; Ariadne" src="../image/thumbK12.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.18 Dionysus &amp; Ariadne
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/N13.5.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Theseus" src="../image/thumbN13.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         N13.5 Dionysus, Ariadne, Theseus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.12.html">
+        <img alt="Thumbnail Dionysus &amp; Ariadne" src="../image/thumbK12.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.12 Dionysus &amp; Ariadne
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.17.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Theseus" src="../image/thumbK12.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.17 Dionysus, Ariadne, Theseus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T55.2.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Comus" src="../image/thumbT55.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T55.2 Dionysus, Ariadne, Comus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.25.html">
+        <img alt="Thumbnail Dionysus &amp; Lycurgus" src="../image/thumbK12.25.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.25 Dionysus &amp; Lycurgus
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.26.html">
+        <img alt="Thumbnail Death of Pentheus" src="../image/thumbK12.26.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.26 Death of Pentheus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.16.html">
+        <img alt="Thumbnail Dionysus &amp; the Pirates" src="../image/thumbK12.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.16 Dionysus &amp; the Pirates
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.15.html">
+        <img alt="Thumbnail Tyrrhenian Pirates" src="../image/thumbK12.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.15 Tyrrhenian Pirates
+        </h3>
+        <p>
+         Etruscan Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.1.html">
+        <img alt="Thumbnail Dionysus &amp; Hephaestus" src="../image/thumbK7.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.1 Dionysus &amp; Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.8.html">
+        <img alt="Thumbnail Dionysus &amp; Hephaestus" src="../image/thumbK7.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.8 Dionysus &amp; Hephaestus
+        </h3>
+        <p>
+         Caeretan Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.13.html">
+        <img alt="Thumbnail Dionysus &amp; Hephaestus" src="../image/thumbK7.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.13 Dionysus &amp; Hephaestus
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K8.14.html">
+        <img alt="Thumbnail Dionysus, Birth of Athena" src="../image/thumbK8.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K8.14 Dionysus, Birth of Athena
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.10.html">
+        <img alt="Thumbnail Dionysus &amp; Hephaestus" src="../image/thumbK7.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.10 Dionysus &amp; Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.3.html">
+        <img alt="Thumbnail Dionysus &amp; Hephaestus" src="../image/thumbK7.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.3 Dionysus &amp; Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.4.html">
+        <img alt="Thumbnail Dionysus &amp; Hephaestus" src="../image/thumbK7.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.4 Dionysus &amp; Hephaestus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F12.1B.html">
+        <img alt="Thumbnail Dionysus on Vesuvius" src="../image/thumbF12.1B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F12.1B Dionysus on Vesuvius
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F12.1.html">
+        <img alt="Thumbnail Dionysus on Vesuvius" src="../image/thumbF12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F12.1 Dionysus on Vesuvius
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F27.1.html">
+        <img alt="Thumbnail Fostering of Dionysus" src="../image/thumbF27.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F27.1 Fostering of Dionysus
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F12.2.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Silenus" src="../image/thumbF12.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F12.2 Dionysus, Ariadne, Silenus
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.1.html">
+        <img alt="Thumbnail Dionysus Riding Panther" src="../image/thumbZ12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.1 Dionysus Riding Panther
+        </h3>
+        <p>
+         Greek Pella Floor Mosaic  C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.2.html">
+        <img alt="Thumbnail Dionysus Riding Panther" src="../image/thumbZ12.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.2 Dionysus Riding Panther
+        </h3>
+        <p>
+         Greek Delos  Floor Mosaic C1st B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.11.html">
+        <img alt="Thumbnail Lycurgus &amp; Ambrosia" src="../image/thumbZ12.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.11 Lycurgus &amp; Ambrosia
+        </h3>
+        <p>
+         Greek Delos  Floor Mosaic C2nd B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.15.html">
+        <img alt="Thumbnail Dionysus with Panther" src="../image/thumbZ12.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.15 Dionysus with Panther
+        </h3>
+        <p>
+         Greco-Roman Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.20.html">
+        <img alt="Thumbnail Dionysus Riding Tiger" src="../image/thumbZ12.20.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.20 Dionysus Riding Tiger
+        </h3>
+        <p>
+         Greco-Roman El Djem Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.4.html">
+        <img alt="Thumbnail Dionysus Riding Lion" src="../image/thumbZ12.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.4 Dionysus Riding Lion
+        </h3>
+        <p>
+         Greco-Roman El Djem Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.6.html">
+        <img alt="Thumbnail Dionysus, Tiger Chariot" src="../image/thumbZ12.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.6 Dionysus, Tiger Chariot
+        </h3>
+        <p>
+         Greco-Roman El Djem  Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.17.html">
+        <img alt="Thumbnail Dionysus with Beasts" src="../image/thumbZ12.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.17 Dionysus with Beasts
+        </h3>
+        <p>
+         Greco-Roman El Djem Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.3.html">
+        <img alt="Thumbnail Dionysus, Tiger Chariot" src="../image/thumbZ12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.3 Dionysus, Tiger Chariot
+        </h3>
+        <p>
+         Greco-Roman Sousse Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.13.html">
+        <img alt="Thumbnail Dionysus, Acme, Icarius" src="../image/thumbZ12.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.13 Dionysus, Acme, Icarius
+        </h3>
+        <p>
+         Greco-Roman Paphos Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.7.html">
+        <img alt="Thumbnail Dionysus &amp; a Satyr" src="../image/thumbZ12.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.7 Dionysus &amp; a Satyr
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.9.html">
+        <img alt="Thumbnail Dionysus &amp; Heracles" src="../image/thumbZ12.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.9 Dionysus &amp; Heracles
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.14.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Maron" src="../image/thumbZ12.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.14 Dionysus, Ariadne, Maron
+        </h3>
+        <p>
+         Greco-Roman Syria Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.5.html">
+        <img alt="Thumbnail Dionysus, Centaur Chariot" src="../image/thumbZ12.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.5 Dionysus, Centaur Chariot
+        </h3>
+        <p>
+         Greco-Roman Acholla Mosaic  A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.8.html">
+        <img alt="Thumbnail Dionysus &amp; the Pirates" src="../image/thumbZ12.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.8 Dionysus &amp; the Pirates
+        </h3>
+        <p>
+         Greco-Roman Utica Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.18.html">
+        <img alt="Thumbnail Dionysus &amp; Indian Warrior" src="../image/thumbZ12.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.18 Dionysus &amp; Indian Warrior
+        </h3>
+        <p>
+         Greco-Roman Rome Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.19.html">
+        <img alt="Thumbnail Dionysus &amp; Ariadne" src="../image/thumbZ12.19.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.19 Dionysus &amp; Ariadne
+        </h3>
+        <p>
+         Greco-Roman Volubilis Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.10.html">
+        <img alt="Thumbnail Dionysus &amp; Lycurgus" src="../image/thumbZ12.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.10 Dionysus &amp; Lycurgus
+        </h3>
+        <p>
+         Greco-Roman Naples Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F12.3.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Silenus" src="../image/thumbF12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F12.3 Dionysus, Ariadne, Silenus
+        </h3>
+        <p>
+         Greco-Roman Tripoli Wall Fresco A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R12.1.html">
+        <img alt="Thumbnail Dionysus, Satyr, Bacchante" src="../image/thumbR12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R12.1 Dionysus, Satyr, Bacchante
+        </h3>
+        <p>
+         Greco-Roman Rome Bas-relief C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.12.html">
+        <img alt="Thumbnail Lycurgus &amp; Ambrosia" src="../image/thumbZ12.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.12 Lycurgus &amp; Ambrosia
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.21.html">
+        <img alt="Thumbnail Dionysus Portrait" src="../image/thumbZ12.21.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.21 Dionysus Portrait
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.16.html">
+        <img alt="Thumbnail Dionysus &amp; Pan" src="../image/thumbZ12.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.16 Dionysus &amp; Pan
+        </h3>
+        <p>
+         Greco-Roman Philippopolis Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.22.html">
+        <img alt="Thumbnail Dionysus, Ariadne, Heracles" src="../image/thumbZ12.22.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.22 Dionysus, Ariadne, Heracles
+        </h3>
+        <p>
+         Greco-Roman Philippopolis Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.1.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.1 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.2.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.2 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.3.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.3 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.4.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.4 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.5.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.5 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.6.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.6 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.7.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.7 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S12.8.html">
+        <img alt="Thumbnail Dionysus-Bacchus Statue" src="../image/thumbS12.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S12.8 Dionysus-Bacchus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S11.1.html">
+        <img alt="Thumbnail Hermes &amp; Infant Dionysus Statue" src="../image/thumbS11.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S11.1 Hermes &amp; Infant Dionysus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S27.3.html">
+        <img alt="Thumbnail Silenus &amp; Infant Dionysus Statue" src="../image/thumbS27.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S27.3 Silenus &amp; Infant Dionysus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S27.5.html">
+        <img alt="Thumbnail Silenus &amp; Boy Dionysus Statue" src="../image/thumbS27.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S27.5 Silenus &amp; Boy Dionysus
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL DIONYSUS PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodShield.html">
+       Hesiod, The Shield of Heracles
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aesop, Fables
+      <span class="sources-detail">
+       - Greek Fables C6th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LyraGraeca1A.html">
+       Greek Lyric I Terpander, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Lyric C7th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreon, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreontea, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Bacchae
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Gorgias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Laws
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/AratusPhaenomena.html">
+       Aratus, Phaenomena
+      </a>
+      <span class="sources-detail">
+       - Greek Astronomy C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Parthenius.html">
+       Parthenius, Love Romances
+      </a>
+      <span class="sources-detail">
+       - Greek Mythography C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PlutarchParallelStories.html">
+       Plutarch, Parallel Stories
+      </a>
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Oppian, Cynegetica
+      <span class="sources-detail">
+       - Greek Poetry C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClementExhortation1.html">
+       Clement, Exhortation to the Greeks
+      </a>
+      <span class="sources-detail">
+       - Christian Scholar C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Theophilus, To Autolycus
+      <span class="sources-detail">
+       - Chrisitan Scholar C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaOedipus.html">
+       Seneca, Oedipus
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Source status of Dionysos pages:-
+      <br/>
+      1. Fully quoted: Homer (Iliad &amp; Odyssey), Hesiod, Homeric Hymns, Homerica, Apollodorus, Pausanias, Strabo, Herodotus, Orphic Hymns, Quintus Smyrnaeus, Callimachus, Parthenius, Aelian, Ovid (Metamorphoses), Hyginus (Fabulae &amp; Astronomica), Apuleius, Aesop;
+      <br/>
+      2. Partially or not quoted (Greek): Pindar, Greek Lyric (Fragments), Greek Elegaic (Fragments), Apollonius Rhodius, Diodorus Siculus, Antoninus Liberalis, Euripides, Aeschylus, Sophocles, Aristophanes, Plato, Theocritus, Lycophron, Plutarch, Philostratus &amp; Callistratus, Nonnus, Oppian, Tryphiodorus, Colluthus, et. al.;
+      <br/>
+      3. Partially or not quoted (Latin): Ovid (Fasti), Cicero, Statius, Propertius, Valerius Flaccus, et. al.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2 id="Summary">
+     DIONYSUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD DIONYSUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Zeus and Semele
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Ariadne
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Wine, festivity, madness
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbol
+       </th>
+       <td>
+        Thyrsus (pine-cone staff)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Panther, bull, serpent
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Plants
+       </th>
+       <td>
+        Grapevine, ivy, bindweed
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Silenus, Satyrs, Maenads
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Bacchus, Lyaeus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Liber
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2 id="Index">
+     DIONYSUS PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction
+      <ul>
+       <li>
+        <a href="#Attributes">
+         Symbols &amp; Attributes
+        </a>
+       </li>
+       <li>
+        <a href="#Family">
+         Family Tree of Dionysus
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Overview">
+         Myths Overview
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Dionysus
+        </a>
+       </li>
+       <li>
+        <a href="#Descriptions">
+         Physical Descriptions
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosGod.html">
+       Part 2: Dionysus God of
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosGod.html#Viticulture">
+         Viticulture &amp; Winemaking
+        </a>
+       </li>
+       <li>
+        <a href="DionysosGod.html#Drinking">
+         Wine-Drinking
+        </a>
+       </li>
+       <li>
+        <a href="DionysosGod.html#Madness">
+         Mad Frenzy &amp; Hallucination
+        </a>
+       </li>
+       <li>
+        <a href="DionysosGod.html#Vegetation">
+         Fruit &amp; Vegetation
+        </a>
+       </li>
+       <li>
+        <a href="DionysosGod.html#Plays">
+         Plays &amp; Choral Song
+        </a>
+       </li>
+       <li>
+        <a href="DionysosGod.html#Homosexuality">
+         Homosexuality &amp; Effeminacy
+        </a>
+       </li>
+       <li>
+        <a href="DionysosGod.html#Reincarnation">
+         Reincarnation &amp; the Afterlife
+        </a>
+       </li>
+       <li>
+        <a href="DionysosGod.html#Foreign">
+         Identified with Foreign Gods
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosFamily.html">
+       Part 3: Dionysus Family
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosFamily.html#Genealogy">
+         Genealogy
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFamily.html#Divine">
+         Divine Offspring
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFamily.html#Mortal">
+         Mortal Offspring
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFamily.html#Kingdom">
+         Family by Kingdom
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosMyths.html">
+       Part 4: Dionysus Myths 1 General
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosMyths.html#Birth">
+         Birth &amp; Childhood
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths.html#Nysa">
+         Birthplace of Mount Nysa
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosMyths2.html">
+       Part 4: Dionysus Myths 2 General
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosMyths2.html#Discovery">
+         Discovery of Wine
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Thetis">
+         Refuge with Thetis
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Madness">
+         Madness &amp; the Asses
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Kithairon">
+         Recapture of Cithaeron
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Perseus">
+         War Against the Argives
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Divinity">
+         Divinity Recognised
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Underworld">
+         Journey to the Underworld
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Olympos">
+         Ascension to Olympus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Gigantes">
+         War of the Giants
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths2.html#Fable">
+         Dionysus in Fable
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosMyths3.html">
+       Part 4: Dionysus Myths 3 General
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosMyths3.html#East">
+         Dionysus in the East (Summary)
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths3.html#Egypt">
+         Wanderings in Egypt
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths3.html#Typhoeus">
+         Flight from Typhoeus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths3.html#Kybele">
+         Mentored by Cybele
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths3.html#Amazones">
+         War Against the Amazons
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths3.html#Pillars">
+         Pillars of India
+        </a>
+       </li>
+       <li>
+        <a href="DionysosMyths3.html#India">
+         War Against the Indians
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosLoves.html">
+       Part 4: Dionysus Myths 4 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosLoves.html#Althaia">
+         Althaea
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Ampelos">
+         Ampelus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Aphrodite">
+         Aphrodite
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Aura">
+         Aura
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Beroe">
+         Beroe
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Erigone">
+         Erigone
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Nikaia">
+         Nicaea
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Pallene">
+         Pallene
+        </a>
+       </li>
+       <li>
+        <a href="DionysosLoves.html#Polymnos">
+         Polymnus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Georgikos/Ariadne.html">
+       Part 4: Dionysus Myths 5 Loves
+      </a>
+      <ul>
+       <li>
+        <a href="../Georgikos/Ariadne.html">
+         Ariadne
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosWrath.html">
+       Part 4: Dionysus Myths 6 Wrath
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosWrath.html#Aruntius">
+         Aruntius
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Athenians">
+         The Athenians
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Kyanippos">
+         Cyanippus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Lykourgos">
+         Lycurgus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Midas">
+         Midas
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Minyades">
+         Minyades
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Orpheus">
+         Orpheus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Proitides">
+         Proetides
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Psalakantha">
+         Psalacantha
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Bakkhantes">
+         Thracian Bacchantes
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath.html#Tyrrhenian">
+         Tyrrhenian Pirates
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosWrath2.html">
+       Part 4: Dionysus Myths 7 Wrath
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosWrath2.html#Pentheus">
+         Pentheus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosWrath2.html#Kadmeides">
+         Daughters of Cadmus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="DionysosFavour.html">
+       Part 4: Dionysus Myths 8 Favour
+      </a>
+      <ul>
+       <li>
+        <a href="DionysosFavour.html#Akoetes">
+         Acoetes
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Aristaios">
+         Aristaeus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Bakkhantes">
+         Boeotian Bacchantes
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Bakkhides">
+         Bacchides
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Dirke">
+         Dirce
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Hyades">
+         Hyades
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Ikarios">
+         Icarius &amp; Erigone
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Ino">
+         Ino &amp; Melicertes
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Midas">
+         Midas
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Oineus">
+         Oeneus
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Oinotrophoi">
+         Oenotrophi
+        </a>
+       </li>
+       <li>
+        <a href="DionysosFavour.html#Pholos">
+         Pholus
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/DionysosCult.html">
+       Part 5: Cult of Dionysus 1
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/DionysosCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Aigina">
+         Aegina, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Sikyonia">
+         Sicyon, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/DionysosCult2.html">
+       Part 5: Cult of Dionysus 2
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Aitolia">
+         Aetolia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Naxos">
+         Naxos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Andros">
+         Andros, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Lesbos">
+         Lesbos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Rhodes">
+         Rhodes, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Makedonia">
+         Macedonia, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Thrake">
+         Thrace, North of Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Teuthrania">
+         Teuthrania, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Karia">
+         Caria, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Byzantion">
+         Byzantium, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Skythia">
+         Scythia, Eastern Europe
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Libya">
+         Libya, North Africa
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosCult2.html#Gaul">
+         Gaul, Southern France
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/DionysosTitles.html">
+       Part 6: Titles &amp; Epithets
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/DionysosTitles.html#Poetic">
+         Poetic Titles Epithets
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/DionysosTitles.html#Cult">
+         Cult Titles
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Summary/Dionysos.html">
+       Summary of Dionysus
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

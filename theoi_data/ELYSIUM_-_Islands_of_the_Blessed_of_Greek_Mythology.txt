@@ -1,0 +1,2261 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ELYSIUM - Islands of the Blessed of Greek Mythology
+  </title>
+  <meta content="In ancient Greek mythology and religion Elysium was the final resting place of the souls of heroes and virtuous men. The ancients often distinguished two Elysian realms--the islands of the Blessed and the Lethean fields of Hades. The first of these--also known as the White Island or the Islands of the Blessed--was an afterlife realm reserved for the heroes of myth. It was a paradise located in the far western stream of the river Oceanus ruled by the Titan-King Cronus or Rhadamanthys, son of Zeus. The second Elysium was an underworld realm separated from the gloom of Hades by the river Lethe. Its pleasant fields were promised as an afterlife to initiates of the Mysteries who had lived virtuous lives." name="description"/>
+  <meta content="Elysium, Elysion, Greek mythology, mythic realm, Elysian islands, Elysian fields, islands of the blessed, white island" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sun.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     Mythic Realms &gt;&gt; Elysium (Elysion)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ELYSION
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Πεδιον Ηλυσιον
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Pedion Êlysion
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Pedion Elysion
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Elysian Fields
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     ELYSION (Elysium) was the final resting place of the souls of heroes and virtuous men. The ancients often distinguished  two Elysian realms--the islands of the Blessed and the Lethean fields of Haides.
+    </p>
+    <p>
+     The first of these--also known as the White Island or the Islands of the Blessed--was an afterlife realm reserved for the heroes of myth. It was an island paradise located in the far western stream of the
+     <a href="Okeanos.html">
+      river Okeanos (Oceanus)
+     </a>
+     ruled by the Titan-King
+     <a href="../Titan/TitanKronos.html">
+      Kronos (Cronus)
+     </a>
+     or
+     <a href="../Khthonios/Rhadamanthys.html">
+      Rhadamanthys
+     </a>
+     , son of Zeus.
+    </p>
+    <p>
+     The second Elysium was an underworld realm separated from the gloom of Haides by the
+     <a href="../Khthonios/PotamosLethe.html">
+      river Lethe
+     </a>
+     . Its pleasant fields were promised as an afterlife to initiates of the Mysteries who had lived virtuous lives. The gods of the Mysteries associated with the passage to Elysium included
+     <a href="../Khthonios/Persephone.html">
+      Persephone
+     </a>
+     ,
+     <a href="../Georgikos/EleusiniosIakkhos.html">
+      Iakkhos (Iacchus)
+     </a>
+     ,
+     <a href="../Georgikos/EleusiniosTriptolemos.html">
+      Triptolemos
+     </a>
+     ,
+     <a href="../Khthonios/Hekate.html">
+      Hekate
+     </a>
+     ,
+     <a href="../Georgikos/Zagreus.html">
+      Zagreus
+     </a>
+     (the Orphic Dionysos),
+     <a href="../Khthonios/Melinoe.html">
+      Melinoe
+     </a>
+     (the Orphic Hekate) and
+     <a href="../Khthonios/Makaria.html">
+      Makaria
+     </a>
+     .
+    </p>
+    <p>
+     When the concept of reincarnation gained currency in the classical world the two Elysian realms were sometimes tiered--a soul which had  won passage three times to the netherworld Elysium would, with their fourth death, be transferred  to the Islands of the Blessed  to dwell with the heroes of myth for all eternity.
+    </p>
+    <p>
+     It should be noted that Elysium was an evolving concept. Homer knows of no such realm and consigns all of his heroes to the common house of Haides, while Hesiod and many other poets speak only of a paradisal realm exclusively reserved for the heroes. Roman writers such as Virgil combine the two Elysia--the realm of the virtuous dead and the realm of heroes being one and the same.
+    </p>
+    <p>
+     A few  late Greek writers attempted to rationalise the myth and identified the mythical White Island with one located near the mouth of the river Danube on the Black Sea and the Islands of the Blessed with certain islands in the Atlantic Ocean.
+    </p>
+    <p>
+     The terms Elysium and Haides  were adjectives rather than nouns in the ancient Greek language, for example,
+     <em>
+      pedion Elysion
+     </em>
+     (the Elysian plain) and
+     <em>
+      domos Haidou
+     </em>
+     (the house of Haides). The etymology of the word
+     <em>
+      elysion
+     </em>
+     is unclear. It may be derived from the Greek verb
+     <em>
+      eleusô
+     </em>
+     (
+     <em>
+      eleuthô
+     </em>
+     ) meaning "to relieve" or "release" (from pain or troubles) or was perhaps derived from the name of the town of Eleusis, site of the celebrated Eleusinian Mysteries.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAMES
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Νησοι Μακαρων
+      </p>
+      <p class="names-greek">
+       Νησος Λευκη
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Nêsoi Makarôn
+      </p>
+      <p>
+       Nêsos Leukê
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Nesi Macaron
+      </p>
+      <p>
+       Nesus Leuce
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Islands of the Blessed
+      </p>
+      <p>
+       White Island
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3>
+     AFTERLIFE  REALM OF HEROES : ISLANDS OF THE BLESSED, THE WHITE ISLE &amp; THE ELYSIAN FIELDS
+    </h3>
+    <p>
+     Some of the famous heroes transferred to Elysion (Elysium) include :--
+     <br/>
+     (1) 
+  Early heroes : Kadmos (Cadmus) and Harmonia of Thebes, Lykos (Lycus) son of Poseidon, Rhadamanthys son of Zeus, Alkmene (Alcmena) mother of Herakles, Medeia (Medea) daughter of Aeetes, Orpheus and Eurydike.
+     <br/>
+     (2) Trojan War heroes : Akhilleus (Achilles) son of Peleus,  Aias (Ajax) son of Telamon, Aias son of Oileus, Antilokhos (Antilochus) son of Nestor, Diomedes son of Tydeus, Helene daughter of Zeus, Iphigeneia daughter of Agamemnon, Memnon son of Eos, Menelaus son of Atreus, Neoptolemos son of Akhilleus, Patroklos (Patroclus) friend of Akhilleus, Penelope wife of Odysseus,Telegonos son of Odysseus, Telemakhos (Telemachus) son of Odysseus.
+     <br/>
+     (3) Elysian-born : Euphorion son of Akhilleus.
+     <br/>
+     N.B. This list is far from exhaustive--any hero who possessed a hero-cult in ancient Greece was presumed  to be transferred to Elysion.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 4. 56o ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[The prophetic sea-god Proteus addresses Menelaos (Menelaus) :] ‘As for yourself, King Menelaos, it is not your fate to die in Argos . . . The Deathless Ones will waft you instead to the world's end, the Elysian fields (
+     <em>
+      pedion Elysion
+     </em>
+     ) where yellow-haired Rhadamanthys is. There indeed men live unlaborious days. Snow and tempest and thunderstorms never enter there, but for men's refreshment Okeanos (Oceanus) sends out coninually the high-singing breezes of the west (
+     <em>
+      aetae Zephyrioi
+     </em>
+     ). All this the gods have in store for you, remembering how your wife is Helene and how her father is Zeus himself.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 24. 12 ff :
+     </span>
+     <br/>
+     "So did these ghosts travel on together squeaking, while easeful Hermes led them down [to the Land of the Dead] through the ways of dankness. They passed the streams of Okeanos (Oceanus), the White Rock (
+     <em>
+      petra Leuka
+     </em>
+     ), the Gates of the Sun (
+     <em>
+      pylai Hêlioi
+     </em>
+     ) and the Land of Dreams (
+     <em>
+      demos oneiroi
+     </em>
+     ), and soon they came to the field of asphodel, where the souls (
+     <em>
+      psykhai
+     </em>
+     ), the phantoms (
+     <em>
+      eidola
+     </em>
+     ) of the dead have their habitation."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Works and Days 156 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Zeus the son of Kronos (Cronus) made yet another [race of men], the fourth, upon the fruitful earth, which was nobler and more righteous, a god-like race of hero-men who are called demi-gods (
+     <em>
+      hemitheoi
+     </em>
+     ), the race before our own, throughout the boundless earth. Grim war and dread battle destroyed a part of them, some in the land of Kadmos at seven-gated Thebe when they fought for the flocks of Oidipous (Oedipus), and some, when it had brought them in ships over the great sea gulf to Troy for rich-haired Helene's sake: there death's end enshrouded a part of them. But to the others father Zeus the son of Kronos gave a living and an abode apart from men, and made them dwell at the ends of earth. And they live untouched by sorrow in the Islands of the Blessed (
+     <em>
+      Nesoi Makarôn
+     </em>
+     ) along the shore of deep swirling Okeanos (Oceanus), happy heroes for whom the grain-giving earth bears honey-sweet fruit flourishing thrice a year, far from the deathless gods, and Kronos (Cronus) rules over them; for the father of men and gods released him from his bonds. And these last equally have honour and glory."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Arctinus of Miletus, The Aethiopis Fragment 1 (from Proclus, CHrestomathia 2)  (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "The Akhaians (Achaeans) [Greeks at Troy] then bury Antilokhos (Antilochus)and lay out the body of Akhilleus (Achilles), while Thetis . . . bewails her son, whom she afterwards catches away from 
+  the pyre and transports to the White Island (
+     <em>
+      nesos Leuke
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Cinaethon of Sparta or Eugammon of Cyrene, The Telegony Fragment 1 (from Proclus, Chrestomathia) (trans. Evelyn-White) (Greek epic C7th or C6th B.C.) :
+     </span>
+     <br/>
+     "Telegonos [son of Kirke (Circe) and Odysseus], on learning his mistake [i.e. he killed his father not realizing his identity], transports his father's body with Penelope and Telemakhos (Telemachus) to his mother's island [Aiaia (Aeaea)], where Kirke makes them immortal, and Telegonos marries Penelope, and Telemakhos Kirke." [Cf. Apollodorus E7. 36 below, where "making them immortal" means they are transferred to Elysion.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Olympian Ode 2. 57 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "When they [people] die, hearts that were void of mercy pay the due penalty, and of this world's sins a judge [i.e. Minos or Rhadamanthys] below the earth holds trial, and of dread necessity declares the word of doom.
+     <br/>
+     But the good, through the nights alike, and through the days unending, beneath the sun's bright ray, tax no the soil with the strength of their hands, nor the broad sea for a poor living, but enjoy a life that knows no toil; with men honoured of heaven, who kept their sworn word gladly, spending an age free from all tears. But the unjust endure pain that no eye can bear to see.
+     <br/>
+     But those who had good courage, three times on either side of death, to keep their hearts untarnished of all wrong, these travel along the road of Zeus to Kronos' (Cronus') tower. There round the Islands of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ), the winds of Okeanos (Oceanus) play, and golden blossoms burn, some nursed upon the waters, others on land on glorious trees; and woven on their hands are wreaths enchained and flowering crowns, under the just decrees of Rhadamanthys, who has his seat at the right hand of the great father, Rhea's husband, goddess who holds the throne highest of all. And Peleus and Kadmos (Cadmus) are of that number, and thither, when her prayers on the heart of Zeus prevailed, his mother brought Akhilleus (Achilles), he who felled Hektor, Troy's pillar invincible, unyielding, and brought death to Kyknos (Cycnus), and the Aithiop (Ethiopian) [Memnon] son of Eos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Dirges Fragment 133 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "But, as for those from whom Persephone [queen of the underworld] shall exact the penalty of their pristine woe, in the ninth year she once more restoreth their souls to the upper sun-light [i.e. reincarnation]; and from these come into being august monarchs, and men who are swift in strength and supreme in wisdom; and, for all future time, men call them sainted heroes."
+     <br/>
+     [N.B. According to Pindar after the death the soul is judged in Haides and, if found guiltless in life, passes to the subterranean Elysian fields. It must return twice again to earth and suffer two more deaths and if it remains virtuous through these three lifetimes, Persephone releases it a fourth time but this time to be born as a king, hero or sage. After this is it is finally freed from the cycle and passes  to the Islands of the Blessed in the river Okeanos--the final resting place of the greatest of souls.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Fragment 50 Europa (from Papyrus) (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Rhadamanthys, he who of my [Europa's] sons is free from death; yet, though he lives, mine eyes behold him not." [I.e. Rhadamanthys was transferred to Elysion in life rather than  death.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Euripides, Bacchae 1346 ff (trans. Vellacott) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Ares shall at last deliver both you [Kadmos (Cadmus)] and Harmonia, and grant you immortal life among the blessed gods." [N.B. The god transforms them into serpents and sends them to the Islands of the Blessed.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 39 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Later on, both he [Kadmos (Cadmus)] and Harmonia were turned into serpents, and were sent by Zeus out to the Elysian field (
+     <em>
+      pedion Elysion
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 110 :
+     </span>
+     <br/>
+     "Poseidon slept with [the Pleiad-nymphe] Kelaino (Celaeno), fathering Lykos (Lycus), whom Poseidon settled in the (
+     <em>
+      Nesoi Makaron
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E5. 5 :
+     </span>
+     <br/>
+     "The [Greek] army took the death of Akhilleus (Achilles) very hard. They buried him--on the Island of Leuke (the White)--with Patroklos (Patroclus), mixing together the two men's bones. It is said that after his death Akhilleus went to live with Medeia on the islands of the Blest (
+     <em>
+      nesoi Makaron
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E6. 29 :
+     </span>
+     <br/>
+     "And [Menelaos] having come to Sparta he regained his own kingdom, and being made immortal by Hera he went to the Elysian Fields with Helene."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca E7. 36 :
+     </span>
+     <br/>
+     "When Telegonos learned from Kirke (CIrce) that he was Odysseus' son, he sailed out in search of his father . . . He took the corpse [of Odysseus] and Penelope to Kirke, and there he married Penelope. Kirke dispatched them both to the Islands of the Blessed (
+     <em>
+      Nesoi Makaron
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 811 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "[Hera addresses Thetis :] ‘When thy son [Akhilleus (Achilles)] shall come to the Elysian plain . . . It is fated that he be the husband of Medea, Aeetes' daughter.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1204 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "And in the Islands of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ) thou [Hektor of Troy] shalt dwell, a mighty hero, defender of the arrows of pestilence, where the sown folk of Ogygus [i.e. the Thebans], persuaded by the oracles of [Apollon] . . . [shall] bring thee [i.e. his bones] to the tower of Kalydnos (Calydnus) [the acropolis of Thebes] and the land of the Aonians to be their saviour." [N.B. According to the ancient scholia the Thebans were struck by a plague and upon consulting the Delphic Oracle told to fetch the bones of Hektor from Troy and ensconse them in the
+     <em>
+      Makaron nesos
+     </em>
+     (Island of the Blessed) of Thebes. According to Hesychius this was the Theban acropolis, so named because it contained the temples of the gods. The account is a late rationalisation of the myth that the early Theban rulers Kadmos and Harmonia, as well as Hektor of Troy, were transferred to Elysium after death.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 81. 3 - 82. 4 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     [In the follow passage Diodorus presents a rather implausable explanation of the myth of the Islands of the Blessed, claiming that these  were actually the Greek islands of Lesbos, Khios (Chios), Samos, Kos (Cos) and Rhodes, which received the appellation
+     <em>
+      makaron
+     </em>
+     "the blessed" from an early king named Makareus.]
+     <br/>
+     "Seven generations after the flood of Deukalion (Deucalion) . . . [his descendant] Makareus (Macareus) came to the island [of Lesbos], and, recognizing the beauty of the land, he made his home in it . . . Moreover, Makareus, essaying to bring under his control the neighbouring islands, dispatched a colony to Khios (Chios) first of all . . . and after this [Samos] . . . The third island he settled was Kos (Cos) . . . and then he dispatched Leukippos (Leucippus), together with a large body of colonists, to Rhodes . . . The islands since they were exposed to the breezes and supplied the inhabitants with wholesome air, and since they also enjoyed good crops, were filled with greater and greater abundance, and they quickly made the inhabitants object of envy. Consequently they have been give the name Islands of the Blessed (
+     <em>
+      Nesoi Makaron
+     </em>
+     ), the abundance they enjoy of good things constituting the reason for the epithet. But there are some who say that they were given the name Islands of the Blessed (
+     <em>
+      Makarioi
+     </em>
+     ) after Makareus, since his sons were the rulers over them. And, speaking generally, the islands we have mentioned have enjoyed a felicity far surpassing that of their neighbours, not only in ancient times but also in our own age; for being as they are the finest all in richness of soil, excellence of location, and mildness of climate, it is with good reason that they are called, what in truth they are, 'blessed.'"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 3. 2. 13 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Strabo presents a rationalistic explanation of the Elysian fields and the Islands of the Blessed identifying these as the plains of Gades (i.e. modern Cadiz in southern Spain) and islands off the Atlantic coast.] The poet [Homer] informed through his inquiries of so many expeditions to the outermost parts of Iberia [i.e. modern Spain], and learning by hearsay about the wealth and the other good attributes of the country--for the Phoinikes [i.e. Phoenicians] were making these facts known--, in fancy placed the abode of the Blest there, and also the Elysian Plain (
+     <em>
+      pedion Elysion
+     </em>
+     ), where Proteus says Menelaos will go and make his home : ‘But the deathless gods will escort thee to the Elysian Plain and the ends of the earth, where is Rhadamanthys of the fair hair, where life is easiest. No snow is there, nor yet great storm, nor ever any rain; but always Okeanos (Oceanus) sendeth forth the breezes of clear-blowing Zephyros.’ For both the pure air and the gentle breezes of Zephyros (the West Wind) properly belong to this country, since the country is not only in the west but also warm; and the phrase 'at the ends of the earth' properly belongs to it, where Haides has been ‘mythically placed,’ as we say. And Homer's citing of Rhadamanthys suggests the region that is near Minos, concerning whom he says : ‘There it was I saw Minos, glorious son of Zeus, holding a golden scepter rendering decisions to the dead.’ Furthermore, the poets who came after Homeros keep dinning into our ears similar stories . . . even calling by name certain Islands of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ), which, as we know, are still now pointed out, not very far from the headlands of Maurousia that lie opposite to Gades [in southern Iberia]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 19. 11 - 13 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[The following pseudo-historical legend identifies the mythical Island of the Blessed with a certain island sacred to Akhilleus (Achilles) at the mouth of the river Danube.] A story too I will tell which I know the people of Krotona (Crotona) [a Greek colony in Italy] tell about Helene. The people of Himera too agree with this account. In the Euxine [Black Sea] at the mouths of the Ister [i.e. the Danube] is an island sacred to Akhilleus. It is called White Island (
+     <em>
+      nesos Leuke
+     </em>
+     ), and its circumference is twenty stades. It is wooded throughout and abounds in animals, wild and tame, while on it is a temple of Akhilleus with an image of him.
+     <br/>
+     The first to sail thither legend says was Leonymos of Krotona [historical figure late C7th, early C6th B.C.]. For when war had arisen between the people of Krotona and the Lokroi (Locri) in Italy, the Lokroi, in virtue of the relationship between them and the Opountians, called upon [the mythical Trojan war hero] Aias (Ajax) son of Oileus to help them in battle. So Leonymos the general of the people of Krotona attacked his enemy at that point where he heard that Aias was posted in the front line. Now he was wounded in the breast, and weak with his hurt came to Delphoi. When he arrived the Pythian priestess sent Leonynios to White Island, telling him that there Aias would appear to him and cure his wound.
+     <br/>
+     In time he was healed and returned from White Island, where, he used to declare, he saw Akhilleus, as well as Aias the son of Oileus and Aias the son of Telamon. With them, he said, were Patroklos (Patroclus) and Antilokhos (Antilochus); Helene was wedded to Akhilleus, and had bidden him sail to Stesikhoros (Stesichorus) at Himera [historical poet], and announce that the loss of his sight was caused by her wrath."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 53. 5 :
+     </span>
+     <br/>
+     "As to Rhadamanthys himself, Homer says, in the talk of Proteus with Menelaus, that Menelaus would go to the Elysian plain, but that Rhadamanthys was already arrived there."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 27 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "After the passage of time, Artemis transferred Iphigeneia [from Tauros in Skythia] to what is called the White Island (
+     <em>
+      Nesos Leuke
+     </em>
+     ) to be with Akhilleus (Schilles) and changed her into an ageless immortal deity, calling her Orsilokhia (Helper of Childbirth) instead of Iphigeneia. She became the companion of Akhilleus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 33 :
+     </span>
+     <br/>
+     "Alkmene (Alcmena) died of old age and the Heraklidai (Heraclidae, Sons of Herakles) performed her obsequies. They dwelled by the Elektra Gate [at Thebes] where Herakles led his public life. Zeus sent Hermes, ordering him to steal Alkmene's body and to take her to the Isles of the Blessed (
+     <em>
+      Nesoi Makaron
+     </em>
+     ) and give her as wife to Rhadamanthys. Obeying, Hermes stole away Alkmene leaving a stone instead of her in the coffin. 
+  When the Heraklidai were carrying the casket, they found it to be very heavy. They put it on the ground and took off the lid. They found a stone instead of Alkmene. They took this and set it up in the grove where now stands the heroon of Alkmene in Thebes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 2. 549 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "He [the hero Memnon] in Haides' mansions, or perchance amid the Blessed on the Elysian Plain, laugheth."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 743 ff :
+     </span>
+     <br/>
+     "Neoptolemos, whom after death to the Elysian Plain they [his immortal horses Xanthos and Balios] were to bear, unto the Blessed Land, by Zeus' decree."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 14. 223 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "[The ghost of Akhilleus (Achilles) visits his son Neoptolemos in a dream, then returns to the Elysian fields :] Then as a wind-breath swift he [the ghost] fleeted thence, and came to the Elysian Plain (
+     <em>
+      pedion Elysion
+     </em>
+     ), whereto a path to heaven reacheth, for the feet ascending and descending of the Blest."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 5. 3 (trans. Conybeare) (Greek biography C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "They say that the Islands of the Blessed are bounded by the limits of Libya and emerge toward the uninhabited promontory [i.e. off the Atlantic coast of Africa]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ptolemy Hephaestion, New History Book 4 (summary from Photius, Myriobiblon 190) (trans. Pearse) (Greek mythographer C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "The fourth [book of Hephaestion] recounts that . . . there was born of Helene and Akhilleus (Achilles) in the Islands of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ) a winged child named Euphorion after the fertility of this land."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 628 - 897 :
+      <br/>
+     </span>
+     [For Virgil's description of the subterranean Elysium see the section "Afterlife Realm of the Virtuous Dead" below.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 12. 619 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "He [Achilles] never knows the Inania Tartara (Void of Hell)." [I.e. He never knows Haides because he was transferred at death to Elysium.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 11. 61 ff :
+     </span>
+     <br/>
+     "Forth into the winds his spirit [the bard Orpheus after his death] passed . . . The ghost (
+     <em>
+      umbra
+     </em>
+     ) of Orpheus passed to the Underworld, and all the places that he's seen before he recognized again and, searching through the Elysian fields, he found Eurydice and took her in his arms with leaping heart. There hand in hand they stroll, the two together; sometimes he follows as she walks in front, sometimes he goes ahead and gazes back--no danger now--at his Eurydice."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica  1. 648 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[The helmsman of the Argo dies during the voyage of the Argonauts :] Tiphys, never henceforth doest deserve that any mother pray that thou mayest find peace in Elysium and among the spirits of the holy dead."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Servius, On Virgil's Eclogues 7. 61 (Roman scholia C4th A.D.) :
+     </span>
+     <br/>
+     According to Servius the eponymous nymph of the White Island was Leuke (Leuce), a daughter of Okeanos (Oceanus), who was abducted by Haides. After her death she was transformed into a white poplar tree in Elysium. The white poplar was sacred to Haides and when Herakles returned form the underworld he was crowned with a wreath of poplar leaves.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 19. 158 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "If you possess the flowery court of Rhadamanthys, and pick your dainty way in the groves and meadows of Elysion (Elysium)."
+    </p>
+    <hr/>
+    <h3>
+     AFTERLIFE REALM OF  THE VIRTUOUS DEAD : THE SUBTERRANEAN ELYSIUM
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pindar, Dirges Fragment 129 (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "For them [in Elysium] the sun shineth in his strength, in the world below, while here 'tis night; and, in meadows red with roses, the space before their city is shaded by the incense-tree, and is laden with golden fruits. 
+  Some of them delight themselves with horses and with wrestling; others with draughts, and with lures; while beside them bloometh the fair flower of perfect bliss. And o'er that lovely land fragrance is ever shed, while they mingle all manner of incense with the far-shining fire on the altar of the gods. From the other side sluggish streams of darksome night belch forth a boundless gloom [the adjacent realm of Haides]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Dirges Fragment 133  (from Plato Meno) :
+     </span>
+     <br/>
+     "But, as for those from whom Persephone [queen of the underworld] shall exact the penalty of their pristine woe, in the ninth year she once more restoreth their souls to the upper sun-light; and from these come into being august monarchs, and men who are swift in strength and supreme in wisdom; and, for all future time, men call them sainted heroes."
+     <br/>
+     [N.B. According to Pindar after the death the soul is judged in Haides and, if found guiltless in life, passes to the subterranean Elysian fields. It must return twice again to earth and suffer two more deaths and if it remains virtuous through these three lifetimes, Persephone releases it a fourth time but this time to be born as a king, hero or sage. After this is it is finally freed from the cycle and passes  to the Islands of the Blessed in the river Okeanos--the final resting place of the greatest of souls.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Frogs 316 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "[Comedy-Play in which Dionysos encounters a chorus of Eleusinian Initiates in Haides on their way to Elysium :]
+     <br/>
+     Chorus [of the shades of Eleusinian Initiates] (in the distance) : O lakkhos (Iacchus)! O lakkhos! O Iakkhos!
+     <br/>
+     Xanthias : I have it, master : 'tis those blessed Mystics [i.e. souls of Mystery initiates], of whom he told us, sporting hereabouts. They sing the Iakkhos which Diagoras made . . .
+     <br/>
+     Chorus : O Iakkhos! power excelling, here in stately temples dwelling. O Iakkhos! O lakkhos! Come to tread this verdant level, come to dance in mystic revel, come whilst round thy forehead hurtles many a wreath of fruitful myrtles, come with wild and saucy paces mingling in our joyous dance, pure and holy, which embraces 
+  all the charms of all the Kharites (Charites, Graces), when the mystic choirs advance. . . . Come, arise, from sleep awaking, come the fiery torches shaking, O Iakkhos! O Iakkhos! . . . 
+  Call we now the youthful god [Iakkhos], call him hither without delay, him who travels amongst his Chorus, dancing along on the Sacred Way. O, come with the joy of thy festival song, O, come to the goddess, O, mix with our throng untired, though the journey be never so long. O Lord of the frolic and dance, lakkhos, beside me advance! For fun, and for cheapness, our dress thou hast rent, through thee we may dance to the top of our bent, reviling, and jeering, and none will resent. O Lord of the frolic and dance, lakkhos, beside me advance! A sweet pretty girl I observed in the show, her robe had been torn in the scuffle, and lo, there peeped through the tatters a bosom of snow. O Lord of the frolic and dance, lakkhos, beside me advance!"
+     <br/>
+     [N.B. Iakkhos is the Eleusinian "Dionysos" or "Hermes" who leads the souls of  Eleusinian initiates through the underworld to the Elysian plains.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Frogs 449 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "[The ghosts of the Eleusinian Initiates sing :] Now haste we  to the roses [of Elysium], and the meadows full of posies, now haste we to the meadows in our own old way, in choral dances blending, in dances never ending, which only for the holy the Moirai (Moirae, Destinies) array."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Apology 40e (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Sokrates (Socrates) : If death is, as it were, a change of habitation from here to some other place, and if what we are told is true, that all the dead are there, what greater blessing could there be, judges? For if a man when he reaches the other world, after leaving behind these who claim to be judges [i.e. the Athenian judges who tried Sokrates], shall find those who are really judges who are said to sit in judgment there, Minos and Rhadamanthus, and Aiakos (Aeacus) and Triptolemos, and all the other demigods who were just men in their lives, would the change of habitation be undesirable? Or again, what would any of you give to meet with Orpheus and Musaios (Musaeus) and Hesiod and Homer? I am willing to die many times over, if these things are true; for I personally should find the life there wonderful, when I met Palamedes or Aias (Ajax), the son of Telamon, or any other men of old who lost their lives through an unjust judgement, and compared my experience with theirs. I think that would not be unpleasant. And the greatest pleasure would be to pass my time in examining and investigating the people there [i.e. in Elysium], as I do those here, to find out who among them is wise and who thinks he is when he is not. What price would any of you pay, judges, to examine him who led the great army against Troy, or Odysseus, or Sisyphos, or countless others, both men and women, whom I might mention? To converse and associate with them and examine them would be immeasurable happiness. At any rate, the folk there do not kill people for it; since, if what we are told is true, they are immortal for all future time, besides being happier in other respects than men are here."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Gorgias 523a  (trans. Lamb) :
+     </span>
+     <br/>
+     "Now in the time of Kronos (Cronus) there was a law concerning mankind, and it holds to this very day amongst the gods, that every man who has passed a just and holy life departs after his decease to the Isles of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ), and dwells in all happiness apart from ill; but whoever has lived unjustly and impiously goes to the dungeon of requital and penance which, you know, they call Tartaros (Tartarus). Of these men there were judges in Kronos' time, and still of late in the reign of Zeus--living men to judge the living upon the day when each was to breathe his last; and thus the cases were being decided amiss. So Plouton [Haides] and the overseers from the Isles of the Blest came before Zeus with the report that they found men passing over to either abode undeserving. Then spake Zeus : ‘Nay,’ said he, ‘I will put a stop to these proceedings. The cases are now indeed judged ill and it is because they who are on trial are tried in their clothing, for they are tried alive. Now many,’ said he, ‘who have wicked souls are clad in fair bodies and ancestry and wealth, and at their judgement appear many witnesses to testify that their lives have been just. Now, the judges are confounded not only by their evidence but at the same time by being clothed themselves while they sit in judgement, having their own soul muffled in the veil of eyes and ears and the whole body. Thus all these are a hindrance to them, their own habiliments no less than those of the judged.’
+     <br/>
+     ‘Well, first of all,’ he said, ‘we must put a stop to their foreknowledge of their death; for this they at present foreknow. However, Prometheus has already been given the word to stop this in them. Next they must be stripped bare of all those things before they are tried; for they must stand their trial dead. Their judge also must be naked, dead, beholding with very soul the very soul of each immediately upon his death, bereft of all his kin and having left behind on earth all that fine array, to the end that the judgement may be just. Now I, knowing all this before you, have appointed sons of my own to be judges; two from Asia, Minos and Rhadamanthys, and one from Europe, Aiakos (Aeacus). These, when their life is ended, shall give judgement in the meadow at the dividing of the road, whence are the two ways leading, one to the Isles of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ), and the other to Tartaros. And those who come from Asia shall Rhadamanthys try, and those from Europe, Aiakos; and to Minos I will give the privilege of the final decision, if the other two be in any doubt; that the judgement upon this journey of mankind may be supremely just . . .’
+     <br/>
+     When a man's soul is stripped bare of the body, all its natural gifts, and the experiences added to that soul as the result of his various pursuits, are manifest in it. So when they have arrived in presence of their judge, they of Asia before Rhadamanthys, these Rhadamanthys sets before him and surveys the soul of each, not knowing whose it is . . . [and perceiving a wicked soul, he sends it to Tartaros.]
+     <br/>
+     Sometimes, when he discerns another soul that has lived a holy life in company with truth, a private man's or any others . . . he is struck with admiration and sends it off to the Isles of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ). And exactly the same is the procedure of Aiakos : each of these two holds a rod in his hand as he gives judgement; but Minos sits as supervisor, distinguished by the golden scepter that he holds, as Odysseus in Homer tells how he saw him--‘Holding a golden scepter, speaking dooms to the dead.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Meno 81a ff  (trans. Lamb) :
+     </span>
+     <br/>
+     "Sokrates : There were certain priests and priestesses who have studied so as to be able to give a reasoned account of their ministry [i.e. the priests of the Mysteries]; and Pindar also and many another poet of heavenly gifts. As to their words, they are these : mark now, if you judge them to be true. They say that the soul of man is immortal, and at one time comes to an end, which is called dying, and at another is born again, but never perishes [i.e. the soul is reincarnated]. Consequently one ought to live all one's life in the utmost holiness. ‘For from whomsoever Persephone shall accept requital for ancient wrong, the souls of these she restores in the ninth year to the upper sun again; from them arise glorious kings and men of splendid might and surpassing wisdom, and for all remaining time are they called holy heroes amongst mankind.’" [N.B. "Ancient wrongs"--Greek
+     <em>
+      penthos
+     </em>
+     "affliction"--means something like "fall" or "sin" in the language of the Mystics. These lines probably come from one of Pindar's
+     <em>
+      Dirges
+     </em>
+     . The "holy heroes" are the best of souls who dwell in the Islands of the Blessed--the penultimate Elysian realm.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Phaedo 107c (trans. Fowler) :
+     </span>
+     <br/>
+     "Sokrates : But now, since the soul is seen to be immortal, it cannot escape from evil or be saved in any other way than by becoming as good and wise as possible. For the soul takes with it to the other world nothing but its education and nurture, and these are said to benefit or injure the departed greatly from the very beginning of his journey thither. And so it is said that after death, the tutelary genius (
+     <em>
+      daimon
+     </em>
+     ) of each person, to whom he had been allotted in life, leads him to a place where the dead are gathered together [i.e. the
+     <em>
+      daimon
+     </em>
+     guide is Plato's equivalent of Hermes Psykhopompos (Guide of the Dead)]; then they are judged [i.e. by the Judges of the Dead] and depart to the other world with the guide whose task it is to conduct thither those who come from this world; and when they have there received their due and remained through the time appointed, another guide brings them back after many long periods of time [i.e. they are reincarnated]. And the journey is . . . neither simple nor single, for if it were, there would be no need of guides, since no one could miss the way to any place if there were only one road. But really there seem to be many forks of the road and many windings; this I infer from the rites and ceremonies practiced here on earth [e.g. in the Eleusinian Mysteries]. Now the orderly and wise soul follows its guide and understands its circumstances . . . The soul which is impure and has done wrong, by committing wicked murders or other deeds akin to those . . . is carried by necessity to its fitting habitation [i.e. the prison of Tartaros]. But the soul that has passed through life in purity and righteousness, finds gods for companions and guides, and goes to dwell in its proper dwelling [i.e. the Elysian fields]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Phaedo 113d  ff :
+     </span>
+     <br/>
+     "Now when the dead have come to the place where each is led by his genius (
+     <em>
+      daimon
+     </em>
+     ) [i.e. by Plato's equivalent of Hermes Psykhopompos (Guide of the Dead)], first they are judged and sentenced [i.e. by the Judges of the Dead], as they have lived well and piously, or not. And those who are found to have lived neither well nor ill, go to the Akheron (Acheron) and, embarking upon vessels provided for them [i.e. the equivalent of Kharon's (Charon's) skiff], arrive in them at the lake; there they dwell and are purified [i.e. by the equivalent of the Erinyes], and if they have done any wrong they are absolved by paying the penalty for their wrong doings [i.e. in Tartaros], and for their good deeds they receive rewards, each according to his merits [i.e. in Elysium]. But those who appear to be incurable, on account of the greatness of their wrongdoings . . . are cast by their fitting destiny into Tartaros, whence they never emerge . . .
+     <br/>
+     But those who are found to have excelled in holy living are freed from these regions within the earth and are released as from prisons; they mount upward into their pure abode and dwell upon the earth [i.e. in the Islands of the Blessed, the higher Elysium]. And of these, all who have duly purified themselves by philosophy live henceforth altogether without bodies, and pass to still more beautiful abodes which it is not easy to describe, nor have we now time enough."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Theaetetus 176a (trans. Fowler) :
+     </span>
+     <br/>
+     "Sokrates : 
+  Through their unrighteous acts they [men] are made like the one and unlike the other. They therefore pay the penalty for this by living a life that conforms to the pattern they resemble; and if we tell them that, unless they depart from their ‘cleverness,’ the blessed place that is pure of all things evil [i.e. Elysium] will not receive them after death, and here on earth they will always live the life like themselves--evil men associating with evil."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 468e (trans. Shorey)  :
+     </span>
+     <br/>
+     "Of those who die on campaign, if anyone's death has been especially glorious, shall we not, to begin with, affirm that he belongs to the Golden Race (
+     <em>
+      genos khryseos
+     </em>
+     ) . . . And shall we not believe Hesiod who tells us that when anyone of this race dies, so it is that they become ‘Hallowed spirits dwelling on earth, averters of evil, guardians watchful and good of articulate-speaking mortals’ . . . We will inquire of Apollon, then, how and with what distinction we are to bury men of more than human, of divine, qualities, and deal with them according to his response . . . And ever after we will bestow on their graves the tendance and worship paid to spirits divine. And we will practice the same observance when any who have been adjudged exceptionally good in the ordinary course of life die of old age or otherwise." [N.B. Heroes, like the men of the Golden Age, are transferred directly to the higher Elysian realm.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 540b-c  :
+     </span>
+     <br/>
+     "[Plato's ideal state is ruled by wise philosophers are transferred to the Elysian fields as demi-gods at death :] Throughout the remainder of their lives, each in his turn, devoting the greater part of their time to the study of philosophy, but when the turn comes for each, toiling in the service of the state and holding office for the city's sake, regarding the task not as a fine thing but a necessity; and so, when each generation has educated others like themselves to take their place as guardians of the state, they shall depart to the Islands of the Blest and there dwell. And the state shall establish public memorials and sacrifices for them as to divinities if the Pythian oracle approves or, if not, as to
+     <em>
+      daimones
+     </em>
+     and godlike men . . . And on the women too . . . for you must not suppose that my words apply to the men more than to all women who arise among them endowed with the requisite qualities."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Symposium 179e ff (trans. Lamb) :
+     </span>
+     <br/>
+     "Whereas Akhilleus (Achilles), son of Thetis, they [the gods] honored and sent to his place in the Isles of the Blest (
+     <em>
+      makarôn nêsoi
+     </em>
+     ), because having learnt from his mother that he would die as surely as he slew Hektor, but if he slew him not, would return home and end his days an aged man, he bravely chose to go and rescue his lover Patroklos (Patroclus), avenged him, and sought death not merely in his behalf but in haste to be joined with him whom death had taken. For this the gods so highly admired him that they gave him distinguished honor, since he set so great a value on his lover."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Epigram on the Death of Philicus (trans. Page, Vol. Select Papyri III, No. 106) (Greek elegiac C3rd B.C.) :
+     </span>
+     <br/>
+     "Go your path, blest wayfarer, go your path, Philikos (Philicus), to see the fair land of the god-fearing dead. Your head crowned with ivy, rolling forth your lines of lovely song, begone with revel to the Islands of the Blest (
+     <em>
+      nêsoi makarôn
+     </em>
+     )."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Poseidippus, Elegy on Old Age (trans. Page, Vol. Select Papyri III, No. 114) (Greek elegiac C2nd B.C.) :
+     </span>
+     <br/>
+     "I am fain in old age to go the mystic (
+     <em>
+      mystikos
+     </em>
+     ) path to Rhadamanthys [i.e. to death], missed by my people and all the community."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Anonymous, Epitaphs for Eupreprius (trans. Page, Vol. Select Papyri III, No. 117 (2)) (Greek elegiac C3rd A.D.) :
+     </span>
+     <br/>
+     "His soul is in the gatherings of the blessed (
+     <em>
+      agora makarôn
+     </em>
+     ). Never yet went such a man to Akheron (Acheron) [i.e. Haides] : for holy men, Elysion (Elysium) is the end. To live there was the lot of he won of old from some blessed destiny. And it is said that good men do not die."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 5. 731 ff (trans. Fairclough) (Roman epic C1st B.C.) :
+     </span>
+     <br/>
+     "[The ghost of Anchises appears to his son Aeneas in a dream :] ‘Approach the nether halls of Dis [Haides], and through the depths of Avernus seek, my son, a meeting with me. For impious Tartarus, with its gloomy shades, holds me not, but I dwell in Elysium amid the sweet assemblies of the blest. Hither, with much blood of black sheep, the pure Sibylla (Sibyl) will lead you.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 530 ff :
+     </span>
+     <br/>
+     "[The Sibyl guides Aeneas through the underworld :] ‘Here is the place, where the road parts : there to the right, as it runs under the walls of great Dis [Haides], is our way to Elysium, but the left wreaks the punishment of the wicked, and send them on to pitiless Tartarus.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Aeneid 6. 628 - 897 :
+     </span>
+     <br/>
+     "[The Sibyl guides Aeneas through the underworld to the Elysian plains :] The aged priestess of Phoebus . . . : ‘But come now, hasten your step and fulfil the task in hand. Let us hasten. I descry the ramparts reared by Cyclopean forges and the gates with fronting arch, where they bid us lay the appointed gifts [i.e. these are the gates of Elysium].’ She ended, and, advancing side by side along the dusky way, they haste over the mid-space and draw near the doors. Aeneas wins the entrance, sprinkles his body with fresh water, and plants the bough full on the threshold.
+     <br/>
+     This at length performed and the task of the goddess fulfilled, they came to a land of joy, the pleasant lawns and happy seats of the Blissful Groves. Here an ampler ether clothes the meads with roseate light, and they know their own sun, and stars of their own. Some disport their limbs on the grassy wrestling ground, vie in sports, and grapple on the yellow sand; some tread the rhythm of a dance and chant songs. There, too, the long-robed Thracian priest [Orpheus] matches their measures with the seven clear notes, striking the lyre now with his fingers, now with is ivory quill. Here is Teucer's [of Troy's] ancient line, family most fair, high-souled heroes born in happier years--Ilus and Assaracus and Dardanus, Troy's founder. From afar he marvels at their phantom arms and chariots. Their lances stand fixed in the ground, and their unyoked steeds browse freely over the plain. The same pride in chariot and arms that was theirs in life, the same care in keeping sleek steeds, attends them now that they are hidden beneath the earth. Others he sees, to right and left, feasting on the sward, and chanting in chorus a joyous paean within a fragrant laurel grove, from where the full flood of the Eridanus rolls upward through the forest.
+     <br/>
+     Here is the band of those who suffered wounds, fighting for their country; those who in lifetime were priests and pure, good bards, whose songs were meet for Phoebus [Apollon]; or they who ennobled life by arts discovered and they who by service have won remembrance among men--the brows of all bound with headbands white as snow. These, as they streamed round, the Sibylla thus addressed, Musaeus [a poet of the Orphic Mysteries] before all; for he is centre of that vast throng that gazes up to him, as with shoulders high he towers aloft : ‘Say, happy souls, and you, best of bards, what land, what place holds Anchises? For his sake are we come, and have sailed across the great rivers of Erebus.’ And to her the hero thus made brief reply : ‘None has a fixed home. We dwell in shady groves, and live on cushioned riverbanks and in meadows fresh with streams. But if the wish in your heart so inclines, surmount this ridge, and soon I will set you on an easy path.’ He spoke and stepped on before, and from above points out the shining fields. Then they leave the mountaintops.
+     <br/>
+     But deep in a green vale father Anchises was surveying with earnest thought the imprisoned souls that were to pass to the light above and, as it chanced, was counting over the full number of his people and beloved children, their fates and fortunes, their works and ways. And as he saw Aeneas coming towards him over the sward, he eagerly stretched forth both hands, while tears streamed from his eyes and a cry fell from his lips . . . [he greets his son.]
+     <br/>
+     Meanwhile, in a retired vale, Aeneas sees a sequestered grove and rustling forest thickets, and the river Lethe [the river of forgetfulness] drifting past those peaceful homes. About it hovered peoples and tribes unnumbered; even as when, in the meadows, in cloudless summertime, bees light on many-hued blossoms and stream round lustrous lilies and all the fields murmur with the humming. Aeneas is startled by the sudden sight and, knowing not, asks the cause--what is that river yonder, and who are the men thronging the banks in such a host? Then said father Anchises : ‘Spirits they are, to whom second bodies are owed by Fate, and at the water of Lethe's stream they drink the soothing draught and long forgetfulness. These in truth I have long yearned to tell and show you to your face, yea, to count this, my children's seed, that so you may rejoice with me the more at finding Italy.’ ‘But, father, must we think that any souls pass aloft from here to the world above and return a second time to bodily fetters? What mad longing for life possesses their sorry hearts?’ ‘I will surely tell you, my son, and keep you not in doubt,’ Anchises replies and reveals each truth in order.
+     <br/>
+     ‘First, know that heaven and earth and the watery plains the moon's bright sphere and Titan's star, a spirit within sustains; in all the limbs mind moves the mass and mingles with the mighty frame. Thence springs the races of man and beast, the life of winged creatures, and the monsters that ocean bears beneath his marble surface. Fiery is the vigour and divine the source of those seeds of life, so far as harmful bodies clog them not, or earthly limbs and frames born but to die. Hence their fears and desires, their griefs and joys; nor do they discern the heavenly light, penned as they are in the gloom of their dark dungeon. Still more! When life's last ray has fled, the wretches are not entirely freed from all evil and all the plagues of the body; and it needs must be that many a taint, long ingrained, should in wondrous wise become deeply rooted in their being. Therefore are they schooled with punishments, and pay penance for bygone sins. Some are hung stretched out to the empty winds; from others the stain of guilt is washed away under swirling floods or burned out by fire till length of days, when time's cycle is complete, has removed the inbred taint and leaves unsoiled the ethereal sense and pure flame of spirit: each of us undergoes his own purgatory. Then we are sent to spacious Elysium, a few of us to possess the blissful fields. All these that you see, when they have rolled time's wheel through a thousand years, the god summons in vast throng to Lethe's river, so that, their memories effaced, they may once more revisit the vault above and conceive the desire of return to the body.’
+     <br/>
+     Anchises paused, and drew his son and with him the Sibylla into the heart of the assembly and buzzing throng, then chose a mound whence he might scan face to face the whole of the long procession and note their faces as they came. ‘Now then, the glory henceforth to attend the Trojan race, what children of Italian stock are held in store by fate, glorious souls waiting to inherit our name, this shall I reveal in speech and inform you of your destiny . . .’ [Anchises points out to Aeneas the souls of great Roman kings and heroes yet to be born.] Thus they wander at large over the whole region in the wide airy plain, taking note of all . . .
+     <br/>
+     Two gates of Sleep there are [in Elysium] , whereof the one, they say, is horn and offers a ready exit to true shades, the other shining with the sheen of polished ivory, but delusive dreams issue upward through it from the world below. Thither Anchises, discoursing thus, escorts his son and with him the Sibylla, and sends them forth by the ivory gate : Aeneas speeds his way to the ships and rejoins his comrade."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 39 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Greece is enchanted by the Elysian fields, and Proserpine [Persephone] reclaimed [by Pluto-Hades] cares not to follow her mother [Ceres-Demeter]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 4. 7 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "For two abodes have been appointed along the foul river [Acheron], and the whole host rows this way or that. One passage conveys the adulterous Clytemnestra, and carries the Cretan queen [Pasiphae] whose guile contrived the wooden monstrosity of a cow. But see, the other group are hurried off in a garlanded vessel, where a happy breeze gently fans the roses of Elysium."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 4. 36 (trans. Bostock) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "Opposite to Celtiberia are a number of islands, by the Greeks called Cassiterides, in consequence of their abounding in tin: and, facing the Promontory of the Arrotrebae, are the six Islands of the Gods, which some persons have called the Fortunate Islands." [N.B. Pliny identifies the mythical Islands of the Blessed with actual but unidentified islands in the Atlantic Ocean.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 1. 295 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[The ghost] whom by the law of Erebus [Haides] profound the further bank of Lethe [i.e. Elysium] hath not yet received."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 3. 107 ff :
+     </span>
+     <br/>
+     "[The boy Maeon kills himself in answer to an oracle that his death would avert sack of Thebes. As a reward for his piety he is sent to Elysium, a place which the ghosts of his countrymen were banned from since the land was under the curse of the Erinyes.] Now far removed from Tartarean Avernus go thou [Maeon]  and roam the Elysian regions, where the sky admits not Ogygian souls  . . . thy raiment and thy limbs [of his corpse] endure, left inviolate by gory beasts, and the forest and the birds with sorrowing awe watch o'er thee, as thou liest beneath the naked sky."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 410 ff :
+     </span>
+     <br/>
+     "[Tiresias invokes the spirits of the dead in the rites of necromancy :] ‘Haste ye all together, nor let there be fore the Shades but one fashion of return to the light; do thou, daughter of Perses [Hecate], and the cloud-wrapt Arcadian [Hermes] with rod of power lead in separate throng the pious denizens of Elysium; but for those who died in crime, who in Erebus, as among the seed of Cadmus, are most in number, be thou their leader, [Erinys] Tisiphone.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 1 ff :
+     </span>
+     <br/>
+     "[The seer Amphiaraus is swallowed up by the earth drawn alive into the realm of Haides :] When on a sudden the prophet [Amphiaraus] fell among the pallid Manes (Shades), and burst into the homes of death and the mysteries of the deep-sunken realm, and affrighted the Manes (Ghosts) with his armed corpse . . . Not yet had the Eumenis [Erinys] met and purified him with branch of yew, not had Proserpine [Persephone] marked him on the dusky door-post as admitted to the company of the dead; nay his presence surprised the very distaff of the Fatae [Moirai, fates], and not till in terror beheld the augur did the Parcae (Fates) [Moirai] break the thread. At the noise of his coming the care-free Elysian folk gazed round about them, and they whom in the remoter gulf a deeper night and a blind region of denser Shades o'erwhelms."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 190 ff :
+     </span>
+     <br/>
+     "Hath the lord of Avernus [Hades] in pity granted thee [the hero Amphiaraus] to watch Elysian birds in the groves of the blessed?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 824 ff :
+     </span>
+     <br/>
+     "Beneath the rocks of Aetna in Sicily Diana [Artemis] and bold Pallas [Athene] and [Persephone] the consort of the Elysian monarch shine forth among the Nymphae (Nymphs) of Enna."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 2. 1. 195 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "Pacing the shores of Lethe's stream, he [Mercury-Hermes guide of souls] silently drew near him [the ghost of the dead boy] and plucked at his garment's edge . . . [and] raised him from the ground and fastened him about his mighty shoulders, and a long while carried him rejoicing upon his arm, and offered him such gifts as kindly Elysium bears, sterile boughs and songless birds and pale flowers with bruised blossoms. Nor does he forbid him to remember thee, but fondly blends heart h with hearth, and takes part in turn in the affection of the lad."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 3. 21 ff :
+     </span>
+     <br/>
+     "Exult, ye placid Ghosts (Manes) by the streams of Lethe, rejoice, Elysian abodes! Enwreathe the shrines, and let festal altars gladden the place groves. 'Tis a happy shade that is coming, ay, too happy, for his son laments him. Avaunt, ye hissing Furiae (Furies) [Erinyes], avaunt the threefold guardian [Cerberus]! Let the long road lie clear for the peerless spirits. Let him come, and approach the awful throne of the silent monarch [Pluto-Haides] and pay his last due of gratitude and anxiously request for his son a long life."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 4. 37 ff :
+     </span>
+     <br/>
+     "I was near snatched away to the Stygian shades, and already heard close at hand the stream of Lethe [i.e. the border of Elysium]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 3. 24 ff :
+     </span>
+     <br/>
+     "In the secluded grassy meads of Lethe [i.e. Elysium], among gatherings of heroes and spirits of the blest."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 1. 192 ff :
+     </span>
+     <br/>
+     "So shall I behold neither Furiae (Furies) [Erinyes] nor dire Tartarus, but be admitted, a blessed soul, to Elysian regions."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 1. 253 ff :
+     </span>
+     <br/>
+     "Whenever a shade approaches that has won the praise of a loving spouse, Proserpine [Persephone] bids summon joyful torches, and the heroines of old come forth from hallowed bowers and scatter the shades of gloom in radiant light, and strew garlands and Elysian flowers before her."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 3. 24 ff :
+     </span>
+     <br/>
+     "In the secluded grassy meads of Lethe [i.e. Elysium], among gatherings of heroes and spirits of the blest, thou dost attend the Maeonian and Ascraean sages [Homer and Hesiod], thyself no feebler shade, and makest music in thy turn and minglest thy song with theirs."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 5. 3. 260 ff :
+     </span>
+     <br/>
+     "[A prayer for a father recently passed away wishing him speedy passage to Elysium :] The gate of death was not dark for thee: gentle was thy passing . . . a tranquil unconsciousness and death  that counterfeited slumber set free thy soul, and bore thee to Tartarus [Haides] under the false semblance of repose. Ah! What groans I uttered then! . . . What lamentation did I make! . . . 
+  But do ye, O monarchs of the dead and thou, Ennean Juno [Persephone], if ye approve my prayer, send far away [from the shade of my father] the Eumenides' [Erinyes'] brands and snaky locks! Let the warder of the gate [Cerberus] make no fierce barking, let distant vales conceal the Centauri (Centaurs) and Hydra's multitude and Scylla's monstrous horde [i.e. the other monstrous guardians of Haides], and scattering the throng [i.e. other ghosts],--let the ferryman of the dead [Charon] invite to the bank the aged Shade (Mane), and lay him gently to rest amid the grasses. Go, spirits of the blest and troops of Grecian bards, shower Lethaean garlands on the illustrious soul [i.e. the Lethe was the river-border of Elysium], and point him to the [Elysian] grove where no Erinys disturbs, where there is day like ours and air most like to the air of heaven. Thence mayst thou pass to where the better gate of horn o'ercomes the envious ivory, and in the semblance of a dream teach me what thou wert ever wont to teach  [i.e. true dreams pass through the gate of horn in the underworld]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 9. 22 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "By now Sol (the Sun) [Helios] had glided down beneath Oceanus, and was giving light to the regions of the world below the earth [i.e. subterranean Elysium]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 11. 222 ff :
+     </span>
+     <br/>
+     "[Isis appears in the guise of Persephone and addresses the new Initiate to her Mysteries :] ‘You will dwell in the Elysian fields, while I, whom you now behold, shine brightly in the darkness of Acheron and reign in the inner Stygian depths.’"
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Makaria (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Makaria (Macaria, Blessed). Death. A daughter of Haides. And a proverb : ‘Go to blessedness,’ instead of go to misery and utter destruction. Or ‘Go to blessedness’ is said by euphemism. Since even the dead are called ‘blessed ones.’" [N.B. Makaria is presumably the goddess of
+     <em>
+      Elysion
+     </em>
+     which was also known as
+     <em>
+      Makaron
+     </em>
+     , "of the Blessed." Cf. Leuke,in Servius above who was another personification of the realm.]
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Cypria Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Euripides, Bacchae
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Frogs
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Apology
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Gorgias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Meno
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Phaedo
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Theaetetus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Poseidippus, Fragments
+      <span class="sources-detail">
+       - Greek Elegiac C2nd B.C.
+      </span>
+     </li>
+     <li>
+      Greek Papyri III Anonymous, Epigrams
+      <span class="sources-detail">
+       - Greek Elegiac C3rd B.C. - C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Ptolemy Hephaestion, New History
+      <span class="sources-detail">
+       - Greek Mythography C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Colluthus.html">
+       Colluthus, The Rape of Helen
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th - 6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Virgil, Aeneid
+      <span class="sources-detail">
+       - Latin Epic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Servius, Ad Virgil's Aeneid
+      <span class="sources-detail">
+       - Latin Scholiast C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     ELYSIUM SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE REALM OF ELYSIUM
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Qualities
+       </th>
+       <td>
+        Paradise of the Blessed Dead
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Location
+       </th>
+       <td>
+        River Oceanus or Hades
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Other Names
+       </th>
+       <td>
+        Islands of the Blessed, the White Island
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     MYTHIC REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Elysium, Home of the Blessed Dead
+     </li>
+     <li>
+      <a href="Haides.html">
+       Hades I, Realm of the Dead (Archaic)
+      </a>
+     </li>
+     <li>
+      <a href="Haides2.html">
+       Hades II, Realm of the Dead (Mystic)
+      </a>
+     </li>
+     <li>
+      <a href="Okeanos.html">
+       Oceanus, Earth-Encircling River
+      </a>
+     </li>
+     <li>
+      <a href="Olympos.html">
+       Olympus, Home of the Gods
+      </a>
+     </li>
+     <li>
+      <a href="Tartaros.html">
+       Tartarus I, Pit Beneath the Earth
+      </a>
+     </li>
+     <li>
+      <a href="Tartaros2.html">
+       Tartarus II, Dungeon of the Damned
+      </a>
+     </li>
+    </ul>
+    <h2>
+     LEGENDARY REALMS INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="../Phylos/Atlantes.html">
+       Atlantis, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Kosmos/Erytheia.html">
+       Erytheia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Heliades.html">
+       Heliades, Land of the Far South
+      </a>
+     </li>
+     <li>
+      <a href="../Titan/Hesperides.html">
+       Hesperia, Land of the Far West
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Hyperborea.html">
+       Hyperborea, Land of the Far North
+      </a>
+     </li>
+     <li>
+      <a href="../Phylos/Pankhaia.html">
+       Panchaea, Land of the Far South
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

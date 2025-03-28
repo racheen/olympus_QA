@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PHOENIX (Phoinix) - Fire-Bird of Greek &amp; Roman Legend
+  </title>
+  <meta content="In ancient Greek and Roman legend the Phoenix was a fabulous, red-gold feathered bird whose body emitted rays of pure sunlight. The creature lived for five hundred years and feasted upon Arabian balsalm and frankinsense. When it died a new Phoenix emerged fully-grown from its body. It then encased its parent in an egg of myrrh and conveyed it to the great Egyptian temple of the Sun-God in Heliopolis." name="description"/>
+  <meta content="Phoenix, Phoinix, Greek mythology, ancient Greek legend, ancient Roman legend, Egyptian fire-bird, Arabian fire-bird" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-monster.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/fantastic-creatures.html">
+      Legendary Creatures
+     </a>
+     &gt;&gt; Phoenix (Phoinix)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     PHOINIX
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Φοινιξ
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Phoinix
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Phoenix
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Phoenician?
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-300">
+     <img alt="Phoenix | Aberdeen Bestiary manuscript (1200) | Aberdeen University Library" class="img-responsive center-block" src="../image/pictures-phoenix.jpg"/>
+     <figcaption>
+      Phoenix, Aberdeen Bestiary manuscript (1200),
+      <a href="http://www.abdn.ac.uk/library/" target="_blank">
+       Aberdeen University Library
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE PHOINIX (Phoenix) was a fabulous, red-gold feathered bird  whose body emitted rays of pure sunlight. The creature lived for five hundred years and feasted upon Arabian balsalm and frankinsense. When it died a new Phoinix emerged fully-grown from its body. It  then encased its parent in an egg of myrrh and conveyed it to the great Egyptian temple of the Sun-God in Heliopolis.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     THE PHOINIX
+     <span class="family-refs">
+      (Herodotus 2.73, Ovid Metamorphoses 15.385, Apollonius of Tyana 1.38, Claudian Phoenix)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     THE PHOINIX
+     <span class="family-refs">
+      (ibid.)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     PHOENIX (Phoinix). A fabulous bird Phoenix, who, according to a belief which Herodotus (ii. 73) heard at Heliopolis in Egypt, visited that place once in every five hundred years, on his father's death, and buried him in the sanctuary of Helios. For this purpose Phoenix was believed to come fror Arabia, and to make lan egg of myrrh as large as possible; this egg he then hollowved out and put into it his father, closing it up carefully, and the egg was believed then to be of exactly the same weight as before. This bird was represented resembling an eagle, with feathers partly red and partly golden. (Comp. Achill. Tat. iii. 25.) Of this bird it is further related, thai when his life drew to a close, he built a nest for himself in Arabia, to which he imparted the power of generation, so that after his death a new phoenix rose out of it. As soon as the latter was grown up, he, like his predecessor, proceeded to Heliopolis in Egypt, and burned and buried his father in the temple of Helios. (Tac.
+     <em>
+      Ann.
+     </em>
+     vi. 28.) According to a story which has gained more currency in modern times, Phoenix, when he arrived at a very old age (some say 500 and others 1461 years), committed himself to the flames. (Lucian,
+     <em>
+      De Mort. Per.
+     </em>
+     27; Philostr.
+     <em>
+      Vit. Apollon.
+     </em>
+     iii. 49.) Others, again, state that only one Phoenix lived at a time, and that when he died a worm crept forth from his body, and was developed into a new Phoenix by the heat of the sun. His death, further, took place in Egypt after a life of 7006 years. (Tzetz.
+     <em>
+      Chil.
+     </em>
+     v. 397, &amp;c.; Plin.
+     <em>
+      H. N.
+     </em>
+     x. 2; Ov.
+     <em>
+      Met.
+     </em>
+     xv. 392, &amp;c.) Another modification of the same story relates, that when Phoenix arrived at the age of 500 years, he built for himself a funeral pile, consisting of spices, settled upon it, and died. Out of the decomposing body he then rose again, and having grown up, he wrapped the remains of his old body up in myrrh, carried them to Heliopolis, and burnt them there. (Pompon. Mela, iii. 8, in fin.; Stat.
+     <em>
+      Silv.
+     </em>
+     ii. 4. 36.) Similar stories of marvellous birds occur in many parts of the East, as in Persia, the legend of the bird Simorg, and in India of the bird Semendar.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Precepts of Chiron Fragment 3 (from Plutarch de Orac. defectu 2.415C) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "A chattering crow lives out nine generations of aged men, but a stag's life is four times a crow's and a raven's life makes three stags old, while the Phoinix (Phoenix) outlives nine raves, but we, the rich-haired Nymphai (Nymphs), daughters of Zeus the aigis-holder, outlive ten Phoinixes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 2. 73 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "There is another sacred bird, too, whose name is Phoinix (Phoenix). I myself have never seen it, only pictures of it; for the bird seldom comes into Aigyptos (Egypt) : once in five hundred years, as the people of Heliopolis say. It is said that the Phoinix comes when his father dies. If the picture truly shows his size and appearance, his plumage is partly golden and partly red. He is most like an eagle in shape and size. What they say this bird manages to do is incredible to me. Flying from Arabia to the temple of the Helios (the Sun), they say, he conveys his father encased in myrrh and buries him at the temple of Helios [i.e. in the temple of the Egyptian god Ra]. This is how he conveys him: he first molds an egg of myrrh as heavy as he can carry, then tries lifting it, and when he has tried it, he then hollows out the egg and puts his father into it, and plasters over with more myrrh the hollow of the egg into which he has put his father, which is the same in weight with his father lying in it, and he conveys him encased to the temple of the Sun in Aigyptos (Egypt). This is what they say this bird does."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 6. 58 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "The Phoinix (Phoenix) knows how to reckon five hundred years without the aid of arithmetic, for it is a pupil of all-wise nature, so that it has no need of fingers or anything else to aid it in the understanding of numbers. The purpose of this knowledge and the need for it are matters of common report. But hardly a soul among the Aigyptoi (Egyptians) knows when the five-hundred-year period is completed; only a very few know, and they belong to the priestly order. But in fact the priests have difficulty in agreeing on these points, and banter one another and maintain that it is not now but at some date later than when it was due that the divine bird will arrive. Meantime while they are vainly squabbling, the bird miraculously guesses the period by signs and appears. And the priests are obliged to give way and confess that thy devote their time ‘to putting the sun to rest with their talk’; but they do not know as much as birds. But, in God's name, is it not wise to know where Aigyptos (Egypt) is situated, where Heliopolis whither the bird is destined to come, and where it must bury its father and in what kind of coffin?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 3. 49 (trans. Conybeare) (Greek biography C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "‘And the Phoinix (Phoenix),’ he [the Indian sage Iarkhas (Iarchas) C1st A.D.] said, ‘is the bird which visits Aigyptos (Egypt) every five hundred years, but the rest of that time it flies about in India; and it is unique in that it gives out rays of sunlight and shines with gold, in size and appearance like an eagle; and it sits upon the nest; which is made by it at the springs of the Nile out of spices. The story of the Aigyptoi (Egyptians) about it, that it comes to Aigyptos, is testified to by the Indians also, but the latter add this touch to the story, that the Phoinix which is being consumed in its nest sings funeral strains for itself. And this is also done by the swans according to the account of those who have the wit to hear them.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 15. 385 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "These creatures [other races of birds] all derive their first beginnings from others of their kind. But one alone, a bird, renews and re-begets itself--the Phoenix of Assyria, which feeds not upon seeds or verdure but the oils of balsam and the tears of frankincense. This bird, when five long centuries of life have passed, with claws and beak unsullied, builds a nest high on a lofty swaying palm; and lines the nest with cassia and spikenard and golden myrrh and shreds of cinnamon, and settled there at ease and, so embowered in spicy perfumes, ends his life's long span. Then from his father's body is reborn a little Phoenix, so they say, to live the same long years. When time has built his strength with power to raise the weight, he lifts the nest--the nest his cradle and his father's tomb--as love and duty prompt, from that tall palm and carries it across the sky to reach the Sun's great city [i.e. Heliopolis in Egypt], and before the doors of the Sun's holy temple lays it down."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 3. 2. 101 (trans. Mozley) (Roman poet C1st A.D.) :
+     </span>
+     <br/>
+     "Altars [in Egypt] the long-lived Phoenix prepares for his own death."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Claudian, The Phoenix (trans. Platnaeur) (Roman poet C4th A.D.) :
+     </span>
+     <br/>
+     "There is a leafy wood fringed by Oceanus' farthest marge beyond the Indes (India) and the East where Dawn's panting coursers first seek entrance; it hears the lash close by, what time the watery threshold echoes to the dewy car; and hence comes forth the rosy morn while night, illumined by those far-shining wheels of fire, casts off her sable cloak and broods less darkly. This is the kingdom of the blessèd bird of the sun where it dwells in solitude defended b the inhospitable nature of the land and immune from the ills that befall other living creatures; nor does it suffer infection from the world of men. Equal to the gods is that bird whose life rivals the stars and whose renascent limbs weary the passing centuries. It needs no food to satisfy hunger nor any drink to quench thirst; the sun's clear beam is its food, the sea's rare spray its drink--exhalations such as these form its simple nourishment. A mysterious fire flashes from its eyes, and a flaming aureole enriches its head. Its crest shines with the sun's own light and shatters the darkness with its calm brilliance. Its legs are of Tyrian purple; swifter than those of the Zephyrs are its wings of flower-like blue dappled with rich gold.
+     <br/>
+     Never was this bird conceived nor springs it from any mortal seed, itself is alike its own father and son, and with none to recreate it, it renews its outworn limbs with a rejuvenation of death, and at each decease wins a fresh lease of life. For when a thousand summers have passed far away, a thousand winters gone by, a thousand springs in their course given to the husbandmen that shade of which autumn robbed them, then at last, fordone by the number of its years, it falls a victim to the burden of age; as a tall pine on the summit of Caucasus, wearied with storms, heels over with its weight and threatens at last to crash in ruin; one portion falls by reason of the unceasing winds, another breaks away rotted by the rain, another consumed by the decay of years.
+     <br/>
+     Now the Phoenix's bright eye grows dim and the pupil becomes palsied by the frost of years, like the moon when she is shrouded in clouds and her horn beings to vanish in the mist. Now his wings, wont to cleave the clouds of heaven, can scarce raise them from the earth. Then, realizing that his span of life is at an end and in preparation for a renewal of his splendour, he gathers dry herbs from the sun-warmed hills, and making an interwoven heap of the branches of the precious tree of Saba he builds that pyre which shall be at once his tomb and his cradle.
+     <br/>
+     On this he takes his seat and as he grows weaker greets the Sun with his sweet voice; offering up prayers and supplications he begs that those fires will give him renewal of strength. Phoebus [Apollon or Helios the Sun], on seeing him afar, checks his reins and staying his course consoles his loving child with these words : ‘Thou who art about to leave thy years behind upon yon pyre, who, by this pretence of death, art destined to rediscover life; thou whose decease means but the renewal of existence and who by self-destruction regainest thy lost youth, receive back thy life, quit the body that must die, and by a change of form come forth more beauteous than ever.’
+     <br/>
+     So speaks he, and shaking his head casts one of his golden hairs and smites willing Phoenix with its life-giving effulgence. Now, to ensure his rebirth, he suffers himself to be burned and in his eagerness to be born again meets death with joy. Stricken with the heavenly flame the fragrant pile catches fire and burns the aged body. The moon in amaze checks her milk-white heifers and heaven halts his revolving spheres, while the pyre conceives the new life; Nature takes care that the deathless bird perish not, and calls upon the sun, mindful of his promise, to restore its immortal glory to the world.
+     <br/>
+     Straightway the life spirit surges through his scattered limbs; the renovated blood floods his veins. The ashes show signs of life; they begin to move though there is none to move them, and feathers clothe the mass of cinders. He who was but now the sire comes forth from the pyre the son and successor; between life and life lay but that brief space wherein the pyre burned.
+     <br/>
+     His first delight is to consecrate his father's spirit by the banks of the Nile and to carry to the land of Aegyptus (Egypt) the burned mass from which he was born. With all speed he wings his way to that foreign strand, carrying the remains in a covering of grass. Birds innumerable accompany him, and whole flocks thereof throng in airy flight. Their mighty host shuts out the sky where'er it passes. But from among so vast an assemblage none dares outstrip the leader; all follow respectfully in the balmy wake of their king. Neither the fierce hawk nor the eagle, Jove's [Zeus'] own armour-bearer, fall to fighting; in honour of their common master a truce is observed by all. Thus the Parthian monarch leads his barbarous hosts by yellow Tigris' banks, all glorious with jewels and rich ornament and decks his tiara with royal garlands; his horse's bridle is of gold, Assyrian embroidery embellishes his scarlet robes, and proud with sovereignty he lords it o'er his numberless slaves.
+     <br/>
+     There is in Aegyptus (Egypt) a well-known city [Heliopolis] celebrated for its pious sacrifices and dedicated to the worship of the Sun [i.e. the Egyptian god Ra]. Its temples rest on a hundred columns hewn from the quarries of Thebes. Here, as the story tells, the Phoenix is wont to store his father's ashes and, adoring the image of the god, his master, to entrust his precious burden to the flames. He places on the altar that from which he is sprung and that which remains of himself. Bright shines the wondrous threshold; the fragrant shrine is filled with the holy smoke of the altar and the odour of Indian incense, penetrating even as far as the Pelusiac marshes, fills the nostrils of men, flooding them with its kindly influence and with a scent sweeter than that of nectar perfumes the seven mouths of the dark Nile.
+     <br/>
+     Happy bird, heir to thine own self! Death which proves our undoing restores thy strength. Thine ashes give thee life and though thou perish not thine old age dies. Thou hast beheld all that has been, hast witnessed the passing of the ages. Thou knowest when it was that the waves of the sea rose and o'erflowed the rocks, what year it was that Phaëthon's error devoted to the flames. Yet did no destruction overwhelm thee; sole survivor thou livest to see the earth subdued; against thee the Fates gather not up their threads, powerless to do thee harm."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Claudian, The Rape of Proserpine 2. 78 ff (trans. Platnauer) (Roman poet C4th A.D.) :
+     </span>
+     <br/>
+     "All the sweet airs of Panchaea's incense-bearing woods, all the honied odours of Hydaspes' distant [Indian] stream, all the spices which from the furthest fields the long-lived Phoenix gathers, seeking new birth from wished for death."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Precepts of Chiron Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Claudian, Phoenix
+      <span class="sources-detail">
+       - Latin Poetry C4th A.D.
+      </span>
+     </li>
+     <li>
+      Claudian, Rape of Proserpine
+      <span class="sources-detail">
+       - Latin Poetry C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Antiphron 175, Pseudo-Lactanius' Phoenix.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     PHOENIX SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE PHOENIX
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Form
+       </th>
+       <td>
+        Red-gold feathered, radiant bird
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Egypt and Arabia
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

@@ -1,0 +1,2733 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ASCLEPIUS (Asklepios) - Greek God of Medicine &amp; Doctors
+  </title>
+  <meta content="Asclepius was the ancient Greek god of medicine. He was the son of Apollon and the Triccaean princess Coronis. His mother died in labour and when she was laid out on the pyre, Apollon cut the unborn child from her womb. Asclepius was raised by the centaur Chiron who instructed him in the art of medicine. He grew so skilled in the craft that he was able to restore the dead to life. This was a crime against the natural order and so Zeus destroyed him with a thunderbolt. Asclepius was depicted as a bearded man holding a snake-entwined staff." name="description"/>
+  <meta content="Asclepius, Asklepios, Greek mythology, Greek god of medicine, Asclepius pictures, Aesculapius" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sky.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/olympian-gods.html">
+      Olympian Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/deified-mortals.html">
+      Deified Mortals
+     </a>
+     &gt;&gt; Asclepius (Asklepios)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ASKLEPIOS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Ασκληπιος
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Asklêpios, Asclepius
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Aesculapius
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       To Cut Open
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/S23.1.html">
+      <img alt="Asclepius | Greco-Roman marble statue C1st-2nd A.D. | State Hermitage Museum, Saint Petersburg" class="img-responsive center-block" src="../image/S23.1Asklepios.jpg"/>
+     </a>
+     <figcaption>
+      Asclepius, Greco-Roman marble statue C1st-2nd A.D.,
+      <a href="http://www.hermitagemuseum.org/" target="_blank">
+       State Hermitage Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     ASKLEPIOS (Asclepius) was the god of medicine. He was also the patron god, and reputed ancestor, of the Asklepiades (Asclepiades), the ancient guild of doctors.
+    </p>
+    <p>
+     Asklepios was the son of Apollon and the Trikkaian (Triccaean) princess Koronis (Coronis). His mother died in labour and when she was laid out on the pyre, Apollon cut the unborn child from her womb. From this Asklepios  received his name which means "to cut open." Asklepios was raised by the centaur
+     <a href="../Georgikos/KentaurosKheiron.html">
+      Kheiron (Chiron)
+     </a>
+     who instructed him in the art of medicine. He grew so skilled in the craft that he was able to restore the dead to life. This was a crime against the natural order and so Zeus destroyed him with a thunderbolt.
+    </p>
+    <p>
+     After his death Asklepios was placed amongst the stars as the
+     <a href="../greek-mythology/star-myths.html">
+      constellation
+     </a>
+     Ophiochus ("the Serpent Holder"). Some say his mother was also set in the heavens as Corvus, the crow (
+     <em>
+      korônê
+     </em>
+     in Greek). Asklepios'
+     <a href="../greek-mythology/deified-mortals.html">
+      apotheosis
+     </a>
+     into godhood occurred at the same time. He was sometimes identified with Homer's
+     <a href="Paion.html">
+      Paion (Paeon)
+     </a>
+     , the physician of the gods.
+    </p>
+    <p>
+     Asklepios was depicted as a kindly, bearded man holding a serpent-entwined staff. Although he is largely absent from ancient Greek vase painting, statues of the god are quite common.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF ASCLEPIUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Olympios/Apollon.html">
+      APOLLON
+     </a>
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 90, Plato Republic 408b, Orphic Hymn 67)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Olympios/Apollon.html">
+      APOLLON
+     </a>
+     &amp;
+     <a href="../Heroine/Koronis.html">
+      KORONIS
+     </a>
+     <span class="family-refs">
+      (Homeric Hymn 16, Pindar Pythian Ode 3.5, Isyllus Hymn, Apollonius Rhodius 4.616, Apollodorus 3.118, Diodorus Siculus 4.71.1 &amp; 5.64.6, Pausanias 2.26.1, Hyginus Fabulae 202 &amp; Astronomica 2.40, Ovid Metamorphoses 2.596, Ovid Fasti 1.292)
+     </span>
+     <br/>
+     [1.3]
+     <a href="../Olympios/Apollon.html">
+      APOLLON
+     </a>
+     &amp; ARSINOE
+     <span class="family-refs">
+      (Apollodorus 3.118, Pausanias 2.26.1 &amp; 3.26.4)
+     </span>
+     <br/>
+     [1.4]
+     <a href="../Olympios/Apollon.html">
+      APOLLON
+     </a>
+     or ARSIPPOS &amp; ARSINOE
+     <span class="family-refs">
+      (Cicero De Natura Deorum 3.21)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] MAKHAON, PODALEIRIOS
+     <span class="family-refs">
+      (Homer Iliad 2.730, Quintus Smyrnaeus 9.462, Pausanias 2.26.1 &amp; 3.24.10 &amp; 3.24.10, Diodorus Siculus 4.71.3)
+     </span>
+     <br/>
+     [1.2] MAKHAON
+     <span class="family-refs">
+      (Hyginus Fabulae 97)
+     </span>
+     <br/>
+     [2.1]
+     <a href="AsklepiasIaso.html">
+      IASO
+     </a>
+     ,
+     <a href="AsklepiasPanakeia.html">
+      PANAKEIA
+     </a>
+     <span class="family-refs">
+      (Aristophanes Plutus 620)
+     </span>
+     <br/>
+     [2.2]
+     <a href="AsklepiasHygeia.html">
+      HYGEIA
+     </a>
+     <span class="family-refs">
+      (Pausanias 5.20.2)
+     </span>
+     <br/>
+     [2.3] MAKHAON, PODALEIRIOS,
+     <a href="AsklepiasIaso.html">
+      IASO
+     </a>
+     ,
+     <a href="AsklepiasAigle.html">
+      AIGLE
+     </a>
+     ,
+     <a href="AsklepiasHygeia.html">
+      HYGEIA
+     </a>
+     ,
+     <a href="AsklepiasPanakeia.html">
+      PANAKEIA
+     </a>
+     (by
+     <a href="AsklepiasEpione.html">
+      Epione
+     </a>
+     )
+     <span class="family-refs">
+      (Erythrai Enscription)
+     </span>
+     <br/>
+     [2.4]
+     <a href="AsklepiasIaso.html">
+      IASO
+     </a>
+     ,
+     <a href="AsklepiasAigle.html">
+      AIGLE
+     </a>
+     ,
+     <a href="AsklepiasHygeia.html">
+      HYGEIA
+     </a>
+     ,
+     <a href="AsklepiasPanakeia.html">
+      PANAKEIA
+     </a>
+     ,
+     <a href="AsklepiasAkeso.html">
+      AKESO
+     </a>
+     (by
+     <a href="AsklepiasEpione.html">
+      Epione
+     </a>
+     )
+     <span class="family-refs">
+      (Suidas s.v. Epione)
+     </span>
+     <br/>
+     [3.1] ARATOS (by Aristodama)
+     <span class="family-refs">
+      (Pausanias 2.10.2)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     AESCULA′PIUS (Asklêpios), the god of the medical art. In the Homeric poems Aesculapius does not appear to be considered as a divinity, but merely as a human being, which is indicated by the adjective amumôn, which is never given to a god. No allusion is made to his descent, and he is merely mentioned as the iêtêr amumôn, and the father of Machaon and Podaleirius. (
+     <em>
+      Il.
+     </em>
+     ii. 731, iv. 194, xi. 518.) From the fact that Homer (
+     <em>
+      Od.
+     </em>
+     iv. 232) calls all those who practise the healing art descendants of Paeëon, and that Podaleirius and Machaon are called the sons of Aesculapius, it has been inferred, that Aesculapius and Paeëon are the same being, and consequently a divinity. But wherever Homer mentions the healing god, it is always Paeëon, and never Aesculapius; and as in the poet's opinion all physicians were descended from Paeëon, he probably considered Aesculapius in the same light. This supposition is corroborated by the fact, that in later times Paeëon was identified with Apollo, and that Aesculapius is universally described as a descendant of Apollo. The two sons of Aesculapius in the Iliad, were the physicians in the Greek army, and are described as ruling over Tricca, Ithome, and Oechalia. (
+     <em>
+      Il.
+     </em>
+     ii. 729.) According to Eustathius (
+     <em>
+      ad Hom.
+     </em>
+     p. 330), Lapithes was a son of Apollo and Stilbe, and Aesculapius was a descendant of Lapithes. This tradition seems to be based on the same groundwork as the more common one, that Aesculapius was a son of Apollo and Coronis, the daughter of Phlegyas, who is a descendant of Lapithes. (Apollod. iii. 10. § 3; Pind.
+     <em>
+      Pyth.
+     </em>
+     iii. 14, with the Schol.)
+    </p>
+    <p>
+     The common story then goes on as follows. When Coronis was with child by Apollo, she became enamoured with Ischys, an Arcadian, and Apollo informed of this by a raven, which he had set to watch her, or, according to Pindar, by his own prophetic powers, sent his sister Artemis to kill Coronis. Artemis accordingly destroyed Coronis in her own house at Lacereia in Thessaly, on the shore of lake Baebia. (Comp. Hom.
+     <em>
+      Hymn.
+     </em>
+     27. 3.) According to Ovid (
+     <em>
+      Met.
+     </em>
+     ii. 605, &amp;c.) and Hyginus (
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 40), it was Apollo himself who killed Coronis and Ischys. When the body of Coronis was to be burnt, Apollo, or, according to others (Paus. ii. 26. § 5), Hermes, saved the child (Aesculapius) from the flames, and carried it to Cheiron, who instructed the boy in the art of healing and in hunting. (Pind.
+     <em>
+      Pyth.
+     </em>
+     iii. 1, &amp;c.; Apollod. iii. 10. § 3; Paus.
+     <em>
+      l. c.
+     </em>
+     ) According to other traditions Aesculapius was born at Tricca in Thessaly (Strab. xiv. p. 647), and others again related that Coronis gave birth to him during an expedition of her father Phlegyas into Peloponnesus, in the territory of Epidaurus, and that she exposed him on mount Tittheion, which was before called Myrtion. Here he was fed by a goat and watched by a dog, until at last he was found by Aresthanas, a shepherd, who saw the boy surrounded by a lustre like that of lightning. (See a different account in Paus. viii. 25. § 6.) From this dazzling splendour, or from his having been rescued from the flames, he was called by the Dorians aiglaêr. The truth of the tradition that Aesculapius was born in the territory of Epidaurus, and was not the son of Arsinoë, daughter of Leucippus and born in Messenia, was attested by an oracle which was consulted to decide the question. (Paus. ii. 26. § 6, iv. 3. § 2; Cic.
+     <em>
+      De Nat. Deor.
+     </em>
+     iii. 22, where three different Aesculapiuses are made out of the different local traditions about him.) After Aesculapius had grown up, reports spread over all countries, that he not only cured all the sick, but called the dead to life again. About the manner in which he acquired this latter power, there were two traditions in ancient times. According to the one (Apollod.
+     <em>
+      l. c.
+     </em>
+     ), he had received from Athena the blood which had flowed from the veins of Gorgo, and the blood which had flowed from the veins of the right side of her body possessed the power of restoring the dead to life. According to the other tradition, Aesculapius on one occasion was shut up in the house of Glaucus, whom he was to cure, and while he was standing absorbed in thought, there came a serpent which twined round the staff, and which he killed. Another serpent then came carrying in its mouth a herb with which it recalled to life the one that had been killed, and Aesculapius henceforth made use of the same herb with the same effect upon men. (Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 14.) Several persons, whom Aesculapius was believed to have restored to life, are mentioned by the Scholiast on Pindar (
+     <em>
+      Pyth.
+     </em>
+     iii. 96) and by Apollodorus. (
+     <em>
+      l. c.
+     </em>
+     ) When he was exercising this art upon Glaucus, Zeus killed Aesculapius with a flash of lightning, as he feared lest men might gradually contrive to escape death altogether (Apollod. iii. 10. § 4), or, according to others, because Pluto had complained of Aesculapius diminishing the number of the dead too much. (Diod. iv. 71; comp. Schol.
+     <em>
+      ad Pind. Pyth.
+     </em>
+     iii. 102.) But, on the request of Apollo, Zeus placed Aesculapius among the stars. (Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 14.) Aesculapius is also said to have taken part in the expedition of the Argonauts and in the Calydonian hunt. He was married to Epione, and besides the two sons spoken of by Homer, we also find mention of the following children of his : Janiscus, Alexenor, Aratus, Hygieia, Aegle, Iaso, and Panaceia (Schol.
+     <em>
+      ad Pind. Pyth.
+     </em>
+     iii. 14; Paus. ii. 10. § 3, i. 34. § 2), most of whom are only personifications of the powers ascribed to their father.
+    </p>
+    <p>
+     These are the legends about one of the most interesting and important divinities of antiquity. Various hypotheses have been brought forward to explain the origin of his worship in Greece; and, while some consider Aesculapius to have been originally a real personage, whom tradition had connected with various marvellous stories, others have explained all the legends about him as mere personifications of certain ideas. The serpent, the perpetual symbol of Aesculapius, has given rise to the opinion, that the worship was derived from Egypt, and that Aesculapius was identical with the serpent Cnuph worshipped in Egypt, or with the Phoenician Esmun. (Euseb.
+     <em>
+      Praep. Evang.
+     </em>
+     i. 10; comp. Paus. vii. 23. § 6.) But it does not seem necessary to have recourse to foreign countries in order to explain the worship of this god. His story is undoubtedly a combination of real events with the results of thoughts or ideas, which, as in so many instances in Greek mythology, are, like the former, considered as facts. The kernel, out of which the whole myth has grown, is perhaps the account we read in Homer; but gradually the sphere in which Aesculapius acted was so extended, that he became the representative or the personification of the healing powers of nature, which are naturally enough described as the son (the effects) of Helios,--Apollo, or the Sun.
+    </p>
+    <p>
+     Aesculapius was worshipped all over Greece, and many towns, as we have seen, claimed the honour of his birth. His temples were usually built in healthy places, on hills outside the town, and near wells which were believed to have healing powers. These temples were not only places of worship, but were frequented by great numbers of sick persons, and may therefore be compared to modern hospitals. (Plut.
+     <em>
+      Quaest. Rom.
+     </em>
+     p. 286, D.) The principal seat of his worship in Greece was Epidaurus, where he had a temple surrounded with an extensive grove, within which no one was allowed to die, and no woman to give birth to a child. His sanctuary contained a magnificent statue of ivory and gold, the work of Thrasymedes, in which he was represented as a handsome and manly figure, resembling that of Zeus. (Paus. ii. 26 and 27.) He was seated on a throne, holding in one hand a staff, and with the other resting upon the head of a dragon (serpent), and by his side lay a dog. (Paus. ii. 27. § 2.) Serpents were everywhere connected with the worship of Aesculapius, probably because they were a symbol of prudence and renovation, and were believed to have the power of discovering herbs of wondrous powers, as is indicated in the story about Aesculapius and the serpents in the house of Glaucus. Serpents were further believed to be guardians of wells with salutary powers. For these reasons a peculiar kind of tame serpents, in which Epidaurus abounded, were not only kept in his temple (Paus. ii. 28. § 1), but the god himself frequently appeared in the form of a serpent. (Paus. iii. 23. § 4; Val. Max. i. 8. § 2; Liv.
+     <em>
+      Epit.
+     </em>
+     11; compare the account of Alexander Pseudomantis in Lucian.) Besides the temple of Epidaurus, whence the worship of the god was transplanted to various other parts of the ancient world, we may mention those of Tricca (Strab. ix. p. 437), Celaenae (xiii. p. 603), between Dyme and Patrae (viii. p. 386), near Cyllene (viii. p. 337), in the island of Cos (xiii. p. 657; Paus. iii. 23. § 4), at Gerenia (Strab. viii. p. 360), near Caus in Arcadia (Steph. Byz.
+     <em>
+      s. v.
+     </em>
+     ), at Sicyon (Paus. ii. 10. § 2), at Athens (i. 21. § 7), near Patrae (vii. 21. § 6), at Titane in the territory of Sicyon (vii. 23. § 6), at Thelpusa (viii. 25. § 3), in Messene (iv. 31. § 8), at Phlius (ii. 13. § 3), Argos (ii. 23. § 4), Aegium (ii. 23. § 5), Pellene (vii. 27. § 5), Asopus (iii. 22. § 7), Pergamum (iii. 26. § 7), Lebene in Crete, Smyrna, Balagrae (ii. 26. § 7), Ambracia (Liv. xxxviii. 5), at Rome and other places. At Rome the worship of Aesculapius was introduced from Epidaurus at the command of the Delphic oracle or of the Sibylline books, in B. C. 293, for the purpose of averting a pestilence. Respecting the miraculous manner in which this was effected see Valerius Maximus (i. 8. § 2), and Ovid.
+     <em>
+      Met.
+     </em>
+     xv. 620, &amp;c.; comp. Niebuhr,
+     <em>
+      Hist. of Rome,
+     </em>
+     iii. p. 408, &amp;c.; Liv. x. 47, xxix. 11; Suet.
+     <em>
+      Claud.
+     </em>
+     25.)
+    </p>
+    <p>
+     The sick, who visited the temples of Aesculapius, had usually to spend one or more nights in his sanctuary (
+     <em>
+      katheudein
+     </em>
+     ,
+     <em>
+      ineubare,
+     </em>
+     Paus. ii. 27 § 2), during which they observed certain rules prescribed by the priests. The god then usually revealed the remedies for the disease in a dream. (Aristoph.
+     <em>
+      Plut.
+     </em>
+     662, &amp;c.; Cic.
+     <em>
+      De Div.
+     </em>
+     ii. 59 ; Philostr.
+     <em>
+      Vita Apollon.
+     </em>
+     i. 7; Jambl.
+     <em>
+      De Myst.
+     </em>
+     iii. 2.) It was in allusion to this
+     <em>
+      incubatio
+     </em>
+     that many temples of Aesculapius contained statues representing Sleep and Dream. (Paus. ii. 10. § 2.) Those whom the god cured of their disease offered a sacrifice to him, generally a cock (Plat.
+     <em>
+      Phacd.
+     </em>
+     p. 118) or a goat (Paus. x. 32. § 8; Serv.
+     <em>
+      ad Virg. Georg.
+     </em>
+     ii. 380), and hung up in his temple a tablet recording the name of the sick, the disease, and the manner in which the cure had been effected. The temples of Epidaurus, Tricca, and Cos, were full of such votive tablets, and several of them are still extant. (Paus. ii. 27. § 3; Strab. viii. p. 374; comp.
+     <em>
+      Dict. of Ant.
+     </em>
+     p. 673.) Respecting the festivals celebrated in honour of Aesculapius see
+     <em>
+      Dict. of Ant.
+     </em>
+     p. 103. &amp;c. The various surnames given to the god partly describe him as the healing or saving god, and are partly derived from the places in which he was worshipped. Some of his statues are described by Pausanias. (ii. 10. § 3, x. 32. § 8.) Besides the attributes mentioned in the description of his statue at Epidaurus, he is sometimes represented holding in one hand a phial, and in the other a stalf; sometimes also a boy is represented standing by his side, who is the genius of recovery, and is called Telesphorus, Euamerion, or Acesius. (Paus. ii. 11. § 7.) We still possess a considerable number of marble statues and busts of Aesculapius, as well as many representations on coins and gems. There were in antiquity two works which went under the name of Aesculapius, which, however, were no more genuine than the works ascribed to Orpheus. (Fabricius,
+     <em>
+      Bibl. Graec.
+     </em>
+     i. p. 55, &amp;c.)
+    </p>
+    <p>
+     The descendants of Aesculapius were called by the patronymic name
+     <em>
+      Asclepiadae.
+     </em>
+     (Asklêpiadai.) Those writers, who consider Aesculapius as a real personage, must regard the Asclepiadae as his real descendants, to whom he transmitted his medical knowledge, and whose principal seats were Cos and Cnidus. (Plat.
+     <em>
+      de Re Publ.
+     </em>
+     iii. p. 405, &amp;c.) But the Asclepiadae were also regarded as an order or caste of priests, and for a long period the practice of medicine was intimately connected with religion. The knowledge of medicine was regarded as a sacred secret, which was transmitted from father to son in the families of the Asclepiadae, and we still possess the oath which every one was obliged to take when he was put in possession of the medical secrets. (Galen,
+     <em>
+      Anat.
+     </em>
+     ii. p. 128 Aristid.
+     <em>
+      Orat.
+     </em>
+     i. p. 80.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Summary">
+     STORY OF ASCLEPIUS (APOLLODORUS' SUMMARY)
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/Z23.1.html">
+      <img alt="Asclepius arriving at Cos | Greco-Roman mosaic C2nd A.D. | Archaeological Museum of Kos" class="img-responsive center-block" src="../image/Z23.1Asklepios.jpg"/>
+     </a>
+     <figcaption>
+      Asclepius arriving at Cos, Greco-Roman mosaic C2nd A.D., Archaeological Museum of Kos
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 118 - 122 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Leukippos (Leucippus) also was the father of Arsinoe. Apollon (Apollo) had sex with her, and she bore him Asklepios (Asclepius). Some say, however, that Asklepios was not born of Leukippos' daughter Arsinoe, but rather of Phlegyas' daughter Koronis (Coronis) in Thessalia (Thessaly). Apollon fell in love with her and immediately had intercourse with her, but she, despite her father' advice, preferred Kaineus' (Caeneus') son Iskhys (Ischys) and lived with him. When a raven told Apollon this, he cursed it and turned it black in place of the white it had been before, and he killed Koronis. As she was being consumed on her funeral pyre, he snatched her baby fire and took him to the Kentauros Kheiron (Centaur Chiron), who reared him and taught him medicine and hunting. As a surgeon Asklepios became so skilled in his profession that he not only saved lived but even revived the dead; for he had received from Athena the blood that had coursed though the Gorgon's veins, the left-side portion of which he used to destroy people, but that on the right he used for their preservation, which is how he could revive those who had died. Zeus was afraid that men might learn the art of medicine from Asklepios and help each other out, so he hit him with a thunderbolt. This angered Apollon, who slew the Kyklopes (Cyclopes), for they designed the thunderbolt for Zeus."
+    </p>
+    <hr/>
+    <h3 id="Birth">
+     BIRTH &amp; EDUCATION OF ASCLEPIUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 4. 217 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "When he [the healer Makhaon (Machaon)] saw the wound where the bitter arrow was driven, he sucked the blood and in skill laid healing medicines on it that Kheiron (Chiron) in friendship long ago had given his father [Asklepios (Asclepius)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 3. 5 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Long ago he [Kheiron (Chiron)] nursed gentle Asklepios (Asclepius), that craftsman of new health for weary limbs and banisher of pain, the godlike healer of mortal sickness. 
+  His mother, daughter of Phlegyas the horseman, ere with the help of Eleithyia, the nurse of childbirth, she could bring her babe to the light of day, was in her chamber stricken by the golden shafts of Artemis, and to the hall of death went down. For she in the madness of her heart had spurned the god, and unknown to her 
+  father took another lover, even though her maiden bed she had already shared 
+  with Apollon of the flowing hair, and bore within her the god's holy seed. . . 
+  But when upon the high wood pure her kinsmen had set the maid, and the flames of Hephaistos shot their bright tongues around her, then cried out Apollon : ‘No longer shall my soul endure that my own son here with his mother in her death most pitiable should perish thus, in sorry grief.’
+     <br/>
+     So spoke he and in one stride was there, and seized the babe from the dead maid; and round him the blazing flames opened a pathway.
+     <br/>
+     Then he took the child to the Magnetian Kentauros (Centaur) [i.e. Kheiron (Chiron)], that he teach him to be a healer for mankind of all their maladies and ills.
+     <br/>
+     All then who came to him, some plagues with sores of festering growths, some wounded by the stokes of weapons of bright bronze, of by the slinger's shot of stone, others with limbs ravaged by summer's fiery heat or by the winter's cold, to each for every various ill he made the remedy, and gave deliverance from pain, some with the gently songs of incantation others he cured with soothing draughts of medicines, or wrapped their limbs around with doctored salves, and some he made whole with the surgeon's knife.
+     <br/>
+     And yet to profit even the skills of wisdom yield themselves captive. For a lordly bribe, gold flashing in the hand, even this man was tempted to bring back to life one whom the jaws of death had seized already. With fierce hands swiftly the son of Kronos (Cronus) [Zeus] loosed his anger on these two; his blazing bolt stripped from them both their breath of life, and hurled them to their fate. A man must seek from heaven only that which is fitting for mortal minds, perceiving well the path before his feet, the lot that is our portion . . .
+     <br/>
+     Now if Kheiron (Chiron) the wise dwelt still within his cave, and if some spell to charm his soul lay in the honeyed sweetness of my songs, then might I surely persuade him for men of noble mind to grant them a physician of feverish ills, some son born of Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Nemean Ode 3. 51 ff :
+     </span>
+     <br/>
+     "Wise-hearted Kheiron (Chiron) nursed the great Iason under his roof, and to Asklepios (Asclepius) taught the soft-fingered skills of medicine's lore."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sophocles, Fragment (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "Wide-famed daughter of Phlegyas [Koronis (Coronis)], mother of the god who wards off pain [Asklepios (Asclepius)], (whom you bore to) the Unshorn [Apollon], yours is the shout-raising hymn which I shall begin."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Isyllus, Hymn to Asclepius (trans. Frazer, Vol. Apollodorus) (Greek poet C4th or 3rd B.C.) :
+     </span>
+     <br/>
+     "Father Zeus bestowed the hand of the Mousa (Muse) Erato on Malos (Malus) [eponymous lord of Malea] in holy matrimony (
+     <em>
+      hosioisi gamois
+     </em>
+     ). The pair had a daughter Kleophema (Cleophema), who married Phlegyas, a native of Epidauros (Epidaurus); and Phlegyas had by her a daughter Aigle (Aegle), otherwise known as Koronis (Coronis), whom Phoibos [Apollon] of the golden bow beheld in the house of her grandfather Malos, and falling in love he got by her a child, Asklepios (Asclepius)."
+     <br/>
+     [N.B. This hymn was engraved on a limestone tablet unearthed at the shrine of Asklepios at Epidauros. According to the inscription the poet consulted the Delphic Oracle for approval before publishing this genealogy of the god Asklepios.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 118 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Leukippos (Leucippus) also was the father of Arsinoe. Apollon had sex with her, and she bore him Asklepios (Asclepius). Some say, however, that Asklepios was not born of Leukippos' daughter Arsinoe, but rather of Phlegyas' daughter Koronis (Coronis) in Thessalia (Thessaly). Apollon fell in love with her and immediately had intercourse with her, but she, despite her father's advice, preferred Kaineus' (Caeneus') son Iskhys (Ischys) and lived with him. When a raven told Apollon this, he cursed it and turned it black in place of the white it had been before, and he killed Koronis. As she was being consumed on her funeral pyre, he snatched her baby fire and took him to the kentauros Kheiron (centaur Chiron), who reared him and taught him medicine and hunting."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 26. 1 - 7 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The land [of Epidauros (Epidaurus)] is especially sacred to Asklepios (Asclepius) is due to the following reason. The Epidaurians say that Phlegyas came to the Peloponnesos (Peloponnese), ostensibly to see the land, but really to spy out the number of the inhabitants, and whether the greater part of them was warlike. For Phlegyas was the greatest soldier of his time, and making forays in all directions he carried off the crops and lifted the cattle. When he went to the Peloponnesos, he was accompanied by his daughter [Koronis (Coronis)], who all along had kept hidden from her father that she was with child by Apollon. In the country of the Epidaurians she bore a son [Asklepios (Asclepius)], and exposed him on the mountain called Titthion (Nipple) at he present day, but then named Myrtion. As they child lay exposed he was given milk by one of the goats that pastured about the mountain, and was guarded by the watch-dog of the herd. And when Aresthanas, for this was the herdsman's name, discovered that the tale of the goats was not full, and that the watch-dog also was absent from the herd, he left, they say, no stone unturned, and on finding the child desired to take him up. As he drew near, he saw lightning that flashed from the child, and, thinking that it was something divine, as in fact it was, he turned away.
+     <br/>
+     Presently it was reported over every land and sea that Asklepios was discovering everything he wished to heal the sick, and the he was raising dead men to life.
+     <br/>
+     There is also another tradition concerning him. Koronis, they say, when with child with Asklepios, had intercourse with Iskhys (Ischys), son of Elatos (Elatus). She was killed by Artemis to punish her for the insult done to Apollon, but when the pure was already lighted Hermes is said to have snatched the child from the flames.
+     <br/>
+     The third account is, in my opinion, the farthest from the truth; it makes Asklepios to be the son of Arsinoe, the daughter of Leukippos (Leucippus). For when Apollophanes, the Arkadian (Arcadian), came to Delphoi and asked the god if Asklepios was the son of Arsinoe and therefore a Messenian, the Pythian priestess gave this response:--‘O Asklepios, born to bestow great joy upon mortals, pledge of the mutual love I enjoyed with Phlegyas' daughter, lovely Koronis, who bare thee in rugged land, Epidauros.’
+     <br/>
+     The oracle makes it quite certain the Asklepios was not a son of Arsinoe, and that the story was a fiction invented by Hesiod, or by one of Hesiod's interpolators, just to please the Messenians."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 4. 3. 2 :
+     </span>
+     <br/>
+     "For they say that the sons of Asklepios (Asclepius) who went to Troy were Messenians, Asklepios being the son of Arsinoe, daughter of Leukippos (Leucippus), not the son of Koronis (Coronis), and they call a desolate spot in Messenia by the name of Trikka (Tricca)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 202 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Apollo had made Coronis, daughter of Phlegyas, pregnant, he put a crow in guard, so that no one should violate her. But Ischys, son of Elatus, lay with her, and becuase of this he was killed by the thunderbolt of Zeus. Apollo struck the pregnant Coronis, and killed her. He took Ascelpius from her womb and reared him, but the crow who had guarded her he turned from white to black."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 161 :
+     </span>
+     <br/>
+     "Sons of Apollo. Asclepius by Coronis, daughter of Phlegyas."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 38  :
+     </span>
+     <br/>
+     "Chiron . . . is thought to have reared Aesculapius [Asklepios] and Achilles."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 620 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Apollon's raven] told his master Phoebus [Apollon] how he found [Apollon's love] Coronis in the arms of some bright Haemonian youth . . . Swept in a storm of rage, he seized his bow, by habit, strung the string, and shot a shaft unerring, inescapable, to pierce her breast whereon so often his own had laid. She screamed and, as the arrow came away, her fair white skin was drenched in crimson blood. ‘It could have been,’ she moaned, ‘that I had borne your child [Asklepios] before you punished me; but now we two shall die together,’ and her life ebbed with her blood; she breathed her latest breath and through her body stole the chill of death. Too late, alas, too late the lover rues his cruel punishment . . . and tries if some late slave may vanquish fate, and practises his healing art in vain. And when he finds all fails, and sees the pyre stands ready and her body soon to burn in the last funeral flames . . . that his seed should perish in that fire Phoebus [Apollon] could not endure, and snatched his son [Asklepios (Asclepius)] out of his mother's womb, out of the flames and carried him to two-formed Chiron's cave . . .
+     <br/>
+     The centaur was delighted with that child of heavenly stock, his honourable charge. One day the Centaurus' daughter came . . . Ocyroe (Swift-Flowing). The girl . . . prophesied fate's dark secrets. In the mystic mood of prophecy, when hidden in her heart the heavenly fervour glowed, she fixed her eyes upon the child [Asklepios]. ‘Grow strong, dear boy,’ she said ‘Healer of the world. Often men shall owe health and life, and yours shall be the right to win again departed souls, and, though you dare this once in heaven's despite, Jove's [Zeus'] bolt will thwart that gift a second time. You, now divine, shall be a lifeless corpse, and from a corpse become divine again, and twice you shall renew your destiny.’ [Ii.e. he was deified following his death through the intercession of Apollon.]"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 21 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Of the various Aeculapii the first is the son of Apollo, and is worshipped by the Arcadians . . . The second is the brother of the second Mercurius [Hermes]; he is said to have been struck by lightning and buried at Cynosura. The third is the son of Arsippus and Arsinoe . . . his tomb and grove are shown in Arcadia, not far from the river Lusius."
+    </p>
+    <p class="see-also">
+     For MORE information on the mother of Asklepios see
+     <a href="../Heroine/Koronis.html">
+      KORONIS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Children">
+     CHILDREN OF ASCLEPIUS
+    </h3>
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/S23.6.html">
+      <img alt="Asclepius and Hygeia | Greco-Roman marble statue | Pio Clementino Museum, Vatican City" class="img-responsive center-block" src="../image/S23.6Asklepios.jpg"/>
+     </a>
+     <figcaption>
+      Asclepius and Hygeia, Greco-Roman marble statue,
+      <a href="http://mv.vatican.va/3_EN/pages/MPC/MPC_Main.html" target="_blank">
+       Pio Clementino Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 2. 730 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "They who held Trikke (Tricca) [in Thessaly] and the terraced place of Ithome, and Oikhalia (Oechalia) . . . of these in turn the leaders were two sons of Asklepios (Asclepius), good healers both themselves, Podaleirios (Podalirius) and Makhaon (Machaon)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 4. 193 &amp; 217 ff :
+     </span>
+     <br/>
+     "Go call hither Makhaon (Machaon), a mortal who is the son of Asklepios (Asclepius), and a blameless physician . . . When he [Makhaon] saw the wound where the bitter arrow was driven, he sucked the blood and in skill laid healing medicines on it that Kheiron (Chiron) in friendship long ago had given his father [Asklepios]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 11. 518 ff :
+     </span>
+     <br/>
+     "Makhaon (Machaon), son of the great healer Asklepios (Asclepius)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 939 (Inscription from Erythrai) (trans. Campbell) (B.C.) :
+     </span>
+     <br/>
+     "By him [Asklepios (Asclepius)] were fathered Makhaon (Machaon) and Podaleirios (Podalirus) and Iaso (Healer)--
+     <em>
+      ie Paian!
+     </em>
+     --and fair-eyed Aigle (Aegle, Radiance) and Panakea (Panacea, Cure-all), children of Epione, along with Hygieia (Health), all-glorious, undefiled."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1047 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "[Asklepios' (Asclepius') sons Podaleirios (Podalirus) and Makhaon (Machaon) fought in the Trojan War :] One of two brothers [i.e. Podaleirios] shall have an alien soil [i.e. Kolophon (Colophon) in Asia Minor] over his bones and to men sleeping in sheepskins on his tomb he shall declare in dreams his unerring message for all. And healer of diseased shall he be called by the Daunians, when they wash the sick with the waters of Althainos (Althaenus) and invoke the son of Epios (Epius) [Asklepios] to come to their aid, that he may come gracious unto men and flocks."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 71. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "To Asklepios (Asclepius), we are told further, sons were born, Makhaon (Machaon) and Podaleirios (Podalirus) , who also developed the healing art and accompanied Agamemnon in the expedition against Troy."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 29. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[In the city of Epidauros in Argolis] is a precinct of Asklepios (Asclepius), with images of the god himself and Epione. Epione, they say, was the wife of Asklepios."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 4. 3. 2 :
+     </span>
+     <br/>
+     "For they say that the sons of Asklepios (Asclepius) who went to Troy were Messenians, Asklepios being the son of Arsinoe, daughter of Leukippos (Leucippus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 8. 462 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Podaleirios (Podalirus), godlike in his power to heal. Swifter than thought he made him [Philoktetes (Philoctetes) infected by a snake bite] whole and sound; for deftly on the wound he spread his salves, calling on his physician-father's name [Asklepios (Asclepius)]. And soon the Akhaians (Achaeans) shouted all for joy, all praising with one voice Asklepios' son."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 97 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Machaon son of Asclepius and Coronis, from Tricca."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Epione (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Epione : wife of Asklepios (Asclepius), and daughters named Hygeia, Aigle (Aegle), Iaso, Akeso (Aceso), Panakeia (Panacea)."
+    </p>
+    <hr/>
+    <h3 id="Hero">
+     HEROIC ADVENTURES OF ASCLEPIUS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 14 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Numbered among the Argonauts :] Asclepius , son of Apollo and Coronis, from Tricca.”
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 17 :
+     </span>
+     <br/>
+     "Those who hunted the Calydonian Boar [list of names] : Asclepius, son of Apollo ."
+    </p>
+    <hr/>
+    <h3 id="Inventor">
+     ACLEPIUS THE  INVENTOR OF MEDICINE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 4.  217 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "In skill laid healing medicines on it that Kheiron (Chiron) in friendship long ago had given [Asklepios (Asclepius)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 3. 5 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Gentle Asklepios (Asclepius), that craftsman of new health for weary limbs and banisher of pain, the godlike healer of all mortal sickness."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 3. 45 ff  :
+     </span>
+     <br/>
+     "He [Apollon] took the child [Asklepios (Asclepius)] the the Magnetian Kentauros (Centaur) [Kheiron (Chiron)], that he teeach im to be a healer for mankind of all their maladies and ills. All then who came to him [Asklepios], some plagues with sores of festering growths, some wounded by the stokes of weapons of bright bronze, of by the slinger's shot of stone, others with limbs ravaged by summer's fiery heat or by the winter's cold, to each for every various ill he made the remedy, and gave deliverance from pain, some with the gently songs of incantation others he cured with soothing draughts of medicines, or wrapped their limbs around with doctored salves, and some he made whole with the surgeon's knife."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 599c (trans. Shorey) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "To have restored to health as Asklepios (Asclepius) did, or what disciples of the medical art he left after him as Asklepios did his descendants."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 71. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Asklepios (Asclepius) was the son of Apollon and Koronis (Coronis), and since he excelled in natural ability and sagacity of mind, he devoted himself to the science of healing and made many discoveries which contribute to the health of mankind. And so far did he advance along the road of fame that, to the amazement of all, he healed many sick whose lives had been despaired of, and for this reason it was believed that he had brought back to life many who had died."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 74. 6  :
+     </span>
+     <br/>
+     "To Apollon and Koronis (Coronis) was born Asklepios (Asclepius), who learned from his father many matters which pertain to the healing art, and then went on to discover the art of surgery and the preparations of drugs and the strength to be found in roots, and, speaking generally, he introduced such advances into the healing art that he is honoured as if he were its source and founder."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 10. 49 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "The god [Apollon] can not only save life but is also the begetter of Asklepios (Asclepius), man's saviour and champion against diseases."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 3. 44 (trans. Conybeare) (Greek biography C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "Iarkhos (Iarchus) [an Indian sage] led back the argument to the subject of divination and among the many blessings which that art had conferred upon mankind, he declared the gift of healing to be the most important. ‘For,’ said he, ‘the wise Asklepiades (Asclepiades) [i.e. the ancient guild of doctors reputedly descended from Asklepios (Asclepius)] would have never attained to this branch of science, if Asklepios had not been the son of Apollon; and as such had not in accordance with the latter's responses and oracles concocted and adapted different drugs to different diseases; these he not only handed on to his own sons, but he taught his companions what herbs must be applied to running wounds, and what to inflamed and dry wounds, and in what doses to administer liquid drugs for drinking by means of which dropsical patients are drained and bleeding is checked, and diseases of decay and the cavities due to their ravages are put an end to. And who,’ he said, ‘can deprive the art of divination of the credit of discovering simples which heal the bites of venomous creatures, and in particular of using the virus itself as a cure for many diseases? For I do not think that men without the forecasts of a prophetic wisdom would ever have ventured to mingle with medicines that save life these most deadly of poisons.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 274 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Inventors and their inventions . . . Asclepius, son of Apollo, began the art of clinical medicine."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 21 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Of the various Aeculapii the first is the son of Apollo, and is worshipped by the Arcadians; he is reputed to have invented the probe and to have been the first surgeon to employ splints. The second is the brother of the second Mercurius [Hermes]; he is said to have been struck by lightning and buried at Cynosura. The third is the son of Arsippus and Arsinoe, and is said to have first invented the use of purges and the extraction of teeth; this tomb and grove are shown in Arcadia, not far from the river Lusius."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Asklepiades (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Asklepiades (Asclepiades) : Also ‘Asklepieian/Asklepeian drug’, but ‘Asklepepian temple’. Also Asklepiadai, the doctors, from Asklepios (Asclepius). He [derived his name] from keeping bodies tough (
+     <em>
+      askele
+     </em>
+     ) and gentle (
+     <em>
+      epia
+     </em>
+     ). Asklepios, the patron of medicine, could heal Pauson and Iros and any other hopeless case."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Aigle :
+     </span>
+     <br/>
+     "Aigle (Aegle, Radiance) : Selene the moon is also so called, and Asklepios (Asclepius)."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Saou :
+     </span>
+     <br/>
+     "
+     <em>
+      Saou
+     </em>
+     (Save) : Preserve, protect. In the
+     <em>
+      Epigrams
+     </em>
+     : ‘[Phoibos (Phoebus) gave mankind Asklepios (Asclepius) and Plato :] the latter, that [he may save] his soul; the former, that he may save his body.’"
+    </p>
+    <hr/>
+    <h3 id="Death">
+     ASCLEPIUS' RAISING OF THE DEAD &amp; THE THUNDERBOLT OF ZEUS
+    </h3>
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/F23.1.html">
+      <img alt="Asclepius | Greco-Roman fresco from Pompeii C1st A.D. | Naples National Archaeological Museum" class="img-responsive center-block" src="../image/F23.1Asklepios.jpg"/>
+     </a>
+     <figcaption>
+      Asclepius, Greco-Roman fresco from Pompeii C1st A.D.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 90 (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "And the father of men and gods [Zeus] was wrath, and from Olympos he smote the son of Leto [Asklepios (Asclepius)] with a lurid thunderbolt and killed him, arousing the anger of Phoibos (Phoebus) [Apollon]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Pythian Ode 3. 54 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "[Asklepios (Asclepius)] a healer for mankind of all their maladies and ills . . . And yet to profit even the skills of wisdom yield themselves captive. For a lordly bribe, gold flashing in the hand, even this man [Asklepios] was tempted to bring back to life one whom the jaws of death had seized already. With fierce hands swiftly the son of Kronos (Cronus) [Zeus] loosed his anger on these two; his blazing bolt stripped from them both their breath of life, and hurled them to their fate."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Stesichorus, Fragment 147 (from Sextus Empricicus, Against the Professors) (trans. Campbell, Vol. Greek Lyric III) (C7th to 6th B.C.) :
+     </span>
+     <br/>
+     "It is said Asklepios (Asclepius) was enticed by gold to raise up the dead Hippolytos (Hippolytus); others say he raised Tyndareus, others Kapaneus (Capaneus), others Glaukos (Glaucus), the Orphics Hymenaios (Hymenaeus), while Stesikhoros (Stesichorus) speaks of Kapaneus and Lykourgos (Lycurgus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philodemus, On Piety (trans. Campbell, Vol. Greek Lyric IV Stesichorus Frag 147 &amp; Cinesias Frag 774) (C7th to 6th B.C.) :
+     </span>
+     <br/>
+     "Zeus killed Asklepios (Asclepius) with his thunderbolt, according to the author of the
+     <em>
+      Naupactica
+     </em>
+     [Greek epic C6th-5th B.C.] and Telestes in his
+     <em>
+      Asklepios
+     </em>
+     [Greek poet C5th B.C.] and Kinesias (Cinesias) the lyric poet [C5th B.C.], because he raised Hippolytos from the dead at Artemis' request; according to Stesikhoros [lyric poet C6th-5th B.C.] in his
+     <em>
+      Eriphyle
+     </em>
+     , it was because he raised Kapaneos (Capaneus) and Lykourgos (Lycurgus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Agamemnon 1017 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "But a man's blood, once it has first fallen by murder to earth in a dark tide--who by magic spell shall call it back? Even he [Asklepios (Asclepius)] who possessed the skill to raise from the dead--did not Zeus make an end of him as warning?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Republic 408b (trans. Shorey) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "The tragedians and Pindaros (Pindar) affirm that Asklepios (Asclepius), though he was the son of Apollon, was bribed by gold to heal a man already at the point of death, and that for this cause he was struck by the lightning. But we in accordance with the aforesaid principles refuse to believe both statements, but if he was the son of a god he was not avaricious, we will insist, and if he was greedy of gain he was not the son of a god.”
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 121 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "As a surgeon Asklepios (Asclepius) became so skilled in his profession that he not only saved lived but even revived the dead; for he had received from Athena the blood that had coursed though the Gorgon's veins, the left-side portion of which he used to destroy people, but that on the right he used for their preservation, which is how he could revive those who had died. Zeus was afraid that men might learn the art of medicine from Asklepios and help each other out, so he hit him with a thunderbolt. This angered Apollon, who slew the Kyklopes (Cyclopes), for they designed the thunderbolt for Zeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 4. 610 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "The Keltoi (Celts), however, have another tale about these amber drops that are carried down the current [of the river Eridanos of Northern Europe]. They say they are the many tears that Apollon shed for his son Asklepios (Asclepius) when he visited the sacred people of the North. He was banished from the bright sky by his father Zeus, whom he blamed for having killed this son of his, who was borne by the Lady Koronis (Coronis) in splendid Lakereia (Laceria) at the mouth of the Amyros (Amyrus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 71. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Asklepios (Asclepius) was the son of Apollon and Koronis (Coronis), and since he excelled in natural ability and sagacity of mind, he devoted himself to the science of healing and made many discoveries which contribute to the health of mankind. And so far did he advance along the road of fame that, to the amazement of all, he healed many sick whose lives had been despaired of, and for this reason it was believed that he had brought back to life many who had died. Consequently, the myth goes on to say, Haides brought accusation against Asklepios, charging him before Zeus of acting to the detriment of his own province, for, he said, the number of the dead was steadily diminishing, now that men were being healed by Asklepios. So Zeus, in indignation, slew Asklepios with his thunderbolt, but Apollon, indignant at the slaying of Asklepios, murdered the Kyklopes (Cyclopes) who had forged the thunderbolt for Zeus; but at the death of the Kyklopes Zeus was again indignant and laid a command upon Apollon that he should serve as a labourer for a human being and that this should be the punishment he should receive from him for his crimes. To Asklepios, we are told further, sons were born, Makhaon (Machaon) and Podaleirios (Podalirus), who also developed the healing art and accompanied Agamemnon in the expedition against Troy."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 26. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[In the temple of Asklepios (Asclepius) at Epidauros] is an old slab, which declares that Hippolytos (Hippolytus) dedicated twenty horses to the god. The Arikians (Aricians) tell a tale that agrees with the inscription on this slab, that when Hippolytos was killed, owing to the curses of Theseus, Asklepios (Asclepius) raised him from the dead. On coming to life again he refused to forgive his father; rejecting his prayers, he want to the Arikians in Italy.That Asklepios was considered a god from the first, and did not receive the title only in the course of time. I infer from several signs, including the evidence of Homer, who makes Agamemnon say about Makhaon (Machaon):--‘Talthybios (Talthybius), with all speed go summon me hither Makhaon, mortal son of Asklepios.’ As who should say, ‘human son of a god.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 49 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Aesculapius [Asclepius], son of Apollo, is daid to have restored life either to Glaucus, son of Minos, or to Hippolytus, and Jupiter [Zeus] because of this truck him with a thunderbolt. Apollo, not being able to injure Jupiter, killed the ones who had made the thunderbolt, that is the Cyclopes. On account of this deed Apollo was given in servitude to Admetus, King of Thessaly."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 224 :
+     </span>
+     <br/>
+     "Mortals who were made immortal . . . Asclepius, son of Apollo and Coronis."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 251 :
+     </span>
+     <br/>
+     "Those sho, by permission of the Parcae [Moirai, Fates], returned from the lower world . . . Asclepius, son of Apollo and Coronis."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 14 :
+     </span>
+     <br/>
+     "[Constellation Opiuchus :] The Serpent-Holder. Many astronomers have imagined that he is Aesculapius [Asclepius], whom Jupiter [Zeus], for the sake of Apollo, put among the stars. For when Aesculapius was among men, he so fare excelled the rest in the art of medicine that it wasn't enough for him to have healed men's diseases unless he could also bring back the dead to life. He is said most recently, according to Eratosthenes [Greek writer C3rd B.C.] to have restored to life Hippolytus who had been killed by the injustice of his stepmother and the ignorance of his father. Some have said that by his skill Glaucus, son of Minos, lived again. Because of this, as for a sin, Jove struck and burned his house with a thunderbolt, but because of his skill, and since Apollo was his father, put him among the constellations holding a snake.
+     <br/>
+     Certain people have said that he holds the snake for the following reason. [N.B. The following myth is usually told of the seer Polyidos rather than Asclepius.] When he was commanded to restore Glaucus, and was confined in a secret prison, while meditating what he should do, staff in hand, a snake is said to have crept on to his staff. Distracted in mind, Aesculapius killed it, striking it again and again with his staff as it tried to flee. Later, it is said, another snake came there, bringing an herb in its mouth, and placed it on its head. When it had done this, both fled from the place. Where upon Aesculapius, using the same herb, brought Glaucus, too, back to life.
+     <br/>
+     And so the snake is put in the guardianship of Aesculapius and among the stars as well. Following his example, his descendants passed the knowledge on to others, so that doctors make use of snakes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 15 :
+     </span>
+     <br/>
+     "Eratosthenes [Greek writer C3rd B.C.] says about the [constellation] Arrow, that with this Apollo killed the Cyclopes who forged the thunderbolt by which Aesculapius [Asclepius] died. Apollo had buried this arrow in the Hyperborean mountain, but when Jupiter [Zeus] pardoned his on, it was borne by the wind and brought to Apollo along with the grain which at that time was growing. Many point out that for this reason it is among the constellations."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 2. 644 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Asclepius] healer of the world. Often men shall owe health and life, and yours shall be the right to win again departed souls, and, though you dare this once in heaven's despite, Jove's [Zeus'] bolt will thwart that gift a second time. You, now divine, shall be a lifeless corpse, and from a corpse become divine again, and twice you shall renew your destiny." [N.B. Asklepios was deified after death through the intercession of Apollon.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 6. 735 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The youth [Acslepius] blasted by ancestral bolts [of Zeus] soars from earth [i.e. rising as the constellation Ophiuchus] and flings his hands coiled with double snakes . . .
+     <br/>
+     Phaedra's love [for her stepson Hippolytos] is famous; Theseus' crime is famous : that credulous man cursed his son [Hippolytos] to death . . . 
+  [Poseidon answered Theseus' prayers and Hippolytos is cast to his death from the chariot.]
+     <br/>
+     Diana [Artemis] howled indignation. ‘There's no cause to grieve.’ Coronides [i.e. Asklepios (Asclepius) son of Koronis (Coronis)] says. ‘I'll restore the pious youth to life, unwounded, and the grisly fates will yield to my art.’ At once he takes some herbs from an ivory box. They worked before on the ghost of Glaucus, when an augur resorted to herbs he'd noticed, and a serpent used the help of a serpent. He daubed his breast three times, thrice spoke healing words. The youth raised his drooping head from the ground. The grove and recesses of Dictynna's [Artemis'] wood hide him : he is Virbius of Aricia's lake. Clymenus [Haides] and Clotho resent the threads of life respun and death's royal rights diminished. Jove [Zeus] feared the precedent and aimed his thunderbolt at the man who employed excessive art. Phoebus [Apollon], you whined. He is a god; smile at your father, who, for your sake, undoes his prohibitions [i.e. when he obtains immortality for Asklepios]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 1 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Medicine can cure all human pains . . . the god of Epidaurus [Asclepius] by his Cretan herbs restored the lifeless Androgeon to his father's [Minos of Crete's] hearth."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 2. 24 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "Human experience moreover and general custom have made it a practise to confer the deification of renown and gratitude upon distinguished benefactors. This is the origin of Hercules [Herakles], of Castor and Pollux [the Dioskouroi (Dioscuri)], of Aesculapius [Asklepios] . . . And these benefactors were duly deemed divine, as being both supremely good and immortal, because their souls survived and enjoyed eternal life."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 15 :
+     </span>
+     <br/>
+     "In Greece they worship a number of deified human beings, Alabandus at Alabanda, Tennes at Tenedos, Leucothea, formerly Ino, and her son Palaemon throughout the whole of Greece, as also Hercules [Herakles], Aesculapius [Asklepios], the sons of Tyndareus [the Dioskouroi (Dioscuri)]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 18 :
+     </span>
+     <br/>
+     "If you call Apollo, Vulcanus [Hephaistos (Hephaestus)], Mercurius [Hermes] and the rest gods, will you have doubts about Hercules [Herakles], Aesculapius [Asklepios], Liber [Dionysos], Castor and Pollux [the Dioskouroi (Dioscuri)]? But these are worshipped just as much as those, and indeed in some places very much more than they. Are we then to deem these gods, the sons of mortal mothers?"
+    </p>
+    <hr/>
+    <h3 id="Staff">
+     THE SERPENT-ENTWINED STAFF OF ASCLEPIUS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 14 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Certain people have said that he [Asklepios (Asclepius)] holds the snake for the following reason. When he was commanded to restore Glaucus, and was confined in a secret prison, while meditating what he should do, staff in hand, a snake is said to have crept on to his staff. Distracted in mind, Aesculapius killed it, striking it again and again with his staff as it tried to flee. Later, it is said, another snake came there, bringing an herb in its mouth, and placed it on its head. When it had done this, both fled from the place. Where upon Aesculapius, using the same herb, brought Glaucus, too, back to life. 
+  And so the snake is put in the guardianship of Aesculapius and among the stars as well. Following his example, his descendants passed the knowledge on to others, so that doctors make use of snakes." [N.B. The seer Polyidos rather than Asklepios is usually credited with the revival of Glaukos.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 1. 4 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "The noble serpent clinging in its slippery embrace to the Physician-God's [Asklepios' (Asclepius')] staff, the one he carries all knotty with half-amputated branches."
+    </p>
+    <hr/>
+    <h3 id="Hymns">
+     HYMNS TO ASCLEPIUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 16 to Asclepius (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "I begin to sing of Asklepios (Asclepius), son of Apollon and healer of sicknesses. In the Dotian plain fair Koronis (Coronis), daughter of King Phlegyas, bare him, a great joy to men, a soother of cruel pangs. and so hail to you, lord: in my song I make my prayer to thee!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 939 (Inscription from Erythrai) (trans. Campbell) (B.C.) :
+     </span>
+     <br/>
+     "Sing, youths, of Paian (Paean), skill-famed, Leto's son, Far-shooter--
+     <em>
+      ie Paian!
+     </em>
+     --who fathered a great joy for mortals when he mingled in love with Koronis (Coronis) in the land of the Phlegyai--
+     <em>
+      ie Paian!
+     </em>
+     --, Asklepios (Asclepius), the most famous god--
+     <em>
+      ie Paian!
+     </em>
+     <br/>
+     By him were fathered Makhaon (Machaon) and Podaleirios (Podalirus) and Iaso (Healer)--
+     <em>
+      ie Paian!
+     </em>
+     --and fair-eyed Aigle (Aegle, Radiance) and Panakea (Panacea, Cure-all), children of Epione, along with Hygieia (Health), all-glorious, undefiled; ie Paian! Asklepios, the most famous god--
+     <em>
+      ie Paian!
+     </em>
+     <br/>
+     Greetings I give you: graciously visit our widespaced city--
+     <em>
+      ie Paian!
+     </em>
+     --and grant that we look on the sun's light in joy, approved with the help of Hygieia, all-glorious, undefiled :
+     <em>
+      ie Paian!
+     </em>
+     --Asklepios, the most famous god--
+     <em>
+      ie Paian!
+     </em>
+     "
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Anonymous, Fragments 937 (Inscription from the shrine of Asclepius at Epidaurus) :
+     </span>
+     <br/>
+     "High-skilled Asklepios (Asclepius); and summon the two Dioskouroi and the august Kharites (Charites, Graces) and glorious Mousai (Muses) and kindly Moirai (Moirae, Fates) and unwearied Helios (Sun) and Selene (Moon) at her full and all the signs with which heaven is crowned. Greetings, all you immortal gods everlasting and immortal goddesses!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hippocrates, The Hippocratic Oath (Greek physician C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "I swear by Apollon the physician, and Asklepios (Asclepius), and Hygeia, and Panakeia (Panacea), and all the gods and goddesses, that, according to my ability and judgment, I will keep this Oath and this stipulation . . . "
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 67 to Asclepius (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Asklepios (Asclepius), Fumigation from Manna. Great Asklepios, skilled to heal mankind, all-ruling Paian (Paean), and physician kind; whose arts medicinal can alone assuage diseases dire, and stop their dreadful rage. Strong, lenient God, regard my suppliant prayer, bring gentle health, adorned with lovely hair; convey the means of mitigating pain, and raging deadly pestilence restrain. O power all-flourishing, abundant, bright, Apollon's honoured offspring, God of light; husband of blameless Hygeia (Health), the constant foe of dread disease, the minister of woe: come, blessed saviour, human health defend, and to the mortal life afford a prosperous end."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z23.1.html">
+        <img alt="Thumbnail Asclepius &amp; Hippocrates" src="../image/thumbZ23.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z23.1 Asclepius &amp; Hippocrates
+        </h3>
+        <p>
+         Greco-Roman Cos Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/F23.1.html">
+        <img alt="Thumbnail Asclepius" src="../image/thumbF23.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         F23.1 Asclepius
+        </h3>
+        <p>
+         Greco-Roman Pompeii Wall Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S23.1.html">
+        <img alt="Thumbnail Asclepius Statue" src="../image/thumbS23.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S23.1 Asclepius
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S23.2.html">
+        <img alt="Thumbnail Asclepius Statue" src="../image/thumbS23.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S23.2 Asclepius
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S23.3.html">
+        <img alt="Thumbnail Asclepius Statue" src="../image/thumbS23.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S23.3 Asclepius
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S23.4.html">
+        <img alt="Thumbnail Asclepius Statue" src="../image/thumbS23.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S23.4 Asclepius
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S23.5.html">
+        <img alt="Thumbnail Asclepius Statue" src="../image/thumbS23.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S23.5 Asclepius
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S23.6.html">
+        <img alt="Thumbnail Asclepius &amp; Hygeia Statue" src="../image/thumbS23.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S23.6 Asclepius
+        </h3>
+        <p>
+         Greco-Roman Marble Statue
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL ASCLEPIUS PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Stesichorus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C7th - 6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Sophocles, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Cinesias, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Anonymous, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Agamemnon
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Plutus
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Wasps
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Hippocrates, The Hippocratic Oath
+      <span class="sources-detail">
+       - Greek Rhetoric C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Ion
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Republic
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Isyllus, Hymn to Asclepius
+      <span class="sources-detail">
+       - Greek Poetry C4th - 3rd B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaPhaedra.html">
+       Seneca, Phaedra
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     ASCLEPIUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE GOD ASCLEPIUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Apollo and Coronis
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Epione
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Medicine, doctors
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Serpent-entwined staff
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Snake
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Retinue
+       </th>
+       <td>
+        Hygeia, Iaso, Panacea, Aegle
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Aesculapius
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Constellation
+       </th>
+       <td>
+        Ophiochus
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     ASCLEPIUS PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction &amp; Myths
+      <ul>
+       <li>
+        <a href="#Family">
+         Family of Asclepius
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Summary">
+         Story of Asclepius (Apollodorus' Summary)
+        </a>
+       </li>
+       <li>
+        <a href="#Birth">
+         Birth &amp; Education of Asclepius
+        </a>
+       </li>
+       <li>
+        <a href="#Children">
+         Children of Asclepius
+        </a>
+       </li>
+       <li>
+        <a href="#Inventor">
+         Asclepius Inventor of Medicine
+        </a>
+       </li>
+       <li>
+        <a href="#Death">
+         Asclepius' Raising of the Dead &amp; Zeus' Thunderbolt
+        </a>
+       </li>
+       <li>
+        <a href="#Staff">
+         The Serpent-Staff of Asclepius
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Asclepius
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/AsklepiosCult.html">
+       Part 2: Cult of Asclepius
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#General">
+         General Cult
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Aigina">
+         Aegina, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Korinthia">
+         Corinth, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Sikyonia">
+         Sicyonia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Messenia">
+         Messenia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Elis">
+         Elis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Akhaia">
+         Achaea, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Lokris">
+         Ozolian Locris, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Thessalia">
+         Thessaly, Northern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Kos">
+         Cos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Krete">
+         Crete, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Teuthrania">
+         Teuthrania, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Kilikia">
+         Cilicia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Aigyptos">
+         Egypt, North Africa
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Libya">
+         Libya, North Africa
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Rome">
+         Rome &amp; Latium, Central Italy
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/AsklepiosCult.html#Cult">
+         Cult Titles &amp; Epithets
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

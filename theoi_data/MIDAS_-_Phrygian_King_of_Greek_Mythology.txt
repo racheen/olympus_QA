@@ -1,0 +1,1591 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   MIDAS - Phrygian King of Greek Mythology
+  </title>
+  <meta content="Midas was a wealthy king of Phrygia in Anatolia. When Silenus--an elderly companion of the god Dionysus--was separated from his master's company, Midas captured him with the lure of wine. He treated the old satyr hospitably and after returning him to the god was rewarded with a wish. He prayed for a golden touch--a boon which quickly proved a curse when the king discovered his food also transformed. Petitioning the god again, he was instructed to bathe in the river Pactolus which not only rid him of the power but also imbued the river's sands with gold." name="description"/>
+  <meta content="Midas, Greek mythology, king of Phrygia, golden-touch" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/heroes.html">
+      Kings
+     </a>
+     &gt;&gt;  Midas
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     MIDAS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Μιδας
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Midas
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Midas
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       --
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <p>
+     MIDAS was a wealthy king of Phrygia in Anatolia. When
+     <a href="../Georgikos/Seilenos.html">
+      Seilenos (Silenus)
+     </a>
+     --an elderly companion of the god
+     <a href="../Olympios/Dionysos.html">
+      Dionysos
+     </a>
+     --was separated from his master's company, Midas captured him with the lure of wine. He treated the old satyr hospitably and after returning him to the god was rewarded with a wish. He prayed for a golden touch--a boon which quickly proved  a curse when the king discovered his food also transformed. Petitioning the god again, he was instructed to bathe in the river Paktolos (Pactolus) which not only rid him of the power but also imbued the river's sands with gold.
+    </p>
+    <p>
+     The king was later called upon to judge a musical contest between the gods
+     <a href="../Olympios/Apollon.html">
+      Apollon
+     </a>
+     and
+     <a href="../Georgikos/Pan.html">
+      Pan
+     </a>
+     (or   the satyr
+     <a href="../Georgikos/SatyrosMarsyas.html">
+      Marsyas
+     </a>
+     ). The foolish man declared his preference for the music of the pipe and was afflicted with a pair of asses' ears by the angry god. Ashamed of this deformity,  Midas hid the ears beneath the flaps of a Phrygian cap--the traditional head-gear of the local nobility--but a maid whispered his secret into a patch of reeds and the truth was outed.
+    </p>
+    <p>
+     Midas was also the legendary founder of the city of Ankyra (Ankara)--which today is the capital of Turkey.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF MIDAS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1] GORDIAS
+     <span class="family-refs">
+      (Herodotus 1.14 &amp; 8.138, Pausanias 1.4.5)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Phrygios/Kybele.html">
+      KYBELE
+     </a>
+     <span class="family-refs">
+      (Plutarch Life of Caesar 9, Hyginus Fabulae 191)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1] ANKHYROS
+     <span class="family-refs">
+      (Plutarch Parallel Stories 5)
+     </span>
+     <br/>
+     [1.2] LITYERSES
+     <span class="family-refs">
+      (Suidas s.v. Lityerses)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     MIDAS (Midas), a son of Gordius, according to some by Cybele (Hygin.
+     <em>
+      Fab.
+     </em>
+     274), a wealthy but effeminate king of Phrygia, a pupil of Orpheus, and a promoter of the worship of Dionysus (Herod. i. 14; Paus. i. 4. § 5; Aelian,
+     <em>
+      V. H.
+     </em>
+     iv. 17; Strab. vii. p. 304). His wealth is alluded to in a story connected with his childhood, for it is said that while yet a child, ants carried grains of wheat into his mouth to indicate that one day he should be the richest of all mortals (Cic.
+     <em>
+      De Div.
+     </em>
+     i. 36 ; Val. Max. i. 6. § 3; Aelian,
+     <em>
+      V. H.
+     </em>
+     xii. 45). His effeminacy is described by Philostratus (
+     <em>
+      Icon.
+     </em>
+     i. 22; comp. Athen. xii. p. 516). It seems probable that in this character he was introduced into the Satyric drama of the Greeks, and was represented with the ears of a satyr, which were afterwards lengthened into the ears of an ass. He is said to have built the town of Ancyra (Strab. xiii. pp. 568, 571; Paus. i. 4. § 5), and as king of Phrygia he is called
+     <em>
+      Berecynthius heros
+     </em>
+     (Ov.
+     <em>
+      Met.
+     </em>
+     xi. 106). In reference to his later life we have several legends, the first of which relates his reception of Seilenus. During the expedition of Dionysus from Thrace to Phrygia, Seilenus in a state of intoxication had gone astray, and was caught by country people in the rose gardens of Midas. He was bound in wreaths of flowers and led before the king. These gardens were in Macedonia, near Mount Bermion or Bromion, where Midas was king of the Briges, with whom he afterwards emigrated to Asia, where their name was changed into Phryges (Herod. vii. 83, viii. 138; Conon,
+     <em>
+      Nrarrat.
+     </em>
+     1). Midas received Seilenus kindly, conversed with him (comp. Plut.
+     <em>
+      Consol. ad Apoll.
+     </em>
+     ; Aelian,
+     <em>
+      V. H.
+     </em>
+     iii. 18), and after having treated him hospitably for ten days, he led him back to his divine pupil, Dionysus, who in his gratitude requested Midas to ask a favour. Midas in his folly desired that all things which he touched should be changed into gold (comp. Plut.
+     <em>
+      Purall. Min.
+     </em>
+     5). The request was granted, but as even the food which he touched was changed into gold, he implored the god to take his favour back. Dionysus accordingly ordered him to bathe in the source of Pactolus near Mount Tmolus. This bath saved Midas, but the river from that time had an abundance of gold in its sand (Ov.
+     <em>
+      Met.
+     </em>
+     xi. 90, &amp;c.; Hygin.
+     <em>
+      Fab.
+     </em>
+     191; Virg.
+     <em>
+      Eclog.
+     </em>
+     vi. 13). A second story relates his capture of Satyrus. Midas, who was himself related to the race of Satyrs, once had a visit from a Satyr, who indulged in all kinds of jokes, and ridiculed the king for his Satyr's ears. Midas, who had learnt from his mother how Satyrs might he caught and brought to reason, mixed wine in a well, and when the Satyr had drunk of it, he fell asleep and was caught (Philostr.
+     <em>
+      Vit. Apoll.
+     </em>
+     vi. 27). This well of Midas was at different times assigned to different localities. Xenophon (
+     <em>
+      Anab.
+     </em>
+     i. 2. § 13) places it in the neighbourhood of Thymbrium and Tyraeum, and Pausanias (i. 4. § 5) at Ancyra Comp. Athen. ii. 45; Plut.
+     <em>
+      De Fluv.
+     </em>
+     10). Once when Pan and Apollo were engaged in a musical contest on the flute and lyre, Tmolus, or according to others (Hygin.
+     <em>
+      Fab.
+     </em>
+     191, who speaks of the contest between Apollo and Marsyas), Midas, was chosen to decide between them. Tmolus decided in favour of Apollo, and all agreed in it except Midas. To punish him for this, Apollo changed his ears into those of an ass. Midas contrived to conceal them under his Phrygian cap, but the servant who used to cut his hair discovered them. The secret so much harassed this man, that as he could not betray it to a human being, he dug a hole in the earth, and whispered into it, "King Midas has ass's ears." He then filled the hole up again, and his heart was released. But on the same spot a reed grew up, which in its whispers betrayed the secret to the world (Ov.
+     <em>
+      Met.
+     </em>
+     xi. 146, &amp;c.; Pers.
+     <em>
+      Sat.
+     </em>
+     i. 121 ; Aristoph.
+     <em>
+      Plut.
+     </em>
+     287). Midas is said to have killed himself by drinking the blood of an ox. (Strab. i. p. 61; Plut.
+     <em>
+      De Superst.
+     </em>
+     7.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 8. 138. 1 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "So the brothers came to another part of Makedonia (Macedonia) and settled near the place called the garden of Midas son of Gordias, where roses grow of themselves, each bearing sixty blossoms and of surpassing fragrance. In this garden, according to the Makedonian story, Silenos (Silenus) was taken captive [by Midas]. Above it rises the mountain called Bermios, which none can ascend for the wintry cold."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 1. 14. 2 :
+     </span>
+     <br/>
+     "[The historical king] Gyges then was the first foreigner whom we know who placed offerings at Delphoi (Delphi) after the [mytho-historical] king of Phrygia, Midas son of Gordias. For Midas too made an offering : namely, the royal seat on which he sat to give judgment, and a marvellous seat it is. It is set in the same place as the bowls of Gyges."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 1. 45. 1 :
+     </span>
+     <br/>
+     "Adrastos [historical king], son of Gordias who was son of Midas."
+     <br/>
+     [N.B. King Adrastos was a contemporary of King Kroisos (Croesus) of Lydia, C6th B.C. Historical Phrygian kings were named Midas and Gordias after the mythical founders of their dynasty.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Xenophon, Anabasis  1. 2. 13 (trans. Brownson) (Greek historian C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "There, alongside the road, was the so-called spring of Midas, the king of the Phrygians, at which Midas, according to the story, caught the Satyros (Satyr) [i.e. Seilenos] by mixing wine with the water of the spring."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Lycophron, Alexandra 1397 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "And the Phrygian [King Midas], avenging the blood of his brothers [i.e. the Trojans], will sack again the land that nursed the ruler of the dead [i.e. the continent of Europe] . . . He shall spoil the ears of the ass, lobes and all, and deck his temples, fashioning a terror for the ravenous blood-suckers [i.e. flies]. By him all the land of Phlegra shall be enslaved and the ridge of Thrambos and spur of Titon by the sea and the plains of the Sithonians and the fields of Pallene."
+     <br/>
+     [N.B. According to Lycophron, after the Trojan War King Midas of Phrygia invaded the regions of Thrake and Makedonia.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 7. 3. 12  (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Attic [Athenian] people were wont either to call their slaves by the same names as those of the nations from which they were brought (as Lydos or Syros), or addressed them by names that were prevalent in their countries (as Manes or else Midas for the Phrygian)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 12. 5. 3 :
+     </span>
+     <br/>
+     "There is also a mountain situated above the city [of Pessinous in Phyrgia], Dindymon, after which the country Dindymene was named, just as Kybele (Cybele) was named after Kybela (Cybela). Near by, also, flows the Sangarios River; and on this river are the ancient habitations of the Phrygians, of Midas, and of Gordios, who lived even before his time, and of certain others,--habitations which preserve not even traces of cities, but are only villages slightly larger than the other."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 12. 18. 1 :
+     </span>
+     <br/>
+     "One part of Phrygia is called Greater Phrygia, the part over which Midas reigned, a part of which was occupied by the Galatians, whereas the other is called Lesser Phrygia, that on the Hellespontos (Hellespont) and round Olympos, I mean Phrygia Epiktetos, as it is called."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 5. 28 :
+     </span>
+     <br/>
+     "The wealth of Tantalos (Tantalus) and the Pelopidai arose from the [gold] mines round Phrygia and Sipylos . . . and that of Midas from those round Mt. Bermios (Bermius)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 4. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Ankyra (Ankara), a city of the Phrygians, which Midas son of Gordias had founded in former time. And the anchor, which Midas found, was even as late as my time in the sanctuary of Zeus, as well as a spring called the Spring of Midas, water from which they say Midas mixed with wine to capture Silenos (Silenus) . . . Ankyra and Pessinos (Pessinus) which lies under Mount Agdistis, where they say that Attis lies buried."
+     <br/>
+     [N.B. "The anchor which Midas found" is a legend invented to explain the name Ankyros (Ankara), which means "anchor" in Greek.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plutarch, Life of Julius Caesar 9 (trans. Perrin) (Greek historian C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "The 
+  Grecians have her whom they call Gynaikia (Gynaecia) [i.e. the Greek goddess Rhea], to wit, the goddess of women. Her [i.e. the Phrygian goddess Kybele (Cybele)], the Phrygians do claim to be peculiar unto them, saying  that she is king Midas' mother."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Plutarch, Greek and Roman Parallel Stories 5 (trans. Babbitt) (Greek historian C2nd A.D.) :
+     </span>
+     <br/>
+     "At the city of Kelainai (Celaenae) in Phrygia the earth yawned open, together with a heavy rain, and dragged down many homesteads with their inhabitants into the depths. Midas the king received an oracle that if he should throw his most precious possession into the abyss, it would close. He cast in gold and silver, but this availed nothing. But Ankhyros (Anchyrus), the son of Midas, reasoning that there is nothing in life more precious than a human life, embraced his father and his wife Timothea, and rode on his horse into the abyss. When the earth had closed, Midas made an altar of  Zeus Idaios (Idaean) golden by a touch of his hand. This altar becomes of stone at that time of the year when this yawning of the earth occurred; but when this limit of time has passed, it is seen to be golden. So Kallisthenes (Callisthenes) [Greek writer C4th B.C.] in the second book of his
+     <em>
+      Metamorphoses
+     </em>
+     ." [N.B. Ankhyros, son of Midas, is the eponym of the city of Ankyra (Ankara).]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Athenaeus, Deipnosophistae 2. 45c (trans. Gullick) (Greek rhetorician C2nd to C3rd A.D.) :
+     </span>
+     <br/>
+     "Antiokhos (Antioch) Epiphanes . . . mixed wine in the well of Antiokhos [chief city of Phrygia]. The same thing was done by the Phrygian Midas, according to Theopompos [Greek historian C4th B.C. historian], when he desired to catch Silenos by making him drunk."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 3. 18 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Theopompos [C4th B.C. historian from Khios (Chios)] describes a meeting between Midas the Phrygian and Seilenos (Silenus)--this Seilenos was the son of a nymphe, less illustrious than a god, but superior to a man, since he was immortal. There was a long conversation between them and Seilenos spoke to Midas on the following themes . . . [The author then goes on to describe an imaginery land located on the far shores of the earth-encircling river Okeanos.]"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 12. 45 :
+     </span>
+     <br/>
+     "Phrygian traditions celebrate these facts : when as a small child the Phrygian Midas was sleeping ants came up to his mouth and with care and industry carried into it ears of corn."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 22 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[Ostensibly a description of an ancient Greek painting in Neapolis (Naples) :] Midas. The Satyros (Satyr) [Seilenos (Silenus)] is asleep; let us speak of him with bated breath, lest he wake and spoil the scene before us. Midas has captured him with wine in Phrygia on the very mountain-side, as you see, by filling with wine the spring beside which he lies disgorging the wine in his sleep.
+     <br/>
+     Charming is the vehemence of Satyroi when they dance, and charming their ribaldry when they laugh; they are given to live, noble creatures that they are, and they subdue the Lydian women to their will by their artful flatteries. And this too is true of them: they are represented in paintings as hardy, hot-blooded beings, with prominent ears, lean about the loins, altogether mischievous, and having the tails of horses.
+     <br/>
+     The Satyros caught by Midas is here depicted as Satyroi in general are, but he is asleep as a result of the wine, breathing heavily like a drunken man. He has drunk up the whole spring more easily than another would have taken a cupful, and the Nymphai (Nymphs) dance, mocking the Satyros for having fallen asleep. See the long ears, which give his seemingly attractive eyes a sleepy look and turn their charm into dullness; for the painting purposely hints that this story ahs already been divulged and published abroad among men by the pen, since the earth could not keep secret what it heard."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 4. 27 (trans. Conybeare) (Greek biography C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "[The pagan prophet Apollonius of Tyana is called upon to deal with a pesky satyr (actually an ape) in Aithiopia (Ethiopia) and draws inspiration from the legend of King Midas and Seilenos (Silenus) :] I have a remedy against these hell-hounds [Satyroi (Satyrs) or African apes], which Midas is said once to have employed; for Midas himself had some of the blood of Satyroi in his veins, as was clear from the shape of his ears; and a Satyros [Seilenos] once, trespassing on his kinship with Midas, made merry at the expense of his ears, not only singing about them, but piping about them. Well, Midas, I understand, had heard from his mother that when a Satyros is overcome by wine he falls asleep, and at such times comes to his senses and will make friends with you; so he mixed wine which he had in his palace in a fountain and led the Satyros get at it, and the latter drank it up and was overcome. And to show that the story is true, let us go to the head man of the village, and if the villagers have any wine, we will mix it with water for the Satyros and he will share the fate of Midas' Satyros."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Clement of Alexandria, Exhortation to the Greeks 2 (trans. Butterworth) (Greek Christian rhetoric C2nd A.D.) :
+     </span>
+     <br/>
+     "[On the founding of the Orgies :] Dardanos, who introduced the mysteries of the Mother of the Gods [to Mount Ida in the Troad]; or Eëtion, who founded the Samothrakian orgies and rites; or that Phrygian Midas, who learnt the artful deceit from Odrysos (Odrysus) and then passed it on to his subjects."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 191 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Midas, Mygdonian king, [was a] son of the the Mother goddess from Timolus [Cybele] . . ((lacuna)) was taken [as judge] at the time when Apollo contested with Marsyas, or Pan, on the pipes. When Timolus gave the victory to Apollo, Midas said it should rather have been given to Marsyas. Then Apollo angrily said to Midas : ‘You will have ears to match the mind you have in judging,’ and with these words he caused him to have ass's ears.
+     <br/>
+     At the time when Father Liber [Dionysos] was leading his army into India, Silenus wandered away; Midas entertained him generously, and gave him a guide to conduct him to Liber's [Dionysos'] company. Because of this favour, Father Liber gave Midas the privilege of asking him for whatever he wanted. Midas asked that whatever he touched should become gold. When he had been granted the wish, and came to his palace, whatever he touched became gold. When now he was being tortured with hunger, he begged Liber [Dionysos] to take away the splendid gift. Liber bade him bathe in the River Pactolus, and when his body touched the water it became a golden colour. The river in Lydia is now called Chrysorrhoas (Golden-Flow)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 274 :
+     </span>
+     <br/>
+     "Inventors and their Inventions . . . 
+  King Midas, a Phrygian, son of Cybele, first discovered black and white lead."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 11. 85 ff (trans. Brookes More) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Bacchus [Dionysos] resolved to leave that land [of Thrace], and with a worthier train went to the vineyards of his own Tmolus and to Pactolus [in Phrygia], though the river was not golden, nor admired for precious sands. His usual throng of Satyri (Satyrs) and of Bacchae surrounded him; but not Silenus, who was then detained from him. The Phrygian folk had captured him, as he was staggering, faint with palsied age and wine. And after they bound him in garlands, they led him to their king Midas, to whom with the Cecropian Eumolpus, Thracian Orpheus had shown all the Bacchic rites. When Midas recognized his old time friend Silenus, who had been so often his companion in the rites of Bacchus, he kept joyful festival, with his old comrade, twice five days and nights. Upon the eleventh day, when Lucifer (the Morning Star) had dimmed the lofty multitude of stars, King Midas and Silenus went from there joyful together to the Lydian lands. There Midas put Silenus carefully under the care of his loved foster-child, young Liber [Dionysos]. He with great delight, because he had his foster-father once again, allowed the king to choose his own reward--a welcome offer, but it led to harm. And Midas made this ill-advised reply : ‘Cause whatsoever I shall touch to change at once to yellow gold.’
+     <br/>
+     Bacchus agreed to his unfortunate request, with grief that Midas chose for harm and not for good. The Berecynthian hero, king of Phrygia, with joy at his misfortune went away, and instantly began to test the worth of Bacchus' word by touching everything. Doubtful himself of his new power, he pulled a twig down from a holm-oak, growing on a low hung branch. The twig was turned to gold. He lifted up a dark stone from the ground and it turned pale with gold. He touched a clod and by his potent touch the clod became a mass of shining gold. He plucked some ripe, dry spears of grain, and all that wheat he touched was golden. Then he held an apple which he gathered from a tree, and you would think that the Hesperides had given it. If he but touched a lofty door, at once each door-post seemed to glisten. When he washed his hands in liquid streams, the lustrous drops upon his hands might have been those which once astonished Danae. He could not now conceive his large hopes in his grasping mind, as he imagined everything of gold. And, while he was rejoicing in great wealth, his servants set a table for his meal, with many dainties and with needful bread: but when he touched the gift of Ceres [of Demeter, i.e. bread] with his right hand, instantly the gift of Ceres stiffened to gold; or if he tried to bite with hungry teeth a tender bit of meat, the dainty, as his teeth but touched it, shone at once with yellow shreds and flakes of gold. And wine, another gift of Bacchus, when he mixed it in pure water, can be seen in his astonished mouth as liquid gold.
+     <br/>
+     Confounded by his strange misfortune--rich and wretched--he was anxious to escape from his unhappy wealth. He hated all he had so lately longed for. Plenty could not lessen hunger and no remedy relieved his dry, parched throat. The hated gold tormented him no more than he deserved. Lifting his hands and shining arms to heaven, he moaned. ‘Oh pardon me, father Lenaeus! I have done wrong, but pity me, I pray, and save me from this curse that looked so fair.’ How patient are the gods! Bacchus forthwith, because King Midas had confessed his fault, restored him and annulled the promise given, annulled the favor granted, and he said : ‘That you may not be always cased in gold, which you unhappily desired, depart to the stream that flows by that great town of Sardis and upward trace its waters, as they glide past Lydian heights, until you find their source. Then, where the spring leaps out from mountain rock, plunge head and body in the snowy foam. At once the flood will take away your curse.’ King Midas did as he was told and plunged beneath the water at the river's source. And the gold virtue granted by the god, as it departed from his body, tinged the stream with gold. And even to this hour adjoining fields, touched by this ancient vein of gold, are hardened where the river flows and colored with the gold that Midas left."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 11. 146 ff :
+     </span>
+     <br/>
+     "Abhorring riches he [Midas] inhabited the woods and fields, and followed Pan who dwells always in mountain-caves: but still obtuse remained, from which his foolish mind again, by an absurd decision, harmed his life. He followed Pan up to the lofty mount Tmolus, which from its great height looks far across the sea. Steep and erect it stands between great Sardis and the small Hypaepa. While Pan was boasting there to mountain Nymphae (Nymphs) of his great skill in music, and while he was warbling a gay tune upon the reeds, cemented with soft wax, in his conceit he dared to boast to them how he despised Apollo's music when compared with his--. At last to prove it, he agreed to stand against Apollo in a contest which it was agreed should be decided by [Mount] Tmolus as their umpire. This old god sat down on his own mountain, and first eased his ears of many mountain growing trees, oak leaves were wreathed upon his azure hair and acorns from his hollow temples hung. First to the shepherd-god Tmolus spoke : ‘My judgment shall be yours with no delay.’ Pan made some rustic sounds on his rough reeds, delighting Midas with his uncouth notes; for Midas chanced to be there when he played. When Pan had ceased, divine Tmolus turned to Phoebus, and the forest likewise turned just as he moved. Apollo's golden locks were richly wreathed with fresh Parnassian laurel; his robe of Tyrian purple swept the ground; his left hand held his lyre, adorned with gems and Indian ivory. His right hand held the plectrum--as an artist he stood there before Tmolus, while his skilful thumb touching the strings made charming melody. Delighted with Apollo's artful touch, Tmolus ordered Pan to hold his reeds excelled by beauty of Apollo's lyre.
+     <br/>
+     That judgment of the sacred mountain god pleased all those present, all but Midas, who blaming Tmolus called the award unjust. The Delian god forbids his stupid ears to hold their native human shape; and, drawing them out to a hideous length, he fills them with gray hairs, and makes them both unsteady, wagging at the lower part: still human, only this one part condemned, Midas had ears of a slow-moving ass. Midas, careful to hide his long ears, wore a purple turban over both, which hid his foul disgrace from laughter. But one day a servant, who was chosen to cut his hair with steel, when it was long, saw his disgrace. He did not dare reveal what he had seen, but eager, to disclose the secret, dug a shallow hole, and in a low voice told what kind of ears were on his master's head. All this he whispered in the hollow earth he dug, and then he buried all he said by throwing back the loose earth in the hole so everything was silent when he left. A grove thick set with quivering reeds began to grow there, and when it matured, about twelve months after that servant left, the grove betrayed its planter. For, moved by a gentle South Wind, it repeated all the words which he had whispered, and disclosed from earth the secret of his master's ears."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 7. 204 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "[On inventions :] Pan son of Mercurius [Hermes] [invented] the pipe and single flute, Midas in Phrygia the slanting flute, Marsyas in the same nation the double-flute."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Fulgentius, Mythologies 2. 16 (trans. Whitbread) (Late Roman writer C5th or 6th A.D.) :
+     </span>
+     <br/>
+     "[Midas is used as a metaphor for wealth :] For the tax assessment . . . had each day worn down my very doorstep with the feet of those who would accost me, so that, had King Midas been transformed from a human being to pursue riches as he stiffened what he touched into gold, I verily believe I could have dried up the streams of Pactolus itself for the crowds of visitors I mentioned."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Fulgentius, Mythologies 2. 10 :
+     </span>
+     <br/>
+     "The Fable of King Midas and the River Pactolus. King Midas besought Apollo that whatever he touched might turn to gold; since he deserved it, the boon turned into a punishment, and he began to be tortured by the effects of his own wish, for whatever he touched straightway did become gold. This, therefore, was golden penury and a rich poverty, for both food and drink stiffened and hardened into a gold substance. So he besought Apollo to change his evil choice and received the reply that he should immerse his head three times in the waters of the river Pactolus. From this action the Pactolus is said continuously to carry down golden sands. Clearly poets have sagaciously alluded here to avarice, for the reason that any seeker after avarice when he fixes everything at a price dies of hunger, and such was King Midas; but the greatest contribution of his wealth, as Solicrates of Cyzicus relates in the books of his history, was that, with this total revenue of his, King Midas diverted the river Pactolus, which once ran to the sea, through innumerable channels for irrigating that territory and made the river fertile by the avarice he had dispensed. Midas in Greek is for
+     <em>
+      medenidon
+     </em>
+     , that is knowing nothing, for a miser is so stupid that he cannot help himself."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Midas (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Midas. A personal name. The lover of gold. The man who founded the city now Ankyra (Ankara).
+     <br/>
+     And Midas, a name for a very lucky [throw of a] die.
+     <br/>
+     And a proverb : Midas the luckiest at dice. For Midas is a name of a throw.
+     <br/>
+     And another proverb : Midas with ass's ears. Midas, the King of the Phrygians, either because he had many spies, or because he possessed a Phrygian village called
+     <em>
+      Ota Onou
+     </em>
+     (Ass's Ears) . . ((lacuna))
+     <br/>
+     It is said that the river Paktolos (Pactolus) ran gold for him, and that he prayed that everything he touched should turn to gold.
+     <br/>
+     . . ((lacuna)) or because the ass hears better than other animals, except the mouse. And Midas had many spies. Some say that because he once gave a judgment against Dionysos, Midas was changed into an ass; or because he wronged the companions of Dionysos, Dionysus in anger forced him to have ass's ears. Or because he had big ears. So the proverb is used of those who in no way pass unnoticed.
+     <br/>
+     It is declined Midas, Midou.
+     <br/>
+     Epitaph : ‘Here, waiting here on this famous tomb, I shall announce to passers-by, that Midas is buried here.’"
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Lityerses :
+     </span>
+     <br/>
+     "Lityerses, reaping song. A kind of song. Menandros (Menander) [Greek comedian C4th B.C.] in
+     <em>
+      Khalkedonians
+     </em>
+     [writes] : ‘singing a Lityerses all the while since breakfast.’ But some [say that it is] a kind of piping. Lityerses was a bastard son of Midas, who lived in Kelainai (Celaenae); he took in passers-by and compelled them to reap with him; then he would cut off their heads and conceal the rest of their bodies in the sheaves. He was killed by Herakles; but in honour of Midas a reaper's song to him was inaugurated."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Kathamma lueis :
+     </span>
+     <br/>
+     "
+     <em>
+      Kathamma lueis
+     </em>
+     . 
+  [A proverb] in reference to those attempting to undo something which is hard to undo. From the waggon of Midas. For an oracle had been issued to the Phrygians [which said] that if anyone could untie the binding of the waggon which had brought Midas, this man would rule Asia. Alexander [the Great] undid it."
+     <br/>
+     [N.B. This was better known as the Gordian knot after the Phrygian King Gordias.]
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Olympos :
+     </span>
+     <br/>
+     "Olympos. 
+  A Phrygian, younger; he became a piper at the time of Midas of Gordion."
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Xenophon, Anabasis
+      <span class="sources-detail">
+       - Greek History C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/LycophronAlexandra.html">
+       Lycophron, Alexandra
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Plutarch, Lives
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PlutarchParallelStories.html">
+       Plutarch, Parallel Stories
+      </a>
+      <span class="sources-detail">
+       - Greek Historian C1st - 2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ClementExhortation1.html">
+       Clement, Exhortation to the Greeks
+      </a>
+      <span class="sources-detail">
+       - Christian Scholar C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/FulgentiusMythologies1.html">
+       Fulgentius, Mythologies
+      </a>
+      <span class="sources-detail">
+       - Roman Fable C5th-6th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     MIDAS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE KING MIDAS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Gordias
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        King of
+       </th>
+       <td>
+        Phrygia
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Ankara in Phrygia
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

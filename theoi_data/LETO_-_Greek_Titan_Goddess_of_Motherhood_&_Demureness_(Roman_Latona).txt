@@ -1,0 +1,2889 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   LETO - Greek Titan Goddess of Motherhood &amp; Demureness (Roman Latona)
+  </title>
+  <meta content="In Greek mythology Leto was one of the female Titans, a bride of Zeus, and the mother of the twin gods Apollo and Artemis. She was the goddess of motherhood and, with her children, a protectress of the young. When Leto was pregant with the twins she was pursued relentlessly by the goddess Hera, who drove her from land to land preventing her from finding a place to rest and give birth. The floating island of Delos eventually provided her with refuge." name="description"/>
+  <meta content="Leto, Titaness, Greek mythology, Greek goddess of motherhood, Leto pictures, Latona" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sun.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/titans.html">
+      Titans
+     </a>
+     &gt;&gt; Leto
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     LETO
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Λητω
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Lêtô
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Latona
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Gentle, demure (
+       <em>
+        lêthô
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T14.5.html">
+      <img alt="Apollo, Tityus and Leto | Athenian red-figure plate C5th B.C. | Staatliche Antikensammlungen, Munich" class="img-responsive center-block" src="../image/T14.5Leto.jpg"/>
+     </a>
+     <figcaption>
+      Apollo, Tityus and Leto, Athenian red-figure plate C5th B.C.,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/" target="_blank">
+       Staatliche Antikensammlungen
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     LETO was one of the Titanides (female Titans), a bride of Zeus, and the mother of the twin gods Apollon and Artemis. She was the goddess of motherhood and, with her children, a protectress of the young. Her name and iconography suggest she was also a goddess of modesty and womanly demure. Like her sister
+     <a href="TitanisAsteria.html">
+      Asteria
+     </a>
+     she may also have been a goddess of the night, or alternatively of the light of day.
+    </p>
+    <p>
+     When Leto was pregant with the twins she was pursued relentlessly by the goddess
+     <a href="../Olympios/Hera.html">
+      Hera
+     </a>
+     , who drove her from land to land preventing her from finding a place to rest and give birth. The floating island of Delos eventually provided her with refuge. 
+  Later when she was later travelling to Delphoi (Delphi), the giant
+     <a href="../Gigante/GiganteTityos.html">
+      Tityos (Tityus)
+     </a>
+     attempted to abduct her, but Apollon intervened and slew him with arrows.
+    </p>
+    <p>
+     In Greek vase painting Leto was usually depicted as a woman lifting her veil in a gesture of modesty. She was usually depicted accompanied by her two children. The exact meaning of her name is obscure, some commentators connect it with the word
+     <em>
+      lethô
+     </em>
+     , to move unseen, suggestive of modesty, others derive it from the Lycian word for woman,
+     <em>
+      lada
+     </em>
+     .
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF LETO
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="TitanKoios.html">
+      KOIOS
+     </a>
+     &amp;
+     <a href="TitanisPhoibe.html">
+      PHOIBE
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 404, Apollodorus 1.9, Diodorus Siculus 5.67.1, Hyginus Preface)
+     </span>
+     <br/>
+     [1.2]
+     <a href="TitanKoios.html">
+      KOIOS
+     </a>
+     <span class="family-refs">
+      (Homeric Hymn III To Apollon 61, Pindar Processional Song on Delos, Sappho Frag 44A, Callimachus Hymn to Delos, Orphic Hymn 35, Ovid Metamorphoses 6.186, Hyginus Fabulae 140)
+      <br/>
+     </span>
+     [1.3]
+     <a href="TitanisPhoibe.html">
+      PHOIBE
+     </a>
+     <span class="family-refs">
+      (Aeschylus Eumenides 6 &amp; 323)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Olympios/ApollonFamily.html">
+      APOLLON
+     </a>
+     ,
+     <a href="../Olympios/Artemis.html">
+      ARTEMIS
+     </a>
+     (by
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     )
+     <span class="family-refs">
+      (Hesiod Theogony 918, Hesiod Works &amp; Days 770, Homer Iliad 1.9 &amp; 21.495, Homer Odyssey 6.100 &amp; 11.318, Homeric Hymn 27 to Artemis, Pindar Nemean Ode 6 &amp; 8, Pindar Processional Song on Delos, Aeschylus Eumenides 6 &amp; 323, Orphic Hymn 35, Callimachus Hymn to Artemis &amp; Hymn to Delos, Apollodorus 1.21 &amp; 3.46, Pausanias 8.9.1 &amp; 8.53.1. Hyginus Fabulae 9 &amp; 140, et al)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     LETO (Lêtô), in Latin LATONA, according to Hesiod (
+     <em>
+      Theog.
+     </em>
+     406, 921), a daughter of the Titan Coeus and Phoebe, a sister of Asteria, and the mother of Apollo and Artemis by Zeus, to whom she was married before Hera. Homer, who likewise calls her the mother of Apollo and Artemis by Zeus (
+     <em>
+      Il.
+     </em>
+     i. 9, xiv. 327, xxi. 499,
+     <em>
+      Od.
+     </em>
+     xi. 318, 580), mentions her as the friend of the Trojans in the war with the Greeks, and in the story of' Niobe, who paid so dearly for her conduct towards Leto. (
+     <em>
+      Il.
+     </em>
+     v. 447, xx. 40, 72, xxiv. 607; comp. xxi. 502,
+     <em>
+      Od.
+     </em>
+     xi. 580,
+     <em>
+      Hymn. in Apoll.
+     </em>
+     45, &amp;c., 89, &amp;c.) In later writers these elements of her story are variously worked out and embellished, for they do not describe her as the lawful wife of Zeus, but merely as a concubine, who was persecuted during her pregnancy by Hera. (Apollod. i. 4, § 1; Callim.
+     <em>
+      Hymn. in Del.
+     </em>
+     61, &amp;c.; Schol.
+     <em>
+      ad Eurip. Phoen.
+     </em>
+     232, &amp;c.; Hygin.
+     <em>
+      Fab.
+     </em>
+     140.) All the world being afraid of receiving her on account of Hera, she wandered about till she came to the island of Delos, which was then a floating island, and bore the name Asteria (Callim.
+     <em>
+      Hymn. in Dian.
+     </em>
+     35, 37, 191); but when Leto touched it, it suddenly stood still upon four pillars. (Pind.
+     <em>
+      Fragm.
+     </em>
+     38; Strab. xi. p. 485.) According to Hyginus (
+     <em>
+      Fab.
+     </em>
+     93,140), Delos was previously called Ortygia, while Stephanus Byzantinus (
+     <em>
+      s. v.
+     </em>
+     Korissos) mentions a tradition, according to which Artemis was not born in Delos, but at Corissus. Servius (
+     <em>
+      ad Aen.
+     </em>
+     iii. 72) relates the following legends: Zeus changed Leto into a quail (ortux), and in this state she arrived in the floating island, which was hence called Ortygia; or, Zeus was enamoured with Asteria, but she being metamorphosed, through her prayers, into a bird, flew across the sea; she was then changed into a rock, which, for a long time, lay under the surface of the sea; but, at the request of Leto, it rose and received Leto, who was pursued by Python. Leto then gave birth to Apollo, who slew Python. (Comp. Anton. Lib. 35; Ov.
+     <em>
+      Met.
+     </em>
+     vi. 370; Aristot.
+     <em>
+      Hist. Anim.
+     </em>
+     vi. 35; Athen. xv. 701; Apollon. Rhod. ii. 707; Iamblich.
+     <em>
+      Vit. Pyth.
+     </em>
+     10; Strab. xiv. p. 639: in each of these passages we find the tradition modified in a particular way.) But notwithstanding the many discrepancies, especially in regard to the place where Leto gave birth to her children, most traditions agree in describing Delos as the place. (Callim.
+     <em>
+      Hymn. in Apoll.
+     </em>
+     init. 59,
+     <em>
+      in Del.
+     </em>
+     206, 261; Aeschyl.
+     <em>
+      Eum.
+     </em>
+     9; Herod. ii. 170.) After the birth of Apollo, his mother not being able to nurse him, Themis gave him nectar and ambrosia; and by his birth the island of Delos became sacred, so that henceforth it was not lawful for any human being to be born or to die on the island; and every pregnant woman was conveyed to the neighbouring island of Rheneia, in order not to pollute Delos. (Strab. x. p. 486.)
+    </p>
+    <p>
+     We shall pass over the various speculations of modern writers respecting the origin and nature of this divinity, and shall mention only the most probable, according to which Leto is "the obscure" or "concealed," not as a physical power, but as a divinity yet quiescent and invisible, from whom is issued the visible divinity with all his splendour and brilliancy. This view is supported by the account of her genealogy given by Hesiod; and her whole legend seems to indicate nothing else but the issuing from darkness to light, and a return from the latter to the former. Leto was generally worshipped only in conjunction with her children, as at Megara (Paus. i. 44. § 2), at Argos (ii. 21. § 10), at Amphigeneia (Strab. viii. p. 349), in Lycia (ibid. xiv. p. 665), near Lete in Macedonia (Steph. Byz.
+     <em>
+      s. v.
+     </em>
+     Lêtê), in a grove near Calynda in Caria (Strab. xiv. p. 651), and other places.
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF LETO
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T14.6.html">
+      <img alt="Leto, Apollo and Artemis | Athenian red-figure am C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T14.6Leto_sm.jpg"/>
+     </a>
+     <figcaption>
+      Leto, Apollo and Artemis, Athenian red-figure amphora C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 404 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "[Titanis] Phoibe (Phoebe) came to the desired embrace of [the Titan] Koios (Coeus). Then the goddess through the love of the god conceived and brought forth dark-gowned Leto, always mild, kind to men and to the deathless gods, mild from the beginning, gentlest in all Olympos. Also she bare Asteria of happy name, whom Perses once led to his great house to be called his dear wife. And she conceived and bare Hekate (Hecate)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Processional Song on Delos (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Leto, the daughter of Koios (Coeus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Eumenides 6 &amp; 323 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Phoibe (Phoebe) . . . gave it [the oracle of Delphoi (Delphi)] as a birthday gift to [her grandson] Phoibos (Phoebus) [Apollon], who has his name from Phoibe . . . Loxias [Apollon] is the spokesman of Zeus, his father . . . Leto's son (Latous) [Apollon]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 8 - 9 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Titanes (TItans) had children . . . The children of Koios (Coeus) and Phoibe (Phoebe) were Asteria and Leto."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 67. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "To Koios (Coeus) and Phoibe (Phoebe) was born Leto."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Polus [Koios (Coeus)] and Phoebe [were born] : Latone (Latona) [Leto], Asterie."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 185 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "That Titanis Latona [Leto], whom Coeus sired, whoever he may be."
+    </p>
+    <hr/>
+    <h3 id="Labour">
+     LETO &amp; THE  BIRTH OF APOLLO AND ARTEMIS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 1. 9 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Zeus' son and Leto's, Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 14. 327 ff :
+     </span>
+     <br/>
+     "[Zeus addresses Hera, recounting his greatest loves :] ‘I loved . . . glorious Leto.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 11. 318 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "The god [Apollon] that Zeus begot and lovely-haired Leto bore."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 918 ff (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "And Leto was joined in love with Zeus who holds the aegis, and bare Apollon and Artemis delighting in arrows, children lovely above all the sons of Heaven."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Works and Days 770 ff :
+     </span>
+     <br/>
+     "To begin with, the first, the fourth, and the seventh [days of the month]--on which Leto bare Apollon with the blade of gold--each is a holy day."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 3 to Delian Apollon 2 - 148  (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "As he [Apollon] goes through the house of Zeus, the gods tremble before him, and all spring up from their seats when he draws near, as he bends his bright bow. But Leto alone stays by the side of Zeus who delights in thunder; and then she unstrings his bow, and closes his quiver, and takes his archery from his strong shoulders in her hands and hangs them on a golden peg against a pollar of his father's house. Then she leads him to a seat and makes him sit : and the Father gives him nektar in a golden cup welcoming his dear son, while other gods make him sit down there, and queenly Leto rejoices because she bare a mighty son and an archer. Rejoice, blessed Leto, for you bare glorious children, the lord Apollon and Artemis who delights in arrows; her in Ortygia, and him in rocky Delos, as you rested against the great mass of the Kynthion (Cynthian) hill hard by a palm-tree by the streams of Inopos (Inopus).
+     <br/>
+     Shall I sing how at the first Leto bare you [Apollon] to be the joy of men, as she rested against Mount Kynthos (Cynthus) in that rocky isle, in sea-girt Delos--while on either hand a dark wave rolled on landwards driven by shrill winds--whence arising you rule over all mortal men? Among those who are in Krete (Crete), and in the township of Athens, and in the isle of Aigina (Aegina) and Euboia (Euboea), famous for ships, in Aigai (Aegae) and Peiresiai (Piresiae) and Peparethos near the sea, in Threikios [Thracian] Athos and Pelion's towering heights and Threikios (Thracian) Samos and the shady hills of Ida, in Skyros (Scyrus) and Phokaia (Phocaea) and the high hill of Autokane (Autocane) and fair-lying Imbros and smouldering Lemnos and rich Lesbos, home of Makaros (Makareus), the son of Aiolos (Aeolus), and Khios (Chios), brightest of all the isles that lie in the sea, and craggy Mimas and the heights of Korykos (Corycus) and gleaming Klaros (Claros) and hte sheer hill of Aisagia (Aesagia) and watered Samos and the steep heights of Mykale (Mycale), in Miletos (Miletus) and Kos (Cos), the city of Meropian men, and steep Knidos (Cnidus) and windy Karpathos (Carpathus), in Naxos and Paros and rocky Rhenaia--so far roamed Leto in travail with the god who shoots afar, to see if any land would be willing to make a dwelling for her son. But they greatly trembled and feared, and none, not even the richest of them, dared receive Phoibos (Phoebus) [Apollon], until queenly Leto set foot on Delos and uttered winged words and asked her : ‘Delos, if you would be willing to be the abode of my son Phoibos Apollon and make him a rich temple--; for no other will vouch you, as you will find: and I think you will be rich in oxen and sheep, nor bear vintage nor yet produce plants  abundantly. But if you have the temple of far-shooting Apollon, all men will bring you hecatombs and gather here, and incessant savour of rich sacrifice will always arise, and you will feed those who dwell in you from the hand of stangers; for truly your own soil is not rich.’
+     <br/>
+     So spake Leto. And Delos rejoiced and answered and said : ‘Leto, most glorious daughter of great Koios (Coeus), joyfully would I receive your child the far-shooting lord; for it is all too true that I am ill-spoken of among men, whereas thus I should become very greatly honoured. But his saying I fear, and I will not hide it from you, Leto. They say that Apollon will be one that is very haughty and will greatly lord it among gods and men all over the fruitful earth. Therefore, I greatly fear in heart and spirit that as soon as he sees the light of the sun, he will scorn this island--for truly I have but a hard, rocky soil--and overturn me and thrust me down with his feet in the depths of the sea; then will the great ocean wash deep above my head for ever, and he will go to another land such as will please him, there to make his temple and wooded groves. So, many-footed creatures of the sea will make lairs in me and black seals their dwelling undisturbed, because I lack people. Yet if you will but dare to sware a great oath, goddess (
+     <em>
+      thea
+     </em>
+     ), that here first he will build a glorious temple to be an oracle for men, then let him afterwards make temples and wooded groves amongst all men; for surely he will be greatly renowned.’
+     <br/>
+     So said Delos. And Leto sware the great oath of the gods : ‘Now hear this, Gaia (Gaea, Earth) and wide Ouranos (Uranus, Heaven) above, and dropping water of Styx, this is the strongest and most awful oath of the blessed gods, surely Phoibos shall have here his fragrant altar and precinct, and you he shall honour above all.’
+     <br/>
+     Now when Leto had sworn and ended her oath, Delos was very glad at the birth of the far-shooting lord, But Leto was racked nine days and nine nights with pangs beyond wont. And there were with her all the chiefest of the goddesses, Dione and Rheia and Ikhnaia (Ichnaea) and Themis and loud-moaning Amphitrite and the other deathless goddesses save white-armed Hera, who sat in the halls of cloud-gathering Zeus. Only Eileithyia, goddess of sore travail, had not heard of Leto's trouble, for she sat on the top of Olympos (Olympus) beneath golden clouds by white-armed Hera's contriving, who kept her close through envy, because Leto with the lovely tresses was soon to bear a son faultless and strong.
+     <br/>
+     But the goddesses sent out Iris from the well-set isle to bring Eileithyia, promising her a great necklace strung with golden threads, nine cubits long. And they bade Iris call her aside from white-armed Hera, lest she might afterwards turn her from coming with her words. When swift Iris, fleet of foot as the wind, had heard all this, she set to run; and quickly finishing all the distance she came to the home of the gods, sheer Olympos, and forthwith called Eileithyia out from the hall to the door and spoke winged words to her, telling her all as the goddesses who dwell on Olympos had bidden her. So she moved the heart of Eileithyia in her dear breast; and they went their way, like why wild-doves in their going.
+     <br/>
+     And as soon as Eileithyia the goddess of sore travail set foot on Delos, the pains of birth seized Leto, and she longed to bring forth; so she cast her arms about a palm tree and kneeled on the soft meadow while the earth [of Delos] laughed for joy beneath. Then the child leaped forth to the light, and all the goddesses raised a cry. Straightway, great Phoibos, the goddesses washed you purely and cleanly with sweet water, and swathed you in a white garment of fine texture, new-woven, and fastened a golden band about you.
+     <br/>
+     Now Leto did not give Apollon, bearer of the golden blade, her breast; but Themis duly poured nektar and ambrosia with her divine hands : and Leto was glad because she had borne a strong son and an archer. But as soon as you had tasted that divine heavenly food, O Phoibos, you could no longer then be held by golden cords nor confined with bands, but all their ends were undone. Forthwith Phoibos Apollon spoke out among the deathless goddesses : ‘The lyre and the curved bow shall ever be dear to me, and I will declare to men the unfailing will of Zeus.’
+     <br/>
+     So said Phoibos, the long-haired god who shoots afar and began to walk upon the wide-pathed earth; and all the goddesses were amazed at him. Then with gold all Delos was laden, beholding the child of Zeus and Leto, for joy because the god chose her above the islands and shore to make his dwelling in her : and she loved him yet more in her heart blossomed as does a mountain-top with woodland flowers."
+    </p>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/T14.8.html">
+      <img alt="Leto and Apollo | Athenian red-figure hydria C5th B.C. | National Archaeological Museum of Florence" class="img-responsive center-block" src="../image/T14.8Leto.jpg"/>
+     </a>
+     <figcaption>
+      Leto and Apollo, Athenian red-figure hydria C5th B.C., National Archaeological Museum of Florence
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 3 to Delian Apollo 177 ff :
+     </span>
+     <br/>
+     "Apollon, god of the silver bow, whom rich-haired Leto bare."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 3 to Pythian Apollo 183 ff :
+     </span>
+     <br/>
+     "Leto's all-glorious son [Apollon]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 27 to Artemis 14 ff :
+     </span>
+     <br/>
+     "Neat-ankled Leto bare children [Apollon and Artemis] supreme among the immortals both in thought and in deed."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Theognis, Fragment 1. 5 (trans. Gerber, Vol. Greek Elegiac) (Greek elegy C6th B.C.) :
+     </span>
+     <br/>
+     "Lord Phoibos (Phoebus) [Apollon], when the august goddess Leto gave birth to you, fairest of the immortals, as she clasped the palm-tree with her slender arms beside the circular lake, all Delos was filled from end to end with an ambrosial aroma, the vast earth beamed, and the deep expanse of the white-capped sea rejoiced."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Nemean Ode 6. 36 ff (trans. Conway) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "The children of Leto, goddess of the gold spindle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Processional Song on Delos (trans. Sandys) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "Hail. O heaven-built isle [of Delos], most lovely scion of the children of bright-haired Leto, O daughter of the sea, thou unmoved marvel of the spacious earth, by mortal men called Delos, but by the blessed gods of Olympos (Olympus) known as the far-seen star (
+     <em>
+      astra
+     </em>
+     ) of the dark-blue earth . . . 
+  For aforetime, that isle was tossed on the waves by all manner of whirling winds; but, when Leto, the daughter of Koios (Coeus), in the frenzy of her imminent pangs of travail, set foot on her, then it was that four lofty pillars rose from the roots of earth, and on their capitals held up the rock with their adamantine bases. There it was that she gave birth to, and beheld, her blessed offspring."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pindar, Dirges Fragment 139 :
+     </span>
+     <br/>
+     "The children of Leto of the golden distaff."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 44A (trans. Campbell, Vol. Greek Lyric I) (C6th B.C.) :
+     </span>
+     <br/>
+     "Golden-haired Phoibos (Phoebus) [Apollon], whom the daughter of Koios (Coeus) [Leto] bore, having lain with Kronos' (Cronus') son [Zeus], god of the high clouds."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Bacchylides, Fragment 11 (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "Delos-born son of slim-waisted Leto."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Greek Lyric V Scholia, Fragment 886 (trans. Campbell) (B.C.) :
+     </span>
+     <br/>
+     "In Delos Leto bore children once, gold-haired Phoibos (Phoebus), lord Apollon, and the deer-shooting huntress Artemis, who holds great power over women."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 21 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Of the daughters of Koios (Coeus), Asteria in the form of a quail threw herself into the sea while fleeing a sexual union with Zeus. A
+     <em>
+      polis
+     </em>
+     was originally named Asteria after her : later on it became Delos. The other daughter Leto had relations with Zeus, for which she was hounded by Hera all over the earth. She finally reached Delos and gave birth to Artemis, who thereupon helped her deliver Apollon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 22 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "I [Artemis] will visit when women vexed by the sharp pangs of childbirth call me to their aid--even in the hour when I was born the Moirai (Moirae, Fates) ordained that I should be their helper, forasmuch as my mother suffered no pain either when she gave me birth or when she carried me in her womb, but without travail put me from her body."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 73 ff :
+     </span>
+     <br/>
+     "But thou, Maiden [Artemis], even earlier, while yet but three years old, when Leto came bearing thee in her arms at the bidding of Hephaistos (Hephaestus) that he might give thee handsel [i.e. the gifts given on seeing a new born child for the first time] and Brontes [the Kyklops (Cyclops)] set thee on his stout knees."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 4 to Delos 51 ff :
+     </span>
+     <br/>
+     "But when thou [the island of Asteria or Delos] gavest thou soil to be the birthplace of Apollon, seafaring men gave thee this name in exchange, since no more didst thou float obsure (
+     <em>
+      adelos
+     </em>
+     ) upon the water, but amid the waves of the Aigaion (Aegean) Sea didst plant the roots of thy feet.
+     <br/>
+     And thou didst not tremble before the anger of Hera, who murmured terrible against all child-bearing women that bare children to Zeus, but especially against Leto, for that she only was to bear to Zeus a son dearer even than Ares. Wherefore also she herself kept watch within the sky, angered in her heart greatly and beyond telling, and she prevented Leto who was holden in the pangs of child-birth. And she had two look-outs to keep watch upon the earth. The space of the continents did bold Ares watch, sitting armed on the high top of Thrakian Haimos (Thracian Haemus), and his horses were stalled by the seven-chambered cave of Boreas (the North Wind). And the other kept watch over the far-flung islands, even Thaumantia [Iris] seated on Mimas, whither she had sped. There they sat and threatened all the cities which Leto approached and prevented them from receiving her. Fled Arkadia (Arcadia), fled Auge's holy hill Parthenion, fled after her aged Pheneios (Pheneus), fled all the land of Pelops that lies beside the Isthmos (Isthmus), save only Aigialos (Aegaeus) and Argos. For on those ways she set not her feet, since Inakhos (Inachus) belonged unto Hera. Fled, too, Aonia [Boiotia] on the same course, and Dirke (Dirce) and Strophia, holding the hands of their sire, dark-pebbled Ismenos (Ismenus); far behind followed Asopos (Asopus), heavy-kneed, for he was marred by a thunderbolt. And the earth-born nymphe Melia wheeled about thereat and ceased from the dance and her cheek paled as she panted for her coeval oak, when she saw the locks of Helikon (Helicon) tremble [i.e. the oaks of the tree-nymphs trembled in fear] . . .
+     <br/>
+     And Apollon, yet in his mother's womb, was sore angered against them and he uttered against Thebe no ineffectual threat : ‘Thebe, wherefore wretched one, dost thou ask the doom that shall be thine anon? Force me not yet to prophesy against my will. Not yet is the tripod seat at Pytho my care . . . Nevertheless I will speak unto thee a word more clear than shall be spoken from the laurel branch. Flee on! Swiftly shall I overtake thee and wash my bow in blood. Thou hast in thy keeping the children of a slanderous woman [i.e. Niobe who insulted Leto and whose children were slain by Apollon and Artemis]. Not thou shalt be my dear nurse, nor Kithairon. Pure am I and may I be the care of them that are pure.’
+     <br/>
+     So he spake. And Leto turned and went back. But when the Akhaian cities refused her as she came--Helike, the companion of Poseidon, and Bura, the steading of Dexamenos, the son of Oikeus--she turned her feet back to Thessalia. And Anauros (Anaurus) fled and great Larisa and the cliffs of Kheiron (Chiron); fled, too, Peneios (Peneus), coiling through Tempe.
+     <br/>
+     But thy heart, Hera, was even then still pitiless and thou wert not broken down nor didst have compassion, when she [Leto] stretched forth both her arms and spake in vain : ‘Ye Nymphai of Thessalides (Thessalian Nymphs), offspring of a river [Peneios (Peneus)], tell your sire to hush his great stream. Entwine your hands about his beard and entreat him that the children of Zeus be born in his waters. Phtiotian Peneios, why dost thou now vie with the winds? O sire, thou dost not bestride a racing horse. Are they feet always thus swift, or are they swift only for me, and hast thou today been suddenly made to fly?’ But he heard her not. ‘O burden mine, whither shall I carry thee? The hapless sinews of my feet are outworn. O Pelion, bridal chamber of Philyra, do thou stay, O stay, since on thy hills even the wild lionesses oftentimes lay down their travail of untimely birth.’
+     <br/>
+     Then shedding tears, Peneios answered her : ‘Leto, Ananke (Necessity) is a great goddess. It is not I who refuse, O Lady, they travail; for I know of others who have washed the soilure of birth in me--but Hera hath largely threatened me. Behold what manner of watcher keeps vigil on the mountain top, who would lightly drag me forth from the depths. What shall I devise? Or is it a pleasant thing to thee that Peneios should perish? Let my destined day take its course. I will endure for thy sake, even if I must wander evermore with ebbing flood and thirsty, and alone be called of least honour among rivers. Here am I! What needeth more? Do thou but call upon Eileithyia.’
+     <br/>
+     He spake and stayed his great stream. But Ares was about to lift the peaks of Pangaion (Pangaeum) from their base and hurl them in his eddying waters and hide his streams. And from on high he made a din as of thunder and smote his shield with the point of his spear, and it rang with a warlike noise. And the hills of Ossa trembled and the plain of Krannon (Crannon), and the windswept skirts of Pindos (Pindus), and all Thessalia (Thessaly) danced for fear : such echoing din rang from his shield . . . But Peneios (Peneus) retired not back, but abode his ground, steadfast even as before, and stayed his swift-eddying streams, until the daughter of Koios (Coeus) [Leto] called to him : ‘Save thyself, farewell! Save thyself; do not for my sake suffer evil for this thy compassion; thy favour shall be rewarded.’
+     <br/>
+     So she spake and after much toil came unto the Isles (
+     <em>
+      Nesoi
+     </em>
+     ) of the sea. But they received her not when she came--not the Ekhinades (Echinades) with their smooth anchorage for ships, not Kerkyra (Corcyra) which is of all other islands most hospitable, since Iris on lofty Mimas was wroth with them all and utterly prevented them. And at her rebuke they fled all together, every one that she came to, along the waters. Then she came unto primeval Kos (Cos), the isle of Merops, the holy retreat of the heroine Khalkiope (Chalciope), but the word of her son [i.e. Apollon in the womb] restrained her : ‘Bear me not, mother, here. I blame not the island nor have any grudge, since a bright isle it is and rich in pasture as any other. But there is due to her from the Moirai (Moirae, Fates) another god . . . Greatly shalt thou praise in all the days to be him that prophesied while yet in his mother's womb. But mark thou, mother : there is to be seen in the water a tiny island, wandering over the seas. Her feet abide not in one place, but on the tide she swims even as stalks of asphodel, where the South Wind or the East Wind blows, withersoever the sea carried her. Thither do thous carry me. For she shall welcome thy coming.’
+     <br/>
+     When he had spoken thus much, the other islands in the sea ran away. But thou, Asteria, lover of song, didst come down from Euboia (Euboea) to visit the round Kyklades (Cyclades)--not long ago, but still behind thee trailed the sea-weed of Geraistos (Geraestus) . . ((lacuna)) since they heart was kindled, seeing the unhappy lady in the grievous pangs of birth : ‘Hera, do to me what thou wilt. For I heed not they threats. Cross, cross over, Leto, unto me.’
+     <br/>
+     So didst thou speak, and she gladly ceased from her grievous wandering and sat by the stream of Inopos (Inopus), which the earth sends forth in deepest flood at the season when the Neilos (Nile) comes down in full torrent from the Aithiopian (Ethiopian) steep. And she loosed her girdle and leaned back her shoulders against the trunk of a palm-tree, oppressed by the grievous distress, and the sweat poured over her flesh like rain. And she spake in her weakness : ‘Why, child, dost thou weigh down thy mother? There, dear child, is thine island floating on the sea. Be born, be born, my child, and gently issue from the womb.’
+     <br/>
+     O Spouse of Zeus, Lady of heavy anger, thou wert not to be for long without tidings thereof : so swift a messenger hastened to thee. And, still breathing heavily, she spake--and her speech was mingled with fear: ‘Honoured Hera, of goddesses most excellent far . . . Leto is undoing her girdle within and island. All the others spurned her and received her not; but Asteria called her by name as she was passing by--Asteria that evil scum of the sea : thou knowest it thyself . . .’
+     <br/>
+     And Hera was grievously angered and spake to her [Iris] : ‘So now, O shameful creatures of Zeus, may ye all wed in secret and bring forth in darkness, not even where the poor mill-women bring forth in difficult labour, but where the seals of the sea bring forth, amid the desolate rocks. But against Asteria am I no wise angered for this sin, nor can I do to her so unkindly as I should--for very wrongly has she done a favour to Leto. Howbeit I honour her exceedingly for that she did not desecrate my bed, but instead of Zeus preferred the sea.’
+     <br/>
+     She spake: and with music the swans, the gods' own minstrels, left Maionian Paktolos (Maeonian Pactolus) and circled seven times round Delos, and sang over the bed of child-birth, the Mousai's (Muses') birds, most musical of all birds that fly. Hence that child in after days strung the lyre with just so many strings--seven strings, since seven times the swans sang over the pangs of birth. No eight time sang they: ere that the child leapt forth and the Nymphai Deliades (Delian Nymphs), offspring of an ancient river, sang with far-sounding voice the holy chant of Eileithyia. And straightway the brazen sky echoed back the far-reaching chant and Hera grudged it not, because Zeus had taken away her anger. In that hour, O Delos, all thy foundations became of gold: with gold thy round lake flowed all day, and golden foliage thy natal olive-tree put forth and with gold flowed coiled Inopos in deep flood.
+     <br/>
+     And thou thyself [Delos] didst take up the child from the golden earth and lay him in thy lap and thou [the baby Apollon] . . . and the child drew the sweet breast."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T14.2.html">
+      <img alt="Leto, Artemis and Apollo | Athenian red-figure volute krater C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/T14.2Leto.jpg"/>
+     </a>
+     <figcaption>
+      Leto, Artemis and Apollo, Athenian red-figure volute krater C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 5. 2 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "From olden times, beginning with the times of the heroes, Delos has been revered because of its gods, for the myth is told that there Leto was delivered of her travail by the birth of Apollon and Artemis : ‘for aforetime,’ says Pindaros (Pindar), ‘it was tossed by the billows, by the blasts of all manner of winds, but when [Leto] the daughter of Koios (Coeus) in the frenzied pangs of childbirth set foot upon it, then did four pillars, resting on adamant, rise perpendicular from the roots of the earth, and on their capitals sustain the rock. And there she gave birth to, and beheld, her blessed offspring.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 1. 20 :
+     </span>
+     <br/>
+     "On the same coast [i.e. near Ephesos (Ephesus) in Asia Minor], slightly above the sea, is also Ortygia, which is a magnificent grove of all kinds of trees, of the cypress most of all. It is traversed by the Kenchrios (Cenchrius) River, where Leto is said to have bathed herself after her travail. For here is the mythical scene of the birth, and of the nurse Ortygia, and of the holy place where the birth took place, and of the olive tree near by, where the goddess is said first to have taken a rest after she was relieved from her travail. Above the grove lies Mount Solmissos, where, it is said, the Kouretes (Curetes) stationed themselves, and with the din of their arms frightened Hera out of her wits when she was jealously spying on Leto, and when they helped Leto to conceal from Hera the birth of her children."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 5. 3 :
+     </span>
+     <br/>
+     "Aratos (Aratus) [Greek poet C3rd B.C.] also points out the poverty of the island of [Gyaros] in his
+     <em>
+      Katalepton
+     </em>
+     (
+     <em>
+      Catalepton
+     </em>
+     ) : ‘O Leto, shortly thou wilt pass by me [i.e. in her search for a place to give birth to Apollon], who am like either iron Pholegandros or worthless Gyaros.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 18. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[At Athens] is a temple of Eileithyia, who they say came from the Hyperboreans to Delos and helped Leto in her labour; and from Delos the name spread to other peoples."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 31. 1 :
+     </span>
+     <br/>
+     "At Zoster [in Attika (Attica)] is an altar . . . to Apollon, to Artemis and to Leto. The story is that Leto did not give birth to her children here, but loosened her girdle with a view to her delivery, and place received its name from this incident."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 8. 53. 1 :
+     </span>
+     <br/>
+     "Apollon and Artemis, they say, throughout every land visited with punishment all the men of that time who, when Leto was with child and in the course of her wanderings, took no heed of her when she came to their land."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 11. 21 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Xanthos' stream, [in Lykia (Lycia)] the stream revealed to men by Leto, bride of Thunderer Zeus, when Lykia's stony plain was by her hands uptorn mid agonies of travail-throes wherein she brought to light mid bitter pangs those babes of birth divine."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 4. 4 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "Wolves are not easily delivered of their young, only after twelve days and twelve nights, for the people of Delos maintain that this was the length of time that it took Leto to travel from the Hyperboreoi (Hyperboreans) to Delos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 5. 4 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Note the Delian tradition that the trees which flourish on Delos are the olive and the palm. When Leto took hold of them she immediately gave birth, which she had not been able to do before."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 53 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Though Jove [Zeus] loved Asterie (Asteria), daughter of Titan, she scorned him. Therefore she was transformed in to the bird
+     <em>
+      ortyks
+     </em>
+     , which we call a quail, and he cast her into the sea. From her an island sprang up, which was named Ortygia. This was floating. Later Latona [Leto] was borne there at Jove's command by the wind Aquilo [Boreas], at the time when the Python was pursuing her, and there, clinging to an olive, she gave birth to Apollo and Diana [Artemis]. This island later was called Delos." [N.B. Boreas probably transported Leto to Delos from Hyperborea.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 140 :
+     </span>
+     <br/>
+     "Python, offspring of Terra [Gaia, Earth], was a huge draco (Dragon)who, before the time of Apollo, used to give oracular responses on Mount Parnassus. Death was fated to come to him from the offspring of Latona [Leto]. At that time Jove [Zeus] lay with Latona, daughter of Polus [Koios (Coeus)]. When Juno [Hera] found this out, she decreed that Latona should give birth at a place where the sun did not shine. When Python knew that Latona was pregnant by Jove, he followed her to kill her. But by order of Jove [Zeus] the wind Aquilo [Boreas] carried Latona away, and bore her to Neptunus [Poseidon]. He protected her, but in order not to make voice Juno's decree, he took her to the island Ortygia, and covered the island with waves. When Python did not find her, he returned to Parnassus. But Neptunus [Poseidon] brought the island of Ortygia up to a higher position; it was later called the island of Delos. There Latona, clinging to an olive tree, bore Apollo and Diana [Artemis], to whom Vulcanus [Hephaistos (Hephaestus)] gave arrows as gifts. Four days after they were born, Apollo exacted vengeance for his mother. For he went to Parnassus and slew Python with his arrows. Because of this deed he is called Pythian. He put Python's bones in a cauldron, deposited them in his temple, and instituted funeral games for him which are called Pythian."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 185 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "That Titanis (Titaness), whom Coeus sired, whoever he may be, Latona [Leto] whom the great globe once refused the smallest spot to give her children birth. Not earth, nor sky, nor water would accept your goddess, outcast from the world, until Delos took pity on her wanderings and said, ‘You roam the land and I the sea, homeless,’ and gave her drifting refuge there. She bore two children."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 332 ff :
+     </span>
+     <br/>
+     "Her [Leto] whom once the Queen of Heaven (
+     <em>
+      Coniunx Regia
+     </em>
+     ) [Hera] barred from the world, whom drifting Delos scarcely dared consent to harbour, when that island swam the sea. There, leaning on a palm, Pallas' [Athena's] tree, Latona [Leto] in spite of Juno [Hera] bore her twins; from there again she fled the wife of Jove [Zeus], hugging her new-born infants, both divine."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 13. 634 ff :
+     </span>
+     <br/>
+     "The city's [Delos'] sights, the famous shrine and the two trees to which Latona [Leto] once had clung when she gave birth [to Apollon]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 3. 6 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Who [among the poets] has not told of . . . Latona's Delos?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 452 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "But he [Apollon] did not in exile roam o'er all the world.
+     <br/>
+     What? He whom an exiled mother [Leto] brought forth on a roaming isle?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 4. 166 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "Even Hera, goddess though she is and queen of the heavens, grudges Zeus his bastard wives on earth . . . she spared not even goddesses; because his mother was anry, Ares persecuted Leto with child in her birthpangs."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 80 ff :
+     </span>
+     <br/>
+     "You [Hera] persecuted Apollon in the womb of his mother Leto."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 8. 135 ff :
+     </span>
+     <br/>
+     "My [Hera's] husband [Zeus] whom Leto a goddess could not steal . . . Even the goddess did not have a smooth course for her wedding; she also, Leto herself, carried the unborn babe by many a turn and twist, while she gazed at the shifting slopes of many a floating island, and the flood of the inhospitable sea that never stood still. Hardly at last she espied the wild olive-tree which harboured her childbed. All that Leto suffered, and her mate [Zeus] could not help her."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 9. 206 ff :
+     </span>
+     <br/>
+     "Leto the divine was chased about and brought forth Apollon on the sly; Leto brought forth Phoibos (Phoebus) [Apollon]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 259 ff :
+     </span>
+     <br/>
+     "[Zeus addresses Apollon :] ‘She [Hera] always cherishes jealousy and resentment for my loves, and attacks my children. I will not remind you of your mother's tribulation in childbirth, when Leto carried her twin burden and had to wander over the world, tormented with the pangs of childbirth; when the stream of Peneios (Peneus) fled from her, when Dirke (Dirce) refused your mother, when Asopos (Asopus) himself made off dragging his lame leg behind him--until Delos gave help to her labour, until the old palm-tree played midwife for Leto with her poor little leaves.’"
+    </p>
+    <hr/>
+    <h3 id="Lykians">
+     LETO &amp; THE LYCIAN PEASANTS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T14.7.html">
+      <img alt="Leto, Artemis, Apollo and Asteria as Delos | Athenian red-figure calyx krater C5th B.C. | Regional Archeological Museum Antonio Salinas, Palermo" class="img-responsive center-block" src="../image/T14.7Leto.jpg"/>
+     </a>
+     <figcaption>
+      Leto, Artemis, Apollo and Asteria as Delos, Athenian red-figure calyx krater C5th B.C., Regional Archaeological Museum Antonio Salinas
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 35 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Leto, after giving birth to Apollon and Artemis on the isle of Asteria, went to Lykia (Lycia), taking her children with her, to the baths of [the River] Xanthos (Xanthus). As soon as she arrived in that land, she came first upon the spring of Melite and wanted very much to bathe her children there before going on to Xanthos. 
+  But some herdsmen drove her away so that their own cattle could drink at the spring. Leto made off and left Melite. Wolves came out to met her and, wagging their tails, led the way, guiding her to the River Xanthos. 
+  She drank the water and bathed the babes and consecrated the Xanthos to Apollon while the land which had been called Tremilis she renamed Lykia (Wolf Land) from the wolves that had guided her. 
+  Then she returned to the spring to inflict a penalty on the herdsmen who had driven her away. They were then still washing their cattle besides the spring. Leto changed them all into frogs whose backs and shoulders she scratched with a rough stone. Throwing them all into the spring she made them live in water. To this day they croak away by rivers and ponds."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 313 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "In Lycia's fertile fields once, long ago, the peasants scorned Latona [Leto]--not unscathed. It's not a thing well known--the men of course being low-born louts--but marvellous all the same. I saw with my own eyes the lake and place famed for the miracle. For my old father, too old by then, too worn to take the road, had charged me to retrieve some special steers and given me a Lycian for a guide. With him I traversed those far pasture-lands, when, standing in the middle of a mere, and black with ash of sacrifice, behold and ancient altar, ringed with waving reeds. My guide stood still and muttered anxiously ‘Be gracious to me!’ and I muttered too ‘Be gracious!’ ; then I asked him if the altar was built to Faunus [Pan] or the Naiads or some local god, and he gave this reply. ‘Not so, my lad, no Mountain-God (
+     <em>
+      Numen Montanum
+     </em>
+     ) enjoys this altar; it is claimed by her [Leto] whom once the Queen of Heaven (
+     <em>
+      Coniunx Regia
+     </em>
+     ) [Hera] barred from the world, whom drifting Delos scarcely dared consent to harbour, when that island swam the sea. There, leaning on a palm, Pallas' [Athena's] tree, Latona [Leto] in spite of Juno [Hera] bore her twins; from there again she fled the wife of Jove [Zeus], hugging her new-born infants, both divine. And now in Lycia, the Chimaera's (Chimera's) land, the flaming sun beat down upon the fields; the goddess, tired by her long toil, was parched with thirst, so hot heaven's torrid star; the babes had drained their mother's milk and cried for more. She chanced to see, down in the dale below, a mere of no great size. Some farmfolk there were gathering reeds and leafy osiers and sedge that marshes love. Reaching the edge, Titania [Leto] knelt upon the ground to drink the cooling water, knelt to drink her fill. The group of yokels stopped her. "Why?" said she, "Why keep me from the water? Everyone has right to water. Nature never made the sunshine private more the air we breathe, nor limpid water. No! A common right I've reached. Even so I ask, I humbly ask, please give it me. I do not mean to wash, or bathe my weary limbs, only to quench my thirst. My mouth is dry, as I am speaking, my throat is parched, words hardly find a way. A drink of water--nectar it will be, and life, believe me, too; life you will give with water. And these babies here, who stretch their little arms, must touch your hearts." It chanced the twins stretched out their arms. Whom could those words, those gentle words the goddess spoke, not touch? Despite her pleas they stopped her, adding threats unless she went away, and insults too. And, not contents with that, they even stirred the pond with hands and feet, and on the bottom kicked the soft mud about in spiteful leaps. Her thirst gave way to anger. Of such boors she'd asked no favour now, nor speak again in tones beneath a goddess. Raising her hands to heaven, "Live in that pool of yours," she cried, "For evermore!" And what she wished came true. They love to live in water; sometimes all their bodies plunge within the pool's embrace; sometimes their heads pop up; often they swim upon the surface, often squat and rest upon the swampy bank and then jump back to the cool pond; but even now they flex their squalid tongues in squabbling, and beneath the water try to croak a watery curse. Their voice is harsh, their throats are puffed and swollen; their endless insults stretch their big mouths wide; their loathsome heads protrude, their necks seem lost; their backs are green; their bodies' biggest part, their bellies, white; and in the muddy pond they leap and splash about--new-fangled frogs.’"
+    </p>
+    <hr/>
+    <h3 id="Tityos">
+     LETO &amp; THE GIANT TITYUS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T14.4.html">
+      <img alt="Apollo, Tityus, Leto and Artemis | Athenian red-figure krater C5th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/T14.4Leto.jpg"/>
+     </a>
+     <figcaption>
+      Apollo, Tityus, Leto and Artemis, Athenian red-figure krater C5th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 11. 580 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "I [Odysseus in Haides] saw Tityos (Tityus) also, son of the mighty goddess Gaia (Gaea, Earth); he lay on the ground, his bulk stretched out over nine roods. Two vultures, one on each side of him, sat and kept plucking at his liver, reaching down to the very bowels; he could not beat them off with his hands. And this was because he had once assaulted a mistress of Zeus himself, the far-famed Leto, as she walked towards Pytho through the lovely spaces of Panopeus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 23 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Tityos (Tityus) saw Leto when she came to Pytho and in a fit of passion tried to embrace her. But she called out to her children, who shot him dead with arrows. He is being punished even in death, for vultures feast on his heart in Hades' realm."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 1. 758 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "[Amongst the scenes embroidered on the cloak of Jason crafted by Athena :] And here was Phoibos (Phoebus) Apollon, pictured as a sturdy youth shooting an arrow at the gigantic Tityos (Tityus), who was boldly dragging off his mother Leto by her veil. Tityos was lady Elare's (Elara's) son; but he was nursed and born by Mother Gaia (Gaea, Earth)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Hymn 3 to Artemis 109 ff (trans. Mair) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "Artemis, Lady of Maidenhood, Slayer of Tityos (Tityus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 11. 1 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The Knidians (Cnidians) brought the following images to Delphoi (Delphi) : . . . Leto, and Apollon and Artemis shooting arrows at Tityos (Tityus), who has already been wounded in the body."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 3. 390 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "As lay Tityos (Tityus), who sought to force Queen Leto, when she fared to Pytho : swiftly in his wrath Apollon shot, and laid him low, who seemed invincible : in a foul lake of gore there lay he, covering many a rood of ground, on the broad earth, his mother; and she moaned over her son, of blessed Gods abhorred; but Lady Leto laughed."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 55 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Because Latona [Leto] had lain with Jove [Zeus], Juno [Hera] ordered Tityus, a creature of immense size, to offer violence to her. When he tried to do this he was slain by the thunderbolt of Jove. He is said to lie stretched out over nine acres in the Land of the Dead, and a serpent is put near him to eat out his liver, which grows again with the new moon."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 4. 331 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "The city of Tityos (Tityus) [in Phokis (Phocis)], where that bold son of Gaia (Gaea, Earth) marching through the fair-leafy woods of Panopeus lifted the sacred robe of Leto and attempted violence."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 20. 35 ff :
+     </span>
+     <br/>
+     "In Olympos (Olympus) I shrink from Leto, still a proud braggart, when she holds up at me the arrow that defended her bed and slew Tityos (TItyus) the lustful giant."
+    </p>
+    <p class="see-also">
+     For MORE information on this giant see
+     <a href="../Gigante/GiganteTityos.html">
+      TITYOS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Typhoeus">
+     LETO &amp; THE GIANT TYPHOEUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 28 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Typhon felt an urge to usurp the rule of Zeus and not one of the gods could withstand him as he attacked. In panic they fled to Aigyptos (Egypt), all except Athena and Zeus, who alone were left. Typhon hunted after them, on their track. When they fled they had changed themselves in anticipation into animal forms. 
+  Apollon became a hawk [i.e. the Egyptian god Horus] ... Artemis a cat [i.e. the Egyptian Neith or Bastet] . . . and Leto a shrew mouse [i.e. the Egyptian Wadjet]."
+    </p>
+    <p class="see-also">
+     For MORE information on this giant see
+     <a href="../Gigante/Typhoeus.html">
+      TYPHOEUS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Companion">
+     LETO COMPANION OF ARTEMIS &amp; APOLLO
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Homer, Odyssey 6. 100 ff (trans. Shewring) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Artemis the huntress ranges the mountain-side--on lofty Taygetos (Taygetus), it may be, or it may be on Erymanthos--taking her pleasure among the boars and the running deer; country Nymphai (Nymphs), maidens of Zeus who holds the aigis, are all around her and share her pastime; Leto her mother is glad at heart."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 3 to Pythian Apollo 186 ff (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "Gold-tressed Leto and wise Zeus, rejoice in their great hearts as they watch their dear son playing among the undying gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Thesmophoriazusae 114 (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "Praise Artemis too, the maiden huntress, who wanders on the mountains and through the woods . . . celebrate the everlasting happiness of the chaste Artemis, the mighty daughter of Leto! . . . and Leto and the tones of the Asiatic lyre, which wed so well with the dances of the Phrygian Kharites (Charites, Graces) . . . I do honor to the divine Leto and to the lyre, the mother of songs of male and noble strains. The eyes of the goddess sparkle while listening to our enthusiastic chants. Honor to the powerful Phoebus! Hail! blessed son of Leto."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 707 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "‘Be gracious to us, King [Apollon],’ he [Orpheus] sang, ‘and may thy tresses for ever be unshorn, intact for ever! That is their due, the locks that only Leto strokes with her fond hands.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Achilleid 1. 344 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "When [Artemis] returns wearied to her sire [Zeus] and brother [Apollon] from Therapnae, haunt of maidens, her mother [Leto] bears her company as she goes, and with her own hand covers her shoulders and bared arms, herself arranges the bow and quiver, and pulls down the girt-up robe, and is proud to trim the disordered tresses."
+    </p>
+    <hr/>
+    <h3 id="Orion">
+     LETO, ARTEMIS &amp; THE GIANT ORION
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Astronomy Frag 4 (from Pseudo-Eratosthenes, Catastasthenes 32) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "Orion went away to Krete (Crete) and spent his time hunting in company with Artemis and Leto. It seems that he threatened to kill every beast there was on earth, whereupon, in her anger, Ge (Gaea, Earth) sent up against him a scorpion of very great size by which he was stung and so perished. After this Zeus, at the prayer of Artemis and Leto, put him among the stars."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 26 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Constellation] Scorpio . . . Orion since he used to hunt, and felt confident that he was most skilled of all in that pursuit, said even to Diana [Artemis] and Latona [Leto] that he was able to kill anything the produced. Terra (Earth) [Gaia], angered at this, sent the scorpion which is said to have killed him. Jove [Zeus], however, admiring the courage of both, put the scorpion among the stars . . . Diana, then, because of her affection for Orion, asked Jove to show to her request the same favour."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 5. 539 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Tellus (Earth) [Gaia] unleashed a scorpion. Its urge was to stab the goddess of twins with its hooked stingers. Orion blocked it [and died]. Latona [Leto] joined him to the bright stars, and said, ‘Receive your reward for service.’"
+    </p>
+    <hr/>
+    <h3 id="Kyklopes">
+     LETO, APOLLO &amp; THE SLAYING OF THE CYCLOPES
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women &amp; Eoiae Fragment 92 (from Philodemus, On Piety 34) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "But Hesiod (says that Apollon) would have been cast by Zeus into Tartaros (Tartarus) [for killing the Kyklopes (Cyclopes)] : but Leto interceded for him, and he became bondman to a mortal."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 118 - 122 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Zeus slew Apollon's son Asklepios (Asclepius) with a thunderbolt :] This angered Apollon, who slew the Kyklopes (Cyclopes), for they designed the thunderbolt for Zeus. Zeus was about to throw Apollon into Tartaros (Tartarus), but at the request of Leto he ordered him instead to be some man's servant for a year."
+    </p>
+    <hr/>
+    <h3 id="Niobe">
+     LETO &amp; THE PUNISHMENT OF NIOBE
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T14.3.html">
+      <img alt="Apollo, Tityus and Leto | Athenian red-figure krater | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/T14.3Leto.jpg"/>
+     </a>
+     <figcaption>
+      Apollo, Tityus and Leto, Athenian red-figure krater C5th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 24. 602 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "[Niobe] whose twelve children were destroyed in her palace, six daughters, and six sons in the pride of their youth, whom Apollon killed with arrows from his silver bow, being angered with Niobe, and shaft-showering Artemis killed the daughters; because Niobe likened herself to Leto of the fair colouring and said Leto had borne only two, and herself had borne many; but the two, though they were only two, destroyed all those others."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Niobe (lost play) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     This lost drama described the story of Niobe whose fourteen children were slaughtered by the gods Apollon and Artemis to punish her for boasts which had insulted their mother Leto. According to Weir Smyth (L.C.L.) : "The place and progress of the action of this famous drama cannot be determined with any certainty. Sources other than the text inform us that Aeschylus gave Niobe fourteen children, a number adopted by Euripides and Aristophanes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 46 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Wither her fine brood [of children] Niobe claimed to be more blest with children than Leto. Leto was annoyed by this, and urged Artemis and Apollon against Niobe's children. Artemis killed all the females in the house with her arrows, and Apollon all the males as they were hunting together on Kithairon. Of the males only Amphion was spared, and of the females only Khloris (Chloris)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Parthenius, Love Romances 33 (trans. Gaselee) (Greek poet C1st B.C.) :
+     </span>
+     <br/>
+     "From the
+     <em>
+      Lydiaka
+     </em>
+     (
+     <em>
+      Lydiaca
+     </em>
+     ) of Xanthos (Xanthus) [Greek historian C5th B.C.], the second book of Neanthes [poet of Kyzikos (Cyzicus)] , and Simmias of Rhodes [Alexandrian Greek poet]: The story of Niobe is differently told by various authorities; some, for instance, say that she was not the daughter of Tantalos (Tantalus), but of Assaon, and the wife of Philottos (Philottus); and for having had her dispute with Leto about the beauty of their children, her punishment was as follows: Philottos perished while hunting; Assaon, consumed with love for his own daughter, desired to take her to wife; on Niobe refusing to accede to his desires, he asked her children to a banquet, and there burned them all to death. As a result of this calamity, she flung herself from a high rock; Assaon, when he came to ponder upon these his sins, made away with himself."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 74. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Niobe became the mother of seven sons and an equal number of daughters, maids of exceeding beauty. And since she gave herself haughty airs over the number of her children ,she frequently declared in boastful way that she was more blest in her children than was Leto. At this, so the myths tell us, Leto in anger commanded Apollon to slay with his arrows the sons of Niobe and Artemis the daughters. And when these two hearkened to the command of their mother and slew with their arrows the children of Niobe at the same time, it came to pass that immediately this woman was both blest with children and childless."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 21. 9 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[At Argos] is the sanctuary of Leto; the image is the work of Praxiteles. The statue of the maiden beside the goddess they call Khloris (Chloris, Pale), saying that she was a daughter of Niobe, and that she was called Meliboia (Meliboea) at the first. When the children of Amphion were destroyed by Apollon and Artemis, she alone of her sisters, along with Amyklas (Amyclas) escaped; their escape was due to their prayers to Leto. Meliboia was struck so pale by her fright, not only at the time but also for the rest of her life, that even her name was changed Meliboia to Khloris (Chloris). Now the Argives say that these two built originally the temple to Leto, but I think that none of Niobe's children survived."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 9. 5. 9 :
+     </span>
+     <br/>
+     "It is also said that Amphion [husband of Niobe] is punished in Haides for being among those who made a mock of Leto and her children."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 9 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Amphion took in marriage Niobe . . . by whom he had seven sons and as many daughters. These children Niobe placed above those of Latona [Leto], and spoke rather contemptuously against Apollo and Diana [Artemis] because Diana was girt in man's attire, and Apollo wore long hair and a woman's gown. She said, too, that she surpassed Latona in muber of children. Because of this Apollo slew her sons with arrows as they were hunting in the woods on Mount Sipylus, and Diana shot and killed the daughters in the palace, all except Chloris."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 149 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Much made her [Niobe] haughty. Yet her husband's [Amphion King of Thebes‘] skill, the high birth of them both, their kingdom's power, though all indeed gave pleasure, none could give such pleasure as her children. Niobe must have been thought the happiest of mothers, had she not thought so too. The prophetess Manto daughter of Teiresias (Tiresias), had been spurred by heavenly promptings. Through the city's streets she cried her holy call : ‘Women of Thebes, come in your throngs, with bay wreaths round your hair, and give Latona [Leto] and her children twain incense and reverent worship. Through my lips Latona calls!’
+     <br/>
+     And, in obedience, all the Theban women wreathe their brows and bring their prayers and incense to the holy shrine. But here, escorted by a multitude of courtiers, comes Niobe, superb in a shining Phrygian gown of woven gold. Lovely she was, as far as rage allowed, tossing her graceful head and glorious hair that fell upon her shoulders either side. She stopped, and in her full height cast her gaze, her haughty gaze around. ‘What lunacy makes you prefer a fabled god,’ she said, ‘To gods you see? Latona [Leto], why should her shrine be revered, when my divinity lacks incense still? My father's Tantalus, the only mortal gods in heaven allowed to share their banquet-board. My mother ranks as sister of the Pleiades. That great giant, Atlas, whose shoulders bear the circling sky, is one grandfather; Juppiter [Zeus] the other, my husband's father too I'm proud to say. The Phrygian nation fears me. I am mistress of Cadmus' royal house; our city's walls, built by my husband's music, and our people ruled by him and me. Enormous wealth I see throughout my home wherever I turn my gaze; and godlike beauty too is mine. Then add my seven sons and seven daughters and soon my sons' wives and my son-in-laws. Now ask yourselves the reason for my pride, and dare prefer me to that Titanis, whom Coeus sired, whoever he may be, Latona whom the great globe once refused the smallest spot to give her children birth. Not earth, nor sky, nor water would accept your goddess, outcast from the world, until Delos took pity on her wanderings and said, "You roam the land and I the sea, homeless," and gave her drifting refuge there. She bore two children; so her womb was worth a seventh part of mine [i.e. Niobe had fourteen children]. O happy me! (Who would deny it?) And happy I'll remain (Who could doubt that?). My riches make me safe. Yes, I'm too great to suffer Fortuna's blows; much she may take, yet more than much she'll leave. My blessings banish fear. Suppose some part of this my clan of children could be lost, and I bereft, I'll never be reduced to two, Latona's litter--near enough childless! Away with you! Enough of this! Remove those laurels from your hair!’
+     <br/>
+     With wreaths removed, they left the ritual unfinished. They worshipped, as they might, in silent words. The goddess [Leto] was outraged; upon the peak of Cynthus she addressed her pair of twins : ‘I, here, your mother, proud to have borne you both, I, who will give no goddess precedence save Juno [Hera], find that my divinity is doubted and unless you children help I'm barred from shrines and altars evermore. Nor is this all that hurts. To injury Tantalis [i.e. Niobe, daughter of Tantalos] adds insult. Yes, she dares set her own children above you, and calls me childless--may that fall on her own head! Her wicked tongue shows her paternity!’
+     <br/>
+     To this sad tale Latona had in mind to add to her entreaties, when ‘Enough!’ said Phoebus [Apollon], ‘Long complaints do but delay the punishment,’ and Phoebe [Artemis] said the same. Then clothed in cloud they glided swiftly down and reached the citadel of Cadmeia [Thebes] . . . [and there Apollon slew the seven sons of Niobe with his arrows.]
+     <br/>
+     Rumours of havoc, sorrow in the streets, her household's tears brought Niobe the news, news of her sudden ruin. She was shocked that it could happen, angry that the gods had dared so far, that they possessed such power. The father, Amphion, had already plunged a dagger in his heart and by his death ended both life and grief. Ah, Niobe! Alas! How unlike now that Niobe who drove the Thebans from Latona's shrine, who walked her city's streets with head so high, the envy of her friends--whom now her foes, even her foes, must pity! On the cold corpses she threw herself and gave her last kisses convulsively to all her sons. Then raising her bruised arms to heaven, she cried ‘Feast, cruel Latona, feast upon my grief! Yes, glut your savage heart! On seven biers I'm borne. Exult! Triumph in victory! Even so, why victory? My wretchedness still gives me more than you your happiness: after so many deaths I triumph still!’ Hard on her words a bowstring twanged, and all were terrified, save only Niobe. Disaster made her bold . . . [Artemis then slew Niobe's seven daughters with her arrows and Niobe herself is turned to stone.] Then every man and woman, all of them, dreaded the goddess' [Leto's] wrath mad manifest, and worshipped more devoutly the divine power of the mother of the heavenly pair."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 395 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Nemesis, goddess of retribution, addresses Artemis:] ‘If some prolific wife provokes your mother Leto, let her weep for her children, another Niobe of stone. Why should not I make another stone on Sipylos? . . . But if some woman is persecuting you as one did your mother Leto, I will be the avenger of the offended Archeress.’ . . .
+     <br/>
+     [Artemis] broke in and said to the goddess who saves men from evil : ‘. . . I have suffered just as my mother did: we are both alike--in Phrygia Niobe offended Leto the mother of twins, in Phrygia again impious Aura offended me. But Niobe paid for it by passing into a changeling form, that daughter of Tantalos (Tantalus) whose children were her sorrow, and she still weeps with stony eyes.’"
+    </p>
+    <hr/>
+    <h3 id="Leukippe">
+     LETO &amp; THE SEX-CHANGE OF LEUCIPPE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 17 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Galateia [of Phaistos (Phaestus) in Krete (Crete)] became pregnant, Lampros (Lamprus) [her husband] prayed to have a son and said plainly to wife that she was to expose her child if it was a daughter. When Lampros had gone off to tend his flocks, Galateia gave birth to a daughter.
+     <br/>
+     Feeling pity for her babe, she counted on the remoteness of their house and--backed by dreams and seers telling her to bring up the girl as a boy--deceived Lampros by saying she had given birth to a son and brought the child up as a boy, giving it the name Leukippos (Leucippus). As the girl grew up she became unutterably beautiful. Because it was no longer possible to hide this, Galateia, fearing Lampros, fled to the temple of Leto and many a prayer to her that the child might become a boy instead of a girl . . .
+     <br/>
+     Leto took pity on Galateia because of her unremitting and distressing prayers and changed the sex of the child into a boy's. In memory of this change the citizens of Phaistos still sacrifice to Leto Phytie (Phytia, the Grafter) because she had grafted organs on the girl and they give her festival the name of Ekdysia (Ecdysia, Stripping) because the girl had stripped off her maidenly
+     <em>
+      peplos
+     </em>
+     . It is now an observance in marriages to lie down beforehand beside the statue of Leukippos." [N.B. This story also appears in Ovid's
+     <em>
+      Metamorphoses
+     </em>
+     but the agent of the transformation is the Egyptian goddess Isis.]
+    </p>
+    <hr/>
+    <h3 id="Troy">
+     LETO IN THE TROJAN WAR
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/P21.8.html">
+      <img alt="Leto, Chariclo, Hestia, Demeter and Iris | Athenian black-figure dinos C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/P21.8BIris_sm.jpg"/>
+     </a>
+     <figcaption>
+      Leto, Chariclo, Hestia, Demeter and Iris, Athenian black-figure dinos C6th B.C.,
+      <a href="http://www.britishmuseum.org/" target="_blank">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 5. 445 ff (trans. Lattimore) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Apollon caught [the wounded] Aineias (Aeneas) now and away from the onslaught [of the battle], and set him in the sacred keep of Pergamos (Pergamus) where was built his own temple. There Artemis of the showering arrows and Leto within the great and secret chamber healed his wound and cared for him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 20. 38 ff :
+     </span>
+     <br/>
+     "[The gods arrayed themselves against each other in conflict over the Trojan War :] But Ares of the shining helm went over to the Trojans. And with him went Phoibos (Phoebus) [Apollon] of the unshorn hair, and the lady of arrows Artemis, and smiling Aphrodite, Leto and Xanthos . . . Against Hera stood . . . Artemis [and] . . . Opposite Leto stood the strong one, generous Hermes."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homer, Iliad 21. 493 ff :
+     </span>
+     <br/>
+     "[In the conflict of the gods over Troy, Hera boxes Artemis around the head with her own bow :] She [Artemis] got free and fled in tears  . . . So she left her archery on the ground, and fled weeping. Meanwhile the Guide, Argeiphontes [Hermes], addressed him to Leto : ‘Leto, I will not fight with you; since it is a hard thing to come to blows with the brides of Zeus who gathers the clouds. No sooner you may freely speak among the immortal gods, and claim that you were stronger than I, and beat me.’
+     <br/>
+     So he spoke, but Leto picked up the curved bow and the arrows which had fallen in the turn of the dust one way and another. When she had taken up the bow she went back to her daughter."
+    </p>
+    <hr/>
+    <h3 id="Miscellany">
+     LETO MYTHS MISCELLANY
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Praxilla, Frag 753 (from Pausanias, Description of Greece) (trans. Campbell, Vol. Greek Lyric IV) (C5th B.C.) :
+     </span>
+     <br/>
+     "Praxilla's version is that Karneios (Carneus) was the son of Europa and Zeus, and that Apollon and Leto brought him up."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 3. 13. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "The poetess Praxilla represents Karneios (Carneus) as the son of Europa, Apollon and Leto being his nurses."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 13. 7 :
+     </span>
+     <br/>
+     "The Mantineans [of Arkadia (Arcadia)] dedicated a bronze Apollon [at Delphoi (Delphi), Phokis]  . . . Herakles (Heracles) and Apollon are holding on to the tripod, and are preparing to fight about it. Leto and Artemis are calming Apollon, and Athene (Athena) is calming Herakles."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Antoninus Liberalis, Metamorphoses 20 (trans. Celoria) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Klinis (Clinis) of Babylon] arranged by the altar a hecatomb of asses [in the manner of the Hyperboreans]. Apollon appeared and threatened him with death if he did not cease from this sacrifice and did not offer up to him the usual goats, sheep and cattle . . . Now Lykios (Lycius) and Harpasos (Harpasus) heard their father [telling them to desist from the sacrifice of asses] but went on telling him to sacrifice the asses . . . they undid the halters of he asses and set to driving towards the altar. The god inflected the asses with a madness and they began to eat up the children, their servants, Klinis (Clinis) too. As they were perishing they cries out to the gods for help . . . Leto and Artemis saw fit to save Klinis, Artemikhe (Artemiche) and Ortygios (Ortygius) for they had not been the cause of these impieties. 
+  Apollon granted this favour to Leto and Artemis and changed them all into birds before they could be killed. Klinis became a
+     <em>
+      hypaietos
+     </em>
+     (an under-eagle) . . . Lykios was changed into a raven that was white but later by the wish of Apollon, he became of a sable colour, because he had been the first to announce the marriage of Koronis (Coronis), daughter of Phlegyas, to Alkyoneus (Alcyoneus). Artemikhe became a lark, a bird that gods and humans are fond of. Ortygios became a billy-tit because he had urged his father to sacrifice billy-goats instead of asses to Apollon."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 4. 60 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Latona [Leto] and Diana [Artemis] together stood mournful-eyed before Jove [Zeus], and Apollo thus supplicating speaks : ‘Until what other Alcides [Herakles] come, until what time indeed, great king, dost thou put off the old man of Caucasus [Prometheus]? Grantest thou no end at all of punishment and misery? The whole race of mankind beseeches thee, ay, the very mountains, worthy sire, and weary ridges with their forests supplicate thee. Sufficiently hast thou punished the theft of fire and safeguarded the secrets of the ethereal board.’ . . . He [Zeus] moved by the goddesses' tears and Phoebus' [Apollon's] high renown sends down swift Iris on her rosy cloud. ‘Go,’ he says, ‘let Alcides [Herakles] . . . rescue the Titan from the dreadful Bird.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 94 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "All the denizens of Olympos (Olympus) who cared for their beloved oaks, rescued Hadryas Nymphai (Hadryad Nymphs) [when the Indian River Hydaspes tried to drown them with the rest of the army of Dionysos]; and most especially laurel-Apollon appeared and saved the Daphnaiai (Laurel-Nymphs); and Leto his mother stood by her son and helped them [the palm-tree Dryades], for she still honoured the tree which helped her childbirth [the Delian palm]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 36. 5 ff :
+     </span>
+     <br/>
+     "The gods who dwell in Olympos ranged themselves in two parties to direct the warfare [between the forces of Dionysos and the Indians] on both sides, these supporting Deriades [king of the Indians], those Lyaios (Lyaeus) [Dionysos] . . . Hermes rod in hand came to conflict with Leto."
+    </p>
+    <hr/>
+    <h3 id="Animals">
+     SACRED ANIMALS &amp; BIRDS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 4. 29 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "I learn that the Cock is the favourite bird of Leto. The reason is, they say, that he was at her side when she was so happily brought to bed of twins. That is why to this very day a Cock is at hand when women are in travail, and is believed somehow to promote an easy delivery."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 10. 47 :
+     </span>
+     <br/>
+     "The Ichneumon (mongoose) is both male and female in the same individual, partaking of both sexes, and nature has enabled each single same animal both to procreate and to give birth . . . Ichneumons are said to be sacred to Leto and the Eileithyiai (Goddesses of Birth), and the people of Heraklepolis (Heracleopolis) worship them, so they say."
+    </p>
+    <hr/>
+    <h3 id="Hymns">
+     HYMNS TO LETO
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 35 to Leto (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     “To Leto, Fumigation from Myrrh. Dark-veiled Leto, much invoked queen, twin-bearing Goddess, of noble mien; Koiantis (Coeantis) (Daughter of Koios) great, a mighty mind is thine, offspring prolific, blest, of Zeus divine : Phoibos (Phoebus) [Apollon] proceeds from thee, the God of light, and Artemis fair, whom winged darts delight; she in Ortygia's honoured regions born, in Delos he, which lofty mounts adorn. Hear me, O queen, and favourably attend, and to this consecration divine afford a pleasing end."
+    </p>
+    <hr/>
+    <h3>
+     LETO NAME ETYMOLOGY
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Plato, Cratylus 400d &amp; 406d (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "[Plato constructs philosophical etymologies for the names of the gods :]
+     <br/>
+     Sokrates (Socrates) : Let us inquire what thought men had in giving them [the gods] their names . . . The first men who gave names [to the gods] were no ordinary persons, but high thinkers and great talkers . . .  Leto [is named] from her gentleness, because whatever is asked of her, she is willing (
+     <em>
+      ethelêmôn
+     </em>
+     ). But perhaps her name is Letho, as she is called by many foreigners; and those who call her by that name seem to do so on account of the mild and gentle (
+     <em>
+      leion
+     </em>
+     ,
+     <em>
+      lêthô
+     </em>
+     ) kindness of her character."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.6.html">
+        <img alt="Thumbnail Leto, Apollo, Artemis" src="../image/thumbT14.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.6 Leto, Apollo, Artemis
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.4.html">
+        <img alt="Thumbnail Leto, Tityus, Apollo" src="../image/thumbT14.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.4 Leto, Tityus, Apollo
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.3.html">
+        <img alt="Thumbnail Leto, Tityus, Apollo" src="../image/thumbT14.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.3 Leto, Tityus, Apollo
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.5.html">
+        <img alt="Thumbnail Leto, Tityus, Apollo" src="../image/thumbT14.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.5 Leto, Tityus, Apollo
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/P21.8.html">
+        <img alt="Thumbnail Leto, Chariclo, Hestia, Demeter" src="../image/thumbP21.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         P21.8 Leto, Chariclo, Hestia, Demeter
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.1.html">
+        <img alt="Thumbnail Leto Holding Veil" src="../image/thumbT14.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.1 Leto Holding Veil
+        </h3>
+        <p>
+         Lucanian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.2.html">
+        <img alt="Thumbnail Leto, Apollo, Artemis" src="../image/thumbT14.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.2 Leto, Apollo, Artemis
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.7.html">
+        <img alt="Thumbnail Leto, Delos, Apollo, Artemis" src="../image/thumbT14.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.7 Leto, Delos, Apollo, Artemis
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T14.8.html">
+        <img alt="Thumbnail Leto &amp; Seated Apollo" src="../image/thumbT14.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T14.8 Leto &amp; Seated Apollo
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES (ALL LETO PAGES)
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      Homer, The Iliad
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Homer, The Odyssey
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Astronomy Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, The Aethiopis Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Simonides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th - 5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Bacchylides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Praxilla, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric IV Scholia, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Greek Elegaic Theognis, Fragments
+      <span class="sources-detail">
+       - Greek Elegaic C6th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Eumenides
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Thesmophoriazusae
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Cratylus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/CallimachusHymns1.html">
+       Callimachus, Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Parthenius.html">
+       Parthenius, Love Romances
+      </a>
+      <span class="sources-detail">
+       - Greek Mythography C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Antoninus Liberalis, Metamorphoses
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       Quintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusAchilleid1A.html">
+       Statius, Achilleid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     OTHER SOURCES
+    </h3>
+    <p>
+     <em>
+      Other references not currently quoted here: Servius on Virgil's Aeneid 3.72, Orphica Argonautica 975.
+     </em>
+    </p>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     LETO SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE TITANESS LETO
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Coeus and Phoebe
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Husband
+       </th>
+       <td>
+        Zeus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Goddess of
+       </th>
+       <td>
+        Motherhood, demureness
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Mount Olympus
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Veil
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Animals
+       </th>
+       <td>
+        Rooster, mongoose
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Sacred Trees
+       </th>
+       <td>
+        Palm tree
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Latona
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     LETO PAGES INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      Part 1: Introduction &amp; Myths
+      <ul>
+       <li>
+        <a href="#Family">
+         Family of Leto
+        </a>
+       </li>
+       <li>
+        <a href="#Gallery">
+         Gallery
+        </a>
+       </li>
+       <li>
+        <a href="#Encyclopedia">
+         Encyclopedia Entry
+        </a>
+       </li>
+       <li>
+        <a href="#Sources">
+         Sources
+        </a>
+       </li>
+       <li>
+        <a href="#Parentage">
+         Parentage of Leto
+        </a>
+       </li>
+       <li>
+        <a href="#Labour">
+         Travails of Leto &amp; the Birth of her Children
+        </a>
+       </li>
+       <li>
+        <a href="#Tityos">
+         Leto &amp; the Giant Tityus
+        </a>
+       </li>
+       <li>
+        <a href="#Typhoeus">
+         Leto &amp; the Giant Typhoeus
+        </a>
+       </li>
+       <li>
+        <a href="#Companion">
+         Companion of Apollo &amp; Artemis
+        </a>
+       </li>
+       <li>
+        <a href="#Orion">
+         Leto, Artemis &amp; Giant Orion
+        </a>
+       </li>
+       <li>
+        <a href="#Kyklopes">
+         Leto &amp; Apollo's Slaying of the Cyclopes
+        </a>
+       </li>
+       <li>
+        <a href="#Lykians">
+         Wrath: Lycian Peasants
+        </a>
+       </li>
+       <li>
+        <a href="#Niobe">
+         Wrath: Niobe
+        </a>
+       </li>
+       <li>
+        <a href="#Leukippe">
+         Favour: Leucippe
+        </a>
+       </li>
+       <li>
+        <a href="#Troy">
+         Leto &amp; the Trojan War
+        </a>
+       </li>
+       <li>
+        <a href="#Miscellany">
+         Leto Myths Miscellany
+        </a>
+       </li>
+       <li>
+        <a href="#Animals">
+         Sacred Animals &amp; Plants
+        </a>
+       </li>
+       <li>
+        <a href="#Hymns">
+         Hymns to Leto
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="../Cult/LetoCult.html">
+       Part 2: Cult of Leto
+      </a>
+      <ul>
+       <li>
+        <a href="../Cult/LetoCult.html#Attika">
+         Attica, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Megaris">
+         Megaris, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Argolis">
+         Argolis, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Lakedaimonia">
+         Laconia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Arkadia">
+         Arcadia, Southern Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Boiotia">
+         Boeotia, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Phokis">
+         Phocis, Central Greece
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Delos">
+         Delos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Lesbos">
+         Lesbos, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Rhodes">
+         Rhodes, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Krete">
+         Crete, Greek Aegean
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Lydia">
+         Lydia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Lykia">
+         Lycia, Anatolia
+        </a>
+       </li>
+       <li>
+        <a href="../Cult/LetoCult.html#Titles">
+         Titles &amp; Epithets
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

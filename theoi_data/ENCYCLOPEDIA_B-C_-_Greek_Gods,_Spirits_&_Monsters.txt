@@ -1,0 +1,2426 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Main_Encyc.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   ENCYCLOPEDIA B-C - Greek Gods, Spirits &amp; Monsters
+  </title>
+  <meta content="An illustrated encyclopedia of the gods, goddesses, titans, nymphs, spirits, monsters and fantastic creatures of Greek mythology." name="description"/>
+  <meta content="Greek mythology encyclopedia, Greek gods encyclopedia, Greek gods, Greek goddesses, Greek monsters, Greek mythology, greek mythology pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/main.css" rel="stylesheet" type="text/css"/>
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section class="mobile-hidden" id="directory" name="directory">
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../">
+      Greek Mythology
+     </a>
+     &gt;&gt; Encyclopedia B-C : Greek Gods, Spirits &amp; Monsters
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     ENCYCLOPEDIA B  - C
+     <!-- InstanceEndEditable -->
+    </h1>
+    <!-- InstanceBeginEditable name="Text1" -->
+    <div class="encyc-a-z">
+     <a href="encyclopedia-a.html">
+      A
+     </a>
+     |
+     <a href="encyclopedia-c.html">
+      B
+     </a>
+     |
+     <a href="encyclopedia-c.html#C">
+      C
+     </a>
+     |
+     <a href="encyclopedia-d.html">
+      D
+     </a>
+     |
+     <a href="encyclopedia-d.html#E">
+      E
+     </a>
+     |
+     <a href="encyclopedia-d.html#F">
+      F
+     </a>
+     |
+     <a href="encyclopedia-d.html#G">
+      G
+     </a>
+     |
+     <a href="encyclopedia-h.html">
+      H
+     </a>
+     |
+     <a href="encyclopedia-h.html#I">
+      I
+     </a>
+     |
+     <a href="encyclopedia-h.html#J">
+      J
+     </a>
+     |
+     <a href="encyclopedia-h.html#K">
+      K
+     </a>
+     |
+     <a href="encyclopedia-l.html">
+      L
+     </a>
+     |
+     <a href="encyclopedia-l.html#M">
+      M
+     </a>
+     |
+     <a href="encyclopedia-l.html#N">
+      N
+     </a>
+     |
+     <a href="encyclopedia-l.html#O">
+      O
+     </a>
+     |
+     <a href="encyclopedia-p.html">
+      P
+     </a>
+     |
+     <a href="encyclopedia-r.html">
+      R
+     </a>
+     |
+     <a href="encyclopedia-r.html#S">
+      S
+     </a>
+     |
+     <a href="encyclopedia-r.html#T">
+      T
+     </a>
+     |
+     <a href="encyclopedia-r.html#U">
+      U
+     </a>
+     |
+     <a href="encyclopedia-r.html#X">
+      X
+     </a>
+     |
+     <a href="encyclopedia-r.html#Z">
+      Z
+     </a>
+    </div>
+    <figure class="image-main image-main-400">
+     <a href="../Titan/AnemosBoreas.html">
+      <img alt="Boreas" class="img-responsive center-block" src="../image/T28.2Boreas.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Titan/AnemosBoreas.html">
+       BOREAS
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Nymphe/NymphaiHamadryades.html">
+      BALANIS
+     </a>
+     The Hamadryad-nymph of the acorn tree.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheBateia.html">
+      BATIA
+     </a>
+     (Bateia) The nymph wife of a king of Sparta.
+    </p>
+    <p>
+     <a href="../Ther/HippoiBaliosXanthos.html">
+      BALIUS
+     </a>
+     (Balios) An immortal horse gifted to the hero Peleus at his wedding by the gods. It drove the chariot of his son Achilles in the Trojan War.
+    </p>
+    <p>
+     <a href="../Heros/Bellerophontes.html">
+      BELLEROPHON
+     </a>
+     (Bellerophontes) A Greek hero who tamed the winged-horse Pegasus and rode it into battle against the fire-breathing monster Chimera.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Thrakios/Bendis.html">
+      BENDIS
+     </a>
+     The Thracian goddess of the moon and the hunt who was worshipped with wild Bacchic orgies.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheBenthesikyme.html">
+      BENTHESICYME
+     </a>
+     (Benthesikyme) A sea-nymph daughter of Poseidon who married an Ethiopian king.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheBeroe.html">
+      BEROE
+     </a>
+     The goddess-nymph of the Phoenician city of Beruit. The gods Poseidon and Dionysus fought a battle in the contest for her hand in marriage.
+    </p>
+    <p>
+     <a href="../Daimon/Bia.html">
+      BIA
+     </a>
+     The goddess of force. She was of one of the henchmen of the god Zeus who stood beside him in the Titan-war.
+    </p>
+    <p>
+     <a href="../Phylos/Sternophthalmoi.html">
+      BLEMMYAE
+     </a>
+     (Blemmyai) A fabulous tribe of headless, African men whose faces were set upon their chests.
+    </p>
+    <p>
+     BOLBE The goddess-nymph of the Boeotian lake  Bolbe.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheBolina.html">
+      BOLINA
+     </a>
+     A maiden who leapt into the sea to escape the god Apollo and was transformed into a nymph.
+    </p>
+    <p>
+     <a href="../Georgikos/Bootes.html">
+      BOOTES
+     </a>
+     The agricultural demigod of the plough and  wagon.
+    </p>
+    <p>
+     <a href="../Titan/AnemosBoreas.html">
+      BOREAS
+     </a>
+     The purple-haired, winged god of the north-wind whose chill breath brought on the cold of winter.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Titan/HekatonkheirBriareos.html">
+      BRIAREUS
+     </a>
+     (Briareos) A hundred-handed Hecatoncheir-giant who dwelt in the depths of the Aegean Sea. He came to the aid of Zeus when the other gods rebelled against him.
+    </p>
+    <p>
+     <a href="../Georgikos/Britomartis.html">
+      BRITOMARTIS
+     </a>
+     The maiden goddess of the nets. When she was pursued by King Minos of Crete she leapt into the sea and was rescued in the nets of fishermen.
+    </p>
+    <p>
+     <span class="heading">
+      BRIZO
+     </span>
+     A goddess of the island of Delos. She was a patron of fishermen and the sender of oracular visions in dreams.
+    </p>
+    <p>
+     <a href="../Titan/Kyklopes.html">
+      BRONTES
+     </a>
+     One of the three metal-working Cyclopes who crafted the lightning-bolts of Zeus.
+    </p>
+    <p>
+     <a href="../Potamos/PotamosBrykhon.html">
+      BRYCHON
+     </a>
+     A river of the Thracian Chersonese and its bull-horned god who supported the Gigantes (Giants) in their war with the gods.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheByblis.html">
+      BYBLIS
+     </a>
+     A princess of Caria who cast herself off a mountainside and was transformed into a Hamadryad by the nymphs.
+    </p>
+    <p>
+     <a href="../Pontios/Ikhthyokentauroi.html">
+      BYTHOS
+     </a>
+     One of the Ichthyocentaurs (fish-tailed centaurs) who carried the goddess Aphrodite ashore after her birth in the sea-foam.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiErasinides.html">
+      BYZE
+     </a>
+     A Naiad daughter of the river-god Erasinus. She was an attendant of the goddess Britomartis.
+    </p>
+    <hr/>
+    <figure class="image-main image-main-300">
+     <a href="../Ouranios/MousaKalliope.html">
+      <img alt="Calliope" class="img-responsive center-block" src="../image/K20.10CMousa.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ouranios/MousaKalliope.html">
+       CALLIOPE
+      </a>
+     </figcaption>
+    </figure>
+    <p id="C">
+     <a href="../Potamos/PotamosIsmenos.html">
+      CAANTHUS
+     </a>
+     (Kaanthos) A son of the Titan Oceanus who was slain by Apollo in a contest for the love of the nymph Melia.
+    </p>
+    <p>
+     <a href="../Georgikos/Kabeiroi.html">
+      CABEIRI
+     </a>
+     (Kabeiroi) Twin gods of the Mysteries of the island of Samothrace.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiKabeirides.html">
+      CABEIRIDES
+     </a>
+     (Kabeirides) Nymphs of the Cabeirian Mysteries of the Greek island of Samothrace.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKabeiro.html">
+      CABEIRO
+     </a>
+     (Kabeiro) A sea-nymph loved by the divine smith Hephaestus.
+    </p>
+    <p>
+     <a href="../Daimon/Kakia.html">
+      CACIA
+     </a>
+     (Kakia) The female personification of vice.
+    </p>
+    <p>
+     <a href="../Gigante/GiganteKakos.html">
+      CACUS
+     </a>
+     (Kakos) A fire-breathing Italian giant slain by Heracles.
+    </p>
+    <p>
+     <a href="../Georgikos/Kadmilos.html">
+      CADMILUS
+     </a>
+     (Kadmilos) A rustic deity who fathered the Cabeiri twins.
+    </p>
+    <p>
+     <a href="../Titan/Anemoi.html">
+      CAECIUS
+     </a>
+     (Kaikias) The god of the north-east wind.
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKaikos.html">
+      CAECUS
+     </a>
+     (Kaikos) A river of Teuthrania and its watery god.
+    </p>
+    <p>
+     <a href="../Daimon/Kairos.html">
+      CAERUS
+     </a>
+     (Kairos) The  god of opportunity.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKaliadne.html">
+      CALIADNE
+     </a>
+     (Kaliadne) An Egyptian Naiad-nymph.
+    </p>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Text2" -->
+    <p>
+     <a href="../Daimon/Kalokagathia.html">
+      CALOCAGATHIA
+     </a>
+     (Kalokagathia) The female personification of nobility.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKalligeneia.html">
+      CALLIGENEIA
+     </a>
+     (Kalligeneia) A goddess of the Eleusinian Mysteries who was the nurse of the young Persephone.
+    </p>
+    <p>
+     <a href="../Ouranios/MousaKalliope.html">
+      CALLIOPE
+     </a>
+     (Kalliope) The eldest of the nine Muses. She presided over epic poetry.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKallirhoe1.html">
+      CALLIRHOE (1)
+     </a>
+     (Kallirhoe) The Oceanid wife of the giant Chrysaor who begged her son Geryon not to fight Heracles.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKallirhoe2.html">
+      CALLIRHOE (2)
+     </a>
+     (Kallirroe) A Naiad-nymph daughter of the river Achelous who married the hero Alcmaeon. She demanded the famed necklace of Harmonia for a bridal gift--a cursed piece of jewelry which would doom their family.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKallirhoe3.html">
+      CALLIRHOE (3)
+     </a>
+     (Kallirhoe) A Naiad daughter of the river Scamander who married one of the kings of Troy.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKalliste.html">
+      CALLISTE
+     </a>
+     (Kalliste) A sea-nymph daughter of Triton who was the goddess of the small island of Calliste.
+    </p>
+    <p>
+     <a href="../Heroine/Io.html">
+      CALLITHYIA
+     </a>
+     (Kallithyia) A Naiad daughter of the river-god Inachus who established the ancient cult of Hera in Argos.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKalybe.html">
+      CALYBE
+     </a>
+     (Kalybe) A rustic nymph loved by the Trojan king Laomedon.
+    </p>
+    <p>
+     <a href="../Ther/HusKalydonios.html">
+      CALYDONIAN BOAR
+     </a>
+     (Hus Kalydonios) A giant boar sent by Artemis to ravage the land of Aetolia as punishment for the offences of its king. It was slain by a band of mighty heroes led by Meleager.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKalypso.html">
+      CALYPSO
+     </a>
+     (Kalypso) The goddess-nymph of the island Ogygia who detained the hero Odysseus for many years.
+    </p>
+    <figure class="image-main image-main-50pct">
+     <a href="../Georgikos/KentauroiPeloponnesioi.html">
+      <img alt="Centaurs" class="img-responsive center-block" src="../image/Z38.4BKentauros_sm.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Georgikos/KentauroiPeloponnesioi.html">
+       CENTAURS
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Nymphe/NympheKamarina.html">
+      CAMARINA
+     </a>
+     (Kamarina) An Oceanid-nymph who gave her name to the Italian city of Camarina.
+    </p>
+    <p>
+     <a href="../Ther/DrakainaKampe.html">
+      CAMPE
+     </a>
+     (Kampe) A monstrous she-dragon servant of the Titans who was set to guard the Tartarean prison of the Hecatoncheir- and Cyclops-giants. Zeus slew her to set the brothers free.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKapheira.html">
+      CAPHEIRA
+     </a>
+     (Kapheira) The sea-nymph nurse of the infant god Poseidon.
+    </p>
+    <p>
+     <a href="../Ther/Karkinos.html">
+      CARCINUS
+     </a>
+     (Karkinos) A giant crab which came to the aid of the Hydra in its fight with Heracles. The hero crushed it beneath his heel but Hera rewarded it with a place amongst the stars as the constellation Cancer.
+    </p>
+    <p>
+     <a href="../Georgikos/Karmanor.html">
+      CARMANOR
+     </a>
+     (Karmanor) A Cretan demigod of the harvest. He was a consort of  the goddess Demeter.
+    </p>
+    <p>
+     <a href="../Georgikos/Karme.html">
+      CARME
+     </a>
+     (Karme) A Cretan goddess-nymph of the summer harvest.
+    </p>
+    <p>
+     <span class="heading">
+      CARMENTIS
+     </span>
+     (Karmentis) An Arcadian Naiad loved by the god Hermes whose son Evander migrated to Latium in Italy.
+    </p>
+    <p>
+     CARPI (Karpoi) Gods of the fruits of the earth. They were depicted as infants frolicking in the company of Mother Gaea (the Earth).
+    </p>
+    <p>
+     <a href="../Ouranios/HoraKarpo.html">
+      CARPO
+     </a>
+     (Karpo) One of the Horae (Seasons) and the goddess of ripened fruit.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiHamadryades.html">
+      CARYA
+     </a>
+     (Karya) The Hamadryad-nymph of the hazel or the walnut tree.
+    </p>
+    <p>
+     <a href="../Georgikos/Karystos.html">
+      CARYSTUS
+     </a>
+     (Karystos) A rustic demigod of the island of the Euboea. He was a son  of the centaur Chiron.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKastalia.html">
+      CASTALIA
+     </a>
+     (Kastalia) A Naiad-nymph daughter of the river Achelous who presided over the sacred spring of the oraclular shrine of Delphi.
+    </p>
+    <p>
+     <a href="../Ther/AetosKaukasios.html">
+      CAUCASIAN EAGLE
+     </a>
+     (Aetos Kaukasios) An eagle sent by Zeus to gnaw on the ever-regenerating liver of the Titan Prometheus. It was destroyed by Heracles when he came to set the Titan free.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKaystros.html">
+      CAYSTER
+     </a>
+     (Kaystros) A river of Lydia and its god.
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKebren.html">
+      CEBREN
+     </a>
+     (Kebren) A river of Troy and its liquid god.
+    </p>
+    <p>
+     <a href="../Heros/Kekrops.html">
+      CECROPS
+     </a>
+     (Kekrops) An earth-born king of Attica who was born with the tail of a serpent in place of legs.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Georgikos/Kedalion.html">
+      CEDALION
+     </a>
+     (Kedalion) A daemon attendant of Hephaestus who worked in the divine smith's  Lemnian forge.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKelaino.html">
+      CELAENO (1)
+     </a>
+     (Kelaino) One of the starry Pleiad-nymphs who was loved by the god Poseidon.
+    </p>
+    <p>
+     <a href="../Pontios/Harpyiai.html">
+      CELAENO (2)
+     </a>
+     (Kelaino) One of the three winged Harpies.
+    </p>
+    <figure class="image-main image-main-50pct">
+     <a href="../Ther/Khimaira.html">
+      <img alt="Chimera" class="img-responsive center-block" src="../image/M14.3Khimaira.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ther/Khimaira.html">
+       CHIMERA
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Ther/AutomotonesKeledones.html">
+      CELEDONES
+     </a>
+     (Keledones) Magical singers crafted of solid gold by the divine smith Hephaestus which served in the first temple of Apollo at Delphi.
+    </p>
+    <p>
+     <a href="../Georgikos/Kouretes.html">
+      CELMIS
+     </a>
+     (Kelmis) One of the metal-working Dactyls.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKelouse.html">
+      CELUSA
+     </a>
+     (Kelouse) The nymph mother of the river-god Asopus by Poseidon.
+    </p>
+    <p>
+     <a href="../Georgikos/Kentaurides.html">
+      CENTAURIDES
+     </a>
+     (Kentaurides) Females of the centaur-tribe.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Georgikos/KentauroiThessalioi.html">
+      CENTAURS (1), THESSALIAN
+     </a>
+     (Kentauroi Thessalioi) A tribe of savages with the upper bodies of men and lower bodies of horses. They tried to abduct the womenfolk of the Lapiths at the wedding of King Pirithous and were slain in the fight which ensued.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Georgikos/KentauroiPeloponnesioi.html">
+      CENTAURS  (2), PELOPONNESIAN
+     </a>
+     (Kentauroi Pelopponesioi) A tribe of Arcadian centaurs which fought Heracles for the wine of Pholus.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Georgikos/KentauroiKyprioi.html">
+      CENTAURS (3), CYPRIAN
+     </a>
+     (Kentauroi Kyprioi) A tribe of bull-horned Centaurs native to the island of Cyprus born when Zeus accidentally impregnated the Earth during a failed attempt to couple with the goddess Aphrodite.
+    </p>
+    <p>
+     <a href="../Georgikos/PheresLamioi.html">
+      CENTAURS (4), LAMIAN
+     </a>
+     (Pheres Lamioi) Centaur-companions of  the god Dionysus. They were transformed into beasts by Hera as punishment for guarding the infant god.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKephisos1.html">
+      CEPHISUS (1)
+     </a>
+     (Kephisos) A river of Phocis and Boeotia in central Greece and its god.
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKephisos2.html">
+      CEPHISUS (2)
+     </a>
+     (Kephisos) A river of Attica in southern Greece and its fish-tailed god.
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKephisos3.html">
+      CEPHISUS (3)
+     </a>
+     (Kephisos) The god of a river in Argos  whose streams were dried up by the god Poseidon as punishment for awarding the land to Hera.
+    </p>
+    <p>
+     <a href="../Georgikos/Akratos.html">
+      CERAON
+     </a>
+     (Keraon) The daemon of the mixing of water and wine.
+    </p>
+    <p>
+     <a href="../Ther/KuonKerberos.html">
+      CERBERUS
+     </a>
+     (Kerberos) The three-headed, serpent-maned hound of Hades which guarded the gates of the underworld. Heracles was sent to fetch it as one of his twelve labours.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Georgikos/Kerkopes.html">
+      CERCOPES
+     </a>
+     (Kerkopes) A pair of monkey-like bandits which plagued the land of Lydia. They were captured by Heracles but so amused him with their antics that he set them free.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Ther/ElaphosKerynitis.html">
+      CERYNITIAN HIND
+     </a>
+     (Elaphos Kerynitis) A golden-horned deer sacred to the goddess Artemis. Heracles was sent to fetch it as one of his Twelve Labours.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Ther/Ketea.html">
+      CETEA
+     </a>
+     (Ketea) The  monsters of the sea. Small cetea were the mounts of sea-gods and nymphs. Larger beasts were sent by Poseidon to punish impious men.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <figure class="image-main image-main-400">
+     <a href="../Ther/HusKalydonios.html">
+      <img alt="Calydonian Boar" class="img-responsive center-block" src="../image/M17.1Kalydonios.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ther/HusKalydonios.html">
+       CALYDONIAN BOAR
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Pontios/Keto.html">
+      CETO (1)
+     </a>
+     (Keto) The goddess-crone of sea-monsters and the hidden  dangers of the sea. Her monstrous brood included the Gorgons, the Graea and the deadly sea-nymph Scylla.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKeto.html">
+      CETO (2)
+     </a>
+     (Keto) An Oceanid nymph loved by the sun-god Helius.
+    </p>
+    <p>
+     <a href="../Ther/KetosAithiopios.html">
+      CETUS (1), ETHIOPIAN
+     </a>
+     (Ketos Aithiopios) A sea-monster sent by Poseidon to ravage the lands of Ethiopia. The hero Perseus slew the monster and freed the sacrificial princess Andromeda from her chains.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Ther/KetosTroias.html">
+      CETUS (2), TROJAN
+     </a>
+     (Ketos Troias) A sea-monster sent by Poseidon to plague  the lands of Troy. Heracles slew it with his arrows and freed the king's sacrificial daughter Hesione from her chains.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Khthonios/Keuthonymos.html">
+      CEUTHONYMUS
+     </a>
+     (Keuthonymos) A mysterious daemon of the underworld.
+    </p>
+    <p>
+     <a href="../Ther/TauroiKhalkeoi.html">
+      CHALCOTAURI
+     </a>
+     (Khalkotauroi) A pair of fire-breathing, bronze bulls which King Aeetes of Colchis commanded Jason yoke to plough a field of dragon's teeth.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheEuboia.html">
+      CHALCIS
+     </a>
+     (Khalkis) A Naiad-nymph daughter of the river Asopus who was the eponym of the Euboean town of Chalcis.
+    </p>
+    <p>
+     <a href="../Protogenos/Khaos.html">
+      CHAOS
+     </a>
+     (Khaos) The primordial deity of the "gap" or void of air spanning heaven and earth. Late classical authors reimagined it as a primordial mix of elements.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKhariklo1.html">
+      CHARICLO (1)
+     </a>
+     (Khariklo) The nymph wife of the centaur Chiron who lived with her husband in a cave on Mount Pelion.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKhariklo2.html">
+      CHARICLO (2)
+     </a>
+     (Khariklo) A nymph who was mother of the seer Tiresias. She was a friend and companion of the goddess Athena.
+    </p>
+    <p>
+     <a href="../Ouranios/Kharites.html">
+      CHARITES
+     </a>
+     (Kharites) Three goddesses of the graces--beauty, mirth and festive good-cheer.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Khthonios/Kharon.html">
+      CHARON
+     </a>
+     (Kharon) The ferryman of the dead--an underworld daemon who ferried the soul of the dead across the river Acheron in his skiff.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Pontios/Kharybdis.html">
+      CHARYBDIS
+     </a>
+     (Kharybdis) A gigantic daughter of Poseidon  chained to the sea-bed by Zeus for her crimes. Her inhalations formed a massive whirlpool in the narrow Strait of Messina.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKhelone.html">
+      CHELONE
+     </a>
+     (Khelone) An Oread-nymph who haughtily refused to attend the wedding of Zeus and Hera. She was transformed into a tortoise by the god Hermes.
+    </p>
+    <p>
+     <a href="../Ther/Khimaira.html">
+      CHIMERA
+     </a>
+     (Khimaira) A creature with the foreparts of a lion, the hindquarters of a goat, a goat's head on its back, and a fanged serpent for a tail. It was slain by Bellerophon from the back of the winged-horse Pegasus.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKhione1.html">
+      CHIONE (1)
+     </a>
+     (Khione) The goddess  of snow, a daughter of the frosty north-wind Boreas.
+    </p>
+    <figure class="image-main image-main-50pct">
+     <a href="../Ouranios/Kharites.html">
+      <img alt="Charites" class="img-responsive center-block" src="../image/F21.1Kharites.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ouranios/Kharites.html">
+       CHARITES
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Nymphe/NympheKhione2.html">
+      CHIONE (2)
+     </a>
+     (Khione) A snow-nymph loved by the wind-god Boreas.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKhione3.html">
+      CHIONE (3)
+     </a>
+     (Khione) A Naiad-nymph daughter of the River Nile who was transformed into a snow-cloud by Zeus after she was raped by an Egyptian peasant.
+    </p>
+    <p>
+     <a href="../Georgikos/KentaurosKheiron.html">
+      CHIRON
+     </a>
+     (Kheiron) An immortal centaur who was a son of the Titan Cronus and half-brother of the god Zeus. He was a famed teacher who fostered and instructed many great heroes in his cave on Mount Pelion.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKhloris.html">
+      CHLORIS
+     </a>
+     (Khloris) The goddess of flowers and wife of Zephyrus the west-wind.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKhremetes.html">
+      CHREMETES
+     </a>
+     (Khremetes) A river of Libya and its god.
+    </p>
+    <p>
+     <a href="../Protogenos/Khronos.html">
+      CHRONOS
+     </a>
+     (Khronos) The primordial god of time. He and his consort Ananke encircled the cosmos with serpentine coils.
+    </p>
+    <p>
+     <a href="../Ther/Khrysaor.html">
+      CHRYSAOR
+     </a>
+     (Khrysaor) A gigantic son of the Gorgon Medusa.
+    </p>
+    <p>
+     <a href="../Ther/KuonKhryseos.html">
+      CHRYSEAN DOG
+     </a>
+     (Khryseos Kuon) A golden hound which was set by Rhea set to guard the infant Zeus and his nurse, the goat Amaltheia.
+    </p>
+    <p>
+     <a href="../Ther/KriosKhrysomallos.html">
+      CHRYSOMALLUS
+     </a>
+     (Khrysomallos) A flying, golden-fleeced ram sent by the cloud-nymph Nephele to rescue her children, Phrixus and Helle, from a sacrifice to the gods.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKhrysopeleia.html">
+      CHRYSOPELIA
+     </a>
+     (Khrysopeleia) The nymph wife of Arcas king of Arcadia.
+    </p>
+    <p>
+     <a href="../Daimon/Khrysos.html">
+      CHRYSOS
+     </a>
+     (Khrysos) The god of gold.
+    </p>
+    <p>
+     <a href="../Georgikos/Khrysothemis.html">
+      CHRYSOTHEMIS
+     </a>
+     (Khrysothemis) The goddess of the "golden custom" of the harvest festival.
+    </p>
+    <p>
+     <a href="../Titan/Kirke.html">
+      CIRCE
+     </a>
+     (Kirke) A goddess-witch of the magical island of Aeaea who transformed visitors into beasts with her potions and spells.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Georgikos/OrosKithairon.html">
+      CITHAERON
+     </a>
+     (Kithairon) The ancient, craggy god of Mount Cithaeron in southern Greece.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKlaia.html">
+      CLAEA
+     </a>
+     (Klaia) An Oread-nymph who possessed a cavern shrine on Mount Calathium in Messenia.
+    </p>
+    <p>
+     <a href="../Ther/HusKlazomenaios.html">
+      CLAZOMENAEAN BOAR
+     </a>
+     (Hus Klazomenaios) A giant, winged boar which terrorized the Ionian town of Clazomenae.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiHyades.html">
+      CLEEIA
+     </a>
+     (Kleeia) One of the starry Hyad-nymphs.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKleokhareia.html">
+      CLEOCHARIA
+     </a>
+     (Kleokhareia) The Naiad-nymph wife of Lelex, first king of Sparta.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKleodora.html">
+      CLEODORA
+     </a>
+     (Kleodora) A nymph of Mount Parnassus loved by the god Poseidon.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKleomede.html">
+      CLEOMEDE
+     </a>
+     (Kleomede) A nymph of the river Axius loved by King Paeonus of Paeonia.
+    </p>
+    <figure class="image-main image-main-400">
+     <a href="../Ther/KuonKerberos.html">
+      <img alt="Cerberus" class="img-responsive center-block" src="../image/M12.1Kerberos.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ther/KuonKerberos.html">
+       CERBERUS
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Nymphe/NympheKleone.html">
+      CLEONE
+     </a>
+     (Kleone) A Naiad-nymph of the town of Cleonae in Argos.
+    </p>
+    <p>
+     <a href="../Ouranios/MousaKleio.html">
+      CLIO
+     </a>
+     (Kleio) The goddess Muse of history.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKlonie.html">
+      CLONIA
+     </a>
+     (Klonie) A nymph of the Boeotian town of Hyria.
+    </p>
+    <p>
+     <a href="../Daimon/Moirai.html">
+      CLOTHO
+     </a>
+     (Klotho) One of the three Fates.
+    </p>
+    <p>
+     <a href="../Titan/TitanisKlymene.html">
+      CLYMENE (1)
+     </a>
+     (Klymene) The Titan-goddess of fame and infamy. She was one of the elder Oceanides and wife of the Titan Iapetus.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKlymene.html">
+      CLYMENE (2)
+     </a>
+     (Klymene) An Oceanid-nymph who was the mother of Phaethon by the sun-god Helius.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKlytie.html">
+      CLYTIA
+     </a>
+     (Klytia) An Oceanid nymph loved by the sun-god Helius. When he forsook her, she pined away and was transformed into a sun-gazing heliotrope flower.
+    </p>
+    <p>
+     <a href="../Gigante/Gigantes.html">
+      CLYTIUS
+     </a>
+     (Klytios) A Gigante (Giant) who was slain by the flaming torches of Hecate in the war against the gods.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKnossia.html">
+      CNOSSIA
+     </a>
+     (Knossia) A nymph of the Cretan town of Cnossus who was loved by King Menelaus of Sparta.
+    </p>
+    <p>
+     <a href="../Daimon/Koalemos.html">
+      COALEMUS
+     </a>
+     (Koalemos) The personification of stupidity.
+    </p>
+    <p>
+     COCYTHIAE (Kokythiai) Naiad-nymph daughters of the underworld river Cocytus.
+    </p>
+    <p>
+     <a href="../Khthonios/PotamosKokytos.html">
+      COCYTUS
+     </a>
+     (Kokytos) The underworld river of wailing and its weeping god.
+    </p>
+    <p>
+     <a href="../Titan/TitanKoios.html">
+      COEUS
+     </a>
+     (Koios) The Titan-god of the inquiring mind who presided over the axis of heaven.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKombe.html">
+      COMBE
+     </a>
+     (Kombe) A rustic nymph of the island of Euboea, mother of the Euboean Corybantes.
+    </p>
+    <p>
+     <a href="../Georgikos/SatyrosKomos.html">
+      COMUS
+     </a>
+     (Komos) The god of festivity.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Georgikos/SatyroiOrthanes.html">
+      CONISALUS
+     </a>
+     (Konisalos) A phallic daemon of garden fertility.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKorkyra.html">
+      CORCYRA
+     </a>
+     (Korkyra) A Naiad-nymph daughter of the river Asopus abducted to the island of Corcyra by the god Poseidon.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiKoronides.html">
+      CORONIDES
+     </a>
+     (Koronides) Twin daughters of the Giant Orion who saved the city of Orchomeus from plague by offering themselves up as a sacrifice to the gods. Persephone, pitying their fate, transformed them into comets.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiHyades.html">
+      CORONIS
+     </a>
+     (Koronis) One of the starry Hyades.
+    </p>
+    <p>
+     <a href="../Daimon/Koros.html">
+      CORUS
+     </a>
+     (Koros) The personification of disdain.
+    </p>
+    <p>
+     <a href="../Georgikos/Kouretes.html">
+      CORYBANTES (1), PHRYGIAN
+     </a>
+     (Korybantes Phrygioi) Divine attendants of the goddess Cybele who celebrated her rites with a dance of clashing shield and spear.
+    </p>
+    <figure class="image-main image-main-300">
+     <a href="../Titan/TitanKronos.html">
+      <img alt="Cronus" class="img-responsive center-block" src="../image/T6.1BKronos.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Titan/TitanKronos.html">
+       CRONUS
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Georgikos/KorybantesSamothrakioi.html">
+      CORYBANTES (2), SAMOTHRACIAN
+     </a>
+     (Korybantes Samothrakioi) Daemones of the orgiastic dance of the Samothracian mysteries.
+    </p>
+    <p>
+     <a href="../Georgikos/KorybantesEuboiai.html">
+      CORYBANTES (3), EUBOEAN
+     </a>
+     (Korybantes Euboiai) Curete-like daemones of the island of Euboea in Greece.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKorykia.html">
+      CORYCIA
+     </a>
+     (Korykia) A nymph of the Corycian spring of Delphi  loved by the god Apollo.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiKorykiai.html">
+      CORYCIAE
+     </a>
+     (Korykiai) Naiad-nymph daughters of the river Pleistus who tended the springs of the sacred Corycian cave on Mount Parnassus.
+    </p>
+    <p>
+     <a href="../Georgikos/Korymbos.html">
+      CORYMBUS
+     </a>
+     (Korymbos) The rustic demigod of  the ivy wreaths worn by celebrants of the Bacchic orgies.
+    </p>
+    <p>
+     <a href="../Titan/Hekatonkheires.html">
+      COTTUS
+     </a>
+     (Kottos) One of the hundred-handed, fifty-headed Hecatoncheir-giants.
+    </p>
+    <p>
+     <a href="../Thrakios/Kotys.html">
+      COTYS
+     </a>
+     (Kotys) A wild Thracian goddess worshipped with wild Bacchic orgies.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiHamadryades.html">
+      CRANEIA
+     </a>
+     (Kraneia) The Hamadryad-nymph of the cornel or cherry tree.
+    </p>
+    <p>
+     <a href="../Pontios/Keto.html">
+      CRATAEIS
+     </a>
+     (Krataeis) The sea-goddess mother of the monster Scylla.
+    </p>
+    <p>
+     <a href="../Daimon/Kratos.html">
+      CRATUS
+     </a>
+     (Kratos) The god of strength, a henchman guardian of the throne of Zeus.
+    </p>
+    <p>
+     <a href="../Nymphe/Naiades.html">
+      CRENAEAE
+     </a>
+     (Krenaiai) Naiad-nymphs of fountains.
+    </p>
+    <p>
+     CRES The earth-goddess of the island of Crete.
+    </p>
+    <p>
+     <a href="../Ther/TaurosKretaios.html">
+      CRETAN BULL
+     </a>
+     (Tauros Kretaios) A fabulous bull sent from the sea by Poseidon in answer to the prayers of Minos of Crete. Queen Pasiphae  fell love with the beast and coupling with it bore the Minotaur. Heracles was later sent to fetch the bull as one of his Twelve Labours.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKretheis.html">
+      CRETHEIS
+     </a>
+     (Kretheis) A Naiad-nymph of the Lydian town of Smyrna who, according to legend, was the mother of the poet Homer by the river Meles.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKreousa.html">
+      CREUSA
+     </a>
+     (Kreousa) The Naiad-nymph wife of the river Peneus in northern Greece.
+    </p>
+    <p>
+     <a href="../Nymphe/Naiades.html">
+      CRINAEAE
+     </a>
+     (Krinaiai) Naiad-nymphs of fountains.
+    </p>
+    <p>
+     <a href="../Titan/TitanKrios.html">
+      CRIUS
+     </a>
+     (Krios) The Titan-god of mastery and leadership who was imprisoned in Tartarus by the gods.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiArtemisiai.html">
+      CROCALE
+     </a>
+     (Krokale) One of the nymph handmaidens of the goddess Artemis.
+    </p>
+    <p>
+     <a href="../Ther/HusKrommyon.html">
+      CROMMYON SOW
+     </a>
+     (Hus Krommyon) A giant boar sent by the gods to ravage the farmlands of Crommyon. It was destroyed by the hero Theseus.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Titan/TitanKronos.html">
+      CRONUS
+     </a>
+     (Kronos) The king of the Titans and god of time. He castrated his father Uranus and seized the throne of heaven but was afterwards deposed by his on Zeus. Cronus was cast into Tartarus but later freed and appointed king of Elysium.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <figure class="image-main image-main-400">
+     <a href="../Ther/TaurosKretaios.html">
+      <img alt="Cretan Bull" class="img-responsive center-block" src="../image/Z26.1ETauros_sm.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ther/TaurosKretaios.html">
+       CRETAN BULL
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Georgikos/SatyrosKrotos.html">
+      CROTUS
+     </a>
+     (Krotos) A satyr companion of the nine Muses who was placed amongst the stars as the constellation Saggitarius.
+    </p>
+    <p>
+     <a href="../Daimon/Ktesios.html">
+      CTESIUS
+     </a>
+     (Ktesios) The friendly daemon-guardian of the household.
+    </p>
+    <p>
+     <a href="../Georgikos/Kouretes.html">
+      CURETES
+     </a>
+     (Kouretes) Guardians of the infant god Zeus who drowned out his cries with  a dance of clashing spear and shield, so concealing him from Cronus.
+    </p>
+    <p>
+     <a href="../Georgikos/EleusiniosKyamites.html">
+      CYAMITES
+     </a>
+     (Kyamites) The bean-man, a minor deity of the Eleusinian Mysteries.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKyane.html">
+      CYANE (1)
+     </a>
+     (Kyane) The Naiad-nymph of a spring near the town of Syracuse in Sicily. When Hades violated her spring during the abduction of Persephone, she was transformed into water.
+    </p>
+    <p>
+     <span class="heading">
+      CYANE (2)
+     </span>
+     (Kyane) The nymph wife of Aeolus king of the winds.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKyanee.html">
+      CYANEE
+     </a>
+     (Kyanee) A Naiad-nymph of the springs of the Carian town of Miletus. She was the wife of the town's eponymous founder.
+    </p>
+    <p>
+     <a href="../Phrygios/Kybele.html">
+      CYBELE
+     </a>
+     (Kybele) The Phrygian mother of the gods who was identified by the Greeks with the goddess Rhea.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Titan/Kyklopes.html">
+      CYCLOPES (1), ELDER
+     </a>
+     (Kyklopes) Three one-eyed giants imprisoned in Tartarus  by the Titan Cronus. They were rescued by Zeus and in thanks crafted  him his lightning-bolts, an earth-shaking trident for his brother Poseidon and a helm of invisiblity for Hades.
+     <img alt="Illustrated" src="../image/eye.gif"/>
+    </p>
+    <p>
+     <a href="../Gigante/GigantesKyklopes.html">
+      CYCLOPES (2), YOUNGER
+     </a>
+     (Kyklopes) A primitive tribe of one-eyed, cannibal giants encountered by Odysseus during his travels.
+    </p>
+    <p>
+     <a href="../Nymphe/NymphaiKydnides.html">
+      CYDNIDES
+     </a>
+     (Kydnides) Warlike Cicilian Naiads who fought for Dionysus in his Indian War.
+    </p>
+    <p>
+     <a href="../Daimon/Kydoimos.html">
+      CYDOIMUS
+     </a>
+     (Kydoimos) The personification of battlefield confusion and the din of war.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKyllene.html">
+      CYLLENE
+     </a>
+     (Kyllene) A nymph of Mount Cyllene who was the wife of the Arcadian king Pelasgus.
+    </p>
+    <p>
+     <a href="../Nymphe/NympheKymopoleia.html">
+      CYMOPOLEA
+     </a>
+     (Kymopoleia) The goddess of the waves, wife of the hundred-handed giant Briareus.
+    </p>
+    <p>
+     <a href="../Phylos/Kunokephaloi.html">
+      CYNOCEPHALI
+     </a>
+     (Kunokephaloi) A tribe of dog-headed men which dwelt in a remote corner of Africa or India.
+    </p>
+    <p>
+     <a href="../Heroine/Kyrene.html">
+      CYRENE
+     </a>
+     (Kyrene) A huntress-nymph of Mount Pelion in Thessaly. The god Apollo happened upon her as she was wrestling a lion and, falling in love, abducted her to Libya where she bore him a son--the demigod Aristaeus.
+    </p>
+    <p>
+     <a href="../Potamos/PotamosKytheros.html">
+      CYTHERUS
+     </a>
+     (Kytheros) A river of Elis in southern Greece and its god.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <div class="ad-banner">
+    </div>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="index">
+     <h2>
+      SEARCH THEOI
+     </h2>
+     <div class="search-box">
+      <form action="https://www.google.com" id="cse-search-box">
+       <div>
+        <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+        <input name="ie" type="hidden" value="UTF-8"/>
+        <input name="q" size="30" type="text"/>
+        <input name="sa" type="submit" value="Search Theoi.com"/>
+       </div>
+      </form>
+      <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+      </script>
+     </div>
+     <h2>
+      GREEK MYTHOLOGY
+     </h2>
+     <p>
+      <a href="encyclopedia-a.html">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <p>
+      <a href="greek-gods.html">
+       Gods &amp; Goddesses
+      </a>
+     </p>
+     <p>
+      <a href="olympian-gods.html">
+       Olympian Gods
+      </a>
+     </p>
+     <p>
+      <a href="titans.html">
+       Titans &amp; Titanesses
+      </a>
+     </p>
+     <p>
+      <a href="personifications.html">
+       Daemones (Spirits)
+      </a>
+     </p>
+     <p>
+      <a href="nymphs.html">
+       Nymphs
+      </a>
+     </p>
+     <p>
+      <a href="heroes.html">
+       Heroes &amp; Heroines
+      </a>
+     </p>
+     <p>
+      <a href="bestiary.html">
+       Bestiary
+      </a>
+     </p>
+     <p>
+      <a href="giants.html">
+       Giants
+      </a>
+     </p>
+     <p>
+      <a href="fantastic-creatures.html">
+       Legendary Creatures
+      </a>
+     </p>
+     <p>
+      <a href="fabulous-tribes.html">
+       Legendary Tribes
+      </a>
+     </p>
+     <p>
+      <a href="../Tree.html">
+       Family Tree of the Gods
+      </a>
+     </p>
+     <p>
+      <a href="greek-gods-cult.html">
+       Cult of the Gods
+      </a>
+     </p>
+     <p>
+      <a href="star-myths.html">
+       Star Myths
+      </a>
+     </p>
+     <p>
+      <a href="../Flora1.html">
+       Plant &amp; Flower Myths
+      </a>
+     </p>
+     <p>
+      <a href="kingdoms.html">
+       Kingdoms of Myth
+      </a>
+     </p>
+     <h2>
+      GALLERIES
+     </h2>
+     <p>
+      <a href="../Galleries.html">
+       Gallery Overview
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-vase-paintings-1.html">
+       Greek Vase Paintings
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-mosaics-1.html">
+       Greco-Roman Mosaics
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-frescoes-1.html">
+       Greco-Roman Frescoes
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-statues-1.html">
+       Greco-Roman Statues
+      </a>
+     </p>
+     <h2>
+      LIBRARY
+     </h2>
+     <p>
+      <a href="../Library.html">
+       Classical Texts
+      </a>
+     </p>
+     <h2>
+      FAQ
+     </h2>
+     <p>
+      <a href="../Bibliography.html">
+       Bibliography
+      </a>
+     </p>
+    </div>
+    <div id="summary">
+     <h2>
+      ENCYCLOPEDIA
+     </h2>
+     <p class="a-z">
+      <a href="encyclopedia-a.html">
+       A
+      </a>
+      |
+      <a href="encyclopedia-c.html">
+       B
+      </a>
+      |
+      <a href="encyclopedia-c.html#C">
+       C
+      </a>
+      |
+      <a href="encyclopedia-d.html">
+       D
+      </a>
+      |
+      <a href="encyclopedia-d.html#E">
+       E
+      </a>
+      |
+      <a href="encyclopedia-d.html#F">
+       F
+      </a>
+      |
+      <a href="encyclopedia-d.html#G">
+       G
+      </a>
+      |
+      <a href="encyclopedia-h.html">
+       H
+      </a>
+      |
+      <a href="encyclopedia-h.html#I">
+       I
+      </a>
+      |
+      <a href="encyclopedia-h.html#J">
+       J
+      </a>
+      |
+      <a href="encyclopedia-h.html#K">
+       K
+      </a>
+      |
+      <a href="encyclopedia-l.html">
+       L
+      </a>
+      |
+      <a href="encyclopedia-l.html#M">
+       M
+      </a>
+      |
+      <a href="encyclopedia-l.html#N">
+       N
+      </a>
+      |
+      <a href="encyclopedia-l.html#O">
+       O
+      </a>
+      |
+      <a href="encyclopedia-p.html">
+       P
+      </a>
+      |
+      <a href="encyclopedia-r.html">
+       R
+      </a>
+      |
+      <a href="encyclopedia-r.html#S">
+       S
+      </a>
+      |
+      <a href="encyclopedia-r.html#T">
+       T
+      </a>
+      |
+      <a href="encyclopedia-r.html#U">
+       U
+      </a>
+      |
+      <a href="encyclopedia-r.html#X">
+       X
+      </a>
+      |
+      <a href="encyclopedia-r.html#Z">
+       Z
+      </a>
+     </p>
+     <hr/>
+     <!-- InstanceBeginEditable name="Summary" -->
+     <table border="1" class="summary-table" summary="Greek &amp; Roman Names">
+      <caption>
+       GREEK &amp; ROMAN NAMES
+      </caption>
+      <tbody>
+       <tr>
+        <th scope="col">
+         GREEK
+        </th>
+        <th scope="col">
+         ROMAN
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Boreas
+        </td>
+        <td>
+         Aquilo
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Chloris
+        </td>
+        <td>
+         Flora
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cronus
+        </td>
+        <td>
+         Saturn
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <!-- InstanceEndEditable -->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

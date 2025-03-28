@@ -1,0 +1,2123 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Main.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   Heracles | Theoi Greek Mythology
+  </title>
+  <meta content="A comprehensive guide to the ancient Greek hero Heracles, his Twelve Labors and other adventures." name="description"/>
+  <meta content="Heracles, Hercules, Herakles, Greek mythology, twelve labors, adventures of Heracles, Heracles mythology, Heracles images" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/main.css" rel="stylesheet" type="text/css"/>
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../">
+      Greek Mythology
+     </a>
+     &gt;&gt;
+     <a href="heroes.html">
+      Heroes
+     </a>
+     &gt;&gt; Heracles
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     HERACLES
+     <!-- InstanceEndEditable -->
+    </h1>
+    <!-- InstanceBeginEditable name="Menu" -->
+    <h2>
+     I. THE TWELVE LABORS OF HERACLES
+    </h2>
+    <p>
+     Heracles was commanded by the Delphic Oracle to perform twelve labors for King Eurystheus of Mycenae.
+     <br/>
+     The images below are  2,500 year-old ancient Greek vase paintings.
+    </p>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/LeonNemeios.html">
+        <img alt="First Labor of Heracles - Nemean Lion" src="../image/heracles-nemean-lion.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/LeonNemeios.html">
+          NEMEAN
+          <br/>
+          LION
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/DrakonHydra.html">
+        <img alt="Second Labor of Heracles - Lernaean Hydra" src="../image/heracles-hydra.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/DrakonHydra.html">
+          LERNAEAN
+          <br/>
+          HYDRA
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/ElaphosKerynitis.html">
+        <img alt="Third Labor of Heracles - Cerynitian Hind" src="../image/heracles-cerynitian-hind.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/ElaphosKerynitis.html">
+          CERYNITIAN
+          <br/>
+          HIND
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/HusErymanthios.html">
+        <img alt="Fourth Labor of Heracles - Erymanthian Boar" src="../image/heracles-erymanthian-boar.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/HusErymanthios.html">
+          ERYMANTHIAN
+          <br/>
+          BOAR
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Heros/Augeas.html">
+        <img alt="Fifth Labor of Heracles - Stables of Augeas" src="../image/heracles-stables-augeas.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Heros/Augeas.html">
+          STABLES OF
+          <br/>
+          AUGEAS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/OrnithesStymphalides.html">
+        <img alt="Sixth Labor of Heracles - Stymphalian Birds" src="../image/heracles-stymphalian-birds.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/OrnithesStymphalides.html">
+          STYMPHALIAN
+          <br/>
+          BIRDS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/TaurosKretaios.html">
+        <img alt="Seventh Labor of Heracles - Cretan Bull" src="../image/heracles-cretan-bull.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/TaurosKretaios.html">
+          CRETAN
+          <br/>
+          BULL
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Heros/DiomedesThrakios.html">
+        <img alt="Eighth Labor of Heracles - Mares of Diomedes" src="../image/heracles-mares-diomedes.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Heros/DiomedesThrakios.html">
+          MARES OF
+          <br/>
+          DIOMEDES
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <img alt="Ninth Labor of Heracles - Belt of Hippolyte" src="../image/heracles-amazon-hippolyte.jpg"/>
+       <div class="caption">
+        <h3>
+         BELT OF
+         <br/>
+         HIPPOLYTE
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Gigante/GiganteGeryon.html">
+        <img alt="Tenth Labor of Heracles - Cattle of Geryon" src="../image/heracles-geryon.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Gigante/GiganteGeryon.html">
+          CATTLE OF
+          <br/>
+          GERYON
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Titan/Hesperides.html">
+        <img alt="Eleventh Labor of Heracles - Apples of the Hesperides" src="../image/heracles-golden-apples.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Titan/Hesperides.html">
+          APPLES OF
+          <br/>
+          HESPERIDES
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/KuonKerberos.html">
+        <img alt="Twelfth Labor of Heracles - Cerberus the Hound of Hades" src="../image/heracles-cerberus.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/KuonKerberos.html">
+          HOUND
+          <br/>
+          CERBERUS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+    </div>
+    <h2>
+     II. THE MINOR LABORS OF HERACLES
+    </h2>
+    <p>
+     Heracles had many other adventures in addition to the Twelve Labors. The Greeks called these minor labors the Parerga.
+    </p>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Potamos/PotamosAkheloios.html">
+        <img alt="Heracles &amp; the River God Achelous" src="../image/heracles-achelous.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Potamos/PotamosAkheloios.html">
+          RIVER-GOD
+          <br/>
+          ACHELOUS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Gigante/GiganteAlkyoneus.html">
+        <img alt="Heracles &amp; the Giant Alcyoneus" src="../image/heracles-alcyoneus.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Gigante/GiganteAlkyoneus.html">
+          GIANT
+          <br/>
+          ALCYONEUS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Gigante/GiganteAntaios.html">
+        <img alt="Heracles &amp; the Giant Antaeus" src="../image/heracles-antaeus.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Gigante/GiganteAntaios.html">
+          GIANT
+          <br/>
+          ANTAEUS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/AetosKaukasios.html">
+        <img alt="Heracles &amp; the Caucasian Eagle" src="../image/heracles-caucasian-eagle.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/AetosKaukasios.html">
+          CAUCASIAN
+          <br/>
+          EAGLE
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Georgikos/KentauroiPeloponnesioi.html">
+        <img alt="Heracles &amp; the Centaurs" src="../image/heracles-centaurs.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Georgikos/KentauroiPeloponnesioi.html">
+          ARCADIAN
+          <br/>
+          CENTAURS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Georgikos/KentaurosEurytion2.html">
+        <img alt="Heracles &amp; the Centaur Eurytion" src="../image/heracles-centaur-eurytion.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Georgikos/KentaurosEurytion2.html">
+          CENTAUR
+          <br/>
+          EURYTION
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Georgikos/KentaurosNessos.html">
+        <img alt="Heracles &amp; the Centaur Nessus" src="../image/heracles-centaur-nessus.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Georgikos/KentaurosNessos.html">
+          CENTAUR
+          <br/>
+          NESSUS
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Georgikos/Kerkopes.html">
+        <img alt="Heracles &amp; the Cercopes" src="../image/heracles-cercopes.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Georgikos/Kerkopes.html">
+          MONKEY
+          <br/>
+          CERCOPES
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Ther/KetosTroias.html">
+        <img alt="Heracles &amp; the Trojan Sea-Monster" src="../image/heracles-sea-monster.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Ther/KetosTroias.html">
+          TROJAN
+          <br/>
+          MONSTER
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+    </div>
+    <h2>
+     III. CULT OF HERACLES THE GOD
+    </h2>
+    <p>
+     Heracles was worshipped throughout Greece in the classical age as a god.
+    </p>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Cult/HeraklesCult.html">
+        <img alt="Cult of Heracles I" src="../image/heracles-cult1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Cult/HeraklesCult.html">
+          HERACLES CULT I
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Cult/HeraklesCult2.html">
+        <img alt="Cult of Heracles II" src="../image/heracles-cult2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Cult/HeraklesCult2.html">
+          HERACLES CULT II
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-4">
+      <div class="thumbnail">
+       <a href="../Cult/HeraklesCult3.html">
+        <img alt="Cult of Heracles III" src="../image/heracles-cult3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         <a href="../Cult/HeraklesCult3.html">
+          HERACLES CULT III
+         </a>
+        </h3>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Text" -->
+    <hr/>
+    <h2>
+     A SELECTION OF CHARACTERS &amp; CREATURES FROM THE MYTHS OF HERACLES
+    </h2>
+    <figure class="image-main image-main-450">
+     <a href="../Ther/OrnithesStymphalides.html">
+      <img alt="Stymphalian Birds" class="img-responsive center-block" src="../image/M21.2Stymphalides.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ther/OrnithesStymphalides.html">
+       STYMPHALIAN BIRDS
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Potamos/PotamosAkheloios.html">
+      ACHELOUS
+     </a>
+     (Akheloios) An Aetolian river-god. He was defeated by Heracles in a wrestling match when the pair vied for the hand of Deianeira in marriage.
+     <br/>
+     Time : After the Labours -- the Aetolian Campaigns
+     <br/>
+     Location : Aetolia, Western Greece
+    </p>
+    <p>
+     <a href="../Gigante/GiganteAlkyoneus.html">
+      ALCYONEUS
+     </a>
+     (Alkyoneus) The king of the Thracian giants. He was immortal within the bounds of his land, but Heracles incapacitated him with arrows and dragged him beyond the border to die.
+     <br/>
+     Time : After the Labours
+     <br/>
+     Location : Pallene, Thrace
+    </p>
+    <p>
+     <a href="../Gigante/GiganteAntaios.html">
+      ANTAEUS
+     </a>
+     (Antaios) A Libyan giant who drew his strength directly from the earth. He challenged Heracles to a wrestling death match but was defeated when the hero lifted him from the earth and crushed him.
+     <br/>
+     Time : During the 11th Labour (the Hesperides)
+     <br/>
+     Location : Libya, North Africa
+    </p>
+    <p>
+     <a href="../Daimon/Arete.html">
+      ARETE
+     </a>
+     and
+     <a href="../Daimon/Kakia.html">
+      CACIA
+     </a>
+     (Kakia) The goddesses of virtue and vice. When Heracles was a young man they offered him a choice in life and he chose the path of valour.
+     <br/>
+     Time : Before the Labours
+     <br/>
+     Location : Boeotia, Central Greece
+    </p>
+    <p>
+     <a href="../Khthonios/Askalaphos.html">
+      ASCALAPHUS
+     </a>
+     (Askalaphos) The orchadist of Hades who was buried beneath a rock by the goddess Demeter. Heracles released him from his prison when he travelled to the underworld in the quest for Cerberus.
+     <br/>
+     Time : During the 12th Labour (Cerberus)
+     <br/>
+     Location : The Underworld
+    </p>
+    <p>
+     <a href="../Titan/TitanAtlas.html">
+      ATLAS
+     </a>
+     A Titan who was forced to hold the sky aloft. Heracles agreed to take on the burden, if Atlas would fetch for him the Golden Apples of the Hesperides.
+     <br/>
+     Time : During the 12th Labour (the Hesperides)
+     <br/>
+     Location : Boeotia, Central Greece
+    </p>
+    <p>
+     <a href="../Heros/Augeas.html">
+      AUGEAS
+     </a>
+     (Augeias) A king of Elis who possessed an enormous herd of cattle. Eurystheus commanded Heracles clean his stables which he did by diverting a river. However, Augeias denied him payment, so after his labours were complete he led an army to conquer the country.
+     <br/>
+     Time : (1) The 5th Labour ; (2) After the 12 Labours
+     <br/>
+     Location : Elis, Southern Greece
+    </p>
+    <p>
+     <a href="../Heros/Bousiris.html">
+      BUSIRIS
+     </a>
+     (Bousiris) A King of Egypt who sacrificed foreigners to the gods. Heracles was captured but broke his bonds and slew the king.
+     <br/>
+     Time : During the 11th Labour (the Hesperides)
+     <br/>
+     Location : Egypt, North Africa
+    </p>
+    <p>
+     <a href="../Gigante/GiganteKakos.html">
+      CACUS
+     </a>
+     (Kakos) A fire-breathing giant of Latium. When Heracles was returning to Greece with the cattle of Geryon, Cacus stole from the herd, and was slain by the hero.
+     <br/>
+     Time : During the 10th Labour (Geryon's Cattle)
+     <br/>
+     Location : Latium, Central Italy
+    </p>
+    <p>
+     <a href="../Ther/Karkinos.html">
+      CARCINUS
+     </a>
+     (Karkinos) A giant crab which inhabited the swamps of Lerna. It assisted the Hydra in the fight with Heracles, but was crushed beneath the hero's heel.
+     <br/>
+     Time : During the 2nd Labour (Hydra)
+     <br/>
+     Location : Argolis, Southern Greece
+    </p>
+    <p>
+     <a href="../Ther/AetosKaukasios.html">
+      CAUCASIAN EAGLE
+     </a>
+     (Aetos Kaukasios) A giant eagle which fed on the ever-regenerating liver of the Prometheus. Heracles slew it and released the Titan from his chains.
+     <br/>
+     Time : During the 11th Labour (Hesperian Apples)
+     <br/>
+     Location : Caucasus Mountains, East of the Black Sea
+    </p>
+    <p>
+     <a href="../Georgikos/KentauroiThessalioi.html">
+      CENTAURS
+     </a>
+     (Kentauroi) A tribe of half-horse men who inhabited the Arcadian mountain of Pholoe. When their brother Pholus was entertaining Heracles with wine, they violently burst in on the feast, but were destroyed by the hero.
+     <br/>
+     Time : During the 4th Labour (Erymanthian Boar)
+     <br/>
+     Location : Elis-Arcadia, Southern Greece
+    </p>
+    <p>
+     <a href="../Ther/KuonKerberos.html">
+      CERBERUS
+     </a>
+     (Kerberos) The hound of Hades who guarded the entrance to the underworld. Heracles was sent to fetch the beast as one of his twelve labours, and captured it with the approval of the goddess Persephone.
+     <br/>
+     Time : The 12th Labour
+     <br/>
+     Location : The Underworld
+    </p>
+    <p>
+     <a href="../Georgikos/Kerkopes.html">
+      CERCOPES
+     </a>
+     (Kerkopes) A pair of monkey-men bandits. Heracles captured them in the service of Queen Omphale, but when they amused him with their jokes he let them go.
+     <br/>
+     Time : After the Labours (in the Service of Omphale)
+     <br/>
+     Location : Lydia, Anatolia
+    </p>
+    <p>
+     <a href="../Ther/ElaphosKerynitis.html">
+      CERYNITIAN HIND
+     </a>
+     (Elaphos Kerynitis) A golden horned deer which was sacred to the goddess Artemis. Heracles was sent to capture it as one of his twelve labours.
+     <br/>
+     Time : The 3rd Labour
+     <br/>
+     Location : Arcadia, Southern Greece
+    </p>
+    <p>
+     <a href="../Ther/TaurosKretaios.html">
+      CRETAN BULL
+     </a>
+     (Tauros Kretaios) A giant white bull which ravage the island of Crete. Heracles was sent to fetch it as the seventh of his labours.
+     <br/>
+     Time : The 7th Labour
+     <br/>
+     Location : Crete, Greek Aegean
+    </p>
+    <figure class="image-main image-main-400">
+     <a href="../Ther/HusErymanthios.html">
+      <img alt="Erymanthian Boar" class="img-responsive center-block" src="../image/M23.3Erymanthian_sm.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ther/HusErymanthios.html">
+       ERYMANTHIAN BOAR
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <a href="../Heros/KyknosItonios.html">
+      CYCNUS
+     </a>
+     (Kyknos) A bandit son of Ares who murdered travellers passing through Itonus. Supported by the war-god, he challenged Heracles to combat, but was defeated.
+     <br/>
+     Time : After the Labours -- the Thessalian Campaigns
+     <br/>
+     Location : Phthiotis in Thessaly, Northern Greece
+    </p>
+    <p>
+     <a href="../Heros/DiomedesThrakios.html">
+      DIOMEDES
+     </a>
+     A King of the Edonians of Thrace, who kept of herd of man-eating mares. Heracles was sent to fetch these as one of his labours, slew the king, and fed him to the horses.
+     <br/>
+     Time : The 8th Labour
+     <br/>
+     Location : Edonia, Thrace
+    </p>
+    <p>
+     <a href="../Ther/HusErymanthios.html">
+      ERYMANTHIAN BOAR
+     </a>
+     (Hus Erymanthios) A giant boar which ravaged the countryside around Mount Erymanthus. Heracles was sent to capture it alive as one of his twelve labours.
+     <br/>
+     Time : The 4th Labour
+     <br/>
+     Location : Arcadia, Southern Greece
+    </p>
+    <p>
+     <a href="../Heros/Eryx.html">
+      ERYX
+     </a>
+     A Sicilian king, the son of Aphrodite and Butes. When Heracles was returning to Greece with the cattle of Geryon, Eryx stole the prize bull from the herd. Heracles defeated him in a wrestling match and recovered the beast.
+     <br/>
+     Time : The 10th Labour (Geryon's Cattle)
+     <br/>
+     Location : Sicily, Southern Italy
+    </p>
+    <p>
+     <a href="../Georgikos/KentaurosEurytion2.html">
+      EURYTION
+     </a>
+     A centaur who coerced the Olenian king into letting him marry his daughter Mnesimache. Heracles, however, arrived on the wedding day and slew the beast.
+     <br/>
+     Time : After the Labours -- the Peloponnesian Campaigns
+     <br/>
+     Location : Achaea, Southern Greece
+    </p>
+    <p>
+     <a href="../Daimon/Geras.html">
+      GERAS
+     </a>
+     The god of old age. He was defeated in a match by Heracles. (N.B. The myth is recorded in Greek vase painting.)
+     <br/>
+     Time : Unknown
+     <br/>
+     Location : Unknown
+    </p>
+    <p>
+     <a href="../Gigante/GiganteGeryon.html">
+      GERYON
+     </a>
+     (Geryones) A three-bodied giant who possessed a herd of fabulous red-skinned cattle. Heracles was sent to fetch these as one of his labours, and slew the king.
+     <br/>
+     Time : The 10th Labour
+     <br/>
+     Location : Erythea, Western Ocean or Southern Spain
+    </p>
+    <p>
+     <a href="../Ouranios/Hebe.html">
+      HEBE
+     </a>
+     The goddess of youth, daughter of Zeus and Hera. She married Heracles after he joined the company of the gods of heaven.
+     <br/>
+     Time : After his Apotheosis
+     <br/>
+     Location : Olympus, Home of the Gods
+    </p>
+    <p>
+     <a href="../Ther/DrakonHesperios.html">
+      HESPERIAN DRAGON
+     </a>
+     (Drakon Hesperios) A hundred-headed dragon which guarded the golden apples of the Hesperides. Heracles slew it when he came in quest of the treasure.
+     <br/>
+     Time : The 11th Labour
+     <br/>
+     Location : Hesperia, Western Ocean or North-West Africa
+    </p>
+    <p>
+     <a href="../Titan/Hesperides.html">
+      HESPERIDES
+     </a>
+     Three nymphs who tended the tree of the golden apples. Heracles encountered them in his quest for the treasure.
+     <br/>
+     Time : The 11th Labour
+     <br/>
+     Location : Hesperia, Western Ocean or North-West Africa
+    </p>
+    <p>
+     HIPPOLYTE A queen of the Amazons, daughter of the war-god Ares. Heracles was sent to fetch her belt as one of his twelve labours, and slew her in the battle which ensued.
+     <br/>
+     Time : The 9th Labour
+     <br/>
+     Location : Thermodon on the Black Sea, Anatolia
+    </p>
+    <p>
+     <a href="../Ther/DrakonHydra.html">
+      HYDRA
+     </a>
+     A nine headed serpent which haunted the swamps of Lerna. For every head that was cut off the Hydra grew two more. Eurystheus commanded Heracles to destroy it.
+     <br/>
+     Time : The 2nd Labour
+     <br/>
+     Location : Argolis, Southern Greece
+    </p>
+    <p>
+     <a href="../Heros/Lepreus.html">
+      LEPREUS
+     </a>
+     A prince of the town of Lepreum in Elis who challenged Heracles to a series of contests, including eating, drinking and bailing water. He was defeated in each endeavour and, taking up arms against the hero, was slain.
+     <br/>
+     Time : After the Labours -- the Peloponnesian Campaigns
+     <br/>
+     Location : Pylos-Elis, Southern Greece
+    </p>
+    <p>
+     <a href="../Ther/DrakonMaionios1.html">
+      MAEONIAN DRAGON
+     </a>
+     (Drakon Maionios) A giant serpent which terrorized the region around Sagaris. It was slain by Heracles in the service of Queen Omphale.
+     <br/>
+     Time : After the Labours -- in the Service of Omphale
+     <br/>
+     Location : Lydia, Anatolia
+    </p>
+    <p>
+     <a href="../Heros/Molionidai.html">
+      MOLIONIDAE
+     </a>
+     (Molionidai) Saimese twins who repelled Heracles' invasion of Elis, but were later ambushed and slain by the hero.
+     <br/>
+     Time : After the Labours -- the Peloponnesian Campaigns
+     <br/>
+     Location : Elis, Southern Greece
+    </p>
+    <p>
+     <a href="../Khthonios/Menoites.html">
+      MENOETES
+     </a>
+     (Menoites) The herdsman of Hades. Heracles wrestled him in the underworld and broke his ribs.
+     <br/>
+     Time : During the 12th Labour (Cerberus)
+     <br/>
+     Location : The Underworld
+    </p>
+    <p>
+     <a href="../Ther/LeonNemeios.html">
+      NEMEAN LION
+     </a>
+     (Leon Nemeios) A huge lion which terrorized the region around Nemea. Heracles was sent to destroy it by Eurystheus as the first of his twelve labours, and because the creature was impervious to weapons, he wrestled with the beast and throttled it to death.
+     <br/>
+     Time : The 1st Labour
+     <br/>
+     Location : Argolis, Southern Greece
+    </p>
+    <p>
+     <a href="../Georgikos/KentaurosNessos.html">
+      NESSUS
+     </a>
+     (Nessos) A centaur who ferried passengers across the River Evenus. Heracles entrusted his wife Deianeira to the centaur, but he attempted to rape the woman and was shot dead by the hero.
+     <br/>
+     Time : After the Labours -- between the Aetolian and Thessalian Campaigns
+     <br/>
+     Location : Ozolean Locris, Central Greece
+    </p>
+    <p>
+     <a href="../Ther/KuonOrthros.html">
+      ORTHRUS
+     </a>
+     (Orthros) A two-headed dog which guarded the cattle of Geryon. It was slain by Heracles when he came to fetch the cattle.
+     <br/>
+     Time : During the 10th Labour (Geryon)
+     <br/>
+     Location : Erytheia, Western Ocean or Southern Spain
+    </p>
+    <p>
+     <a href="../Heros/Periklymenos.html">
+      PERICLYMENUS
+     </a>
+     (Periklymenos) A shape-shifting prince of Pylos who challenged Heracles in battle when he invaded the kingdom.
+     <br/>
+     Time : After the Labours -- the Peloponnesian Campaigns
+     <br/>
+     Location : Pylos, Southern Greece
+    </p>
+    <p>
+     <a href="../Georgikos/KentaurosPholos.html">
+      PHOLUS
+     </a>
+     (Pholos) A centaur who inhabited Arcadian Mount Pholoe. When Heracles was hunting the Erymanthian Boar, Pholus hospitably entertained him in his cave. However, during an attack by the other centaurs, he dropped a poison arrow on his foot and died.
+     <br/>
+     Time : During the 4th Labour (Erymanthian Boar)
+     <br/>
+     Location : Elis-Arcadia, Southern Greece
+    </p>
+    <p>
+     <a href="../Heros/PyraikhmesEuboios.html">
+      PYRAECHMES
+     </a>
+     (Pyraikhmes) A king of Euboea who made war on Boeotia. He was vanquished by Heracles who had him bound to his own horses and torn apart.
+     <br/>
+     Time : Before the Labours -- Youth in Boeotia
+     <br/>
+     Location : Boeotia, Central Greece
+    </p>
+    <p>
+     <a href="../Heros/Sauros.html">
+      SAURUS
+     </a>
+     (Sauros) A bandit who plagued the Elean Ridge of Saurus slain by Heracles.
+     <br/>
+     Time : During the 4th Labour (Erymanthian Boar)
+     <br/>
+     Location : Elis-Arcadia, Southern Greece
+    </p>
+    <p>
+     <a href="../Ther/DrakainaSkythia.html">
+      SCYTHIAN DRACAENA
+     </a>
+     (Drakaina Skythia) A snake-tailed woman of the Scythian forests. When Heracles was passing through the region she stole his horses, and agreed to return them only if he slept with her.
+     <br/>
+     Time : During the 10th Labour (Geryon)
+     <br/>
+     Location : Hylaea, Scythia
+    </p>
+    <p>
+     <a href="../Heros/Sostratos.html">
+      SOSTRATUS
+     </a>
+     (Sostratos) A youth of the Achaean town of Dyme loved by Heracles. He died young and was buried by the hero outside the town.
+     <br/>
+     Time : After the Labours -- the Peloponnesian Campaigns
+     <br/>
+     Location : Elis-Achaea, Southern Greece
+    </p>
+    <p>
+     <a href="../Ther/OrnithesStymphalides.html">
+      STYMPHALIAN BIRDS
+     </a>
+     (Ornithes Stymphalides) A flock of rapacious birds inhabiting lake Stymphalus. Heracles was sent to destroy them as one of his labours.
+     <br/>
+     Time : The 6th Labour
+     <br/>
+     Location : Arcadia, Southern Greece
+    </p>
+    <p>
+     <a href="../Daimon/Thanatos.html">
+      THANATUS
+     </a>
+     (Thanatos) The god of death. Heracles defeated him in a wrestling match when he came to fetch Alcestis to the Underworld.
+     <br/>
+     Time : After the Labours -- the Thessalian Campaigns
+     <br/>
+     Location : Phthiotis in Thessaly, Northern Greece
+    </p>
+    <p>
+     <a href="../Ther/KetosTroias.html">
+      TROJAN SEA-MONSTER
+     </a>
+     (Ketos Troias) A monster sent by Poseidon to ravage the kingdom of Troy. King Laomedon offered his daughter as a sacrifice to the beast, but Heracles rescued her and despatched the creature.
+     <br/>
+     Time : During the Voyage of the Argo OR during the 9th Labour (Hippolyte)
+     <br/>
+     Location : Troy, Anatolia
+    </p>
+    <hr/>
+    <figure class="image-main-wide">
+     <a href="../Ther/DrakonHydra.html">
+      <img alt="Heracles &amp; the Hydra" class="img-responsive center-block" src="../image/M13.1Hydra.jpg"/>
+     </a>
+     <figcaption>
+      <a href="../Ther/DrakonHydra.html">
+       HYDRA
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <div class="ad-banner">
+    </div>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="index">
+     <h2>
+      SEARCH THEOI
+     </h2>
+     <div class="search-box">
+      <form action="https://www.google.com" id="cse-search-box">
+       <div>
+        <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+        <input name="ie" type="hidden" value="UTF-8"/>
+        <input name="q" size="30" type="text"/>
+        <input name="sa" type="submit" value="Search Theoi.com"/>
+       </div>
+      </form>
+      <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+      </script>
+     </div>
+     <h2>
+      GREEK MYTHOLOGY
+     </h2>
+     <p>
+      <a href="encyclopedia-a.html">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <p>
+      <a href="greek-gods.html">
+       Gods &amp; Goddesses
+      </a>
+     </p>
+     <p>
+      <a href="olympian-gods.html">
+       Olympian Gods
+      </a>
+     </p>
+     <p>
+      <a href="titans.html">
+       Titans &amp; Titanesses
+      </a>
+     </p>
+     <p>
+      <a href="personifications.html">
+       Daemones (Spirits)
+      </a>
+     </p>
+     <p>
+      <a href="nymphs.html">
+       Nymphs
+      </a>
+     </p>
+     <p>
+      <a href="heroes.html">
+       Heroes &amp; Heroines
+      </a>
+     </p>
+     <p>
+      <a href="bestiary.html">
+       Bestiary
+      </a>
+     </p>
+     <p>
+      <a href="giants.html">
+       Giants
+      </a>
+     </p>
+     <p>
+      <a href="fantastic-creatures.html">
+       Legendary Creatures
+      </a>
+     </p>
+     <p>
+      <a href="fabulous-tribes.html">
+       Legendary Tribes
+      </a>
+     </p>
+     <p>
+      <a href="../Tree.html">
+       Family Tree of the Gods
+      </a>
+     </p>
+     <p>
+      <a href="greek-gods-cult.html">
+       Cult of the Gods
+      </a>
+     </p>
+     <p>
+      <a href="star-myths.html">
+       Star Myths
+      </a>
+     </p>
+     <p>
+      <a href="../Flora1.html">
+       Plant &amp; Flower Myths
+      </a>
+     </p>
+     <p>
+      <a href="kingdoms.html">
+       Kingdoms of Myth
+      </a>
+     </p>
+     <h2>
+      GALLERIES
+     </h2>
+     <p>
+      <a href="../Galleries.html">
+       Gallery Overview
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-vase-paintings-1.html">
+       Greek Vase Paintings
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-mosaics-1.html">
+       Greco-Roman Mosaics
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-frescoes-1.html">
+       Greco-Roman Frescoes
+      </a>
+     </p>
+     <p>
+      <a href="../gallery-statues-1.html">
+       Greco-Roman Statues
+      </a>
+     </p>
+     <h2>
+      LIBRARY
+     </h2>
+     <p>
+      <a href="../Library.html">
+       Classical Texts
+      </a>
+     </p>
+     <h2>
+      FAQ
+     </h2>
+     <p>
+      <a href="../Bibliography.html">
+       Bibliography
+      </a>
+     </p>
+    </div>
+    <div id="summary">
+     <h2>
+      ENCYCLOPEDIA
+     </h2>
+     <p class="a-z">
+      <a href="encyclopedia-a.html">
+       A
+      </a>
+      |
+      <a href="encyclopedia-c.html">
+       B
+      </a>
+      |
+      <a href="encyclopedia-c.html#C">
+       C
+      </a>
+      |
+      <a href="encyclopedia-d.html">
+       D
+      </a>
+      |
+      <a href="encyclopedia-d.html#E">
+       E
+      </a>
+      |
+      <a href="encyclopedia-d.html#F">
+       F
+      </a>
+      |
+      <a href="encyclopedia-d.html#G">
+       G
+      </a>
+      |
+      <a href="encyclopedia-h.html">
+       H
+      </a>
+      |
+      <a href="encyclopedia-h.html#I">
+       I
+      </a>
+      |
+      <a href="encyclopedia-h.html#J">
+       J
+      </a>
+      |
+      <a href="encyclopedia-h.html#K">
+       K
+      </a>
+      |
+      <a href="encyclopedia-l.html">
+       L
+      </a>
+      |
+      <a href="encyclopedia-l.html#M">
+       M
+      </a>
+      |
+      <a href="encyclopedia-l.html#N">
+       N
+      </a>
+      |
+      <a href="encyclopedia-l.html#O">
+       O
+      </a>
+      |
+      <a href="encyclopedia-p.html">
+       P
+      </a>
+      |
+      <a href="encyclopedia-r.html">
+       R
+      </a>
+      |
+      <a href="encyclopedia-r.html#S">
+       S
+      </a>
+      |
+      <a href="encyclopedia-r.html#T">
+       T
+      </a>
+      |
+      <a href="encyclopedia-r.html#U">
+       U
+      </a>
+      |
+      <a href="encyclopedia-r.html#X">
+       X
+      </a>
+      |
+      <a href="encyclopedia-r.html#Z">
+       Z
+      </a>
+     </p>
+     <hr/>
+     <!-- InstanceBeginEditable name="Summary" -->
+     <h2>
+      HERACLES IN LITERATURE
+     </h2>
+     <p>
+      The most important classical texts dealing with Heracles are:-
+     </p>
+     <p>
+      1.
+      <a href="../Text/Apollodorus2.html#Heracles">
+       Pseudo-Apollodorus,
+       <br/>
+       Bibliotheca 2.4.8 ff
+      </a>
+     </p>
+     <p>
+      2.
+      <a href="../Text/DiodorusSiculus4A.html#8">
+       Diodorus Siculus,
+       <br/>
+       Library of History 4.8.1 ff
+      </a>
+     </p>
+     <p>
+      3.
+      <a href="../Text/HyginusFabulae1.html#29">
+       Pseudo-Hyginus,
+       <br/>
+       Fabulae 29-36
+      </a>
+     </p>
+     <p>
+      4.
+      <a href="../Text/HyginusAstronomica.html">
+       Pseudo-Hyginus,
+       <br/>
+       Astronomica
+      </a>
+     </p>
+     <p align="left">
+      5.
+      <a href="../Text/HesiodShield.html">
+       Hesiod, The Shield
+       <br/>
+       of Heracles
+      </a>
+     </p>
+     <p>
+      6. Euripides, Madness of Heracles
+     </p>
+     <p>
+      7. Sophocles, The Women of Trachis
+     </p>
+     <p>
+      8.
+      <a href="../Text/TheocritusIdylls4.html#24">
+       Theocritus, Idylls 24-25
+      </a>
+     </p>
+     <p>
+      9.
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+     </p>
+     <p>
+      10.
+      <a href="../Text/SenecaHerculesOetaeus.html">
+       Seneca, Hercules Oetaeus
+      </a>
+     </p>
+     <p>
+      11.
+      <a href="../Text/ApolloniusRhodius1.html">
+       Apollonius Rhodius, Argonautica Book 1
+      </a>
+     </p>
+     <p>
+      12.
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, Argonautica Books 1-3
+      </a>
+     </p>
+     <p>
+      13.
+      <a href="../Text/Megara.html">
+       Anonymous,
+      </a>
+      <a href="../Text/Megara.html">
+       Megara
+      </a>
+     </p>
+     <!-- InstanceEndEditable -->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

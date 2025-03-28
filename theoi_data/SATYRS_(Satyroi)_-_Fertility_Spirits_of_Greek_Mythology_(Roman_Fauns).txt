@@ -1,0 +1,3870 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   SATYRS (Satyroi) - Fertility Spirits of Greek Mythology (Roman Fauns)
+  </title>
+  <meta content="In Greek mythology Satyrs were rustic fertility spirits of the countryside and wilds. They consorted with the Nymphs and were companions of the gods Dionysus, Hermes, Hephaestus, Pan, Rhea-Cybele and Gaea. Satyrs were depicted as animalistic men with asinine ears, pug noses, reclining hair-lines, the tails of horses and erect members. As companions of Dionysus they were usually shown drinking, dancing, playing flutes and sporting with the Maenads. The Romans called them Fauns." name="description"/>
+  <meta content="Satyrs, Satyroi, Satyr, Greek mythology, Greek fertility spirits, Greek nature spirits, Satyrs pictures, Faun, Fauns" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-forest.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Titan/Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="../Titan/Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/bestiary.html">
+      Bestiary
+     </a>
+     &gt;&gt; Satyrs (Satyroi)
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     SATYROI
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Σατυρος Σατυροι
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Satyros, Satyroi
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Roman Name
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Satyri, Fauni
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Satyrs, Fauns
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/T60.16.html">
+      <img alt="Dancing Satyr | Athenian red-figure psykter C5th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T60.16Satyros.jpg"/>
+     </a>
+     <figcaption>
+      Dancing Satyr, Athenian red-figure psykter C5th B.C.,
+      <a href="http://www.britishmuseum.org/">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     THE SATYROI (Satyrs) were rustic fertility spirits of the countryside and wilds. They consorted with the
+     <a href="../Nymphe/Nymphai.html">
+      Nymphai
+     </a>
+     (Nymphs) and were companions of the gods
+     <a href="../Olympios/Dionysos.html">
+      Dionysos
+     </a>
+     ,
+     <a href="../Olympios/Hermes.html">
+      Hermes
+     </a>
+     ,
+     <a href="../Olympios/Hephaistos.html">
+      Hephaistos
+     </a>
+     ,
+     <a href="Pan.html">
+      Pan
+     </a>
+     ,
+     <a href="../Titan/TitanisRhea.html">
+      Rhea-Kybele
+     </a>
+     and
+     <a href="../Protogenos/Gaia.html">
+      Gaia
+     </a>
+     .
+    </p>
+    <p>
+     Satyroi were depicted as animalistic men with asinine ears, pug noses, reclining hair-lines, the tails of horses and erect members. As companions of Dionysos they were usually shown drinking, dancing, playing  flutes and sporting with the Mainades (Maenads).
+    </p>
+    <p>
+     Some of the  more specific types of Satyroi were the
+     <a href="Panes.html">
+      Panes
+     </a>
+     (goat-legged satyrs),
+     <a href="Seilenoi.html">
+      Seilenoi (Silens)
+     </a>
+     (elderly satyrs), Satyriskoi (Satyrisci) (child satyrs), and
+     <a href="SatyroiTityroi.html">
+      Tityroi
+     </a>
+     (flute-playing satyrs).
+    </p>
+    <p>
+     Actors dressed as Satyroi formed the choruses of the so-called Satyr-plays which were performed at the festivals of the god Dionysos.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF THE SATYRS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Nymphe/NymphaiHekaterides.html">
+      THE HEKATERIDES
+     </a>
+     <span class="family-refs">
+      (Hesiod Fragments of Unknown Position 6)
+     </span>
+     <br/>
+     [1.2]
+     <a href="Kouretes.html">
+      THE DAKTYLOI
+     </a>
+     &amp;
+     <a href="../Nymphe/NymphaiHekaterides.html">
+      THE HEKATERIDES
+     </a>
+     <span class="family-refs">
+      (Strabo 10.3.19)
+     </span>
+     <br/>
+     [2.1] Various rustic gods incl
+     <a href="../Olympios/Hermes.html">
+      HERMES
+     </a>
+     ,
+     <a href="Seilenos.html">
+      SEILENOS
+     </a>
+     ,
+     <a href="Pan.html">
+      PAN
+     </a>
+     &amp;
+     <a href="../Nymphe/Dryades.html">
+      THE OREAIDES
+     </a>
+     <span class="family-refs">
+      (various sources)
+     </span>
+    </p>
+    <hr/>
+    <h2 id="List">
+     LIST OF NAMED SATYRS
+    </h2>
+    <p>
+     <a href="SatyrosAmpelos.html">
+      AMPELOS
+     </a>
+     (Ampelus) A Satyr boy (
+     <em>
+      satyriskos
+     </em>
+     ) loved by the god Dionysos who was gorged to death by a bull and transformed by the god into the first grapevine.
+    </p>
+    <p>
+     <a href="Aristaios.html">
+      ARISTAIOS
+     </a>
+     (Aristaeus) The Satyr-like god of shepherds, hunting, olive-growing and beekeeping.
+    </p>
+    <p>
+     <a href="SeilenosAstraios.html">
+      ASTRAIOS
+     </a>
+     (Astraeus) An old Seilen (Silen) demi-god of shepherds.
+    </p>
+    <p>
+     <a href="Kerkopes.html">
+      KERKOPES
+     </a>
+     (Cercopes) A pair of monkey-like bandits, possibly Satyroi (Satyrs), who plagued the land of Lydia which were transformed into monkeys by Zeus.
+    </p>
+    <p>
+     <a href="SatyrosKomos.html">
+      KOMOS
+     </a>
+     (Comus) A Satyr boy (
+     <em>
+      satyriskos
+     </em>
+     ) who was the demi-god of festive banquets and cup-bearer of  Dionysos.
+    </p>
+    <p>
+     <a href="SatyrosKrotos.html">
+      KROTOS
+     </a>
+     (Crotus) A Satyr of Mount Helikon in Boiotia (Central Greece) who was rewarded by the Mousai (Muses) for the invention of rhythmic beats to accompany music by being placed amongst the stars as the constellation Saggitarius.
+    </p>
+    <p>
+     LENAI (Lenae) Wine-making Satyroi in the train of Dionysos. They were probably the same as the Seilenoi (Silens).
+    </p>
+    <p>
+     <a href="SeilenosLeneus.html">
+      LENEUS
+     </a>
+     An old Seilen (Silen) demi-god of wine-making.
+    </p>
+    <p>
+     <a href="SatyrosMarsyas.html">
+      MARSYAS
+     </a>
+     A Satyr of Mount Tmolos in Phrygia (Anatolia) who invented the music of the flute and was flayed alive for challenging the god Apollon to a musical contest.
+    </p>
+    <p>
+     <a href="SatyroiHermeides.html">
+      PHERESPONDOS
+     </a>
+     (Pherespondus),
+     <a href="SatyroiHermeides.html">
+      LYKOS
+     </a>
+     (Lycus) and
+     <a href="SatyroiHermeides.html">
+      PRONOMOS
+     </a>
+     (Pronomus) Three Arkadian Satyroi who were sons of Hermes and heralds of the god Dionysos.
+    </p>
+    <p>
+     POIMENIOS (Poemenius), THIASOS (Thiasus), HYPSIKEROS (Hypsicerus), ORESTES, PHLEGRAIOS (Phlegraeus), NAPAIOS (Napaeus), GEMON, LYKON (Lycon), PHEREUS, PETRAIOS (Petraeus), LAMIS, LENOBIOS (Lenobius), SKIRTOS (Scirtus), and OISTROS (Oestrus) Fourteen Satyrs who led the god Dionysos' Satyr troops in his war against the Indians.
+    </p>
+    <p>
+     <a href="../Thaumasios/SatyroiLibyes.html">
+      SATYROI LIBYES
+     </a>
+     (Libyan Satyrs) Tribes of wild Satyroi believed to inhabit the forests of Mount Atlas in North-West Africa. (N.B. Probably derived from travellers' accounts of African apes.)
+    </p>
+    <p>
+     <a href="../Thaumasios/SatyroiNesioi.html">
+      SATYROI NESIOI
+     </a>
+     (Island Satyrs) A tribe of wild Satyroi inhabiting the Satyrides Islands (somewhere off the coast of Africa) which, according to a sailor's tale, captured and horribly violated a female passenger when they made landfall.
+    </p>
+    <p>
+     <a href="../Thaumasios/SatyrosAithiopikos.html">
+      SATYROS AITHIOPIKOS
+     </a>
+     (Ethiopian Satyr) A violent, phantom Satyr which was pacified with wine by the pagan prophet Apollonius of Tyana to end its depredations on an Ethiopian village.
+    </p>
+    <p>
+     <a href="SatyrosArgios.html">
+      SATYROS ARGIOS
+     </a>
+     (Argive Satyr) A Satyr of the Lernaean Spring near Argos (in Southern Greece) which assaulted King Danaus' daughter Amymone when she came in search of water.
+    </p>
+    <p>
+     <a href="../Thaumasios/SatyrosLemnios.html">
+      SATYROS LEMNIOS
+     </a>
+     (Lemnian Satyr) A Satyr of the Aegean island of Lemnos which has a scandalous tryst with a local woman.
+    </p>
+    <p>
+     <a href="Seilenoi.html">
+      SEILENOI
+     </a>
+     (Silens) Three elderly Satyrs named Maron, Leneus and Astraios (Astraeus) who were companions of the god Dionysos and sons of ancient Seilenos.
+    </p>
+    <p>
+     <a href="Seilenos.html">
+      SEILENOS
+     </a>
+     (Silenus) The ancient Satyr nurse of the god Dionysos and the demi-god of drunken excess.
+    </p>
+    <p>
+     <a href="SatyroiTityroi.html">
+      TITYROI
+     </a>
+     (Tityri) Flute-playing Satyroi in the train of the god Dionysos.
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     SA′TYRUS (Saturos), the name of a class of beings in Greek mythology, who are inseparably connected with the worship of Dionysus, and represent the luxuriant vital powers of nature. In their appearance they somewhat resembled goats or rams, whence many ancients believed that the word saturos was identical with tituros, a ram. (Schol.
+     <em>
+      ad Theocrit.
+     </em>
+     iii. 2, vii. 72; Aelian,
+     <em>
+      V. H.
+     </em>
+     iii. 40; comp. Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 1157; Hesych.
+     <em>
+      s. v.;
+     </em>
+     and Strab. x. p. 466.) Homer does not mention any Satyr, while Hesiod (
+     <em>
+      Fragm. 94,
+     </em>
+     ed. Göttling) speaks of them in the plural and describes them as a race good for nothing and unfit for work, and in a passage quoted by Strabo (x. p. 471) he states that the Satyrs, Nymphs and Curetes were the children of the five daughters of Hecataeus and the daughter of Phoroneus. The more common statement is that the Satyrs were the sons of Hermes and Iphthima (Nonn.
+     <em>
+      Dionys.
+     </em>
+     xiv. 113), or of the Naiads (Xenoph.
+     <em>
+      Sympos.
+     </em>
+     v. 7); Silen also calls them his own sons. (Eurip.
+     <em>
+      Cycl.
+     </em>
+     13, 82, 269.)
+    </p>
+    <p>
+     The appearance of the Satyrs is described by later writers as robust, and rough, though with various modifications, but their general features are as follows: the hair is bristly, the nose round and somewhat turned upwards, the ears pointed at the top like those of animals (whence they are sometimes called thêres, Eurip.
+     <em>
+      Cycl. 624
+     </em>
+     ); they generally have little horns, or at least two hornlike protuberances (phêrea), and at or near the end of the back there appears a little tail like that of a horse or a goat. In works of art they were represented at different stages of life; the older ones, commonly called Seilens or Silens (Paus. i. 23. § 6), usually have bald heads and beards, and the younger ones are termed Satyrisci (Saturiskoi, Theocrit. iv. 62, xxvii. 48). All kinds of satyrs belong to the retinue of Dionysus (Apollod. iii. 5. § 1; Strab. x. p. 468; Ov.
+     <em>
+      Fast.
+     </em>
+     iii. 737,
+     <em>
+      Ars Am.
+     </em>
+     i. 542, iii. 157), and are always described as fond of wine, whence they often appear either with a cup or a thyrsus in their hand (Athen. xi. p. 484), and of every kind of sensual pleasure, whence they are teen sleeping, playing musical instruments or engaged in voluptuous dances with nymphs. (Apollod. ii. 1. § 4; Horat.
+     <em>
+      Carm.
+     </em>
+     ii. 19. 3, i. 1. 30; Ov.
+     <em>
+      Met.
+     </em>
+     i. 692, xiv. 637; Philostr.
+     <em>
+      Vit. Apoll.
+     </em>
+     vi. 27 ; Nonn.
+     <em>
+      Dionys.
+     </em>
+     xii. 82.) Like all the gods dwelling in forests and fields, they were greatly dreaded by mortals. (Virg.
+     <em>
+      Eclog.
+     </em>
+     vi. 13; Theocrit. xiii. 44; Ov.
+     <em>
+      Her.
+     </em>
+     iv. 49.)
+    </p>
+    <p>
+     Later writers, especially the Roman poets, confound the Satyrs with the Pans and the Italian Fauns, and accordingly represent them with larger horns and goats' feet (Horat.
+     <em>
+      Carm.
+     </em>
+     ii. 19. 4; Propert. iii. 15. 34; Ov.
+     <em>
+      Met.
+     </em>
+     i. 193, vi. 392, xiv 637), although originally they were quite distinct kinds of beings, and in works of art, too, they are kept quite distinct. Satyrs usually appear with flutes, the thyrsus, syrinx, the shepherd staff, cups or bags filled with wine; they are dressed with the skins of animals, and wear wreaths of vine, ivy or fir. Representations of them are still very numerous, but the most celebrated in antiquity was the Satyr of Praxiteles at Athens (Paus. i. 20. § 1; Plin.
+     <em>
+      H. N.
+     </em>
+     xxxiv. 8, s. 19.)
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF THE SATYRS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.12.html">
+      <img alt="Satyr and sleeping nymph | Athenian red-figure kylix C5th B.C. | The J. Paul Getty Museum, Malibu" class="img-responsive center-block" src="../image/T60.12Satyros_sm.jpg"/>
+     </a>
+     <figcaption>
+      Satyr and sleeping nymph, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.getty.edu/museum/" target="_blank">
+       The J. Paul Getty Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Fragments of Unknown Position 6 (from Strabo 10.3.19) (trans. Evelyn-White) (Greek epic C8th or 7th B.C.) :
+     </span>
+     <br/>
+     "But of them [the daughters of Hekateros (Hecaterus)] were born the divine mountain nymphs (
+     <em>
+      theai nymphai oureiai
+     </em>
+     ) and the tribe (
+     <em>
+      genos
+     </em>
+     ) of worthless, helpless Satyroi (Satyrs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Homeric Hymn 5 to Aphrodite 256 ff (trans. Evelyn-White) (Greek epic C7th to 4th B.C.) :
+     </span>
+     <br/>
+     "The deep-breasted Mountain Nymphai [the Oreades] who inhabit this great and holy mountain . . . with them the Seilenoi (Silens) and the sharp-eyed Argeiphontes [Hermes] mate in the depths of pleasant caves."
+     <br/>
+     [N.B. Presumably Satyroi (Satyrs) were the offspring of these unions.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 19 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "These Daimones [the Kouretes (Curetes), Satyroi (Satyrs) and Oreiades (Oreads)] . . . were called, not only ministers of gods, but also gods themselves. For instance, Hesiod says that five daughters were born to Hekateros (Hecaterus) and the daughter of Phoroneus, ‘from whom sprang the mountain-ranging Nymphai (Nymphs), goddesses, and the breed of Satyroi (Satyrs), creatures worthless and unfit for work, and also the Kouretes (Curetes), sportive gods, dancers.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 763 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The Satyri (Satyrs) come running and laugh at their father's [Seilenos'] bloated face."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 14. 105 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "From these [Leneus, Astraios (Astraeus) and Maron, three Seilenoi (Silens) sons of Seilenos (Silenus)] had sprung the twiform generation of the muchmarried Satyroi (Satyrs)."
+    </p>
+    <p>
+     Notable individual Satyroi (Satyrs) were sons of a variety of rustic gods--Seilenos (Silenus) was a son of Gaia the Earth or Hermes or Pan, Krokos (Crocus) was the son of Pan, Marsyas of the mountain-god Olympos, and Komos (Comus) a son of the god Dionysos.
+    </p>
+    <hr/>
+    <h3 id="Gigantes">
+     SATYRS &amp; THE WAR OF THE GIGANTES (GIANTS)
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 23 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "According to Eratosthenes, another story is told about the Asses. After Jupiter [Zeus] had declared war on the Gigantes (Giants), he summoned all the gods to combat them, and Father Liber [Dionysos], Vulcanus [Hephaistos (Hephaestus)], the Satyri (Satyrs), and the Sileni (Silens) came riding on asses. Since they were not far from the enemy, the asses were terrified, and individually let out a braying such as the Gigantes had never heard. At the noise the enemy took hastily to flight, and thus were defeated."
+    </p>
+    <p>
+     Satyroi are appear as troops of the god Dionysos in Euripides'
+     <em>
+      Cyclops
+     </em>
+     (not currently quoted here).
+    </p>
+    <hr/>
+    <h3 id="Plays">
+     SATYRS IN SATYR PLAYS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.9.html">
+      <img alt="Satyr with wine amphora | Athenian red-figure kylix C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/T60.9Satyros_sm.jpg"/>
+     </a>
+     <figcaption>
+      Satyr with wine amphora, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     The Choruses of the ancient satyr-plays were composed of men dressed as Satyrs. The only surviving example of its kind is the fragmentary
+     <em>
+      Ichneutae
+     </em>
+     (Trackers) of Sophocles. A few fragments of some of Aeschylus' and Euripides satyr-dramas also survive. Many Athenian vase-paintings from the era depict scenes from these plays, for example, the Satyr-biga scene (shown above) likely represents a scene from Aeschylus' satyr-play
+     <em>
+      Isthmiastae
+     </em>
+     in which the creatures compete in the contests of the Isthmian Games.
+    </p>
+    <hr/>
+    <h3 id="Panoptes">
+     ARGUS-PANOPTES &amp; THE ARCADIAN SATYR
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 4 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "He [Argos Panoptes] also ambushed and slew a Satyros (Satyr) that was hurting the Arkadians (Arcadians) by stealing their herds."
+    </p>
+    <hr/>
+    <h3 id="Amymone">
+     AMYMONE &amp; THE ARGIVE SATYR
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 13 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[When Danaus arrived in the land of Argos] the land was without water, thanks to Poseidon, who, in anger at Inakhos (Inachus) for testifying that the region belonged to Hera, had dried up even the springs. So Danaus sent his daughters to find water. One of them, Amymone, while searching threw a spear at a deer and hit a sleeping Satyros (Satyr), who woke, jumped up, and was ready to have sex with her. Then Poseidon appeared and the Satyros ran off; so Poseidon himself made love to her."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 169 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When Amymone, daughter of Danaus, was eagerly hunting in the woods, she struck a Satyrus (Satyr) with her dart. He wanted to ravish her, but she begged the aid of Neptunus [Poseidon]. When Neptunus came there, he drove away the Satyrus, and lay with her himself."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 169a :
+     </span>
+     <br/>
+     "Amymone, daughter of Danaus, was sent by her father to get water for performing sacred rites. While hunting for it, she grew weary and fell asleep. A Satyrus (Satyr) tried to seduce her, but she implored the help of Neptunus [Poseidon]. When Neptunus had hurled his trident at the Satyrus, it became fixed in a rock. Neptunus drove off the Satyrus. When he asked the girl what she was doing in this lonely place she said she had been sent by her father to get water. Neptunus lay with her."
+    </p>
+    <hr/>
+    <h3 id="Antiope">
+     ZEUS' SEDUCTION OF ANTIOPE AS A SATYR
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 111 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Juppiter [Zeus] once in a Satyrus' (Satyr's) guise had got Nycteis [Antiope daughter of Nykteus] with twins."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 16. 240 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "You have heard of love's game of trickery for Antiope, the laughing Satyros (Satyr), the sham of a deceitful mate."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 33. 301 ff :
+     </span>
+     <br/>
+     "Zeus the Ruler on High once took the shape of a Satyros (Satyr), and wooed he maiden Antiope under a deceitful shape, in the mock love of a dancing bridal."
+    </p>
+    <hr/>
+    <h3 id="Miscellany">
+     SATYRS POETICAL MISCELLANY
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.2.html">
+      <img alt="Satyr and Maenad | Athenian red-figure kylix C5th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T60.2Satyros_sm.jpg"/>
+     </a>
+     <figcaption>
+      Satyr and Maenad, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      The Anacreontea, Fragment 4 (trans. Campbell, Vol. Greek Lyric Ii) (C5th B.C.) :
+     </span>
+     <br/>
+     "[Among the images decorating a wine-cup crafted by Hephaistos (Hephaestus) :] Put vines on it for me  with bunches of grapes on them . . . the Satyroi (Satyrs) laughing, Erotes (Loves) all in gold, Kythere (Cytherea) [Aphrodite] laughing together with handsome Lyaios (Lyaeus) [Dionysos], Eros (Love) and Aphrodite."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aesop, Fables 60 (Chambry) (trans. Gibbs) (Greek fable C6th B.C.) :
+     </span>
+     <br/>
+     "The Man and the Satyros (Satyr). A Man and a Satyros once drank together in token of a bond of alliance being formed between them. One very cold wintry day, as they talked, the Man put his fingers to his mouth and blew on them. When the Satyros asked the reason for this, he told him that he did it to warm his hands because they were so cold. Later on in the day they sat down to eat, and the food prepared was quite scalding. The Man raised one of the dishes a little towards his mouth and blew in it. When the Satyros again inquired the reason, he said that he did it to cool the meat, which was too hot. ‘I can no longer consider you as a friend,’ said the Satyros, ‘a fellow who with the same breath blows hot and cold.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 34 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Lykourgos (Lycurgus) . . . who lived beside the Strymon river [in Thrake (Thrace)], was the first to show hybris to Dionysos by expelling him. Dionysos fled to the sea and took shelter with Nereus' daughter Thetis, but his Bakkhai (Bacchae) were taken captive along with the congregation of Satyroi (Satyrs) that accomapanied him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 5. 3 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "Satyroi (Satyrs) also, it is reported, were carried about by him [Dionysos] in his company and afforded the god great delight and pleasure in connection with their dancings and their goat-songs (
+     <em>
+      tragedoi
+     </em>
+     or tragedies). And, in general, the Mousai (Muses) who bestowed benefits and delights through the advantages which their education gave them, and the Satyroi by the use of devices which contribute to mirth, made the life of Dionysos happy and agreeable."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 7 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Like the accounts of the Satyroi (Satyrs), Silenoi (Silens), Bakkhai (Bacchae), and Tityroi (Tityri); the Kouretes (Curetes) . . . are called Daimones or ministers of gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 10 :
+     </span>
+     <br/>
+     "The [daimones called] Silenoi (Silens) and Satyroi (Satyrs) and Bakkhai (Bacchae), and also the Lenai and Thyiai (Thyiae) and Mimallones and Naïdes Nymphai (Naiad Nymphs) and the beings called Tityroi, [are attendants] of Dionysos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 11 :
+     </span>
+     <br/>
+     "In Krete (Crete), not only these rites [i.e. the Orgies], but in particular those sacred to Zeus [associated with the Kouretes (Curetes)], were performed along with orgiastic worship and with the kind of ministers who were in the service of Dionysos, I mean the Satyroi (Satyrs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 13 :
+     </span>
+     <br/>
+     "The following verses [of Pindar] . . .: ‘The triple-crested Korybantes (Corybantes) in their caverns invented this hide-stretched circlet [the tambourine], and blent its Bacchic revelry with the high-pitched, sweet-sounding breath of Phrygian flutes, and in Rhea's hands placed its resounding noise, to accompany the shouts of the Bakkhai (Bacchae), and from Mother Rhea frenzied Satyroi (Satyrs) obtained it and joined it to the choral dances of the Trieterides, in whom Dionysos takes delight . . .’
+     <br/>
+     And when they [the poets] bring [the Satyroi (Satyrs)] Seilenos (Silenus) and Marsyas and Olympos into one and the same connection [with Rhea and Dionysos], and make them the historical inventors of flutes, they again, a second time, connect the Dionysiac and the Phrygian rites."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.8.html">
+      <img alt="Satyr with drinking-horn | Athenian red-figure kylix C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/T60.8Satyros.jpg"/>
+     </a>
+     <figcaption>
+      Satyr with drinking-horn, Athenian red figure kylix C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 15 :
+     </span>
+     <br/>
+     "They [the poets] also invented some of the names by which to designate the ministers, choral dancers, and attendants upon the sacred rites [of Rhea and Dionysos], I mean Kabeiroi (Cabeiri) and Korybantes (Corybantes) and Panes and Satyroi (Satyrs) and Tityroi."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 16 :
+     </span>
+     <br/>
+     "He [Aeschylus] mentions . . . the attendants of Dionysos [i.e. Satyroi (Satyrs) and Bakkhai (Bacchae)] : ‘one, holding in his hands the
+     <em>
+      bombyces
+     </em>
+     , toilsome work of the turner's chisel, fills full the fingered melody, the call that brings on frenzy, while another causes to resound the bronze-bound
+     <em>
+      cotylae
+     </em>
+     ’ and again, ‘stringed instruments raise their shrill cry, and frightful mimickers from some place unseen bellow like bulls, and the semblance of drums, as of subterranean thunder, rolls along, a terrifying sound.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 17 :
+     </span>
+     <br/>
+     "Those writers who have consecrated the whole of Asia, as far as India, to Dionysos, derive the greater part of music from there. And one writer says, ‘striking the Asiatic cithara’; another calls flutes Berekyntian and Phrygian; and some of the instruments have been called by barbarian names,
+     <em>
+      nablas
+     </em>
+     ,
+     <em>
+      sambyce
+     </em>
+     ,
+     <em>
+      barbitos
+     </em>
+     ,
+     <em>
+      magadis
+     </em>
+     , and several others [i.e. these are instruments of the Bakkhai (Bacchae) and Satyroi (Satyrs)]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 10. 3. 19  :
+     </span>
+     <br/>
+     "Further, one might also find . . . these Daimones [the Kouretes (Curetes), Satyroi (Satyrs) and Oreiades (Oreads)] . . . were called, not only ministers of gods, but also gods themselves. For instance, Hesiod says that five daughters were born to Hekateros (Hecaterus) and the daughter of Phoroneus, ‘from whom sprang the mountain-ranging Nymphai, goddesses, and the breed of Satyroi (Satyrs), creatures worthless and unfit for work, and also the Kouretes (Curetes), sportive gods, dancers.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 23. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "There is also a smallish stone [on the Akropolis (Acropolis) in Athens] . . . On it legend says Silenos rested when Dionysos came to the land. The oldest of the Satyroi (Satyrs) are called Silenoi (Silens)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Athenaeus, Deipnosophistae 1. 23d (trans. Gullick) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "A Satyros in [a satyr-play of] Sophokles (Sophocles) uses the word (lie back) when burning with passion for Herakles : ‘Would I might leap right on his neck as he lies back (sleeps) there.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, Historical Miscellany 3. 40 (trans. Wilson) (Greek rhetorician C2nd to 3rd A.D.) :
+     </span>
+     <br/>
+     "Note that Dionysos' companions in the dance were Satyroi (Satyrs), called by some Tityroi (Tityri). They received this name from the trills (
+     <em>
+      teretismata
+     </em>
+     ) which the Satyroi enjoy, and the Saytroi got their name from the word ‘to grimace’ (
+     <em>
+      sesêrenô
+     </em>
+     ), the Silenoi (Silens) from the word ‘to mock’ (
+     <em>
+      sillainô
+     </em>
+     )--they say that silos is criticism with disagreeable humour."  [N.B. These etymologies are late inventions.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 19 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting Dionysos and the pirates :] A mission ship and a pirate's ship. Dionysos steers the former, on board the latter are Tyrrhenians, pirates who ravage their own sea . . He [Dionysos] is accompanied only by Lydian women and Satyroi (Satyrs) and fluteplayers, and an aged narthex-bearer, and Maronian wine, and by Maron himself . . . [and] Panes sail with him in the form of goats . . . 
+  Cymbals are attached to it [i.e. the ship] n rows, so that, even if the Satyroi are overcome by wine and fall asleep, Dionysos may not be without noise on his voyage"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 20  :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting :] The place is Kelainai (Celaenae), if one may judge by the springs and the cave; but Marsyas has gone away either to watch his sheep or because the contest is over. Do not praise the water; for, though it looks sweet and placid, you will find [the poet] Olympos sweeter. He sleeps after having played his flute, a tender youth lying on tender flowers, whilst the moisture on his forehead mingles with the dew of the meadow . . . Reeds already yielding music lie beside Olympos, and also the iron tools with which the holes are bored in the pipes. A band of Satyroi (Satyrs) gaze lovingly upon the youth, ruddy grinning creatures, one desiring to touch his breast, another to embrace his neck, another eager to pluck a kiss; they scatter flowers over him and worship him as if he were a divine image; and the cleverest of them draws out the tongue of the second pipe which is still warm and eats it, thinking he is thus kissing Olympos, and he says he tasted the boy's breath."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.10.html">
+      <img alt="Satyr and Maenad | Athenian red-figure kylix C5th B.C. | Harvard Art Museums, Cambridge" class="img-responsive center-block" src="../image/T60.10Satyros_sm.jpg"/>
+     </a>
+     <figcaption>
+      Satyr and Maenad, Athenian red-figure kylix C5th B.C.,
+      <a href="http://www.harvardartmuseums.org/" target="_blank">
+       Harvard Art Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 22  :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the capture of Seilenos by King Midas :] 
+  Charming is the vehemence of Satyroi (Satyrs) when they dance, and charming their ribaldry when they laugh; they are given to live, noble creatures that they are, and they subdue the Lydian women to their will by their artful flatteries. And this too is true of them: they are represented in paintings as hardy, hot-blooded beings, with prominent ears, lean about the loins, altogether mischievous, and having the tails of horses."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 1. 25 :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting :] By act of Dionysos the earth of the Andrians is so charged with wine that it bursts forth and send up for them a river . . .
+     <br/>
+     The River [River-God] lies on a couch of grape-clusters, pouring out its stream, a river undiluted and of agitated appearance; thyrsoi grow about it like reeds about bodies of water . . . Dionysos also sails to the revels of Andros and, his ship now moored in the harbour, he leads a mixed throng of Satyroi (Satyrs) and Lenai (Lenae) and all the Seilenoi (Silens)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Younger, Imagines 2 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+     </span>
+     <br/>
+     "[From a description of an ancient Greek painting depicting the torment of Marsyas :] And look, please, at the band of Satyroi (Satyrs), how they are represented as bewailing Marsyas, but as displaying, along with their grief, their playful spirit and their disposition to leap about."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 4. 27 (trans. Conybeare) (Greek biography C1st to 2nd A.D.) :
+     </span>
+     <br/>
+     "I have a remedy against these hell-hounds [the Satyroi (Satyrs)], which Midas is said once to have employed; for Midas himself had some of the blood of Satyroi in his veins, as was clear from the shape of his ears; and a Satyros [Seilenos (Silenus)] once, trespassing on his kinship with Midas, made merry at the expense of his ears, not only singing about them, but piping about them. Well, Midas, I understand, had heard from his mother that when a Satyros is overcome by wine he falls asleep, and at such times comes to his senses and will make friends with you; so he mixed wine which he had in his palace in a fountain and led the Satyros get at it, and the latter drank it up and was overcome."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Orphic Hymn 54 to Silenus and the Satyrs (trans. Taylor) (Greek hymns C3rd B.C. to 2nd A.D.) :
+     </span>
+     <br/>
+     "To Silenos (Silenus), Satyroi (Satyrs), Bakkhai (Bacchae), Fumigation from Manna . . . The nurses [of Dionysos] young and fair, Naiades and Bakkhai who ivy bear, with all thy Satyroi on our incense shine, Daimones wild-formed, and bless the rites divine. Come, rouse to sacred joy thy pupil king [Dionysos], and Bakkhai with rites Lenaion bring; our orgies shining through the night inspire, and bless, triumphant power, the sacred choir."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 192 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "I [Zeus] have my Demigods (
+     <em>
+      semidei
+     </em>
+     ), my Fauni [Panes] and Satyri (Satyrs), my Nymphae (Nymphs) and Rustic Sprites (
+     <em>
+      mumina rustica
+     </em>
+     ) of wold and wood, not worthy yet to win the sky, but sure the earth, their portion, we must prove secure."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 692 ff :
+     </span>
+     <br/>
+     "Once there lived on the cold mountainsides of Arcadia a Naias, who among the Hamadryades Nonacrinae (of lofty Nonacris) was the most renowned. Syrinx the Nymphae (Nymphs) called her. Many a time she foiled the chasing Satyri (Satyrs) and those gods who haunt the shady copses and the coverts of the lush countryside. In her pursuits--and in her chastity--Syrinx revered Ortygia [Artemis]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 4. 25 ff :
+     </span>
+     <br/>
+     "You [Dionysos] drive your pair of lynxes with bright coloured reigns. Bacchae and Satyri (Satyrs) are your followers, and that old drunkard [Seilenos (Silenus)] whose stout staff supports his tottering steps, who sits so insecure upon his sagging ass. Wherever your course leads you, young men's shouts and women's cries echo afar with noise of tambourines and clashing bronze and long-bored pipes of box."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 6. 392 ff :
+     </span>
+     <br/>
+     "The countryfolk, the Sylvan Deities (
+     <em>
+      Numina Silvarum
+     </em>
+     ), the Fauni [Panes] and brother Satyri (Satyrs) and the Nymphae (Nymphs)."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 11. 86 ff :
+     </span>
+     <br/>
+     "[Dionysos] made for the slopes and vineyards of his own beloved Tmolus and Pactolus' banks . . . Around him thronged his usual company, Satyri (Satyrs) and Bacchae."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 14. 634 ff :
+     </span>
+     <br/>
+     "For fear of rustic force she [the Latin Hamadryas Pomona] walled her orchard in to keep away the sex she shunned. What tricks did they not try, the quick young light-foot Satyri (Satyrs), and the Panes who wreathe their horns with pine, and that old rake, Silvanus [Seilenos (Silenus)]."
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.7.html">
+      <img alt="Satyr with wine-vat | Athenian red-figure kylix C6th B.C. | University of Mississippi Museum, Oxford" class="img-responsive center-block" src="../image/T60.7Satyros.jpg"/>
+     </a>
+     <figcaption>
+      Satyr with wine-vat, Athenian red-figure kylix C6th B.C.,
+      <a href="http://museum.olemiss.edu/" target="_blank">
+       University of Mississippi Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 1. 391 ff (trans.Boyle) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "You were holding, Greece, the feast of grape-crowned Bacchus [Dionysos], celebrated by custom each third winter. The gods who serve Lyaeus [Dionysos] also attended and whoever is not hostile to play, namely Panes and young Satyri (Satyrs) and goddesses who haunt streams [Naiades] and lonely wilds [Dryades]. Old Silenus came, too, on a sway-backed donkey, and the red-groined terror of timid birds [Priapos]. They discovered a grove suitable for party pleasures and sprawled on grass-lined couches. Liber [Dionysos] supplied wine . . . Naiades were there . . . Some generate tender fires inside the Satyri, others in you, whose brow is bound with pine [Pan]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 3. 763 ff :
+     </span>
+     <br/>
+     "Honey was found by Bacchus [Dionysos], they say. He was leaving sandy Hebrus attended by Satyri, and had reached Rhodope and blooming Pangea; the hand-held cymbals of his companions clashed. Look, the ringing gathers strange aerial things, bees, who trail the sounds of the tinkling brass. Liber [Dionysos] collects the swarm, shuts it in a hollow tree and is rewarded by finding honey. When the Satyri (Satyrs) and the bald old man [Silenos] tasted it, they ransacked every grove for yellow combs . . . [Silenos is attacked by bees and] the Satyri come running and laugh at their father's bloated face; he limps from an injured knee."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Fasti 6. 319 ff :
+     </span>
+     <br/>
+     "Coroneted Cybele [Rhea], with her crow of turrets, invites the eternal gods to her feast. She invites, too, Satyri (Satyrs) and Nymphae (Nymphs), Rural-Spirits (
+     <em>
+      rustica numina
+     </em>
+     ); Silenus is present, uninvited."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 4. 169 ff (trans. Showerman) (Roman poetry C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "May the agile goddess [Artemis] wait on you [the hunter Hippolytos] in the solitary glade to keep you safe, and the deep forest yield you wild beasts to slay; so may the Satyri (Satyrs) be your friends, and the mountain deities (
+     <em>
+      numina montanum
+     </em>
+     ), the Panes, and may the boar fall pierced in full front by your spear; so may the Nymphae (Nymphs). . . give you the flowing water to relieve your parching thirst!"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Heroides 5. 133 ff :
+      <br/>
+     </span>
+     "Me [the nymphe Oinone], the swift Satyri (Satyrs), a wanton rout with nimble foot, used to come in quest of--where I would lie hidden in covert of the wood--and Faunus [Pan], with hornèd head girt round with sharp pine needles, where Ida swells in boundless ridges."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 1. 10 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Fauns [Satyroi (Satyrs)], the rustics' ever present gods--come trip it, Fauns, and Dryad maids withal!--'tis of your bounties I sing."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Cicero, De Natura Deorum 3. 17 (trans. Rackham) (Roman rhetorician C1st B.C.) :
+     </span>
+     <br/>
+     "If gods exist, are Nymphae also goddesses? If the Nymphae (Nymphs) are, the Panes and Satyri (Satyrs) also are gods; but they are not gods; therefore the Nymphae also are not."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 1. 105 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "They whose labour was in the fields and with the peaceful plough are aroused by the sight of Fauni [Satyrs] about the thickets and ways in the clear light of day, and woodland Goddesses [Dryades] and Rivers [Potamoi] with lofty horns."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 4. 680 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "[To a Nymphe :] I will drive afar the nightly raids of the shameless horn-footed ones [i.e. the Panes], and the lustful rapine of the Fauni (Fauns) [Saytrs]."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 5. 580 ff :
+     </span>
+     <br/>
+     "The Nymphae (Nymphs) who were wont to strew him [the guardian dragon of the Nemean grove] with vernal flowers, and Nemea's fields whereon he crawled; ye too, ye woodland Fauni (Fauns) [Satyrs], bewailing him in every grove with broken reeds."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Silvae 2. 2. 102 ff (trans. Mozley) (Roman poetry C1st A.D.) :
+     </span>
+     <br/>
+     "Often in autumn-time when the grapes are ripening, a Nereis climbs the rocks, and under cover of the shades of night brushes the sea-water from her eyes with a leafy vine-spray, and snatches sweet clusters from the hills. Often is the vintage sprinkled by the neighbouring foam; Satyri (Satyrs) plunge into the waters, and Panes from the mountain are fain to grasp the Sea-Nympha as she flies naked through the waves."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Apuleius, The Golden Ass 6. 24 ff (trans. Walsh) (Roman novel C2nd A.D.) :
+     </span>
+     <br/>
+     "[At the wedding of Cupid and Psyche :] She [Aphrodite] had organized the performance so that the Musae (Muses) sang in chorus, a Satyrus (Satyr) played the flute, and a Paniscus [a young Pan] sang to the shepherd's pipes."
+    </p>
+    <p>
+     <span class="quote-other">
+      Suidas s.v. Bakkhai (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Bakkhai (Bacchantes): [Bacchantes] and Satyroi (Satyrs) and Panes and Silenoi (Silens), attendants of Dionysos."
+    </p>
+    <hr/>
+    <h3 id="Dionysos">
+     THE SATYRS OF DIONYSUS IN NONNUS' DIONYSIACA
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/T60.5.html">
+      <img alt="Satyr warrior | Athenian red-figure neck amphora C6th B.C. | Antikensammlung Berlin" class="img-responsive center-block" src="../image/T60.5Satyros.jpg"/>
+     </a>
+     <figcaption>
+      Satyr warrior, Athenian red-figure neck amphora C6th B.C.,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Nonnus'
+     <em>
+      Dionysiaca
+     </em>
+     is an epic poem of late antiquity which describes the story of Dionysos, centering on his campaign against the Indian nation. Satyroi (Satyrs) form the bulk of his army.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 10. 142 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Dionysos grows up in the care of the goddess Rhea in Phrygia :] To escape the midday lash of Helios (the Sun) moving on high, he [Dionysos] cleansed his body in the stream of the Meionian River [in Lydia] bubbling gently . . . Playful Satyroi (Satyrs) lifted their heels in air, and tumbled plunging headover into the river; one selfpropelled swam with paddling hands prone on the waves, and imprinted a footstep on the swell, as he pushed with backstretching legs and cut the water rolling in riches; one dived deep down into the underwater caves and hunted for speckled fishy prey down below, stretching a groping hand over the swimming fry--left the deeps again and offered to Bakkhos [Dionysos] the fish purpled with the slime of the opulent river. Seilenos (Silenus) the old vagabond, challenging a Satyros, entwined hands and feet together, and rolling himself into a ball stooped and dived head first into the stream, from the heights into the deeps, till his hair stuck in the slime; then he trod his two feet firmly into the glittering sand hunting for good nuggets or ore in the river. Another left shoulder unwetted and showed his back out of the water in the air as he stood in the deep stream over the hips, immovable. Another lifted the ears bare and plunged the shaggy thighs in the transparent flood, while the tail flogged the water in circles of its own."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 10. 209 ff  :
+     </span>
+     <br/>
+     "The short-living blood of the horned Satyroi (Satyrs)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 10. 238 ff :
+     </span>
+     <br/>
+     "[Dionysos fell in love with the satyriskos (satyriscus) Ampelos :] If Ampelos, was carried away by wild passion for high capers, twirled with dancing paces and joined hands with a sporting Satyros (Satyr) in the round, stepping across foot over foot, Bakkhos (Bacchus) [Dionysos] looked on shaken with envious feeling. If he ever conversed with the Satyroi (Satyrs) . . . Dionysos jealous held him back."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 10. 393 ff :
+     </span>
+     <br/>
+     "[Dionysos held a race for the Satyroi (Satyrs):] Bromios [Dionysos] measured the ground for the furlong race . . . Then he urged the Satyroi  to go in and win. 
+  Springheel Lyaios (Lyaeus) [Dionysos] cried his summons aloud, and first up leapt windfoot [Seilenos (Silen)] Leneus (Winepress), then on either side of him highstepping Kissos (Cissus, Ivy) and charming Ampelos (Ampelus, Vine) stood up. They stood in a row, confident in the quick soles of their straightfaring feet. Kissos flew with stormy movement of his feet just skimming the top of the ground as he touched it. Leneus was running behind him quick as the winds of heaven and warming the back of the sprinter with his breath, close behind the leader, and he touched footstep with footstep on the dust as it dropped, with following feet: the space between them both was no more than the rod leaves open before the bosom of a girl working at the loom, close to the firm breast. Ampelos came third and last. Dionysos saw them out of the corner of his eye, and melted with jealousy that the two competitors should be in front, afraid they might win and Ampelos [his love] come in behind them; so the god helped him, breathed strength into him, and made the boy swifter than the spinning gale. Then Kissos, first of the two in the race, striving so hard for the prize, stumbled over a wet place on the shore, slipt and fell in the sandy slush; Leneus had to check the course of his feet, and his knees lost their swing: so both competitors were passed and Ampelos carried off the victory.
+     <br/>
+     The old Seilenoi (Silenus) shouted Euoi! Amazed at the victory of the youth. He received the first prize with soft hair flowing, Leneus took the second full of envy, for he understood the jealous trick of Lyaios and his passion; Kissos eyed his comrades with look abashed, as he held out his hand for the last prize discontented."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 76 ff :
+     </span>
+     <br/>
+     "[Dionysos addresses his beloved, the satyros Ampelos :] ‘When Lyaios (Lyaeus) [Dionysos] touches the feast, join in his feasting, and share my revels when I stir the Satyroi (Satyrs) to revel.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 11. 113 ff :
+     </span>
+     <br/>
+     "[Dionysos equips his companions with musical instruments :] The Panes have their cithern and their melodious tootling pipes; the Satyroi (Satyrs) have the roundrattling tomtom from your patron Dionysos; even the mountainranging Bassarides ride on the backs of lions."
+     <span class="quote-latin">
+     </span>
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 12. 330 ff :
+     </span>
+     <br/>
+     "[Dionysos discovers wine :] When Bakkhos (Bacchus) saw the [wild] grapes with a bellyful of red juice, he bethought him of an oracle which prophetic Rheia had spoken long ago. He dug into the rock, he hollowed out a pit in the stone with the sharp prongs of his earth-burrowing pick, he smoothed the sides of the deepening hold and made an excavation like a winepress; then he made his sharp thyrsus into the cunning shape of the later sickle with curved edge, and reaped the newgrown grapes.
+     <br/>
+     A band of Satyroi (Satyrs) was with him: one stooped to gather the clusters, one received them into an empty vessel as they were cut, one pulled off the masses of green leaves from the bilbulous fruit and threw away the rubbish. Another without thyrsus or sharpened steel crouched bending forwards and spying for grapes, and put out his right hand towards the branches to pluck the fruit at the ends of the tangled vine, then Bakkhos (Bacchus) spread the fruitage in the pit he had dug, first heaping the grapes in the middle of the excavation, then arranging them in layers side by side like cornheaps on the threshing-floor, spread out the whole length of the hole. When he had got all into the hollowed place and filled it up to the brim, he trod the grapes with dancing steps. The Satyroi also, shaking their hair madly in the wind, learnt from Dionysos how to do the like. They pulled tight the dappled skins of fawns over the shoulder, they shouted the song of Bakkhos sounding tongue with tongue, crushing the fruit with many a skip of the foot, crying ‘Euoi!’ The wine spurted up in the grapefilled hollow, the runlets were empurpled; pressed by the alternating tread the fruit bubbled out red juice with white foam. They scooped it up with oxhorns, instead of cups which had not yet been seen, so that ever after the cup of mixed wine took this divine name of Winehorn.
+     <br/>
+     And one went bubbling the mindcharming drops of Bakkhos as he turned his wobbling feet in zigzag jerks, crossing right over left in confusion as he wetted his hairy cheeks with Bakkhos's drops. Another skipt up struck with a tippler's madness when he heard the horrid boom of the beaten drumskin. One again who had drunk too deeply of caredispellingwine purpled his dark beard with the rosy liquor. Another turning his unsteady took towards a tree espied a Nymphe half-hidden, unveiled, close at hand; and he would have crawled up he highest tree in the forest, feet slipping, hanging on by his toenails, had not Dionysos held him back. Near the fountains another driven by the insane impulse of drunken excitement, chased a naked Naias of the waters; he would have seized her with hairy hand as she swam, but she gave the slip and dived into deep water. To Dionysos alone had Rheia given the amethyst, which preserves the windedrinker from the tyranny of madness.
+     <br/>
+     Many of the horned Satyroi joined furiously in the festive dancing with sportive steps. One felt within him a new hot madness, the guide to love, and threw a hairy arm round a Bakkhanal (Bacchanal) girl's waist. One shaken by the madness of min-crazing drink laid hold of the girdle of a modest unwedded maid, and as she would have no love-making pulled her back by the dress and touched her rosy thighs from behind. Another dragged back a struggling mystic maiden while kindling the torch for the god's nightly dances, laid timid fingers upon her bosom and pressed the swelling circle of her firm breast."
+    </p>
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/T60.18.html">
+      <img alt="Satyr warrior | Athenian bilingual eye cup C6th B.C. | British Museum, London" class="img-responsive center-block" src="../image/T60.18Satyros.jpg"/>
+     </a>
+     <figcaption>
+      Satyr warrior, Athenian bilingual eye cup C6th B.C.,
+      <a href="http://www.britishmuseum.org/">
+       British Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 13. 43 ff  :
+     </span>
+     <br/>
+     "[Rhea summons rustic daimones to the army of Dionysos for his campaign against the Indians :] The heroic breed of farscatterd champions, the hairy Satyroi (Satyrs), the blood of the Kentauroi (Centaur) tribe, the bushyknee ancient [Seilenos (Silenus)] and his phalanx of Seilenoi (Silens), the regiment of Bassarides--do you sing me these, O Korybantic Mousai (Corybantic Muses)!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 14. 105 ff :
+     </span>
+     <br/>
+     "[The army of Dionysos gathers for a campaign against the Indians :] From these [Maron, Astraios (Astraeus) and Leneus, the three Seilenoi (Silens) sons of Seilenos (Silenus),] had sprung the twiform generation of the muchmarried Satyroi (Satyrs). And the horned Satyroi were commanded by these leaders: Poimenios (Poemenius, Pastoral) and Thiasos (Thiasus), Hypsikeros (Hypsicerus, Tall-horn) and Orestes (Mountain-dweller), and Phlegraios (Phlegraeus) with horned Napaios (Napaeus, of the Glen). There was Gemon, there was bold Lykon (Lycon, the Wolfish) armed; playful Phereus followed laughing tippling Petraios (Petraeus, of the Rocks), hillranging Lamis (of the Hollow) marched with Lenobios (Lenobius), and Skirtos (Scirtus) tripped along beside Oistros (Oestrus). With Pherespondos walked Lykos the loudvoiced herald, and Pronomos renowned for intelligence--all sons of Hermes, when he had joined Iphthime to himself in secret union. She was the daughter of Doros (Dorus), himself sprung from Zeus and a root of the race of Hellen, and Doros was ancestor whence came the Akhaian (Achaean) blood of the Dorian tribe. To these three, Eiraphiotes [Dionysos], entrusted the dignity of the staff of the heavenly herald, their father the source of wisdom. The whole tribe of Satyroi (Satyrs) is boldhearted while they are drunken with bumpers of wine; but in battle they are but braggarts who run away from the fight--hares in the battlefield, lions outside, clever dancers, ho know better than all the world how to ladle strong drink from the full mixing-bowl. Few of these have been men of war, to whom bold Ares has taught all the practice of the fray and how to manage a battalion. Here when Lyaios (Lyaeus) [Dionysos] prepared for war, some of them covered their bodies with raw oxhides, others fortified themselves with skins of shaggy lions, others put on the grim pelts of panthers, others equipped themselves with long pointed staves, others girt about their chests the skins of long-antlered stags dappled like stars in the sky. With these creatures, the two horns on the temples right and left strengthened their sharp points, and a scanty fluff grew on the top of the pointed skull over the crooked eyes. When they ran, the winged breezes blew back their two ears, stretched out straight and flapping against their hairy cheeks : behind them a horse's tail stuck out straight and lashed round their loins on either side."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 14. 247 ff  :
+     </span>
+     <br/>
+     "Craving the delicious wine even more than a Satyros (Satyr)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 17. 89 ff :
+     </span>
+     <br/>
+     "[At the start of Indian War of Dionysos :] He [Dionysos] hasted to a new conflict with Indians in the mountains. Bidding the Satyroi (Satyrs) who were with him to go on at full speed by the upland tracks, he joined himself again to his wild attendant Bakkhantes (Bacchantes)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 17. 192 ff :
+     </span>
+     <br/>
+     "[During the Indian War of Dionysos :] Orontes [the Indian chief] dashed hot upon the front ranks, reaping a harvest in both kinds [men and women]. Not one of all the wide front durst abide the adverse onset of so mighty a champion--ot bold fiery [Kabeiroi (Cabeiri)] Eurymedon, not Alkon (Alcon) his kinsman: [the Seilenos] Astraios (Astraeus) chief of the Satyroi (Satyrs) was in flight, none of the Seilenoi themselves would stand . . . The god, seeing the victory pass to the enemy, and the Satyroi cowed, uttered a loud cry in the turmoil, like an army of nine thousand men the thunderous throats."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 17. 350 ff :
+     </span>
+     <br/>
+     "[During the Indian War of Dionysos :] A leader of the warmad Satyroi (Satyrs) threw Euian leafage and hit a man [an Indian warrior] : his coat of mail was split by the ivy and vine, and the wearer was wounded."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 14. 247 ff :
+     </span>
+     <br/>
+     "[At the close of the first battles of the Indian War:] By this time then . . . the herdsman Pan sang loudly, pouring out his victorious note, drawing on the Satryoi (Satyrs) to dance drunkenly after their war."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 18. 48 ff :
+     </span>
+     <br/>
+     "[Dionysos travels to the land of Assyria :] Maron the god's [Dionysos's] charioteer took up the golden reins of the Mygdonian chariot, and drove the team of stormswift panthers with yokestraps on their necks, spring not the whip, but whizzing a lavish lash to manage the beasts. Satyroi (Satyrs) ran in front, striking up the dance and skipping round and round the hillranging car of Lyaios (Lyaeus) [Dionysos]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 18. 93 ff :
+     </span>
+     <br/>
+     "[Dionysos in the court of the Assyrian king Staphylos (Staphylus) :] The king [Staphylos] harried his servants and stirred up his serfs, to slaughters a herd of fine fat bulls and flocks of sheep for the Saytroi (Satyrs) of bullhorn Dionysos. . . There was dancing too; fragrant air was wafted through a house full of harping, the streets of the city were filled with sweet steamy odours, ample streams of wine made the whole house carouse. Cymbals clanged, panspipes whiffled about the melodious table, double hoboys were droning, the round of the loud-thrumming drum made the hall ring again with its double bangs, there were castanets rattling over that supper!
+     <br/>
+     And there in the midst came Maron, heavy with wine, staggering on unsteady feet and moving to and fro as frenzy drove him. He threw his arms over the shoulders of two Satyroi and supported himself between them, then climbed right up from the ground twisting his legs about them. So he was lifted by the dancing feet of the others, with red skin, his whole face emitting ruddy rays and shining between."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 20. 35 ff :
+     </span>
+     <br/>
+     "[The goddess Eris (Lady Strife) chides Dionysos for abandoning his war with the Indians :] ‘You weave your web of merriment with Stayphylos and Botrys, inglorious, unarmed, singing songs over the wine; you degrade the earthy generation of Satyroi (Satyrs), since they also have touched the bloodless Bacchanal dance and drowned all warlike hopes in their cups.’"
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.13.html">
+      <img alt="Satyr and sleeping nymph | Apulian red-figure kylix C4th B.C. | Metropolitan Museum of Art, New York" class="img-responsive center-block" src="../image/T60.13Satyros_sm.jpg"/>
+     </a>
+     <figcaption>
+      Satyr and sleeping nymph, Apulian red-figure kylix C4th B.C.,
+      <a href="http://www.metmuseum.org/" target="_blank">
+       Metropolitan Museum of Art
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 20. 103 ff :
+     </span>
+     <br/>
+     "[Dionysos resumes his war against the Indians :] He [Dionysos] slipt his feet into wellfitting golden shoes. He threw over his unwearied shoulders the royal robe of bright purple cloth, pinning it with a brooch; his father's proud girdle was round his loins and the sceptre in his hand. Satyroi (Satyrs) yoked the panthers to the red car at the urgent bidding of Dionysos, Seilenoi (Silens) uttered the warcry, Bakkhante (Bacchante) women roared, thrysos in hand. The host gathered and marches line after line to the Indian War; Enyo's [the war-goddess'] pipes resounded, the leaders arranged the battalions in their places. One mounted with an agile leap on the back of a furious bear, whipping the hairy neck as it rushed on tis course; another astride on a wild bull gripped his two flanks with hanging feet, and pricked his hairy belly with his crook to guide the wandering course; a third rode on the back of a shaggy lion, and pulled the hair of his mane instead of a bridle."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 21. 178 ff :
+     </span>
+     <br/>
+     "[Dionysos is driven into the sea by the impious king Lykourgos (Lycurgus) :] The Satyros (Satyr) so full of energy showed a face unsmiling, and languished in sorrow strange to him. The Panes wandered wild through the woods with hillranging hoof, Panes in search of Dionysos, and heard no word of him . . . So they [the companions of Dionysos] were all restless and sad."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 21. 279 ff :
+     </span>
+     <br/>
+     "[Dionysos returns from the sea, where he had been driven by Lykourgos (Lycurgus) :] He found the Seilenoi (Silens) in high glee: Dionysos had come up out the waters and joined the Nymphai Oreiades (Oread Nymphs). The Satyroi (Satyrs) skipt, the Bakkhantes (Bacchantes) danced about, Maron with his old legs led the music between two Bakkhantes, with his arms laid round their necks, and bubbles of fragrant wine at his lips. The Mimallon unveiled trilled a song, how the footstep of Dionysos had come that way again."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 22. 1 ff :
+     </span>
+     <br/>
+     "[The army of Dionysos crosses the Indian river Hydaspes :] When the footforces of Bakkhos (Bacchus) came to the crossing of the pebbly river Indian Hyadaspes . . . then sounded the womanish song of the Bassarides, making Phrygian festival for Lyaios (Lyaeus) [Dionysos] of the Night, and the hairy company of Satyroi (Satyrs) rang out with mystic voice."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 23. 155 ff :
+     </span>
+     <br/>
+     "[The Indian river Hydaspes seeks to drown the army of Dionysos :] [Hydaspes calls out to the hero Aiolos (Aeolus) :] ‘Aiolos--grant me this boon, arm your stormy Winds to be champions against my foes, to fight with the Satyroi (Satyrs), because their host has marched through the waters and made a highroad of Hydaspes for landchariots, because they drive a watery course through my stream! Arm your winds against my ferryman Lyaios (Lyaeus) [Dionysos]! Let the Satyroi's (Satyrs') host be caught in the flood, let my river receive the cariot, let the charioteers be rolled in my flood, let the riders be swallowed in the mad waves! I will not suffer this unnatural passage to be unavenged: for both you and me it is a disgrace, when the warriors of Bromios have made a path for footmen and drivers high and dry! I will destroy the water-traversing lions of Dionysos . . .’
+     <br/>
+     As he spoke, he curved his own stream, and leapt upon Bakkhos (Bacchus) with a volley of foaming surf. A storm of watery trumpets bellowed from the battling waves; the River moaned as it raised the water high, battling against the Satyroi ... A Satyros (Satyr) paddling the flood with his hands waggled his wet tail straight out through the water."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 100 ff :
+     </span>
+     <br/>
+     "[The army of Dionysos crosses the river Hydaspes :] The Satyroi (Satyrs) attended his [Dionysos's] passage, and with them Bakkhante (Bacchante) women and Panes passed through the water."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 123 ff :
+     </span>
+     <br/>
+     "[The army of Dionysos sets up camp in India :] They [the Panes, Satyroi (Satyrs) and Bakkhantes (Bacchantes)] leapt about dancing on the Indian crags, along the rocky paths; then they built shelters undisturbed in the dark forest, and spent the night among the trees. Some went deerhunting with dogs after the long-antlered stags : the Hydriades (Water-Nymphs) of plantloving Dionysos mingled with the Hamadryades of the trees."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 24. 218 ff :
+     </span>
+     <br/>
+     "[The army of Dionysos feasts :] In the forest Bakkhos (Bacchus) held a feast with his Satyroi (Satyrs) and Indian-slaying warriors: bulls were slaughtered, rows of heifers were struck with axes and cut up with knives, whole flocks of sheep were killed from the captured Erythraian herds. Seilenoi (Silens) and Satyroi settled in companies round the table with the god of the thyrsus, all with multitudinous hands partook of the same food. Infinite wine was drunk by all in order; the servers emptied endless fragrant jars as they drew the nectarean juice of the perfect grape."
+     <span class="quote-greek">
+     </span>
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 25. 104 ff :
+     </span>
+     <br/>
+     "[The war of Dionysos against King Perseus and the Argives :] Perseus sickle in hand gave way to Bakkhos (Bacchus) [in battle] with his wand, and fled before the fury of Satyroi (Satyrs) cyring Euoi."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 221 ff :
+     </span>
+     <br/>
+     "[The troops of Dionysos rally for battle in the Indian war :] With this speech he [Dionysos] gave them [his troops] courage. The Bakkhante (Bacchante) women made haste, the Seilenoi (SIlens) shouted the tune of the battle-hymn, the Satyroi (Satyrs) opened their throats and shouted in accord; the sound of the beating drum rang out, beating time with its terrifying boom, the rattling women clanged their double strokes with alternate hands; the shepherd's syrinx piped out its Phrygian notes to summon the host. 
+  In front of the army, pushing to the fray, the Mygdonian torch shone leaping through the air, proclaiming the fiery birth of Bakkhos (Bacchus). The horned brow of old Seilenos (Silenus) sparkled with light; snakes were twined in the unplaited hair of the hillranging Bakkhante women. The Satyroi also fought; they were whitened with mystic chalk, and on their cheeks hung the terrifying false mask of a sham voiceless face. One lashing a maddened tiger against his foes scattered the cars of linked elephants."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 259 ff :
+     </span>
+     <br/>
+     "[Zeus calls on Apollon to aid Dionysos in his war :] ‘Be gracious to Agreus [i.e. Aristaios (Astraeus)] and Dionysos both: as Nomios (the Herdsman), fight for the generation of Satyroi (Satyr) herdsmen.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 27. 290 ff :
+     </span>
+     <br/>
+     "[Zeus calls on Athena to aid Dionysos in his war :] ‘Come now, raise the lance born along with you, shake your goatcape the aegis, the governor of war, be helper to my Satyroi (Satyrs) [in the War against the Indians], because they also wear hairy skins of the mountain goats.’"
+     <span class="quote-latin">
+     </span>
+    </p>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T60.15.html">
+      <img alt="Satyrs with biga chariot | Athenian red-figure stamnos C5th B.C. | Museum of Fine Arts, Boston" class="img-responsive center-block" src="../image/T60.15Satyros_sm.jpg"/>
+     </a>
+     <figcaption>
+      Satyrs with biga chariot, Athenian red-figure stamnos C5th B.C.,
+      <a href="http://www.mfa.org/" target="_blank">
+       Museum of Fine Arts Boston
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 28. 7 ff :
+     </span>
+     <br/>
+     "[The army of Dionysos battles the Indian host :] The host [of Dionysos] came armed in all its many forms, hastening in troops to the Indian War. One [Satyr] with his fleshcutting ivy stormed into battle, guiding a fine car with a team of panthers; one yoked lions of the Erythraian hills to his chariot, and drove the grim pair bristling under the yokestrap. Another sat tight on an unbridled bull, and amused himself by lashing its flanks, as he cast his javelins furiously among the black Indian ranks. Another leapt on the back of the bear of Kybele (Cybele), and attacking the enemy, shaking his vinewrapt thyrsus and scaring the drivers of long-legged elephants. Another shot at the foe with fleshcutting ivy; no sword he had, no round buckler, no deadly spear of battle, but shaking clustered leaves of plants he killed the mailed man with a tiny twig. Thunder crashed like sounding pipes: the Seilenoi (Silens) shouted, the Bakkhai (Bacchae) women came to battle with fawnskins thrown across their chests instead of a corselet. And a Satyros of the mountains sat astride on the back of a lioness, as if he were riding a colt.
+     <br/>
+     The Indians on their part raised the warcry, and the barbarian pipes of war sounded to summon the host and assemble the fighting men. Garlands knocked against helmets, corselet against goatskin, thrysus rushed upon spear, greaves were matched against buckskins; rows of shields pressed against each other as the ranks which carried them met together, footmen against footmen; Pelasgian helmet pushed Mygdonian helmet with highnodding plume . . . 
+  The warshout resounded together with the worship of Bromios, Euian tambours roared, trumpet blared with harp leading the combat and gathering the people, mingled gore with libation, confused bloodshed with dance."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 30. 135 ff :
+     </span>
+     <br/>
+     "[During the Indian War of Dionysos :] Madly he [the Indian Tektaphos (Tectaphus)] pursued the army of Lyaios (Lyaeus) [Dionysos] and sliced through the throat of [the Satyr] Pylaieus the broil-breeder, he struck Onthyrios' brow with pitiless blade, he destroyed broadbreasted Pithos with bare steel."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 32. 143 ff :
+     </span>
+     <br/>
+     "[During the Indian War, Dionysos is driven into a murderous frenzy by the goddess Hera :] Bassarides went scattering and would not come within touch of Lyaios (Lyaeus) [Dionysos], Satyroi (Satyrs) shivered and hid in the sea; they would not come near him, dazed at the threatening onset, lest he dash at them letting out that outlandish roar, spitting snowy foam, the witness of madness."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 34. 128 ff :
+     </span>
+     <br/>
+     "[Dionysos driven mad by Hera retreats from the war :] The Satyroi (Satyrs) made no noise, no sound echoed as of yore from the pipes to awaken the conflict. The Seilenoi (Silens) went to battle in sober silence with their wits about them; they had not painted their faces with crimson like fresh blood, nor purpled their yellow skin to deceive and affright, nor daubed their foreheads with white chalk as usual. The Panes had drunk no hot blood fresh from the veins of a lioness of the wilds, and rushed not swift as the wind frenzied into the conflict, but they were mild with fear : hesitating they pawed the ground with gentle noiseless hooves, and ceased the terrible leaps of their highland dance."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 36. 140 ff :
+     </span>
+     <br/>
+     "[The Indian king Deriades rallies his troops :] ‘This day either I shall drag Dionysos by the hair, or his assault shall destroy the Indian nation! You, fall on the Satyroi (Satyrs) and check them by main force: let Deriades confront Dionysos. Burn the vine plants and all the various gear of Bakkhos (Bacchus) and set fire to their camp; bring the Mainalides as slaves to triumphant Deriades; consume with fire every thrysus of the enemy; ads for the oxhorned Seilenoi (Silens) and the crowds of Satyroi, shear off like a crop all their heads with devastating steel, and hang the oxhorned skulls in strings round all our hourses. May Phaethon [Helios the Sun] not turn his fireblazing horses to his setting before I bring in the Satyroi, and Bakkhos bound with galling fetters, with his spotted cloak torn to rags on his chest by my spear nad his thyrsus thrown away. Burn to ashes with my brand the long flowing hair of the women and their wreaths of vine!'"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 36. 433 ff :
+     </span>
+     <br/>
+     "[Morrheus addresses his Indian troops :] ‘You know also what I have done in resisting Dionysos, fighting Satyroi (Satyrs), and cutting of the hateful heads of that oxhorned generation with shearing steel.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 37. 10 ff :
+     </span>
+     <br/>
+     "[During a pause in the fighting during the Indian War :] When Dionysos saw friendly calm instead of war, early in the morning he sent out mules and their attendant men to bring dry wood from the mountains, that he might burn with fire the dead body of Opheltes.
+     <br/>
+     Their leader into the forest of pines was Phaunos [Faunus] who was well practised in the secrets of the lonely thickets . . . Parties coming up would often meet, men on the hills traversing different mountain-paths. One saw them up aloft, out in front, coming down, crossing over, with feet wandering in all directions. The sticks were packed in bundles with ropes well twisted and fastened tight and trim, and laid on the mules' backs; the animals set out in lines, and the hooves rang on the mountain-paths as they hurried along, the surface of the sandy dust was burdened by heavy logs dragged behind. Satyroi (Satyrs) and Panes were busy; some cut wood with axes, some pulled it from tree after tree with their hands, or lifted trunks with untiring arms and rattled over the rocks with dancing feet."
+    </p>
+    <figure class="image-main image-main-50pct">
+     <a href="../Gallery/Z39.1.html">
+      <img alt="Satyr and Maenad | Greco-Roman mosaic from Pompeii C1st A.D. | Naples National Archaeological Museum" class="img-responsive center-block" src="../image/Z39.1Satyros.jpg"/>
+     </a>
+     <figcaption>
+      Satyr and Maenad, Greco-Roman mosaic from Pompeii C1st A.D.,
+      <a href="http://cir.campania.beniculturali.it/museoarcheologiconazionale" target="_blank">
+       Naples National Archaeological Museum
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 38. 1 ff :
+     </span>
+     <br/>
+     "[Troops of Dionysos wander trhough the Indian wilds :] The people retired into the recesses of the forest, and entered their huts. The rustic Panes housed themselves under shelter in the ravines, for they occupied at evening time the natural caverns of a lioness in the wilds. The Satyroi (Satyrs) dived into a bear's cave, and hollowed their little bed in the rock with sharp finger-nails in place of cutting steel; until the light-brining morning shone, and the brightness of Eos (the Dawn) newly risen showed itself peacefully to both Indians and Satyroi."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 39. 328 ff :
+     </span>
+     <br/>
+     "[During the Indian War :] Korymbasos (Corymbasus) [king of the Aithiopians (Ethiopians)] cast a lance at a Satyros' (Satyr's) tail, but the lance missed him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 40. 151 ff :
+     </span>
+     <br/>
+     "[The Indian princess Kheirobie (Chirobia) speaks :] ‘Save me from sleeping in the arms of a horned Satyros (Satyr).’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 43. 307 ff :
+     </span>
+     <br/>
+     "[Poseidon led the gods of the sea against the companions of Dionysos in the contest for maiden Beroe :] Satyroi (Satyrs) also bustled about in dancing tumult, trusting to the horns on their bull-heads, while the straight tail draggled from their loins for a change as they hurried."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 45. 318 ff :
+     </span>
+     <br/>
+     "A Satyros (Satyr) rushed along carrying a snarling beast, a dangerous tiger which sat on his back, which for all its wild nature did nit touch the bearer."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 47. 478 ff :
+     </span>
+     <br/>
+     "[Dionysos and his companions are driven out of Argos by King Perseus :] The people [of Argos] would not receive him [Dionysos]; they chased away the danceweaving women and Satyroi (Satyrs); they repudiated the thyrsus, lest Hera should be jealous and destroy her Pelasgian seat [of Argos] . . .
+     <br/>
+     [Hera urges Perseus to fight :] ‘Make war on the Satyroi too: turn towards battling Lyaios (Lyaeus) the deadly eye of snakehair Medousa (Medusa), and let me see a new Polydektes (Polydectes) made stone . . . 
+  Kill the array of bull-horned Satyroi (Satyrs), change with the Gorgon's eye the human countenances of the Bassarides into like images selfmade; with the beauty of the stone copies adorn your streets, and make statues like an artist for the Inakhian market-places.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 48. 188 ff :
+     </span>
+     <br/>
+     "[The wedding of Dionysos and Pallene :] That was a wedding of many songs: the bridechamber was never silent, Seilenoi (Silens) chanted, Bakkhantes (Bacchantes) danced, drunken Satyroi (Satyrs) wove a hymn of love and sang the alliance which came of this victorious match."
+    </p>
+    <hr/>
+    <h3 id="Names">
+     NAMES OF DIONYSUS' SATYRS IN NONNUS' DIONYSIACA
+    </h3>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Ποιμενιος
+      </p>
+      <p class="names-greek">
+       Θιασος
+      </p>
+      <p class="names-greek">
+       Ὑπσικερως
+      </p>
+      <p class="names-greek">
+       Ορεστης
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Poimenios
+      </p>
+      <p>
+       Thiasos
+      </p>
+      <p>
+       Hypsikerôs
+      </p>
+      <p>
+       Orestês
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Poemenius
+      </p>
+      <p>
+       Thiasus
+      </p>
+      <p>
+       Hypsicerus
+      </p>
+      <p>
+       Orestes
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Of Shepherds (
+       <em>
+        poimenios
+       </em>
+       )
+      </p>
+      <p>
+       Religious Troop (
+       <em>
+        thiasos
+       </em>
+       )
+      </p>
+      <p>
+       High-Horned (
+       <em>
+        hypo-, keras
+       </em>
+       )
+      </p>
+      <p>
+       Of the Mountains (
+       <em>
+        orestias
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Φλεγραιος
+      </p>
+      <p class="names-greek">
+       Ναπαιος
+      </p>
+      <p class="names-greek">
+       Γεμον
+      </p>
+      <p class="names-greek">
+       Λυκων
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Phlegraios
+      </p>
+      <p>
+       Napaios
+      </p>
+      <p>
+       Gemon
+      </p>
+      <p>
+       Lykôn
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Phlegraeus
+      </p>
+      <p>
+       Napaeus
+      </p>
+      <p>
+       Gemon
+      </p>
+      <p>
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Burning Passion (
+       <em>
+        phlegô
+       </em>
+       )
+      </p>
+      <p>
+       Of the Wooded Vale (
+       <em>
+        napaios
+       </em>
+       )
+      </p>
+      <p>
+       Of the Load (
+       <em>
+        gemos
+       </em>
+       )
+      </p>
+      <p>
+       Of the Wolf, Wolfish (
+       <em>
+        lykos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Φερευς
+      </p>
+      <p class="names-greek">
+       Πετραιος
+      </p>
+      <p class="names-greek">
+       Λαμις
+      </p>
+      <p class="names-greek">
+       Ληνοβιος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Phereus
+      </p>
+      <p>
+       Petraios
+      </p>
+      <p>
+       Lamis
+      </p>
+      <p>
+       Lênobios
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Phereus
+      </p>
+      <p>
+       Petraeus
+      </p>
+      <p>
+       Lamis
+      </p>
+      <p>
+       Lenobius
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Of the Wild Beasts (
+       <em>
+        phêr, thêr
+       </em>
+       )
+      </p>
+      <p>
+       Of the Rocks (
+       <em>
+        petraios
+       </em>
+       )
+      </p>
+      <p>
+       Of the Hollows, Gluttonous ?
+      </p>
+      <p>
+       Wine-Vat Treader
+       <em>
+        (lênos, batês
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Σκιρτος
+      </p>
+      <p class="names-greek">
+       Οιστρος
+      </p>
+      <p class="names-greek">
+       Προνομος
+      </p>
+      <p class="names-greek">
+       Φερεσπονδος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Skirtos
+      </p>
+      <p>
+       Oistros
+      </p>
+      <p>
+       Pronomos
+      </p>
+      <p>
+       Pherespondos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Scirtus
+      </p>
+      <p>
+       Oestrus
+      </p>
+      <p>
+       Pronomus
+      </p>
+      <p>
+       Pherespondus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Leaping, Bounding (
+       <em>
+        skirtaô
+       </em>
+       )
+      </p>
+      <p>
+       Sting, Passion, Frenzy (
+       <em>
+        oistros
+       </em>
+       )
+      </p>
+      <p>
+       Forward Grazing (
+       <em>
+        pro-, nomos
+       </em>
+       )
+      </p>
+      <p>
+       Bringing Offerings (
+       <em>
+        pherô, spondê
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Λυκος
+      </p>
+      <p class="names-greek">
+       Αμπελος
+      </p>
+      <p class="names-greek">
+       Κισσος
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Lykos
+      </p>
+      <p>
+       Ampelos
+      </p>
+      <p>
+       Kissos
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Lycus
+      </p>
+      <p>
+       Ampelus
+      </p>
+      <p>
+       Cissus
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Wolf (
+       <em>
+        lykos
+       </em>
+       )
+      </p>
+      <p>
+       Grapevine (
+       <em>
+        ampelos
+       </em>
+       )
+      </p>
+      <p>
+       Ivy (
+       <em>
+        kissos
+       </em>
+       )
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h3 id="Satyrides">
+     SATYRS OF THE SATYRIDES ISLANDS
+    </h3>
+    <figure class="image-main image-main-350">
+     <a href="../Gallery/S39.1.html">
+      <img alt="Barberini Faun | Greco-Roman marble statue from Mausoleum of Hadrian | Glyptothek, Munich" class="img-responsive center-block" src="../image/S39.1Satyros.jpg"/>
+     </a>
+     <figcaption>
+      Reclining Satyr "Barberini Faun", Greco-Roman marble statue from Mausoleum of Hadrian,
+      <a href="http://www.antike-am-koenigsplatz.mwn.de/en/glyptothek-munich.html" target="_blank">
+       Glyptothek
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 23. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "Wishing to know better than most people who the Satyroi (Satyrs) are I have inquired from many about this very point. Euphemos the Karian (Carian) said that on a voyage to Italia he was driven out of his course by winds and was carried into the outer sea, beyond the course of seamen. He affirmed that there were many uninhabited islands, while in others lived wild men. The sailors did not wish to put in at the latter, because, having put in before, they had some experience of the inhabitants, but on this occasion they had no choice in the matter. The islands were called Satyrides by the sailors, and the inhabitants were red haired, and had upon their flanks tails not much smaller than those of horses. As soon as they caught sight of their visitors, they ran down to the ship without uttering a cry and assaulted the women in the ship. At last the sailors in fear cast a foreign woman on to the island. Her the Satyroi (Satyrs) outraged not only in the usual way, but also in a most shocking manner."
+    </p>
+    <hr/>
+    <h3 id="Cult">
+     SATYRS IN CULT ART
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 14. 2. 5 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "The city of the Rhodians lies on the eastern promontory of Rhodes . . . [and it] has been adorned with many votive offerings, which for the most part are to be found in the Dionysion (Temple of Dionysos) . . . and there are also the paintings of Protogenes, his Ialysos and also his Satyros (Satyr), the latter standing by a pillar, on top of which stood a male partridge. And at this partridge, as would be natural, the people were so agape when the picture had only recently been set up, that they would behold him with wonder but overlook the Satyros, although the latter was a very great success."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 43. 5 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "[The temple of Dionysos in Megara :] By the side of it  is a Satyros (Satyr) of Parian marble."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callistratus, Descriptions 1 (trans. Fairbanks) (Greek rhetorician C4th A.D.) :
+     </span>
+     <br/>
+     "[A description of an ancient Greek statue :] On a Satyros (Satyr). There was a certain cave near Thebes in Egypt which resembled a shepherd's pipe, since as it followed its winding course in the depths of the earth it formed a natural spiral; for it did not take a straight course at the opening and then branch off into straight-running corridors, but winding about under the mountain it made a huge spiral, ending in a most difficult maze. In it was set up an image of a Satyros wrought in marble. He stood on a base in the attitude of one making ready to dance, and lifting the sole of his right foot backward he not only held a flute in his hand but also was being the first to leap up at its sound; though in reality the flute's note was not reaching the player's ear, nor yet was the flute endowed with voice, but the physical effect which flute-players experience had been transferred to the stone by the skill of the artist. You could have seen the veins standing out as though they were filled with a sort of breath, the Satyros drawing the air from his lungs to bring notes from the flute, the statue eager to be in action, and the stone entering upon strenuous activity--for it persuaded you that the power to blow the flute was actually inherent in it, and that the indication of breathing was the result of its own inner powers--finding a way to accomplish the impossible. The body had no trace of delicacy, but the hardness of the members had stolen away their beauty, making the form rugged with the symmetry of manly limbs. For though soft skin and dainty limbs befit a beautiful girl, the appearance of a Satyros is unkempt, as of a mountain spirit (
+     <em>
+      daimon oreios
+     </em>
+     ) that leaps in honour of Dionysos. The statue was wreathed with ivy, though the sculptor's art did not cull real berries from a meadow, nay, rather, it was the stone which for all its hardness spread out into sprays and encircled the hair, creeping back from the forehead till the ends met at the sinews of the neck. Pan stood beside him, delighting in the music of the flute and embracing Ekho (Echo), in fear, I suppose, lest the flute set in motion some musical sound and induce the Nymphe to make an echoing response to the Satyros."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.9.html">
+        <img alt="Thumbnail Satyr with Wine Jug" src="../image/thumbT60.9.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.9 Satyr with Wine Jug
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.6.html">
+        <img alt="Thumbnail Dionysus &amp; Satyriscus" src="../image/thumbK12.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.6 Dionysus &amp; Satyriscus
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.8.html">
+        <img alt="Thumbnail Satyr with Rhyton" src="../image/thumbT60.8.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.8 Satyr with Rhyton
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.15.html">
+        <img alt="Thumbnail Satyr Chariot" src="../image/thumbT60.15.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.15 Satyr Chariot
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.6.html">
+        <img alt="Thumbnail Satyr with Wineskin" src="../image/thumbT60.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.6 Satyr with Wineskin
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.7.html">
+        <img alt="Thumbnail Satyr with Wine Jug" src="../image/thumbT60.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.7 Satyr with Wine Jug
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.3.html">
+        <img alt="Thumbnail Satyr with Wineskin" src="../image/thumbT60.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.3 Satyr with Wineskin
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.11.html">
+        <img alt="Thumbnail Satyr with Wineskin" src="../image/thumbT60.11.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.11 Satyr with Wineskin
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.17.html">
+        <img alt="Thumbnail Satyr Herald" src="../image/thumbT60.17.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.17 Satyr Herald
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.16.html">
+        <img alt="Thumbnail Satyr Dancer" src="../image/thumbT60.16.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.16 Satyr Dancer
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.18.html">
+        <img alt="Thumbnail Satyr Warrior" src="../image/thumbT60.18.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.18 Satyr Warrior
+        </h3>
+        <p>
+         Athenian Bilingual Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.5.html">
+        <img alt="Thumbnail Satyr with Spear &amp; Shield" src="../image/thumbT60.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.5 Satyr Warrior
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.2.html">
+        <img alt="Thumbnail Satyr &amp; Maenad Nymph" src="../image/thumbT60.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.2 Satyr &amp; Maenad Nymph
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.10.html">
+        <img alt="Thumbnail Satyr &amp; Maenad Nymph" src="../image/thumbT60.10.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.10 Satyr &amp; Maenad Nymph
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.12.html">
+        <img alt="Thumbnail Satyr &amp; Sleeping Nymph" src="../image/thumbT60.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.12 Satyr &amp; Sleeping Nymph
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.1.html">
+        <img alt="Thumbnail Satyr &amp; Maenad Nymph" src="../image/thumbT60.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.1 Satyr &amp; Maenad Nymph
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.13.html">
+        <img alt="Thumbnail Satyr &amp; Sleeping Nymph" src="../image/thumbT60.13.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.13 Satyr &amp; Sleeping Nymph
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.3.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbK12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.3 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.4.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbK12.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.4 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <img alt="Thumbnail Dionysus &amp; Satyriscus" src="../image/thumbK12.2B.jpg"/>
+       <div class="caption">
+        <h3>
+         K12.2B Dionysus &amp; Satyriscus
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.7.html">
+        <img alt="Thumbnail Dionysus &amp; Satyrs" src="../image/thumbK12.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.7 Dionysus &amp; Satyrs
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.14.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbT60.14.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.14 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.5.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbK12.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.5 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K12.12.html">
+        <img alt="Thumbnail Dionysus &amp; Satyrs" src="../image/thumbK12.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K12.12 Dionysus &amp; Satyrs
+        </h3>
+        <p>
+         Athenian Bilingual Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T60.4.html">
+        <img alt="Thumbnail Satyr with Double-Flute" src="../image/thumbT60.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T60.4 Satyr with Double-Flute
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K22.3.html">
+        <img alt="Thumbnail Pan &amp; Satyriscus" src="../image/thumbK22.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K22.3 Pan &amp; Satyriscus
+        </h3>
+        <p>
+         Paestan Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K11.4.html">
+        <img alt="Thumbnail Hermes, Satyr, Deer" src="../image/thumbK11.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K11.4 Hermes, Satyr, Deer
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.2.html">
+        <img alt="Thumbnail Hephaestus &amp; Satyrs" src="../image/thumbK7.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.2 Hephaestus &amp; Satyrs
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.11.html">
+        <img alt="Thumbnail Hephaestus &amp; Satyrs" src="../image/thumbK7.11B.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.11 Hephaestus &amp; Satyrs
+        </h3>
+        <p>
+         Ionian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.12.html">
+        <img alt="Thumbnail Hephaestus &amp; Satyrs" src="../image/thumbK7.12.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.12 Hephaestus &amp; Satyrs
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <img alt="Thumbnail Hephaestus &amp; Satyr" src="../image/thumbK7.5B.jpg"/>
+       <div class="caption">
+        <h3>
+         K7.5B Hephaestus &amp; Satyr
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/K7.5.html">
+        <img alt="Thumbnail Hephaestus &amp; Satyrs" src="../image/thumbK7.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         K7.5 Hephaestus &amp; Satyrs
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z39.2.html">
+        <img alt="Thumbnail Satyr &amp; Maenad Nymph" src="../image/thumbZ39.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z39.2 Satyr &amp; Maenad Nymph
+        </h3>
+        <p>
+         Greco-Roman Samandag Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.7.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbZ12.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.7 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Greco-Roman Antioch Floor Mosaic C4th A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.7.html">
+        <img alt="Thumbnail Zeus as Satyr &amp; Antiope" src="../image/thumbZ1.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.7 Zeus as Satyr &amp; Antiope
+        </h3>
+        <p>
+         Greco-Roman Zeugma Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z1.6.html">
+        <img alt="Thumbnail Zeus as Satyr &amp; Antiope" src="../image/thumbZ1.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z1.6 Zeus as Satyr &amp; Antiope
+        </h3>
+        <p>
+         Greco-Roman Zeugma Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z39.1.html">
+        <img alt="Thumbnail Satyr &amp; Maenad Nymph" src="../image/thumbZ39.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z39.1 Satyr &amp; Maenad Nymph
+        </h3>
+        <p>
+         Greco-Roman Pompeii Fresco C1st A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.3.html">
+        <img alt="Thumbnail Dionysus &amp; Satyrs" src="../image/thumbZ12.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.3 Dionysus &amp; Satyrs
+        </h3>
+        <p>
+         Greco-Roman Sousse Floor Mosaic C3rd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z12.4.html">
+        <img alt="Thumbnail Dionysus &amp; Satyrs" src="../image/thumbZ12.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z12.4 Dionysus &amp; Satyrs
+        </h3>
+        <p>
+         Greco-Roman El Jem Floor Mosaic C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S39.1.html">
+        <img alt="Thumbnail Reclining Satyr" src="../image/thumbS39.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S39.1 Reclining Satyr
+        </h3>
+        <p>
+         Greco-Roman Marble Statue A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S39.7.html">
+        <img alt="Thumbnail Satyr with Flute" src="../image/thumbS39.7.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S39.7 Satyr with Flute
+        </h3>
+        <p>
+         Greco-Roman Marble Statue A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S39.4.html">
+        <img alt="Thumbnail Satyr with Grapes" src="../image/thumbS39.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S39.4 Satyr with Grapes
+        </h3>
+        <p>
+         Greco-Roman Marble Statue A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/R12.1.html">
+        <img alt="Thumbnail Dionysus &amp; Satyr" src="../image/thumbR12.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         R12.1 Dionysus &amp; Satyr
+        </h3>
+        <p>
+         Greco-Roman Bas-relief C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S39.2.html">
+        <img alt="Thumbnail Pan &amp; Satyr" src="../image/thumbS39.2.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S39.2 Pan &amp; Satyr
+        </h3>
+        <p>
+         Greco-Roman Marble Statue A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S39.3.html">
+        <img alt="Thumbnail Pan &amp; Satyr" src="../image/thumbS39.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S39.3 Pan &amp; Satyr
+        </h3>
+        <p>
+         Greco-Roman Marble Statue A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S39.5.html">
+        <img alt="Thumbnail Satyr at Rest" src="../image/thumbS39.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S39.5 Satyr at Rest
+        </h3>
+        <p>
+         Greco-Roman Statue C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/S39.6.html">
+        <img alt="Thumbnail Pan &amp; Satyr" src="../image/thumbS39.6.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         S39.6 Pan &amp; Satyr
+        </h3>
+        <p>
+         Greco-Roman Statue C2nd A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodMiscellany.html">
+       Hesiod, Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Aesop, Fables
+      <span class="sources-detail">
+       - Greek Fables C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric II Anacreontea, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OrphicHymns1.html">
+       The Orphic Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Hymns C3rd B.C. - C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, Historical Miscellany
+      <span class="sources-detail">
+       - Greek Rhetoric C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      Athenaeus, Deipnosophistae
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusYounger.html">
+       Philostratus the Younger, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Callistratus.html">
+       Callistratus, Descriptions
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C4th A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Fasti
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/OvidHeroides1.html">
+       Ovid, Heroides
+      </a>
+      <span class="sources-detail">
+       - Latin Poetry C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Cicero, De Natura Deorum
+      <span class="sources-detail">
+       - Latin Rhetoric C1st B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      Statius, Silvae
+      <span class="sources-detail">
+       - Latin Poetry C1st A.D.
+      </span>
+     </li>
+     <li>
+      Apuleius, The Golden Ass
+      <span class="sources-detail">
+       - Latin Novel C2nd A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     SATYRS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE DAEMON SATYRS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Various
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Gods of
+       </th>
+       <td>
+        Fertility
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Home
+       </th>
+       <td>
+        Earth
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Symbols
+       </th>
+       <td>
+        Wineskin, drinking-horn, double-flute
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Roman Name
+       </th>
+       <td>
+        Fauns
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     SATYRS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of the Satyrs
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#List">
+       List of Named Satyrs
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of the Satyrs
+      </a>
+     </li>
+     <li>
+      <a href="#Plays">
+       Satyrs &amp; the Satyr Plays
+      </a>
+     </li>
+     <li>
+      <a href="#Gigantes">
+       Satyrs &amp; the War of the Giants
+      </a>
+     </li>
+     <li>
+      <a href="#Panoptes">
+       Argus Panoptes &amp; the Satyr
+      </a>
+     </li>
+     <li>
+      <a href="#Amymone">
+       Amymone &amp; the Argive Satyr
+      </a>
+     </li>
+     <li>
+      <a href="#Antiope">
+       Zeus' Seduction of Antiope as a Satyr
+      </a>
+     </li>
+     <li>
+      <a href="#Miscellany">
+       Satyrs Poetical Miscellany
+      </a>
+     </li>
+     <li>
+      <a href="#Dionysos">
+       Satyrs of Dionysus in Nonnus' Dionysiaca
+      </a>
+     </li>
+     <li>
+      <a href="#Names">
+       Names of Dionysus' Satyrs
+      </a>
+     </li>
+     <li>
+      <a href="#Satyrides">
+       Satyrs of the Satyrides Islands
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Satyrs in Cult Art
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

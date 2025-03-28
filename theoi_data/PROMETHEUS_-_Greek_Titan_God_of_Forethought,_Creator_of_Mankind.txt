@@ -1,0 +1,3751 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- InstanceBegin template="/Templates/Entry_Long.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   PROMETHEUS - Greek Titan God of Forethought, Creator of Mankind
+  </title>
+  <meta content="Prometheus was the ancient Greek Titan-god of forethought and crafty counsel who was given the task of moulding mankind out of clay. His attempts to better the lives of his creation brought him into conflict with Zeus. Firstly he tricked the gods out of the best portion of the sacrificial feast, acquiring the meat for the feasting of man. Then, when Zeus withheld fire, he stole it from heaven and delivered it to mortal kind hidden inside a fennel-stalk. As punishment for these rebellious acts, Zeus ordered the creation of Pandora (the first woman) as a means to deliver misfortune into the house of man, or as a way to cheat mankind of the company of the good spirits. Prometheus meanwhile, was arrested and bound to a stake on Mount Caucasus where an eagle was set to feed upon his ever-regenerating liver." name="description"/>
+  <meta content="Prometheus, Titan, Greek mythology, Greek god of forethought, creator of man, benefactor of man, Prometheus pictures" name="keywords"/>
+  <!-- InstanceEndEditable -->
+  <meta content="nopin" name="pinterest">
+   <!-- Bootstrap -->
+   <link href="../css/bootstrap.css" rel="stylesheet"/>
+   <link href="../css/entry.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceBeginEditable name="stylesheet" -->
+   <link href="../css/entry-sun.css" rel="stylesheet" type="text/css"/>
+   <!-- InstanceEndEditable -->
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+   <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+   <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website.","dismiss":"Ok","learnMore":"More info.","link":"https://www.theoi.com/privacy-policy.html","theme":"light-bottom"};
+   </script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+   </script>
+   <!-- End Cookie Consent plugin -->
+   <!-- InstanceBeginEditable name="head" -->
+   <!-- InstanceEndEditable -->
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <!-- Sekindo video DFP start -->
+   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+   </script>
+   <script>
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.defineSlot('/8491498/theoi_sekindo_video', [643, 438], 'div-gpt-ad-1534358649203-0').addService(googletag.pubads());
+googletag.defineSlot('/8491498/theoi_sekindo_video_mobile', [300, 250], 'div-gpt-ad-1534358677220-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+})
+   </script>
+   <!-- Sekindo video DFP end -->
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5KC4JR');
+   </script>
+   <!-- End Google Tag Manager -->
+   <script>
+    var propertag = propertag || {};
+propertag.cmd = propertag.cmd || [];
+(function() {
+var pm = document.createElement('script');
+pm.async = true; pm.type = 'text/javascript';
+var is_ssl = 'https:' == document.location.protocol;
+pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/theoi.min.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(pm, node);
+})();
+   </script>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript)1 -->
+  <!-- old gym -->
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="container" id="wrapper">
+   <header>
+    <div id="border-header">
+     .
+    </div>
+    <nav class="navbar navbar-default">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#defaultNavbar1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        Theoi Project - Greek Mythology
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="defaultNavbar1">
+       <ul class="nav navbar-nav">
+        <li>
+         <a href="/">
+          HOME
+         </a>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OLYMPIANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Olympios/Aphrodite.html">
+            Aphrodite
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Apollon.html">
+            Apollo
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Ares.html">
+            Ares
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Artemis.html">
+            Artemis
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Athena.html">
+            Athena
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Demeter.html">
+            Demeter
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Dionysos.html">
+            Dionysus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hephaistos.html">
+            Hephaestus
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hera.html">
+            Hera
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Hermes.html">
+            Hermes
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hestia.html">
+            Hestia
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Poseidon.html">
+            Poseidon
+           </a>
+          </li>
+          <li>
+           <a href="../Olympios/Zeus.html">
+            Zeus
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Asklepios.html">
+            Asclepius
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Kharites.html">
+            Charites
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Eros.html">
+            Eros
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Hebe.html">
+            Hebe
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Horai.html">
+            Horae
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Iris.html">
+            Iris
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Mousai.html">
+            Muses
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Nike.html">
+            Nike
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/olympian-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          OTHER GODS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/primeval-gods.html">
+            Primordial Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sky-gods.html">
+            Sky Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/sea-gods.html">
+            Sea Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/rustic-gods.html">
+            Rustic Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/underworld-gods.html">
+            Underworld Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/personifications.html">
+            Daemones-Spirits
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/nymphs.html">
+            Nymphs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Amphitrite.html">
+            Amphitrite
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Eris.html">
+            Eris
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Moirai.html">
+            Fates-Moirae
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Erinyes.html">
+            Furies-Erinyes
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Gaia.html">
+            Gaea
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Hekate.html">
+            Hecate
+           </a>
+          </li>
+          <li>
+           <a href="../Daimon/Hypnos.html">
+            Hypnos
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Nyx.html">
+            Nyx
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Pan.html">
+            Pan
+           </a>
+          </li>
+          <li>
+           <a href="../Khthonios/Persephone.html">
+            Persephone
+           </a>
+          </li>
+          <li>
+           <a href="../Potamos/Potamoi.html">
+            River-Gods
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Seilenos.html">
+            Silenus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Triton.html">
+            Triton
+           </a>
+          </li>
+          <li>
+           <a href="../Protogenos/Ouranos.html">
+            Uranus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/greek-gods.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          TITANS
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="Titanes.html">
+            Titans
+           </a>
+          </li>
+          <li>
+           <a href="Kyklopes.html">
+            Cyclopes
+           </a>
+          </li>
+          <li>
+           <a href="Hekatonkheires.html">
+            Hecatoncheires
+           </a>
+          </li>
+          <li>
+           <a href="TitanisAsteria.html">
+            Asteria
+           </a>
+          </li>
+          <li>
+           <a href="TitanAstraios.html">
+            Astraeus
+           </a>
+          </li>
+          <li>
+           <a href="TitanAtlas.html">
+            Atlas
+           </a>
+          </li>
+          <li>
+           <a href="TitanKronos.html">
+            Cronus
+           </a>
+          </li>
+          <li>
+           <a href="Eos.html">
+            Eos
+           </a>
+          </li>
+          <li>
+           <a href="TitanEpimetheus.html">
+            Epimetheus
+           </a>
+          </li>
+          <li>
+           <a href="Helios.html">
+            Helius
+           </a>
+          </li>
+          <li>
+           <a href="TitanIapetos.html">
+            Iapetus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisLeto.html">
+            Leto
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMetis.html">
+            Metis
+           </a>
+          </li>
+          <li>
+           <a href="TitanisMnemosyne.html">
+            Mnemosyne
+           </a>
+          </li>
+          <li>
+           <a href="TitanOkeanos.html">
+            Oceanus
+           </a>
+          </li>
+          <li>
+           <a href="TitanPrometheus.html">
+            Prometheus
+           </a>
+          </li>
+          <li>
+           <a href="TitanisRhea.html">
+            Rhea
+           </a>
+          </li>
+          <li>
+           <a href="Selene.html">
+            Selene
+           </a>
+          </li>
+          <li>
+           <a href="TitanisTethys.html">
+            Tethys
+           </a>
+          </li>
+          <li>
+           <a href="TitanisThemis.html">
+            Themis
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/titans.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          BESTIARY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Ther/HusKalydonios.html">
+            Calydonian Boar
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/KentauroiThessalioi.html">
+            Centaurs
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/KuonKerberos.html">
+            Cerberus
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Kharybdis.html">
+            Charybdis
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Khimaira.html">
+            Chimera
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/dragons.html">
+            Dragons
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakainaEkhidna1.html">
+            Echidna
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/giants.html">
+            Giants
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Gorgons
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Grypes.html">
+            Griffons
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Harpyiai.html">
+            Harpies
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/DrakonHydra.html">
+            Hydra
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Gorgones.html">
+            Medusa
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Minotauros.html">
+            Minotaur
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/LeonNemeios.html">
+            Nemean Lion
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/HipposPegasos.html">
+            Pegasus
+           </a>
+          </li>
+          <li>
+           <a href="../Thaumasios/Phoinix.html">
+            Phoenix
+           </a>
+          </li>
+          <li>
+           <a href="../Georgikos/Satyroi.html">
+            Satyrs
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Skylla.html">
+            Scylla
+           </a>
+          </li>
+          <li>
+           <a href="../Pontios/Seirenes.html">
+            Sirens
+           </a>
+          </li>
+          <li>
+           <a href="../Ther/Sphinx.html">
+            Sphinx
+           </a>
+          </li>
+          <li>
+           <a href="../Gigante/Typhoeus.html">
+            Typhoeus
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/bestiary.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          HEROES
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../Heroine/Arakhne.html">
+            Arachne
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Atalanta.html">
+            Atalanta
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Bellerophontes.html">
+            Bellerophon
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Kallisto.html">
+            Callisto
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Danae.html">
+            Danae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Deukalion.html">
+            Deucalion
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Endymion.html">
+            Endymion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heracles.html">
+            Heracles
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Hyakinthos.html">
+            Hyacinthus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Io.html">
+            Io
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Leda.html">
+            Leda
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Lykaon.html">
+            Lycaon
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Midas.html">
+            Midas
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Narkissos.html">
+            Narcissus
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/Pandora.html">
+            Pandora
+           </a>
+          </li>
+          <li>
+           <a href="Pasiphae.html">
+            Pasiphae
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pelops.html">
+            Pelops
+           </a>
+          </li>
+          <li>
+           <a href="../Heroine/AmazonPenthesileia.html">
+            Penthesilea
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Perseus.html">
+            Perseus
+           </a>
+          </li>
+          <li>
+           <a href="Phaethon.html">
+            Phaethon
+           </a>
+          </li>
+          <li>
+           <a href="../Ouranios/Psykhe.html">
+            Psyche
+           </a>
+          </li>
+          <li>
+           <a href="../Heros/Pygmalion.html">
+            Pygmalion
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/heroes.html">
+            more &gt;&gt;
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          MISCELLANY
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li>
+           <a href="../greek-mythology/encyclopedia-a.html">
+            Gods, Spirits &amp; Monsters A-Z
+           </a>
+          </li>
+          <li>
+           <a href="../Tree.html">
+            Family Tree of the Gods
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fabulous-tribes.html">
+            Legendary Tribes
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/fantastic-creatures.html">
+            Legendary Creatures
+           </a>
+          </li>
+          <li>
+           <a href="../greek-mythology/star-myths.html">
+            Star Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Flora1.html">
+            Plant &amp; Flower Myths
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Olympos.html">
+            Mount Olympus
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Haides.html">
+            Hades
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Elysion.html">
+            Elysium
+           </a>
+          </li>
+          <li>
+           <a href="../Kosmos/Tartaros.html">
+            Tartarus
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Atlantes.html">
+            Atlantis
+           </a>
+          </li>
+          <li>
+           <a href="../Phylos/Hyperborea.html">
+            Hyperborea
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="../Galleries.html">
+          GALLERY
+         </a>
+        </li>
+        <li>
+         <a href="../Library.html">
+          TEXTS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container-fluid -->
+    </nav>
+    <div id="header-ad">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_leaderboard" style="text-align: center; margin-top:10px; margin-bottom:10px; height:250px;">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_leaderboard'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </header>
+   <main class="col-md-8 col-xs-12" id="main">
+    <section id="directory" name="directory">
+     <span class="mobile-hidden">
+      <a href="../">
+       Greek Mythology
+      </a>
+      &gt;&gt;
+     </span>
+     <!-- InstanceBeginEditable name="Directory" -->
+     <a href="../greek-mythology/greek-gods.html">
+      Greek Gods
+     </a>
+     &gt;&gt;
+     <a href="../greek-mythology/titans.html">
+      Titans
+     </a>
+     &gt;&gt; Prometheus
+     <!-- InstanceEndEditable -->
+    </section>
+    <h1>
+     <!-- InstanceBeginEditable name="Title" -->
+     PROMETHEUS
+     <!-- InstanceEndEditable -->
+    </h1>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <!-- InstanceBeginEditable name="NameGreek" -->
+      <p class="names-greek">
+       Προμηθευς
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading1" -->
+       Transliteration
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTransliteration" -->
+      <p>
+       Promêtheus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading2" -->
+       Latin Spelling
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameLatin" -->
+      <p>
+       Prometheus
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       <!-- InstanceBeginEditable name="NameHeading3" -->
+       Translation
+       <!-- InstanceEndEditable -->
+      </h5>
+      <!-- InstanceBeginEditable name="NameTranslation" -->
+      <p>
+       Forethought (
+       <em>
+        pro-, mêtis
+       </em>
+       )
+      </p>
+      <!-- InstanceEndEditable -->
+     </div>
+    </div>
+    <!-- InstanceBeginEditable name="Introduction" -->
+    <figure class="image-main image-main-425">
+     <a href="../Gallery/T20.1C.html">
+      <img alt="Titan Prometheus | Laconian black-figure amphoriskos C6th B.C. | Vatican City Museums" class="img-responsive center-block" src="../image/T20.1Prometheus.jpg"/>
+     </a>
+     <figcaption>
+      Prometheus bound, Laconian black-figure amphoriskos C6th B.C.,
+      <a href="http://mv.vatican.va/" target="_blank">
+       Vatican City Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     PROMETHEUS was the Titan god of forethought and crafty counsel who was given the task of moulding mankind out of clay. His attempts to better the lives of his creation brought him into conflict with
+     <a href="../Olympios/Zeus.html">
+      Zeus
+     </a>
+     . Firstly he tricked the gods out of the best portion of the sacrificial feast, acquiring the meat for the feasting of man. Then, when Zeus withheld fire, he stole it from heaven and delivered it to mortal kind hidden inside a fennel-stalk. As punishment for these rebellious acts, Zeus ordered the creation of
+     <a href="../Heroine/Pandora.html">
+      Pandora
+     </a>
+     (the first woman) as a means to deliver misfortune into the house of man, or as a way to cheat mankind of the company of the good spirits. Prometheus meanwhile, was arrested and bound to a stake on Mount Kaukasos (Caucasus) where an
+     <a href="../Ther/AetosKaukasios.html">
+      eagle
+     </a>
+     was set to feed upon his ever-regenerating liver (or, some say, heart). Generations later the great hero Herakles (Heracles) came along and released the old Titan from his torture.
+    </p>
+    <p>
+     Prometheus was loosely identified in cult and myth with the fire-god
+     <a href="../Olympios/Hephaistos.html">
+      Hephaistos
+     </a>
+     (Hephaestus) and the giant
+     <a href="../Gigante/GiganteTityos.html">
+      Tityos
+     </a>
+     (Tityus).
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Family" -->
+    <h2 id="Family">
+     FAMILY OF PROMETHEUS
+    </h2>
+    <h3>
+     PARENTS
+    </h3>
+    <p>
+     [1.1]
+     <a href="TitanIapetos.html">
+      IAPETOS
+     </a>
+     &amp;
+     <a href="TitanisKlymene.html">
+      KLYMENE
+     </a>
+     <span class="family-refs">
+      (Hesiod Theogony 507, Hesiod Works &amp; Days 54, Hyginus Fabulae 142)
+     </span>
+     <br/>
+     [1.2]
+     <a href="TitanIapetos.html">
+      IAPETOS
+     </a>
+     &amp;
+     <a href="TitanisKlymene.html">
+      ASIA
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.8)
+     </span>
+     <br/>
+     [1.3]
+     <a href="TitanIapetos.html">
+      IAPETOS
+     </a>
+     <span class="family-refs">
+      (Quintus Smyrnaeus 10.190, Diodorus Sic. 5.67.1, Ovid Metamorphoses 1.82, Valerius Flaccus 4.60, Oppian Halieutica 5.4)
+     </span>
+     <br/>
+     [2.1]
+     <a href="TitanisThemis.html">
+      THEMIS
+     </a>
+     or
+     <a href="../Protogenos/Gaia.html">
+      GAIA
+     </a>
+     <span class="family-refs">
+      (Aesch. Prometheus Bound 8 &amp; 211 &amp; 873)
+     </span>
+    </p>
+    <h3>
+     OFFSPRING
+    </h3>
+    <p>
+     [1.1]
+     <a href="../Heros/Deukalion.html">
+      DEUKALION
+     </a>
+     (by
+     <a href="../Nymphe/NymphePronoia.html">
+      Pronoia
+     </a>
+     )
+     <span class="family-refs">
+      (Hesiod Catalogues Frag 1)
+     </span>
+     <br/>
+     [1.2]
+     <a href="../Heros/Deukalion.html">
+      DEUKALION
+     </a>
+     <span class="family-refs">
+      (Apollodorus 1.45, Ovid Metamorphoses 1.363)
+     </span>
+     <br/>
+     [1.3] HELLEN,
+     <a href="../Heros/Deukalion.html">
+      DEUKALION
+     </a>
+     (by
+     <a href="../Nymphe/NympheAsie.html">
+      Klymene
+     </a>
+     )
+     <span class="family-refs">
+      (Schol. on Apollonius Rhod. 2.1086)
+     </span>
+     <br/>
+     [2.1]
+     <a href="../Daimon/Aidos.html">
+      AIDOS
+     </a>
+     <span class="family-refs">
+      (Pindar Olympian 3)
+     </span>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Encyclopedia" -->
+    <h2 id="Encyclopedia">
+     ENCYCLOPEDIA
+    </h2>
+    <p>
+     PROMETHEUS (Promêtheus), is sometimes called a Titan, though in reality he did not belong to the Titans, but was only a son of the Titan Iapetus (whence he is designated by the patronymic Iapetionidês, Hes.
+     <em>
+      Theog.
+     </em>
+     528; Apollon Rhod. iii. 1087), by Clymene, so that he was a brother of Atlas, Menoetius, and Epimetheus (Hes.
+     <em>
+      Theog.
+     </em>
+     507). His name signifies "forethought," as that of his brother Epimetheus denotes "afterthought." Others call Prometheus a son of Themis (Aeschyl.
+     <em>
+      Prom.
+     </em>
+     18), or of Uranus and Clymene, or of the Titan Eurymedon and Hera (Potter,
+     <em>
+      Comment. ad Lyc. Cass.
+     </em>
+     1283; Eustath.
+     <em>
+      ad Hom.
+     </em>
+     p. 987). By Pandora, Hesione, or Axiothea, he is said to have been the father of Deucalion (Aesch.
+     <em>
+      Prom.
+     </em>
+     560 ; Tzetz.
+     <em>
+      ad Lyc.
+     </em>
+     1283; Schol.
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     ii. 1086), by Pyrrha or Clymene he begot Hellen (and according to some also Deucalion; Schol.
+     <em>
+      ad
+     </em>
+     <em>
+      Apollon. l. c.;
+     </em>
+     Schol.
+     <em>
+      ad Pind. Ol.
+     </em>
+     ix. 68), and by Celaeno he was the father of Lycus and Chimareus (Tzetz.
+     <em>
+      ad. Lyc.
+     </em>
+     132, 219), while Herodotus (iv. 45) calls his wife Asia.
+    </p>
+    <p>
+     The following is an outline of the legends related of him by the ancients. Once in the reign of Zeus, when gods and men were disputing with one another at Mecone (afterwards Sicyon, Schol.
+     <em>
+      ad Pind. Nem.
+     </em>
+     ix. 123), Prometheus, with a view to deceive Zeus and rival him in prudence, cut up a bull and divided it into two parts : he wrapped up the best parts and the intestines in the skin, and at the top he placed the stomach, which is one of the worst parts, while the second heap consisted of the bones covered with fat. When Zeus pointed out to him how badly he had made the division, Prometheus desired him to choose, but Zeus, in his anger, and seeing through the stratagem of Prometheus, chose the heap of bones covered with the fat. The father of the gods avenged himself by withholding fire from mortals, but Prometheus stole it in a hollow tube (
+     <em>
+      ferula,
+     </em>
+     narthêx, Aeschyl.
+     <em>
+      Prom.
+     </em>
+     110). Zeus now, in order to punish men, caused Hephaestus to mould a virgin, Pandora, of earth, whom Athena adorned with all the charms calculated to entice mortals; Prometheus himself was put in chains, and fastened to a pillar, where an eagle sent by Zeus consumed in the daytime his liver, which, in every succeeding night, was restored again. Prometheus was thus exposed to perpetual torture, but Heracles killed the eagle and delivered the sufferer, with the consent of Zeus, who thus had an opportunity of allowing his son to gain immortal fame (Hes.
+     <em>
+      Theog.
+     </em>
+     521, &amp;c.,
+     <em>
+      Op. et Dies,
+     </em>
+     47, &amp;c. ; Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 15; Apollod. ii. 5. § 11). Prometheus had cautioned his brother Epimetheus against accepting any present from Zeus, but Epimetheus, disregarding the advice, accepted Pandora, who was sent to him by Zeus, through the mediation of Hermes. Pandora then lifted the lid of the vessel in which the foresight of Prometheus had concealed all the evils which might torment mortals in life. Diseases and sufferings of every kind now issued forth, but deceitful hope alone remained behind (Hes.
+     <em>
+      Op. et Dies,
+     </em>
+     83, &amp;c.; comp. Horat.
+     <em>
+      Carm.
+     </em>
+     i. 3. 25, &amp;c.). This is an outline of the legend about Prometheus, as contained in the poems of Hesiod.
+    </p>
+    <p>
+     Aeschylus, in his trilogy
+     <em>
+      Prometheus,
+     </em>
+     added various new features to it, for, according to him, Prometheus himself is an immortal god, the friend of the human race, the giver of fire, the inventor of the useful arts, an omniscient seer, an heroic sufferer, who is overcome by the superior power of Zeus, but will not bend his inflexible mind. Although he himself belonged to the Titans, he is nevertheless represented as having assisted Zeus against the Titans (
+     <em>
+      Prom.
+     </em>
+     218), and he is further said to have opened the head of Zeus when the latter gave birth to Athena (Apollod. i. 3. § 6). But when Zeus succeeded to the kingdom of heaven, and wanted to extirpate the whole race of man, the place of which he proposed to give to quite a new race of beings, Prometheus prevented the execution of the scheme, and saved the human race from destruction (
+     <em>
+      Prom.
+     </em>
+     228, 233). He deprived them of their knowledge of the future, and gave them hope instead (248, &amp;c.). He further taught them the use of fire, made them acquainted with architecture, astronomy, mathematics, the art of writing, the treatment of domestic animals, navigation, medicine, the art of prophecy, working in metal, and all the other arts (252, 445, &amp;c., 480, &amp;c.). But, as in all these things he had acted contrary to the will of Zeus, the latter ordered Hephaestus to chain him to a rock in Scythia, which was done in the presence of Cratos and Bia, two ministers of Zeus. In Scythia he was visited by the Oceanides; Io also came to him, and he foretold her the wanderings and sufferings which were yet in store for her, as well as her final relief (703, &amp;c.). Hermes then likewise appears, and desires him to make known a prophecy which was of great importance to Zeus, for Prometheus knew that by a certain woman Zeus would beget a son, who was to dethrone his father, and Zeus wanted to have a more accurate knowledge of this decree of fate. But Prometheus steadfastly refused to reveal the decree of fate, whereupon Zeus, by a thunderbolt, sent Prometheus, together with the rock to which he was chained, into Tartarus (Horat.
+     <em>
+      Carm.
+     </em>
+     ii. 18, 35). After the lapse of a long time, Prometheus returned to the upper world, to endure a fresh course of suffering, for he was now fastened to mount Caucasus, and tormented by an eagle, which every day, or every third day, devoured his liver, which was restored again in the night (Apollon. Rhod. ii. 1247, &amp;c. iii. 853; Strab. xv. p. 688 ; Philostr.
+     <em>
+      Vit. Apoll.
+     </em>
+     ii. 3; Hygin.
+     <em>
+      Poet. Astr.
+     </em>
+     ii. 15; Aeschyl.
+     <em>
+      Prom.
+     </em>
+     1015, &amp;c.). This state of suffering was to last until some other god, of his own accord, should take his place, and descend into Tartarus for him (
+     <em>
+      Prom.
+     </em>
+     1025). This came to pass when Cheiron, who had been incurably wounded by an arrow of Heracles, desired to go into Hades; and Zeus allowed him to supply the place of Prometheus (Apollod. ii. 5. § 4; comp. Cheiron). According to others, however, Zeus himself delivered Prometheus, when at length the Titan was prevailed upon to reveal to Zeus the decree of fate, that, if he should become by Thetis the either of a son, that son should deprive him of the sovereignty. (Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vi. 42 ; Apollod. iii. 13. § 5; Hygin.
+     <em>
+      Fab.
+     </em>
+     54; comp. Aeschyl.
+     <em>
+      Prom.
+     </em>
+     167, &amp;c. 376.)
+    </p>
+    <p>
+     There was also an account, stating that Prometheus had created men out of earth and water, at the very beginning of the human race, or after the flood of Deucalion, when Zeus is said to have ordered him and Athena to make men out of the mud, and the winds to breathe life into them (Apollod. i. 7. § 1; Ov.
+     <em>
+      Met.
+     </em>
+     i. 81; Etym. Mag.
+     <em>
+      s. v.
+     </em>
+     Promêtheus). Prometheus is said to have given to men something of all the qualities possessed by the other animals (Horat
+     <em>
+      Carm.
+     </em>
+     i. 16. 13). The kind of earth out of which Prometheus formed men was shown in later times near Panopeus in Phocis (Paus. x. 4. § 3), and it was at his suggestion that Deucalion, when the flood approached, built a ship, and carried into it provisions, that he and Pyrrha might be able to support themselves during the calamity (Apollod. i. 7. § 2). Prometheus, in the legend, often appears in connection with Athena, e. g., he is said to have been punished on mount Caucasus for the criminal love he entertained for her (Schol.
+     <em>
+      ad Apollon. Rhod.
+     </em>
+     ii. 1249) and he is further said, with her assistance, to have ascended into heaven, and there secretly to have lighted his torch at the chariot of Helios, in order to bring down the fire to man (Serv.
+     <em>
+      ad Virg. Eclog.
+     </em>
+     vi. 42). At Athens Prometheus had a sanctuary in the Academy, from whence a torch-race took place in honour of him (Paus. i. 30. § 2; Schol.
+     <em>
+      ad Soph. Oed. Col.
+     </em>
+     55; Harpocrat.
+     <em>
+      s. v.
+     </em>
+     lampas).
+    </p>
+    <p>
+     <em>
+      Source: Dictionary of Greek and Roman Biography and Mythology.
+     </em>
+    </p>
+    <hr/>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Quotes" -->
+    <h2>
+     ALTERNATE NAME SPELLINGS &amp; EPITHETS
+    </h2>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Προμηqευς
+      </p>
+      <p class="names-greek">
+       Προμηθεως
+      </p>
+      <p class="names-greek">
+       Ιαπετιονιδης
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Promêtheus
+      </p>
+      <p>
+       Promêtheôs
+      </p>
+      <p>
+       Iapetionidês
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Prometheus
+      </p>
+      <p>
+       Prometheus
+      </p>
+      <p>
+       Iapetonides
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Forethought
+      </p>
+      <p>
+       Forethought
+      </p>
+      <p>
+       Son of Iapetus
+      </p>
+     </div>
+    </div>
+    <div class="row names-row">
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Greek Name
+      </h5>
+      <p class="names-greek">
+       Δεσμωτης
+      </p>
+      <p class="names-greek">
+       Αιπυμητης
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Transliteration
+      </h5>
+      <p>
+       Desmôtês
+      </p>
+      <p>
+       Aipymêtês
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Latin Spelling
+      </h5>
+      <p>
+       Desmotes
+      </p>
+      <p>
+       Aepymetes
+      </p>
+     </div>
+     <div class="col-sm-3 col-xs-6 names-box">
+      <h5>
+       Translation
+      </h5>
+      <p>
+       Chained, Bound
+      </p>
+      <p>
+       Lofty-Minded
+      </p>
+     </div>
+    </div>
+    <hr/>
+    <h2>
+     CLASSICAL LITERATURE QUOTES
+    </h2>
+    <h3 id="Parentage">
+     PARENTAGE OF PROMETHEUS
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T20.1.html">
+      <img alt="Titans Atlas and Prometheus | Laconian black-figure amphoriskos C6th B.C. | Vatican City Museums" class="img-responsive center-block" src="../image/T20.1Titanes_sm.jpg"/>
+     </a>
+     <figcaption>
+      Titans Atlas and Prometheus, Laconian black-figure amphora C6th B.C.,
+      <a href="http://www.museivaticani.va/" target="_blank">
+       Vatican City Museums
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 507 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Iapetos (Iapetus) took to wife the neat-ankled maid Klymene (Clymene), daughter of Okeanos (Oceanus), and went up with her into one bed. And she bare him a stout-hearted son, Atlas . . . glorious Menoitios (Menoetius) and clever Prometheus, full of various wiles, and scatter-brained Epimetheus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 18 (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Prometheus] lofty-minded  son of Themis who counsels straight."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 211 :
+     </span>
+     <br/>
+     "My [Prometheus'] mother Themis, or Gaia (Gaea, Earth), though one form, she had many names."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 8 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "The Titanes (Titans) had children . . . Atlas. who holds the sky on his shoulders, Prometheus, Epimetheus, and Menoitios (Menoetius), whom Zeus struck with a thunderbolt in the Titan battle and confined to Tartaros (Tartarus), were all sons of Iapetos (Iapetus) and Asia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 67. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "To Iapetos (Iapetus) was born Prometheus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Preface (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "From Iapetus and Clymene [were born]: Atlas, Epimetheus, Prometheus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Oppian, Halieutica 5. 4 (trans. Mair) (Greek poet C3rd A.D.) :
+     </span>
+     <br/>
+     "The son of Iapetos (Iapetus), Prometheus of the many devices."
+    </p>
+    <hr/>
+    <h3 id="Children">
+     DEUCALION &amp; OTHER CHILDREN OF PROMETHEUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Catalogues of Women Fragment 1 (from Scholiast on Apollonius Rhodius Arg. 3. 1086) (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "Deukalion (Deucalion) was the son of Prometheus and Pronoia (Pronoea), Hesiod states in the first
+     <em>
+      Catalogue
+     </em>
+     ."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 555 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "This song, which, about your [Prometheus'] bridal bed and bath, I [the chorus of Okeanides (Oceanids)] raised to grace your marriage, when you wooed with gifts and won my sister [the Okeanis (Oceanid)] Hesione to be your wedded wife."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Herodotus, Histories 4. 45. 3 (trans. Godley) (Greek historian C5th B.C.) :
+     </span>
+     <br/>
+     "And Asia [was named] after the wife of Prometheus; yet the Lydians claim a share in the latter name, saying that Asia was not named after Prometheus' wife Asia."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 45 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Now Prometheus had a son Deukalion (Deucalion) and was married to Pyrrha, the daughter of Epimetheus and Pandora, the first woman created by the gods. When Zeus was ready to obliterate the bronze generation of men, Prometheus advised Deukalion to fashion an ark, which he then outfitted with provisions and launched himself with Pyrrha aboard. Zeus presently flooded most of Hellas with a great downpour of rain from the sky, destroyed all the people except for a few who took refuge on high mountains nearby."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 1083 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "It [Akhaia (Achaea) in Greece] is a land ringed by lofty mountains, rich in sheep and pasture, and the birthplace of Prometheus' son, the good Deukalion (Deucalion), who was the first man to found cities, build temples to the gods and rule mankind as king. Its neighbours call the land Haimonia (Haemonia), and in it stands Iolkos (Iolcus), my own town."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 155 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Sons of Jove [Zeus] . . . Hellen by Pyrrha, daughter of Epimetheus."
+     <br/>
+     [N.B. Pyrrha is the wife of Deukalion, Prometheus' son. By lying with Pyrrha, Zeus cheats Prometheus of his claim to being the ancestor of the kings of men.]
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 363 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "[Deukalion (Deucalion) laments after the Great Deluge has wiped out all of mankind:] ‘O for my father's [Prometheus'] magic to restore mankind again and in the moulded clay breathe life and so repopulate the world!’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 390 ff :
+     </span>
+     <br/>
+     "Promethides [Deukalion (Deucalion) son of Prometheus] calmed Epimethis [Pyrrha daughter of Epimetheus] with words of cheer . . . and Titania's [Pyrrha's] heart was warmed."
+    </p>
+    <hr/>
+    <h3 id="Story">
+     SUMMARY OF THE STORY OF PROMETHEUS
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 15 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "[Constellation] Sagitta (Arrow). This arrow, they say, is one of the weapons of Hercules (Heracles), with which he is said to have killed the eagle which ate the liver of Prometheus. It seems not unprofitable to speak of Prometheus at greater length. When the men of old with great ceremony used to carry on the sacrificial rites of the immortal gods, they would burn the victims entire in the flame of the sacrifice. And so, when the poor were prevented from making sacrifices on account of the great expense, Prometheus, who with his wonderful wisdom is thought to have made men, by his pleading is said to have obtained permission from Jove [Zeus] for them to cast only a part of the victim into the fire, and to use the rest for their own food. This practice custom later established. Since he had obtained this permission, not as from a covetous man, but easily, as from a god, Prometheus himself sacrifices two bulls. When he had first placed their entrails on the altar, he put the remaining flesh of the two bulls in one heap, covering it with an oxhide. Whatever bones there were he covered with the other skin and put it down between them, offering Jove [Zeus] the choice of either part for himself. Jupiter [Zeus], although he didn't act with divine forethought, nor as a god who ought to foresee everything, was deceived by Prometheus--sinve we have started to believe the tale!--and thinking each part was a bull, shoe the bones for his half. And so after this, in solemn rites and sacrifices, when the flesh of victims has been consumed, they burn with fire the remaining parts which are the gods.
+     <br/>
+     But, to come back to the subject, Jupiter [Zeus], when he realized what had been done, in anger took fire from mortals, lest the favour of Prometheus should seem to have more weight than the power of the gods, and that uncooked flesh should not be useful to men. Prometheus, however, who was accustomed to scheming, planned by his own efforts to bring back the fire that had been taken from men. So, when the others were away, he approached the fire of Jove, and with a small bit of this shut in a fennel-stalk he came joyfully, seeming to fly, not to run, tossing the stalk so that the air shut in with its vapours should not put out the flame in so narrow a space. Up to this time, then, men who bring good news usually come with speed. In the rivalry of the games they also make it a practice for the runners to run, shaking torches after the manner of Prometheus.
+     <br/>
+     In return for this deed, Jupiter, to confer a like favour on men, gave a woman to them, fashioned by Vulcanus [Hephaistos (Hephaestus)], and endowed with all kinds of gifts by the will of the gods. For this reason she was called Pandora. But Prometheus he bound with an iron chain to a mountain in Scythia named Caucasus for thirty thousand years, as Aeschylus, writer of tragedies, says. Then, too, he sent an eagle to him to eat out his liver which was constantly renewed at night. Some have said that this eagle was born from Typhon and Echidna, other from Terra (Earth) [Gaia] and Tartarus, but many point out it was made by the hands of Vulcanus and given life by Jove.
+     <br/>
+     The following reason for the release of Prometheus has been handed down. When Jupiter [Zeus], moved by the beauty of Thetis, sought her in marriage, he couldn't win the consent of the timid maiden, but none the less kept planning to bring it about. At that time the Parcae [Moirai, Fates] were said to have prophesied what the natural order of events should be. They said that the son of Thetis' husband, whoever he might be, would be more famous than his father. Prometheus heard this as he kept watch, not from inclination but from necessity, and reported it to Jove. He, fearing that what he had done to his father Saturnus in a similar situation, would happened to him, namely, that he would be robbed of his power, gave up by necessity his desire to wed Thetis, and out of gratitude to Prometheus thanked him and freed him from his chains. But he didn't go so far as to free him from all binding, since he had sworn to that, but for commemoration bade him bind his finger with the two things, namely, with stone and with iron. Following this practice men have rings fashioned of stone and iron, that they may seem to be appeasing Prometheus. Some also have said that he wore a wreath, as if to claim that he as victor had sinned without punishment. And so men began the practice of wearing wreaths at times of great rejoicing and victory. You may observe this in sports and banquets.
+     <br/>
+     But to come back to the beginning of the inquiry and the death of the eagle. Hercules, when sent by Eurystheus for the apples of the Hesperides, out of ignorance of the way came to Prometheus, who was bound on Mount Caucasus, as we have shown above. When victor, he returned to Prometheus to tell him that that Draco we have mentioned was slain, and to thank him for his kindness since he had pointed out the way. Straightway he gave what honour he could to the one that deserved it, for he killed the eagle and since it was slain, men began, when victims were sacrificed, to offer livers on the altars of the gods to satisfy them in place of the liver of Prometheus."
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Prometheus Bound (extant play), Prometheus Unbound, Prometheus Fire-Bringer, Prometheus Fire-Kindler (lost plays) (Greek tragedy C5th B.C.) :
+      </span>
+      <br/>
+      Aeschylus'
+      <em>
+       Prometheus Bound
+      </em>
+      was the second of a trilogy of plays describing the story of the Titan Prometheus. Weir Smyth (L.C.L.) summarises evidence of the lost plays: "The Medicean Catalogue of Aeschylus' plays names three entitled
+      <em>
+       Promêtheus
+      </em>
+      (
+      <em>
+       desmôtês, lyomenos, purphoros
+      </em>
+      ); a fourth,
+      <em>
+       Promêtheus purkaeus
+      </em>
+      (Pollux,
+      <em>
+       Vocabulary
+      </em>
+      9. 156, 10. 64) was probably the satyric drama of the trilogy
+      <em>
+       Phineus, Persai, Glaukos
+      </em>
+      (
+      <em>
+       pontios
+      </em>
+      ) produced in 472 B.C. From the Scholiast on
+      <em>
+       Prom.
+      </em>
+      511 it is to be inferred that the
+      <em>
+       Lyomenos
+      </em>
+      followed the
+      <em>
+       Desmôtês
+      </em>
+      . The theme and place of the
+      <em>
+       Pyrphoros
+      </em>
+      are still disputed: (1) it is another name for the
+      <em>
+       Pyrkaeus
+      </em>
+      ; (2) it preceded the
+      <em>
+       Desmôtês
+      </em>
+      in the trilogy and dealt with the Titan's theft of fire--in this sense, it is the
+      <em>
+       Fire-Bringer
+      </em>
+      or
+      <em>
+       Fire-Giver
+      </em>
+      ; (3) as the
+      <em>
+       Fire-Bearer
+      </em>
+      , it followed the
+      <em>
+       Lyomenos
+      </em>
+      , and described the inauguration of the
+      <em>
+       Promêtheia
+      </em>
+      , the Athenian festival at which torch-races were held in honour of the Titan, now become the god of the potter-guild. Some, who follow Canter in identifying the
+      <em>
+       Pyrphoros
+      </em>
+      with the
+      <em>
+       Pyrkaeus
+      </em>
+      , maintain that it was the satyric drama, and dealt with the Attic worship of the god. A satyr-play in the Prometheus-trilogy is unknown."
+     </span>
+    </p>
+    <hr/>
+    <h3 id="Titanes">
+     PROMETHEUS &amp; THE WAR OF THE TITANS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 200 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Prometheus : When first the heavenly powers (
+     <em>
+      daimones
+     </em>
+     ) were moved to wrath [the Olympian gods against the Titanes (TItans)], and mutual dissension was stirred up among them--some bent on casting Kronos (Cronus) from his seat so Zeus, in truth, might reign; others, eager for the contrary end, that Zeus might never win mastery over the gods--it was then that I [Prometheus], although advising them for the best, was unable to persuade the Titanes, children of Ouranos (Uranus, Heaven) and Khthon (Chthon, Earth); but they, disdaining counsels of craft, in the pride of their strength thought to gain the mastery without a struggle and by force. Often my mother Themis, or Gaia (Gaea, Earth) (though one form, she had many names), had foretold to me the way in which the future was fated to come to pass. That it was not by brute strength nor through violence, but by guile that those who should gain the upper hand were destined to prevail. And though I argued all this to them, they did not pay any attention to my words. With all that before me, it seemed best that, joining with my mother, I should place myself, a welcome volunteer, on the side of Zeus; and it is by reason of my counsel that the cavernous gloom of Tartaros now hides ancient Kronos and his allies within it. Thus I helped the tyrant of the gods and with this foul payment [i.e. the later chaining and torture of Prometheus] he has responded."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 439 ff :
+     </span>
+     <br/>
+     "Prometheus : Who else but I definitely assigned their prerogatives to these upstart gods? [i.e. because his advise helped them win the war against the Titanes.]"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Eumelus, Fragment 5 (from Hesychius Lexicon 1. 387) (trans. West) (Greek epic C8th B.C.) :
+     </span>
+     <br/>
+     "Ithas: The Titanes' (Titans') herald, Prometheus. Some write Ithax."
+    </p>
+    <p class="see-also">
+     For MORE information on the Titan War see the
+     <a href="Titanes.html">
+      TITANES
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Athene">
+     PROMETHEUS &amp; THE BIRTH OF ATHENA
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 20 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When it came time for the birth, Prometheus, or Hephaistos, according to some, by the river Triton struck the head of Zeus with and ax, and from his crown Athene (Athena) sprang up, clad in her armor."
+    </p>
+    <p class="see-also">
+     For MORE information on the birth of this goddess see
+     <a href="../Olympios/Athena.html">
+      ATHENA
+     </a>
+    </p>
+    <hr/>
+    <p>
+    </p>
+    <h3 id="Creation">
+     PROMETHEUS &amp; THE CREATION OF ANIMALS AND MEN
+    </h3>
+    <figure class="image-main image-main-450">
+     <a href="../Gallery/T21.1.html">
+      <img alt="Hera and Prometheus | Athenian red-figure bell krater C5th B.C. | Cabinet des Medailles, Paris" class="img-responsive center-block" src="../image/T21.1Prometheus_sm.jpg"/>
+     </a>
+     <figcaption>
+      Hera and Prometheus, Athenian red-figure bell krater C5th B.C., Cabinet des Medailles
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 207 (from Servius on Virgil) (trans. Campbell, Vol. Greek Lyric I) (Greek lyric C6th B.C.) :
+     </span>
+     <br/>
+     "After creating men Prometheus is said to have stolen fire and revealed it to men."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Protagoras 320c - 322a (trans. Jowett) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Once upon a time there were gods only, and no mortal creatures. But when the time came that these also should be created, the gods fashioned them out of earth and fire and various mixtures of both elements in the interior of the earth; and when they were about to bring them into the light of day, they ordered Prometheus and Epimetheus to equip them, and to distribute to them severally their proper qualities. Epimetheus said to Prometheus : ‘Let me distribute, and do you inspect.’
+     <br/>
+     This was agreed, and Epimetheus made the distribution [of claws and fur and other attributes] . . . Thus did Epimetheus, who, not being very wise, forgot that he had distributed among the brute animals all the qualities which he had to give-and when he came to man, who was still unprovided, he was terribly perplexed. Now while he was in this perplexity, Prometheus came to inspect the distribution, and he found that the other animals were suitably furnished, but that man alone was naked and shoeless, and had neither bed nor arms of defence. The appointed hour was approaching when man in his turn was to go forth into the light of day; and Prometheus, not knowing how he could devise his salvation, stole the mechanical arts of Hephaistos (Hephaestus) and Athene (Athena), and fire with them."
+     <br/>
+     [See "Prometheus &amp; the Theft of Fire" (below) for the rest of this passage from Plato.]
+    </p>
+    <p>
+     <span class="hr1">
+      <span class="quote-greek">
+       Aesop, Fables Aesop, Fables 516 (from Themistius, Orations 32) (trans. Gibbs) (Greek fable C6th B.C.) :
+      </span>
+     </span>
+     <br/>
+     "This is also something that Aesop said. The clay which Prometheus used when he fashioned man was not mixed with water but with tears. Therefore, one should not try to dispense entirely with tears, since they are inevitable."
+    </p>
+    <p>
+     <span class="hr1">
+      <span class="quote-greek">
+       Aesop, Fables 527 (from Chambry 303 and Phaedrus 4. 10) :
+      </span>
+     </span>
+     <br/>
+     "Prometheus has given us two sacks to carry. One sack, which is filled with our own faults, is slung across our back, while the other sack, heavy with the faults of others, is tied around our necks. This is the reason why we are blind to our own bad habits but still quick to criticize others for their mistakes."
+     <br/>
+     [N.B. In Phaedrus' Latin version of this fable, Prometheus is replaced by Zeus.]
+    </p>
+    <p>
+     <span class="hr1">
+      <span class="quote-greek">
+       Aesop, Fables 535 (from Life of Aesop 94) :
+      </span>
+     </span>
+     <br/>
+     "Zeus once ordered Prometheus to show mankind the two ways: one the way of freedom and the other the way of slavery. Prometheus made the way of freedom rough at the beginning, impassable and steep, with no water anywhere to drink, full of brambles, and beset with dangers on all sides at first. Eventually, however, it became a smooth plain, lined with paths and filled with groves of fruit trees and waterways. Thus the distressing experience ended in repose for those who breath the air of freedom. The way of slavery, however, started out as a smooth plain at the beginning, full of flowers, pleasant to look at and quite luxurious, but in the end it became impassable, steep and insurmountable on all sides."
+     <br/>
+     [N.B. In another text, Prometheus is replaced by Tykhe (Fortune).]
+    </p>
+    <p>
+     <span class="hr1">
+      <span class="quote-greek">
+       Aesop, Fables 517 (from Phaedrus 4.16)  :
+      </span>
+      <br/>
+      "Someone asked Aesop why lesbians and effeminates had been created, and old Aesop explained, ‘The answer lies once again with Prometheus, the original creator of our common clay. All day long, Prometheus had been separately shaping those natural members which modesty conceals beneath our clothes, and when he was about to apply these private parts to the appropriate bodies Liber [Dionysos] unexpectedly invited him to dinner. Prometheus came home late, unsteady on his feet and with a good deal of heavenly nectar flowing through his veins. With his wits half asleep in a drunken haze he stuck the female genitalia on male bodies and male members on the ladies. This is why modern lust revels in perverted pleasures.’"
+     </span>
+    </p>
+    <p>
+     <span class="hr1">
+      <span class="quote-greek">
+       Aesop, Fables 517 (from Phaedrus 4.15) :
+      </span>
+     </span>
+     <br/>
+     "[Prometheus made?] the woman's tongue by redeploying her private parts. This is where the obscene practice [fellatio?] finds its affinity." [N.B. This fable in Phaedrus  is badly fragmented, only two lines survive.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aesop, Fables 515 (from Chambry 322) :
+     </span>
+     <br/>
+     "Following Zeus's orders, Prometheus fashioned humans and animals. When Zeus saw that the animals far outnumbered the humans, he ordered Prometheus to reduce the number of the animals by turning them into people. Prometheus did as he was told, and as a result those people who were originally animals have a human body but the soul of an animal."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aesop, Fables  247 (from Chambry 210) :
+     </span>
+     <br/>
+     "The lion often found fault with the way he had been designed by Prometheus. Admittedly, Prometheus had made the lion very large and handsome, supplying him with sharp fangs in his jaw and arming him with claws on his feet; in short he had made the lion more powerful than all the other animals. ‘Yet great though I may be,’ said the lion, ‘I am terribly afraid of roosters!’ Prometheus replied, ‘Why waste your time blaming me? You have every good quality that I was able to create, and you are afraid of absolutely nothing, except for roosters.’"
+     <br/>
+     [N.B. This same fable is found in Achilles Tatius,
+     <em>
+      Leucippe and Cleitophon
+     </em>
+     2. 21.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aesop, Fables 530 (from Phaedrus, Appendix 5) :
+     </span>
+     <br/>
+     "Prometheus, that potter who gave shape to our new generation, decided one day to sculpt the form of Veritas (Truth) [the spirit Aletheia], using all his skill so that she would be able to regulate people's behaviour. As he was working, an unexpected summons from mighty Jupiter [Zeus] called him away. Prometheus left cunning Dolus (Trickery) [a daimon (spirit), named Dolos in Greek] in charge of his workshop, Dolus had recently become one of the god's apprentices.
+     <br/>
+     Fired by ambition, Dolus (Trickery) used the time at his disposal to fashion with his sly fingers a figure of the same size and appearance as Veritas (Truth) [Aletheia] with identical features. When he had almost completed the piece, which was truly remarkable, he ran out of clay to use for her feet. The master returned, so Dolus (Trickery) quickly sat down in his seat, quaking with fear. Prometheus was amazed at the similarity of the two statues and wanted it to seem as if all the credit were due to his own skill. Therefore, he put both statues in the kiln and when they had been thoroughly baked, he infused them both with life: sacred Veritas (Truth) [Aletheia] walked with measured steps, while her unfinished twin stood stuck in her tracks. That forgery, that product of subterfuge, thus acquired the name of Mendacium (Falsehood) [the spirit Pseudologos], and I readily agree with people who say that she has no feet: every once in a while something that is false can start off successfully, but with time Veritas (Truth) is sure to prevail."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 45 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Prometheus, after forming men from water and earth, gave them fire."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Iambi Fragments 1 &amp; 8 (trans. Trypanis) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "It was that year when the winged fowl and the dweller in the sea and the four-footed creature talked even as the clay of Prometheus . . . Zeus the just, dispensing injustice, he robbed four-footed things of speech."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Fragment 493 :
+     </span>
+     <br/>
+     "If Prometheus has moulded you, and you are not made of another clay."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 14. 4 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "For Aras [one of the first men], they say, was a contemporary of Prometheus, the son of Iapetos (Iapetus), and three generations of men older than Pelasgos (Pelasgus) the son of Arkas (Arcas)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 4. 4 :
+     </span>
+     <br/>
+     "At Panopeus [in Phokis (Phocis)] . . . [in a] ravine there lie two stones, each of which is big enough to fill a cart. They have the colour of clay, not earthly clay, but such as would be found in a ravine or sandy torrent, and they smell very like the skin of a man. They say that these are remains of the clay out of which the whole race of man was fashioned by Prometheus."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 1. 53 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "The Goat . . . inhales through its ears as well as through its nostrils, and has a sharper perception than any other cloven-hoofed animal. The cause of this I am unable to tell . . . But if the Goat also was a creation of Prometheus, what the intention of this contrivance was, I leave him to determine."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 142 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Prometheus, son of Iapetus, first fashioned men from clay. Later Vulcanus [Hephaistos (Hephaestus)], at Jove's [Zeus'] command, made a woman's form from clay. Minerva [Athena] gave it life, and the rest of the gods each gave come other gift. Because of this they named her Pandora. She was given in marriage to Prometheus' brother Epimetheus. Pyrrha was her daughter, and was said to be the first mortal born."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 42 :
+     </span>
+     <br/>
+     "[The Planets :]  One of them is the star of Jove [Zeus], Phaenon by name, a youth whom Prometheus made excelling all others in beauty, when he was making man, as Heraclides Ponticus [Greek academic C4th B.C.] says. When he intended to keep him back, without presenting him to Jove as he did the others, Cupid [Eros] reported this to Jove, whereupon Mercurius [Hermes] was sent to Phaenon and persuaded him to come to Jove and become immortal. Therefore he is placed among the stars."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 82 ff (trans. Melville) (Roman epic C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "In the sea the shining fish were set to swim; the land received the beasts, the gusty air the birds. A holier creature, of a loftier mind, fit master of the rest, was lacking still. Then man was made, perhaps from seed divine formed by the great World's Creator (
+     <em>
+      Origo Mundi
+     </em>
+     ), so to found a better world, perhaps the new-made earth, so lately parted from the ethereal heavens, kept still some essence of the kindred sky--earth that son of Iapetus [Prometheus] moulded, mixed with water, in likeness of the gods that govern the world--and while the other creatures on all fours look downwards, man was made to hold his head erect in majesty and see the sky, and raise his eyes to the bright stars above. Thus earth, once crude and featureless, now changed put on the unknown form of humankind. The Golden Age (
+     <em>
+      Aetas Aurea
+     </em>
+     ) was that first age which unconstrained."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Ovid, Metamorphoses 1. 363 ff :
+     </span>
+     <br/>
+     "[Deukalion (Deucalion) speaks aloud, after the Great Deluge has wiped out all of mankind :] ‘O for my father's [Prometheus'] magic to restore mankind again and in the moulded clay breathe life and so repopulate the world!’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 3. 5 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "O primal clay, so ill-starred for Prometheus' fashioning hand! The making of man's reason he performed with too little care. Arranging our bodies in so small a space he noticed not the wits: the mind ought first to have had its path made straight."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Statius, Thebaid 8. 295 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "The handiwork of Prometheus [men] and the stones of Pyrrha [women]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Oppian, Halieutica 5. 4 (trans. Mair) (Greek poet C3rd A.D.) :
+     </span>
+     <br/>
+     "Someone created men to be a race like unto the blessed gods, albeit he gave them inferior strength: whether it was the son of Iapetos (Iapetus), Prometheus of the many devices, who made man in the likeness of the blessed ones, mingling earth with water, and anointed his heart with the anointing of the gods; or whether we are born of the blood divine that flowed from the Titanes (Titans); for there is nothing more excellent than men, apart from the gods."
+    </p>
+    <p>
+     <span class="quote_oth">
+      Suidas s.v. Gigantiai (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "[A rationalisation of the Prometheus myth :] 
+  Prometheus : According to the Judges of the Judaeans, Prometheus was known amongst the Greeks [as the one] who first discovered scholarly philosophy. He it is of whom they say that he moulded men, inasmuch as he made some idiots understand wisdom. And Epimetheus, who discovered music."
+    </p>
+    <hr/>
+    <h3 id="Death">
+     PROMETHEUS &amp; MAN'S FORESIGHT OF DEATH
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 249 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Chorus : Did you perhaps transgress even somewhat beyond this offence?
+     <br/>
+     Prometheus : Yes, I caused mortals to cease foreseeing their doom (
+     <em>
+      moros
+     </em>
+     ).
+     <br/>
+     Chorus : Of what sort was the cure that you found for this affliction?
+     <br/>
+     Prometheus : I caused blind hopes (
+     <em>
+      elpides
+     </em>
+     ) to dwell within their breasts.
+     <br/>
+     Chorus : A great benefit was this you gave to mortals.
+     <br/>
+     Prometheus : In addition, I gave them fire."
+     <br/>
+     [N.B. "I caused blind hopes (
+     <em>
+      elpides
+     </em>
+     ) to dwell within their breasts" presumably alludes to the story of Pandora's jar, a curse concocted by Zeus to punish mankind for the theft of fire. Prometheus seems to say that he was the one who stayed Hope inside the jar, when the other evils had escaped. But also compare Plato below.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Gorgias 523a ff (trans. Lamb) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Now in the time of Kronos (Cronus) there was a law concerning mankind, and it holds to this very day amongst the gods, that every man who has passed a just and holy life departs after his decease to the Isles of the Blest (
+     <em>
+      Nesoi Makaron
+     </em>
+     ), and dwells in all happiness apart from ill; but whoever has lived unjustly and impiously goes to the dungeon of requital and penance which, you know, they call Tartaros (Tartarus). Of these men there were judges in Kronos' time, and still of late in the reign of Zeus--living men to judge the living upon the day when each was to breathe his last; and thus the cases were being decided amiss. So Plouton (Pluton) [Haides] and the overseers from the Isles of the Blest came before Zeus with the report that they found men passing over to either abode undeserving . . . [Zeus] said, ‘we must put a stop to their foreknowledge of their death; for this they at present foreknow. However, Prometheus has already been given the word to stop this in them.’"
+    </p>
+    <hr/>
+    <h3 id="Fire">
+     <a>
+     </a>
+     THEFT OF FIRE &amp; INSTRUCTION OF MEN IN CRAFTS
+    </h3>
+    <figure class="image-main image-main-400">
+     <a href="../Gallery/T21.3.html">
+      <img alt="Prometheus and the Eagle | Laconian black-figure kylix C6th B.C. | Musée du Louvre, Paris" class="img-responsive center-block" src="../image/T21.3Prometheus.jpg"/>
+     </a>
+     <figcaption>
+      Prometheus and the Eagle, Laconian black-figure kylix C6th B.C.,
+      <a href="http://www.louvre.fr/" target="_blank">
+       Musée du Louvre
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     Prometheus stole fire from heaven to arm the helpless race of man, and  then instructed them in the arts of Hephaistos (Hephaestus) and Athena.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Works and Days 42 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "For the gods keep hidden from men the means of life [crops]. Else you would easily do work enough in a day to supply you for a full year even without working; soon would you put away your rudder over the smoke, and the fields worked by ox and sturdy mule would run to waste. But Zeus in the anger of his heart hid it, because Prometheus the crafty deceived him; therefore he planned sorrow and mischief against men. He hid fire; but that the noble son of Iapetos stole again for men from Zeus the counsellor in a hollow fennel-stalk, so that Zeus who delights in thunder did not see it. But afterwards Zeus who gathers the clouds said to him in anger: ‘Son of Iapetos (Iapetus), surpassing all in cunning, you are glad that you have outwitted me and stolen fire--a great plague to you yourself and to men that shall be. But I will give men as the price for fire an evil thing in which they may all be glad of heart while they embrace their own destruction.’
+     <br/>
+     So said the father of men and gods, and laughed aloud. And he bade famous Hephaistos make haste and mix earth with water and to put in it the voice and strength of human kind, and fashion a sweet, lovely maiden-shape, like to the immortal goddesses in face [Pandora] . . . But when he had finished the sheer, hopeless snare [Pandora the first woman created by the gods], the Father sent [Hermes] . . . to take it to Epimetheus as a gift. And Epimetheus did not think on what Prometheus had said to him, bidding him never take a gift of Olympian Zeus, but to send it back for fear it might prove to be something harmful to men. But he took the gift, and afterwards, when the evil thing was already his, he understood."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Sappho, Fragment 207 (from Servius on Virgil's Aeneid) (trans. Campbell, Vol. Greek Lyric II) (Greek lyric C6th B.C.) :
+     </span>
+     <br/>
+     "After creating men Prometheus is said to have stolen fire and revealed it to men. The gods were angered by this and sent two evils on the earth, women and disease; such is the account given by Sappho and Hesiod."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Ibycus, Fragment 342 (from Aelian, On Animals) (trans. Campbell, Vol. Greek Lyric III) (Greek lyric C6th B.C.) :
+     </span>
+     <br/>
+     "The story goes that Prometheus stole the fire and Zeus in a rage rewarded those who reported the theft with a drug to ward off old age."
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Prometheus the Fire-Bearer (Greek tragedy C5th B.C.) :
+       <br/>
+      </span>
+      Aeschylus' lost play
+      <em>
+       Prometheus Fire-Bearer
+      </em>
+      (
+      <em>
+       Pyrphoros
+      </em>
+      ) dramatised the story of the Titan's theft of fire from heaven. It preceded
+      <em>
+       Prometheus Bound
+      </em>
+      in the trilogy.
+     </span>
+    </p>
+    <p class="biblio">
+     <span class="quote-greek">
+      Aeschylus, Prometheus the Fire-Kindler (lost play) (Greek tragedy C5th B.C.) :
+      <br/>
+     </span>
+     <em>
+      Prometheus the Fire-Kindler
+     </em>
+     (
+     <em>
+      Pyrkaeus
+     </em>
+     ) was a lost satyr play which probably described the  institution of the torch-race festival by Prometheus following his theft of fire.
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 116 Prometheus Fire-Kindler (from Galen, Commentary on Hippocrates' Epidemics 6. 17. 1. 880) (trans. Weir Smyth) :
+       <br/>
+      </span>
+     </span>
+     "[Prometheus warns the Satyrs to keep clear of fire which they encounter for the first time :] And do thou guard thee well lest a blast strike thy face; for it is sharp, and deadly-scorching its hot breaths."
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 117 Prometheus Fire-Kindler (from Plutarch, How to Profit by our Enemies 2. 86F) :
+       <br/>
+      </span>
+     </span>
+     "[Spoken, says Plutarch, by Prometheus to the satyr who desired to kiss and embrace fire on seeing it for the first time :] ‘Like the goat, you'll mourn for your beard, you will.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 1 ff  (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Prometheus :] It is because I bestowed good gifts on mortals that this miserable yoke of constraint has been bound upon me. I hunted out and stored in fennel stalk the stolen source of fire that has proved a teacher to mortals in every art and a means to mighty ends."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 106 ff  :
+     </span>
+     <br/>
+     "Flashing fire, source of all arts, he [Prometheus] has purloined and bestowed upon mortal creatures. Such is his offence; for this he is bound to make requital to the gods."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 228 - 258 :
+     </span>
+     <br/>
+     "Prometheus : However, you ask why he [Zeus] torments me [Prometheus], and this I will now make clear. As soon as he had seated himself upon his father's throne, he immediately assigned to the deities their several privileges and apportioned to them their proper powers. But of wretched mortals he took no notice, desiring to bring the whole race to an end and create a new one in its place. Against this purpose none dared make stand except me--I only had the courage; I saved mortals so that they did not descend, blasted utterly, to the house of Haides. This is why I am bent by such grievous tortures, painful to suffer, piteous to behold. I who gave mortals first place in my pity, I am deemed unworthy to win this pity for myself, but am in this way mercilessly disciplined, a spectacle that shames the glory of Zeus . . .
+     <br/>
+     Chorus : Did you perhaps transgress even somewhat beyond this offence?
+     <br/>
+     Prometheus : Yes, I caused mortals to cease foreseeing their doom (
+     <em>
+      moros
+     </em>
+     ).
+     <br/>
+     Chorus : Of what sort was the cure that you found for this affliction?
+     <br/>
+     Prometheus : I caused blind hopes (
+     <em>
+      elpides
+     </em>
+     ) to dwell within their breasts.
+     <br/>
+     Chorus : A great benefit was this you gave to mortals.
+     <br/>
+     Prometheus : In addition, I gave them fire.
+     <br/>
+     Chorus : What! Do creatures of a day now have flame-eyed fire?
+     <br/>
+     Prometheus : Yes, and from it they shall learn many arts.
+     <br/>
+     Chorus : Then it was on a charge like this that Zeus--
+     <br/>
+     Prometheus : Torments me and in no way gives me respite from pain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 612 ff :
+     </span>
+     <br/>
+     "Prometheus : I whom you see am Prometheus, who gave fire to mankind.
+     <br/>
+     Io: O you who have shown yourself a common benefactor of mankind, wretched Prometheus, why do you suffer so?"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 944 ff :
+     </span>
+     <br/>
+     "[Hermes rebukes Prometheus :] To you, the clever and crafty, bitter beyond all bitterness, who has sinned against the gods in bestowing honors upon creatures of a day--to you, thief of fire, I speak."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 441 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[After stealing fire from the gods Prometheus instructed mankind in the arts :]
+     <br/>
+     Prometheus : Listen to the miseries that beset mankind--how they were witless before and I made them have sense and endowed them with reason. I will not speak to upbraid mankind but to set forth the friendly purpose that inspired my blessing. First of all, though they had eyes to see, they saw to no avail; they had ears, but they did not understand ; but, just as shapes in dreams, throughout their length of days, without purpose they wrought all things in confusion. They had neither knowledge of houses built of bricks and turned to face the sun nor yet of work in wood; but dwelt beneath the ground like swarming ants, in sunless caves. They had no sign either of winter or of flowery spring or of fruitful summer, on which they could depend but managed everything without judgment, until I taught them to discern the risings of the stars and their settings, which are difficult to distinguish.
+     <br/>
+     Yes, and numbers, too, chiefest of sciences, I invented for them, and the combining of letters, creative mother of the Mousai's (Muses') arts, with which to hold all things in memory. I, too, first brought brute beasts beneath the yoke to be subject to the collar and the pack-saddle, so that they might bear in men's stead their heaviest burdens; and to the chariot I harnessed horses and made them obedient to the rein, to be an image of wealth and luxury. It was I and no one else who invented the mariner's flaxen-winged car that roams the sea. Wretched that I am--such are the arts I devised for mankind, yet have myself no cunning means to rid me of my present suffering . . .
+     <br/>
+     Hear the rest and you shall wonder the more at the arts and resources I devised. This first and foremost : if ever man fell ill, there was no defence--no healing food, no ointment, nor any drink--but for lack of medicine they wasted away, until I showed them how to mix soothing remedies with which they now ward off all their disorders. And I marked out many ways by which they might read the future, and among dreams I first discerned which are destined to come true; and voices baffling interpretation I explained to them, and signs from chance meetings. The flight of crook-taloned birds I distinguished clearly--which by nature are auspicious, which sinister--their various modes of life, their mutual feuds and loves, and their consortings; and the smoothness of their entrails, and what color the gall must have to please the gods, also the speckled symmetry of the liver-lobe; and the thigh-bones, wrapped in fat, and the long chine I burned and initiated mankind into an occult art. Also I cleared their vision to discern signs from flames,which were obscure before this. Enough about these arts. Now as to the benefits to men that lay concealed beneath the earth--bronze, iron, silver, and gold--who would claim to have discovered them before me? No one, I know full well, unless he likes to babble idly. Hear the sum of the whole matter in the compass of one brief word--every art possessed by man comes from Prometheus."
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 108 Prometheus Unbound (from Plutarch, On Fortune 3. 98C) :
+      </span>
+     </span>
+     <br/>
+     "[Prometheus speaks of his gifts to mankind :] Giving to them stallions--horses and asses--and the race of bulls to serve them as slaves and to relieve them of their toil."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Philebus 16b (trans. Fowler) (Greek philosopher C4th B.C.) :
+     </span>
+     <br/>
+     "Sokrates (Socrates) : A gift of gods to men [i.e. the art of invention], as I believe, was tossed down from some divine source through the agency of a Prometheus together with a gleaming fire."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, Protagoras 320c - 322a  (trans. Lamb) :
+     </span>
+     <br/>
+     "Prometheus arrived to examine his distribution [of gifts to animals and men], and saw that whereas the other creatures were fully and suitably provided, man was naked, unshod, unbedded, unarmed; and already the destined day was come, whereon man like the rest should emerge from earth to light. Then Prometheus, in his perplexity as to what preservation he could devise for man, stole from Hephaistos (Hephaestus) and Athena wisdom in the arts together with fire--since by no means without fire could it be acquired or helpfully used by any--and he handed it there and then as a gift to man. Now although man acquired in this way the wisdom of daily life, civic wisdom he had not, since this was in the possession of Zeus; Prometheus could not make so free as to enter the citadel which is the dwelling-place of Zeus, and moreover the guards of Zeus were terrible: but he entered unobserved the building shared by Athena and Hephaistos for the pursuit of their arts, and stealing Hephaistos's fiery art and all Athena's also he gave them to man, and hence it is that man gets facility for his livelihood, but Prometheus, through Epimetheus' fault, later on (the story goes) stood his trial for theft.
+     <br/>
+     And now that man was partaker of a divine portion [i.e. of the arts originally apportioned to gods alone], he, in the first place, by his nearness of kin to deity, was the only creature that worshipped gods, and set himself to establish altars and holy images; and secondly, he soon was enabled by his skill to articulate speech and words, and to invent dwellings, clothes, sandals, beds, and the foods that are of the earth."
+     <br/>
+     [For the first part of this extract from Plato see "Prometheus &amp; the Creation of Man" (above).]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Plato, The Statesman 269a - 274d  (trans. Fowler) :
+     </span>
+     <br/>
+     "[Plato employs the myth of Prometheus in a philosophical discussion :]
+     <br/>
+     Stranger : We have often heard the tale of the reign of Kronos . . . And how about the story that the ancient folk were earthborn and not begotten of one another?
+     <br/>
+     Younger Sokrates (Socrates) : That is one of the old tales, too . . .
+     <br/>
+     Stranger: In the reign of Kronos (Cronus). . . all the fruits of the earth sprang up of their own accord for men . . . god himself was their shepherd, watching over them, just as man, being an animal of different and more divine nature than the rest, now tends the lower species of animals . . .
+     <br/>
+     [But in the subsequent reign of Zeus,] men, deprived of the care of the deity [Kronos] who had possessed and tended us, since most of the beasts who were by nature unfriendly had grown fierce, and they themselves were feeble and unprotected, were ravaged by the beasts and were in the first ages still without resources or skill; the food which had formerly offered itself freely had failed them, and they did not yet know how to provide for themselves, because no necessity had hitherto compelled them. On all these accounts they were in great straits; and that is the reason why the gifts of the gods that are told of in the old traditions were given us with the needful information and instruction,--fire by Prometheus, the arts by Hephaistos (Hephaestus) and the goddess [Athena] who is his fellow-artisan, seeds and plants by other deities [i.e. Demeter and Dionysos]. And from these has arisen all that constitutes human life, since, as I said a moment ago, the care of the gods had failed men and they had to direct their own lives and take care of themselves."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 45 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Prometheus, after forming men from water and earth, gave them fire, which he had hidden in a stalk of giant fennel to escape the notice of Zeus. When Zeus found out, he ordered Hephaistos to rivet the body of Prometheus to Mount Kaukasos (Caucasus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 5. 67. 1 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "[Diodorus rationalises the Prometheus myth :] To Iapetos (Iapetus) was born Prometheus, of whom tradition tells us, as some writers of myths record, that he stole fire from the gods and gave it to mankind, though the truth is that he was the discoverer of those things which give forth fire and from which it may be kindled."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 15. 2 :
+     </span>
+     <br/>
+     "And Zeus, when Prometheus had taken fire and given it to men, put him in chains."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aelian, On Animals 6. 51 (trans. Scholfield) (Greek natural history C2nd A.D.) :
+     </span>
+     <br/>
+     "It behoves me to repeat a story, which I know from having heard it, regarding this creature [the viper], so that I may not appear ignorant of it. It is said that Prometheus stole fire, and the story goes that Zeus was angered and bestowed upon those who laid information of the theft a drug to ward off old age. So they took it, as I am informed, and placed it upon an ass. The ass proceeded with the load on its back; and it was summer time, and the ass came thirsting to a spring in its need for a drink. Now the snake which was guarding the spring tried to prevent it and force it back, and the ass in torment gave it as the price of the loving-cup the drug it happened to be carrying. And so there was an exchange of gifts: the ass got his drink and the snake sloughed his old age, receiving in addition, so the story goes, the ass's thirst. 
+  What then? Did I invent the legend? I will deny it, for before me it is celebrated by Sophokles, the tragic poet [C5th B.C.], and Dinolokhos [C5th B.C.], the rival of Epikharmos (Epicharmus), and Ibykos of Rhegion (Ibycus of Rhegium), and the comic poets Aristias and Apollophanes."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 144 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Men in early times sought fire from the gods, and did not know how to keep it alive. Later Prometheus brought it to earth in a fennel-stalk, and showed men how to keep it covered over with ashes. Because of this, Mercurius [Hermes], at Jove's [Zeus'] command, bound him with iron spikes to a cliff on Mount Caucasus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 15 :
+     </span>
+     <br/>
+     "Jupiter [Zeus], when he realized what had been done [Prometheus tricked him out of the best part of the sacrifice], in anger took fire from mortals, lest the favour of Prometheus should seem to have more weight than the power of the gods, and that uncooked flesh should not be useful to men. Prometheus, however, who was accustomed to scheming, planned by his own efforts to bring back the fire that had been taken from men. So, when the others were away, he approached the fire of Jove, and with a small bit of this shut in a fennel-stalk he came joyfully, seeming to fly, not to run, tossing the stalk so that the air shut in with its vapours should not put out the flame in so narrow a space. Up to this time, then, men who bring good news usually come with speed. In the rivalry of the games they also make it a practice for the runners to run, shaking torches after the manner of Prometheus.
+     <br/>
+     In return for this deed, Jupiter, to confer a like favour on men, gave a woman to them, fashioned by Vulcanus [Hephaistos (Hephaestus)], and endowed with all kinds of gifts by the will of the gods. For this reason she was called Pandora. But Prometheus he bound with an iron chain to a mountain in Scythia named Caucasus for thirty thousand years."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Virgil, Georgics 6. 41 ff (trans. Fairclough) (Roman bucolic C1st B.C.) :
+     </span>
+     <br/>
+     "Then he [the poet Orpheus] sings of the stones that Pyrrha threw, of Saturnus' [Kronos' (Cronus)] reign, of Caucasian eagles, and the theft of Prometheus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pliny the Elder, Natural History 7. 198 (trans. Rackham) (Roman encyclopedia C1st A.D.) :
+     </span>
+     <br/>
+     "[On inventions :] The storing of fire in a fennel-stalk [was invented] by Prometheus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 820 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[The witch Medea employs various fabulous ingredients in a spell to create magical fire :] Within this tawny gold [she takes a casket] lurks fire, darkly hid; Prometheus gave it me, even he who expiates with ever-growing live his theft from heaven, and taught me by his art how to store up its powers."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 7. 7 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Aion, Father Time, addresses Zeus :] ‘Prometheus himself is the cause of man's misery--Prometheus who cares for poor mortals! Instead of fire which is the beginning of all evil he ought rather to have stolen sweet nectar, which rejoices the heart of the gods, and given that to men, that he might have scattered the sorrows of the world with your own drink.’"
+    </p>
+    <p class="see-also">
+     For the RELATED myth of the creation of the first woman see
+     <a href="../Heroine/Pandora.html">
+      PANDORA
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Sacrifices">
+     PROMETHEUS &amp; THE SACRIFICIAL SHARE
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 511 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And ready-witted Prometheus he [Zeus] bound with inextricable bonds, cruel chains, and drove a shaft through his middle, and set on him a long-winged eagle, which used to eat his immortal liver; but by night the liver grew as much again everyway as the long-winged bird devoured in the whole day. That bird Herakles (Heracles), the valiant son of shapely-ankled Alkmene (Alcmena), slew; and delivered the son of Iapetos from the cruel plague, and released him from his affliction--not without the will of Olympian Zeus who reigns on high, that the glory of Herakles the Theban-born might be yet greater than it was before over the plenteous earth.
+     <br/>
+     This, then, he regarded, and honoured his famous son; though he was angry, he ceased from the wrath which he had before because Prometheus matched himself in wit with the almighty son of Kronos (Cronus).  
+  For when the gods and mortal men had a dispute at Mekone (Mecone), even then Prometheus was forward to cut up a great ox and set portions before them, trying to befool the mind of Zeus. Before the rest he set flesh and inner parts thick with fat upon the hide, covering them with an ox paunch; but for Zeus he put the white bones dressed up with cunning art and covered with shining fat. Then the father of men and of gods said to him : ‘Son of Iapetos (Iapetus), most glorious of all lords, good sir, how unfairly you have divided the portions!’
+     <br/>
+     So said Zeus whose wisdom is everlasting, rebuking him. But wily Prometheus answered him, smiling softly and not forgetting his cunning trick : ‘Zeus, most glorious and greatest of the eternal gods, take which ever of these portions your heart within you bids.’
+     <br/>
+     So he said, thinking trickery. But Zeus, whose wisdom is everlasting, saw and failed not to perceive the trick, and in his heart he thought mischief against mortal men which also was to be fulfilled. With both hands he took up the white fat and was angry at heart, and wrath came to his spirit when he saw the white ox-bones craftily tricked out: and because of this the tribes of men upon earth burn white bones to the deathless gods upon fragrant altars. But Zeus who drives the clouds was greatly vexed and said to him : ‘Son of Iapetos, clever above all! So, sir, you have not yet forgotten your cunning arts!’
+     <br/>
+     So spake Zeus in anger, whose wisdom is everlasting; and from that time he was always mindful of the trick, and would not give the power of unwearying fire to the Melian race of mortal men who live on the earth. But the noble son of Iapetos outwitted him and stole the far-seen gleam of unwearying fire in a hollow fennel stalk. And Zeus who thunders on high was stung in spirit, and his dear heart was angered when he saw amongst men the far-seen ray of fire. Forthwith he made an evil thing for men as the price of fire; for the very famous Limping God [Hephaistos (Hephaestus)] formed of earth the likeness of a shy maiden as the son of Kronos willed . . . So it is not possible to deceive or go beyond the will of Zeus; for not even the son of Iapetos, kindly Prometheus, escaped his heavy anger, but of necessity strong bands confined him, although he knew many a wile."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 482 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[After stealing fire from the gods Prometheus instructed man in the arts including the reading of the signs of the sacrifice :] ‘I marked out many ways by which they might read the future . . . The smoothness of their [the sacrificial animal's] entrails, and what color the gall must have to please the gods, also the speckled symmetry of the liver-lobe; and the thigh-bones, wrapped in fat, and the long chine I burned and initiated mankind into an occult art. Also I cleared their vision to discern signs from flames, which were obscure before this.’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 15 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "When the men of old with great ceremony used to carry on the sacrificial rites of the immortal gods, they would burn the victims entire in the flame of the sacrifice. And so, when the poor were prevented from making sacrifices on account of the great expense, Prometheus, who with his wonderful wisdom is thought to have made men, by his pleading is said to have obtained permission from Jove [Zeus] for them to cast only a part of the victim into the fire, and to use the rest for their own food. This practice custom later established. Since he had obtained this permission, not as from a covetous man, but easily, as from a god, Prometheus himself sacrifices two bulls. When he had first placed their entrails on the altar, he put the remaining flesh of the two bulls in one heap, covering it with an oxhide. Whatever bones there were he covered with the other skin and put it down between them, offering Jove [Zeus] the choice of either part for himself. Jupiter, although he didn't act with divine forethought, nor as a god who ought to foresee everything, was deceived by Prometheus--since we have started to believe the tale!--and thinking each part was a bull, shoe the bones for his half. And so after this, in solemn rites and sacrifices, when the flesh of victims has been consumed, they burn with fire the remaining parts which are the gods. But, to come back to the subject, Jupiter [Zeus], when he realized what had been done, in anger took fire from mortals, lest the favour of Prometheus should seem to have more weight than the power of the gods, and that uncooked flesh should not be useful to men."
+     <span class="quote-greek">
+     </span>
+    </p>
+    <figure class="image-main-wide">
+     <a href="../Gallery/T21.5.html">
+      <img alt="Heracles, Prometheus and the | Athenian black figure skyphos C6th B.C. | National Archaeological Museum, Athens" class="img-responsive center-block" src="../image/T21.5Prometheus.jpg"/>
+     </a>
+     <figcaption>
+      Heracles, Prometheus and the Caucasian Eagle, Athenian  skyphos C6th B.C.,
+      <a href="http://www.namuseum.gr/" target="_blank">
+       National Archaeological Museum, Athens
+      </a>
+     </figcaption>
+    </figure>
+    <hr/>
+    <h3 id="Bound">
+     THE CHAINING, TORTURE &amp; RELEASE OF PROMETHEUS
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Hesiod, Theogony 511 ff (trans. Evelyn-White) (Greek epic C8th or C7th B.C.) :
+     </span>
+     <br/>
+     "And ready-witted Prometheus he [Zeus] bound with inextricable bonds, cruel chains, and drove a shaft through his middle, and set on him a long-winged eagle, which used to eat his immortal liver; but by night the liver grew as much again everyway as the long-winged bird devoured in the whole day. That bird Herakles (Heracles), the valiant son of shapely-ankled Alkmene (Alcmena), slew; and delivered the son of Iapetos from the cruel plague, and released him from his affliction--not without the will of Olympian Zeus who reigns on high, that the glory of Herakles the Theban-born might be yet greater than it was before over the plenteous earth. This, then, he regarded, and honoured his famous son; though he was angry, he ceased from the wrath which he had before because Prometheus matched himself in wit with the almighty son of Kronos (Cronus) . . . So it is not possible to deceive or go beyond the will of Zeus; for not even the son of Iapetos (Iapetus), kindly Prometheus, escaped his heavy anger, but of necessity strong bands confined him, although he knew many a wile."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 1 - 122 (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "[Enter Kratos (Cratus, Power) and Bia (Force), bringing with them Prometheus captive; also Hephaistos (Hephaestus).]
+     <br/>
+     Kratos (Cratus) : To earth's remotest limit we come, to the Skythian (Scythian) land, an untrodden solitude. And now, Hephaistos, yours is the charge to observe the mandates laid upon you by the Father [Zeus]--to clamp this miscreant [the Titan Prometheus] upon the high craggy rocks in shackles of binding adamant that cannot be broken. For your own flower, flashing fire, source of all arts, he has purloined and bestowed upon mortal creatures. Such is his offence; for this he is bound to make requital to the gods, so that he may learn to bear with the sovereignty of Zeus and cease his man-loving ways.
+     <br/>
+     Hephaistos (Hephaestus) : Kratos and Bia, for you indeed the behest of Zeus is now fulfilled, and nothing remains to stop you. But for me--I do not have the nerve myself to bind with force a kindred god upon this rocky cleft assailed by cruel winter. Yet, come what may, I am constrained to summon courage to this deed; for it is perilous to disregard the commandments of the Father. Lofty-minded  (
+     <em>
+      aipymêtês
+     </em>
+     ) son of Themis who counsels straight, against my will, no less than yours, I must rivet you with brazen bonds no hand can loose to this desolate crag, where neither voice nor form of mortal man shall you perceive; but, scorched by the sun's bright beams, you shall lose the fair bloom of your flesh. And glad you shall be when spangled-robed night shall veil his brightness and when the sun shall scatter again the frost of morning. Evermore the burden of your present ill shall wear you out; for your deliverer is not yet born.
+     <br/>
+     Kratos : Well, why delay and excite pity in vain? Why do you not detest a god most hateful to the gods, since he has betrayed your prerogative to mortals?
+     <br/>
+     Hephaistos : A strangely potent tie is kinship, and companionship as well . . .
+     <br/>
+     Kratos : Hurry then to cast the fetters about him, so that the Father [Zeus] does not see you loitering.
+     <br/>
+     Hephaistos : Well, there then! The bands are ready, as you may see.
+     <br/>
+     Kratos : Cast them about his wrists and with might strike with your hammer; rivet him to the rocks.
+     <br/>
+     Hephaistos : There! The work is getting done and not improperly.
+     <br/>
+     Kratos: Strike harder, clamp him tight, leave nothing loose; for he is wondrously clever at finding a way even out of desperate straits.
+     <br/>
+     Hephaistos : This arm, at least, is fixed permanently.
+     <br/>
+     Kratos : Now rivet this one too and securely, so that he may learn, for all his cleverness, that he is a fool compared to Zeus.
+     <br/>
+     Hephaistos : None but he could justly blame my work.
+     <br/>
+     Kratos : Now drive the adamantine wedge's stubborn edge straight through his chest with your full force.
+     <br/>
+     Hephaistos : Alas, Prometheus, I groan for your sufferings.
+     <br/>
+     Kratos : What! Shrinking again and groaning over the enemies of Zeus? Take care, so that the day does not come when you shall grieve for yourself.
+     <br/>
+     Hephaistos: You see a spectacle grievous for eyes to behold.
+     <br/>
+     Kratos: I see this man getting his deserts. Come, cast the girths about his sides.
+     <br/>
+     Hephaistos : I must do this; spare me your needless ordering.
+     <br/>
+     Kratos : Indeed, I'll order you, yes and more--I'll hound you on. Get down below, and ring his legs by force.
+     <br/>
+     Hephaistos : There now! The work's done and without much labor.
+     <br/>
+     Kratos : Now hammer the piercing fetters with your full force; for the appraiser of our work is severe.
+     <br/>
+     Hephaistos : The utterance of your tongue matches your looks.
+     <br/>
+     Kratos : Be softhearted then, but do not attack my stubborn will and my harsh mood.
+     <br/>
+     Hephaistos: Let us be gone, since he has got the fetters on his limbs. 
+  [Exit.]
+     <br/>
+     Kratos : There now, indulge your insolence, keep on wresting from the gods their honors to give them to creatures of a day. Are mortals able to lighten your load of sorrow? Falsely the gods call you Prometheus, for you yourself need forethought to free yourself from this handiwork. 
+  [Exeunt Kratos and Bia.]
+     <br/>
+     Prometheu s: O you bright sky of heaven, you swift-winged breezes, you river-waters, and infinite laughter of the waves of sea, O universal mother Earth, and you, all-seeing orb of the sun, to you I call! See what I, a god, endure from the gods. Look, with what shameful torture I am racked and must wrestle throughout the countless years of time apportioned me. Such is the ignominious bondage the new commander of the blessed [Zeus] has devised against me. Woe! Woe! For present misery and misery to come I groan, not knowing where it is fated that deliverance from these sorrows shall arise. And yet, what am I saying? All that is to be I know full well and in advance, nor shall any affliction come upon me unforeseen. I must bear my allotted doom as lightly as I can, knowing that the might of Necessity (
+     <em>
+      anankê
+     </em>
+     ) permits no resistance.Yet I am not able to speak nor be silent about my fate. For it is because I bestowed good gifts on mortals that this miserable yoke of constraint has been bound upon me. I hunted out and stored in fennel stalk the stolen source of fire that has proved a teacher to mortals in every art and a means to mighty ends. Such is the offence for which I pay the penalty, riveted in fetters beneath the open sky . . . Behold me, an ill-fated god, chained, the foe of Zeus, hated of all who enter the court of Zeus, because of my very great love for mankind."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 115 ff :
+     </span>
+     <br/>
+     "Prometheus [after being chained to the mountain] : Ha! Behold! What murmur, what scent wings to me, its source invisible, heavenly or human, or both? Has someone come to this crag at the edge of the world to stare at my sufferings--or with what motive? Behold me, an ill-fated god, chained, the foe of Zeus, hated of all who enter the court of Zeus, because of my very great love for mankind. Ha! What's this? What may be this rustling stir of birds I hear again nearby? The air whirs with the light rush of wings. Whatever approaches causes me alarm [i.e. he thinks he hears the Eagle approaching, sent by Zeus to feed on his liver].
+     <br/>
+     [The Okeanides (Oceanids) enter on a winged car, probably representing the clouds.]
+     <br/>
+     Chorus [of Okeanides] : Do not fear! For our group has come in swift rivalry of wings to this crag as friend to you, having won our father's [Okeanos' (Oceanus')] consent as best we might. The swift-coursing breezes bore me on; for the reverberation of the clang of iron pierced the depths of our caves and drove my grave modesty away in fright; unsandalled I have hastened in a winged car.
+     <br/>
+     Prometheus : Alas! Alas! Offspring of fruitful  Tethys and of him who with his sleepless current encircles the whole earth, children of your father Okeanos, behold, see with what fetters, upon the summit crag of this ravine, I am to hold my unenviable watch.
+     <br/>
+     Chorus : I see, Prometheus; and over my eyes a mist of tears and fear spread as I saw your body withering ignominiously upon this rock in these bonds of adamant. For there are new rulers in heaven, and Zeus governs with lawless customs; that which was mighty before he now brings to nothing.
+     <br/>
+     Prometheus : Oh if only he had hurled me below the earth, yes beneath Haides, the entertainer of the dead, into impassable Tartaros (Tartarus) [like the other Titanes], and had ruthlessly fastened me in fetters no hand can loose, so that neither god nor any other might have gloated over this agony I feel! But, now, a miserable plaything of the winds, I suffer pains to delight my enemies."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 168 ff :
+     </span>
+     <br/>
+     "[The chained Prometheus predicts his release :] Truly the day shall come when, although I am tortured in stubborn fetters, the prince of the blessed [Zeus] will need me to reveal the new design whereby he shall be stripped of his sceptre and his dignities [i.e. the secret of which goddess would bear a son to overthrow Zeus] . . . One day his [Zeus'] judgement will soften, when he has been crushed in the way that I know. Then, calming down his stubborn wrath, he shall at last [release the Titan and] bond with me in union and friendship, as eager as I am to welcome him."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 257 ff :
+     </span>
+     <br/>
+     "Chorus [of Okeanides (Oceanids)] : Then it was on a charge like this [the theft of fire] that Zeus--
+     <br/>
+     Prometheus : Torments me and in no way gives me respite from pain.
+     <br/>
+     Chorus : And is there no end assigned to your ordeal?
+     <br/>
+     Prometheus : No, none except when it seems good to him.
+     <br/>
+     Chorus : But how will it seem good to him? What hope is there? . . .
+     <br/>
+     Prometheus : . . . Of my own will, yes, of my own will I erred--I will not deny it. By helping mortals I found suffering for myself; nevertheless I did not think I would be punished in this way--wasting away upon cliffs in mid-air, my portion this desolate and dreary crag. And now, bewail no more my present woes; alight on the ground and listen to my oncoming fortunes so that you may be told them from end to end."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 309 ff :
+     </span>
+     <br/>
+     "[The Titan Okeanos (Oceanus) visits Prometheus bound to express his sympathy:]
+     <br/>
+     Okeanos (Oceanus) : I see, Prometheus; and I want to give you the best advice, although you yourself are wily. Learn to know yourself and adapt yourself to new ways; for new also is the ruler among the gods. If you hurl forth words so harsh and of such whetted edge, perhaps Zeus may hear you, though throned far off, high in the heavens, and then your present multitude of sorrows shall seem but childish sport. Oh wretched sufferer! Put away your wrathful mood and try to find release from these miseries. Perhaps this advice may seem to you old and dull; but your plight, Prometheus, is only the wages of too boastful speech. You still have not learned humility, nor do you bend before misfortune, but would rather add even more miseries to those you have. Therefore take me as your teacher and do not add insult to injury, seeing that a harsh monarch now rules who is accountable to no one. So now I will depart and see whether I can release you from these sufferings. And may you hold your peace and be not too blustering of speech. Or, can it be that for all your exceeding wisdom, you do not know that chastisement is inflicted on a wagging tongue?
+     <br/>
+     Prometheus : I envy you because you have escaped blame for having dared to share with me in my troubles. So now leave me alone and let it not concern you. Do what you want, you cannot persuade him [Zeus]; for he is not easy to persuade. Beware that you do not do yourself harm by the mission you take."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 399 ff :
+     </span>
+     <br/>
+     "Chorus [of Okeanides (Oceanids)] : I mourn your unfortunate fate, Prometheus. Shedding from my eyes a coursing flood of tears I wet my tender cheeks with their moist streams. For Zeus, holding this unenviable power by self-appointed laws, displays towards the gods of old an overweening spirit. 
+  Now the whole earth cries aloud in lamentation [missing text] . . . lament the greatness of the glory of your time-hallowed honor, the honor that was yours and your brother's [Atlas']; and all mortals who make their dwelling place in holy Asia share the anguish of your most lamentable suffering . . . The waves of the sea (
+     <em>
+      pontos
+     </em>
+     ) utter a cry as they fall, the deep laments, the black abyss of Aides [Haides] rumbles in response, and the streams of pure-flowing rivers lament your piteous pain."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 511 ff :
+     </span>
+     <br/>
+     "Prometheus : Not in this way is Moira (Fate), who brings all to fulfillment, destined to complete this course [i.e. Zeus will not relent and release Prometheus prematurely]. Only when I have been bent by pangs and tortures infinite am I to escape my bondage . . .
+     <br/>
+     Chorus : Why, what is fated for Zeus except to hold eternal sway? . . .
+     <br/>
+     Prometheus : Think of some other subject, for it is not the proper time to speak of this. No matter what, this must be kept concealed; for it is by safeguarding it that I am to escape my dishonorable bonds and outrage." [I.e. Zeus will  be forced to release Prometheus  in return for knowledge of a secret prophesy revealing which the goddess destined to bear a son greater than his father--a child which, if sired by Zeus, would threaten his throne.]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 545 ff :
+     </span>
+     <br/>
+     "[Chorus to Prometheus :] Come, my friend, how mutual was your reciprocity? [i.e. Prometheus suffers for his gifts mankind, but mankind can do nothing to help him in his plight.] Tell me, what kind of help is there in creatures of a day [humans]? What aid? Did you not see the helpless infirmity, no better than a dream, in which the blind generation of men is shackled? Never shall the counsels of mortal men transgress the ordering of Zeus."
+    </p>
+    <figure class="image-main image-main-375">
+     <a href="../Gallery/T21.4.html">
+      <img alt="Heracles, Prometheus and the Eagle | Apulian red-figure vase C4th B.C. | Antikensammlung Berlin" class="img-responsive center-block" src="../image/T21.4Prometheus.jpg"/>
+     </a>
+     <figcaption>
+      Heracles, Prometheus and the Eagle, Apulian red-figure vase C4th B.C.,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 612 ff :
+     </span>
+     <br/>
+     "Prometheus : I whom you see am Prometheus, who gave fire to mankind . . .
+     <br/>
+     Io : Tell me who has bound you fast in this ravine.
+     <br/>
+     Prometheus : Zeus by his will, Hephaistos (Hephaestus) by his hand."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 753 ff :
+     </span>
+     <br/>
+     "Prometheus : Ah, you would hardly bear my agonies to whom it is not foredoomed to die; for death would have freed me from my sufferings. But now no limit to my tribulations has been appointed until Zeus is hurled from his sovereignty.
+     <br/>
+     Io : What! Shall Zeus one day be hurled from his dominion? . . .
+     <br/>
+     Io : By whom shall he [Zeus] be despoiled of the sceptre of his sovereignty?
+     <br/>
+     Prometheus : By himself and his own empty-headed purposes.
+     <br/>
+     Io : In what way? Oh tell me, if there be no harm in telling.
+     <br/>
+     Prometheus : He shall make a marriage that shall one day cause him distress.
+     <br/>
+     Io : With a divinity or with a mortal? If it may be told, speak out.
+     <br/>
+     Prometheus : Why ask with whom? I may not speak of this.
+     <br/>
+     Io : Is it by his consort that he shall be dethroned?
+     <br/>
+     Prometheus : Yes, since she shall bear a son mightier than his father.
+     <br/>
+     Io : And has he no means to avert this doom?
+     <br/>
+     Prometheus : No, none--except me, if I were released from bondage.
+     <br/>
+     Io : Who then is to release you against the will of Zeus?
+     <br/>
+     Prometheus : It is to be one of your own grandchildren [i.e. Herakles].
+     <br/>
+     Io : What did you say? A child of mine will release you from your misery?
+     <br/>
+     Prometheus : The third in descent after ten generations."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 869 ff :
+     </span>
+     <br/>
+     "Of her [Io's] seed, however, shall be born a man of daring [Herakles (Heracles)], renowned with the bow, who shall deliver me [Prometheus] from these toils. Such is the oracle recounted to me by my mother, Titan Themis, born long ago."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 907 ff :
+     </span>
+     <br/>
+     "Prometheus : Yes, truly, the day will come when Zeus, although stubborn of soul, shall be humbled, seeing that he plans a marriage [i.e. a union with the goddess Thetis] that shall hurl him into oblivion from his sovereignty and throne [since that goddess is destined to bear a son greater than his father]; and then immediately the curse his father Kronos invoked as he fell from his ancient throne, shall be fulfilled to the uttermost. Deliverance from such ruin no one of the gods can show him clearly except me. I know the fact and the means. So let him sit there in his assurance, putting his trust in the crash reverberating on high and brandishing his fire-breathing bolt in his hands. For these shall not protect him from falling in ignominious and unendurable ruin. Such an adversary is he now preparing despite himself, a prodigy irresistible, even one who shall discover a flame mightier than the lightning and a deafening crash to outroar the thunder; a prodigy who shall shiver the trident, Poseidon's spear, that scourge of the sea and shaker of the land. Then, wrecked upon this evil, Zeus shall learn how different it is to be a sovereign and a slave.
+     <br/>
+     Chorus [of Okeanides (Oceanids)] : Surely, it is only your own desire that you utter as a curse against Zeus.
+     <br/>
+     Prometheus : I speak what shall be brought to pass and, moreover, my own desire.
+     <br/>
+     Chorus : Must we really look for one to gain mastery over Zeus?
+     <br/>
+     Prometheus : Yes, and he shall bear upon his neck pangs more galling than these of mine.
+     <br/>
+     Chorus : How is it that you are not afraid to utter such taunts?
+     <br/>
+     Prometheus : Why should I fear since I am fated not to die?
+     <br/>
+     Chorus : But he might inflict on you an ordeal even more bitter than this.
+     <br/>
+     Prometheus : Let him, for all I care! I am prepared for anything.
+     <br/>
+     Chorus : Wise are they who do homage to Adrasteia (the inescapable).
+     <br/>
+     Prometheus : Worship, adore, and fawn upon whoever is your lord. But for Zeus I care less than nothing. Let him do his will, let him hold his power for his little day – since he will not bear sway over the gods for long."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 944 - 1090 :
+     </span>
+     <br/>
+     "[Enter Hermes with a message from Zeus for the chained Titan Prometheus.]
+     <br/>
+     Hermes : To you, the clever and crafty . . . I speak. The Father [Zeus] commands that you [Prometheus] tell what marriage you boast of, whereby he is to be hurled from power--and this, mark well, set forth in no riddling fashion, but point by point, as the case exactly stands; and do not impose upon me a double journey, Prometheus--you see Zeus is not appeased by dealings such as yours.
+     <br/>
+     Prometheus : . . . You shall learn nothing about which you question me . . . There is no torment or device by which Zeus shall induce me to utter thisuntil these injurious fetters are loosed. So then, let his blazing lightning be hurled, and with the white wings of the snow and thunders of earthquake let him confound the reeling world. For nothing of this shall bend my will even to tell at whose hands he is fated to be hurled from his sovereignty.
+     <br/>
+     Hermes : Look now whether this course seems to profit you.
+     <br/>
+     Prometheus : Long ago has this my course been foreseen and resolved.
+     <br/>
+     Hermes : Bend your will, perverse fool, oh bend your will at last to wisdom in face of your present sufferings.
+     <br/>
+     Prometheus : In vain you trouble me, as though it were a wave you try to persuade. Never think that, through terror at the will of Zeus, I shall become womanish and, with hands upturned, aping woman's ways, shall importune my greatly hated enemy to release me from these bonds. I am far, far from that.
+     <br/>
+     Hermes : I think that by speaking much I will only speak in vain; for you are not soothed nor are you softened by my entreaties . . . But if you will not be won to belief by my words, think of what a tempest and a towering wave of woe shall break upon you past escape. First, the Father will shatter this jagged cliff with thunder and lightning-flame, and will entomb your frame, while the rock shall still hold you clasped in its embrace. But when you have completed a long stretch of time, you shall come back again to the light. Then indeed the winged hound of Zeus, the ravening eagle, coming an unbidden banqueter the whole day long, with savage appetite shall tear your body piecemeal into great rents and feast his fill upon your liver until it is black with gnawing. Look for no term of this your agony until some god shall appear to take upon himself your woes and of his own free will descend into the sunless realm of Haides and the dark deeps of Tartaros. Therefore be advised, since this is no counterfeited vaunting but utter truth; for the mouth of Zeus does not know how to utter falsehood, but will bring to pass every word. May you consider warily and reflect, and never deem stubbornness better than wise counsel.
+     <br/>
+     Chorus [of Okeanides (Oceanids)] : To us, at least, Hermes seems not to speak untimely; for he bids you to lay aside your stubbornness and seek the good counsel of wisdom. Be advised! It is shameful for the wise to persist in error.
+     <br/>
+     Prometheus : No news to me, in truth, is the message this fellow has proclaimed so noisily. Yet for enemy to suffer ill from enemy is no disgrace. Therefore let the lightning's forked curl be cast upon my head and let the sky be convulsed with thunder and the wrack of savage winds; let the hurricane shake the earth from its rooted base, and let the waves of the sea mingle with their savage surge the courses of the stars in heaven; and let him lift me on high and hurl me down to black Tartaros with the swirling floods of stern Necessity: do what he will, me he shall never bring to death.
+     <br/>
+     Hermes: Such indeed are the thoughts and the words one hears from men deranged. Where does his prayer fall short of raving? Where does he abate his frenzy?--But, at all events, may you who sympathize with his anguish, withdraw in haste from this spot so that the relentless roar of the thunder does not stun your senses.
+     <br/>
+     Chorus : Use some other strain and urge me to some other course in which you are likely to convince me. This utterance in your flood of speech is, I think, past all endurance. How do you charge me to practise baseness? With him I am content to suffer any fate; for I have learned to detest traitors, and there is no pest I abhor more than this.
+     <br/>
+     Hermes : Well then, bear my warning in memory and do not blame your fortune when you are caught in the toils of calamity; nor ever say that it was Zeus who cast you into suffering unforeseen. Not so, but blame yourselves. For well forewarned, and not suddenly or secretly shall you be entangled in the inextricable net of calamity by reason of your folly. 
+  [Exit Hermes.]
+     <br/>
+     Prometheus : Indeed, now it has passed from word to deed--the earth rocks, the echoing thunder-peal from the depths rolls roaring past me; the fiery wreathed lightning-flashes flare forth, and whirlwinds toss the swirling dust; the blasts of all the winds leap forth and set in hostile array their embattled strife; the sky is confounded with the deep. Behold, this stormy turmoil advances against me visibly, sent by Zeus to frighten me. O holy mother mine, O you firmament that revolves the common light of all, you see the wrongs I suffer!"
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Prometheus Unbound (lost play) :
+       <br/>
+      </span>
+      Weir Smyth (L.C.L.) reconstructs the plot of Aeschylus' lost drama
+      <em>
+       Prometheus Unbound
+      </em>
+      (or
+      <em>
+       Prometheus Lyomenos
+      </em>
+      ) from the surviving fragments: "The Chorus [is formed] of Titans, now released from Tartarus by the clemency of Zeus. To them Prometheus describes his tortures and his benefits to man. In his search for the golden apples of the Hesperides, Herakles (Heracles), having come to the Kaukasos (Caucasus), where Prometheus is confined, receives from him directions concerning his course through the land of the peoples in the farthest north  and the perils to be encountered on his homeward march after slaying Geryon in the farthest west. Herakles' shooting of the eagle that fed on the vitals of the Titan [is then described]."
+     </span>
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 104 Prometheus Unbound (from Arrian, Voyage in the Euxine 99. 22) :
+       <br/>
+      </span>
+     </span>
+     "[The Titanes (Titans) address their nephew Prometheus :] We have come to look upon these thy ordeals, Prometheus, and the affliction of thy bonds."
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 107 Prometheus Unbound (from Cicero, Tusculan Disputations 2. 10. 23-25)  :
+       <br/>
+      </span>
+     </span>
+     <span class="biblio">
+      "[Prometheus addresses his Titan uncles :]
+     </span>
+     ‘Ye race of Titanes (Titans), offspring of Ouranos (Uranus), blood-kinsmen mine! Behold me fettered, clamped to these rough rocks, even as a ship is moored fast by timid sailors, fearful of night because of the roaring sea. Thus hath Zeus, the son of Kronos (Cronus), fastened me, and to the will of Zeus hath Hephaistos (Hephaestus) lent his hand. With cruel art hath he riven my limbs by driving in these bolts. Ah, unhappy that I am! By his skill transfixed, I tenant this stronghold of the Erinyes (Furies). And now, each third woeful day, with dreadful swoop, the minister of Zeus with his hooked talons rends me asunder by his cruel repast. Then, crammed and glutted to the full on my fat liver, the utters a prodigious scream and, soaring aloft, with winged tail fawns upon my gore. But when my gnawed liver swells, renewed in growth, greedily doth he return anew to his fell repast. Thus do I feed this guardian of my awful torture, who mutilates me living with never-ending pain. For fettered, as ye see, by the bonds of Zeus, I have no power to drive from my vitals the accursed bird. Thus, robbed of self-defence, I endure woes fraught with torment: longing for death, I look around for an ending of my misery; but by the doom of Zeus I am thrust far from death. And this my ancient dolorous agony, intensified by the dreadful centuries, is fastened upon my body, from which there fall, melted by the blazing sun, drops that unceasingly pour upon the rocks of Kaukasos (Caucasus).’"
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 109 Prometheus Unbound (from Galen, Commentary on Hippocrates' Epidemics 6. 17. 1)  :
+       <br/>
+      </span>
+     </span>
+     "[Prometheus directs Herakles (Heracles) to the far west in his quest for the golden apples of the Hesperides :] ‘Follow this straight road; and, first of all, thou shalt come to the Boreades (north winds), where do thou beware the roaring hurricane, lest unawares it twist thee up and snatch thee away in wintry whirlwind.’"
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 113 Prometheus Unbound (from Plutarch, On Love 14. 757E)  :
+       <br/>
+      </span>
+     </span>
+     "[
+     <span class="biblio">
+      The prayer of Herakles as he bends his bow against the eagle that rends Prometheus :]
+     </span>
+     ‘May Hunter Apollon speed my arrow straight!’"
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 114 Prometheus Unbound (from Plutarch, Life of Pompey 1)  :
+       <br/>
+      </span>
+     </span>
+     "[Prometheus
+     <span class="biblio">
+      addresses Herakles as the author of his deliverance
+     </span>
+     :] ‘Of his sire, mine enemy, this dearest son.’"
+    </p>
+    <p>
+     <span class="biblio">
+      <span class="quote-greek">
+       Aeschylus, Fragment 128 Sphinx (from Athenaeus, Deipnosophists 15. 16. 674D)  :
+       <br/>
+      </span>
+     </span>
+     "For the stranger a garland, an ancient crown, the best of bonds, as Prometheus said."
+     <br/>
+     [N.B. Athenaeus (15. 13. 672E-F) cites Menodotus of Samos to the effect that, after Zeus had freed Prometheus from his bonds and the Titan had professed himself willing to make a "voluntary and painless" expiation for his theft of fire, Zeus ordered him to wear a garland as a symbolic punishment; and that the Carian custom of wearing garlands of osier was a memorial of the shackles once worn by Prometheus, the benefactor of mankind. Athenaeus himself (15. 16. 674D) states that Aeschylus, in the
+     <em>
+      Prometheus Unbound
+     </em>
+     , distinctly says: "In honour of Prometheus we place garlands on our heads as an atonement for his bonds."]
+    </p>
+    <p>
+     <span class="quote-greek">
+      Melanippides, Fragment 765 (from Scholiast on Homer's Iliad) (trans. Campbell, Vol. Greek Lyric V) (Greek lyric C5th B.C.) :
+     </span>
+     <br/>
+     "That is why Melanippides says that Thetis was pregnant by Zeus when she was given in marriage to Peleus because of the remarks of Prometheus or Themis [i.e. that she would bear a son greater than his father]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 1. 45 (trans. Aldrich) (Greek mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Prometheus, after forming men from water and earth, gave them fire, which he had hidden in a stalk of giant fennel to escape the notice of Zeus. When Zeus found out, he ordered Hephaistos (Hephaestus) to rivet the body of Prometheus to Mount Kaukasos (Caucasus), a Skythian (Scythian) mountain, where he was kept fastened and bound for many years. Each day an eagle would fly to him and munch on the lobes of his liver, which would then grow back at night. That was the price that Prometheus paid for stealing fire, until Herakles set him free later on."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 119 - 120 :
+     </span>
+     <br/>
+     "Then after proceeding through Libya to the sea beyond, he [Herakles (Heracles)] appropriated the goblet from Helios (the Sun). [I.e. for his journey from Libya around the ring of the River Okeanos (Oceanus) to the Kaukasos (Caucasus) mountains in the far east.]
+     <br/>
+     When he [Herakles] reached the mainland on the other side he killed with an arrow the eagle on the Kaukasos, the product of Ekhidna (Echidna) and Typhon that had been eating the liver of Prometheus. Then he selected for himself a restraining bond of olive, and released Prometheus; and he offered Zeus Kheiron (Chiron), who was willing to die in Herakles' place. 
+  Prometheus advised Herakles not to go after the apples himself, but rather to relive Atlas of the celestial sphere and dispatch him. So when Herakles reached Atlas among the Hyperboreans, he remembered Prometheus' advise and took over the sphere."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 2. 83 :
+     </span>
+     <br/>
+     "[The Kentauroi (Centaurs)] took refuge with Kheiron (Chiron) . . . Herakles (Heracles) let loose an arrow at the Kentaroi as they huddled round Kheiron, which penetrated the arm of Elatos (Elatus) and landed in Kheiron's knee. In horror Herakles ran to him, pulled out the arrow and dressed the wound with a salve that Kheiron handed him. The festering wound was incurable, however, and Kheiron moved into his cave, where he yearned for death, but could not die because he was immortal. Prometheus thereupon proposed Herakles to Zeus, to become immortal in place of Kheiron: and so Kheiron died."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pseudo-Apollodorus, Bibliotheca 3. 169 :
+     </span>
+     <br/>
+     "Some say that, when Zeus was eager to have sex with Thetis, Prometheus told him that his son by her would take over dominion of the sky."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 2. 1238 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "And now the last recess of the Black Sea opened up and they [the Argonauts] caught sight of the high crags of the Kaukasos (Caucasus), where Prometheus stood chained by every limb to the hard rock with fetters of bronze, and fed an eagle on his liver. The bird kept eagerly returning to its feed. They saw it in the afternoon flying high above the ship with a strident whirr. It was near the clouds, yet it made all their canvas quiver to its wings as it beat by. For its form was not that of an ordinary bird: the long quill-feathers of each wing rose and fell like a bank of polished oars. Soon after the eagle had passed, they heard Prometheus shriek in agony as it pecked at his liver. The air rang with his screams till at length they saw the flesh-devouring bird fly back from the mountain by the same way as it came."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 844 ff :
+     </span>
+     <br/>
+     "The blood-like ichor of Prometheus in his torment, which the flesh-eating eagle had dropped on the spurs of Kaukasos (Caucasus)."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Callimachus, Fragment 551 (trans. Trypanis) (Greek poet C3rd B.C.) :
+     </span>
+     <br/>
+     "And him [the Caucasian Eagle] who devoured the liver of the protector of mankind [Prometheus]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Diodorus Siculus, Library of History 4. 15. 2 (trans. Oldfather) (Greek historian C1st B.C.) :
+     </span>
+     <br/>
+     "And Zeus, when Prometheus had taken fire and given it to men, put him in chains and set an eagle at his side which devoured his liver. But when Herakles saw him suffering such punishment because of the benefit which he had conferred upon men, he killed the eagle with an arrow, and then persuading Zeus to cease from his anger he rescued him who had been the benefactor of all."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 4. 1. 7 (trans. Jones) (Greek geographer C1st B.C. to C1st A.D.) :
+     </span>
+     <br/>
+     "Prometheus, in Aiskhylos' (Aeschylus') poem [i.e.
+     <em>
+      Prometheus Unbound
+     </em>
+     ], in detailing to Herakles (Heracles) the route of the roads from the Kaukasos (Caucasus) to the Hesperides says: ‘And thou wilt come to the undaunted host of the Ligurians [and foretells the hero's battle with the Ligurians].’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Strabo, Geography 11. 5. 5 :
+     </span>
+     <br/>
+     "The mountains which lie above Kolkhis (Colchis) and the Euxine [Black Sea] are the mountains which the Greeks named Kaukasos (Caucasus) . . . and here it was that they laid the scene of the story of Prometheus and of his being put in bonds; for these were the farthermost mountains towards the east that were known to writers of that time. And the expedition of Dionysos and Herakles (Heracles) to the country of the Indians looks like a mythical story of later date, because Herakles is said to have released Prometheus one thousand years later . . . [and] the tradition was that Prometheus was bound at the ends of the earth on the Kaukasos."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 5. 11. 6 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "At Olympia [in the temple of Zeus around the god's statue] there are screens constructed like walls which keep people out. Of these screens . . . parts show pictures by Panainos (Panaenus). Among them is Atlas, supporting heaven and earth, by whose side stands Herakles ready to receive the load of Atlas . . . and [elsewhere] Prometheus still held by his chains, though Herakles (Heracles) has been raised up to him. For among the stories told about Herakles is one that he killed the eagle which tormented Prometheus in the Kaukasos (Caucasus), and set free Prometheus himself from his chains."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 5. 334 ff (trans. Way) (Greek epic C4th A.D.) :
+     </span>
+     <br/>
+     "Against the wise Prometheus bitter-wroth the Sea-maids [Nereides] were, remembering how that Zeus, moved by his prophecies, unto Peleus gave Thetis to wife, a most unwilling bride. Then cried in wrath to these [the Nereis] Kymothoe (Cymothoe) : ‘O that the pestilent prophet [Prometheus] had endured all pangs he merited, when, deep-burrowing, the Eagle tare his liver aye renewed!’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 6. 269 ff :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the shield of Herakles' son Eurypylos (Eurypylus) :] And there, at the world's end, were Kaukasos' (Caucasus') long glens, where Herakles, rending Prometheus' chains, and hurling them this way and that with fragments of the rock whereinto they were riveted, set free the mighty Titan. Arrow-smitten lay the Eagle of the Torment there beside."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Quintus Smyrnaeus, Fall of Troy 10. 190 ff  :
+     </span>
+     <br/>
+     "[Amongst the scenes depicted on the quiver of Herakles (Heracles):] There was the Titan Iapetos' (Iapetus') great son [Prometheus] hung from the beetling crag of Kaukasos (Caucasus) in bonds of adamant, and the eagle tare his liver unconsumed--he seemed to groan!"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus the Elder, Imagines 2. 23 (trans. Fairbanks) (Greek rhetorician C3rd A.D.) :
+      <br/>
+     </span>
+     "They say that Prometheus was freed from bonds by him [Herakles]."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Philostratus, Life of Apollonius of Tyana 2. 3 (trans. Conybeare) (Greek biography C1st to C2nd A.D.) :
+     </span>
+     <br/>
+     "And legends are told of this mountain [Caucasus] by the barbarians, which also have an echo in the poems of the Greeks about it, to the effect that Prometheus because of his love of man, was bound there, and that Herakles (Heracles),--another Herakles and not the Theban is meant,--could not brook the ill-treatment of Prometheus, and shot the bird which was feeding upon his entrails. And some say that he was bound in a cave, which as a matter of fact is shown in a foot-hill of the mountain; and Damis [companion of Philostratus C1st A.D.] says that his chains still hung from the rocks, though you could not easily guess at the material of which they were made, but others say that they bound him on the peak of the mountain; and it has two summits, and they say that his hands were lashed to them, although thy are distant from one another not less than a stade [606 feet], so great was his bulk. But he inhabitants of the Kaukasos (Caucasus) regard the eagle as a hostile bird, and burn out the nests which they build among the rocks by hurling into them fiery darts, and they also set snares for them, declaring that they are avenging Prometheus; to such an extant are their imaginations dominated by the fable."
+    </p>
+    <figure class="image-main image-main-300">
+     <a href="../Gallery/T21.4.html">
+      <img alt="Prometheus bound | Apulian red-figure vase C4th B.C. | Antikensammlung Berlin" class="img-responsive center-block" src="../image/T21.4BPrometheus.jpg"/>
+     </a>
+     <figcaption>
+      Prometheus bound (detail), Apulian red-figure vase C4th B.C.,
+      <a href="http://www.smb.museum/museen-und-einrichtungen/antikensammlung/" target="_blank">
+       Antikensammlung Berlin
+      </a>
+     </figcaption>
+    </figure>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 144 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Men in early times sought fire from the gods, and did not know how to keep it alive. Later Prometheus brought it to earth in a fennel-stalk, and showed men how to keep it covered over with ashes. Because of this, Mercurius [Hermes], at Jove's [Zeus'] command, bound him with iron spikes to a cliff on Mount Caucasus, and set an eagle to eat out his heart; as much as it devoured in the day, so much grew again at night. After 30,000 years Hercules killed this eagle and freed Prometheus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 31  :
+     </span>
+     <br/>
+     "The shining eagle which was eating out the heart of Prometheus he [Herakles] killed with his arrows."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Fabulae 54 :
+     </span>
+     <br/>
+     "A prediction about Thetis, the Nereid, was that her son would be greater than his father. Since no one but Prometheus knew this, and Jove wished to lie with her, Prometheus promised Jove [Zeus] that he would give him timely warning if he would free him from his chains. And so when the promise was given he advised Jove not to lie with Thetis, for if one greater than he were born he might drive Jove from his kingdom, as he himself had done to Saturnus [Kronos]. And so Thetis was given in marriage to Peleus, son of Aeacus, and Hercules was sent to kill the eagle which was eating out Prometheus' heart. When it was killed, Prometheus after thirty thousand years was freed from Mount Caucasus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 15 :
+     </span>
+     <br/>
+     "[Constellation] Sagitta (Arrow). This arrow, they say, is one of the weapons of Hercules, with which he is said to have killed the eagle which ate the liver of Prometheus . . . Prometheus [for stealing fire] he [Zeus] bound with an iron chain to a mountain in Scythia named Caucasus for thirty thousand years, as Aeschylus, writer of tragedies, says. Then, too, he sent an eagle to him to eat out his liver which was constantly renewed at night. Some have said that this eagle was born from Typhon and Echidna, other from Terra [Gaia the Earth] and Tartarus, but many point out it was made by the hands of Vulcanus [Hephaistos] and given life by Jove [Zeus].
+     <br/>
+     The following reason for the release of Prometheus has been handed down. When Jupiter [Zeus], moved by the beauty of Thetis, sought her in marriage, he couldn't win the consent of the timid maiden, but none the less kept planning to bring it about. At that time the Parcae [Moirai, Fates] were said to have prophesied what the natural order of events should be. They said that the son of Thetis' husband, whoever he might be, would be more famous than his father. Prometheus heard this as he kept watch, not from inclination but from necessity, and reported it to Jove. He, fearing that what he had done to his father Saturnus in a similar situation, would happened to him, namely, that he would be robbed of his power, gave up by necessity his desire to wed Thetis, and out of gratitude to Prometheus thanked him and freed him from his chains.
+     <br/>
+     But he didn't go so far as to free him from all binding, since he had sworn to that, but for commemoration bade him bind his finger with the two things, namely, with stone and with iron. Following this practice men have rings fashioned of stone and iron, that they may seem to be appeasing Prometheus . . .
+     <br/>
+     But to come back to the beginning of the inquiry and the death of the eagle. Hercules, when sent by Eurystheus for the apples of the Hesperides, out of ignorance of the way came to Prometheus, who was bound on Mount Caucasus, as we have shown above. When victor, he returned to Prometheus to tell him that that Draco we have mentioned was slain, and to thank him for his kindness since he had pointed out the way. Straightway he gave what honour he could to the one that deserved it, for he killed the eagle and since it was slain, men began, when victims were sacrificed, to offer livers on the altars of the gods to satisfy them in place of the liver of Prometheus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 6 :
+     </span>
+     <br/>
+     "[Constellation the Kneeler :] Others say he is Prometheus, bound on Mount Caucasus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 2. 1 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Release Prometheus' arms from his crag on the Caucasus and drive the Vulture away from the middle of his breast."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Hercules Furens 1206 (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[Herakles (Heracles) laments  the murder of his children :] ‘Let the Caspian crags claim my fettered body, and let the ravenous bird--Why are Prometheus' crags unoccupied? Why, the bare, steep side of Caucasus which, on its lofty summit, feeds beasts and birds of prey?’"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 4. 60 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "Latona [Leto] and Diana [Artemis] together stood mournful-eyed before Jove [Zeus], and Apollo thus supplicating speaks : ‘Until what other Alcides [Herakles (Heracles)] come, until what time indeed, great king, dost thou put off the old man of Caucasus [Prometheus]? Grantest thou no end at all of punishment and misery? The whole race of mankind beseeches thee, ay, the very mountains, worthy sire, and weary ridges with their forests supplicate thee. Sufficiently hast thou punished the theft of fire and safeguarded the secrets of the ethereal board.’
+     <br/>
+     Even as he spoke, from the crags and amidst the very ravening of the dreadful Vulture Prometheus too himself besets Jove [Zeus] with groans and piteous pleas, uplifting eyes that the cruel frosts have seared; the rivers and rocks of Caucasus redouble the loud complaint; the Bird itself is amazed at the clamour of the god. Then too from Acheron up to heaven's heights is heard the cry of Iapetus himself; sternly, as he pleads, does Erinys thrust him aside, looking to the law of lofty Jove [Zeus]. He moved by the goddesses' tears and Phoebus' [Apollon's] high renown sends down swift Iris on her rosy cloud. ‘Go,’ he says, ‘let Alcides [Herakles] put off the Phrygians and the war of Troy [to which he was heading]. Now let him rescue the Titan from the dreadful Bird.’
+     <br/>
+     Fast flies the goddess and bids the hero quickly perform his sire's commands, and pours the glad message into his eager ears."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 5. 155 ff :
+     </span>
+     <br/>
+     "The cruel resting-place of Prometheus comes into view [of the Argonauts as they approach Kolkhis (Colchis)], where Caucasus rises in the cold northern air. That day by chance had brought Alcides [Herakles (Heracles)] also thither, to change the Titan's fate; and now wrenching sturdily at the rough fetters on every side, ‘mid wreckage of the long-gathered ice, with gripping hands he had torn them from the bed-rock, towering high and with left foot bearing the weight; huge Caucasus echoes from the sound, as tree-trunks following the mountain-summit fall, and rivers are turned back from the sea. There is a crash, as though Jupiter [Zeus] has risen in might and overthrown the citadels of heaven . . . The vast length of Pontus [the Black Sea] trembled, and all the Iberian land that lies beside Armenia, and as the ocean shook to its utmost depths the Minyae [Argonauts] feared the Cyanean Rocks they had left behind. Then as the noise grew nearer the sound of the iron and the rending of the crags and the manifold travail of the mountain is heard, and the loud clamour of Prometheus while his rock-bound limbs are torn. But in their ignorance . . . his comrades proceed upon their way; only they wonder from the deep at he wide-flung snow that strews the beaches, at the cloven crags and the huge shadow of a dying bird [the Kaukasian Eagle] above them and the gory dew that drizzles through the air."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 7. 352 ff :
+     </span>
+     <br/>
+     "Gore drops from the liver of Prometheus . . . when the Vulture rises from his feasting on the flesh and from his open beak bedews the cliffs."
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 2. 298 ff (trans. Rouse) (Greek epic C5th A.D.) :
+     </span>
+     <br/>
+     "[Typhoeus boasts to Zeus of his intentions when he has seized the throne of heaven :] ‘And the soaring round Kaukasos (Caucasus), another and better eagle shall tear the bleeding liver, growing for ever anew, of Hephaistos (Hephaestus) the fiery: since fire was the for which Prometheus has been suffering the ravages of his self-growing liver.’"
+    </p>
+    <p>
+     <span class="quote-greek">
+      Nonnus, Dionysiaca 33. 355 ff :
+     </span>
+     <br/>
+     "I am Thetis . . . Father Zeus drove me from heaven and would have dragged me into marriage, but that old Prometheus stopt his desires, by prophesying that I should bear a son stronger than Kronion (Cronion) [Zeus]; he wished that Thetis' boy should not some time overpower his father and drive out Kronides as high Zeus drove out Kronos (Cronus)."
+    </p>
+    <p>
+     <span class="quote_oth">
+      Suidas s.v. Desmotes (trans. Suda On Line) (Byzantine Greek lexicon C10th A.D.) :
+     </span>
+     <br/>
+     "Desmotes (Chain-man): Both the enchained himself, like the enchained Prometheus, and the one enchaining."
+    </p>
+    <p class="see-also">
+     For MORE information on the goddess of the prophesy see
+     <a href="../Pontios/NereisThetis.html">
+      THETIS
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Io">
+     PROMETHEUS &amp; THE PROPHECY OF IO
+    </h3>
+    <p>
+     In the
+     <em>
+      Prometheus Bound
+     </em>
+     of Aiskhylos, the maiden Io--who has been transformed into a cow and set to wander tormented by gadfly--comes across Prometheus chained in the mountains of Skythia (Scythia). He proceeds to prophesy about her wanderings, arrival in Egypt, and the descendant of her line who will come to release him from his bonds.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Aeschylus, Prometheus Bound 622 ff (trans. Weir Smyth) (Greek tragedy C5th B.C.) :
+     </span>
+     <br/>
+     "Io : Tell me the end of my wandering--what time is set for wretched me.
+     <br/>
+     Prometheus : It would be better not to know than to know, in your case.
+     <br/>
+     Io : I beg you, do not hide from me what I am doomed to suffer.
+     <br/>
+     Prometheus : No, it is not that I do not want to grant your request.
+     <br/>
+     Io : Why then your reluctance to tell me everything?
+     <br/>
+     Prometheus : I am not unwilling; but I hesitate to crush your spirit.
+     <br/>
+     Io : Do not be more kind to me than I myself desire.
+     <br/>
+     Prometheus : Since you insist, I must speak. Listen, then."
+    </p>
+    <p class="see-also">
+     For MORE information on this nymph see
+     <a href="../Heroine/Io.html">
+      IO
+     </a>
+    </p>
+    <hr/>
+    <h3 id="Herb">
+     THE MAGICAL PROMETHEAN HERB
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Apollonius Rhodius, Argonautica 3. 844 ff (trans. Rieu) (Greek epic C3rd B.C.) :
+     </span>
+     <br/>
+     "She [Medea] took a magic ointment from her box. This salve was named after Prometheus. A man had only to smear it on his body, after propitiating the only-begotten Maiden [Hekate (Hecate)] with a midnight offering, to become invulnerable by sword or fire and for that day to surpass himself in strength and daring. It first appeared in a plant that sprang from the blood-like ichor of Prometheus in his torment, which the flesh-eating eagle had dropped on the spurs of Kaukasos (Caucasus). The flowers, which grew on twin stalks a cubit high, were of the colour of Korykian (Corycian) saffron, while the root looked like flesh that has just been cut, and the juice like the dark sap of a mountain oak. To make the ointment, Medea, clothed in black, in the gloom of night, had drawn off this juice in a Caspian shell after bathing in seven perennial streams and calling seven times on Brimo [Hekate], nurse of youth, Brimo, night-wanderer of the underworld, Queen of the dead. The dark earth shook and rumbled underneath the Titan root when it was cut, and Prometheus himself groaned in the anguish of his soul."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Propertius, Elegies 1. 12 (trans. Goold) (Roman elegy C1st B.C.) :
+     </span>
+     <br/>
+     "Was it a magic Promethean herb [sprung from his blood] picked to divide lovers?"
+    </p>
+    <p>
+     <span class="quote-latin">
+      Seneca, Medea 705 ff (trans. Miller) (Roman tragedy C1st A.D.) :
+     </span>
+     <br/>
+     "[The witch Medea prepares her magics :] When she had summoned forth the whole tribe of serpents, she assembled her evil store of baleful herbs. Whatever trackless Eryx produces on his rocky slopes; plants that grow on heights clothed in unbroken winter, the heights of Caucasus, spattered with Prometheus' gore."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Valerius Flaccus, Argonautica 7. 352 ff (trans. Mozley) (Roman epic C1st A.D.) :
+     </span>
+     <br/>
+     "She [Medea] prays to Hecate to send her now more potent spells and mightier powers, nor abides contented with the drugs she knew. Then she girds up her robe and takes forth a Caucasian herb, of potency sure beyond all others, sprung of the gore that dropped from the liver of Prometheus, and grass wind-nurtured, fostered and strengthened by that blood divine among snows and grisly frosts, when the Vulture rises from his feasting on the flesh and from his open beak bedews the cliffs. That flower knows not the languor of life, but stands, immortally fresh, against the thunderbolt, and in the midst of lightnings its leaves are green. Hecate first, plying a blade that Stygian springs hardened, tore forth the strong stalk from the rocks; then showed she the plant to her handmaid [Medea], who beneath the tenth shining of Phoebe's [Selene the Moon's] light reaps the harvest of the mountain-side and rages madly among all the gory relics of the god; fruitlessly doth he groan, beholding the face of the Colchian maid; then over all the mountain pain contracts his limbs, and all his fetters shake beneath her sickle [Prometheus suffers anguish when the plant sprung from his blood is gathered]."
+     <span class="quote-greek">
+     </span>
+    </p>
+    <hr/>
+    <h3 id="Constellation">
+     PROMETHEUS &amp; THE CONSTELLATION KNEELER
+    </h3>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 6 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Kneeler [i.e. the constellation now called ‘Hercules’]. Others say he is Prometheus, bound on Mt. Caucasus."
+    </p>
+    <hr/>
+    <h3 id="Comedy">
+     PROMETHEUS IN COMEDY
+    </h3>
+    <p>
+     <span class="quote-greek">
+      Aristophanes, Birds 1494 ff (trans. O'Neill) (Greek comedy C5th to 4th B.C.) :
+     </span>
+     <br/>
+     "[Play in which the Birds have built a city in the air depriving the gods access to the earth:] 
+  (Prometheus enters, masked to conceal his identity.)
+     <br/>
+     Prometheus : Ah! by the gods! if only Zeus does not espy me! Where is Pisthetairos [leader of the birds revolt]?
+     <br/>
+     Pisthetairos : Ha! what is this? A masked man!
+     <br/>
+     Prometheus : Can you see any god behind me?
+     <br/>
+     Pisthetairos : No, none. But who are you, pray?
+     <br/>
+     Prometheus : What's the time, please?
+     <br/>
+     Pisthetairos : The time? Why, it's past noon. Who are you?
+     <br/>
+     Prometheus : Is it the fall of day? Is it no later than that?
+     <br/>
+     Pisthetairos : This is getting dull!
+     <br/>
+     Prometheus : What is Zeus doing? Is he dispersing the clouds or gathering them?
+     <br/>
+     Pisthetairos : Watch out for yourself!
+     <br/>
+     Prometheus : Come, I will raise my mask.
+     <br/>
+     Pisthetairos : Ah! my dear Prometheus!
+     <br/>
+     Prometheus : Sh! Sh! speak lower!
+     <br/>
+     Pisthetairos : Why, what's the matter, Prometheus?
+     <br/>
+     Prometheus : Sh! sh! Don't call me by my name; you will be my ruin, if Zeus should see me here. But, if you want me to tell you how things are going in heaven, take this umbrella and shield me, so that the gods don't see me.
+     <br/>
+     Pisthetairos : I can recognize Prometheus in this cunning trick. Come, quick then, and fear nothing; speak on.
+     <br/>
+     Prometheus : Then listen.
+     <br/>
+     Pisthetairos : I am listening, proceed!
+     <br/>
+     Prometheus : Zeus is done for.
+     <br/>
+     Pisthetairos : Ah! and since when, pray?
+     <br/>
+     Prometheus : Since you founded this city in the air. There is not a man who now sacrifices to the gods, the smoke of the victims no longer reaches us. Not the smallest offering comes! We fast as though it were the festivall of Demeter. The barbarian gods, who are dying of hunger, are bawling like Illyrians and threaten to make an armed descent upon Zeus, if he does not open markets where joints of the victims are sold.
+     <br/>
+     Pisthetairos : What! there are other gods besides you, barbarian gods who dwell above Olympus?
+     <br/>
+     Prometheus : If there were no barbarian gods, who would be the patron of Execestides?
+     <br/>
+     Pisthetairos : And what is the name of these gods?
+     <br/>
+     Prometheus : Their name? Why, the Triballoi.
+     <br/>
+     Pisthetairos : Ah, indeed! 'tis from that no doubt that we derive the word ‘tribulation’.
+     <br/>
+     Prometheus : Most likely. But one thing I can tell you for certain, namely, that Zeus and the celestial Triballoi are going to send deputies here to sue for peace. Now don't you treat with them, unless Zeus restores the sceptre to the birds and gives you Basileia (Princess) in marriage.
+     <br/>
+     Pisthetairos : Who is this Basileia?
+     <br/>
+     Prometheus : A very fine young damsel, who makes the lightning for Zeus; all things come from her, wisdom, good laws, virtue, the fleet, calumnies, the public paymaster and the triobolus.
+     <br/>
+     Pisthetairos : Ah! then she is a sort of general manageress to the god.
+     <br/>
+     Prometheus : Yes, precisely. If he gives you her for your wife, yours will be the almighty power. That is what I have come to tell you; for you know my constant and habitual goodwill towards men.
+     <br/>
+     Pisthetairos : Oh, yes! it's thanks to you that we roast our meat.
+     <br/>
+     Prometheus : I hate the gods, as you know.
+     <br/>
+     Pisthetairos : Aye, by Zeus, you have always detested them.
+     <br/>
+     Prometheus : Towards them I am a veritable Timon; but I must return in all haste, so give me the umbrella; if Zeus should see me from up there, he would think I was escorting one of the Kanephoroi (Canephori).
+     <br/>
+     Pisthetairos : Wait, take this stool as well. 
+  (Prometheus leaves.)"
+    </p>
+    <hr size="1"/>
+    <h3 id="Cult">
+     CULT OF PROMETHEUS
+    </h3>
+    <h4>
+     GENERAL CULT PRACTICES &amp; TRADITIONS
+    </h4>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astronomica 2. 15 (trans. Grant) (Roman mythographer C2nd A.D.) :
+     </span>
+     <br/>
+     "Prometheus . . . planned by his own efforts to bring back the fire that had been taken from men. So, when the others were away, he approached the fire of Jove [Zeus], and with a small bit of this shut in a fennel-stalk he came joyfully . . . In the rivalry of the games they also make it a practice for the runners to run, shaking torches after the manner of Prometheus."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Pseudo-Hyginus, Astromomica 2. 15 :
+     </span>
+     <br/>
+     "Prometheus he bound with an iron chain to a mountain in Scythia named Caucasus . . . [but later] freed him from his chains. But he didn't go so far as to free him from all binding, since he had sworn to that, but for commemoration bade him bind his finger with the two things, namely, with stone and with iron. Following this practice men have rings fashioned of stone and iron, that they may seem to be appeasing Prometheus. Some also have said that he wore a wreath, as if to claim that he as victor had sinned without punishment. And so men began the practice of wearing wreaths at times of great rejoicing and victory. You may observe this in sports and banquets."
+    </p>
+    <p>
+     <span class="quote-latin">
+      Hyginus, Astromomica 2. 15 :
+     </span>
+     <br/>
+     "[Herakles] killed the eagle [which fed on the liver of Prometheus] and since it was slain, men began, when victims were sacrificed, to offer livers on the altars of the gods to satisfy them in place of the liver of Prometheus."
+    </p>
+    <p>
+     See also the story of Prometheus and the division of the sacrificial feast (above) for the role attributed him in the first sacrifice to the gods.
+    </p>
+    <h4>
+     I. ATHENS Chief City of Attica (Attika) (Southern Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 1. 30. 2 (trans. Jones) (Greek travelogue C2nd A.D.) :
+     </span>
+     <br/>
+     "In the Akademia [the Academy outside Athens] is an altar to Prometheus, and from it they run to the city carrying burning torches. The contest is while running to keep the torch still alight; if the torch of the first runner goes out, he has no longer any claim to victory, but the second runner has. If his torch also goes out, then the third man is the victor. If all the torches go out, no one is left to be the winner."
+    </p>
+    <h4>
+     II. ARGOS Chief City of Argolis (Southern Greece)
+    </h4>
+    <p>
+     The Argives possessed a tomb of Prometheus, where they honoured him as a dead hero.
+    </p>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 19. 8 :
+     </span>
+     <br/>
+     "As to the tomb of Prometheus, their account seems to me to be less probable than that of the Opountians (Opuntians) [who also claimed a grave], but they hold to it nevertheless."
+    </p>
+    <h4>
+     III. PANOPEUS Town in Phocis (Phokis) (Central Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 10. 4. 4 :
+     </span>
+     <br/>
+     "At Panopeus [in Phokis] there is by the roadside a small building of unburnt brick, in which is an image of Pentelic marble, said by some to be Asklepios (Asclepius), by others Prometheus. The latter produce evidence of their contention. At the ravine there lie two stones, each of which is big enough to fill a cart. They have the colour of clay, not earthly clay, but such as would be found in a ravine or sandy torrent, and they smell very like the skin of a man. They say that these are remains of the clay out of which the whole race of man was fashioned by Prometheus."
+    </p>
+    <h4>
+     IV. OPOUS Chief City of Lokris (Central Greece)
+    </h4>
+    <p>
+     <span class="quote-greek">
+      Pausanias, Description of Greece 2. 19. 8 :
+     </span>
+     <br/>
+     "As to the tomb of Prometheus, their [the Argives] account seems to me to be less probable than that of the Opountians (Opuntians) [who also claimed the grave], but they hold to it nevertheless."
+    </p>
+    <hr/>
+    <div class="video-ads">
+     <div id="div-gpt-ad-1534358649203-0" style="height:438px; width:643px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534358649203-0'); });
+      </script>
+     </div>
+     <div id="div-gpt-ad-1534358677220-0" style="height:250px; width:300px; margin: 10px auto;">
+      <script>
+       googletag.cmd.push(function() {googletag.display('div-gpt-ad-1534358677220-0'); });
+      </script>
+     </div>
+    </div>
+    <h2 id="Gallery">
+     ANCIENT GREEK &amp; ROMAN ART
+    </h2>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T20.1.html">
+        <img alt="Thumbnail Atlas &amp; Prometheus" src="../image/thumbT20.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T20.1 Atlas &amp; Prometheus
+        </h3>
+        <p>
+         Laconian Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T20.1C.html">
+        <img alt="Thumbnail Prometheus Bound &amp; Eagle" src="../image/thumbT20.1C.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T20.1C Prometheus Bound &amp; Eagle
+        </h3>
+        <p>
+         Laconian Black  Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T21.5.html">
+        <img alt="Thumbnail Prometheus, Heracles, Eagle" src="../image/thumbT21.5.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T21.5 Prometheus, Heracles, Eagle
+        </h3>
+        <p>
+         Athenian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T21.3.html">
+        <img alt="Thumbnail Prometheus Bound &amp; Eagle" src="../image/thumbT21.3.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T21.3 Prometheus Bound &amp; Eagle
+        </h3>
+        <p>
+         Laconian Black Figure Vase Painting C6th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row thumbnails-row">
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T21.1.html">
+        <img alt="Thumbnail Prometheus &amp; Hera" src="../image/thumbT21.1.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T21.1 Prometheus &amp; Hera
+        </h3>
+        <p>
+         Athenian Red Figure Vase Painting C5th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/T21.4.html">
+        <img alt="Thumbnail Prometheus, Heracles, Eagle" src="../image/thumbT21.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         T21.4 Prometheus, Heracles, Eagle
+        </h3>
+        <p>
+         Apulian Red Figure Vase Painting C4th B.C.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+      <div class="thumbnail">
+       <a href="../Gallery/Z16.4.html">
+        <img alt="Thumbnail Prometheus, Gaea, Hermes" src="../image/thumbZ16.4.jpg"/>
+       </a>
+       <div class="caption">
+        <h3>
+         Z16.4 Prometheus, Gaea, Hermes
+        </h3>
+        <p>
+         Greco-Roman Damascus Floor Mosaic A.D.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Sources" -->
+    <h2 id="Sources">
+     SOURCES
+    </h2>
+    <h3>
+     GREEK
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HesiodTheogony.html">
+       Hesiod, Theogony
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodWorksDays.html">
+       Hesiod, Works and Days
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HesiodCatalogues.html">
+       Hesiod, Catalogues of Women Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 7th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HomericHymns1.html">
+       The Homeric Hymns
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/EpicCycle.html">
+       Epic Cycle, Titanomachia Fragments
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C8th B.C.
+      </span>
+     </li>
+     <li>
+      Aesop, Fables
+      <span class="sources-detail">
+       - Greek Fables C6th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Odes
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Pindar, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C5th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric I Sappho, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric III Ibycus, Fragments
+      <span class="sources-detail">
+       - Greek Lyric C6th B.C.
+      </span>
+     </li>
+     <li>
+      Greek Lyric V Melanippides, Fragments
+      <span class="sources-detail">
+       - Greek Lyric B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Prometheus Bound
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aeschylus, Fragments
+      <span class="sources-detail">
+       - Greek Tragedy C5th B.C.
+      </span>
+     </li>
+     <li>
+      Aristophanes, Birds
+      <span class="sources-detail">
+       - Greek Comedy C5th - 4th B.C.
+      </span>
+     </li>
+     <li>
+      Herodotus, Histories
+      <span class="sources-detail">
+       - Greek History C5th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Gorgias
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Philebus
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Protagoras
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Plato, Statesman
+      <span class="sources-detail">
+       - Greek Philosophy C4th B.C.
+      </span>
+     </li>
+     <li>
+      Apollodorus, The Library
+      <span class="sources-detail">
+       - Greek Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Apollonius Rhodius, The Argonautica
+      <span class="sources-detail">
+       - Greek Epic C3rd B.C.
+      </span>
+     </li>
+     <li>
+      Callimachus, Fragments
+      <span class="sources-detail">
+       - Greek Poetry C3rd B.C.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/DiodorusSiculus4A.html">
+       Diodorus Siculus, The Library of History
+      </a>
+      <span class="sources-detail">
+       - Greek History C1st B.C.
+      </span>
+     </li>
+     <li>
+      Strabo, Geography
+      <span class="sources-detail">
+       - Greek Geography C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/Pausanias1A.html">
+       Pausanias, Description of Greece
+      </a>
+      <span class="sources-detail">
+       - Greek Travelogue C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Aelian, On Animals
+      <span class="sources-detail">
+       - Greek Natural History C2nd - 3rd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/PhilostratusElder1A.html">
+       Philostratus the Elder, Imagines
+      </a>
+      <span class="sources-detail">
+       - Greek Rhetoric C3rd A.D.
+      </span>
+     </li>
+     <li>
+      Philostratus, Life of Apollonius of Tyana
+      <span class="sources-detail">
+       - Greek Biography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/QuintusSmyrnaeus1.html">
+       SQuintus Smyrnaeus, Fall of Troy
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C4th A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/NonnusDionysiaca1.html">
+       Nonnus, Dionysiaca
+      </a>
+      <span class="sources-detail">
+       - Greek Epic C5th A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     ROMAN
+    </h3>
+    <ul class="sources">
+     <li>
+      <a href="../Text/HyginusFabulae1.html">
+       Hyginus, Fabulae
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/HyginusAstronomica.html">
+       Hyginus, Astronomica
+      </a>
+      <span class="sources-detail">
+       - Latin Mythography C2nd A.D.
+      </span>
+     </li>
+     <li>
+      Ovid, Metamorphoses
+      <span class="sources-detail">
+       - Latin Epic C1st B.C. - C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/VirgilGeorgics1.html">
+       Virgil, Georgics
+      </a>
+      <span class="sources-detail">
+       - Latin Bucolic C1st B.C.
+      </span>
+     </li>
+     <li>
+      Propertius, Elegies
+      <span class="sources-detail">
+       - Latin Elegy C1st B.C.
+      </span>
+     </li>
+     <li>
+      Pliny the Elder, Natural History
+      <span class="sources-detail">
+       - Latin Encyclopedia C1st A.D
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaHerculesFurens.html">
+       Seneca, Hercules Furens
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/SenecaMedea.html">
+       Seneca, Medea
+      </a>
+      <span class="sources-detail">
+       - Latin Tragedy C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/ValeriusFlaccus1.html">
+       Valerius Flaccus, The Argonautica
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+     <li>
+      <a href="../Text/StatiusThebaid1.html">
+       Statius, Thebaid
+      </a>
+      <span class="sources-detail">
+       - Latin Epic C1st A.D.
+      </span>
+     </li>
+    </ul>
+    <h3>
+     BYZANTINE
+    </h3>
+    <ul class="sources">
+     <li>
+      Suidas, The Suda
+      <span class="sources-detail">
+       - Byzantine Greek Lexicon C10th A.D.
+      </span>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <h3>
+     BIBLIOGRAPHY
+    </h3>
+    <p>
+     <a href="../Bibliography.html">
+      A complete bibliography of the translations quoted on this page.
+     </a>
+    </p>
+   </main>
+   <aside class="col-md-4 col-xs-12" id="sidebar">
+    <div id="sidebar-top-dynamic">
+     <div class="proper-ad-unit" style="height:600px;">
+      <div id="proper-ad-theoi_side_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <form action="https://www.google.com" id="cse-search-box">
+     <div>
+      <input name="cx" type="hidden" value="partner-pub-4620319056007131:6471644432"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input name="q" size="30" type="text"/>
+      <input name="sa" type="submit" value="Search Theoi.com"/>
+     </div>
+    </form>
+    <script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+    <!-- InstanceBeginEditable name="Summary" -->
+    <h2>
+     PROMETHEUS SUMMARY
+    </h2>
+    <table border="1" class="summary-table">
+     <caption>
+      THE TITAN PROMETHEUS
+     </caption>
+     <tbody>
+      <tr>
+       <th scope="row">
+        Parents
+       </th>
+       <td>
+        Iapetus and Clymene
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Wife
+       </th>
+       <td>
+        Pronoea, Hesione
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        God of
+       </th>
+       <td>
+        Forethought, crafty counsel
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="Index" -->
+    <h2>
+     PROMETHEUS PAGE INDEX
+    </h2>
+    <ul class="page-index">
+     <li>
+      <a href="#Family">
+       Family of Prometheus
+      </a>
+     </li>
+     <li>
+      <a href="#Gallery">
+       Gallery
+      </a>
+     </li>
+     <li>
+      <a href="#Encyclopedia">
+       Encyclopedia Entry
+      </a>
+     </li>
+     <li>
+      <a href="#Sources">
+       Sources
+      </a>
+     </li>
+     <li>
+      <a href="#Parentage">
+       Parentage of Prometheus
+      </a>
+     </li>
+     <li>
+      <a href="#Children">
+       Father of Deucalion (Deukalion)
+      </a>
+     </li>
+     <li>
+      <a href="#Story">
+       Summary of the Prometheus Myth
+      </a>
+     </li>
+     <li>
+      <a href="#Titanes">
+       Prometheus &amp; the Titan-War
+      </a>
+     </li>
+     <li>
+      <a href="#Athene">
+       Prometheus &amp; the Birth of Athena
+      </a>
+     </li>
+     <li>
+      <a href="#Creation">
+       Creation of Animals &amp; Men
+      </a>
+     </li>
+     <li>
+      <a href="#Death">
+       Gift of  Foresight of Death
+      </a>
+     </li>
+     <li>
+      <a href="#Fire">
+       The Theft of Fire
+      </a>
+     </li>
+     <li>
+      <a href="#Sacrifices">
+       The Sacrificial Share
+      </a>
+     </li>
+     <li>
+      <a href="#Bound">
+       Chaining of Prometheus
+      </a>
+     </li>
+     <li>
+      <a href="#Io">
+       Prometheus &amp; the Prophecy of Io
+      </a>
+     </li>
+     <li>
+      <a href="#Herb">
+       Magical Promethean Herb
+      </a>
+     </li>
+     <li>
+      <a href="#Constellation">
+       Constellation Kneeler
+      </a>
+     </li>
+     <li>
+      <a href="#Comedy">
+       Prometheus in Comedy
+      </a>
+     </li>
+     <li>
+      <a href="#Cult">
+       Cult of Prometheus
+      </a>
+     </li>
+    </ul>
+    <!-- InstanceEndEditable -->
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="sidebar-bottom-dynamic">
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_2">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_2'); });
+       </script>
+      </div>
+     </div>
+     <h2>
+      <a href="/articles/">
+       RECENT ARTICLES
+      </a>
+     </h2>
+     <p>
+      <a href="/articles/was-achilles-a-warrior/">
+       Who Was Achilles A Warrior?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/what-were-the-12-labors-of-hercules/">
+       What Were The 12 Labors of Hercules?
+      </a>
+     </p>
+     <p>
+      <a href="/articles/significance-of-greek-mythology-fire/">
+       Gods, Spirits &amp; Monsters A - Z
+      </a>
+     </p>
+     <br/>
+     <div class="proper-ad-unit">
+      <div id="proper-ad-theoi_side_3">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_side_3'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </aside>
+   <footer>
+    <div id="footer-top-dynamic">
+     <br/>
+     <!--<div style="margin: 20px 0; text-align: center;">
+	<div id="waldo-tag-1792"></div>
+</div>-->
+    </div>
+    <div style="margin: 10px 0; text-align: center;">
+    </div>
+    <div id="border-footer">
+     .
+    </div>
+    <p>
+     Theoi Project © Copyright 2000 - 2017 Aaron J. Atsma, Netherlands &amp; New Zealand
+    </p>
+    <div class="footer-contact">
+     <a href="/contact.php">
+      Contact Us
+     </a>
+    </div>
+    <div id="footer-bottom-dynamic">
+     <br/>
+     <br/>
+     <br/>
+     <!--<div id="waldo-tag-3717"></div>-->
+     <div class="proper-ad-unit ad-sticky">
+      <div id="proper-ad-theoi_sticky_1">
+       <script>
+        propertag.cmd.push(function() { proper_display('theoi_sticky_1'); });
+       </script>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../js/jquery-1.11.3.min.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../js/bootstrap.js">
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>
