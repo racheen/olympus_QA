@@ -3,6 +3,20 @@
 /texts
 /wikipedia_data
 /theoi_data
+/theoi_data1
+/theoi_data2
+/theoi_data3
+/theoi_data4
 /theoi_urls
 /.ipynb_checkpoints
 /Basic_QA_Pipeline_haystack_week10.ipynb
+/fine_tuned_reader
+documents.json
+documents2.json
+documents3.json
+pipeline2.ipynb
+assn2_final_deliverables.zip
+data_extract.ipynb
+/final deliverables
+/reader
+
